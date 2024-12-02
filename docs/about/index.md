@@ -49,7 +49,7 @@ authors: [wenchiehlee]
   <div class="links-content"> 
     <div class="link-navigation"> 
      <div class="card"> 
-     <img class="ava" src="https://squidfunk.github.io/mkdocs-material/" /> 
+     <img class="ava" src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/logo.svg" /> 
      <div class="card-header"> 
       <div> 
        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Materials for Mkdocs</a> 
