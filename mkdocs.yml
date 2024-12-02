@@ -46,7 +46,7 @@ theme:
         name: Switch to light mode
   language: zh-TW # 一些提示性的文字會變成中文
   features:
-    - announce.dismiss #呈現可標記為由使用者讀取的臨時公告，可以包含一個用於取消當前公告的按鈕
+    #- announce.dismiss #呈現可標記為由使用者讀取的臨時公告，可以包含一個用於取消當前公告的按鈕
     - content.action.edit
     - content.action.view
     - content.code.annotate
