@@ -1,7 +1,7 @@
 ---
-icon: material/home-circle
+icon: material/Stacked Bar Chart
 ---
-# Wen-Chieh Lee的投資
+# Wen-Chieh Lee的投資堆疊
 
 ## Overview
 
