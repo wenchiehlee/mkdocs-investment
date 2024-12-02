@@ -151,7 +151,7 @@ extra:
   generator: true #是否刪除頁尾顯示“使用 MkDocs 材料製造”
   analytics:
     provider: google #谷歌分析
-    property:
+    property: G-913Z6DSVD2
     # 網頁底部反饋
     feedback:
       title: 此頁面有幫助嗎？
