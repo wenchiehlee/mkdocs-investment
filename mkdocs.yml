@@ -152,7 +152,7 @@ extra:
   generator: true #是否刪除頁尾顯示“使用 MkDocs 材料製造”
   analytics:
     provider: google #谷歌分析
-    property: G-913Z6DSVD2
+    property: !ENV GOOGLE_ANALYTICS_KEY
     # 網頁底部反饋
     feedback:
       title: 此頁面有幫助嗎？
@@ -190,8 +190,6 @@ extra:
 
 # Extensions
 markdown_extensions: #詳見https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/ 和 https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/
-  - markdown_include.include:
-      base_path: docs
   - abbr
   - admonition
   - attr_list
@@ -199,8 +197,12 @@ markdown_extensions: #詳見https://squidfunk.github.io/mkdocs-material/setup/ex
   #     guess_lang=false
   - def_list
   - footnotes
+  - markdown_include.include:
+      base_path: docs
   - md_in_html
   - meta # 支援Markdown檔案上方自定義標題標簽等
+  - neoteroi.cards
+  - neoteroi.timeline
   - toc:
       permalink: true
   - pymdownx.arithmatex:
@@ -272,6 +274,8 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mermaid@10.0.2/dist/add-html-label-6e56ed67.min.js #忘了
 
 extra_css:
+  - stylesheets/timeline.css
+  - stylesheets/cards.css
   - stylesheets/extra.css # 自定義CSS
   - stylesheets/link.css #友鏈配置
   - stylesheets/customize.css # 搜尋圓角最佳化
