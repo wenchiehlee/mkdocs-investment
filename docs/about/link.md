@@ -11,11 +11,11 @@ title: 友鏈
 
 # 友鏈
 
-::cards:: cols=6 class_name="bigger"
+::cards:: cols=4 class_name="bigger"
 
 - title: Wen-Chieh Lee
   content: Works related stuffs
-  image: https://wenchiehlee.github.io/mkdocs/
+  image: https://wenchiehlee.github.io/mkdocs/assets/images/w-blue.png
   url: https://wenchiehlee.github.io/mkdocs/
 
 - title: Wen-Chieh Lee的生活
@@ -38,7 +38,7 @@ title: 友鏈
 
 # Useful Links
 
-::cards:: cols=6 class_name="bigger"
+::cards:: cols=4 class_name="bigger"
 
 - title: Zeus
   content: Lorem ipsum dolor sit amet.
