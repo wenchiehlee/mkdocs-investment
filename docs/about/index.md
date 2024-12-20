@@ -1,76 +1,75 @@
 ---
+authors: [wenchiehlee]
 date: 2024-08-17
 draft: true
 icon: material/face-man
-authors: [wenchiehlee]
+hide:
+  - feedback
+  - footer
+  - navigation # 顯示右
+  - toc # 顯示左
 ---
 # About the teams
 
-投資堆疊 (Investment Stack) 是一個概念，指的是用於管理投資的分層架構或方法。這個詞語來自軟體開發領域的「技術堆疊」概念，延伸到投資領域，用來描述投資者用於做出決策和管理資金的工具、策略與資源的組合.
+投資堆疊（Investment Stack）的概念，軟體開發中的「技術堆疊」轉化為投資領域，描繪投資者在決策與資金管理中，運用的AI工具、策略與資源的完美組合。
 
-<div class="grid cards" markdown>
+::cards:: cols=3 
 
--   __[wenchiehlee](https://github.com/wenchiehlee)__
+- title: Wen-Chieh Lee
+  content: Senior Software Architect
+  image: https://github.com/wenchiehlee.png
+  url: https://github.com/wenchiehlee
 
-    Wen-Chieh Lee 
+- title: Andy Lee
+  content: AI Developer
+  image: https://github.com/andylee-me.png
+  url: https://github.com/andylee-me
 
-    Senior Software Architect
+- title: Kohsin Lee 
+  content: Software/AI Developer
+  image: https://github.com/kohsin520.png
+  url: https://github.com/andylee-me.png
+::/cards::
 
-    ---
+--------------------
 
-    [![](https://github.com/wenchiehlee.png){align=middle width=250}](https://github.com/wenchiehlee)
+# Timeline 
 
--   __[andylee-me](ttps://github.com/andylee-me)__
-    
-    Andy Lee 
-    
-    AI Developer
+::timeline:: class="epic-timeline"
 
-    ---
+- content: 本站開幕
+  icon: 'https://www.neoteroi.dev/mkdocs-plugins/img/icons/001-zeus.png'
+  sub_title: 2024-11
+  title: 開幕
+- content: 第一篇文章
+  icon: 'https://www.neoteroi.dev/mkdocs-plugins/img/icons/003-athena.png'
+  sub_title: 2024-12
+  title: 開幕
 
-    [![](https://github.com/andylee-me.png){align=middle width=250}](https://github.com/andylee-me)
+::/timeline::
 
--   __[kohsin520](https://github.com/kohsin520)__
-    
-    Kohsin Lee 
-    
-    Software/AI Developer
+--------------------
 
-    ---
+# Credits
 
-    [![](https://github.com/kohsin520.png){align=middle width=250}](https://github.com/kohsin520)
+This web built based on the helps below.
 
-</div>
+::cards:: cols=6 
 
-# Credit
+- title: Mkdocs for Materials
+  content: Documentation that simply works
+  image: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/logo.svg
+  url: https://squidfunk.github.io/mkdocs-material/
 
-<div id="rcorners4" >
+- title: Wcowin's Web
+  content: 循此苦旅，以達星辰
+  image: https://s2.loli.net/2024/02/01/gaE47y5fKM6kosV.png
+  url: https://wcowin.work/ 
 
-  <div class="links-content"> 
-    <div class="link-navigation"> 
-     <div class="card"> 
-     <img class="ava" src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/logo.svg" /> 
-     <div class="card-header"> 
-      <div> 
-       <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Materials for Mkdocs</a> 
-      </div> 
-      <div class="info">
-        Documentation that simply works
-      </div> 
-     </div> 
-    </div> 
-    <div class="card"> 
-     <img class="ava" src="https://s2.loli.net/2024/02/01/gaE47y5fKM6kosV.png" /> 
-     <div class="card-header"> 
-      <div> 
-       <a href="https://wcowin.work/ " target="_blank">Wcowin's Web</a> 
-      </div> 
-      <div class="info">
-       “循此苦旅，以達星辰”
-      </div> 
-     </div> 
-    </div>
-   </div> 
-  </div>
+- title: neoteroi-mkdocs
+  content: Plugins for MkDocs
+  image: https://avatars.githubusercontent.com/u/72765587?s=200&v=4
+  url: https://www.neoteroi.dev/mkdocs-plugins/ 
 
-<br>
+
+::/cards::

@@ -1,4 +1,4 @@
-#.github/workflows/sync-up.yaml
+#.github/workflows/sync-up.yml
 name: Sync Common Code
 on:
   pull_request:
