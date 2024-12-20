@@ -54,7 +54,7 @@ hide:
 
 This web built based on the helps below.
 
-::cards:: cols=6 
+::cards:: cols=4 
 
 - title: Mkdocs for Materials
   content: Documentation that simply works

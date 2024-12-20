@@ -33,7 +33,7 @@ theme:
       IOT:      material/devices
   palette:
     - scheme: default
-      primary: black      
+      primary: black
       accent:  deep purple
       toggle:
         icon: material/brightness-7

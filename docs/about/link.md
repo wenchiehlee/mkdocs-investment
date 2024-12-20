@@ -1,65 +1,77 @@
 ---
-title: 友鏈
-icon: material/link
 comments: false
 hide:
-#   - navigation # 顯示右
-#   - toc #顯示左
-  - footer
   - feedback
+  - footer
+  - navigation # 顯示右
+  - toc # 顯示左
+icon: material/link
+title: 友鏈
 ---
 
-<!-- <head>
-<script>
-function _howxm(){_howxmQueue.push(arguments)}
-window._howxmQueue=window._howxmQueue||[];
-_howxm('setAppID','14429fca-cac1-4551-a472-b046a96ebb75');
-(function(){var scriptId='howxm_script';
-if(!document.getElementById(scriptId)){
-var e=document.createElement('script'),
-t=document.getElementsByTagName('script')[0];
-e.setAttribute('id',scriptId);
-e.type='text/javascript';e.async=!0;
-e.src='https://static.howxm.com/sdk.js';
-t.parentNode.insertBefore(e,t)}})();
-</script>
-</head> -->
+# 友鏈
 
-<!-- <div class="markdown-content">
-    <h2>歡迎加入友鏈(不分先後)</h2>
-</div> -->
+::cards:: cols=6 class_name="bigger"
 
-# 歡迎加入友鏈
-<div id="rcorners4" >
+- title: Wen-Chieh Lee
+  content: Works related stuffs
+  image: https://wenchiehlee.github.io/mkdocs/
+  url: https://wenchiehlee.github.io/mkdocs/
 
-  <div class="links-content"> 
-   <div class="link-navigation"> 
-    <div class="card"> 
-     <img class="ava" src="https://github.com/google/material-design-icons/blob/master/png/device/60fps/materialiconstwotone/48dp/2x/twotone_60fps_black_48dp.png?raw=true" /> 
-     <div class="card-header"> 
-      <div> 
-       <a href="https://xx" target="_blank">xx</a> 
-      </div> 
-      <div class="info">
-       xx
-      </div> 
-     </div> 
-    </div>
-   <div class="card"> 
-     <img class="ava" src="https://github.com/google/material-design-icons/blob/master/png/device/4g_mobiledata/materialiconssharp/48dp/2x/sharp_4g_mobiledata_black_48dp.png?raw=true" /> 
-     <div class="card-header"> 
-      <div> 
-       <a href="https://xxxx" target="_blank">xxxx</a> 
-      </div> 
-      <div class="info">
-        xxxx
-      </div> 
-     </div> 
-    </div> 
-   </div> 
-  </div>
+- title: Wen-Chieh Lee的生活
+  content: 種植, 養殖, 釀
+  image: https://wenchiehlee.github.io/mkdocs-life/assets/images/w.png
+  url: https://wenchiehlee.github.io/mkdocs-life/
+
+- title: Wen-Chieh Lee的投資堆疊
+  content: 用於管理投資的分層架構或方法..
+  image: https://wenchiehlee.github.io/mkdocs-investment/assets/images/w-purple.png
+  url: https://wenchiehlee.github.io/mkdocs-investment/
+
+- title: wenchiehlee.synology.me
+  content: Techs related stuffs to Synology NAS
+  image: https://wenchiehlee.synology.me/assets/images/w-red.png
+  url: https://wenchiehlee.synology.me/
 
 
-<br>
+::/cards::
 
+# Useful Links
+
+::cards:: cols=6 class_name="bigger"
+
+- title: Zeus
+  content: Lorem ipsum dolor sit amet.
+  image: https://www.neoteroi.dev/mkdocs-plugins/img/icons/001-zeus.png
+  url: https://en.wikipedia.org/wiki/Zeus
+
+- title: Athena
+  content: Lorem ipsum dolor sit amet.
+  image: https://www.neoteroi.dev/mkdocs-plugins/img/icons/003-athena.png
+
+- title: Poseidon
+  content: Lorem ipsum dolor sit amet.
+  image: https://www.neoteroi.dev/mkdocs-plugins/img/icons/007-poseidon.png
+
+- title: Artemis
+  content: Lorem ipsum dolor sit amet.
+  image: https://www.neoteroi.dev/mkdocs-plugins/img/icons/021-artemis.png
+
+- title: Ares
+  content: Lorem ipsum dolor sit amet.
+  image: https://www.neoteroi.dev/mkdocs-plugins/img/icons/006-ares.png
+
+- title: Nike
+  content: Lorem ipsum dolor sit amet.
+  image: https://www.neoteroi.dev/mkdocs-plugins/img/icons/027-nike.png
+
+- title: 60fps
+  content: Lorem ipsum dolor sit amet.
+  image: https://github.com/google/material-design-icons/blob/master/png/device/60fps/materialiconstwotone/48dp/2x/twotone_60fps_black_48dp.png?raw=true
+
+- title: 4G
+  content: Lorem ipsum dolor sit amet.
+  image: https://github.com/google/material-design-icons/blob/master/png/device/4g_mobiledata/materialiconssharp/48dp/2x/sharp_4g_mobiledata_black_48dp.png?raw=true
+
+::/cards::
 
