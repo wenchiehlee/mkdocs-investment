@@ -9,13 +9,13 @@ on:
     branches:
       - main
 jobs:
-  sync_backup_workflow:
+  sync-backup-workflow:
     runs-on: ubuntu-latest
     #if: github.event.pull_request.merged == true
     steps:
       - uses: actions/checkout@v2
 
-      - name: Sync Up
+      - name: Sync up
         uses: BetaHuhn/repo-file-sync-action@latest
         with:
           GH_PAT: ${{ secrets.REPO_FILE_SYNC_ACTION_DEPLOYMENTS }}
