@@ -1,9 +1,9 @@
-/* :root > * {
+:root > * {
   --md-primary-fg-color:        #518FC1;
   --md-primary-fg-color--light:#518FC1;
   --md-primary-fg-color--dark:  #518FC1;
     
-} */
+} 
 /* 給所有元素加上邊框 */
 /* * {
   outline: 1px solid #518FC1;
@@ -37,8 +37,8 @@ border-radius: 25px;
 
 }
 
-img.twitter {
-  color: #1DA1F2;
+.iconcolor {
+  color: #9b0bd3;
 }
 .bilibili {
   color: #EA7A99;
