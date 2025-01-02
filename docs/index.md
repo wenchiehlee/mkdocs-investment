@@ -6,6 +6,8 @@ icon: material/Stacked Bar Chart
 ## :material-post-outline:{ .iconcolor title="Overview" } Overview 
 
 <figure markdown="span">
-  [![](https://www.plantuml.com/plantuml/svg/RP71IWD138RlynGHBxfBGV7WjLkBKcXfeRs9XpWJfiFk9cicQ-tRkuhAqffBmlzzy1yopOPgRUBGOkVSXUsf9J0vkcsTk4F55ZAzzSIUAbKvxFR9rqmvmvtBVye6rP9F7R9jC8J44Uv7U2OVl_7jpIX7Rw9REpO4UA0iBOtWaY9nc8a6qlzRNz7NKQNdy22DA9WYvm4HcnkcVBvSKKXzk-crQ-W5Yg9Q58Khpy0S3U5Hb3ncInnTUUviJNnz8i4IEVOO2LOIg77b43qHLmkuMg96Ek7NRZA1ERslk_nrLOlrRjYJxtet9Gu_V_W4)](https://www.plantuml.com/plantuml/uml/RP71IWD138RlynGHBxfBGV7WjLkBKcXfeRs9XpWJfiFk9cicQ-tRkuhAqffBmlzzy1yopOPgRUBGOkVSXUsf9J0vkcsTk4F55ZAzzSIUAbKvxFR9rqmvmvtBVye6rP9F7R9jC8J44Uv7U2OVl_7jpIX7Rw9REpO4UA0iBOtWaY9nc8a6qlzRNz7NKQNdy22DA9WYvm4HcnkcVBvSKKXzk-crQ-W5Yg9Q58Khpy0S3U5Hb3ncInnTUUviJNnz8i4IEVOO2LOIg77b43qHLmkuMg96Ek7NRZA1ERslk_nrLOlrRjYJxtet9Gu_V_W4)
+  ![Investment Stack Vision](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/wenchiehlee/mkdocs-investment/main/docs/InvestmentStackVision.planuml)
   <figcaption>Figure 1 Investment Stack Vision</figcaption>
 </figure>
+
+
