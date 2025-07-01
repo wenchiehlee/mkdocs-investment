@@ -14,8 +14,6 @@ description: 股票資訊分析堆疊架構（7-Level Stock Information Stack）
 
 # 📊 股票資訊分析堆疊架構（7-Level Stock Information Stack）
 
-# 📊 股票資訊分析堆疊架構（7-Level Stock Information Stack）
-
 | 層級 | 分類名稱 | 核心追蹤來源 | 關鍵指標 | 應用說明 |
 |------|----------|--------------|----------|----------|
 | **Level 1** | 基本面（Fundamentals） | ✅ FactSet, ✅ GoodInfo, MOPS | EPS 預測、ROE、毛利率、本益比、營收 YoY、📈估值位階（本益比標準差） | 評估企業內在體質、成長潛力，並用估值位階法判斷目前股價是否合理（低估/高估） |
