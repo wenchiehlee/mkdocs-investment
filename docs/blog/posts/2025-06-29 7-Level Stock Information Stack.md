@@ -14,16 +14,8 @@ description: 股票資訊分析堆疊架構（7-Level Stock Information Stack）
 
 # 📊 股票資訊分析堆疊架構（7-Level Stock Information Stack）
 
-
-
-# 📊 股票資訊分析堆疊架構（7-Level Stock Information Stack）
-
-# 📊 7-Level 股票資訊分析堆疊（含《投資最重要的事》哲學內化）
-
-# 📊 7-Level 股票資訊分析堆疊（含《投資最重要的事》觀念）
-
-| 層級 | 分類名稱 | 核心追蹤來源 | 關鍵指標 / 核心思想 | 應用說明 |
-|------|----------|--------------|----------------------|----------|
+| 層級 | 分類名稱 | 核心追蹤來源 | 關鍵指標 / 核心思想          | 應用說明 |
+|-----|----------|-------------|----------------------------|----------|
 | **Level 1** | 基本面（Fundamentals） | ✅ FactSet<br>✅ GoodInfo<br>🔸MOPS | 📌EPS 預測<br>📌ROE<br>📌毛利率<br>📌本益比<br>📌營收 YoY<br>📈估值位階（本益比標準差）<br>🧮內在價值估算<br>📌安全邊際 | 評估企業質地與財報表現<br>透過估值模型衡量價格合理性<br>並納入「買得便宜」的投資原則 |
 | **Level 2** | 預期面（Market Expectation） | ✅ FactSet<br>🔸Refinitiv<br>🔸Bloomberg<br>🔸Zacks | 📌EPS 共識修正<br>目標價分歧<br>📌分析師一致性<br>📌法人進出方向<br>📌預期與現實落差 | 了解市場情緒與機構資金流向<br>挖掘市場可能低估或高估的錯誤定價資產 |
 | **Level 3** | 籌碼面（Ownership & Flow） | 🔸TWSE<br>🔸集保<br>✅ GoodInfo<br>TEJ | 📌借券賣出比<br>📌融資融券餘額<br>📌法人佈局<br>📌主力籌碼集中度 | 判斷短期籌碼壓力與機構布局是否支持當前價格<br>搭配估值考量形成買賣決策依據 |
