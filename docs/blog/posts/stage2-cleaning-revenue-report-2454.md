@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-10-07
+date: 2025-10-08
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 聯發科 (2454) - 自動產生
     **:building_construction: 公司名稱**: 聯發科  
     **:identification_card: 股票代號**: 2454  
     **:calendar: 最新資料**: 2025/08  
-    **:clock3: 更新時間**: 2025-10-07 11:11:25 CST
+    **:clock3: 更新時間**: 2025-10-08 11:11:21 CST
 
 ## :bar_chart: 績效概覽
 
@@ -32,15 +32,15 @@ description: 月營收表 聯發科 (2454) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **18.57** | **30.40** | **60.04** |
-| **P/E倍數** | **13.66** | **17.80** | **23.03** |
+| **EPS(元)** | **18.58** | **30.59** | **60.18** |
+| **P/E倍數** | **13.69** | **17.82** | **23.06** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 聯發科 歷史平均獲利能力 (σup=29.64, σlo=11.83)
-    - **P/Ebase**: 聯發科 歷史平均估值水準 (σup=5.23, σlo=4.14)
+    - **EPSbase**: 聯發科 歷史平均獲利能力 (σup=29.59, σlo=12.01)
+    - **P/Ebase**: 聯發科 歷史平均估值水準 (σup=5.24, σlo=4.13)
 
 
 ## :moneybag: 月營收數據
@@ -49,11 +49,11 @@ description: 月營收表 聯發科 (2454) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/08** | **445.5** | <span style="color: #8B0000; font-weight: bold;">+7.26</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **1370** | <span style="color: #DC143C; font-weight: bold;">66.8</span> | <span style="color: #B22222; font-weight: bold;">20.51</span> |
-| **2025/07** | **432.2** | <span style="color: #002818; font-weight: bold;">-5.23</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **1370** | <span style="color: #DC143C; font-weight: bold;">66.82</span> | <span style="color: #B22222; font-weight: bold;">20.5</span> |
-| **2025/06** | **564.3** | <span style="color: #FF4500; font-weight: bold;">+31</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **1250** | <span style="color: #DC143C; font-weight: bold;">66.83</span> | <span style="color: #8B0000; font-weight: bold;">18.7</span> |
-| **2025/05** | **451.8** | <span style="color: #8B0000; font-weight: bold;">+7.18</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **1260** | <span style="color: #DC143C; font-weight: bold;">66.85</span> | <span style="color: #8B0000; font-weight: bold;">18.85</span> |
-| **2025/04** | **487.5** | <span style="color: #B22222; font-weight: bold;">+16</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **1350** | <span style="color: #DC143C; font-weight: bold;">66.86</span> | <span style="color: #8B0000; font-weight: bold;">20.19</span> |
+| **2025/08** | **445.5** | <span style="color: #8B0000; font-weight: bold;">+7.26</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **1370** | <span style="color: #DC143C; font-weight: bold;">66.82</span> | <span style="color: #B22222; font-weight: bold;">20.5</span> |
+| **2025/07** | **432.2** | <span style="color: #002818; font-weight: bold;">-5.23</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **1370** | <span style="color: #DC143C; font-weight: bold;">66.83</span> | <span style="color: #B22222; font-weight: bold;">20.5</span> |
+| **2025/06** | **564.3** | <span style="color: #FF4500; font-weight: bold;">+31</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **1250** | <span style="color: #DC143C; font-weight: bold;">66.84</span> | <span style="color: #8B0000; font-weight: bold;">18.7</span> |
+| **2025/05** | **451.8** | <span style="color: #8B0000; font-weight: bold;">+7.18</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **1260** | <span style="color: #DC143C; font-weight: bold;">66.86</span> | <span style="color: #8B0000; font-weight: bold;">18.85</span> |
+| **2025/04** | **487.5** | <span style="color: #B22222; font-weight: bold;">+16</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **1350** | <span style="color: #DC143C; font-weight: bold;">66.87</span> | <span style="color: #8B0000; font-weight: bold;">20.19</span> |
 | **2025/03** | **560** | <span style="color: #B22222; font-weight: bold;">+10.9</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **1390** | <span style="color: #DC143C; font-weight: bold;">66.88</span> | <span style="color: #B22222; font-weight: bold;">20.78</span> |
 | **2025/02** | **461.7** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #B22222; font-weight: bold;">+17.3</span> | **1515** | <span style="color: #DC143C; font-weight: bold;">66.89</span> | <span style="color: #B22222; font-weight: bold;">22.65</span> |
 | **2025/01** | **511.4** | <span style="color: #B22222; font-weight: bold;">+14.9</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **1465** | <span style="color: #DC143C; font-weight: bold;">66.91</span> | <span style="color: #B22222; font-weight: bold;">21.9</span> |
@@ -74,7 +74,7 @@ description: 月營收表 聯發科 (2454) - 自動產生
 | **2023/10** | **428.1** | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | <span style="color: #006400; font-weight: bold;">-26.8</span> | **842** | <span style="color: #B22222; font-weight: bold;">52.86</span> | <span style="color: #002818; font-weight: bold;">15.93</span> |
 | **2023/09** | **360.8** | <span style="color: #228B22; font-weight: bold;">-36.2</span> | <span style="color: #228B22; font-weight: bold;">-31</span> | **735** | <span style="color: #B22222; font-weight: bold;">55.03</span> | <span style="color: #006400; font-weight: bold;">13.36</span> |
 | **2023/08** | **422.6** | <span style="color: #002818; font-weight: bold;">-5.46</span> | <span style="color: #228B22; font-weight: bold;">-30.3</span> | **705** | <span style="color: #B22222; font-weight: bold;">57.2</span> | <span style="color: #006400; font-weight: bold;">12.32</span> |
-| **2023/07** | **317.6** | <span style="color: #006400; font-weight: bold;">-22.3</span> | <span style="color: #228B22; font-weight: bold;">-33.5</span> | **690** | <span style="color: #B22222; font-weight: bold;">59.38</span> | <span style="color: #006400; font-weight: bold;">11.62</span> |
+| **2023/07** | **317.6** | <span style="color: #006400; font-weight: bold;">-22.3</span> | <span style="color: #228B22; font-weight: bold;">-33.5</span> | **690** | <span style="color: #B22222; font-weight: bold;">59.38</span> | <span style="color: #228B22; font-weight: bold;">11.62</span> |
 | **2023/06** | **382.2** | <span style="color: #006400; font-weight: bold;">-25.1</span> | <span style="color: #228B22; font-weight: bold;">-35.1</span> | **688** | <span style="color: #DC143C; font-weight: bold;">61.55</span> | <span style="color: #228B22; font-weight: bold;">11.18</span> |
 | **2023/05** | **315.7** | <span style="color: #228B22; font-weight: bold;">-39.4</span> | <span style="color: #228B22; font-weight: bold;">-37.1</span> | **759** | <span style="color: #DC143C; font-weight: bold;">63.72</span> | <span style="color: #006400; font-weight: bold;">11.91</span> |
 | **2023/04** | **283.5** | <span style="color: #32CD32; font-weight: bold;">-46.1</span> | <span style="color: #228B22; font-weight: bold;">-36.5</span> | **665** | <span style="color: #DC143C; font-weight: bold;">65.9</span> | <span style="color: #228B22; font-weight: bold;">10.09</span> |
@@ -183,7 +183,7 @@ description: 月營收表 聯發科 (2454) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-10-07 11:11:25 CST
+- **產生時間**: 2025-10-08 11:11:21 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
