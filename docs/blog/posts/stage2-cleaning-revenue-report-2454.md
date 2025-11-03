@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-11-02
+date: 2025-11-03
 categories:
   - 股票
   - 月營收
@@ -19,13 +19,13 @@ description: 月營收表 聯發科 (2454) - 自動產生
     **:building_construction: 公司名稱**: 聯發科  
     **:identification_card: 股票代號**: 2454  
     **:calendar: 最新資料**: 2025/09  
-    **:clock3: 更新時間**: 2025-11-02 11:35:18 CST
+    **:clock3: 更新時間**: 2025-11-03 11:39:21 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **240** 個月 | 2005/10 至 2025/09 |
+| <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **239** 個月 | 2005/11 至 2025/09 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (聯發科) - 非對稱分布
@@ -288,7 +288,6 @@ description: 月營收表 聯發科 (2454) - 自動產生
 | **2006/01** | **-** | N/A | N/A | **319.5** | <span style="color: #004225; font-weight: bold;">21.49</span> | <span style="color: #004225; font-weight: bold;">14.87</span> |
 | **2005/12** | **-** | N/A | N/A | **387** | <span style="color: #004225; font-weight: bold;">21.31</span> | <span style="color: #8B0000; font-weight: bold;">18.16</span> |
 | **2005/11** | **-** | N/A | N/A | **350.5** | <span style="color: #004225; font-weight: bold;">21.31</span> | <span style="color: #002818; font-weight: bold;">16.45</span> |
-| **2005/10** | **-** | N/A | N/A | **289.5** | <span style="color: #004225; font-weight: bold;">21.31</span> | <span style="color: #006400; font-weight: bold;">13.59</span> |
 
 </div>
 
@@ -384,7 +383,7 @@ description: 月營收表 聯發科 (2454) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-11-02 11:35:18 CST
+- **產生時間**: 2025-11-03 11:39:21 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
