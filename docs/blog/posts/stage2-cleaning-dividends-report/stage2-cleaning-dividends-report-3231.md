@@ -113,6 +113,6 @@ description: 股利分配報告 緯創 (3231) - 自動產生
 
 - **主要來源**：`cleaned_dividends.csv` (Type 1: DividendDetail)
 - **EPS資料**：交叉比對 `cleaned_performance1.csv` (Type 7: Quarterly Performance)
-- **報告產生時間**：2025-11-27 09:37:20
+- **報告產生時間**：2025-11-27 11:34:32
 - **資料品質評分**：10.0/10
 - **分析期間**：2003 - 2025 (23 年)
