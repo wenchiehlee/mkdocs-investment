@@ -245,6 +245,8 @@ markdown_extensions: #詳見https://squidfunk.github.io/mkdocs-material/setup/ex
       generic: true
   - toc:
       permalink: true # 固定標題位置為當前位置
+      toc_depth: 3 # 支援3層目錄結構
+      title: "目錄"
   - pymdownx.highlight: # 程式碼塊高亮
       anchor_linenums: true
       linenums: true # 顯示行號
@@ -296,6 +298,9 @@ extra_css:
 # Page tree
 nav:
   - 部落格: blog/index.md
+  - 報告總覽:
+    - 營收報告總覽: blog/posts/stage2-cleaning-revenue-report-all.md
+    - 股利分配總覽: blog/posts/stage2-cleaning-dividends-report-all.md
   - 標簽:   tag.md
   - 友鏈:   about/link.md
   - 關於:   about/index.md
