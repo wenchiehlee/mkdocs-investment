@@ -1,3 +1,19 @@
+---
+authors: [wenchiehlee]
+date: 2025-11-27
+categories:
+  - 股票
+  - 股利分配
+tags:
+  - 股票
+  - 股利
+  - 殖利率
+title: 股利分配報告 達運光電 (8045)
+comments: false
+draft: false
+description: 股利分配報告 達運光電 (8045) - 自動產生
+---
+
 # 8045 - 達運光電 股利分配報告
 
 ## 快速摘要指標
@@ -91,6 +107,6 @@
 
 - **主要來源**：`cleaned_dividends.csv` (Type 1: DividendDetail)
 - **EPS資料**：交叉比對 `cleaned_performance1.csv` (Type 7: Quarterly Performance)
-- **報告產生時間**：2025-11-27 07:24:06
+- **報告產生時間**：2025-11-27 09:37:21
 - **資料品質評分**：8.1/10
 - **分析期間**：2009 - 2025 (17 年)
