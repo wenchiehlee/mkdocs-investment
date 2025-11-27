@@ -276,7 +276,6 @@ extra_javascript:
   # - ckplayer/js/ckplayer.js #播放器配置
   # - https://cdn.jsdelivr.net/npm/gitalk@latest/dist/gitalk.min.js  #gitalk支援
   - https://cdn.jsdelivr.net/npm/mermaid@10.0.2/dist/add-html-label-6e56ed67.min.js 
-
 extra_css:
   - stylesheets/timeline.css
   - stylesheets/cards.css
@@ -299,8 +298,8 @@ extra_css:
 nav:
   - 部落格: blog/index.md
   - 報告總覽:
-    - 營收報告總覽: blog/posts/stage2-cleaning-revenue-report-all.md
-    - 股利分配總覽: blog/posts/stage2-cleaning-dividends-report-all.md
+    - 營收報告總覽: reports/stage2-cleaning-revenue-report-all.md
+    - 股利分配總覽: reports/stage2-cleaning-dividends-report-all.md
   - 標簽:   tag.md
   - 友鏈:   about/link.md
   - 關於:   about/index.md
