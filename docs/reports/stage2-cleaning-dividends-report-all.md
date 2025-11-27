@@ -15,29 +15,31 @@ draft: false
 description: 股利分配總覽報告 - 全部 94 檔股票 - 自動產生
 ---
 
-# Dividend Distribution Summary Report - All Stocks
+# :bar_chart: 股利分配總覽報告 - 全部股票
 
-**Report Generated**: 2025-11-27 11:34:37
-**Total Stocks Analyzed**: 94
-
----
-
-## Portfolio-Wide Dividend Overview
-
-| Metric | Portfolio Average | Median | Best Stock | Worst Stock |
-|--------|------------------|--------|------------|-------------|
-| **Average Cash Yield (5Y)** | 3.90% | 3.70% | 2603: 17.86% | 2646: 0.00% |
-| **Dividend Growth (5Y CAGR)** | 7.10% | 9.35% | 6720: 75.95% | 3048: -100.00% |
-| **Stability Score** | 5.9/10 | 6.5/10 | 6690: 8.5/10 | 2405: 0.0/10 |
+!!! info "報告概覽"
+    **:calendar: 產生時間**: 2025-11-27 22:17:12  
+    **:building_construction: 分析股票總數**: 94 檔  
+    **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析
 
 ---
 
-## Top Dividend Performers
+## :globe_with_meridians: 投資組合股利總覽
 
-### Top 30 by Cash Yield (5Y Average)
+| :chart: 指標 | :bar_chart: 平均值 | :1234: 中位數 | :trophy: 最佳股票 | :warning: 最弱股票 |
+|:--------:|:-------------:|:--------:|:-----------:|:------------:|
+| **現金殖利率 (5年平均)** | 3.90% | 3.70% | 2603: 17.86% | 2646: 0.00% |
+| **股利成長率 (5年CAGR)** | 7.10% | 9.35% | 6720: 75.95% | 3048: -100.00% |
+| **穩定性評分** | 5.9/10 | 6.5/10 | 6690: 8.5/10 | 2405: 0.0/10 |
 
-| Rank | Stock Code | Company Name | Cash Yield | Dividend Growth | Payout Ratio | Stability Score |
-|------|-----------|--------------|------------|----------------|--------------|-----------------|
+---
+
+## :trophy: 績優股利股票排名
+
+### :moneybag: 前30名 - 現金殖利率 (5年平均)
+
+| :1st_place_medal: 排名 | :identification_card: 股票代號 | :building_construction: 公司名稱 | :chart_with_upwards_trend: 現金殖利率 | :bar_chart: 股利成長率 | :repeat: 配發率 | :chart: 穩定性評分 |
+|:------:|:---------:|:-----------:|:-------------:|:-----------:|:--------:|:------------:|
 | 1 | 2603 | 長榮 | 17.86% | - | 50% | 5.5/10 |
 | 2 | 3034 | 聯詠 | 7.64% | 21.7% | 84% | 6.5/10 |
 | 3 | 6123 | 上奇 | 7.54% | 2.4% | 111% | 6.5/10 |
@@ -69,10 +71,10 @@ description: 股利分配總覽報告 - 全部 94 檔股票 - 自動產生
 | 29 | 5434 | 崇越 | 5.03% | 13.0% | 62% | 7.0/10 |
 | 30 | 6462 | 神盾 | 4.96% | -100.0% | - | 2.0/10 |
 
-### Top 30 by Dividend Growth (5Y CAGR)
+### :chart_with_upwards_trend: 前30名 - 股利成長率 (5年CAGR)
 
-| Rank | Stock Code | Company Name | Growth Rate | Cash Yield | Payout Ratio | Stability Score |
-|------|-----------|--------------|-------------|------------|--------------|------------------|
+| :2nd_place_medal: 排名 | :identification_card: 股票代號 | :building_construction: 公司名稱 | :arrow_up: 成長率 | :moneybag: 現金殖利率 | :repeat: 配發率 | :chart: 穩定性評分 |
+|:------:|:---------:|:-----------:|:--------:|:-----------:|:--------:|:------------:|
 | 1 | 6720 | 久昌 | 75.9% | 2.03% | 84% | 5.0/10 |
 | 2 | 6442 | 光聖 | 44.7% | 2.30% | 60% | 7.5/10 |
 | 3 | 2454 | 聯發科 | 38.8% | 6.32% | 81% | 5.5/10 |
@@ -104,10 +106,10 @@ description: 股利分配總覽報告 - 全部 94 檔股票 - 自動產生
 | 29 | 8299 | 群聯 | 14.0% | 4.48% | 64% | 6.5/10 |
 | 30 | 6285 | 啟碁 | 13.9% | 3.71% | 66% | 8.0/10 |
 
-### Top 30 by Stability (Stability Score)
+### :chart: 前30名 - 股利穩定性 (穩定性評分)
 
-| Rank | Stock Code | Company Name | Stability Score | Consecutive Years | Cash Yield | Payout Ratio |
-|------|-----------|--------------|----------------|------------------|------------|--------------|
+| :3rd_place_medal: 排名 | :identification_card: 股票代號 | :building_construction: 公司名稱 | :bar_chart: 穩定性評分 | :calendar: 連續配發年數 | :moneybag: 現金殖利率 | :repeat: 配發率 |
+|:------:|:---------:|:-----------:|:-------------:|:-------------:|:-----------:|:--------:|
 | 1 | 6690 | 安碁資訊 | 8.5/10 | 7 years | 2.91% | 59% |
 | 2 | 3231 | 緯創 | 8.0/10 | 23 years | 4.85% | 62% |
 | 3 | 6613 | 朋億 | 8.0/10 | 10 years | 6.83% | 69% |
@@ -141,12 +143,12 @@ description: 股利分配總覽報告 - 全部 94 檔股票 - 自動產生
 
 ---
 
-## Dividend Quality Categories
+## :medal_sports: 股利品質分類
 
-### Excellent Dividend Stocks (Score ≥ 8.0) - 11 stocks
+### :star: 優質股利股票 (評分 ≥ 8.0) - 11 檔
 
-| Stock Code | Company Name | Yield (5Y) | Growth (5Y) | Payout | Stability |
-|-----------|--------------|-----------|------------|--------|-----------|
+| :identification_card: 股票代號 | :building_construction: 公司名稱 | :moneybag: 殖利率 (5年) | :chart_with_upwards_trend: 成長率 (5年) | :repeat: 配發率 | :bar_chart: 穩定性 |
+|:---------:|:-----------:|:-----------:|:-------------:|:------:|:---------:|
 | 3231 | 緯創 | 4.85% | 13.2% | 62% | 8.0/10 |
 | 6690 | 安碁資訊 | 2.91% | 13.4% | 59% | 8.5/10 |
 | 6613 | 朋億 | 6.83% | 3.5% | 69% | 8.0/10 |
@@ -159,10 +161,10 @@ description: 股利分配總覽報告 - 全部 94 檔股票 - 自動產生
 | 5536 | 聖暉 | 6.00% | 0.0% | 71% | 8.0/10 |
 | 2347 | 聯強 | 5.90% | 9.0% | 72% | 8.0/10 |
 
-### Good Dividend Stocks (Score 6.0-7.9) - 51 stocks
+### :white_check_mark: 良好股利股票 (評分 6.0-7.9) - 51 檔
 
-| Stock Code | Company Name | Yield (5Y) | Growth (5Y) | Payout | Stability |
-|-----------|--------------|-----------|------------|--------|-----------|
+| :identification_card: 股票代號 | :building_construction: 公司名稱 | :moneybag: 殖利率 (5年) | :chart_with_upwards_trend: 成長率 (5年) | :repeat: 配發率 | :bar_chart: 穩定性 |
+|:---------:|:-----------:|:-----------:|:-------------:|:------:|:---------:|
 | 6669 | 緯穎 | 3.01% | 26.3% | 58% | 7.0/10 |
 | 5274 | 信驊 | 1.23% | 18.8% | 76% | 7.0/10 |
 | 6442 | 光聖 | 2.30% | 44.7% | 60% | 7.5/10 |
@@ -184,36 +186,50 @@ description: 股利分配總覽報告 - 全部 94 檔股票 - 自動產生
 | 2395 | 研華 | 2.42% | -0.9% | 80% | 7.5/10 |
 | 3029 | 零壹 | 5.98% | 20.0% | 95% | 6.5/10 |
 
-### Warning Stocks (Score < 6.0 or Payout > 100%) - 36 stocks
+### :warning: 警示股票 (評分 < 6.0 或 配發率 > 100%) - 36 檔
 
-| Stock Code | Company Name | Issue | Stability | Payout Ratio |
-|-----------|--------------|-------|-----------|--------------|
-| 6918 | 愛派司 | Low stability (5.0) | 5.0/10 | 80% |
-| 3048 | 益登 | Low stability (4.0) | 4.0/10 | - |
-| 2451 | 創見 | Unsustainable payout (113%) | 6.5/10 | 113% |
-| 2332 | 友訊 | Low stability (4.5); Unsustainable payout (167%) | 4.5/10 | 167% |
-| 6850 | 光鼎生技 | Low stability (5.5) | 5.5/10 | - |
-| 6526 | 達發 | Low stability (4.0) | 4.0/10 | 78% |
-| 6506 | 雙邦 | Low stability (5.0); Unsustainable payout (108%) | 5.0/10 | 108% |
-| 6123 | 上奇 | Unsustainable payout (111%) | 6.5/10 | 111% |
-| 6182 | 合晶 | Low stability (3.5) | 3.5/10 | - |
-| 2603 | 長榮 | Low stability (5.5) | 5.5/10 | 50% |
-| 6751 | 智聯服務 | Unsustainable payout (120%) | 6.0/10 | 120% |
-| 6462 | 神盾 | Low stability (2.0) | 2.0/10 | - |
-| 6720 | 久昌 | Low stability (5.0) | 5.0/10 | 84% |
-| 8045 | 達運光電 | Low stability (4.0) | 4.0/10 | 80% |
-| 2646 | 星宇航空 | Low stability (0.5) | 0.5/10 | 0% |
-| 5904 | 寶雅 | Low stability (5.5) | 5.5/10 | 86% |
-| 3014 | 聯陽 | Low stability (5.5) | 5.5/10 | 89% |
-| 6231 | 系微 | Low stability (5.5) | 5.5/10 | 81% |
-| 2359 | 所羅門 | Low stability (4.0); Unsustainable payout (119%) | 4.0/10 | 119% |
-| 3150 | 鈺寶-創 | Low stability (3.5); Unsustainable payout (139%) | 3.5/10 | 139% |
+| :identification_card: 股票代號 | :building_construction: 公司名稱 | :exclamation: 問題 | :bar_chart: 穩定性 | :repeat: 配發率 |
+|:---------:|:-----------:|:------:|:---------:|:--------:|
+| 6918 | 愛派司 | 低穩定性 (5.0) | 5.0/10 | 80% |
+| 3048 | 益登 | 低穩定性 (4.0) | 4.0/10 | - |
+| 2451 | 創見 | 不可持續配發率 (113%) | 6.5/10 | 113% |
+| 2332 | 友訊 | 低穩定性 (4.5); 不可持續配發率 (167%) | 4.5/10 | 167% |
+| 6850 | 光鼎生技 | 低穩定性 (5.5) | 5.5/10 | - |
+| 6526 | 達發 | 低穩定性 (4.0) | 4.0/10 | 78% |
+| 6506 | 雙邦 | 低穩定性 (5.0); 不可持續配發率 (108%) | 5.0/10 | 108% |
+| 6123 | 上奇 | 不可持續配發率 (111%) | 6.5/10 | 111% |
+| 6182 | 合晶 | 低穩定性 (3.5) | 3.5/10 | - |
+| 2603 | 長榮 | 低穩定性 (5.5) | 5.5/10 | 50% |
+| 6751 | 智聯服務 | 不可持續配發率 (120%) | 6.0/10 | 120% |
+| 6462 | 神盾 | 低穩定性 (2.0) | 2.0/10 | - |
+| 6720 | 久昌 | 低穩定性 (5.0) | 5.0/10 | 84% |
+| 8045 | 達運光電 | 低穩定性 (4.0) | 4.0/10 | 80% |
+| 2646 | 星宇航空 | 低穩定性 (0.5) | 0.5/10 | 0% |
+| 5904 | 寶雅 | 低穩定性 (5.5) | 5.5/10 | 86% |
+| 3014 | 聯陽 | 低穩定性 (5.5) | 5.5/10 | 89% |
+| 6231 | 系微 | 低穩定性 (5.5) | 5.5/10 | 81% |
+| 2359 | 所羅門 | 低穩定性 (4.0); 不可持續配發率 (119%) | 4.0/10 | 119% |
+| 3150 | 鈺寶-創 | 低穩定性 (3.5); 不可持續配發率 (139%) | 3.5/10 | 139% |
 
 ---
 
-## Data Sources & Coverage
+## :information_source: 資料來源與涵蓋範圍
 
-- **Stocks Analyzed**: 94
-- **Stocks Skipped**: 23 (Insufficient data: < 3 years)
-- **Average Data Quality**: 9.5/10
-- **Report Generated**: 2025-11-27 11:34:37
+!!! note "資料統計"
+    - **分析股票數**: 94 檔
+    - **略過股票數**: 23 檔 (資料不足: < 3 年)
+    - **平均資料品質**: 9.5/10
+
+!!! info "報告元資訊"
+    - **報告產生時間**: 2025-11-27 22:17:12
+    - **資料來源**: Stage 2 資料清理股利報告系統
+    - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
+    - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
+
+---
+
+<div class="result" markdown>
+
+:material-information-outline: **本報告僅供參考，投資決策請審慎評估**
+
+</div>
