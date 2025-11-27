@@ -17,7 +17,7 @@ description: 完整營收報告總覽 - 所有 117 檔股票 - 自動產生
 # :bar_chart: 完整營收報告總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2025-11-27 11:34:11 CST  
+    **:calendar: 產生時間**: 2025-11-27 22:16:45 CST  
     **:building_construction: 處理股票總數**: 117  
     **:chart_with_upwards_trend: 報告類型**: 各股完整歷史資料
 
@@ -124,7 +124,7 @@ description: 完整營收報告總覽 - 所有 117 檔股票 - 自動產生
 | [**6214**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6214.md) | 精誠 | **240** | 2025/10 | <span style="color: #B22222; font-weight: bold;">+10.9</span> | 2005/11 ~ 2025/10 |
 | [**6231**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6231.md) | 系微 | **240** | 2025/10 | <span style="color: #002818; font-weight: bold;">-9.64</span> | 2005/11 ~ 2025/10 |
 | [**6285**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6285.md) | 啟碁 | **240** | 2025/10 | <span style="color: #8B0000; font-weight: bold;">+3.51</span> | 2005/11 ~ 2025/10 |
-| [**6425**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6425.md) | 易發 | **150** | 2025/10 | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | 2013/05 ~ 2025/10 |
+| [**6425**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6425.md) | 易發 | **40** | 2025/10 | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | 2022/07 ~ 2025/10 |
 | [**6442**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6442.md) | 光聖 | **144** | 2025/10 | <span style="color: #FF7F7F; font-weight: bold;">+71.2</span> | 2013/11 ~ 2025/10 |
 | [**6462**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6462.md) | 神盾 | **139** | 2025/10 | <span style="color: #228B22; font-weight: bold;">-31.5</span> | 2014/04 ~ 2025/10 |
 | [**6506**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6506.md) | 雙邦 | **240** | 2025/10 | <span style="color: #002818; font-weight: bold;">-8</span> | 2005/11 ~ 2025/10 |
@@ -246,7 +246,7 @@ description: 完整營收報告總覽 - 所有 117 檔股票 - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-**產生時間**: 2025-11-27 11:34:11 CST  
+**產生時間**: 2025-11-27 22:16:45 CST  
 **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)  
 **報告版本**: Material for MkDocs 增強版 with EPS/P-E Integration (Asymmetric Statistics)  
 **處理模式**: 完整資料模式
