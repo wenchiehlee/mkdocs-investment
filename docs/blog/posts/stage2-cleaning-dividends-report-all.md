@@ -1,6 +1,23 @@
+---
+authors: [wenchiehlee]
+date: 2025-11-27
+categories:
+  - 股票
+  - 股利分配
+tags:
+  - 股票
+  - 股利
+  - 殖利率
+  - 總覽
+title: 股利分配總覽報告 - 全部股票
+comments: false
+draft: false
+description: 股利分配總覽報告 - 全部 94 檔股票 - 自動產生
+---
+
 # Dividend Distribution Summary Report - All Stocks
 
-**Report Generated**: 2025-11-27 07:42:25
+**Report Generated**: 2025-11-27 09:37:23
 **Total Stocks Analyzed**: 94
 
 ---
@@ -199,4 +216,4 @@
 - **Stocks Analyzed**: 94
 - **Stocks Skipped**: 23 (Insufficient data: < 3 years)
 - **Average Data Quality**: 9.5/10
-- **Report Generated**: 2025-11-27 07:42:25
+- **Report Generated**: 2025-11-27 09:37:23
