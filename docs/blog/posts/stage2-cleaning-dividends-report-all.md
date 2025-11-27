@@ -17,7 +17,7 @@ description: 股利分配總覽報告 - 全部 94 檔股票 - 自動產生
 
 # Dividend Distribution Summary Report - All Stocks
 
-**Report Generated**: 2025-11-27 09:37:23
+**Report Generated**: 2025-11-27 11:34:37
 **Total Stocks Analyzed**: 94
 
 ---
@@ -216,4 +216,4 @@ description: 股利分配總覽報告 - 全部 94 檔股票 - 自動產生
 - **Stocks Analyzed**: 94
 - **Stocks Skipped**: 23 (Insufficient data: < 3 years)
 - **Average Data Quality**: 9.5/10
-- **Report Generated**: 2025-11-27 09:37:23
+- **Report Generated**: 2025-11-27 11:34:37
