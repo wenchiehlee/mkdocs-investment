@@ -276,6 +276,7 @@ extra_javascript:
   # - ckplayer/js/ckplayer.js #播放器配置
   # - https://cdn.jsdelivr.net/npm/gitalk@latest/dist/gitalk.min.js  #gitalk支援
   - https://cdn.jsdelivr.net/npm/mermaid@10.0.2/dist/add-html-label-6e56ed67.min.js #忘了
+  - javascripts/toc-filter.js #過濾TOC只顯示總覽報告
 
 extra_css:
   - stylesheets/timeline.css

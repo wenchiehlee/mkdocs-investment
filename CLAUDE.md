@@ -156,41 +156,61 @@ The reports are organized in a 2-level hierarchy in `mkdocs.yml`:
 ### TOC Configuration
 The TOC is configured with `toc_depth: 3` to support 3-level heading hierarchy.
 
-**For the auto-generation script in the other repository**, the markdown files should be structured as follows:
+**TOC Filtering**: A custom JavaScript filter (`docs/javascripts/toc-filter.js`) automatically hides individual stock reports from the right sidebar TOC, showing only summary reports. This keeps the TOC clean and focused even when the auto-generated files contain 100+ individual stock report headings.
 
-#### Current Structure (Flat - No Hierarchy):
+The filter works by:
+- Hiding TOC items matching stock code pattern `(####)` (e.g., "(2357)", "(2382)")
+- Keeping visible items containing: "總覽", "Summary", "All Stocks", "所有股票", "Overview"
+- This configuration is in `mkdocs.yml` and requires no changes to auto-generated markdown files
+
+**For the auto-generation script in the other repository**, the **"all" summary files** (`stage2-cleaning-dividends-report-all.md` and `stage2-cleaning-revenue-report-all.md`) can maintain any structure, as the TOC filter will handle the display automatically.
+
+#### Current Structure in "all" Files (Flat - No Hierarchy):
 ```markdown
-## Dividend Distribution Summary Report - All Stocks
+# Dividend Distribution Summary Report - All Stocks
+
 ## 華碩 (2357) 月營收報告
+[Link to stage2-cleaning-revenue-report-2357.md]
+
 ## 廣達 (2382) 月營收報告
+[Link to stage2-cleaning-revenue-report-2382.md]
+
 ## 完整營收報告總覽 - 所有股票
+[Link to stage2-cleaning-revenue-report-all.md]
 ```
 
-#### Required Structure (2-Level Hierarchy):
+#### Required Structure in "all" Files (2-Level Hierarchy):
 ```markdown
-## 📊 總覽報告 (Summary Reports)
+# Dividend Distribution Summary Report - All Stocks
 
-### Dividend Distribution Summary Report - All Stocks
-[Link or content]
+[Summary content and overview here]
 
-### 完整營收報告總覽 - 所有股票
-[Link or content]
+## 📊 相關總覽報告 (Related Summary Reports)
+
+### 股利分配總覽
+[Link to stage2-cleaning-dividends-report-all.md or self-reference]
+
+### 完整營收報告總覽
+[Link to stage2-cleaning-revenue-report-all.md]
 
 ## 📈 個股詳細報告 (Individual Stock Reports)
 
 ### 華碩 (2357) 月營收報告
-[Link to individual report]
+[Link to stage2-cleaning-revenue-report-2357.md]
 
 ### 廣達 (2382) 月營收報告
-[Link to individual report]
+[Link to stage2-cleaning-revenue-report-2382.md]
 
 ### 中華電 (2412) 月營收報告
-[Link to individual report]
+[Link to stage2-cleaning-revenue-report-2412.md]
+
+[... all ~117 individual stock reports ...]
 ```
 
-This structure will create a collapsible 2-level hierarchy in the right sidebar TOC where:
-- Level 1 (`##`): Section headers (總覽報告, 個股詳細報告)
+This structure **inside each "all" file** will create a collapsible 2-level hierarchy in the right sidebar TOC where:
+- Level 1 (`##`): Section headers (相關總覽報告, 個股詳細報告)
 - Level 2 (`###`): Individual report links nested under sections
+- All ~117 individual stock reports are grouped under the "個股詳細報告" section to keep the TOC organized
 
 ## Important Notes
 
