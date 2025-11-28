@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-11-27
+date: 2025-11-28
 categories:
   - 股票
   - 股利分配
@@ -90,7 +90,7 @@ description: 股利分配報告 GOGOLOOK (6902) - 自動產生
     - **EPS資料**：交叉比對 `cleaned_performance1.csv` (Type 7: Quarterly Performance)
 
 !!! info "報告元資訊"
-    - **報告產生時間**：2025-11-27 22:37:11
+    - **報告產生時間**：2025-11-28 11:34:18
     - **資料品質評分**：9.5/10
     - **分析期間**：2023 - 2025 (共 3 年)
     - **資料來源**：Stage 2 資料清理股利報告系統
