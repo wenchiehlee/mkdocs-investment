@@ -18,7 +18,7 @@ description: 股利分配總覽報告 - 全部 117 檔股票 (有效 94 檔) - �
 # :bar_chart: 股利分配總覽報告 - 全部股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2025-11-28 14:24:18  
+    **:calendar: 產生時間**: 2025-11-28 18:40:32  
     **:building_construction: 分析股票總數**: 117 檔 (有效 94 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析
 
@@ -28,7 +28,7 @@ description: 股利分配總覽報告 - 全部 117 檔股票 (有效 94 檔) - �
 
 | :chart: 指標 | :bar_chart: 平均值 | :1234: 中位數 | :trophy: 最佳股票 | :warning: 最弱股票 |
 |:--------:|:-------------:|:--------:|:-----------:|:------------:|
-| **現金殖利率 (5年平均)** | 3.90% | 3.70% | [**2603**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2603.md): 17.86% | [**2646**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2646.md): 0.00% |
+| **現金殖利率 (5年平均)** | 3.91% | 3.70% | [**2603**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2603.md): 17.86% | [**2646**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2646.md): 0.00% |
 | **股利成長率 (5年CAGR)** | 7.10% | 9.35% | [**6720**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6720.md): 75.95% | [**3048**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3048.md): -100.00% |
 | **穩定性評分** | 5.9/10 | 6.5/10 | [**6690**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6690.md): 8.5/10 | [**2405**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2405.md): 0.0/10 |
 
@@ -43,7 +43,7 @@ description: 股利分配總覽報告 - 全部 117 檔股票 (有效 94 檔) - �
 
 | :identification_card: 股票代號 | :building_construction: 公司名稱 | :moneybag: 現金股利(元) | :chart: 殖利率@當日價 | :arrow_down: 殖利率@當年度最低價 | :arrow_up: 殖利率@當年度最高價 | :chart_with_upwards_trend: 股利成長率(5Y) | :repeat: 配發率 | :bar_chart: 穩定性 | :date: 資料區間 |
 |:--------:|:-----------:|:-----------:|:---------------:|:------------------------:|:------------------------:|:---------------------:|:--------:|:--------:|:-----------:|
-| [**2301**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2301.md) | 光寶科 | 4.51 | - | - | - | +7.1% | 87% | 7.5/10 | 1993~2025 (33年) |
+| [**2301**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2301.md) | 光寶科 | 4.51 | 3.24% | 8.52% | 3.24% | +7.1% | 87% | 7.5/10 | 1993~2025 (33年) |
 | [**2303**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2303.md) | 聯電 | 2.85 | 6.62% | 7.22% | 5.72% | +28.8% | 75% | 6.5/10 | 1984~2025 (41年) |
 | [**2308**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2308.md) | 台達電 | 7.00 | 0.77% | 2.55% | 0.77% | +7.0% | 52% | 7.0/10 | 1984~2025 (42年) |
 | [**2317**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2317.md) | 鴻海 | 5.80 | 2.69% | 5.16% | 2.65% | +6.7% | 53% | 8.0/10 | 1989~2025 (37年) |
@@ -70,7 +70,7 @@ description: 股利分配總覽報告 - 全部 117 檔股票 (有效 94 檔) - �
 | [**2451**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2451.md) | 創見 | 6.09 | 5.03% | 7.76% | 4.89% | +6.2% | 113% | 6.5/10 | 1998~2025 (28年) |
 | [**2454**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2454.md) | 聯發科 | 54.00 | 3.84% | 4.74% | 3.43% | +38.8% | 81% | 5.5/10 | 2000~2025 (26年) |
 | [**2458**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2458.md) | 義隆 | 6.41 | 4.78% | 6.38% | 3.84% | -0.3% | 67% | 6.0/10 | 1998~2025 (28年) |
-| [**2474**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2474.md) | 可成 | 8.33 | - | - | - | -3.6% | 43% | 7.0/10 | 1996~2025 (30年) |
+| [**2474**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2474.md) | 可成 | 8.33 | 8.86% | 9.41% | 7.29% | -3.6% | 43% | 7.0/10 | 1996~2025 (30年) |
 | [**2480**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2480.md) | 敦陽科 | 7.42 | 4.38% | 6.32% | 4.01% | +10.8% | 99% | 6.0/10 | 1998~2025 (28年) |
 | [**2603**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2603.md) | 長榮 | 32.50 | 17.70% | 19.00% | 12.30% | - | 50% | 5.5/10 | 1985~2025 (40年) |
 | [**2646**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2646.md) | 星宇航空 | 0.00 | 0.00% | 0.00% | 0.00% | - | 0% | 0.5/10 | 2023~2025 (3年) |
@@ -152,17 +152,17 @@ description: 股利分配總覽報告 - 全部 117 檔股票 (有效 94 檔) - �
 | 2 | [**3034**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3034.md) | 聯詠 | 6.41% | 6.72% | 4.96% | +21.7% | 84% | 6.5/10 |
 | 3 | [**6123**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6123.md) | 上奇 | 7.23% | 8.30% | 6.38% | +2.4% | 111% | 6.5/10 |
 | 4 | [**8016**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8016.md) | 矽創 | 5.22% | 7.48% | 5.12% | +13.0% | 78% | 6.0/10 |
-| 5 | [**2357**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2357.md) | 華碩 | 4.97% | 7.71% | 4.56% | +19.4% | 80% | 6.0/10 |
-| 6 | [**6613**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6613.md) | 朋億 | 6.63% | 8.56% | 4.45% | +3.5% | 69% | 8.0/10 |
-| 7 | [**2474**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2474.md) | 可成 | - | - | - | -3.6% | 43% | 7.0/10 |
+| 5 | [**2474**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2474.md) | 可成 | 8.86% | 9.41% | 7.29% | -3.6% | 43% | 7.0/10 |
+| 6 | [**2357**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2357.md) | 華碩 | 4.97% | 7.71% | 4.56% | +19.4% | 80% | 6.0/10 |
+| 7 | [**6613**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6613.md) | 朋億 | 6.63% | 8.56% | 4.45% | +3.5% | 69% | 8.0/10 |
 | 8 | [**3014**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3014.md) | 聯陽 | 6.67% | 8.37% | 5.49% | +22.2% | 89% | 5.5/10 |
 | 9 | [**3026**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3026.md) | 禾伸堂 | 5.51% | 7.67% | 5.34% | -4.7% | 94% | 5.5/10 |
 | 10 | [**2451**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2451.md) | 創見 | 5.03% | 7.76% | 4.89% | +6.2% | 113% | 6.5/10 |
 | 11 | [**2454**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2454.md) | 聯發科 | 3.84% | 4.74% | 3.43% | +38.8% | 81% | 5.5/10 |
-| 12 | [**2301**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2301.md) | 光寶科 | - | - | - | +7.1% | 87% | 7.5/10 |
-| 13 | [**2458**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2458.md) | 義隆 | 4.78% | 6.38% | 3.84% | -0.3% | 67% | 6.0/10 |
-| 14 | [**5536**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5536.md) | 聖暉 | 1.89% | 5.40% | 1.48% | +0.0% | 71% | 8.0/10 |
-| 15 | [**3029**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3029.md) | 零壹 | 4.00% | 5.29% | 3.05% | +20.0% | 95% | 6.5/10 |
+| 12 | [**2458**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2458.md) | 義隆 | 4.78% | 6.38% | 3.84% | -0.3% | 67% | 6.0/10 |
+| 13 | [**5536**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5536.md) | 聖暉 | 1.89% | 5.40% | 1.48% | +0.0% | 71% | 8.0/10 |
+| 14 | [**3029**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3029.md) | 零壹 | 4.00% | 5.29% | 3.05% | +20.0% | 95% | 6.5/10 |
+| 15 | [**2301**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2301.md) | 光寶科 | 3.24% | 8.52% | 3.24% | +7.1% | 87% | 7.5/10 |
 | 16 | [**2347**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2347.md) | 聯強 | 6.39% | 6.97% | 5.25% | +9.0% | 72% | 8.0/10 |
 | 17 | [**2303**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2303.md) | 聯電 | 6.62% | 7.22% | 5.72% | +28.8% | 75% | 6.5/10 |
 | 18 | [**4938**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4938.md) | 和碩 | 6.37% | 6.57% | 4.55% | +0.0% | 71% | 8.0/10 |
@@ -236,7 +236,7 @@ description: 股利分配總覽報告 - 全部 117 檔股票 (有效 94 檔) - �
 | 16 | [**4953**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4953.md) | 緯軟 | 3.63% | 5.18% | 3.28% | +4.3% | 64% | 7.5/10 |
 | 17 | [**6561**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6561.md) | 是方 | 2.95% | 3.56% | 2.62% | +9.3% | 90% | 7.5/10 |
 | 18 | [**5269**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5269.md) | 祥碩 | 1.96% | 2.30% | 1.32% | +20.2% | 58% | 7.5/10 |
-| 19 | [**2301**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2301.md) | 光寶科 | - | - | - | +7.1% | 87% | 7.5/10 |
+| 19 | [**2301**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2301.md) | 光寶科 | 3.24% | 8.52% | 3.24% | +7.1% | 87% | 7.5/10 |
 | 20 | [**2330**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2330.md) | 台積電 | 1.47% | 2.44% | 1.47% | +13.7% | 42% | 7.5/10 |
 | 21 | [**2412**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2412.md) | 中華電 | 3.75% | 4.10% | 3.62% | +3.4% | 104% | 7.5/10 |
 | 22 | [**6669**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6669.md) | 緯穎 | 2.37% | 5.05% | 2.14% | +26.3% | 58% | 7.0/10 |
@@ -329,7 +329,7 @@ description: 股利分配總覽報告 - 全部 117 檔股票 (有效 94 檔) - �
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2025-11-28 14:24:18
+    - **報告產生時間**: 2025-11-28 18:40:32
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
