@@ -11,14 +11,14 @@ tags:
 title: 📊 完整營收報告總覽 - 所有股票
 comments: false
 draft: false
-description: 完整營收報告總覽 - 所有 117 檔股票 - 自動產生
+description: 完整營收報告總覽 - 所有 118 檔股票 - 自動產生
 ---
 
 # :bar_chart: 完整營收報告總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2025-11-28 11:33:53 CST  
-    **:building_construction: 處理股票總數**: 117  
+    **:calendar: 產生時間**: 2025-11-28 13:20:59 CST  
+    **:building_construction: 處理股票總數**: 118  
     **:chart_with_upwards_trend: 報告類型**: 各股完整歷史資料
 
 ## :chart_with_upwards_trend: 市場概況
@@ -29,25 +29,25 @@ description: 完整營收報告總覽 - 所有 117 檔股票 - 自動產生
 
     ---
 
-    **74** 檔 (63.2%)
+    **74** 檔 (62.7%)
 
 - :chart_with_downwards_trend: **負成長股票**
 
     ---
 
-    **43** 檔 (36.8%)
+    **44** 檔 (37.3%)
 
 - :page_with_curl: **總處理股票**
 
     ---
 
-    **117** 檔
+    **118** 檔
 
 - :material-data-matrix: **有效資料股票**
 
     ---
 
-    **117** 檔
+    **118** 檔
 
 </div>
 
@@ -107,6 +107,7 @@ description: 完整營收報告總覽 - 所有 117 檔股票 - 自動產生
 | [**3356**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3356.md) | 奇偶 | **240** | 2025/10 | <span style="color: #006400; font-weight: bold;">-21.9</span> | 2005/11 ~ 2025/10 |
 | [**3467**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3467.md) | 台灣精材 | **27** | 2025/10 | <span style="color: #002818; font-weight: bold;">-0.63</span> | 2023/08 ~ 2025/10 |
 | [**3558**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3558.md) | 神準 | **223** | 2025/10 | <span style="color: #002818; font-weight: bold;">-0.73</span> | 2007/04 ~ 2025/10 |
+| [**3661**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3661.md) | 世芯-KY | **40** | 2025/10 | <span style="color: #90EE90; font-weight: bold;">-60.3</span> | 2022/07 ~ 2025/10 |
 | [**4114**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-4114.md) | 健喬 | **240** | 2025/10 | <span style="color: #8B0000; font-weight: bold;">+9.2</span> | 2005/11 ~ 2025/10 |
 | [**4749**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-4749.md) | 新應材 | **133** | 2025/10 | <span style="color: #FF4500; font-weight: bold;">+30.8</span> | 2009/08 ~ 2025/10 |
 | [**4938**](stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-4938.md) | 和碩 | **188** | 2025/10 | <span style="color: #002818; font-weight: bold;">-0.82</span> | 2010/03 ~ 2025/10 |
@@ -231,13 +232,13 @@ description: 完整營收報告總覽 - 所有 117 檔股票 - 自動產生
 ## :material-chart-timeline-variant: 趨勢分析
 
 !!! success "正向指標"
-    - **63.2%** 的股票呈現正成長
+    - **62.7%** 的股票呈現正成長
     - 共有 **74** 檔股票營收增長
     - 反映整體市場樂觀氣氛
 
 !!! note "市場概況"
-    - **36.8%** 的股票出現負成長
-    - 共有 **43** 檔股票營收下滑
+    - **37.3%** 的股票出現負成長
+    - 共有 **44** 檔股票營收下滑
     - 建議關注產業別和個股基本面
 
 ---
@@ -246,7 +247,7 @@ description: 完整營收報告總覽 - 所有 117 檔股票 - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-**產生時間**: 2025-11-28 11:33:53 CST  
+**產生時間**: 2025-11-28 13:20:59 CST  
 **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)  
 **報告版本**: Material for MkDocs 增強版 with EPS/P-E Integration (Asymmetric Statistics)  
 **處理模式**: 完整資料模式
