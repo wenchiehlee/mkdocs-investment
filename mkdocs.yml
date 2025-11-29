@@ -273,6 +273,10 @@ extra_javascript:
   - javascripts/mathjax.js #Latex支援
   - https://polyfill.io/v3/polyfill.min.js?features=es6 #Latex支援
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js #Latex支援
+  # DataTables for sortable/filterable stock tables
+  - https://code.jquery.com/jquery-3.7.1.min.js  # jQuery library
+  - https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js  # DataTables library
+  - javascripts/tables.js  # Custom DataTables initialization
   # - ckplayer/js/ckplayer.js #播放器配置
   # - https://cdn.jsdelivr.net/npm/gitalk@latest/dist/gitalk.min.js  #gitalk支援
   - https://cdn.jsdelivr.net/npm/mermaid@10.0.2/dist/add-html-label-6e56ed67.min.js 
@@ -282,7 +286,9 @@ extra_css:
   - stylesheets/extra.css # 自定義CSS
   - stylesheets/link.css #友鏈配置
   - stylesheets/customize.css # 搜尋圓角最佳化
-
+  # DataTables for sortable/filterable stock tables
+  - https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css  # DataTables CSS
+  - stylesheets/tables.css  # Custom table styling
   # - stylesheets/video.css #播放器可選配置
   # - https://cdn.jsdelivr.net/npm/gitalk@latest/dist/gitalk.css #gitalk支援
   # - ckplayer/css/ckplayer.css   #播放器配置
@@ -297,9 +303,9 @@ extra_css:
 # Page tree
 nav:
   - 部落格: blog/index.md
-  - 報告總覽:
-    - 營收報告總覽: reports/stage2-cleaning-revenue-report-all.md
-    - 股利分配總覽: reports/stage2-cleaning-dividends-report-all.md
+  - 台股總覽:
+    - 台股營收總覽: reports/stage2-cleaning-revenue-report-all.md
+    - 台股股利總覽: reports/stage2-cleaning-dividends-report-all.md
   - 標簽:   tag.md
   - 友鏈:   about/link.md
   - 關於:   about/index.md
