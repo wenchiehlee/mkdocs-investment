@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-11-28
+date: 2025-11-29
 categories:
   - 股票
   - 月營收
@@ -19,13 +19,13 @@ description: 月營收表 綠界科技 (6763) - 自動產生
     **:building_construction: 公司名稱**: 綠界科技  
     **:identification_card: 股票代號**: 6763  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-11-28 20:40:39 CST
+    **:clock3: 更新時間**: 2025-11-29 11:34:17 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+5.06</span> | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | **40** 個月 | 2022/07 至 2025/10 |
+| <span style="color: #8B0000; font-weight: bold;">+5.06</span> | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | **74** 個月 | 2019/09 至 2025/10 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (綠界科技) - 非對稱分布
@@ -89,6 +89,40 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 | **2022/09** | **1.35** | <span style="color: #B22222; font-weight: bold;">+11</span> | <span style="color: #8B0000; font-weight: bold;">+4.74</span> | **373** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #006400; font-weight: bold;">17.88</span> |
 | **2022/08** | **1.29** | <span style="color: #8B0000; font-weight: bold;">+2.09</span> | <span style="color: #8B0000; font-weight: bold;">+3.91</span> | **498** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #002818; font-weight: bold;">23.87</span> |
 | **2022/07** | **1.11** | <span style="color: #004225; font-weight: bold;">-13.5</span> | <span style="color: #8B0000; font-weight: bold;">+4.2</span> | **405** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #004225; font-weight: bold;">19.42</span> |
+| **2022/06** | **1.16** | <span style="color: #004225; font-weight: bold;">-10.3</span> | <span style="color: #8B0000; font-weight: bold;">+7.63</span> | **429** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #004225; font-weight: bold;">20.57</span> |
+| **2022/05** | **1.26** | <span style="color: #8B0000; font-weight: bold;">+3.54</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **566** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #8B0000; font-weight: bold;">27.13</span> |
+| **2022/04** | **1.15** | <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **509** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #002818; font-weight: bold;">24.4</span> |
+| **2022/03** | **1.28** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **704** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #B22222; font-weight: bold;">33.75</span> |
+| **2022/02** | **1.01** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **-** | N/A | N/A |
+| **2022/01** | **1.27** | <span style="color: #B22222; font-weight: bold;">+16.2</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **-** | N/A | N/A |
+| **2021/12** | **1.26** | <span style="color: #FF4500; font-weight: bold;">+33.3</span> | <span style="color: #FF4500; font-weight: bold;">+37.8</span> | **-** | N/A | N/A |
+| **2021/11** | **1.31** | <span style="color: #FF4500; font-weight: bold;">+31.8</span> | <span style="color: #FF4500; font-weight: bold;">+38.2</span> | **-** | N/A | N/A |
+| **2021/10** | **1.1** | <span style="color: #DC143C; font-weight: bold;">+27.5</span> | <span style="color: #FF4500; font-weight: bold;">+39</span> | **-** | N/A | N/A |
+| **2021/09** | **1.22** | <span style="color: #DC143C; font-weight: bold;">+26.7</span> | <span style="color: #FF6347; font-weight: bold;">+40.3</span> | **-** | N/A | N/A |
+| **2021/08** | **1.27** | <span style="color: #FF6347; font-weight: bold;">+45.3</span> | <span style="color: #FF6347; font-weight: bold;">+42.4</span> | **-** | N/A | N/A |
+| **2021/07** | **1.28** | <span style="color: #FF6347; font-weight: bold;">+46.3</span> | <span style="color: #FF6347; font-weight: bold;">+41.9</span> | **-** | N/A | N/A |
+| **2021/06** | **1.3** | <span style="color: #FF7F7F; font-weight: bold;">+53.3</span> | <span style="color: #FF6347; font-weight: bold;">+41.1</span> | **-** | N/A | N/A |
+| **2021/05** | **1.22** | <span style="color: #FF6347; font-weight: bold;">+42.4</span> | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | **-** | N/A | N/A |
+| **2021/04** | **1.01** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #DC143C; font-weight: bold;">+21</span> | **-** | N/A | N/A |
+| **2021/03** | **1.11** | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **-** | N/A | N/A |
+| **2021/02** | **0.904** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #DC143C; font-weight: bold;">+22.7</span> | **-** | N/A | N/A |
+| **2021/01** | **1.09** | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | **-** | N/A | N/A |
+| **2020/12** | **0.944** | <span style="color: #8B0000; font-weight: bold;">+9.38</span> | <span style="color: #8B0000; font-weight: bold;">+9.07</span> | **-** | N/A | N/A |
+| **2020/11** | **0.997** | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #8B0000; font-weight: bold;">+9.04</span> | **-** | N/A | N/A |
+| **2020/10** | **0.862** | <span style="color: #8B0000; font-weight: bold;">+3.68</span> | <span style="color: #8B0000; font-weight: bold;">+7.7</span> | **-** | N/A | N/A |
+| **2020/09** | **0.959** | <span style="color: #DC143C; font-weight: bold;">+23.5</span> | <span style="color: #8B0000; font-weight: bold;">+8.19</span> | **-** | N/A | N/A |
+| **2020/08** | **0.872** | <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #8B0000; font-weight: bold;">+6.23</span> | **-** | N/A | N/A |
+| **2020/07** | **0.877** | <span style="color: #8B0000; font-weight: bold;">+5.67</span> | <span style="color: #8B0000; font-weight: bold;">+5.07</span> | **-** | N/A | N/A |
+| **2020/06** | **0.846** | <span style="color: #B22222; font-weight: bold;">+19</span> | <span style="color: #8B0000; font-weight: bold;">+4.96</span> | **-** | N/A | N/A |
+| **2020/05** | **0.857** | <span style="color: #8B0000; font-weight: bold;">+6.72</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **-** | N/A | N/A |
+| **2020/04** | **0.859** | <span style="color: #8B0000; font-weight: bold;">+7.58</span> | <span style="color: #B22222; font-weight: bold;">+14.7</span> | **-** | N/A | N/A |
+| **2020/03** | **0.914** | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #B22222; font-weight: bold;">+17.3</span> | **-** | N/A | N/A |
+| **2020/02** | **0.788** | <span style="color: #DC143C; font-weight: bold;">+28.6</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **-** | N/A | N/A |
+| **2020/01** | **0.837** | <span style="color: #8B0000; font-weight: bold;">+4.59</span> | <span style="color: #8B0000; font-weight: bold;">+4.59</span> | **-** | N/A | N/A |
+| **2019/12** | **0.864** | <span style="color: #FF4500; font-weight: bold;">+39.8</span> | <span style="color: #FF6347; font-weight: bold;">+47.6</span> | **-** | N/A | N/A |
+| **2019/11** | **0.82** | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | <span style="color: #FF6347; font-weight: bold;">+48.4</span> | **-** | N/A | N/A |
+| **2019/10** | **0.831** | <span style="color: #FF4500; font-weight: bold;">+32.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.3</span> | **-** | N/A | N/A |
+| **2019/09** | **0.777** | <span style="color: #FF6347; font-weight: bold;">+42.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | **-** | N/A | N/A |
 
 </div>
 
@@ -184,7 +218,7 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-11-28 20:40:39 CST
+- **產生時間**: 2025-11-29 11:34:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
