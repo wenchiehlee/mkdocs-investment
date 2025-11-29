@@ -1,0 +1,264 @@
+/* DataTables customization for Stock Analysis System */
+/* Version: 1.0.0 */
+/* Purpose: Styling for sortable dividend report tables */
+
+/* DataTables wrapper styling */
+.dataTables_wrapper {
+    font-family: 'Noto Serif TC', 'Noto Sans TC', sans-serif;
+    margin: 1.5em 0;
+}
+
+/* Table styling for sortable tables */
+.sortable-table table {
+    width: 100% !important;
+    border-collapse: collapse;
+    margin: 1em 0;
+}
+
+.sortable-table th {
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+    font-weight: bold;
+    padding: 0.8em 0.5em;
+    text-align: center;
+    cursor: pointer;
+    border-bottom: 2px solid var(--md-primary-fg-color--dark);
+}
+
+.sortable-table td {
+    padding: 0.6em 0.5em;
+    text-align: center;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.sortable-table tbody tr:hover {
+    background-color: var(--md-code-bg-color);
+    transition: background-color 0.2s ease;
+}
+
+.sortable-table tbody tr:nth-child(even) {
+    background-color: rgba(0, 0, 0, 0.02);
+}
+
+/* DataTables search box styling */
+.dataTables_filter {
+    margin-bottom: 1em;
+    text-align: right;
+}
+
+.dataTables_filter label {
+    font-weight: normal;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.dataTables_filter input {
+    padding: 0.5em 1em;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 4px;
+    font-size: 0.9em;
+    margin-left: 0.5em;
+    min-width: 250px;
+}
+
+.dataTables_filter input:focus {
+    outline: none;
+    border-color: var(--md-primary-fg-color);
+    box-shadow: 0 0 0 2px rgba(var(--md-primary-fg-color), 0.1);
+}
+
+/* DataTables length menu */
+.dataTables_length {
+    margin-bottom: 1em;
+}
+
+.dataTables_length select {
+    padding: 0.4em 2em 0.4em 0.5em;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 4px;
+    margin: 0 0.5em;
+    cursor: pointer;
+}
+
+/* DataTables info and pagination container */
+.dataTables_info {
+    padding: 0.8em 0;
+    color: var(--md-default-fg-color--light);
+    font-size: 0.9em;
+}
+
+.dataTables_paginate {
+    padding: 0.8em 0;
+    text-align: right;
+}
+
+.dataTables_paginate .paginate_button {
+    padding: 0.4em 0.9em;
+    margin: 0 0.2em;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: var(--md-default-bg-color);
+    color: var(--md-default-fg-color);
+    display: inline-block;
+    text-decoration: none;
+}
+
+.dataTables_paginate .paginate_button:hover {
+    background-color: var(--md-code-bg-color);
+    border-color: var(--md-primary-fg-color);
+}
+
+.dataTables_paginate .paginate_button.current {
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+    font-weight: bold;
+    border-color: var(--md-primary-fg-color);
+}
+
+.dataTables_paginate .paginate_button.disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+.dataTables_paginate .paginate_button.disabled:hover {
+    background-color: var(--md-default-bg-color);
+    border-color: var(--md-default-fg-color--lightest);
+}
+
+/* Sorting icons */
+table.dataTable thead .sorting,
+table.dataTable thead .sorting_asc,
+table.dataTable thead .sorting_desc {
+    background-repeat: no-repeat;
+    background-position: center right 0.5em;
+}
+
+table.dataTable thead .sorting {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' opacity='0.4' d='M8 3l4 5H4z'/%3E%3Cpath fill='%23fff' opacity='0.4' d='M8 13l-4-5h8z'/%3E%3C/svg%3E");
+}
+
+table.dataTable thead .sorting_asc {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M8 3l4 5H4z'/%3E%3C/svg%3E");
+}
+
+table.dataTable thead .sorting_desc {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M8 13l-4-5h8z'/%3E%3C/svg%3E");
+}
+
+/* Status emoji alignment */
+.sortable-table td:last-child {
+    font-size: 1.2em;
+}
+
+/* Center alignment for specific columns */
+.sortable-table td[data-order] {
+    text-align: center;
+}
+
+/* Stock code link styling */
+.sortable-table a {
+    color: var(--md-primary-fg-color);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.sortable-table a:hover {
+    text-decoration: underline;
+    color: var(--md-accent-fg-color);
+}
+
+/* Quality category badges */
+.sortable-table td:contains('⭐'),
+.sortable-table td:contains('✅'),
+.sortable-table td:contains('⚠️') {
+    font-weight: bold;
+}
+
+/* Search highlight */
+mark {
+    background-color: #ffeb3b;
+    color: #000;
+    padding: 0 0.2em;
+    border-radius: 2px;
+}
+
+/* Dark mode adjustments */
+[data-md-color-scheme="slate"] .dataTables_filter input {
+    background-color: var(--md-code-bg-color);
+    color: var(--md-default-fg-color);
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-md-color-scheme="slate"] .dataTables_length select {
+    background-color: var(--md-code-bg-color);
+    color: var(--md-default-fg-color);
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-md-color-scheme="slate"] .sortable-table tbody tr:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+[data-md-color-scheme="slate"] .sortable-table tbody tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.02);
+}
+
+[data-md-color-scheme="slate"] table.dataTable thead .sorting {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23bbb' opacity='0.4' d='M8 3l4 5H4z'/%3E%3Cpath fill='%23bbb' opacity='0.4' d='M8 13l-4-5h8z'/%3E%3C/svg%3E");
+}
+
+[data-md-color-scheme="slate"] table.dataTable thead .sorting_asc {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M8 3l4 5H4z'/%3E%3C/svg%3E");
+}
+
+[data-md-color-scheme="slate"] table.dataTable thead .sorting_desc {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M8 13l-4-5h8z'/%3E%3C/svg%3E");
+}
+
+[data-md-color-scheme="slate"] mark {
+    background-color: #ffc107;
+    color: #000;
+}
+
+/* Responsive table on mobile */
+@media screen and (max-width: 768px) {
+    .sortable-table {
+        overflow-x: auto;
+    }
+
+    .dataTables_filter input {
+        width: 100%;
+        max-width: 200px;
+        min-width: 150px;
+    }
+
+    .dataTables_length,
+    .dataTables_filter {
+        text-align: left;
+    }
+
+    .dataTables_info,
+    .dataTables_paginate {
+        text-align: center;
+    }
+
+    .dataTables_paginate .paginate_button {
+        padding: 0.3em 0.6em;
+        font-size: 0.9em;
+    }
+}
+
+/* Loading state */
+.dataTables_processing {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1em 2em;
+    background-color: var(--md-default-bg-color);
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
