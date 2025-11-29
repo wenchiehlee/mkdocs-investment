@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-11-27
+date: 2025-11-29
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 虎山 (7736) - 自動產生
     **:building_construction: 公司名稱**: 虎山  
     **:identification_card: 股票代號**: 7736  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-11-27 11:34:11 CST
+    **:clock3: 更新時間**: 2025-11-29 11:34:17 CST
 
 ## :bar_chart: 績效概覽
 
@@ -166,7 +166,7 @@ description: 月營收表 虎山 (7736) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-11-27 11:34:11 CST
+- **產生時間**: 2025-11-29 11:34:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
