@@ -1,34 +1,51 @@
 /* DataTables customization for Stock Analysis System */
-/* Version: 1.0.0 */
+/* Version: 1.0.4 */
 /* Purpose: Styling for sortable dividend report tables */
 
-/* DataTables wrapper styling */
+/* Force table to match Material for MkDocs article text size */
+.md-typeset .dataTables_wrapper,
+.md-typeset .sortable-table {
+    font-size: 0.8rem !important;
+}
+
+/* DataTables wrapper styling - inherit font from article */
 .dataTables_wrapper {
-    font-family: 'Noto Serif TC', 'Noto Sans TC', sans-serif;
+    font-family: inherit !important;
+    font-size: 0.8rem !important;
     margin: 1.5em 0;
 }
 
 /* Table styling for sortable tables */
-.sortable-table table {
+.sortable-table table,
+.md-typeset .sortable-table table,
+table.dataTable {
     width: 100% !important;
     border-collapse: collapse;
     margin: 1em 0;
+    font-family: inherit !important;
+    font-size: 0.8rem !important;
 }
 
-.sortable-table th {
+.sortable-table th,
+.md-typeset .sortable-table th,
+table.dataTable thead th {
     background-color: var(--md-primary-fg-color);
     color: var(--md-primary-bg-color);
     font-weight: bold;
+    font-size: 0.8rem !important;
     padding: 0.8em 0.5em;
     text-align: center;
     cursor: pointer;
     border-bottom: 2px solid var(--md-primary-fg-color--dark);
 }
 
-.sortable-table td {
+.sortable-table td,
+.md-typeset .sortable-table td,
+table.dataTable tbody td {
     padding: 0.6em 0.5em;
     text-align: center;
     border-bottom: 1px solid var(--md-default-fg-color--lightest);
+    font-size: 0.8rem !important;
 }
 
 .sortable-table tbody tr:hover {
@@ -48,6 +65,7 @@
 
 .dataTables_filter label {
     font-weight: normal;
+    font-size: 0.8rem !important;
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -57,7 +75,8 @@
     padding: 0.5em 1em;
     border: 1px solid var(--md-default-fg-color--lightest);
     border-radius: 4px;
-    font-size: 0.9em;
+    font-size: 0.8rem !important;
+    font-family: inherit !important;
     margin-left: 0.5em;
     min-width: 250px;
 }
@@ -73,10 +92,16 @@
     margin-bottom: 1em;
 }
 
+.dataTables_length label {
+    font-size: 0.8rem !important;
+}
+
 .dataTables_length select {
     padding: 0.4em 2em 0.4em 0.5em;
     border: 1px solid var(--md-default-fg-color--lightest);
     border-radius: 4px;
+    font-size: 0.8rem !important;
+    font-family: inherit !important;
     margin: 0 0.5em;
     cursor: pointer;
 }
@@ -85,7 +110,7 @@
 .dataTables_info {
     padding: 0.8em 0;
     color: var(--md-default-fg-color--light);
-    font-size: 0.9em;
+    font-size: 0.8rem !important;
 }
 
 .dataTables_paginate {
@@ -101,6 +126,8 @@
     cursor: pointer;
     background-color: var(--md-default-bg-color);
     color: var(--md-default-fg-color);
+    font-size: 0.8rem !important;
+    font-family: inherit !important;
     display: inline-block;
     text-decoration: none;
 }
@@ -162,6 +189,7 @@ table.dataTable thead .sorting_desc {
     color: var(--md-primary-fg-color);
     text-decoration: none;
     font-weight: 500;
+    font-size: inherit;
 }
 
 .sortable-table a:hover {
@@ -261,4 +289,6 @@ mark {
     border: 1px solid var(--md-default-fg-color--lightest);
     border-radius: 4px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    font-size: 0.8rem !important;
+    font-family: inherit !important;
 }

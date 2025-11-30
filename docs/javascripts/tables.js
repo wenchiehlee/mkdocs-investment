@@ -22,7 +22,7 @@ document$.subscribe(function() {
         $table.DataTable({
             // Pagination
             paging: true,
-            pageLength: 25,
+            pageLength: -1,  // Show all items by default
             lengthMenu: [[10, 25, 50, 100, -1], [10, 25, 50, 100, "全部"]],
 
             // Search/Filter
