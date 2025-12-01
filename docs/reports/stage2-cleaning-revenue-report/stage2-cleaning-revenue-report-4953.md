@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-11-30
+date: 2025-12-01
 categories:
   - 股票
   - 月營收
@@ -19,13 +19,13 @@ description: 月營收表 緯軟 (4953) - 自動產生
     **:building_construction: 公司名稱**: 緯軟  
     **:identification_card: 股票代號**: 4953  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-11-30 11:46:54 CST
+    **:clock3: 更新時間**: 2025-12-01 12:03:35 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **40** 個月 | 2022/07 至 2025/10 |
+| <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **39** 個月 | 2022/08 至 2025/10 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (緯軟) - 非對稱分布
@@ -88,7 +88,6 @@ description: 月營收表 緯軟 (4953) - 自動產生
 | **2022/10** | **6.72** | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | **76.9** | <span style="color: #DC143C; font-weight: bold;">8.09</span> | <span style="color: #228B22; font-weight: bold;">9.5</span> |
 | **2022/09** | **7.02** | <span style="color: #DC143C; font-weight: bold;">+29</span> | <span style="color: #FF4500; font-weight: bold;">+32.1</span> | **79.9** | <span style="color: #DC143C; font-weight: bold;">7.98</span> | <span style="color: #228B22; font-weight: bold;">10.02</span> |
 | **2022/08** | **6.99** | <span style="color: #FF4500; font-weight: bold;">+33.3</span> | <span style="color: #FF4500; font-weight: bold;">+32.6</span> | **88.5** | <span style="color: #DC143C; font-weight: bold;">7.86</span> | <span style="color: #006400; font-weight: bold;">11.26</span> |
-| **2022/07** | **6.77** | <span style="color: #DC143C; font-weight: bold;">+27.9</span> | <span style="color: #FF4500; font-weight: bold;">+32.5</span> | **78.1** | <span style="color: #DC143C; font-weight: bold;">7.74</span> | <span style="color: #228B22; font-weight: bold;">10.09</span> |
 
 </div>
 
@@ -184,7 +183,7 @@ description: 月營收表 緯軟 (4953) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-11-30 11:46:54 CST
+- **產生時間**: 2025-12-01 12:03:35 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
