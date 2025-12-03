@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 力領科技 (6996) - 自動產生
     **:building_construction: 公司名稱**: 力領科技  
     **:identification_card: 股票代號**: 6996  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
@@ -32,15 +32,15 @@ description: 月營收表 力領科技 (6996) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **11.67** | **13.15** | **14.49** |
-| **P/E倍數** | **11.91** | **13.25** | **14.85** |
+| **EPS(元)** | **11.46** | **12.93** | **14.51** |
+| **P/E倍數** | **11.72** | **13.22** | **14.62** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 力領科技 歷史平均獲利能力 (σup=1.35, σlo=1.48)
-    - **P/Ebase**: 力領科技 歷史平均估值水準 (σup=1.59, σlo=1.34)
+    - **EPSbase**: 力領科技 歷史平均獲利能力 (σup=1.59, σlo=1.47)
+    - **P/Ebase**: 力領科技 歷史平均估值水準 (σup=1.40, σlo=1.49)
 
 
 ## :moneybag: 月營收數據
@@ -49,16 +49,16 @@ description: 月營收表 力領科技 (6996) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **2.67** | <span style="color: #B22222; font-weight: bold;">+15.1</span> | <span style="color: #004225; font-weight: bold;">-12.6</span> | **152.5** | <span style="color: #228B22; font-weight: bold;">10.92</span> | <span style="color: #8B0000; font-weight: bold;">13.96</span> |
-| **2025/09** | **2.44** | <span style="color: #002818; font-weight: bold;">-3.89</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **149.5** | <span style="color: #006400; font-weight: bold;">11.37</span> | <span style="color: #002818; font-weight: bold;">13.15</span> |
-| **2025/08** | **2.23** | <span style="color: #004225; font-weight: bold;">-16.8</span> | <span style="color: #004225; font-weight: bold;">-16.9</span> | **150** | <span style="color: #004225; font-weight: bold;">11.81</span> | <span style="color: #002818; font-weight: bold;">12.7</span> |
-| **2025/07** | **1.92** | <span style="color: #006400; font-weight: bold;">-27</span> | <span style="color: #004225; font-weight: bold;">-16.9</span> | **137** | <span style="color: #004225; font-weight: bold;">12.26</span> | <span style="color: #228B22; font-weight: bold;">11.18</span> |
-| **2025/06** | **1.84** | <span style="color: #004225; font-weight: bold;">-18.6</span> | <span style="color: #004225; font-weight: bold;">-15.1</span> | **145.5** | <span style="color: #002818; font-weight: bold;">12.7</span> | <span style="color: #006400; font-weight: bold;">11.45</span> |
-| **2025/05** | **1.8** | <span style="color: #228B22; font-weight: bold;">-36.1</span> | <span style="color: #004225; font-weight: bold;">-14.4</span> | **158.5** | <span style="color: #8B0000; font-weight: bold;">13.15</span> | <span style="color: #004225; font-weight: bold;">12.06</span> |
-| **2025/04** | **2.52** | <span style="color: #002818; font-weight: bold;">-6.68</span> | <span style="color: #002818; font-weight: bold;">-8</span> | **163.5** | <span style="color: #8B0000; font-weight: bold;">13.59</span> | <span style="color: #004225; font-weight: bold;">12.03</span> |
-| **2025/03** | **2.32** | <span style="color: #002818; font-weight: bold;">-5.83</span> | <span style="color: #002818; font-weight: bold;">-8.52</span> | **189** | <span style="color: #B22222; font-weight: bold;">14.04</span> | <span style="color: #8B0000; font-weight: bold;">13.47</span> |
-| **2025/02** | **1.94** | <span style="color: #8B0000; font-weight: bold;">+1.04</span> | <span style="color: #002818; font-weight: bold;">-10</span> | **220.5** | <span style="color: #B22222; font-weight: bold;">14.48</span> | <span style="color: #DC143C; font-weight: bold;">15.23</span> |
-| **2025/01** | **1.98** | <span style="color: #004225; font-weight: bold;">-18.8</span> | <span style="color: #004225; font-weight: bold;">-18.8</span> | **229** | <span style="color: #DC143C; font-weight: bold;">14.93</span> | <span style="color: #DC143C; font-weight: bold;">15.34</span> |
+| **2025/10** | **2.67** | <span style="color: #B22222; font-weight: bold;">+15.1</span> | <span style="color: #004225; font-weight: bold;">-12.6</span> | **152.5** | <span style="color: #006400; font-weight: bold;">11.3</span> | <span style="color: #8B0000; font-weight: bold;">13.5</span> |
+| **2025/09** | **2.44** | <span style="color: #002818; font-weight: bold;">-3.89</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **149.5** | <span style="color: #004225; font-weight: bold;">11.7</span> | <span style="color: #002818; font-weight: bold;">12.78</span> |
+| **2025/08** | **2.23** | <span style="color: #004225; font-weight: bold;">-16.8</span> | <span style="color: #004225; font-weight: bold;">-16.9</span> | **150** | <span style="color: #004225; font-weight: bold;">12.11</span> | <span style="color: #004225; font-weight: bold;">12.39</span> |
+| **2025/07** | **1.92** | <span style="color: #006400; font-weight: bold;">-27</span> | <span style="color: #004225; font-weight: bold;">-16.9</span> | **137** | <span style="color: #002818; font-weight: bold;">12.52</span> | <span style="color: #228B22; font-weight: bold;">10.94</span> |
+| **2025/06** | **1.84** | <span style="color: #004225; font-weight: bold;">-18.6</span> | <span style="color: #004225; font-weight: bold;">-15.1</span> | **145.5** | <span style="color: #002818; font-weight: bold;">12.92</span> | <span style="color: #006400; font-weight: bold;">11.26</span> |
+| **2025/05** | **1.8** | <span style="color: #228B22; font-weight: bold;">-36.1</span> | <span style="color: #004225; font-weight: bold;">-14.4</span> | **158.5** | <span style="color: #8B0000; font-weight: bold;">13.33</span> | <span style="color: #004225; font-weight: bold;">11.89</span> |
+| **2025/04** | **2.52** | <span style="color: #002818; font-weight: bold;">-6.68</span> | <span style="color: #002818; font-weight: bold;">-8</span> | **163.5** | <span style="color: #B22222; font-weight: bold;">13.74</span> | <span style="color: #004225; font-weight: bold;">11.9</span> |
+| **2025/03** | **2.32** | <span style="color: #002818; font-weight: bold;">-5.83</span> | <span style="color: #002818; font-weight: bold;">-8.52</span> | **189** | <span style="color: #B22222; font-weight: bold;">14.15</span> | <span style="color: #8B0000; font-weight: bold;">13.36</span> |
+| **2025/02** | **1.94** | <span style="color: #8B0000; font-weight: bold;">+1.04</span> | <span style="color: #002818; font-weight: bold;">-10</span> | **220.5** | <span style="color: #DC143C; font-weight: bold;">14.56</span> | <span style="color: #DC143C; font-weight: bold;">15.15</span> |
+| **2025/01** | **1.98** | <span style="color: #004225; font-weight: bold;">-18.8</span> | <span style="color: #004225; font-weight: bold;">-18.8</span> | **229** | <span style="color: #DC143C; font-weight: bold;">14.96</span> | <span style="color: #DC143C; font-weight: bold;">15.3</span> |
 | **2024/12** | **2.34** | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #B22222; font-weight: bold;">+11.8</span> | **234** | <span style="color: #FF4500; font-weight: bold;">15.37</span> | <span style="color: #DC143C; font-weight: bold;">15.22</span> |
 | **2024/11** | **2.58** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #B22222; font-weight: bold;">+11</span> | **-** | N/A | N/A |
 | **2024/10** | **2.32** | <span style="color: #006400; font-weight: bold;">-20.9</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **-** | N/A | N/A |
@@ -171,7 +171,7 @@ description: 月營收表 力領科技 (6996) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

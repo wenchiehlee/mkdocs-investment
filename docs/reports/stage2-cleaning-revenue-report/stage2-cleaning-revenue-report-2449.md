@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,28 +19,28 @@ description: 月營收表 京元電子 (2449) - 自動產生
     **:building_construction: 公司名稱**: 京元電子  
     **:identification_card: 股票代號**: 2449  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF6347; font-weight: bold;">+41.8</span> | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | **240** 個月 | 2005/11 至 2025/10 |
+| <span style="color: #FF6347; font-weight: bold;">+41.8</span> | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | **239** 個月 | 2005/12 至 2025/10 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (京元電子) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.15** | **2.47** | **5.18** |
-| **P/E倍數** | **11.93** | **16.36** | **74.49** |
+| **EPS(元)** | **1.18** | **2.52** | **5.38** |
+| **P/E倍數** | **11.96** | **16.47** | **74.61** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 京元電子 歷史平均獲利能力 (σup=2.71, σlo=1.32)
-    - **P/Ebase**: 京元電子 歷史平均估值水準 (σup=58.13, σlo=4.44)
+    - **EPSbase**: 京元電子 歷史平均獲利能力 (σup=2.86, σlo=1.34)
+    - **P/Ebase**: 京元電子 歷史平均估值水準 (σup=58.14, σlo=4.51)
 
 
 ## :moneybag: 月營收數據
@@ -49,16 +49,16 @@ description: 月營收表 京元電子 (2449) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **34.19** | <span style="color: #FF6347; font-weight: bold;">+41.8</span> | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | **217** | <span style="color: #FF6347; font-weight: bold;">8.74</span> | <span style="color: #8B0000; font-weight: bold;">24.82</span> |
-| **2025/09** | **32.71** | <span style="color: #FF4500; font-weight: bold;">+39.6</span> | <span style="color: #DC143C; font-weight: bold;">+27.6</span> | **164** | <span style="color: #FF6347; font-weight: bold;">8.5</span> | <span style="color: #8B0000; font-weight: bold;">19.29</span> |
-| **2025/08** | **31.01** | <span style="color: #FF4500; font-weight: bold;">+31.9</span> | <span style="color: #DC143C; font-weight: bold;">+26</span> | **156** | <span style="color: #FF6347; font-weight: bold;">8.27</span> | <span style="color: #8B0000; font-weight: bold;">18.87</span> |
-| **2025/07** | **29.18** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | **118** | <span style="color: #FF6347; font-weight: bold;">8.03</span> | <span style="color: #002818; font-weight: bold;">14.7</span> |
-| **2025/06** | **28.15** | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | **102** | <span style="color: #FF4500; font-weight: bold;">7.79</span> | <span style="color: #004225; font-weight: bold;">13.1</span> |
-| **2025/05** | **27.65** | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | **97** | <span style="color: #FF4500; font-weight: bold;">7.55</span> | <span style="color: #004225; font-weight: bold;">12.85</span> |
-| **2025/04** | **27.82** | <span style="color: #FF4500; font-weight: bold;">+33.8</span> | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | **86.8** | <span style="color: #FF4500; font-weight: bold;">7.31</span> | <span style="color: #006400; font-weight: bold;">11.87</span> |
-| **2025/03** | **26.44** | <span style="color: #DC143C; font-weight: bold;">+24.3</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **87.7** | <span style="color: #FF4500; font-weight: bold;">7.07</span> | <span style="color: #004225; font-weight: bold;">12.4</span> |
-| **2025/02** | **22.86** | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **107.5** | <span style="color: #FF4500; font-weight: bold;">6.84</span> | <span style="color: #002818; font-weight: bold;">15.72</span> |
-| **2025/01** | **23.85** | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **113.5** | <span style="color: #FF4500; font-weight: bold;">6.6</span> | <span style="color: #8B0000; font-weight: bold;">17.2</span> |
+| **2025/10** | **34.19** | <span style="color: #FF6347; font-weight: bold;">+41.8</span> | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | **217** | <span style="color: #FF6347; font-weight: bold;">8.42</span> | <span style="color: #8B0000; font-weight: bold;">25.78</span> |
+| **2025/09** | **32.71** | <span style="color: #FF4500; font-weight: bold;">+39.6</span> | <span style="color: #DC143C; font-weight: bold;">+27.6</span> | **164** | <span style="color: #FF4500; font-weight: bold;">8.21</span> | <span style="color: #8B0000; font-weight: bold;">19.97</span> |
+| **2025/08** | **31.01** | <span style="color: #FF4500; font-weight: bold;">+31.9</span> | <span style="color: #DC143C; font-weight: bold;">+26</span> | **156** | <span style="color: #FF4500; font-weight: bold;">8.01</span> | <span style="color: #8B0000; font-weight: bold;">19.48</span> |
+| **2025/07** | **29.18** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | **118** | <span style="color: #FF4500; font-weight: bold;">7.8</span> | <span style="color: #002818; font-weight: bold;">15.13</span> |
+| **2025/06** | **28.15** | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | **102** | <span style="color: #FF4500; font-weight: bold;">7.6</span> | <span style="color: #004225; font-weight: bold;">13.43</span> |
+| **2025/05** | **27.65** | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | **97** | <span style="color: #FF4500; font-weight: bold;">7.39</span> | <span style="color: #004225; font-weight: bold;">13.13</span> |
+| **2025/04** | **27.82** | <span style="color: #FF4500; font-weight: bold;">+33.8</span> | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | **86.8** | <span style="color: #FF4500; font-weight: bold;">7.18</span> | <span style="color: #004225; font-weight: bold;">12.08</span> |
+| **2025/03** | **26.44** | <span style="color: #DC143C; font-weight: bold;">+24.3</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **87.7** | <span style="color: #FF4500; font-weight: bold;">6.98</span> | <span style="color: #004225; font-weight: bold;">12.57</span> |
+| **2025/02** | **22.86** | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **107.5** | <span style="color: #DC143C; font-weight: bold;">6.77</span> | <span style="color: #002818; font-weight: bold;">15.87</span> |
+| **2025/01** | **23.85** | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **113.5** | <span style="color: #DC143C; font-weight: bold;">6.57</span> | <span style="color: #8B0000; font-weight: bold;">17.29</span> |
 | **2024/12** | **24.46** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **111.5** | <span style="color: #DC143C; font-weight: bold;">6.36</span> | <span style="color: #8B0000; font-weight: bold;">17.53</span> |
 | **2024/11** | **24.4** | <span style="color: #B22222; font-weight: bold;">+16.3</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **126.5** | <span style="color: #DC143C; font-weight: bold;">6.23</span> | <span style="color: #8B0000; font-weight: bold;">20.31</span> |
 | **2024/10** | **24.11** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **125.5** | <span style="color: #DC143C; font-weight: bold;">6.1</span> | <span style="color: #8B0000; font-weight: bold;">20.59</span> |
@@ -67,7 +67,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **2024/07** | **23.45** | <span style="color: #B22222; font-weight: bold;">+14.5</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **105** | <span style="color: #DC143C; font-weight: bold;">5.7</span> | <span style="color: #8B0000; font-weight: bold;">18.42</span> |
 | **2024/06** | **22.47** | <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.72</span> | **119** | <span style="color: #DC143C; font-weight: bold;">5.57</span> | <span style="color: #8B0000; font-weight: bold;">21.36</span> |
 | **2024/05** | **22.17** | <span style="color: #B22222; font-weight: bold;">+11.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.4</span> | **88.2** | <span style="color: #DC143C; font-weight: bold;">5.44</span> | <span style="color: #002818; font-weight: bold;">16.22</span> |
-| **2024/04** | **20.79** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #8B0000; font-weight: bold;">+8.75</span> | **95.8** | <span style="color: #DC143C; font-weight: bold;">5.31</span> | <span style="color: #8B0000; font-weight: bold;">18.05</span> |
+| **2024/04** | **20.79** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #8B0000; font-weight: bold;">+8.75</span> | **95.8** | <span style="color: #B22222; font-weight: bold;">5.31</span> | <span style="color: #8B0000; font-weight: bold;">18.05</span> |
 | **2024/03** | **21.28** | <span style="color: #006400; font-weight: bold;">-21.3</span> | <span style="color: #006400; font-weight: bold;">-23</span> | **105.5** | <span style="color: #B22222; font-weight: bold;">5.18</span> | <span style="color: #8B0000; font-weight: bold;">20.39</span> |
 | **2024/02** | **18.85** | <span style="color: #006400; font-weight: bold;">-24.5</span> | <span style="color: #006400; font-weight: bold;">-24</span> | **88.8** | <span style="color: #B22222; font-weight: bold;">5.04</span> | <span style="color: #8B0000; font-weight: bold;">17.61</span> |
 | **2024/01** | **19.65** | <span style="color: #006400; font-weight: bold;">-23.4</span> | <span style="color: #006400; font-weight: bold;">-23.4</span> | **84** | <span style="color: #B22222; font-weight: bold;">4.91</span> | <span style="color: #8B0000; font-weight: bold;">17.1</span> |
@@ -78,15 +78,15 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **2023/08** | **20.92** | <span style="color: #006400; font-weight: bold;">-27.7</span> | <span style="color: #228B22; font-weight: bold;">-37.8</span> | **76.8** | <span style="color: #B22222; font-weight: bold;">5.05</span> | <span style="color: #002818; font-weight: bold;">15.21</span> |
 | **2023/07** | **20.48** | <span style="color: #228B22; font-weight: bold;">-35.9</span> | <span style="color: #228B22; font-weight: bold;">-39.1</span> | **63** | <span style="color: #B22222; font-weight: bold;">5.12</span> | <span style="color: #004225; font-weight: bold;">12.31</span> |
 | **2023/06** | **20.2** | <span style="color: #228B22; font-weight: bold;">-37.5</span> | <span style="color: #228B22; font-weight: bold;">-39.7</span> | **57** | <span style="color: #B22222; font-weight: bold;">5.18</span> | <span style="color: #006400; font-weight: bold;">10.99</span> |
-| **2023/05** | **19.83** | <span style="color: #32CD32; font-weight: bold;">-40.2</span> | <span style="color: #32CD32; font-weight: bold;">-40.1</span> | **54** | <span style="color: #DC143C; font-weight: bold;">5.25</span> | <span style="color: #006400; font-weight: bold;">10.28</span> |
-| **2023/04** | **18.66** | <span style="color: #32CD32; font-weight: bold;">-44.8</span> | <span style="color: #32CD32; font-weight: bold;">-40.1</span> | **47** | <span style="color: #DC143C; font-weight: bold;">5.32</span> | <span style="color: #228B22; font-weight: bold;">8.83</span> |
+| **2023/05** | **19.83** | <span style="color: #32CD32; font-weight: bold;">-40.2</span> | <span style="color: #32CD32; font-weight: bold;">-40.1</span> | **54** | <span style="color: #B22222; font-weight: bold;">5.25</span> | <span style="color: #006400; font-weight: bold;">10.28</span> |
+| **2023/04** | **18.66** | <span style="color: #32CD32; font-weight: bold;">-44.8</span> | <span style="color: #32CD32; font-weight: bold;">-40.1</span> | **47** | <span style="color: #B22222; font-weight: bold;">5.32</span> | <span style="color: #228B22; font-weight: bold;">8.83</span> |
 | **2023/03** | **27.03** | <span style="color: #004225; font-weight: bold;">-17.8</span> | <span style="color: #004225; font-weight: bold;">-13.6</span> | **48.5** | <span style="color: #DC143C; font-weight: bold;">5.39</span> | <span style="color: #228B22; font-weight: bold;">9.0</span> |
 | **2023/02** | **24.98** | <span style="color: #002818; font-weight: bold;">-4.15</span> | <span style="color: #004225; font-weight: bold;">-11.1</span> | **41.85** | <span style="color: #DC143C; font-weight: bold;">5.46</span> | <span style="color: #228B22; font-weight: bold;">7.67</span> |
 | **2023/01** | **25.64** | <span style="color: #004225; font-weight: bold;">-17</span> | <span style="color: #004225; font-weight: bold;">-17</span> | **38.3** | <span style="color: #DC143C; font-weight: bold;">5.52</span> | <span style="color: #32CD32; font-weight: bold;">6.94</span> |
 | **2022/12** | **29.33** | <span style="color: #004225; font-weight: bold;">-10.3</span> | <span style="color: #8B0000; font-weight: bold;">+8.95</span> | **36.2** | <span style="color: #DC143C; font-weight: bold;">5.59</span> | <span style="color: #32CD32; font-weight: bold;">6.48</span> |
 | **2022/11** | **28.78** | <span style="color: #002818; font-weight: bold;">-9.9</span> | <span style="color: #B22222; font-weight: bold;">+11</span> | **35.55** | <span style="color: #DC143C; font-weight: bold;">5.48</span> | <span style="color: #32CD32; font-weight: bold;">6.49</span> |
-| **2022/10** | **30.39** | <span style="color: #002818; font-weight: bold;">-0.97</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **32.7** | <span style="color: #DC143C; font-weight: bold;">5.36</span> | <span style="color: #32CD32; font-weight: bold;">6.1</span> |
-| **2022/09** | **29.32** | <span style="color: #002818; font-weight: bold;">-2.1</span> | <span style="color: #B22222; font-weight: bold;">+15.3</span> | **30.8** | <span style="color: #DC143C; font-weight: bold;">5.25</span> | <span style="color: #32CD32; font-weight: bold;">5.87</span> |
+| **2022/10** | **30.39** | <span style="color: #002818; font-weight: bold;">-0.97</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **32.7** | <span style="color: #B22222; font-weight: bold;">5.36</span> | <span style="color: #32CD32; font-weight: bold;">6.1</span> |
+| **2022/09** | **29.32** | <span style="color: #002818; font-weight: bold;">-2.1</span> | <span style="color: #B22222; font-weight: bold;">+15.3</span> | **30.8** | <span style="color: #B22222; font-weight: bold;">5.25</span> | <span style="color: #32CD32; font-weight: bold;">5.87</span> |
 | **2022/08** | **28.92** | <span style="color: #002818; font-weight: bold;">-5.01</span> | <span style="color: #B22222; font-weight: bold;">+17.8</span> | **37.35** | <span style="color: #B22222; font-weight: bold;">5.14</span> | <span style="color: #32CD32; font-weight: bold;">7.27</span> |
 | **2022/07** | **31.96** | <span style="color: #8B0000; font-weight: bold;">+8.08</span> | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | **39.25** | <span style="color: #B22222; font-weight: bold;">5.02</span> | <span style="color: #228B22; font-weight: bold;">7.81</span> |
 | **2022/06** | **32.32** | <span style="color: #FF7F7F; font-weight: bold;">+63.3</span> | <span style="color: #DC143C; font-weight: bold;">+24.2</span> | **40** | <span style="color: #B22222; font-weight: bold;">4.91</span> | <span style="color: #228B22; font-weight: bold;">8.15</span> |
@@ -98,7 +98,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **2021/12** | **32.71** | <span style="color: #FF4500; font-weight: bold;">+38.1</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **44.8** | <span style="color: #B22222; font-weight: bold;">4.23</span> | <span style="color: #006400; font-weight: bold;">10.59</span> |
 | **2021/11** | **31.94** | <span style="color: #FF4500; font-weight: bold;">+36.9</span> | <span style="color: #B22222; font-weight: bold;">+14.7</span> | **43.6** | <span style="color: #B22222; font-weight: bold;">4.12</span> | <span style="color: #006400; font-weight: bold;">10.57</span> |
 | **2021/10** | **30.69** | <span style="color: #FF4500; font-weight: bold;">+37.3</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **39.75** | <span style="color: #B22222; font-weight: bold;">4.02</span> | <span style="color: #006400; font-weight: bold;">9.89</span> |
-| **2021/09** | **29.95** | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | <span style="color: #B22222; font-weight: bold;">+10</span> | **40.95** | <span style="color: #B22222; font-weight: bold;">3.92</span> | <span style="color: #006400; font-weight: bold;">10.46</span> |
+| **2021/09** | **29.95** | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | <span style="color: #B22222; font-weight: bold;">+10</span> | **40.95** | <span style="color: #8B0000; font-weight: bold;">3.92</span> | <span style="color: #006400; font-weight: bold;">10.46</span> |
 | **2021/08** | **30.45** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #8B0000; font-weight: bold;">+8.13</span> | **45.6** | <span style="color: #8B0000; font-weight: bold;">3.81</span> | <span style="color: #004225; font-weight: bold;">11.97</span> |
 | **2021/07** | **29.57** | <span style="color: #B22222; font-weight: bold;">+19.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.15</span> | **46.4** | <span style="color: #8B0000; font-weight: bold;">3.71</span> | <span style="color: #004225; font-weight: bold;">12.52</span> |
 | **2021/06** | **19.78** | <span style="color: #006400; font-weight: bold;">-20.5</span> | <span style="color: #8B0000; font-weight: bold;">+3.87</span> | **44.9** | <span style="color: #8B0000; font-weight: bold;">3.6</span> | <span style="color: #004225; font-weight: bold;">12.47</span> |
@@ -119,7 +119,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **2020/03** | **24.91** | <span style="color: #FF4500; font-weight: bold;">+35.4</span> | <span style="color: #FF4500; font-weight: bold;">+33.1</span> | **30.25** | <span style="color: #8B0000; font-weight: bold;">2.61</span> | <span style="color: #006400; font-weight: bold;">11.59</span> |
 | **2020/02** | **22.24** | <span style="color: #FF4500; font-weight: bold;">+38.1</span> | <span style="color: #FF4500; font-weight: bold;">+31.9</span> | **32.75** | <span style="color: #8B0000; font-weight: bold;">2.57</span> | <span style="color: #004225; font-weight: bold;">12.74</span> |
 | **2020/01** | **22.87** | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | **32.65** | <span style="color: #8B0000; font-weight: bold;">2.53</span> | <span style="color: #004225; font-weight: bold;">12.91</span> |
-| **2019/12** | **23.99** | <span style="color: #DC143C; font-weight: bold;">+23.3</span> | <span style="color: #DC143C; font-weight: bold;">+22.7</span> | **37.55** | <span style="color: #8B0000; font-weight: bold;">2.49</span> | <span style="color: #002818; font-weight: bold;">15.08</span> |
+| **2019/12** | **23.99** | <span style="color: #DC143C; font-weight: bold;">+23.3</span> | <span style="color: #DC143C; font-weight: bold;">+22.7</span> | **37.55** | <span style="color: #002818; font-weight: bold;">2.49</span> | <span style="color: #002818; font-weight: bold;">15.08</span> |
 | **2019/11** | **23.77** | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | **36.9** | <span style="color: #002818; font-weight: bold;">2.41</span> | <span style="color: #002818; font-weight: bold;">15.34</span> |
 | **2019/10** | **23.71** | <span style="color: #FF4500; font-weight: bold;">+31.3</span> | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | **38.25** | <span style="color: #002818; font-weight: bold;">2.32</span> | <span style="color: #8B0000; font-weight: bold;">16.49</span> |
 | **2019/09** | **23.01** | <span style="color: #DC143C; font-weight: bold;">+26.7</span> | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | **34.85** | <span style="color: #002818; font-weight: bold;">2.24</span> | <span style="color: #002818; font-weight: bold;">15.59</span> |
@@ -138,7 +138,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **2018/08** | **18.85** | <span style="color: #8B0000; font-weight: bold;">+9.4</span> | <span style="color: #8B0000; font-weight: bold;">+1.41</span> | **21.7** | <span style="color: #004225; font-weight: bold;">1.61</span> | <span style="color: #004225; font-weight: bold;">13.51</span> |
 | **2018/07** | **18.19** | <span style="color: #8B0000; font-weight: bold;">+6.74</span> | <span style="color: #8B0000; font-weight: bold;">+0.21</span> | **26.4** | <span style="color: #004225; font-weight: bold;">1.64</span> | <span style="color: #002818; font-weight: bold;">16.09</span> |
 | **2018/06** | **17.16** | <span style="color: #8B0000; font-weight: bold;">+4.49</span> | <span style="color: #002818; font-weight: bold;">-0.93</span> | **27.75** | <span style="color: #004225; font-weight: bold;">1.67</span> | <span style="color: #8B0000; font-weight: bold;">16.57</span> |
-| **2018/05** | **17.13** | <span style="color: #8B0000; font-weight: bold;">+5.22</span> | <span style="color: #002818; font-weight: bold;">-2.03</span> | **28.1** | <span style="color: #004225; font-weight: bold;">1.71</span> | <span style="color: #8B0000; font-weight: bold;">16.44</span> |
+| **2018/05** | **17.13** | <span style="color: #8B0000; font-weight: bold;">+5.22</span> | <span style="color: #002818; font-weight: bold;">-2.03</span> | **28.1** | <span style="color: #004225; font-weight: bold;">1.71</span> | <span style="color: #002818; font-weight: bold;">16.44</span> |
 | **2018/04** | **16.11** | <span style="color: #8B0000; font-weight: bold;">+2.46</span> | <span style="color: #002818; font-weight: bold;">-3.87</span> | **29.4** | <span style="color: #004225; font-weight: bold;">1.74</span> | <span style="color: #8B0000; font-weight: bold;">16.86</span> |
 | **2018/03** | **16.37** | <span style="color: #002818; font-weight: bold;">-2.25</span> | <span style="color: #002818; font-weight: bold;">-5.91</span> | **30.5** | <span style="color: #004225; font-weight: bold;">1.78</span> | <span style="color: #8B0000; font-weight: bold;">17.16</span> |
 | **2018/02** | **14.07** | <span style="color: #002818; font-weight: bold;">-6.85</span> | <span style="color: #002818; font-weight: bold;">-7.83</span> | **31.5** | <span style="color: #004225; font-weight: bold;">1.81</span> | <span style="color: #8B0000; font-weight: bold;">17.39</span> |
@@ -154,9 +154,9 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **2017/04** | **15.72** | <span style="color: #002818; font-weight: bold;">-1.79</span> | <span style="color: #8B0000; font-weight: bold;">+8.08</span> | **27.25** | <span style="color: #002818; font-weight: bold;">2.33</span> | <span style="color: #006400; font-weight: bold;">11.68</span> |
 | **2017/03** | **16.75** | <span style="color: #8B0000; font-weight: bold;">+6.72</span> | <span style="color: #B22222; font-weight: bold;">+11.7</span> | **28** | <span style="color: #002818; font-weight: bold;">2.39</span> | <span style="color: #006400; font-weight: bold;">11.72</span> |
 | **2017/02** | **15.1** | <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **28.75** | <span style="color: #002818; font-weight: bold;">2.45</span> | <span style="color: #006400; font-weight: bold;">11.75</span> |
-| **2017/01** | **16.83** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #B22222; font-weight: bold;">+17.7</span> | **27** | <span style="color: #8B0000; font-weight: bold;">2.5</span> | <span style="color: #006400; font-weight: bold;">10.79</span> |
+| **2017/01** | **16.83** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #B22222; font-weight: bold;">+17.7</span> | **27** | <span style="color: #002818; font-weight: bold;">2.5</span> | <span style="color: #006400; font-weight: bold;">10.79</span> |
 | **2016/12** | **17.18** | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | <span style="color: #B22222; font-weight: bold;">+17.2</span> | **25.2** | <span style="color: #8B0000; font-weight: bold;">2.56</span> | <span style="color: #006400; font-weight: bold;">9.84</span> |
-| **2016/11** | **17.14** | <span style="color: #DC143C; font-weight: bold;">+20.7</span> | <span style="color: #B22222; font-weight: bold;">+16.9</span> | **26.35** | <span style="color: #8B0000; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">10.51</span> |
+| **2016/11** | **17.14** | <span style="color: #DC143C; font-weight: bold;">+20.7</span> | <span style="color: #B22222; font-weight: bold;">+16.9</span> | **26.35** | <span style="color: #002818; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">10.51</span> |
 | **2016/10** | **18.02** | <span style="color: #DC143C; font-weight: bold;">+23.7</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **27.75** | <span style="color: #002818; font-weight: bold;">2.46</span> | <span style="color: #006400; font-weight: bold;">11.3</span> |
 | **2016/09** | **18.05** | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #B22222; font-weight: bold;">+15.7</span> | **27.85** | <span style="color: #002818; font-weight: bold;">2.4</span> | <span style="color: #006400; font-weight: bold;">11.59</span> |
 | **2016/08** | **18.22** | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | <span style="color: #B22222; font-weight: bold;">+14.7</span> | **29.15** | <span style="color: #002818; font-weight: bold;">2.35</span> | <span style="color: #004225; font-weight: bold;">12.4</span> |
@@ -185,7 +185,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **2014/09** | **14.43** | <span style="color: #B22222; font-weight: bold;">+17</span> | <span style="color: #8B0000; font-weight: bold;">+9.56</span> | **25.9** | <span style="color: #002818; font-weight: bold;">2.0</span> | <span style="color: #004225; font-weight: bold;">12.98</span> |
 | **2014/08** | **14.51** | <span style="color: #B22222; font-weight: bold;">+11.1</span> | <span style="color: #8B0000; font-weight: bold;">+8.62</span> | **27.35** | <span style="color: #002818; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">14.07</span> |
 | **2014/07** | **15** | <span style="color: #B22222; font-weight: bold;">+15.2</span> | <span style="color: #8B0000; font-weight: bold;">+8.23</span> | **24.85** | <span style="color: #002818; font-weight: bold;">1.89</span> | <span style="color: #004225; font-weight: bold;">13.14</span> |
-| **2014/06** | **14.36** | <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #8B0000; font-weight: bold;">+6.95</span> | **28.05** | <span style="color: #002818; font-weight: bold;">1.84</span> | <span style="color: #002818; font-weight: bold;">15.24</span> |
+| **2014/06** | **14.36** | <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #8B0000; font-weight: bold;">+6.95</span> | **28.05** | <span style="color: #004225; font-weight: bold;">1.84</span> | <span style="color: #002818; font-weight: bold;">15.24</span> |
 | **2014/05** | **13.89** | <span style="color: #8B0000; font-weight: bold;">+8.17</span> | <span style="color: #8B0000; font-weight: bold;">+6.01</span> | **26** | <span style="color: #004225; font-weight: bold;">1.79</span> | <span style="color: #002818; font-weight: bold;">14.54</span> |
 | **2014/04** | **13.02** | <span style="color: #8B0000; font-weight: bold;">+8.37</span> | <span style="color: #8B0000; font-weight: bold;">+5.41</span> | **23** | <span style="color: #004225; font-weight: bold;">1.74</span> | <span style="color: #004225; font-weight: bold;">13.24</span> |
 | **2014/03** | **12.55** | <span style="color: #8B0000; font-weight: bold;">+5.06</span> | <span style="color: #8B0000; font-weight: bold;">+4.36</span> | **25.25** | <span style="color: #004225; font-weight: bold;">1.68</span> | <span style="color: #002818; font-weight: bold;">14.99</span> |
@@ -205,7 +205,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **2013/01** | **11.46** | <span style="color: #B22222; font-weight: bold;">+10</span> | <span style="color: #B22222; font-weight: bold;">+10</span> | **17.5** | <span style="color: #004225; font-weight: bold;">1.33</span> | <span style="color: #004225; font-weight: bold;">13.17</span> |
 | **2012/12** | **-** | N/A | N/A | **18.5** | <span style="color: #004225; font-weight: bold;">1.31</span> | <span style="color: #004225; font-weight: bold;">14.12</span> |
 | **2012/11** | **-** | N/A | N/A | **16.45** | <span style="color: #004225; font-weight: bold;">1.23</span> | <span style="color: #004225; font-weight: bold;">13.35</span> |
-| **2012/10** | **-** | N/A | N/A | **15.9** | <span style="color: #004225; font-weight: bold;">1.16</span> | <span style="color: #004225; font-weight: bold;">13.77</span> |
+| **2012/10** | **-** | N/A | N/A | **15.9** | <span style="color: #006400; font-weight: bold;">1.16</span> | <span style="color: #004225; font-weight: bold;">13.77</span> |
 | **2012/09** | **-** | N/A | N/A | **16.15** | <span style="color: #006400; font-weight: bold;">1.08</span> | <span style="color: #002818; font-weight: bold;">14.99</span> |
 | **2012/08** | **-** | N/A | N/A | **16** | <span style="color: #006400; font-weight: bold;">1.0</span> | <span style="color: #002818; font-weight: bold;">16.0</span> |
 | **2012/07** | **-** | N/A | N/A | **13.15** | <span style="color: #006400; font-weight: bold;">0.92</span> | <span style="color: #002818; font-weight: bold;">14.25</span> |
@@ -254,18 +254,18 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **2008/12** | **-** | N/A | N/A | **7.2** | <span style="color: #228B22; font-weight: bold;">0.31</span> | <span style="color: #8B0000; font-weight: bold;">23.23</span> |
 | **2008/11** | **-** | N/A | N/A | **6.9** | <span style="color: #228B22; font-weight: bold;">0.42</span> | <span style="color: #002818; font-weight: bold;">16.3</span> |
 | **2008/10** | **-** | N/A | N/A | **8.75** | <span style="color: #006400; font-weight: bold;">0.54</span> | <span style="color: #002818; font-weight: bold;">16.3</span> |
-| **2008/09** | **-** | N/A | N/A | **10.65** | <span style="color: #006400; font-weight: bold;">0.65</span> | <span style="color: #8B0000; font-weight: bold;">16.38</span> |
+| **2008/09** | **-** | N/A | N/A | **10.65** | <span style="color: #006400; font-weight: bold;">0.65</span> | <span style="color: #002818; font-weight: bold;">16.38</span> |
 | **2008/08** | **-** | N/A | N/A | **13.95** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #8B0000; font-weight: bold;">18.28</span> |
 | **2008/07** | **-** | N/A | N/A | **13.2** | <span style="color: #006400; font-weight: bold;">0.88</span> | <span style="color: #002818; font-weight: bold;">15.06</span> |
 | **2008/06** | **-** | N/A | N/A | **13.2** | <span style="color: #006400; font-weight: bold;">0.99</span> | <span style="color: #004225; font-weight: bold;">13.33</span> |
 | **2008/05** | **-** | N/A | N/A | **16** | <span style="color: #006400; font-weight: bold;">1.1</span> | <span style="color: #002818; font-weight: bold;">14.5</span> |
-| **2008/04** | **-** | N/A | N/A | **17.25** | <span style="color: #004225; font-weight: bold;">1.22</span> | <span style="color: #002818; font-weight: bold;">14.18</span> |
+| **2008/04** | **-** | N/A | N/A | **17.25** | <span style="color: #004225; font-weight: bold;">1.22</span> | <span style="color: #004225; font-weight: bold;">14.18</span> |
 | **2008/03** | **-** | N/A | N/A | **15.7** | <span style="color: #004225; font-weight: bold;">1.33</span> | <span style="color: #006400; font-weight: bold;">11.8</span> |
 | **2008/02** | **-** | N/A | N/A | **15.8** | <span style="color: #004225; font-weight: bold;">1.44</span> | <span style="color: #006400; font-weight: bold;">10.95</span> |
 | **2008/01** | **-** | N/A | N/A | **13.5** | <span style="color: #004225; font-weight: bold;">1.56</span> | <span style="color: #228B22; font-weight: bold;">8.67</span> |
 | **2007/12** | **-** | N/A | N/A | **15.8** | <span style="color: #004225; font-weight: bold;">1.67</span> | <span style="color: #228B22; font-weight: bold;">9.46</span> |
 | **2007/11** | **-** | N/A | N/A | **17.4** | <span style="color: #004225; font-weight: bold;">1.75</span> | <span style="color: #006400; font-weight: bold;">9.93</span> |
-| **2007/10** | **-** | N/A | N/A | **21.5** | <span style="color: #002818; font-weight: bold;">1.84</span> | <span style="color: #006400; font-weight: bold;">11.72</span> |
+| **2007/10** | **-** | N/A | N/A | **21.5** | <span style="color: #004225; font-weight: bold;">1.84</span> | <span style="color: #006400; font-weight: bold;">11.72</span> |
 | **2007/09** | **-** | N/A | N/A | **21.1** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #006400; font-weight: bold;">11.0</span> |
 | **2007/08** | **-** | N/A | N/A | **20.4** | <span style="color: #002818; font-weight: bold;">2.0</span> | <span style="color: #006400; font-weight: bold;">10.2</span> |
 | **2007/07** | **-** | N/A | N/A | **24.15** | <span style="color: #002818; font-weight: bold;">2.08</span> | <span style="color: #006400; font-weight: bold;">11.6</span> |
@@ -273,11 +273,11 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **2007/05** | **-** | N/A | N/A | **28.25** | <span style="color: #002818; font-weight: bold;">2.25</span> | <span style="color: #004225; font-weight: bold;">12.57</span> |
 | **2007/04** | **-** | N/A | N/A | **25.45** | <span style="color: #002818; font-weight: bold;">2.33</span> | <span style="color: #006400; font-weight: bold;">10.92</span> |
 | **2007/03** | **-** | N/A | N/A | **27.65** | <span style="color: #002818; font-weight: bold;">2.41</span> | <span style="color: #006400; font-weight: bold;">11.46</span> |
-| **2007/02** | **-** | N/A | N/A | **26.7** | <span style="color: #8B0000; font-weight: bold;">2.5</span> | <span style="color: #006400; font-weight: bold;">10.7</span> |
+| **2007/02** | **-** | N/A | N/A | **26.7** | <span style="color: #002818; font-weight: bold;">2.5</span> | <span style="color: #006400; font-weight: bold;">10.7</span> |
 | **2007/01** | **-** | N/A | N/A | **25.35** | <span style="color: #8B0000; font-weight: bold;">2.58</span> | <span style="color: #006400; font-weight: bold;">9.84</span> |
 | **2006/12** | **-** | N/A | N/A | **27.2** | <span style="color: #8B0000; font-weight: bold;">2.66</span> | <span style="color: #006400; font-weight: bold;">10.23</span> |
 | **2006/11** | **-** | N/A | N/A | **27.6** | <span style="color: #8B0000; font-weight: bold;">2.58</span> | <span style="color: #006400; font-weight: bold;">10.69</span> |
-| **2006/10** | **-** | N/A | N/A | **23.5** | <span style="color: #8B0000; font-weight: bold;">2.5</span> | <span style="color: #228B22; font-weight: bold;">9.39</span> |
+| **2006/10** | **-** | N/A | N/A | **23.5** | <span style="color: #002818; font-weight: bold;">2.5</span> | <span style="color: #228B22; font-weight: bold;">9.39</span> |
 | **2006/09** | **-** | N/A | N/A | **24.5** | <span style="color: #002818; font-weight: bold;">2.43</span> | <span style="color: #006400; font-weight: bold;">10.1</span> |
 | **2006/08** | **-** | N/A | N/A | **24.6** | <span style="color: #002818; font-weight: bold;">2.35</span> | <span style="color: #006400; font-weight: bold;">10.48</span> |
 | **2006/07** | **-** | N/A | N/A | **22.9** | <span style="color: #002818; font-weight: bold;">2.27</span> | <span style="color: #006400; font-weight: bold;">10.1</span> |
@@ -288,7 +288,6 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **2006/02** | **-** | N/A | N/A | **27.7** | <span style="color: #002818; font-weight: bold;">1.88</span> | <span style="color: #002818; font-weight: bold;">14.76</span> |
 | **2006/01** | **-** | N/A | N/A | **29.95** | <span style="color: #004225; font-weight: bold;">1.8</span> | <span style="color: #8B0000; font-weight: bold;">16.65</span> |
 | **2005/12** | **-** | N/A | N/A | **35.95** | <span style="color: #004225; font-weight: bold;">1.72</span> | <span style="color: #8B0000; font-weight: bold;">20.9</span> |
-| **2005/11** | **-** | N/A | N/A | **24.8** | <span style="color: #004225; font-weight: bold;">1.72</span> | <span style="color: #002818; font-weight: bold;">14.42</span> |
 
 </div>
 
@@ -384,7 +383,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

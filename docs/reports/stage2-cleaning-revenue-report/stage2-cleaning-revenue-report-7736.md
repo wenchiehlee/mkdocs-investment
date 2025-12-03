@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 虎山 (7736) - 自動產生
     **:building_construction: 公司名稱**: 虎山  
     **:identification_card: 股票代號**: 7736  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
@@ -32,15 +32,15 @@ description: 月營收表 虎山 (7736) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **3.87** | **4.87** | **4.87** |
-| **P/E倍數** | **19.61** | **20.86** | **22.61** |
+| **EPS(元)** | **4.49** | **5.49** | **5.49** |
+| **P/E倍數** | **16.94** | **18.15** | **19.62** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 虎山 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 虎山 歷史平均估值水準 (σup=1.75, σlo=1.24)
+    - **P/Ebase**: 虎山 歷史平均估值水準 (σup=1.47, σlo=1.21)
 
 
 ## :moneybag: 月營收數據
@@ -49,14 +49,14 @@ description: 月營收表 虎山 (7736) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **1.33** | <span style="color: #8B0000; font-weight: bold;">+2.29</span> | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | **94.3** | <span style="color: #000000; font-weight: bold;">4.87</span> | <span style="color: #006400; font-weight: bold;">19.36</span> |
-| **2025/09** | **1.44** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #FF4500; font-weight: bold;">+31.7</span> | **92.6** | <span style="color: #000000; font-weight: bold;">4.87</span> | <span style="color: #006400; font-weight: bold;">19.01</span> |
-| **2025/08** | **1.45** | <span style="color: #8B0000; font-weight: bold;">+3.36</span> | <span style="color: #FF4500; font-weight: bold;">+32.9</span> | **94.6** | <span style="color: #000000; font-weight: bold;">4.87</span> | <span style="color: #006400; font-weight: bold;">19.43</span> |
-| **2025/07** | **1.4** | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | <span style="color: #FF4500; font-weight: bold;">+38.7</span> | **101** | <span style="color: #000000; font-weight: bold;">4.87</span> | <span style="color: #002818; font-weight: bold;">20.74</span> |
-| **2025/06** | **1.57** | <span style="color: #B22222; font-weight: bold;">+15.5</span> | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | **100.5** | <span style="color: #000000; font-weight: bold;">4.87</span> | <span style="color: #002818; font-weight: bold;">20.64</span> |
-| **2025/05** | **1.24** | <span style="color: #FF6347; font-weight: bold;">+45.3</span> | <span style="color: #FF6347; font-weight: bold;">+46</span> | **107** | <span style="color: #000000; font-weight: bold;">4.87</span> | <span style="color: #B22222; font-weight: bold;">21.97</span> |
-| **2025/04** | **1.44** | <span style="color: #FF6347; font-weight: bold;">+43.9</span> | <span style="color: #FF6347; font-weight: bold;">+46.2</span> | **110.5** | <span style="color: #000000; font-weight: bold;">4.87</span> | <span style="color: #DC143C; font-weight: bold;">22.69</span> |
-| **2025/03** | **1.48** | <span style="color: #FF6347; font-weight: bold;">+48.8</span> | <span style="color: #FF6347; font-weight: bold;">+47</span> | **112** | <span style="color: #000000; font-weight: bold;">4.87</span> | <span style="color: #DC143C; font-weight: bold;">23.0</span> |
+| **2025/10** | **1.33** | <span style="color: #8B0000; font-weight: bold;">+2.29</span> | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | **94.3** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #004225; font-weight: bold;">17.18</span> |
+| **2025/09** | **1.44** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #FF4500; font-weight: bold;">+31.7</span> | **92.6** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #006400; font-weight: bold;">16.87</span> |
+| **2025/08** | **1.45** | <span style="color: #8B0000; font-weight: bold;">+3.36</span> | <span style="color: #FF4500; font-weight: bold;">+32.9</span> | **94.6** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #004225; font-weight: bold;">17.23</span> |
+| **2025/07** | **1.4** | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | <span style="color: #FF4500; font-weight: bold;">+38.7</span> | **101** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #8B0000; font-weight: bold;">18.4</span> |
+| **2025/06** | **1.57** | <span style="color: #B22222; font-weight: bold;">+15.5</span> | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | **100.5** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #8B0000; font-weight: bold;">18.31</span> |
+| **2025/05** | **1.24** | <span style="color: #FF6347; font-weight: bold;">+45.3</span> | <span style="color: #FF6347; font-weight: bold;">+46</span> | **107** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #B22222; font-weight: bold;">19.49</span> |
+| **2025/04** | **1.44** | <span style="color: #FF6347; font-weight: bold;">+43.9</span> | <span style="color: #FF6347; font-weight: bold;">+46.2</span> | **110.5** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #DC143C; font-weight: bold;">20.13</span> |
+| **2025/03** | **1.48** | <span style="color: #FF6347; font-weight: bold;">+48.8</span> | <span style="color: #FF6347; font-weight: bold;">+47</span> | **112** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #FF4500; font-weight: bold;">20.4</span> |
 | **2025/02** | **1.46** | <span style="color: #FF7F7F; font-weight: bold;">+52.2</span> | <span style="color: #FF6347; font-weight: bold;">+46</span> | **-** | N/A | N/A |
 | **2025/01** | **1.29** | <span style="color: #FF4500; font-weight: bold;">+39.6</span> | <span style="color: #FF4500; font-weight: bold;">+39.6</span> | **-** | N/A | N/A |
 | **2024/12** | **1.28** | <span style="color: #FF7F7F; font-weight: bold;">+51.9</span> | <span style="color: #B22222; font-weight: bold;">+16.7</span> | **-** | N/A | N/A |
@@ -166,7 +166,7 @@ description: 月營收表 虎山 (7736) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

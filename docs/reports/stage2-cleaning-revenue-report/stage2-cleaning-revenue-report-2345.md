@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,28 +19,28 @@ description: 月營收表 智邦 (2345) - 自動產生
     **:building_construction: 公司名稱**: 智邦  
     **:identification_card: 股票代號**: 2345  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+114.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+142.5</span> | **240** 個月 | 2005/11 至 2025/10 |
+| <span style="color: #FF7F7F; font-weight: bold;">+114.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+142.5</span> | **239** 個月 | 2005/12 至 2025/10 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (智邦) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.44** | **5.95** | **17.28** |
-| **P/E倍數** | **13.23** | **22.72** | **105.08** |
+| **EPS(元)** | **1.47** | **6.22** | **18.17** |
+| **P/E倍數** | **13.24** | **22.78** | **103.77** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 智邦 歷史平均獲利能力 (σup=11.34, σlo=4.51)
-    - **P/Ebase**: 智邦 歷史平均估值水準 (σup=82.36, σlo=9.48)
+    - **EPSbase**: 智邦 歷史平均獲利能力 (σup=11.95, σlo=4.75)
+    - **P/Ebase**: 智邦 歷史平均估值水準 (σup=80.99, σlo=9.54)
 
 
 ## :moneybag: 月營收數據
@@ -49,16 +49,16 @@ description: 月營收表 智邦 (2345) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **233.6** | <span style="color: #FF7F7F; font-weight: bold;">+114.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+142.5</span> | **1080** | <span style="color: #FF6347; font-weight: bold;">38.57</span> | <span style="color: #8B0000; font-weight: bold;">28.0</span> |
-| **2025/09** | **243.2** | <span style="color: #FF7F7F; font-weight: bold;">+142</span> | <span style="color: #FF7F7F; font-weight: bold;">+146.7</span> | **1045** | <span style="color: #FF6347; font-weight: bold;">36.86</span> | <span style="color: #8B0000; font-weight: bold;">28.35</span> |
-| **2025/08** | **256.4** | <span style="color: #FF7F7F; font-weight: bold;">+172.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+147.5</span> | **1015** | <span style="color: #FF6347; font-weight: bold;">35.16</span> | <span style="color: #8B0000; font-weight: bold;">28.87</span> |
-| **2025/07** | **229.9** | <span style="color: #FF7F7F; font-weight: bold;">+163.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+143</span> | **892** | <span style="color: #FF6347; font-weight: bold;">33.45</span> | <span style="color: #8B0000; font-weight: bold;">26.67</span> |
-| **2025/06** | **245.4** | <span style="color: #FF7F7F; font-weight: bold;">+184.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+138.9</span> | **730** | <span style="color: #FF6347; font-weight: bold;">31.74</span> | <span style="color: #8B0000; font-weight: bold;">23.0</span> |
-| **2025/05** | **182.8** | <span style="color: #FF7F7F; font-weight: bold;">+108.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+127.5</span> | **745** | <span style="color: #FF6347; font-weight: bold;">30.03</span> | <span style="color: #8B0000; font-weight: bold;">24.81</span> |
-| **2025/04** | **177.8** | <span style="color: #FF7F7F; font-weight: bold;">+153.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+134</span> | **594** | <span style="color: #FF4500; font-weight: bold;">28.32</span> | <span style="color: #002818; font-weight: bold;">20.97</span> |
-| **2025/03** | **173.2** | <span style="color: #FF7F7F; font-weight: bold;">+127.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+126.8</span> | **576** | <span style="color: #FF4500; font-weight: bold;">26.61</span> | <span style="color: #002818; font-weight: bold;">21.64</span> |
-| **2025/02** | **129.1** | <span style="color: #FF7F7F; font-weight: bold;">+141.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+126.5</span> | **673** | <span style="color: #FF4500; font-weight: bold;">24.91</span> | <span style="color: #8B0000; font-weight: bold;">27.02</span> |
-| **2025/01** | **125.3** | <span style="color: #FF7F7F; font-weight: bold;">+112.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+112.8</span> | **763** | <span style="color: #FF4500; font-weight: bold;">23.2</span> | <span style="color: #8B0000; font-weight: bold;">32.89</span> |
+| **2025/10** | **233.6** | <span style="color: #FF7F7F; font-weight: bold;">+114.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+142.5</span> | **1080** | <span style="color: #FF6347; font-weight: bold;">37.15</span> | <span style="color: #8B0000; font-weight: bold;">29.07</span> |
+| **2025/09** | **243.2** | <span style="color: #FF7F7F; font-weight: bold;">+142</span> | <span style="color: #FF7F7F; font-weight: bold;">+146.7</span> | **1045** | <span style="color: #FF6347; font-weight: bold;">35.58</span> | <span style="color: #8B0000; font-weight: bold;">29.37</span> |
+| **2025/08** | **256.4** | <span style="color: #FF7F7F; font-weight: bold;">+172.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+147.5</span> | **1015** | <span style="color: #FF6347; font-weight: bold;">34.02</span> | <span style="color: #8B0000; font-weight: bold;">29.84</span> |
+| **2025/07** | **229.9** | <span style="color: #FF7F7F; font-weight: bold;">+163.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+143</span> | **892** | <span style="color: #FF6347; font-weight: bold;">32.45</span> | <span style="color: #8B0000; font-weight: bold;">27.49</span> |
+| **2025/06** | **245.4** | <span style="color: #FF7F7F; font-weight: bold;">+184.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+138.9</span> | **730** | <span style="color: #FF6347; font-weight: bold;">30.88</span> | <span style="color: #8B0000; font-weight: bold;">23.64</span> |
+| **2025/05** | **182.8** | <span style="color: #FF7F7F; font-weight: bold;">+108.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+127.5</span> | **745** | <span style="color: #FF4500; font-weight: bold;">29.32</span> | <span style="color: #8B0000; font-weight: bold;">25.41</span> |
+| **2025/04** | **177.8** | <span style="color: #FF7F7F; font-weight: bold;">+153.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+134</span> | **594** | <span style="color: #FF4500; font-weight: bold;">27.75</span> | <span style="color: #002818; font-weight: bold;">21.4</span> |
+| **2025/03** | **173.2** | <span style="color: #FF7F7F; font-weight: bold;">+127.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+126.8</span> | **576** | <span style="color: #FF4500; font-weight: bold;">26.19</span> | <span style="color: #002818; font-weight: bold;">22.0</span> |
+| **2025/02** | **129.1** | <span style="color: #FF7F7F; font-weight: bold;">+141.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+126.5</span> | **673** | <span style="color: #FF4500; font-weight: bold;">24.62</span> | <span style="color: #8B0000; font-weight: bold;">27.33</span> |
+| **2025/01** | **125.3** | <span style="color: #FF7F7F; font-weight: bold;">+112.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+112.8</span> | **763** | <span style="color: #DC143C; font-weight: bold;">23.06</span> | <span style="color: #8B0000; font-weight: bold;">33.09</span> |
 | **2024/12** | **155.4** | <span style="color: #FF7F7F; font-weight: bold;">+96</span> | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | **773** | <span style="color: #DC143C; font-weight: bold;">21.49</span> | <span style="color: #8B0000; font-weight: bold;">35.97</span> |
 | **2024/11** | **125.5** | <span style="color: #FF7F7F; font-weight: bold;">+83.2</span> | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | **657** | <span style="color: #DC143C; font-weight: bold;">21.03</span> | <span style="color: #8B0000; font-weight: bold;">31.24</span> |
 | **2024/10** | **108.8** | <span style="color: #FF7F7F; font-weight: bold;">+51.6</span> | <span style="color: #B22222; font-weight: bold;">+18.6</span> | **552** | <span style="color: #DC143C; font-weight: bold;">20.57</span> | <span style="color: #8B0000; font-weight: bold;">26.83</span> |
@@ -67,8 +67,8 @@ description: 月營收表 智邦 (2345) - 自動產生
 | **2024/07** | **87.29** | <span style="color: #B22222; font-weight: bold;">+16.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.87</span> | **507** | <span style="color: #DC143C; font-weight: bold;">19.2</span> | <span style="color: #8B0000; font-weight: bold;">26.41</span> |
 | **2024/06** | **86.19** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #8B0000; font-weight: bold;">+8.67</span> | **555** | <span style="color: #DC143C; font-weight: bold;">18.74</span> | <span style="color: #8B0000; font-weight: bold;">29.62</span> |
 | **2024/05** | **87.77** | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.65</span> | **504** | <span style="color: #DC143C; font-weight: bold;">18.28</span> | <span style="color: #8B0000; font-weight: bold;">27.57</span> |
-| **2024/04** | **70.17** | <span style="color: #B22222; font-weight: bold;">+11</span> | <span style="color: #002818; font-weight: bold;">-0.55</span> | **461.5** | <span style="color: #DC143C; font-weight: bold;">17.82</span> | <span style="color: #8B0000; font-weight: bold;">25.89</span> |
-| **2024/03** | **76.18** | <span style="color: #8B0000; font-weight: bold;">+4.29</span> | <span style="color: #002818; font-weight: bold;">-4.25</span> | **463** | <span style="color: #DC143C; font-weight: bold;">17.36</span> | <span style="color: #8B0000; font-weight: bold;">26.66</span> |
+| **2024/04** | **70.17** | <span style="color: #B22222; font-weight: bold;">+11</span> | <span style="color: #002818; font-weight: bold;">-0.55</span> | **461.5** | <span style="color: #B22222; font-weight: bold;">17.82</span> | <span style="color: #8B0000; font-weight: bold;">25.89</span> |
+| **2024/03** | **76.18** | <span style="color: #8B0000; font-weight: bold;">+4.29</span> | <span style="color: #002818; font-weight: bold;">-4.25</span> | **463** | <span style="color: #B22222; font-weight: bold;">17.36</span> | <span style="color: #8B0000; font-weight: bold;">26.66</span> |
 | **2024/02** | **53.45** | <span style="color: #004225; font-weight: bold;">-12.6</span> | <span style="color: #002818; font-weight: bold;">-9.3</span> | **519** | <span style="color: #B22222; font-weight: bold;">16.91</span> | <span style="color: #8B0000; font-weight: bold;">30.7</span> |
 | **2024/01** | **58.85** | <span style="color: #002818; font-weight: bold;">-6.13</span> | <span style="color: #002818; font-weight: bold;">-6.13</span> | **529** | <span style="color: #B22222; font-weight: bold;">16.45</span> | <span style="color: #8B0000; font-weight: bold;">32.16</span> |
 | **2023/12** | **79.28** | <span style="color: #002818; font-weight: bold;">-9.6</span> | <span style="color: #8B0000; font-weight: bold;">+9.04</span> | **523** | <span style="color: #B22222; font-weight: bold;">15.99</span> | <span style="color: #8B0000; font-weight: bold;">32.71</span> |
@@ -88,7 +88,7 @@ description: 月營收表 智邦 (2345) - 自動產生
 | **2022/10** | **66.11** | <span style="color: #FF4500; font-weight: bold;">+30.4</span> | <span style="color: #DC143C; font-weight: bold;">+29.6</span> | **243** | <span style="color: #B22222; font-weight: bold;">13.61</span> | <span style="color: #004225; font-weight: bold;">17.86</span> |
 | **2022/09** | **73.49** | <span style="color: #FF6347; font-weight: bold;">+42.6</span> | <span style="color: #DC143C; font-weight: bold;">+29.6</span> | **272.5** | <span style="color: #B22222; font-weight: bold;">13.09</span> | <span style="color: #002818; font-weight: bold;">20.82</span> |
 | **2022/08** | **63.92** | <span style="color: #B22222; font-weight: bold;">+15.7</span> | <span style="color: #DC143C; font-weight: bold;">+27.8</span> | **283.5** | <span style="color: #B22222; font-weight: bold;">12.57</span> | <span style="color: #002818; font-weight: bold;">22.55</span> |
-| **2022/07** | **68.41** | <span style="color: #FF7F7F; font-weight: bold;">+51.1</span> | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | **248** | <span style="color: #B22222; font-weight: bold;">12.06</span> | <span style="color: #002818; font-weight: bold;">20.57</span> |
+| **2022/07** | **68.41** | <span style="color: #FF7F7F; font-weight: bold;">+51.1</span> | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | **248** | <span style="color: #8B0000; font-weight: bold;">12.06</span> | <span style="color: #002818; font-weight: bold;">20.57</span> |
 | **2022/06** | **69.14** | <span style="color: #FF7F7F; font-weight: bold;">+53.1</span> | <span style="color: #DC143C; font-weight: bold;">+26.3</span> | **238.5** | <span style="color: #8B0000; font-weight: bold;">11.54</span> | <span style="color: #002818; font-weight: bold;">20.67</span> |
 | **2022/05** | **61.56** | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | <span style="color: #DC143C; font-weight: bold;">+21</span> | **232** | <span style="color: #8B0000; font-weight: bold;">11.02</span> | <span style="color: #002818; font-weight: bold;">21.05</span> |
 | **2022/04** | **56.26** | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #B22222; font-weight: bold;">+19.8</span> | **233** | <span style="color: #8B0000; font-weight: bold;">10.51</span> | <span style="color: #002818; font-weight: bold;">22.18</span> |
@@ -152,8 +152,8 @@ description: 月營收表 智邦 (2345) - 自動產生
 | **2017/06** | **30.22** | <span style="color: #8B0000; font-weight: bold;">+1.74</span> | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | **77.6** | <span style="color: #002818; font-weight: bold;">4.1</span> | <span style="color: #002818; font-weight: bold;">18.95</span> |
 | **2017/05** | **29.68** | <span style="color: #B22222; font-weight: bold;">+16.7</span> | <span style="color: #FF4500; font-weight: bold;">+38.4</span> | **67.1** | <span style="color: #002818; font-weight: bold;">4.0</span> | <span style="color: #004225; font-weight: bold;">16.79</span> |
 | **2017/04** | **28.35** | <span style="color: #FF6347; font-weight: bold;">+48.7</span> | <span style="color: #FF6347; font-weight: bold;">+45.5</span> | **68.5** | <span style="color: #002818; font-weight: bold;">3.9</span> | <span style="color: #004225; font-weight: bold;">17.56</span> |
-| **2017/03** | **36.64** | <span style="color: #FF7F7F; font-weight: bold;">+84.5</span> | <span style="color: #FF6347; font-weight: bold;">+44.5</span> | **66.9** | <span style="color: #002818; font-weight: bold;">3.8</span> | <span style="color: #004225; font-weight: bold;">17.59</span> |
-| **2017/02** | **24.47** | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | **56.5** | <span style="color: #002818; font-weight: bold;">3.7</span> | <span style="color: #004225; font-weight: bold;">15.25</span> |
+| **2017/03** | **36.64** | <span style="color: #FF7F7F; font-weight: bold;">+84.5</span> | <span style="color: #FF6347; font-weight: bold;">+44.5</span> | **66.9** | <span style="color: #004225; font-weight: bold;">3.8</span> | <span style="color: #004225; font-weight: bold;">17.59</span> |
+| **2017/02** | **24.47** | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | **56.5** | <span style="color: #004225; font-weight: bold;">3.7</span> | <span style="color: #004225; font-weight: bold;">15.25</span> |
 | **2017/01** | **24.52** | <span style="color: #DC143C; font-weight: bold;">+26.3</span> | <span style="color: #DC143C; font-weight: bold;">+26.3</span> | **56.5** | <span style="color: #004225; font-weight: bold;">3.61</span> | <span style="color: #004225; font-weight: bold;">15.66</span> |
 | **2016/12** | **34.18** | <span style="color: #DC143C; font-weight: bold;">+23.8</span> | <span style="color: #B22222; font-weight: bold;">+18.7</span> | **50.9** | <span style="color: #004225; font-weight: bold;">3.51</span> | <span style="color: #004225; font-weight: bold;">14.5</span> |
 | **2016/11** | **28.62** | <span style="color: #B22222; font-weight: bold;">+12.8</span> | <span style="color: #B22222; font-weight: bold;">+18.1</span> | **43.5** | <span style="color: #004225; font-weight: bold;">3.4</span> | <span style="color: #006400; font-weight: bold;">12.79</span> |
@@ -176,7 +176,7 @@ description: 月營收表 智邦 (2345) - 自動產生
 | **2015/06** | **23.05** | <span style="color: #B22222; font-weight: bold;">+11</span> | <span style="color: #002818; font-weight: bold;">-1.13</span> | **14.7** | <span style="color: #004225; font-weight: bold;">1.7</span> | <span style="color: #006400; font-weight: bold;">8.65</span> |
 | **2015/05** | **20.16** | <span style="color: #002818; font-weight: bold;">-8.56</span> | <span style="color: #002818; font-weight: bold;">-3.89</span> | **15.45** | <span style="color: #004225; font-weight: bold;">1.62</span> | <span style="color: #006400; font-weight: bold;">9.55</span> |
 | **2015/04** | **18.1** | <span style="color: #8B0000; font-weight: bold;">+8.26</span> | <span style="color: #002818; font-weight: bold;">-2.4</span> | **15.95** | <span style="color: #004225; font-weight: bold;">1.54</span> | <span style="color: #006400; font-weight: bold;">10.38</span> |
-| **2015/03** | **21.11** | <span style="color: #002818; font-weight: bold;">-4.13</span> | <span style="color: #002818; font-weight: bold;">-5.8</span> | **16.25** | <span style="color: #004225; font-weight: bold;">1.46</span> | <span style="color: #006400; font-weight: bold;">11.17</span> |
+| **2015/03** | **21.11** | <span style="color: #002818; font-weight: bold;">-4.13</span> | <span style="color: #002818; font-weight: bold;">-5.8</span> | **16.25** | <span style="color: #006400; font-weight: bold;">1.46</span> | <span style="color: #006400; font-weight: bold;">11.17</span> |
 | **2015/02** | **14.62** | <span style="color: #002818; font-weight: bold;">-1.72</span> | <span style="color: #002818; font-weight: bold;">-7.01</span> | **16.25** | <span style="color: #006400; font-weight: bold;">1.37</span> | <span style="color: #006400; font-weight: bold;">11.83</span> |
 | **2015/01** | **13.73** | <span style="color: #004225; font-weight: bold;">-12.1</span> | <span style="color: #004225; font-weight: bold;">-12.1</span> | **15.65** | <span style="color: #006400; font-weight: bold;">1.29</span> | <span style="color: #006400; font-weight: bold;">12.12</span> |
 | **2014/12** | **24.91** | <span style="color: #8B0000; font-weight: bold;">+3.23</span> | <span style="color: #8B0000; font-weight: bold;">+0.91</span> | **16** | <span style="color: #006400; font-weight: bold;">1.21</span> | <span style="color: #006400; font-weight: bold;">13.22</span> |
@@ -199,7 +199,7 @@ description: 月營收表 智邦 (2345) - 自動產生
 | **2013/07** | **16.14** | <span style="color: #006400; font-weight: bold;">-23.5</span> | <span style="color: #004225; font-weight: bold;">-17.9</span> | **17.35** | <span style="color: #006400; font-weight: bold;">1.31</span> | <span style="color: #004225; font-weight: bold;">13.29</span> |
 | **2013/06** | **23.83** | <span style="color: #002818; font-weight: bold;">-8.67</span> | <span style="color: #004225; font-weight: bold;">-17</span> | **18.6** | <span style="color: #006400; font-weight: bold;">1.36</span> | <span style="color: #004225; font-weight: bold;">13.73</span> |
 | **2013/05** | **21.98** | <span style="color: #002818; font-weight: bold;">-8.71</span> | <span style="color: #004225; font-weight: bold;">-19.1</span> | **17.9** | <span style="color: #006400; font-weight: bold;">1.4</span> | <span style="color: #006400; font-weight: bold;">12.75</span> |
-| **2013/04** | **15.54** | <span style="color: #004225; font-weight: bold;">-12.1</span> | <span style="color: #006400; font-weight: bold;">-22.1</span> | **17.9** | <span style="color: #004225; font-weight: bold;">1.45</span> | <span style="color: #006400; font-weight: bold;">12.32</span> |
+| **2013/04** | **15.54** | <span style="color: #004225; font-weight: bold;">-12.1</span> | <span style="color: #006400; font-weight: bold;">-22.1</span> | **17.9** | <span style="color: #006400; font-weight: bold;">1.45</span> | <span style="color: #006400; font-weight: bold;">12.32</span> |
 | **2013/03** | **19.84** | <span style="color: #006400; font-weight: bold;">-20.1</span> | <span style="color: #006400; font-weight: bold;">-24.9</span> | **17.35** | <span style="color: #004225; font-weight: bold;">1.5</span> | <span style="color: #006400; font-weight: bold;">11.55</span> |
 | **2013/02** | **15.14** | <span style="color: #228B22; font-weight: bold;">-33.7</span> | <span style="color: #006400; font-weight: bold;">-27.9</span> | **15.75** | <span style="color: #004225; font-weight: bold;">1.55</span> | <span style="color: #006400; font-weight: bold;">10.15</span> |
 | **2013/01** | **13.47** | <span style="color: #006400; font-weight: bold;">-20.1</span> | <span style="color: #006400; font-weight: bold;">-20.1</span> | **16** | <span style="color: #004225; font-weight: bold;">1.6</span> | <span style="color: #006400; font-weight: bold;">9.99</span> |
@@ -288,7 +288,6 @@ description: 月營收表 智邦 (2345) - 自動產生
 | **2006/02** | **-** | N/A | N/A | **17.15** | <span style="color: #006400; font-weight: bold;">-0.48</span> | N/A |
 | **2006/01** | **-** | N/A | N/A | **18** | <span style="color: #006400; font-weight: bold;">-0.53</span> | N/A |
 | **2005/12** | **-** | N/A | N/A | **18.45** | <span style="color: #006400; font-weight: bold;">-0.58</span> | N/A |
-| **2005/11** | **-** | N/A | N/A | **15.1** | <span style="color: #006400; font-weight: bold;">-0.58</span> | N/A |
 
 </div>
 
@@ -384,7 +383,7 @@ description: 月營收表 智邦 (2345) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

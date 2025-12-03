@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,28 +19,28 @@ description: 月營收表 健喬 (4114) - 自動產生
     **:building_construction: 公司名稱**: 健喬  
     **:identification_card: 股票代號**: 4114  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+9.2</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **240** 個月 | 2005/11 至 2025/10 |
+| <span style="color: #8B0000; font-weight: bold;">+9.2</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **239** 個月 | 2005/12 至 2025/10 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (健喬) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.20** | **0.85** | **1.68** |
-| **P/E倍數** | **31.52** | **90.60** | **980.56** |
+| **EPS(元)** | **0.20** | **0.86** | **1.68** |
+| **P/E倍數** | **31.38** | **90.23** | **980.33** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 健喬 歷史平均獲利能力 (σup=0.82, σlo=0.65)
-    - **P/Ebase**: 健喬 歷史平均估值水準 (σup=889.96, σlo=59.08)
+    - **EPSbase**: 健喬 歷史平均獲利能力 (σup=0.82, σlo=0.66)
+    - **P/Ebase**: 健喬 歷史平均估值水準 (σup=890.10, σlo=58.84)
 
 
 ## :moneybag: 月營收數據
@@ -49,16 +49,16 @@ description: 月營收表 健喬 (4114) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **5.43** | <span style="color: #8B0000; font-weight: bold;">+9.2</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **33.55** | <span style="color: #B22222; font-weight: bold;">1.5</span> | <span style="color: #006400; font-weight: bold;">22.33</span> |
-| **2025/09** | **5.39** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **34.25** | <span style="color: #B22222; font-weight: bold;">1.52</span> | <span style="color: #006400; font-weight: bold;">22.6</span> |
-| **2025/08** | **5.03** | <span style="color: #8B0000; font-weight: bold;">+1.99</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **34.75** | <span style="color: #B22222; font-weight: bold;">1.53</span> | <span style="color: #006400; font-weight: bold;">22.74</span> |
-| **2025/07** | **4.95** | <span style="color: #8B0000; font-weight: bold;">+1.31</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **36.95** | <span style="color: #B22222; font-weight: bold;">1.54</span> | <span style="color: #006400; font-weight: bold;">23.98</span> |
-| **2025/06** | **5.75** | <span style="color: #FF7F7F; font-weight: bold;">+51.5</span> | <span style="color: #B22222; font-weight: bold;">+16.9</span> | **36.6** | <span style="color: #B22222; font-weight: bold;">1.55</span> | <span style="color: #006400; font-weight: bold;">23.56</span> |
-| **2025/05** | **5.32** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+11</span> | **34.15** | <span style="color: #B22222; font-weight: bold;">1.57</span> | <span style="color: #006400; font-weight: bold;">21.8</span> |
-| **2025/04** | **5.02** | <span style="color: #8B0000; font-weight: bold;">+6.62</span> | <span style="color: #B22222; font-weight: bold;">+11.2</span> | **32.25** | <span style="color: #B22222; font-weight: bold;">1.58</span> | <span style="color: #006400; font-weight: bold;">20.42</span> |
-| **2025/03** | **4.8** | <span style="color: #B22222; font-weight: bold;">+14.8</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **33.35** | <span style="color: #B22222; font-weight: bold;">1.59</span> | <span style="color: #006400; font-weight: bold;">20.95</span> |
-| **2025/02** | **4.67** | <span style="color: #FF7F7F; font-weight: bold;">+62.3</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **32.7** | <span style="color: #B22222; font-weight: bold;">1.6</span> | <span style="color: #006400; font-weight: bold;">20.38</span> |
-| **2025/01** | **5.06** | <span style="color: #004225; font-weight: bold;">-12.9</span> | <span style="color: #004225; font-weight: bold;">-12.9</span> | **33.4** | <span style="color: #B22222; font-weight: bold;">1.62</span> | <span style="color: #006400; font-weight: bold;">20.65</span> |
+| **2025/10** | **5.43** | <span style="color: #8B0000; font-weight: bold;">+9.2</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **33.55** | <span style="color: #B22222; font-weight: bold;">1.57</span> | <span style="color: #006400; font-weight: bold;">21.35</span> |
+| **2025/09** | **5.39** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **34.25** | <span style="color: #B22222; font-weight: bold;">1.58</span> | <span style="color: #006400; font-weight: bold;">21.71</span> |
+| **2025/08** | **5.03** | <span style="color: #8B0000; font-weight: bold;">+1.99</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **34.75** | <span style="color: #B22222; font-weight: bold;">1.58</span> | <span style="color: #006400; font-weight: bold;">21.95</span> |
+| **2025/07** | **4.95** | <span style="color: #8B0000; font-weight: bold;">+1.31</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **36.95** | <span style="color: #B22222; font-weight: bold;">1.59</span> | <span style="color: #006400; font-weight: bold;">23.25</span> |
+| **2025/06** | **5.75** | <span style="color: #FF7F7F; font-weight: bold;">+51.5</span> | <span style="color: #B22222; font-weight: bold;">+16.9</span> | **36.6** | <span style="color: #B22222; font-weight: bold;">1.6</span> | <span style="color: #006400; font-weight: bold;">22.95</span> |
+| **2025/05** | **5.32** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+11</span> | **34.15** | <span style="color: #B22222; font-weight: bold;">1.6</span> | <span style="color: #006400; font-weight: bold;">21.33</span> |
+| **2025/04** | **5.02** | <span style="color: #8B0000; font-weight: bold;">+6.62</span> | <span style="color: #B22222; font-weight: bold;">+11.2</span> | **32.25** | <span style="color: #B22222; font-weight: bold;">1.61</span> | <span style="color: #006400; font-weight: bold;">20.07</span> |
+| **2025/03** | **4.8** | <span style="color: #B22222; font-weight: bold;">+14.8</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **33.35** | <span style="color: #B22222; font-weight: bold;">1.61</span> | <span style="color: #006400; font-weight: bold;">20.68</span> |
+| **2025/02** | **4.67** | <span style="color: #FF7F7F; font-weight: bold;">+62.3</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **32.7** | <span style="color: #B22222; font-weight: bold;">1.62</span> | <span style="color: #006400; font-weight: bold;">20.21</span> |
+| **2025/01** | **5.06** | <span style="color: #004225; font-weight: bold;">-12.9</span> | <span style="color: #004225; font-weight: bold;">-12.9</span> | **33.4** | <span style="color: #B22222; font-weight: bold;">1.62</span> | <span style="color: #006400; font-weight: bold;">20.56</span> |
 | **2024/12** | **5.21** | <span style="color: #DC143C; font-weight: bold;">+20.1</span> | <span style="color: #8B0000; font-weight: bold;">+8.64</span> | **34.5** | <span style="color: #B22222; font-weight: bold;">1.63</span> | <span style="color: #006400; font-weight: bold;">21.17</span> |
 | **2024/11** | **4.98** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #8B0000; font-weight: bold;">+7.58</span> | **34.3** | <span style="color: #B22222; font-weight: bold;">1.63</span> | <span style="color: #006400; font-weight: bold;">21.06</span> |
 | **2024/10** | **4.97** | <span style="color: #B22222; font-weight: bold;">+10.1</span> | <span style="color: #8B0000; font-weight: bold;">+7.09</span> | **36.2** | <span style="color: #B22222; font-weight: bold;">1.63</span> | <span style="color: #006400; font-weight: bold;">22.25</span> |
@@ -72,7 +72,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 | **2024/02** | **2.88** | <span style="color: #004225; font-weight: bold;">-17.1</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **39** | <span style="color: #B22222; font-weight: bold;">1.61</span> | <span style="color: #006400; font-weight: bold;">24.17</span> |
 | **2024/01** | **5.81** | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | **37.55** | <span style="color: #B22222; font-weight: bold;">1.61</span> | <span style="color: #006400; font-weight: bold;">23.3</span> |
 | **2023/12** | **4.34** | <span style="color: #002818; font-weight: bold;">-6.25</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **38.65** | <span style="color: #B22222; font-weight: bold;">1.61</span> | <span style="color: #006400; font-weight: bold;">24.01</span> |
-| **2023/11** | **4.44** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #B22222; font-weight: bold;">+19.1</span> | **40.2** | <span style="color: #DC143C; font-weight: bold;">1.68</span> | <span style="color: #006400; font-weight: bold;">23.92</span> |
+| **2023/11** | **4.44** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #B22222; font-weight: bold;">+19.1</span> | **40.2** | <span style="color: #B22222; font-weight: bold;">1.68</span> | <span style="color: #006400; font-weight: bold;">23.92</span> |
 | **2023/10** | **4.52** | <span style="color: #B22222; font-weight: bold;">+12.8</span> | <span style="color: #DC143C; font-weight: bold;">+20.1</span> | **37.55** | <span style="color: #DC143C; font-weight: bold;">1.75</span> | <span style="color: #006400; font-weight: bold;">21.44</span> |
 | **2023/09** | **3.88** | <span style="color: #8B0000; font-weight: bold;">+2.61</span> | <span style="color: #DC143C; font-weight: bold;">+21</span> | **37.95** | <span style="color: #DC143C; font-weight: bold;">1.82</span> | <span style="color: #006400; font-weight: bold;">20.82</span> |
 | **2023/08** | **4.2** | <span style="color: #B22222; font-weight: bold;">+12.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | **36.65** | <span style="color: #DC143C; font-weight: bold;">1.89</span> | <span style="color: #006400; font-weight: bold;">19.36</span> |
@@ -163,7 +163,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 | **2016/07** | **1.4** | <span style="color: #002818; font-weight: bold;">-6</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **34.75** | <span style="color: #002818; font-weight: bold;">0.75</span> | <span style="color: #004225; font-weight: bold;">46.55</span> |
 | **2016/06** | **1.49** | <span style="color: #002818; font-weight: bold;">-1.38</span> | <span style="color: #B22222; font-weight: bold;">+18</span> | **33.5** | <span style="color: #002818; font-weight: bold;">0.68</span> | <span style="color: #004225; font-weight: bold;">49.59</span> |
 | **2016/05** | **1.93** | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | <span style="color: #DC143C; font-weight: bold;">+22.1</span> | **36.3** | <span style="color: #002818; font-weight: bold;">0.6</span> | <span style="color: #004225; font-weight: bold;">60.03</span> |
-| **2016/04** | **1.78** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | **36.2** | <span style="color: #002818; font-weight: bold;">0.53</span> | <span style="color: #002818; font-weight: bold;">67.83</span> |
+| **2016/04** | **1.78** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | **36.2** | <span style="color: #004225; font-weight: bold;">0.53</span> | <span style="color: #002818; font-weight: bold;">67.83</span> |
 | **2016/03** | **1.8** | <span style="color: #FF4500; font-weight: bold;">+36.6</span> | <span style="color: #B22222; font-weight: bold;">+19.9</span> | **34.6** | <span style="color: #004225; font-weight: bold;">0.46</span> | <span style="color: #002818; font-weight: bold;">74.76</span> |
 | **2016/02** | **1.04** | <span style="color: #002818; font-weight: bold;">-9.07</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **32.9** | <span style="color: #004225; font-weight: bold;">0.39</span> | <span style="color: #002818; font-weight: bold;">83.96</span> |
 | **2016/01** | **2.02** | <span style="color: #DC143C; font-weight: bold;">+27.1</span> | <span style="color: #DC143C; font-weight: bold;">+27.1</span> | **32.95** | <span style="color: #004225; font-weight: bold;">0.32</span> | <span style="color: #8B0000; font-weight: bold;">102.7</span> |
@@ -196,7 +196,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 | **2013/10** | **1.16** | <span style="color: #8B0000; font-weight: bold;">+7.88</span> | <span style="color: #B22222; font-weight: bold;">+17.4</span> | **43.4** | <span style="color: #002818; font-weight: bold;">0.73</span> | <span style="color: #004225; font-weight: bold;">59.25</span> |
 | **2013/09** | **0.992** | <span style="color: #8B0000; font-weight: bold;">+5.97</span> | <span style="color: #B22222; font-weight: bold;">+18.8</span> | **43.05** | <span style="color: #002818; font-weight: bold;">0.77</span> | <span style="color: #004225; font-weight: bold;">55.64</span> |
 | **2013/08** | **1.02** | <span style="color: #FF4500; font-weight: bold;">+38.6</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **40.35** | <span style="color: #002818; font-weight: bold;">0.81</span> | <span style="color: #004225; font-weight: bold;">49.51</span> |
-| **2013/07** | **1.02** | <span style="color: #002818; font-weight: bold;">-2.03</span> | <span style="color: #B22222; font-weight: bold;">+18.3</span> | **40.3** | <span style="color: #8B0000; font-weight: bold;">0.86</span> | <span style="color: #004225; font-weight: bold;">47.07</span> |
+| **2013/07** | **1.02** | <span style="color: #002818; font-weight: bold;">-2.03</span> | <span style="color: #B22222; font-weight: bold;">+18.3</span> | **40.3** | <span style="color: #002818; font-weight: bold;">0.86</span> | <span style="color: #004225; font-weight: bold;">47.07</span> |
 | **2013/06** | **1.08** | <span style="color: #FF4500; font-weight: bold;">+30</span> | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | **34.8** | <span style="color: #8B0000; font-weight: bold;">0.9</span> | <span style="color: #004225; font-weight: bold;">38.78</span> |
 | **2013/05** | **1.05** | <span style="color: #DC143C; font-weight: bold;">+24.9</span> | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | **35** | <span style="color: #8B0000; font-weight: bold;">0.94</span> | <span style="color: #004225; font-weight: bold;">37.29</span> |
 | **2013/04** | **1.02** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | **34.6** | <span style="color: #8B0000; font-weight: bold;">0.98</span> | <span style="color: #004225; font-weight: bold;">35.31</span> |
@@ -261,7 +261,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 | **2008/05** | **-** | N/A | N/A | **31.5** | <span style="color: #004225; font-weight: bold;">0.28</span> | <span style="color: #8B0000; font-weight: bold;">111.8</span> |
 | **2008/04** | **-** | N/A | N/A | **38.15** | <span style="color: #004225; font-weight: bold;">0.36</span> | <span style="color: #8B0000; font-weight: bold;">105.0</span> |
 | **2008/03** | **-** | N/A | N/A | **31.8** | <span style="color: #004225; font-weight: bold;">0.44</span> | <span style="color: #002818; font-weight: bold;">71.46</span> |
-| **2008/02** | **-** | N/A | N/A | **30** | <span style="color: #002818; font-weight: bold;">0.53</span> | <span style="color: #004225; font-weight: bold;">56.96</span> |
+| **2008/02** | **-** | N/A | N/A | **30** | <span style="color: #004225; font-weight: bold;">0.53</span> | <span style="color: #004225; font-weight: bold;">56.96</span> |
 | **2008/01** | **-** | N/A | N/A | **19.5** | <span style="color: #002818; font-weight: bold;">0.61</span> | <span style="color: #004225; font-weight: bold;">32.05</span> |
 | **2007/12** | **-** | N/A | N/A | **31.9** | <span style="color: #002818; font-weight: bold;">0.69</span> | <span style="color: #004225; font-weight: bold;">46.23</span> |
 | **2007/11** | **-** | N/A | N/A | **34.15** | <span style="color: #002818; font-weight: bold;">0.66</span> | <span style="color: #004225; font-weight: bold;">51.42</span> |
@@ -269,7 +269,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 | **2007/09** | **-** | N/A | N/A | **44.9** | <span style="color: #002818; font-weight: bold;">0.61</span> | <span style="color: #002818; font-weight: bold;">73.31</span> |
 | **2007/08** | **-** | N/A | N/A | **32.9** | <span style="color: #002818; font-weight: bold;">0.59</span> | <span style="color: #004225; font-weight: bold;">56.08</span> |
 | **2007/07** | **-** | N/A | N/A | **56.7** | <span style="color: #002818; font-weight: bold;">0.56</span> | <span style="color: #8B0000; font-weight: bold;">101.1</span> |
-| **2007/06** | **-** | N/A | N/A | **34.25** | <span style="color: #002818; font-weight: bold;">0.53</span> | <span style="color: #002818; font-weight: bold;">64.02</span> |
+| **2007/06** | **-** | N/A | N/A | **34.25** | <span style="color: #004225; font-weight: bold;">0.53</span> | <span style="color: #002818; font-weight: bold;">64.02</span> |
 | **2007/05** | **-** | N/A | N/A | **18.25** | <span style="color: #004225; font-weight: bold;">0.51</span> | <span style="color: #004225; font-weight: bold;">35.84</span> |
 | **2007/04** | **-** | N/A | N/A | **15.3** | <span style="color: #004225; font-weight: bold;">0.48</span> | <span style="color: #004225; font-weight: bold;">31.66</span> |
 | **2007/03** | **-** | N/A | N/A | **14.3** | <span style="color: #004225; font-weight: bold;">0.46</span> | <span style="color: #006400; font-weight: bold;">31.26</span> |
@@ -283,12 +283,11 @@ description: 月營收表 健喬 (4114) - 自動產生
 | **2006/07** | **-** | N/A | N/A | **12.3** | <span style="color: #004225; font-weight: bold;">0.48</span> | <span style="color: #006400; font-weight: bold;">25.85</span> |
 | **2006/06** | **-** | N/A | N/A | **13.3** | <span style="color: #004225; font-weight: bold;">0.5</span> | <span style="color: #006400; font-weight: bold;">26.87</span> |
 | **2006/05** | **-** | N/A | N/A | **13.2** | <span style="color: #004225; font-weight: bold;">0.51</span> | <span style="color: #006400; font-weight: bold;">25.67</span> |
-| **2006/04** | **-** | N/A | N/A | **13.5** | <span style="color: #002818; font-weight: bold;">0.53</span> | <span style="color: #006400; font-weight: bold;">25.31</span> |
+| **2006/04** | **-** | N/A | N/A | **13.5** | <span style="color: #004225; font-weight: bold;">0.53</span> | <span style="color: #006400; font-weight: bold;">25.31</span> |
 | **2006/03** | **-** | N/A | N/A | **13.7** | <span style="color: #002818; font-weight: bold;">0.55</span> | <span style="color: #006400; font-weight: bold;">24.8</span> |
 | **2006/02** | **-** | N/A | N/A | **14.6** | <span style="color: #002818; font-weight: bold;">0.57</span> | <span style="color: #006400; font-weight: bold;">25.54</span> |
 | **2006/01** | **-** | N/A | N/A | **14.15** | <span style="color: #002818; font-weight: bold;">0.59</span> | <span style="color: #006400; font-weight: bold;">23.95</span> |
 | **2005/12** | **-** | N/A | N/A | **14.15** | <span style="color: #002818; font-weight: bold;">0.61</span> | <span style="color: #006400; font-weight: bold;">23.2</span> |
-| **2005/11** | **-** | N/A | N/A | **14.3** | <span style="color: #002818; font-weight: bold;">0.61</span> | <span style="color: #006400; font-weight: bold;">23.44</span> |
 
 </div>
 
@@ -384,7 +383,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

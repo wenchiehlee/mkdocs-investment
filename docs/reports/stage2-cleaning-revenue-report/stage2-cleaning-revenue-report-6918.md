@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 愛派司 (6918) - 自動產生
     **:building_construction: 公司名稱**: 愛派司  
     **:identification_card: 股票代號**: 6918  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
@@ -33,14 +33,14 @@ description: 月營收表 愛派司 (6918) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **4.33** | **5.33** | **5.33** |
-| **P/E倍數** | **16.28** | **17.49** | **18.23** |
+| **P/E倍數** | **16.30** | **17.18** | **18.23** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 愛派司 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 愛派司 歷史平均估值水準 (σup=0.74, σlo=1.21)
+    - **P/Ebase**: 愛派司 歷史平均估值水準 (σup=1.05, σlo=0.87)
 
 
 ## :moneybag: 月營收數據
@@ -49,11 +49,11 @@ description: 月營收表 愛派司 (6918) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **0.625** | <span style="color: #002818; font-weight: bold;">-7</span> | <span style="color: #8B0000; font-weight: bold;">+8.1</span> | **84.6** | <span style="color: #000000; font-weight: bold;">5.33</span> | <span style="color: #006400; font-weight: bold;">15.87</span> |
-| **2025/09** | **0.701** | <span style="color: #8B0000; font-weight: bold;">+4.89</span> | <span style="color: #8B0000; font-weight: bold;">+9.89</span> | **90.3** | <span style="color: #000000; font-weight: bold;">5.33</span> | <span style="color: #002818; font-weight: bold;">16.94</span> |
-| **2025/08** | **0.69** | <span style="color: #8B0000; font-weight: bold;">+2.17</span> | <span style="color: #B22222; font-weight: bold;">+10.6</span> | **97.1** | <span style="color: #000000; font-weight: bold;">5.33</span> | <span style="color: #B22222; font-weight: bold;">18.22</span> |
-| **2025/07** | **0.716** | <span style="color: #8B0000; font-weight: bold;">+8.61</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **97.9** | <span style="color: #000000; font-weight: bold;">5.33</span> | <span style="color: #DC143C; font-weight: bold;">18.37</span> |
-| **2025/06** | **0.76** | <span style="color: #DC143C; font-weight: bold;">+24</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **96.3** | <span style="color: #000000; font-weight: bold;">5.33</span> | <span style="color: #B22222; font-weight: bold;">18.07</span> |
+| **2025/10** | **0.625** | <span style="color: #002818; font-weight: bold;">-7</span> | <span style="color: #8B0000; font-weight: bold;">+8.1</span> | **84.6** | <span style="color: #DC143C; font-weight: bold;">5.33</span> | <span style="color: #006400; font-weight: bold;">15.87</span> |
+| **2025/09** | **0.701** | <span style="color: #8B0000; font-weight: bold;">+4.89</span> | <span style="color: #8B0000; font-weight: bold;">+9.89</span> | **90.3** | <span style="color: #DC143C; font-weight: bold;">5.33</span> | <span style="color: #002818; font-weight: bold;">16.94</span> |
+| **2025/08** | **0.69** | <span style="color: #8B0000; font-weight: bold;">+2.17</span> | <span style="color: #B22222; font-weight: bold;">+10.6</span> | **97.1** | <span style="color: #DC143C; font-weight: bold;">5.33</span> | <span style="color: #B22222; font-weight: bold;">18.22</span> |
+| **2025/07** | **0.716** | <span style="color: #8B0000; font-weight: bold;">+8.61</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **97.9** | <span style="color: #DC143C; font-weight: bold;">5.33</span> | <span style="color: #DC143C; font-weight: bold;">18.37</span> |
+| **2025/06** | **0.76** | <span style="color: #DC143C; font-weight: bold;">+24</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **96.3** | <span style="color: #DC143C; font-weight: bold;">5.33</span> | <span style="color: #B22222; font-weight: bold;">18.07</span> |
 | **2025/05** | **0.62** | <span style="color: #8B0000; font-weight: bold;">+5.69</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **-** | N/A | N/A |
 | **2025/04** | **0.759** | <span style="color: #B22222; font-weight: bold;">+13.5</span> | <span style="color: #B22222; font-weight: bold;">+11.2</span> | **-** | N/A | N/A |
 | **2025/03** | **0.635** | <span style="color: #002818; font-weight: bold;">-0.08</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **-** | N/A | N/A |
@@ -183,7 +183,7 @@ description: 月營收表 愛派司 (6918) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 神盾 (6462) - 自動產生
     **:building_construction: 公司名稱**: 神盾  
     **:identification_card: 股票代號**: 6462  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
@@ -32,14 +32,14 @@ description: 月營收表 神盾 (6462) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-10.41** | **-0.30** | **8.31** |
+| **EPS(元)** | **-11.09** | **-0.66** | **8.20** |
 | **P/E倍數** | **23.66** | **76.31** | **538.45** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 神盾 歷史平均獲利能力 (σup=8.61, σlo=10.11)
+    - **EPSbase**: 神盾 歷史平均獲利能力 (σup=8.86, σlo=10.43)
     - **P/Ebase**: 神盾 歷史平均估值水準 (σup=462.14, σlo=52.65)
 
 
@@ -49,16 +49,16 @@ description: 月營收表 神盾 (6462) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **3.16** | <span style="color: #228B22; font-weight: bold;">-31.5</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **137.5** | <span style="color: #006400; font-weight: bold;">-14.58</span> | N/A |
-| **2025/09** | **4.98** | <span style="color: #8B0000; font-weight: bold;">+9.05</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **127.5** | <span style="color: #006400; font-weight: bold;">-14.39</span> | N/A |
-| **2025/08** | **4.79** | <span style="color: #8B0000; font-weight: bold;">+9.66</span> | <span style="color: #B22222; font-weight: bold;">+17.7</span> | **128** | <span style="color: #006400; font-weight: bold;">-14.2</span> | N/A |
-| **2025/07** | **4.86** | <span style="color: #FF4500; font-weight: bold;">+37.8</span> | <span style="color: #B22222; font-weight: bold;">+19.2</span> | **134** | <span style="color: #006400; font-weight: bold;">-14.01</span> | N/A |
-| **2025/06** | **4.87** | <span style="color: #FF7F7F; font-weight: bold;">+58.4</span> | <span style="color: #B22222; font-weight: bold;">+15.9</span> | **118.5** | <span style="color: #006400; font-weight: bold;">-13.82</span> | N/A |
-| **2025/05** | **3.83** | <span style="color: #8B0000; font-weight: bold;">+5.57</span> | <span style="color: #8B0000; font-weight: bold;">+7.99</span> | **94.6** | <span style="color: #006400; font-weight: bold;">-13.64</span> | N/A |
-| **2025/04** | **3.33** | <span style="color: #B22222; font-weight: bold;">+18.3</span> | <span style="color: #8B0000; font-weight: bold;">+8.67</span> | **97.3** | <span style="color: #006400; font-weight: bold;">-13.45</span> | N/A |
-| **2025/03** | **3.89** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #8B0000; font-weight: bold;">+6.01</span> | **106** | <span style="color: #006400; font-weight: bold;">-13.26</span> | N/A |
-| **2025/02** | **3.45** | <span style="color: #B22222; font-weight: bold;">+17.4</span> | <span style="color: #8B0000; font-weight: bold;">+2.4</span> | **141** | <span style="color: #006400; font-weight: bold;">-13.07</span> | N/A |
-| **2025/01** | **3.44** | <span style="color: #002818; font-weight: bold;">-9.21</span> | <span style="color: #002818; font-weight: bold;">-9.21</span> | **154.5** | <span style="color: #006400; font-weight: bold;">-12.88</span> | N/A |
+| **2025/10** | **3.16** | <span style="color: #228B22; font-weight: bold;">-31.5</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **137.5** | <span style="color: #228B22; font-weight: bold;">-16.42</span> | N/A |
+| **2025/09** | **4.98** | <span style="color: #8B0000; font-weight: bold;">+9.05</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **127.5** | <span style="color: #006400; font-weight: bold;">-16.05</span> | N/A |
+| **2025/08** | **4.79** | <span style="color: #8B0000; font-weight: bold;">+9.66</span> | <span style="color: #B22222; font-weight: bold;">+17.7</span> | **128** | <span style="color: #006400; font-weight: bold;">-15.68</span> | N/A |
+| **2025/07** | **4.86** | <span style="color: #FF4500; font-weight: bold;">+37.8</span> | <span style="color: #B22222; font-weight: bold;">+19.2</span> | **134** | <span style="color: #006400; font-weight: bold;">-15.3</span> | N/A |
+| **2025/06** | **4.87** | <span style="color: #FF7F7F; font-weight: bold;">+58.4</span> | <span style="color: #B22222; font-weight: bold;">+15.9</span> | **118.5** | <span style="color: #006400; font-weight: bold;">-14.93</span> | N/A |
+| **2025/05** | **3.83** | <span style="color: #8B0000; font-weight: bold;">+5.57</span> | <span style="color: #8B0000; font-weight: bold;">+7.99</span> | **94.6** | <span style="color: #006400; font-weight: bold;">-14.56</span> | N/A |
+| **2025/04** | **3.33** | <span style="color: #B22222; font-weight: bold;">+18.3</span> | <span style="color: #8B0000; font-weight: bold;">+8.67</span> | **97.3** | <span style="color: #006400; font-weight: bold;">-14.18</span> | N/A |
+| **2025/03** | **3.89** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #8B0000; font-weight: bold;">+6.01</span> | **106** | <span style="color: #006400; font-weight: bold;">-13.81</span> | N/A |
+| **2025/02** | **3.45** | <span style="color: #B22222; font-weight: bold;">+17.4</span> | <span style="color: #8B0000; font-weight: bold;">+2.4</span> | **141** | <span style="color: #006400; font-weight: bold;">-13.44</span> | N/A |
+| **2025/01** | **3.44** | <span style="color: #002818; font-weight: bold;">-9.21</span> | <span style="color: #002818; font-weight: bold;">-9.21</span> | **154.5** | <span style="color: #006400; font-weight: bold;">-13.06</span> | N/A |
 | **2024/12** | **5.31** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | **176.5** | <span style="color: #006400; font-weight: bold;">-12.69</span> | N/A |
 | **2024/11** | **5.84** | <span style="color: #FF7F7F; font-weight: bold;">+63.3</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **179** | <span style="color: #006400; font-weight: bold;">-12.46</span> | N/A |
 | **2024/10** | **4.62** | <span style="color: #FF7F7F; font-weight: bold;">+54.5</span> | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | **191.5** | <span style="color: #006400; font-weight: bold;">-12.24</span> | N/A |
@@ -67,16 +67,16 @@ description: 月營收表 神盾 (6462) - 自動產生
 | **2024/07** | **3.53** | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | <span style="color: #B22222; font-weight: bold;">+12.3</span> | **240.5** | <span style="color: #006400; font-weight: bold;">-11.56</span> | N/A |
 | **2024/06** | **3.07** | <span style="color: #B22222; font-weight: bold;">+13.4</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **249.5** | <span style="color: #006400; font-weight: bold;">-11.33</span> | N/A |
 | **2024/05** | **3.63** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **258** | <span style="color: #006400; font-weight: bold;">-11.1</span> | N/A |
-| **2024/04** | **2.81** | <span style="color: #8B0000; font-weight: bold;">+6.66</span> | <span style="color: #8B0000; font-weight: bold;">+8.73</span> | **247** | <span style="color: #006400; font-weight: bold;">-10.88</span> | N/A |
-| **2024/03** | **3.44** | <span style="color: #002818; font-weight: bold;">-2.73</span> | <span style="color: #8B0000; font-weight: bold;">+9.32</span> | **272.5** | <span style="color: #006400; font-weight: bold;">-10.65</span> | N/A |
-| **2024/02** | **2.93** | <span style="color: #002818; font-weight: bold;">-8.32</span> | <span style="color: #B22222; font-weight: bold;">+16.7</span> | **336** | <span style="color: #006400; font-weight: bold;">-10.42</span> | N/A |
+| **2024/04** | **2.81** | <span style="color: #8B0000; font-weight: bold;">+6.66</span> | <span style="color: #8B0000; font-weight: bold;">+8.73</span> | **247** | <span style="color: #004225; font-weight: bold;">-10.88</span> | N/A |
+| **2024/03** | **3.44** | <span style="color: #002818; font-weight: bold;">-2.73</span> | <span style="color: #8B0000; font-weight: bold;">+9.32</span> | **272.5** | <span style="color: #004225; font-weight: bold;">-10.65</span> | N/A |
+| **2024/02** | **2.93** | <span style="color: #002818; font-weight: bold;">-8.32</span> | <span style="color: #B22222; font-weight: bold;">+16.7</span> | **336** | <span style="color: #004225; font-weight: bold;">-10.42</span> | N/A |
 | **2024/01** | **3.79** | <span style="color: #FF6347; font-weight: bold;">+48.1</span> | <span style="color: #FF6347; font-weight: bold;">+48.1</span> | **272** | <span style="color: #004225; font-weight: bold;">-10.2</span> | N/A |
 | **2023/12** | **4.7** | <span style="color: #FF7F7F; font-weight: bold;">+63.8</span> | <span style="color: #B22222; font-weight: bold;">+17</span> | **119.5** | <span style="color: #004225; font-weight: bold;">-9.97</span> | N/A |
 | **2023/11** | **3.58** | <span style="color: #B22222; font-weight: bold;">+18.7</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **109** | <span style="color: #004225; font-weight: bold;">-10.17</span> | N/A |
 | **2023/10** | **2.99** | <span style="color: #B22222; font-weight: bold;">+16</span> | <span style="color: #B22222; font-weight: bold;">+11.8</span> | **86.3** | <span style="color: #004225; font-weight: bold;">-10.36</span> | N/A |
-| **2023/09** | **3.51** | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **83.4** | <span style="color: #006400; font-weight: bold;">-10.56</span> | N/A |
-| **2023/08** | **3.04** | <span style="color: #B22222; font-weight: bold;">+13.1</span> | <span style="color: #8B0000; font-weight: bold;">+8.93</span> | **82** | <span style="color: #006400; font-weight: bold;">-10.75</span> | N/A |
-| **2023/07** | **2.91** | <span style="color: #B22222; font-weight: bold;">+12.4</span> | <span style="color: #8B0000; font-weight: bold;">+8.34</span> | **103** | <span style="color: #006400; font-weight: bold;">-10.94</span> | N/A |
+| **2023/09** | **3.51** | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **83.4** | <span style="color: #004225; font-weight: bold;">-10.56</span> | N/A |
+| **2023/08** | **3.04** | <span style="color: #B22222; font-weight: bold;">+13.1</span> | <span style="color: #8B0000; font-weight: bold;">+8.93</span> | **82** | <span style="color: #004225; font-weight: bold;">-10.75</span> | N/A |
+| **2023/07** | **2.91** | <span style="color: #B22222; font-weight: bold;">+12.4</span> | <span style="color: #8B0000; font-weight: bold;">+8.34</span> | **103** | <span style="color: #004225; font-weight: bold;">-10.94</span> | N/A |
 | **2023/06** | **2.71** | <span style="color: #FF7F7F; font-weight: bold;">+98.7</span> | <span style="color: #8B0000; font-weight: bold;">+7.7</span> | **107** | <span style="color: #006400; font-weight: bold;">-11.14</span> | N/A |
 | **2023/05** | **3.11** | <span style="color: #DC143C; font-weight: bold;">+29.9</span> | <span style="color: #002818; font-weight: bold;">-0.49</span> | **85.6** | <span style="color: #006400; font-weight: bold;">-11.34</span> | N/A |
 | **2023/04** | **2.64** | <span style="color: #006400; font-weight: bold;">-25.8</span> | <span style="color: #002818; font-weight: bold;">-6.21</span> | **85.1** | <span style="color: #006400; font-weight: bold;">-11.53</span> | N/A |
@@ -85,14 +85,14 @@ description: 月營收表 神盾 (6462) - 自動產生
 | **2023/01** | **2.56** | <span style="color: #004225; font-weight: bold;">-11.1</span> | <span style="color: #004225; font-weight: bold;">-11.1</span> | **65.5** | <span style="color: #006400; font-weight: bold;">-12.12</span> | N/A |
 | **2022/12** | **2.87** | <span style="color: #004225; font-weight: bold;">-10.6</span> | <span style="color: #002818; font-weight: bold;">-4.45</span> | **60.5** | <span style="color: #006400; font-weight: bold;">-12.31</span> | N/A |
 | **2022/11** | **3.01** | <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #002818; font-weight: bold;">-3.82</span> | **65.1** | <span style="color: #006400; font-weight: bold;">-11.54</span> | N/A |
-| **2022/10** | **2.58** | <span style="color: #B22222; font-weight: bold;">+13.7</span> | <span style="color: #002818; font-weight: bold;">-5.5</span> | **56.1** | <span style="color: #006400; font-weight: bold;">-10.78</span> | N/A |
+| **2022/10** | **2.58** | <span style="color: #B22222; font-weight: bold;">+13.7</span> | <span style="color: #002818; font-weight: bold;">-5.5</span> | **56.1** | <span style="color: #004225; font-weight: bold;">-10.78</span> | N/A |
 | **2022/09** | **2.67** | <span style="color: #228B22; font-weight: bold;">-37</span> | <span style="color: #002818; font-weight: bold;">-7.15</span> | **65.7** | <span style="color: #004225; font-weight: bold;">-10.01</span> | N/A |
 | **2022/08** | **2.69** | <span style="color: #8B0000; font-weight: bold;">+2.72</span> | <span style="color: #002818; font-weight: bold;">-1.41</span> | **80.6** | <span style="color: #004225; font-weight: bold;">-9.24</span> | N/A |
 | **2022/07** | **2.59** | <span style="color: #FF7F7F; font-weight: bold;">+100</span> | <span style="color: #002818; font-weight: bold;">-1.97</span> | **80.9** | <span style="color: #004225; font-weight: bold;">-8.48</span> | N/A |
 | **2022/06** | **1.36** | <span style="color: #004225; font-weight: bold;">-17.5</span> | <span style="color: #002818; font-weight: bold;">-9.24</span> | **90** | <span style="color: #004225; font-weight: bold;">-7.71</span> | N/A |
 | **2022/05** | **2.4** | <span style="color: #8B0000; font-weight: bold;">+5.48</span> | <span style="color: #002818; font-weight: bold;">-8.42</span> | **106** | <span style="color: #004225; font-weight: bold;">-6.94</span> | N/A |
 | **2022/04** | **3.55** | <span style="color: #8B0000; font-weight: bold;">+4.38</span> | <span style="color: #004225; font-weight: bold;">-10.6</span> | **110.5** | <span style="color: #004225; font-weight: bold;">-6.18</span> | N/A |
-| **2022/03** | **4.05** | <span style="color: #8B0000; font-weight: bold;">+9.37</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **112** | <span style="color: #004225; font-weight: bold;">-5.41</span> | N/A |
+| **2022/03** | **4.05** | <span style="color: #8B0000; font-weight: bold;">+9.37</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **112** | <span style="color: #002818; font-weight: bold;">-5.41</span> | N/A |
 | **2022/02** | **2.24** | <span style="color: #228B22; font-weight: bold;">-40</span> | <span style="color: #006400; font-weight: bold;">-28.2</span> | **104.5** | <span style="color: #002818; font-weight: bold;">-4.64</span> | N/A |
 | **2022/01** | **2.88** | <span style="color: #004225; font-weight: bold;">-15.2</span> | <span style="color: #004225; font-weight: bold;">-15.2</span> | **109** | <span style="color: #002818; font-weight: bold;">-3.88</span> | N/A |
 | **2021/12** | **3.21** | <span style="color: #FF7F7F; font-weight: bold;">+58.4</span> | <span style="color: #32CD32; font-weight: bold;">-44.7</span> | **116** | <span style="color: #002818; font-weight: bold;">-3.11</span> | N/A |
@@ -151,7 +151,7 @@ description: 月營收表 神盾 (6462) - 自動產生
 | **2017/07** | **4.04** | <span style="color: #FF7F7F; font-weight: bold;">+371</span> | <span style="color: #FF7F7F; font-weight: bold;">+454.6</span> | **244** | <span style="color: #B22222; font-weight: bold;">5.65</span> | <span style="color: #004225; font-weight: bold;">43.19</span> |
 | **2017/06** | **2.96** | <span style="color: #FF7F7F; font-weight: bold;">+758.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+474.7</span> | **208** | <span style="color: #B22222; font-weight: bold;">5.08</span> | <span style="color: #004225; font-weight: bold;">40.94</span> |
 | **2017/05** | **2.52** | <span style="color: #FF7F7F; font-weight: bold;">+51.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+444.4</span> | **190** | <span style="color: #B22222; font-weight: bold;">4.51</span> | <span style="color: #004225; font-weight: bold;">42.13</span> |
-| **2017/04** | **3.26** | <span style="color: #FF7F7F; font-weight: bold;">+534.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+859.2</span> | **166.5** | <span style="color: #8B0000; font-weight: bold;">3.94</span> | <span style="color: #004225; font-weight: bold;">42.26</span> |
+| **2017/04** | **3.26** | <span style="color: #FF7F7F; font-weight: bold;">+534.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+859.2</span> | **166.5** | <span style="color: #B22222; font-weight: bold;">3.94</span> | <span style="color: #004225; font-weight: bold;">42.26</span> |
 | **2017/03** | **3.35** | <span style="color: #FF7F7F; font-weight: bold;">+2231.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+1016.3</span> | **246** | <span style="color: #8B0000; font-weight: bold;">3.37</span> | <span style="color: #002818; font-weight: bold;">73.0</span> |
 | **2017/02** | **3.87** | <span style="color: #FF7F7F; font-weight: bold;">+427.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+826.1</span> | **262** | <span style="color: #8B0000; font-weight: bold;">2.8</span> | <span style="color: #8B0000; font-weight: bold;">93.57</span> |
 | **2017/01** | **4.64** | <span style="color: #FF7F7F; font-weight: bold;">+2406.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+2406.2</span> | **263** | <span style="color: #8B0000; font-weight: bold;">2.23</span> | <span style="color: #8B0000; font-weight: bold;">117.9</span> |
@@ -163,7 +163,7 @@ description: 月營收表 神盾 (6462) - 自動產生
 | **2016/07** | **0.858** | <span style="color: #FF7F7F; font-weight: bold;">+456.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+240</span> | **190.5** | <span style="color: #8B0000; font-weight: bold;">0.37</span> | <span style="color: #B22222; font-weight: bold;">517.2</span> |
 | **2016/06** | **0.345** | <span style="color: #FF7F7F; font-weight: bold;">+214.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+211</span> | **155** | <span style="color: #8B0000; font-weight: bold;">0.11</span> | <span style="color: #FF6347; font-weight: bold;">1409.0</span> |
 | **2016/05** | **1.66** | <span style="color: #FF7F7F; font-weight: bold;">+332.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+210.6</span> | **141.5** | <span style="color: #8B0000; font-weight: bold;">-0.15</span> | N/A |
-| **2016/04** | **0.514** | <span style="color: #FF7F7F; font-weight: bold;">+627</span> | <span style="color: #FF7F7F; font-weight: bold;">+139.4</span> | **138** | <span style="color: #002818; font-weight: bold;">-0.41</span> | N/A |
+| **2016/04** | **0.514** | <span style="color: #FF7F7F; font-weight: bold;">+627</span> | <span style="color: #FF7F7F; font-weight: bold;">+139.4</span> | **138** | <span style="color: #8B0000; font-weight: bold;">-0.41</span> | N/A |
 | **2016/03** | **0.144** | <span style="color: #FF7F7F; font-weight: bold;">+157.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+80.8</span> | **143.5** | <span style="color: #002818; font-weight: bold;">-0.66</span> | N/A |
 | **2016/02** | **0.733** | <span style="color: #FF7F7F; font-weight: bold;">+50.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+72.7</span> | **161** | <span style="color: #002818; font-weight: bold;">-0.92</span> | N/A |
 | **2016/01** | **0.185** | <span style="color: #FF7F7F; font-weight: bold;">+309.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+309.1</span> | **153** | <span style="color: #002818; font-weight: bold;">-1.18</span> | N/A |
@@ -283,7 +283,7 @@ description: 月營收表 神盾 (6462) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

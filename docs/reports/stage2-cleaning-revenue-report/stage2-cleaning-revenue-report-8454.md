@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
     **:building_construction: 公司名稱**: 富邦媒  
     **:identification_card: 股票代號**: 8454  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
@@ -32,15 +32,15 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **8.99** | **12.01** | **15.36** |
-| **P/E倍數** | **25.81** | **36.73** | **68.54** |
+| **EPS(元)** | **9.01** | **12.01** | **15.34** |
+| **P/E倍數** | **25.56** | **36.45** | **68.47** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 富邦媒 歷史平均獲利能力 (σup=3.35, σlo=3.02)
-    - **P/Ebase**: 富邦媒 歷史平均估值水準 (σup=31.80, σlo=10.93)
+    - **EPSbase**: 富邦媒 歷史平均獲利能力 (σup=3.32, σlo=3.00)
+    - **P/Ebase**: 富邦媒 歷史平均估值水準 (σup=32.01, σlo=10.89)
 
 
 ## :moneybag: 月營收數據
@@ -49,16 +49,16 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **77.99** | <span style="color: #002818; font-weight: bold;">-4.37</span> | <span style="color: #002818; font-weight: bold;">-2.81</span> | **233.5** | <span style="color: #8B0000; font-weight: bold;">12.15</span> | <span style="color: #228B22; font-weight: bold;">19.21</span> |
-| **2025/09** | **79.38** | <span style="color: #002818; font-weight: bold;">-3.72</span> | <span style="color: #002818; font-weight: bold;">-2.65</span> | **241.5** | <span style="color: #8B0000; font-weight: bold;">12.31</span> | <span style="color: #228B22; font-weight: bold;">19.62</span> |
-| **2025/08** | **84.88** | <span style="color: #002818; font-weight: bold;">-3.12</span> | <span style="color: #002818; font-weight: bold;">-2.52</span> | **253** | <span style="color: #8B0000; font-weight: bold;">12.46</span> | <span style="color: #228B22; font-weight: bold;">20.3</span> |
-| **2025/07** | **81.3** | <span style="color: #002818; font-weight: bold;">-4.86</span> | <span style="color: #002818; font-weight: bold;">-2.43</span> | **283** | <span style="color: #8B0000; font-weight: bold;">12.61</span> | <span style="color: #006400; font-weight: bold;">22.43</span> |
-| **2025/06** | **92.25** | <span style="color: #002818; font-weight: bold;">-3.49</span> | <span style="color: #002818; font-weight: bold;">-2.05</span> | **269** | <span style="color: #8B0000; font-weight: bold;">12.77</span> | <span style="color: #006400; font-weight: bold;">21.07</span> |
-| **2025/05** | **86.33** | <span style="color: #002818; font-weight: bold;">-3.83</span> | <span style="color: #002818; font-weight: bold;">-1.73</span> | **305** | <span style="color: #8B0000; font-weight: bold;">12.92</span> | <span style="color: #006400; font-weight: bold;">23.6</span> |
-| **2025/04** | **81.73** | <span style="color: #8B0000; font-weight: bold;">+0.65</span> | <span style="color: #002818; font-weight: bold;">-1.19</span> | **323** | <span style="color: #8B0000; font-weight: bold;">13.08</span> | <span style="color: #006400; font-weight: bold;">24.7</span> |
-| **2025/03** | **89.56** | <span style="color: #002818; font-weight: bold;">-0.75</span> | <span style="color: #002818; font-weight: bold;">-1.75</span> | **347.5** | <span style="color: #8B0000; font-weight: bold;">13.23</span> | <span style="color: #004225; font-weight: bold;">26.27</span> |
-| **2025/02** | **83.01** | <span style="color: #8B0000; font-weight: bold;">+1.36</span> | <span style="color: #002818; font-weight: bold;">-2.26</span> | **386.5** | <span style="color: #8B0000; font-weight: bold;">13.38</span> | <span style="color: #004225; font-weight: bold;">28.88</span> |
-| **2025/01** | **91.48** | <span style="color: #002818; font-weight: bold;">-5.34</span> | <span style="color: #002818; font-weight: bold;">-5.34</span> | **352.5** | <span style="color: #8B0000; font-weight: bold;">13.54</span> | <span style="color: #004225; font-weight: bold;">26.04</span> |
+| **2025/10** | **77.99** | <span style="color: #002818; font-weight: bold;">-4.37</span> | <span style="color: #002818; font-weight: bold;">-2.81</span> | **233.5** | <span style="color: #8B0000; font-weight: bold;">12.28</span> | <span style="color: #228B22; font-weight: bold;">19.01</span> |
+| **2025/09** | **79.38** | <span style="color: #002818; font-weight: bold;">-3.72</span> | <span style="color: #002818; font-weight: bold;">-2.65</span> | **241.5** | <span style="color: #8B0000; font-weight: bold;">12.42</span> | <span style="color: #228B22; font-weight: bold;">19.44</span> |
+| **2025/08** | **84.88** | <span style="color: #002818; font-weight: bold;">-3.12</span> | <span style="color: #002818; font-weight: bold;">-2.52</span> | **253** | <span style="color: #8B0000; font-weight: bold;">12.56</span> | <span style="color: #006400; font-weight: bold;">20.14</span> |
+| **2025/07** | **81.3** | <span style="color: #002818; font-weight: bold;">-4.86</span> | <span style="color: #002818; font-weight: bold;">-2.43</span> | **283** | <span style="color: #8B0000; font-weight: bold;">12.7</span> | <span style="color: #006400; font-weight: bold;">22.28</span> |
+| **2025/06** | **92.25** | <span style="color: #002818; font-weight: bold;">-3.49</span> | <span style="color: #002818; font-weight: bold;">-2.05</span> | **269** | <span style="color: #8B0000; font-weight: bold;">12.84</span> | <span style="color: #006400; font-weight: bold;">20.94</span> |
+| **2025/05** | **86.33** | <span style="color: #002818; font-weight: bold;">-3.83</span> | <span style="color: #002818; font-weight: bold;">-1.73</span> | **305** | <span style="color: #8B0000; font-weight: bold;">12.99</span> | <span style="color: #006400; font-weight: bold;">23.49</span> |
+| **2025/04** | **81.73** | <span style="color: #8B0000; font-weight: bold;">+0.65</span> | <span style="color: #002818; font-weight: bold;">-1.19</span> | **323** | <span style="color: #8B0000; font-weight: bold;">13.13</span> | <span style="color: #006400; font-weight: bold;">24.61</span> |
+| **2025/03** | **89.56** | <span style="color: #002818; font-weight: bold;">-0.75</span> | <span style="color: #002818; font-weight: bold;">-1.75</span> | **347.5** | <span style="color: #8B0000; font-weight: bold;">13.27</span> | <span style="color: #004225; font-weight: bold;">26.19</span> |
+| **2025/02** | **83.01** | <span style="color: #8B0000; font-weight: bold;">+1.36</span> | <span style="color: #002818; font-weight: bold;">-2.26</span> | **386.5** | <span style="color: #8B0000; font-weight: bold;">13.41</span> | <span style="color: #004225; font-weight: bold;">28.83</span> |
+| **2025/01** | **91.48** | <span style="color: #002818; font-weight: bold;">-5.34</span> | <span style="color: #002818; font-weight: bold;">-5.34</span> | **352.5** | <span style="color: #8B0000; font-weight: bold;">13.55</span> | <span style="color: #004225; font-weight: bold;">26.02</span> |
 | **2024/12** | **97.47** | <span style="color: #8B0000; font-weight: bold;">+0.14</span> | <span style="color: #8B0000; font-weight: bold;">+3.03</span> | **333.5** | <span style="color: #B22222; font-weight: bold;">13.69</span> | <span style="color: #006400; font-weight: bold;">24.36</span> |
 | **2024/11** | **155.7** | <span style="color: #8B0000; font-weight: bold;">+2.73</span> | <span style="color: #8B0000; font-weight: bold;">+3.32</span> | **363.5** | <span style="color: #B22222; font-weight: bold;">13.81</span> | <span style="color: #004225; font-weight: bold;">26.33</span> |
 | **2024/10** | **81.56** | <span style="color: #8B0000; font-weight: bold;">+2.67</span> | <span style="color: #8B0000; font-weight: bold;">+3.42</span> | **375.5** | <span style="color: #B22222; font-weight: bold;">13.92</span> | <span style="color: #004225; font-weight: bold;">26.97</span> |
@@ -80,7 +80,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 | **2023/06** | **92.76** | <span style="color: #8B0000; font-weight: bold;">+4.64</span> | <span style="color: #8B0000; font-weight: bold;">+6.77</span> | **688** | <span style="color: #DC143C; font-weight: bold;">15.41</span> | <span style="color: #8B0000; font-weight: bold;">44.65</span> |
 | **2023/05** | **89.76** | <span style="color: #8B0000; font-weight: bold;">+4.06</span> | <span style="color: #8B0000; font-weight: bold;">+7.25</span> | **699** | <span style="color: #DC143C; font-weight: bold;">15.46</span> | <span style="color: #8B0000; font-weight: bold;">45.21</span> |
 | **2023/04** | **79.6** | <span style="color: #8B0000; font-weight: bold;">+4.07</span> | <span style="color: #8B0000; font-weight: bold;">+8.15</span> | **829** | <span style="color: #DC143C; font-weight: bold;">15.51</span> | <span style="color: #B22222; font-weight: bold;">53.44</span> |
-| **2023/03** | **84.69** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #8B0000; font-weight: bold;">+9.51</span> | **903** | <span style="color: #DC143C; font-weight: bold;">15.56</span> | <span style="color: #B22222; font-weight: bold;">58.01</span> |
+| **2023/03** | **84.69** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #8B0000; font-weight: bold;">+9.51</span> | **903** | <span style="color: #DC143C; font-weight: bold;">15.57</span> | <span style="color: #B22222; font-weight: bold;">58.01</span> |
 | **2023/02** | **78.99** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #8B0000; font-weight: bold;">+8.07</span> | **794** | <span style="color: #DC143C; font-weight: bold;">15.62</span> | <span style="color: #8B0000; font-weight: bold;">50.84</span> |
 | **2023/01** | **87.52** | <span style="color: #8B0000; font-weight: bold;">+3.97</span> | <span style="color: #8B0000; font-weight: bold;">+3.97</span> | **793** | <span style="color: #DC143C; font-weight: bold;">15.67</span> | <span style="color: #8B0000; font-weight: bold;">50.61</span> |
 | **2022/12** | **95.6** | <span style="color: #B22222; font-weight: bold;">+19.3</span> | <span style="color: #B22222; font-weight: bold;">+17</span> | **642** | <span style="color: #DC143C; font-weight: bold;">15.72</span> | <span style="color: #8B0000; font-weight: bold;">40.84</span> |
@@ -123,10 +123,10 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 | **2019/11** | **66.81** | <span style="color: #FF6347; font-weight: bold;">+40.4</span> | <span style="color: #DC143C; font-weight: bold;">+23.5</span> | **280** | <span style="color: #004225; font-weight: bold;">9.98</span> | <span style="color: #004225; font-weight: bold;">28.05</span> |
 | **2019/10** | **40.66** | <span style="color: #B22222; font-weight: bold;">+19.2</span> | <span style="color: #DC143C; font-weight: bold;">+21</span> | **264** | <span style="color: #004225; font-weight: bold;">10.02</span> | <span style="color: #004225; font-weight: bold;">26.36</span> |
 | **2019/09** | **40.55** | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | **261.5** | <span style="color: #004225; font-weight: bold;">10.05</span> | <span style="color: #004225; font-weight: bold;">26.02</span> |
-| **2019/08** | **42.61** | <span style="color: #DC143C; font-weight: bold;">+25.7</span> | <span style="color: #DC143C; font-weight: bold;">+20.7</span> | **258.5** | <span style="color: #004225; font-weight: bold;">10.08</span> | <span style="color: #006400; font-weight: bold;">25.64</span> |
+| **2019/08** | **42.61** | <span style="color: #DC143C; font-weight: bold;">+25.7</span> | <span style="color: #DC143C; font-weight: bold;">+20.7</span> | **258.5** | <span style="color: #004225; font-weight: bold;">10.08</span> | <span style="color: #004225; font-weight: bold;">25.64</span> |
 | **2019/07** | **40.56** | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #B22222; font-weight: bold;">+19.9</span> | **262** | <span style="color: #004225; font-weight: bold;">10.12</span> | <span style="color: #004225; font-weight: bold;">25.9</span> |
 | **2019/06** | **40.34** | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | <span style="color: #B22222; font-weight: bold;">+18.8</span> | **262.5** | <span style="color: #004225; font-weight: bold;">10.15</span> | <span style="color: #004225; font-weight: bold;">25.86</span> |
-| **2019/05** | **40.37** | <span style="color: #B22222; font-weight: bold;">+17.1</span> | <span style="color: #B22222; font-weight: bold;">+16.7</span> | **262** | <span style="color: #004225; font-weight: bold;">10.18</span> | <span style="color: #006400; font-weight: bold;">25.73</span> |
+| **2019/05** | **40.37** | <span style="color: #B22222; font-weight: bold;">+17.1</span> | <span style="color: #B22222; font-weight: bold;">+16.7</span> | **262** | <span style="color: #004225; font-weight: bold;">10.18</span> | <span style="color: #004225; font-weight: bold;">25.73</span> |
 | **2019/04** | **37.44** | <span style="color: #DC143C; font-weight: bold;">+21</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **275.5** | <span style="color: #004225; font-weight: bold;">10.22</span> | <span style="color: #004225; font-weight: bold;">26.97</span> |
 | **2019/03** | **39.14** | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **254.5** | <span style="color: #004225; font-weight: bold;">10.25</span> | <span style="color: #006400; font-weight: bold;">24.83</span> |
 | **2019/02** | **35.39** | <span style="color: #8B0000; font-weight: bold;">+6.45</span> | <span style="color: #B22222; font-weight: bold;">+12.6</span> | **246** | <span style="color: #004225; font-weight: bold;">10.28</span> | <span style="color: #006400; font-weight: bold;">23.92</span> |
@@ -158,7 +158,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 | **2016/12** | **27.79** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #8B0000; font-weight: bold;">+9.51</span> | **194** | <span style="color: #006400; font-weight: bold;">8.45</span> | <span style="color: #006400; font-weight: bold;">22.96</span> |
 | **2016/11** | **25.8** | <span style="color: #B22222; font-weight: bold;">+16.2</span> | <span style="color: #8B0000; font-weight: bold;">+8.97</span> | **194.5** | <span style="color: #006400; font-weight: bold;">8.37</span> | <span style="color: #006400; font-weight: bold;">23.24</span> |
 | **2016/10** | **22.62** | <span style="color: #8B0000; font-weight: bold;">+2.35</span> | <span style="color: #8B0000; font-weight: bold;">+8.21</span> | **205** | <span style="color: #006400; font-weight: bold;">8.29</span> | <span style="color: #006400; font-weight: bold;">24.73</span> |
-| **2016/09** | **21.83** | <span style="color: #8B0000; font-weight: bold;">+6.76</span> | <span style="color: #8B0000; font-weight: bold;">+8.9</span> | **210.5** | <span style="color: #006400; font-weight: bold;">8.21</span> | <span style="color: #006400; font-weight: bold;">25.65</span> |
+| **2016/09** | **21.83** | <span style="color: #8B0000; font-weight: bold;">+6.76</span> | <span style="color: #8B0000; font-weight: bold;">+8.9</span> | **210.5** | <span style="color: #006400; font-weight: bold;">8.21</span> | <span style="color: #004225; font-weight: bold;">25.65</span> |
 | **2016/08** | **23.11** | <span style="color: #8B0000; font-weight: bold;">+5.56</span> | <span style="color: #8B0000; font-weight: bold;">+9.16</span> | **226.5** | <span style="color: #006400; font-weight: bold;">8.13</span> | <span style="color: #004225; font-weight: bold;">27.87</span> |
 | **2016/07** | **22.7** | <span style="color: #8B0000; font-weight: bold;">+8.42</span> | <span style="color: #8B0000; font-weight: bold;">+9.7</span> | **218** | <span style="color: #006400; font-weight: bold;">8.05</span> | <span style="color: #004225; font-weight: bold;">27.09</span> |
 | **2016/06** | **22.57** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.92</span> | **212.5** | <span style="color: #006400; font-weight: bold;">7.96</span> | <span style="color: #004225; font-weight: bold;">26.68</span> |
@@ -167,7 +167,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 | **2016/03** | **22.34** | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **214** | <span style="color: #006400; font-weight: bold;">7.72</span> | <span style="color: #004225; font-weight: bold;">27.71</span> |
 | **2016/02** | **20.85** | <span style="color: #8B0000; font-weight: bold;">+3.44</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **214** | <span style="color: #006400; font-weight: bold;">7.64</span> | <span style="color: #004225; font-weight: bold;">28.0</span> |
 | **2016/01** | **26.87** | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **212** | <span style="color: #006400; font-weight: bold;">7.56</span> | <span style="color: #004225; font-weight: bold;">28.04</span> |
-| **2015/12** | **24.22** | <span style="color: #B22222; font-weight: bold;">+12</span> | <span style="color: #8B0000; font-weight: bold;">+7.29</span> | **213.5** | <span style="color: #006400; font-weight: bold;">7.48</span> | <span style="color: #004225; font-weight: bold;">28.54</span> |
+| **2015/12** | **24.22** | <span style="color: #B22222; font-weight: bold;">+12</span> | <span style="color: #8B0000; font-weight: bold;">+7.29</span> | **213.5** | <span style="color: #228B22; font-weight: bold;">7.48</span> | <span style="color: #004225; font-weight: bold;">28.54</span> |
 | **2015/11** | **22.21** | <span style="color: #8B0000; font-weight: bold;">+6.84</span> | <span style="color: #8B0000; font-weight: bold;">+6.82</span> | **217.5** | <span style="color: #006400; font-weight: bold;">7.62</span> | <span style="color: #004225; font-weight: bold;">28.56</span> |
 | **2015/10** | **22.1** | <span style="color: #8B0000; font-weight: bold;">+5.55</span> | <span style="color: #8B0000; font-weight: bold;">+6.81</span> | **186** | <span style="color: #006400; font-weight: bold;">7.75</span> | <span style="color: #006400; font-weight: bold;">23.99</span> |
 | **2015/09** | **20.45** | <span style="color: #002818; font-weight: bold;">-0.48</span> | <span style="color: #8B0000; font-weight: bold;">+6.96</span> | **195** | <span style="color: #006400; font-weight: bold;">7.89</span> | <span style="color: #006400; font-weight: bold;">24.72</span> |
@@ -287,7 +287,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

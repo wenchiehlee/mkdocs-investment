@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 聯強 (2347) - 自動產生
     **:building_construction: 公司名稱**: 聯強  
     **:identification_card: 股票代號**: 2347  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
@@ -32,15 +32,15 @@ description: 月營收表 聯強 (2347) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **3.20** | **4.30** | **7.26** |
-| **P/E倍數** | **9.34** | **13.52** | **18.35** |
+| **EPS(元)** | **3.20** | **4.32** | **7.23** |
+| **P/E倍數** | **9.33** | **13.50** | **18.32** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 聯強 歷史平均獲利能力 (σup=2.95, σlo=1.11)
-    - **P/Ebase**: 聯強 歷史平均估值水準 (σup=4.83, σlo=4.17)
+    - **EPSbase**: 聯強 歷史平均獲利能力 (σup=2.91, σlo=1.12)
+    - **P/Ebase**: 聯強 歷史平均估值水準 (σup=4.82, σlo=4.17)
 
 
 ## :moneybag: 月營收數據
@@ -49,16 +49,16 @@ description: 月營收表 聯強 (2347) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **371.4** | <span style="color: #8B0000; font-weight: bold;">+3.03</span> | <span style="color: #002818; font-weight: bold;">-7.66</span> | **56.8** | <span style="color: #8B0000; font-weight: bold;">5.04</span> | <span style="color: #004225; font-weight: bold;">11.27</span> |
-| **2025/09** | **348.9** | <span style="color: #002818; font-weight: bold;">-9.41</span> | <span style="color: #002818; font-weight: bold;">-8.9</span> | **63.2** | <span style="color: #8B0000; font-weight: bold;">5.09</span> | <span style="color: #002818; font-weight: bold;">12.43</span> |
-| **2025/08** | **334.5** | <span style="color: #002818; font-weight: bold;">-2.9</span> | <span style="color: #002818; font-weight: bold;">-8.82</span> | **65.8** | <span style="color: #8B0000; font-weight: bold;">5.13</span> | <span style="color: #002818; font-weight: bold;">12.82</span> |
-| **2025/07** | **316.2** | <span style="color: #004225; font-weight: bold;">-11.8</span> | <span style="color: #002818; font-weight: bold;">-9.78</span> | **66.4** | <span style="color: #8B0000; font-weight: bold;">5.18</span> | <span style="color: #002818; font-weight: bold;">12.81</span> |
-| **2025/06** | **324.1** | <span style="color: #004225; font-weight: bold;">-12.1</span> | <span style="color: #002818; font-weight: bold;">-9.45</span> | **64.4** | <span style="color: #8B0000; font-weight: bold;">5.23</span> | <span style="color: #002818; font-weight: bold;">12.31</span> |
-| **2025/05** | **295.2** | <span style="color: #004225; font-weight: bold;">-10.5</span> | <span style="color: #002818; font-weight: bold;">-8.9</span> | **71.2** | <span style="color: #8B0000; font-weight: bold;">5.28</span> | <span style="color: #002818; font-weight: bold;">13.49</span> |
-| **2025/04** | **310.9** | <span style="color: #8B0000; font-weight: bold;">+2.51</span> | <span style="color: #002818; font-weight: bold;">-8.64</span> | **70.9** | <span style="color: #8B0000; font-weight: bold;">5.33</span> | <span style="color: #002818; font-weight: bold;">13.31</span> |
-| **2025/03** | **340.4** | <span style="color: #002818; font-weight: bold;">-3.85</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **71.4** | <span style="color: #8B0000; font-weight: bold;">5.38</span> | <span style="color: #002818; font-weight: bold;">13.28</span> |
-| **2025/02** | **282.2** | <span style="color: #8B0000; font-weight: bold;">+3.92</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **70.5** | <span style="color: #8B0000; font-weight: bold;">5.42</span> | <span style="color: #002818; font-weight: bold;">13.0</span> |
-| **2025/01** | **290.9** | <span style="color: #006400; font-weight: bold;">-29.4</span> | <span style="color: #006400; font-weight: bold;">-29.4</span> | **71.2** | <span style="color: #8B0000; font-weight: bold;">5.47</span> | <span style="color: #002818; font-weight: bold;">13.01</span> |
+| **2025/10** | **371.4** | <span style="color: #8B0000; font-weight: bold;">+3.03</span> | <span style="color: #002818; font-weight: bold;">-7.66</span> | **56.8** | <span style="color: #8B0000; font-weight: bold;">5.24</span> | <span style="color: #004225; font-weight: bold;">10.85</span> |
+| **2025/09** | **348.9** | <span style="color: #002818; font-weight: bold;">-9.41</span> | <span style="color: #002818; font-weight: bold;">-8.9</span> | **63.2** | <span style="color: #8B0000; font-weight: bold;">5.26</span> | <span style="color: #002818; font-weight: bold;">12.0</span> |
+| **2025/08** | **334.5** | <span style="color: #002818; font-weight: bold;">-2.9</span> | <span style="color: #002818; font-weight: bold;">-8.82</span> | **65.8** | <span style="color: #8B0000; font-weight: bold;">5.29</span> | <span style="color: #002818; font-weight: bold;">12.43</span> |
+| **2025/07** | **316.2** | <span style="color: #004225; font-weight: bold;">-11.8</span> | <span style="color: #002818; font-weight: bold;">-9.78</span> | **66.4** | <span style="color: #8B0000; font-weight: bold;">5.32</span> | <span style="color: #002818; font-weight: bold;">12.48</span> |
+| **2025/06** | **324.1** | <span style="color: #004225; font-weight: bold;">-12.1</span> | <span style="color: #002818; font-weight: bold;">-9.45</span> | **64.4** | <span style="color: #8B0000; font-weight: bold;">5.35</span> | <span style="color: #002818; font-weight: bold;">12.04</span> |
+| **2025/05** | **295.2** | <span style="color: #004225; font-weight: bold;">-10.5</span> | <span style="color: #002818; font-weight: bold;">-8.9</span> | **71.2** | <span style="color: #8B0000; font-weight: bold;">5.38</span> | <span style="color: #002818; font-weight: bold;">13.24</span> |
+| **2025/04** | **310.9** | <span style="color: #8B0000; font-weight: bold;">+2.51</span> | <span style="color: #002818; font-weight: bold;">-8.64</span> | **70.9** | <span style="color: #8B0000; font-weight: bold;">5.41</span> | <span style="color: #002818; font-weight: bold;">13.11</span> |
+| **2025/03** | **340.4** | <span style="color: #002818; font-weight: bold;">-3.85</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **71.4** | <span style="color: #8B0000; font-weight: bold;">5.44</span> | <span style="color: #002818; font-weight: bold;">13.14</span> |
+| **2025/02** | **282.2** | <span style="color: #8B0000; font-weight: bold;">+3.92</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **70.5** | <span style="color: #8B0000; font-weight: bold;">5.46</span> | <span style="color: #002818; font-weight: bold;">12.9</span> |
+| **2025/01** | **290.9** | <span style="color: #006400; font-weight: bold;">-29.4</span> | <span style="color: #006400; font-weight: bold;">-29.4</span> | **71.2** | <span style="color: #8B0000; font-weight: bold;">5.49</span> | <span style="color: #002818; font-weight: bold;">12.97</span> |
 | **2024/12** | **412.9** | <span style="color: #002818; font-weight: bold;">-2.01</span> | <span style="color: #8B0000; font-weight: bold;">+7.55</span> | **70.8** | <span style="color: #8B0000; font-weight: bold;">5.52</span> | <span style="color: #002818; font-weight: bold;">12.83</span> |
 | **2024/11** | **374.3** | <span style="color: #002818; font-weight: bold;">-3.23</span> | <span style="color: #8B0000; font-weight: bold;">+9.15</span> | **75.6** | <span style="color: #8B0000; font-weight: bold;">5.42</span> | <span style="color: #8B0000; font-weight: bold;">13.94</span> |
 | **2024/10** | **360.5** | <span style="color: #8B0000; font-weight: bold;">+7.99</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **70.9** | <span style="color: #8B0000; font-weight: bold;">5.33</span> | <span style="color: #002818; font-weight: bold;">13.31</span> |
@@ -183,7 +183,7 @@ description: 月營收表 聯強 (2347) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

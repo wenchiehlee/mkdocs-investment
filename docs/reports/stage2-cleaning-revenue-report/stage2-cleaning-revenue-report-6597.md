@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 立誠 (6597) - 自動產生
     **:building_construction: 公司名稱**: 立誠  
     **:identification_card: 股票代號**: 6597  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
@@ -33,14 +33,14 @@ description: 月營收表 立誠 (6597) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **1.61** | **2.61** | **2.61** |
-| **P/E倍數** | **22.26** | **26.34** | **30.13** |
+| **P/E倍數** | **22.92** | **25.89** | **30.13** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 立誠 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 立誠 歷史平均估值水準 (σup=3.79, σlo=4.08)
+    - **P/Ebase**: 立誠 歷史平均估值水準 (σup=4.24, σlo=2.97)
 
 
 ## :moneybag: 月營收數據
@@ -50,7 +50,7 @@ description: 月營收表 立誠 (6597) - 自動產生
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2025/10** | **0.741** | <span style="color: #002818; font-weight: bold;">-3.4</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **56.5** | <span style="color: #000000; font-weight: bold;">2.61</span> | <span style="color: #006400; font-weight: bold;">21.65</span> |
-| **2025/09** | **0.706** | <span style="color: #004225; font-weight: bold;">-14.5</span> | <span style="color: #004225; font-weight: bold;">-13</span> | **55.5** | <span style="color: #000000; font-weight: bold;">2.61</span> | <span style="color: #006400; font-weight: bold;">21.26</span> |
+| **2025/09** | **0.706** | <span style="color: #004225; font-weight: bold;">-14.5</span> | <span style="color: #004225; font-weight: bold;">-13</span> | **55.5** | <span style="color: #000000; font-weight: bold;">2.61</span> | <span style="color: #228B22; font-weight: bold;">21.26</span> |
 | **2025/08** | **0.664** | <span style="color: #006400; font-weight: bold;">-26.4</span> | <span style="color: #004225; font-weight: bold;">-12.8</span> | **65** | <span style="color: #000000; font-weight: bold;">2.61</span> | <span style="color: #002818; font-weight: bold;">24.9</span> |
 | **2025/07** | **0.605** | <span style="color: #004225; font-weight: bold;">-19.2</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **79.8** | <span style="color: #000000; font-weight: bold;">2.61</span> | <span style="color: #DC143C; font-weight: bold;">30.57</span> |
 | **2025/06** | **0.576** | <span style="color: #004225; font-weight: bold;">-18.7</span> | <span style="color: #002818; font-weight: bold;">-8.67</span> | **79.6** | <span style="color: #000000; font-weight: bold;">2.61</span> | <span style="color: #DC143C; font-weight: bold;">30.5</span> |
@@ -254,7 +254,7 @@ description: 月營收表 立誠 (6597) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
