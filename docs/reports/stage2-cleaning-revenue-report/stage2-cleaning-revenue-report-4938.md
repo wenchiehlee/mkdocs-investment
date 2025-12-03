@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 和碩 (4938) - 自動產生
     **:building_construction: 公司名稱**: 和碩  
     **:identification_card: 股票代號**: 4938  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
@@ -32,15 +32,15 @@ description: 月營收表 和碩 (4938) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.76** | **5.53** | **7.22** |
-| **P/E倍數** | **11.27** | **18.29** | **184.28** |
+| **EPS(元)** | **2.77** | **5.53** | **7.21** |
+| **P/E倍數** | **11.29** | **18.24** | **184.25** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 和碩 歷史平均獲利能力 (σup=1.69, σlo=2.77)
-    - **P/Ebase**: 和碩 歷史平均估值水準 (σup=165.99, σlo=7.02)
+    - **EPSbase**: 和碩 歷史平均獲利能力 (σup=1.68, σlo=2.75)
+    - **P/Ebase**: 和碩 歷史平均估值水準 (σup=166.01, σlo=6.95)
 
 
 ## :moneybag: 月營收數據
@@ -49,16 +49,16 @@ description: 月營收表 和碩 (4938) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **1178** | <span style="color: #002818; font-weight: bold;">-0.82</span> | <span style="color: #002818; font-weight: bold;">-0.18</span> | **74.2** | <span style="color: #002818; font-weight: bold;">4.88</span> | <span style="color: #002818; font-weight: bold;">15.22</span> |
-| **2025/09** | **1149** | <span style="color: #8B0000; font-weight: bold;">+5.16</span> | <span style="color: #002818; font-weight: bold;">-0.09</span> | **70.8** | <span style="color: #002818; font-weight: bold;">5.02</span> | <span style="color: #004225; font-weight: bold;">14.1</span> |
-| **2025/08** | **658.4** | <span style="color: #006400; font-weight: bold;">-25.5</span> | <span style="color: #002818; font-weight: bold;">-0.92</span> | **70.2** | <span style="color: #002818; font-weight: bold;">5.17</span> | <span style="color: #004225; font-weight: bold;">13.58</span> |
-| **2025/07** | **771** | <span style="color: #006400; font-weight: bold;">-20.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.7</span> | **80** | <span style="color: #002818; font-weight: bold;">5.32</span> | <span style="color: #002818; font-weight: bold;">15.05</span> |
-| **2025/06** | **787.7** | <span style="color: #B22222; font-weight: bold;">+11</span> | <span style="color: #8B0000; font-weight: bold;">+7.07</span> | **76.8** | <span style="color: #002818; font-weight: bold;">5.46</span> | <span style="color: #004225; font-weight: bold;">14.06</span> |
-| **2025/05** | **856.9** | <span style="color: #002818; font-weight: bold;">-7.96</span> | <span style="color: #8B0000; font-weight: bold;">+6.42</span> | **83.9** | <span style="color: #8B0000; font-weight: bold;">5.61</span> | <span style="color: #002818; font-weight: bold;">14.96</span> |
-| **2025/04** | **1029** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **80.8** | <span style="color: #8B0000; font-weight: bold;">5.75</span> | <span style="color: #004225; font-weight: bold;">14.04</span> |
-| **2025/03** | **846.3** | <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #8B0000; font-weight: bold;">+8.79</span> | **83.9** | <span style="color: #8B0000; font-weight: bold;">5.9</span> | <span style="color: #004225; font-weight: bold;">14.22</span> |
-| **2025/02** | **824.8** | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | <span style="color: #8B0000; font-weight: bold;">+6.91</span> | **95** | <span style="color: #8B0000; font-weight: bold;">6.05</span> | <span style="color: #002818; font-weight: bold;">15.71</span> |
-| **2025/01** | **1053** | <span style="color: #002818; font-weight: bold;">-3.68</span> | <span style="color: #002818; font-weight: bold;">-3.68</span> | **96.7** | <span style="color: #8B0000; font-weight: bold;">6.19</span> | <span style="color: #002818; font-weight: bold;">15.61</span> |
+| **2025/10** | **1178** | <span style="color: #002818; font-weight: bold;">-0.82</span> | <span style="color: #002818; font-weight: bold;">-0.18</span> | **74.2** | <span style="color: #002818; font-weight: bold;">5.07</span> | <span style="color: #004225; font-weight: bold;">14.63</span> |
+| **2025/09** | **1149** | <span style="color: #8B0000; font-weight: bold;">+5.16</span> | <span style="color: #002818; font-weight: bold;">-0.09</span> | **70.8** | <span style="color: #002818; font-weight: bold;">5.2</span> | <span style="color: #004225; font-weight: bold;">13.62</span> |
+| **2025/08** | **658.4** | <span style="color: #006400; font-weight: bold;">-25.5</span> | <span style="color: #002818; font-weight: bold;">-0.92</span> | **70.2** | <span style="color: #002818; font-weight: bold;">5.33</span> | <span style="color: #004225; font-weight: bold;">13.18</span> |
+| **2025/07** | **771** | <span style="color: #006400; font-weight: bold;">-20.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.7</span> | **80** | <span style="color: #002818; font-weight: bold;">5.45</span> | <span style="color: #004225; font-weight: bold;">14.67</span> |
+| **2025/06** | **787.7** | <span style="color: #B22222; font-weight: bold;">+11</span> | <span style="color: #8B0000; font-weight: bold;">+7.07</span> | **76.8** | <span style="color: #8B0000; font-weight: bold;">5.58</span> | <span style="color: #004225; font-weight: bold;">13.76</span> |
+| **2025/05** | **856.9** | <span style="color: #002818; font-weight: bold;">-7.96</span> | <span style="color: #8B0000; font-weight: bold;">+6.42</span> | **83.9** | <span style="color: #8B0000; font-weight: bold;">5.71</span> | <span style="color: #004225; font-weight: bold;">14.7</span> |
+| **2025/04** | **1029** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **80.8** | <span style="color: #8B0000; font-weight: bold;">5.83</span> | <span style="color: #004225; font-weight: bold;">13.85</span> |
+| **2025/03** | **846.3** | <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #8B0000; font-weight: bold;">+8.79</span> | **83.9** | <span style="color: #8B0000; font-weight: bold;">5.96</span> | <span style="color: #004225; font-weight: bold;">14.08</span> |
+| **2025/02** | **824.8** | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | <span style="color: #8B0000; font-weight: bold;">+6.91</span> | **95** | <span style="color: #8B0000; font-weight: bold;">6.09</span> | <span style="color: #002818; font-weight: bold;">15.61</span> |
+| **2025/01** | **1053** | <span style="color: #002818; font-weight: bold;">-3.68</span> | <span style="color: #002818; font-weight: bold;">-3.68</span> | **96.7** | <span style="color: #8B0000; font-weight: bold;">6.21</span> | <span style="color: #002818; font-weight: bold;">15.56</span> |
 | **2024/12** | **1024** | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | <span style="color: #004225; font-weight: bold;">-10.4</span> | **91.9** | <span style="color: #8B0000; font-weight: bold;">6.34</span> | <span style="color: #004225; font-weight: bold;">14.5</span> |
 | **2024/11** | **1058** | <span style="color: #002818; font-weight: bold;">-9.43</span> | <span style="color: #004225; font-weight: bold;">-12.8</span> | **94.3** | <span style="color: #8B0000; font-weight: bold;">6.3</span> | <span style="color: #002818; font-weight: bold;">14.96</span> |
 | **2024/10** | **1188** | <span style="color: #004225; font-weight: bold;">-16.4</span> | <span style="color: #004225; font-weight: bold;">-13.2</span> | **99** | <span style="color: #8B0000; font-weight: bold;">6.27</span> | <span style="color: #002818; font-weight: bold;">15.8</span> |
@@ -113,7 +113,7 @@ description: 月營收表 和碩 (4938) - 自動產生
 | **2020/09** | **1262** | <span style="color: #004225; font-weight: bold;">-19.9</span> | <span style="color: #002818; font-weight: bold;">-0.67</span> | **63.8** | <span style="color: #DC143C; font-weight: bold;">7.65</span> | <span style="color: #006400; font-weight: bold;">8.34</span> |
 | **2020/08** | **1056** | <span style="color: #8B0000; font-weight: bold;">+7.32</span> | <span style="color: #8B0000; font-weight: bold;">+3.17</span> | **62.5** | <span style="color: #DC143C; font-weight: bold;">7.62</span> | <span style="color: #006400; font-weight: bold;">8.2</span> |
 | **2020/07** | **1038** | <span style="color: #8B0000; font-weight: bold;">+5.15</span> | <span style="color: #8B0000; font-weight: bold;">+2.58</span> | **61.7** | <span style="color: #DC143C; font-weight: bold;">7.59</span> | <span style="color: #006400; font-weight: bold;">8.13</span> |
-| **2020/06** | **1099** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #8B0000; font-weight: bold;">+2.16</span> | **64** | <span style="color: #DC143C; font-weight: bold;">7.56</span> | <span style="color: #006400; font-weight: bold;">8.46</span> |
+| **2020/06** | **1099** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #8B0000; font-weight: bold;">+2.16</span> | **64** | <span style="color: #DC143C; font-weight: bold;">7.57</span> | <span style="color: #006400; font-weight: bold;">8.46</span> |
 | **2020/05** | **1141** | <span style="color: #B22222; font-weight: bold;">+16</span> | <span style="color: #002818; font-weight: bold;">-1.74</span> | **64.5** | <span style="color: #DC143C; font-weight: bold;">7.54</span> | <span style="color: #006400; font-weight: bold;">8.56</span> |
 | **2020/04** | **1038** | <span style="color: #002818; font-weight: bold;">-7.95</span> | <span style="color: #002818; font-weight: bold;">-6.04</span> | **66.1** | <span style="color: #DC143C; font-weight: bold;">7.51</span> | <span style="color: #006400; font-weight: bold;">8.8</span> |
 | **2020/03** | **1010** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #002818; font-weight: bold;">-5.32</span> | **58** | <span style="color: #DC143C; font-weight: bold;">7.48</span> | <span style="color: #228B22; font-weight: bold;">7.75</span> |
@@ -167,7 +167,7 @@ description: 月營收表 和碩 (4938) - 自動產生
 | **2016/03** | **892.3** | <span style="color: #8B0000; font-weight: bold;">+2.65</span> | <span style="color: #002818; font-weight: bold;">-6.52</span> | **75.1** | <span style="color: #FF4500; font-weight: bold;">8.8</span> | <span style="color: #006400; font-weight: bold;">8.54</span> |
 | **2016/02** | **657.2** | <span style="color: #002818; font-weight: bold;">-5.14</span> | <span style="color: #004225; font-weight: bold;">-10.8</span> | **79** | <span style="color: #FF6347; font-weight: bold;">8.94</span> | <span style="color: #006400; font-weight: bold;">8.84</span> |
 | **2016/01** | **1014** | <span style="color: #004225; font-weight: bold;">-14.1</span> | <span style="color: #004225; font-weight: bold;">-14.1</span> | **76.8** | <span style="color: #FF6347; font-weight: bold;">9.09</span> | <span style="color: #006400; font-weight: bold;">8.45</span> |
-| **2015/12** | **1158** | <span style="color: #8B0000; font-weight: bold;">+0.84</span> | <span style="color: #B22222; font-weight: bold;">+19</span> | **72** | <span style="color: #FF6347; font-weight: bold;">9.23</span> | <span style="color: #006400; font-weight: bold;">7.8</span> |
+| **2015/12** | **1158** | <span style="color: #8B0000; font-weight: bold;">+0.84</span> | <span style="color: #B22222; font-weight: bold;">+19</span> | **72** | <span style="color: #FF6347; font-weight: bold;">9.23</span> | <span style="color: #228B22; font-weight: bold;">7.8</span> |
 | **2015/11** | **1214** | <span style="color: #8B0000; font-weight: bold;">+2.72</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **86.1** | <span style="color: #FF6347; font-weight: bold;">8.98</span> | <span style="color: #006400; font-weight: bold;">9.59</span> |
 | **2015/10** | **1753** | <span style="color: #FF6347; font-weight: bold;">+47.3</span> | <span style="color: #DC143C; font-weight: bold;">+24.1</span> | **79.8** | <span style="color: #FF4500; font-weight: bold;">8.73</span> | <span style="color: #006400; font-weight: bold;">9.14</span> |
 | **2015/09** | **1661** | <span style="color: #FF7F7F; font-weight: bold;">+55.2</span> | <span style="color: #DC143C; font-weight: bold;">+20</span> | **80.2** | <span style="color: #FF4500; font-weight: bold;">8.48</span> | <span style="color: #006400; font-weight: bold;">9.45</span> |
@@ -221,7 +221,7 @@ description: 月營收表 和碩 (4938) - 自動產生
 | **2011/09** | **-** | N/A | N/A | **28.6** | <span style="color: #228B22; font-weight: bold;">0.72</span> | <span style="color: #8B0000; font-weight: bold;">39.72</span> |
 | **2011/08** | **-** | N/A | N/A | **28.1** | <span style="color: #228B22; font-weight: bold;">0.94</span> | <span style="color: #8B0000; font-weight: bold;">29.79</span> |
 | **2011/07** | **-** | N/A | N/A | **33.15** | <span style="color: #228B22; font-weight: bold;">1.17</span> | <span style="color: #8B0000; font-weight: bold;">28.41</span> |
-| **2011/06** | **-** | N/A | N/A | **29.75** | <span style="color: #006400; font-weight: bold;">1.39</span> | <span style="color: #8B0000; font-weight: bold;">21.4</span> |
+| **2011/06** | **-** | N/A | N/A | **29.75** | <span style="color: #228B22; font-weight: bold;">1.39</span> | <span style="color: #8B0000; font-weight: bold;">21.4</span> |
 | **2011/05** | **-** | N/A | N/A | **30.85** | <span style="color: #006400; font-weight: bold;">1.61</span> | <span style="color: #8B0000; font-weight: bold;">19.12</span> |
 | **2011/04** | **-** | N/A | N/A | **30.2** | <span style="color: #006400; font-weight: bold;">1.84</span> | <span style="color: #002818; font-weight: bold;">16.44</span> |
 | **2011/03** | **-** | N/A | N/A | **33.35** | <span style="color: #006400; font-weight: bold;">2.06</span> | <span style="color: #002818; font-weight: bold;">16.19</span> |
@@ -332,7 +332,7 @@ description: 月營收表 和碩 (4938) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

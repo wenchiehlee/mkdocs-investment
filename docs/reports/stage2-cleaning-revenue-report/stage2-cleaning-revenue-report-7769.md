@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 鴻勁 (7769) - 自動產生
     **:building_construction: 公司名稱**: 鴻勁  
     **:identification_card: 股票代號**: 7769  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
@@ -32,15 +32,15 @@ description: 月營收表 鴻勁 (7769) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **36.84** | **46.60** | **56.66** |
-| **P/E倍數** | **21.55** | **28.87** | **35.10** |
+| **EPS(元)** | **64.70** | **65.70** | **65.70** |
+| **P/E倍數** | **43.83** | **44.83** | **45.83** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 鴻勁 歷史平均獲利能力 (σup=10.06, σlo=9.75)
-    - **P/Ebase**: 鴻勁 歷史平均估值水準 (σup=6.23, σlo=7.32)
+    - **EPSbase**: 鴻勁 歷史平均獲利能力 (σup=0.00, σlo=1.00)
+    - **P/Ebase**: 鴻勁 歷史平均估值水準 (σup=1.00, σlo=1.00)
 
 
 ## :moneybag: 月營收數據
@@ -49,18 +49,18 @@ description: 月營收表 鴻勁 (7769) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **29.21** | <span style="color: #FF7F7F; font-weight: bold;">+95.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+127.1</span> | **-** | <span style="color: #FF4500; font-weight: bold;">62.72</span> | <span style="color: #FF4500; font-weight: bold;">40.02</span> |
-| **2025/09** | **28.62** | <span style="color: #FF7F7F; font-weight: bold;">+131.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+132.4</span> | **-** | <span style="color: #DC143C; font-weight: bold;">59.75</span> | <span style="color: #8B0000; font-weight: bold;">29.63</span> |
-| **2025/08** | **27.24** | <span style="color: #FF7F7F; font-weight: bold;">+145.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+132.6</span> | **-** | <span style="color: #DC143C; font-weight: bold;">56.77</span> | <span style="color: #8B0000; font-weight: bold;">30.47</span> |
-| **2025/07** | **26.12** | <span style="color: #FF7F7F; font-weight: bold;">+112.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+130.4</span> | **-** | <span style="color: #B22222; font-weight: bold;">53.79</span> | <span style="color: #8B0000; font-weight: bold;">29.0</span> |
-| **2025/06** | **25.67** | <span style="color: #FF7F7F; font-weight: bold;">+165.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+134.8</span> | **-** | <span style="color: #8B0000; font-weight: bold;">50.81</span> | <span style="color: #002818; font-weight: bold;">27.85</span> |
-| **2025/05** | **22.49** | <span style="color: #FF6347; font-weight: bold;">+43.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+128.2</span> | **-** | <span style="color: #8B0000; font-weight: bold;">47.84</span> | <span style="color: #006400; font-weight: bold;">20.72</span> |
-| **2025/04** | **20.59** | <span style="color: #FF7F7F; font-weight: bold;">+329.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+173.4</span> | **-** | <span style="color: #002818; font-weight: bold;">44.86</span> | <span style="color: #006400; font-weight: bold;">18.32</span> |
-| **2025/03** | **20.3** | <span style="color: #FF7F7F; font-weight: bold;">+108.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+142.7</span> | **-** | <span style="color: #002818; font-weight: bold;">41.88</span> | <span style="color: #006400; font-weight: bold;">20.25</span> |
-| **2025/02** | **19.72** | <span style="color: #FF7F7F; font-weight: bold;">+350</span> | <span style="color: #FF7F7F; font-weight: bold;">+165.6</span> | **-** | <span style="color: #004225; font-weight: bold;">38.9</span> | <span style="color: #004225; font-weight: bold;">25.04</span> |
-| **2025/01** | **19.21** | <span style="color: #FF7F7F; font-weight: bold;">+87</span> | <span style="color: #FF7F7F; font-weight: bold;">+87</span> | **-** | <span style="color: #006400; font-weight: bold;">35.93</span> | <span style="color: #8B0000; font-weight: bold;">31.59</span> |
-| **2024/12** | **19.07** | <span style="color: #FF7F7F; font-weight: bold;">+207.9</span> | <span style="color: #FF6347; font-weight: bold;">+47.4</span> | **-** | <span style="color: #006400; font-weight: bold;">32.95</span> | <span style="color: #B22222; font-weight: bold;">34.45</span> |
-| **2024/11** | **15.56** | <span style="color: #FF7F7F; font-weight: bold;">+358</span> | <span style="color: #FF4500; font-weight: bold;">+36.2</span> | **-** | <span style="color: #006400; font-weight: bold;">32.95</span> | <span style="color: #FF4500; font-weight: bold;">39.15</span> |
+| **2025/10** | **29.21** | <span style="color: #FF7F7F; font-weight: bold;">+95.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+127.1</span> | **-** | N/A | N/A |
+| **2025/09** | **28.62** | <span style="color: #FF7F7F; font-weight: bold;">+131.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+132.4</span> | **-** | N/A | N/A |
+| **2025/08** | **27.24** | <span style="color: #FF7F7F; font-weight: bold;">+145.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+132.6</span> | **-** | N/A | N/A |
+| **2025/07** | **26.12** | <span style="color: #FF7F7F; font-weight: bold;">+112.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+130.4</span> | **-** | N/A | N/A |
+| **2025/06** | **25.67** | <span style="color: #FF7F7F; font-weight: bold;">+165.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+134.8</span> | **-** | N/A | N/A |
+| **2025/05** | **22.49** | <span style="color: #FF6347; font-weight: bold;">+43.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+128.2</span> | **-** | N/A | N/A |
+| **2025/04** | **20.59** | <span style="color: #FF7F7F; font-weight: bold;">+329.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+173.4</span> | **-** | N/A | N/A |
+| **2025/03** | **20.3** | <span style="color: #FF7F7F; font-weight: bold;">+108.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+142.7</span> | **-** | N/A | N/A |
+| **2025/02** | **19.72** | <span style="color: #FF7F7F; font-weight: bold;">+350</span> | <span style="color: #FF7F7F; font-weight: bold;">+165.6</span> | **-** | N/A | N/A |
+| **2025/01** | **19.21** | <span style="color: #FF7F7F; font-weight: bold;">+87</span> | <span style="color: #FF7F7F; font-weight: bold;">+87</span> | **-** | N/A | N/A |
+| **2024/12** | **19.07** | <span style="color: #FF7F7F; font-weight: bold;">+207.9</span> | <span style="color: #FF6347; font-weight: bold;">+47.4</span> | **-** | N/A | N/A |
+| **2024/11** | **15.56** | <span style="color: #FF7F7F; font-weight: bold;">+358</span> | <span style="color: #FF4500; font-weight: bold;">+36.2</span> | **-** | N/A | N/A |
 | **2024/10** | **14.97** | <span style="color: #FF7F7F; font-weight: bold;">+275.7</span> | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | **-** | N/A | N/A |
 | **2024/09** | **12.37** | <span style="color: #FF7F7F; font-weight: bold;">+134.8</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **-** | N/A | N/A |
 | **2024/08** | **11.08** | <span style="color: #FF7F7F; font-weight: bold;">+59.8</span> | <span style="color: #8B0000; font-weight: bold;">+2.49</span> | **-** | N/A | N/A |
@@ -160,7 +160,7 @@ description: 月營收表 鴻勁 (7769) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

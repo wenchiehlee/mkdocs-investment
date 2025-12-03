@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,28 +19,28 @@ description: 月營收表 全景軟體 (8272) - 自動產生
     **:building_construction: 公司名稱**: 全景軟體  
     **:identification_card: 股票代號**: 8272  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+0.12</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **57** 個月 | 2005/11 至 2025/10 |
+| <span style="color: #8B0000; font-weight: bold;">+0.12</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **28** 個月 | 2023/07 至 2025/10 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (全景軟體) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **4.06** | **4.13** | **4.21** |
-| **P/E倍數** | **19.82** | **22.50** | **27.62** |
+| **EPS(元)** | **4.10** | **4.28** | **4.47** |
+| **P/E倍數** | **18.86** | **21.48** | **27.36** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 全景軟體 歷史平均獲利能力 (σup=0.08, σlo=0.07)
-    - **P/Ebase**: 全景軟體 歷史平均估值水準 (σup=5.12, σlo=2.67)
+    - **EPSbase**: 全景軟體 歷史平均獲利能力 (σup=0.20, σlo=0.17)
+    - **P/Ebase**: 全景軟體 歷史平均估值水準 (σup=5.88, σlo=2.62)
 
 
 ## :moneybag: 月營收數據
@@ -49,19 +49,19 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **0.35** | <span style="color: #8B0000; font-weight: bold;">+0.12</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **89.1** | <span style="color: #FF4500; font-weight: bold;">4.26</span> | <span style="color: #004225; font-weight: bold;">20.92</span> |
-| **2025/09** | **0.503** | <span style="color: #DC143C; font-weight: bold;">+29.5</span> | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | **92.3** | <span style="color: #DC143C; font-weight: bold;">4.24</span> | <span style="color: #002818; font-weight: bold;">21.79</span> |
-| **2025/08** | **0.371** | <span style="color: #B22222; font-weight: bold;">+13.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.1</span> | **93** | <span style="color: #B22222; font-weight: bold;">4.21</span> | <span style="color: #002818; font-weight: bold;">22.07</span> |
-| **2025/07** | **0.315** | <span style="color: #FF4500; font-weight: bold;">+36.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | **81.2** | <span style="color: #B22222; font-weight: bold;">4.19</span> | <span style="color: #006400; font-weight: bold;">19.37</span> |
-| **2025/06** | **0.593** | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | <span style="color: #DC143C; font-weight: bold;">+21.8</span> | **78.3** | <span style="color: #8B0000; font-weight: bold;">4.17</span> | <span style="color: #006400; font-weight: bold;">18.77</span> |
-| **2025/05** | **0.352** | <span style="color: #FF7F7F; font-weight: bold;">+56.7</span> | <span style="color: #B22222; font-weight: bold;">+17.3</span> | **74.8** | <span style="color: #8B0000; font-weight: bold;">4.15</span> | <span style="color: #228B22; font-weight: bold;">18.03</span> |
-| **2025/04** | **0.268** | <span style="color: #002818; font-weight: bold;">-5.2</span> | <span style="color: #8B0000; font-weight: bold;">+8.04</span> | **82.4** | <span style="color: #002818; font-weight: bold;">4.13</span> | <span style="color: #004225; font-weight: bold;">19.96</span> |
-| **2025/03** | **0.289** | <span style="color: #FF4500; font-weight: bold;">+30.3</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **84.2** | <span style="color: #002818; font-weight: bold;">4.11</span> | <span style="color: #004225; font-weight: bold;">20.51</span> |
-| **2025/02** | **0.232** | <span style="color: #8B0000; font-weight: bold;">+0.38</span> | <span style="color: #8B0000; font-weight: bold;">+5.43</span> | **92.9** | <span style="color: #004225; font-weight: bold;">4.08</span> | <span style="color: #8B0000; font-weight: bold;">22.75</span> |
-| **2025/01** | **0.247** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **96** | <span style="color: #006400; font-weight: bold;">4.06</span> | <span style="color: #8B0000; font-weight: bold;">23.63</span> |
+| **2025/10** | **0.35** | <span style="color: #8B0000; font-weight: bold;">+0.12</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **89.1** | <span style="color: #DC143C; font-weight: bold;">4.5</span> | <span style="color: #004225; font-weight: bold;">19.81</span> |
+| **2025/09** | **0.503** | <span style="color: #DC143C; font-weight: bold;">+29.5</span> | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | **92.3** | <span style="color: #B22222; font-weight: bold;">4.45</span> | <span style="color: #002818; font-weight: bold;">20.73</span> |
+| **2025/08** | **0.371** | <span style="color: #B22222; font-weight: bold;">+13.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.1</span> | **93** | <span style="color: #B22222; font-weight: bold;">4.41</span> | <span style="color: #002818; font-weight: bold;">21.1</span> |
+| **2025/07** | **0.315** | <span style="color: #FF4500; font-weight: bold;">+36.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | **81.2** | <span style="color: #8B0000; font-weight: bold;">4.36</span> | <span style="color: #006400; font-weight: bold;">18.62</span> |
+| **2025/06** | **0.593** | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | <span style="color: #DC143C; font-weight: bold;">+21.8</span> | **78.3** | <span style="color: #8B0000; font-weight: bold;">4.31</span> | <span style="color: #006400; font-weight: bold;">18.15</span> |
+| **2025/05** | **0.352** | <span style="color: #FF7F7F; font-weight: bold;">+56.7</span> | <span style="color: #B22222; font-weight: bold;">+17.3</span> | **74.8** | <span style="color: #002818; font-weight: bold;">4.27</span> | <span style="color: #228B22; font-weight: bold;">17.52</span> |
+| **2025/04** | **0.268** | <span style="color: #002818; font-weight: bold;">-5.2</span> | <span style="color: #8B0000; font-weight: bold;">+8.04</span> | **82.4** | <span style="color: #002818; font-weight: bold;">4.22</span> | <span style="color: #004225; font-weight: bold;">19.51</span> |
+| **2025/03** | **0.289** | <span style="color: #FF4500; font-weight: bold;">+30.3</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **84.2** | <span style="color: #004225; font-weight: bold;">4.18</span> | <span style="color: #004225; font-weight: bold;">20.16</span> |
+| **2025/02** | **0.232** | <span style="color: #8B0000; font-weight: bold;">+0.38</span> | <span style="color: #8B0000; font-weight: bold;">+5.43</span> | **92.9** | <span style="color: #004225; font-weight: bold;">4.13</span> | <span style="color: #8B0000; font-weight: bold;">22.48</span> |
+| **2025/01** | **0.247** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **96** | <span style="color: #006400; font-weight: bold;">4.09</span> | <span style="color: #8B0000; font-weight: bold;">23.5</span> |
 | **2024/12** | **0.716** | <span style="color: #006400; font-weight: bold;">-22.2</span> | <span style="color: #002818; font-weight: bold;">-2.12</span> | **106** | <span style="color: #006400; font-weight: bold;">4.04</span> | <span style="color: #B22222; font-weight: bold;">26.24</span> |
 | **2024/11** | **0.49** | <span style="color: #8B0000; font-weight: bold;">+4.81</span> | <span style="color: #8B0000; font-weight: bold;">+3.48</span> | **103.5** | <span style="color: #006400; font-weight: bold;">4.04</span> | <span style="color: #B22222; font-weight: bold;">25.62</span> |
-| **2024/10** | **0.35** | <span style="color: #002818; font-weight: bold;">-2.21</span> | <span style="color: #8B0000; font-weight: bold;">+3.26</span> | **132.5** | <span style="color: #006400; font-weight: bold;">4.04</span> | <span style="color: #FF6347; font-weight: bold;">32.8</span> |
+| **2024/10** | **0.35** | <span style="color: #002818; font-weight: bold;">-2.21</span> | <span style="color: #8B0000; font-weight: bold;">+3.26</span> | **132.5** | <span style="color: #006400; font-weight: bold;">4.04</span> | <span style="color: #FF4500; font-weight: bold;">32.8</span> |
 | **2024/09** | **0.388** | <span style="color: #FF6347; font-weight: bold;">+43</span> | <span style="color: #8B0000; font-weight: bold;">+4.05</span> | **-** | N/A | N/A |
 | **2024/08** | **0.328** | <span style="color: #228B22; font-weight: bold;">-32.4</span> | <span style="color: #002818; font-weight: bold;">-0.74</span> | **-** | N/A | N/A |
 | **2024/07** | **0.231** | <span style="color: #002818; font-weight: bold;">-7.62</span> | <span style="color: #8B0000; font-weight: bold;">+8.17</span> | **-** | N/A | N/A |
@@ -77,35 +77,6 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 | **2023/09** | **0.271** | <span style="color: #8B0000; font-weight: bold;">+9.31</span> | <span style="color: #002818; font-weight: bold;">-4.55</span> | **-** | N/A | N/A |
 | **2023/08** | **0.484** | <span style="color: #FF7F7F; font-weight: bold;">+52.3</span> | <span style="color: #002818; font-weight: bold;">-6.02</span> | **-** | N/A | N/A |
 | **2023/07** | **0.25** | <span style="color: #228B22; font-weight: bold;">-37.5</span> | <span style="color: #004225; font-weight: bold;">-15.2</span> | **-** | N/A | N/A |
-| **2008/03** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2008/02** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2008/01** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/12** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/11** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/10** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/09** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/08** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/07** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/06** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/05** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/04** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/03** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/02** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2007/01** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/12** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/11** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/10** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/09** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/08** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/07** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/06** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/05** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/04** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/03** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/02** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2006/01** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2005/12** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2005/11** | **-** | N/A | N/A | **-** | N/A | N/A |
 
 </div>
 
@@ -201,7 +172,7 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

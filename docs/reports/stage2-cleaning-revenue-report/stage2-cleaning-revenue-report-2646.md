@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,28 +19,28 @@ description: 月營收表 星宇航空 (2646) - 自動產生
     **:building_construction: 公司名稱**: 星宇航空  
     **:identification_card: 股票代號**: 2646  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+19.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **40** 個月 | 2022/07 至 2025/10 |
+| <span style="color: #B22222; font-weight: bold;">+19.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **39** 個月 | 2022/08 至 2025/10 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (星宇航空) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.47** | **0.50** | **0.52** |
-| **P/E倍數** | **50.51** | **52.47** | **53.54** |
+| **EPS(元)** | **0.18** | **0.34** | **0.48** |
+| **P/E倍數** | **62.52** | **97.94** | **182.61** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 星宇航空 歷史平均獲利能力 (σup=0.02, σlo=0.03)
-    - **P/Ebase**: 星宇航空 歷史平均估值水準 (σup=1.07, σlo=1.96)
+    - **EPSbase**: 星宇航空 歷史平均獲利能力 (σup=0.14, σlo=0.16)
+    - **P/Ebase**: 星宇航空 歷史平均估值水準 (σup=84.66, σlo=35.43)
 
 
 ## :moneybag: 月營收數據
@@ -49,19 +49,19 @@ description: 月營收表 星宇航空 (2646) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **36.97** | <span style="color: #B22222; font-weight: bold;">+19.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **24** | <span style="color: #006400; font-weight: bold;">0.46</span> | <span style="color: #8B0000; font-weight: bold;">52.49</span> |
-| **2025/09** | **29.46** | <span style="color: #8B0000; font-weight: bold;">+4.5</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **24.7** | <span style="color: #006400; font-weight: bold;">0.46</span> | <span style="color: #B22222; font-weight: bold;">53.17</span> |
-| **2025/08** | **37.75** | <span style="color: #B22222; font-weight: bold;">+14.1</span> | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | **25** | <span style="color: #006400; font-weight: bold;">0.47</span> | <span style="color: #8B0000; font-weight: bold;">52.99</span> |
-| **2025/07** | **40.12** | <span style="color: #B22222; font-weight: bold;">+15.7</span> | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | **25.7** | <span style="color: #004225; font-weight: bold;">0.48</span> | <span style="color: #DC143C; font-weight: bold;">53.64</span> |
-| **2025/06** | **37.55** | <span style="color: #DC143C; font-weight: bold;">+22</span> | <span style="color: #FF4500; font-weight: bold;">+34.5</span> | **25.7** | <span style="color: #002818; font-weight: bold;">0.49</span> | <span style="color: #8B0000; font-weight: bold;">52.84</span> |
-| **2025/05** | **34.18** | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | <span style="color: #FF4500; font-weight: bold;">+37.4</span> | **25.7** | <span style="color: #002818; font-weight: bold;">0.49</span> | <span style="color: #002818; font-weight: bold;">52.06</span> |
-| **2025/04** | **35.97** | <span style="color: #FF4500; font-weight: bold;">+35.2</span> | <span style="color: #FF4500; font-weight: bold;">+38.8</span> | **24.25** | <span style="color: #8B0000; font-weight: bold;">0.5</span> | <span style="color: #32CD32; font-weight: bold;">48.41</span> |
-| **2025/03** | **35.52** | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | <span style="color: #FF6347; font-weight: bold;">+40</span> | **25.95** | <span style="color: #8B0000; font-weight: bold;">0.51</span> | <span style="color: #004225; font-weight: bold;">51.06</span> |
-| **2025/02** | **34.05** | <span style="color: #B22222; font-weight: bold;">+18.7</span> | <span style="color: #FF6347; font-weight: bold;">+42.9</span> | **28.2** | <span style="color: #B22222; font-weight: bold;">0.52</span> | <span style="color: #FF6347; font-weight: bold;">54.71</span> |
-| **2025/01** | **42.38** | <span style="color: #FF7F7F; font-weight: bold;">+70.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+70.8</span> | **27.75** | <span style="color: #B22222; font-weight: bold;">0.52</span> | <span style="color: #B22222; font-weight: bold;">53.09</span> |
-| **2024/12** | **35.37** | <span style="color: #FF6347; font-weight: bold;">+47.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.2</span> | **27.6** | <span style="color: #DC143C; font-weight: bold;">0.53</span> | <span style="color: #002818; font-weight: bold;">52.08</span> |
-| **2024/11** | **29.85** | <span style="color: #FF6347; font-weight: bold;">+46.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.4</span> | **27.5** | <span style="color: #DC143C; font-weight: bold;">0.53</span> | <span style="color: #002818; font-weight: bold;">51.89</span> |
-| **2024/10** | **30.98** | <span style="color: #FF6347; font-weight: bold;">+48.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+60.9</span> | **28.45** | <span style="color: #DC143C; font-weight: bold;">0.53</span> | <span style="color: #DC143C; font-weight: bold;">53.68</span> |
+| **2025/10** | **36.97** | <span style="color: #B22222; font-weight: bold;">+19.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **24** | <span style="color: #006400; font-weight: bold;">0.16</span> | <span style="color: #B22222; font-weight: bold;">146.9</span> |
+| **2025/09** | **29.46** | <span style="color: #8B0000; font-weight: bold;">+4.5</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **24.7** | <span style="color: #004225; font-weight: bold;">0.2</span> | <span style="color: #8B0000; font-weight: bold;">123.5</span> |
+| **2025/08** | **37.75** | <span style="color: #B22222; font-weight: bold;">+14.1</span> | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | **25** | <span style="color: #004225; font-weight: bold;">0.24</span> | <span style="color: #8B0000; font-weight: bold;">105.6</span> |
+| **2025/07** | **40.12** | <span style="color: #B22222; font-weight: bold;">+15.7</span> | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | **25.7** | <span style="color: #002818; font-weight: bold;">0.27</span> | <span style="color: #002818; font-weight: bold;">94.02</span> |
+| **2025/06** | **37.55** | <span style="color: #DC143C; font-weight: bold;">+22</span> | <span style="color: #FF4500; font-weight: bold;">+34.5</span> | **25.7** | <span style="color: #002818; font-weight: bold;">0.31</span> | <span style="color: #002818; font-weight: bold;">82.9</span> |
+| **2025/05** | **34.18** | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | <span style="color: #FF4500; font-weight: bold;">+37.4</span> | **25.7** | <span style="color: #8B0000; font-weight: bold;">0.35</span> | <span style="color: #004225; font-weight: bold;">74.13</span> |
+| **2025/04** | **35.97** | <span style="color: #FF4500; font-weight: bold;">+35.2</span> | <span style="color: #FF4500; font-weight: bold;">+38.8</span> | **24.25** | <span style="color: #8B0000; font-weight: bold;">0.38</span> | <span style="color: #004225; font-weight: bold;">63.26</span> |
+| **2025/03** | **35.52** | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | <span style="color: #FF6347; font-weight: bold;">+40</span> | **25.95** | <span style="color: #B22222; font-weight: bold;">0.42</span> | <span style="color: #006400; font-weight: bold;">61.79</span> |
+| **2025/02** | **34.05** | <span style="color: #B22222; font-weight: bold;">+18.7</span> | <span style="color: #FF6347; font-weight: bold;">+42.9</span> | **28.2** | <span style="color: #B22222; font-weight: bold;">0.46</span> | <span style="color: #006400; font-weight: bold;">61.75</span> |
+| **2025/01** | **42.38** | <span style="color: #FF7F7F; font-weight: bold;">+70.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+70.8</span> | **27.75** | <span style="color: #DC143C; font-weight: bold;">0.49</span> | <span style="color: #006400; font-weight: bold;">56.25</span> |
+| **2024/12** | **35.37** | <span style="color: #FF6347; font-weight: bold;">+47.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.2</span> | **27.6** | <span style="color: #DC143C; font-weight: bold;">0.53</span> | <span style="color: #006400; font-weight: bold;">52.08</span> |
+| **2024/11** | **29.85** | <span style="color: #FF6347; font-weight: bold;">+46.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.4</span> | **27.5** | <span style="color: #DC143C; font-weight: bold;">0.53</span> | <span style="color: #006400; font-weight: bold;">51.89</span> |
+| **2024/10** | **30.98** | <span style="color: #FF6347; font-weight: bold;">+48.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+60.9</span> | **28.45** | <span style="color: #DC143C; font-weight: bold;">0.53</span> | <span style="color: #006400; font-weight: bold;">53.68</span> |
 | **2024/09** | **28.19** | <span style="color: #FF7F7F; font-weight: bold;">+61.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+62.5</span> | **-** | N/A | N/A |
 | **2024/08** | **33.09** | <span style="color: #FF7F7F; font-weight: bold;">+60.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+62.6</span> | **-** | N/A | N/A |
 | **2024/07** | **34.67** | <span style="color: #FF7F7F; font-weight: bold;">+53</span> | <span style="color: #FF7F7F; font-weight: bold;">+63</span> | **-** | N/A | N/A |
@@ -88,7 +88,6 @@ description: 月營收表 星宇航空 (2646) - 自動產生
 | **2022/10** | **3.83** | <span style="color: #FF7F7F; font-weight: bold;">+455.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+183.7</span> | **-** | N/A | N/A |
 | **2022/09** | **2.84** | <span style="color: #FF7F7F; font-weight: bold;">+271.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+150</span> | **-** | N/A | N/A |
 | **2022/08** | **2.71** | <span style="color: #FF7F7F; font-weight: bold;">+309.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+130.8</span> | **-** | N/A | N/A |
-| **2022/07** | **2.07** | <span style="color: #FF7F7F; font-weight: bold;">+223.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+102.2</span> | **-** | N/A | N/A |
 
 </div>
 
@@ -184,7 +183,7 @@ description: 月營收表 星宇航空 (2646) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

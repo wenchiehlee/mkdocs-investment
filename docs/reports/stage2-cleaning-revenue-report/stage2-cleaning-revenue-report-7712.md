@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 博盛半導體 (7712) - 自動產生
     **:building_construction: 公司名稱**: 博盛半導體  
     **:identification_card: 股票代號**: 7712  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
@@ -32,15 +32,15 @@ description: 月營收表 博盛半導體 (7712) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **5.86** | **6.81** | **7.86** |
-| **P/E倍數** | **18.90** | **22.60** | **27.12** |
+| **EPS(元)** | **5.59** | **6.69** | **7.71** |
+| **P/E倍數** | **17.83** | **21.21** | **26.65** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 博盛半導體 歷史平均獲利能力 (σup=1.04, σlo=0.95)
-    - **P/Ebase**: 博盛半導體 歷史平均估值水準 (σup=4.52, σlo=3.70)
+    - **EPSbase**: 博盛半導體 歷史平均獲利能力 (σup=1.02, σlo=1.10)
+    - **P/Ebase**: 博盛半導體 歷史平均估值水準 (σup=5.44, σlo=3.37)
 
 
 ## :moneybag: 月營收數據
@@ -49,16 +49,16 @@ description: 月營收表 博盛半導體 (7712) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **1.1** | <span style="color: #8B0000; font-weight: bold;">+6.56</span> | <span style="color: #002818; font-weight: bold;">-5.17</span> | **113** | <span style="color: #228B22; font-weight: bold;">5.24</span> | <span style="color: #002818; font-weight: bold;">21.58</span> |
-| **2025/09** | **1** | <span style="color: #004225; font-weight: bold;">-10.5</span> | <span style="color: #002818; font-weight: bold;">-6.31</span> | **137.5** | <span style="color: #006400; font-weight: bold;">5.55</span> | <span style="color: #8B0000; font-weight: bold;">24.77</span> |
-| **2025/08** | **1.1** | <span style="color: #002818; font-weight: bold;">-1.59</span> | <span style="color: #002818; font-weight: bold;">-5.81</span> | **155** | <span style="color: #004225; font-weight: bold;">5.87</span> | <span style="color: #B22222; font-weight: bold;">26.42</span> |
-| **2025/07** | **1.03** | <span style="color: #004225; font-weight: bold;">-19</span> | <span style="color: #002818; font-weight: bold;">-6.38</span> | **111.5** | <span style="color: #004225; font-weight: bold;">6.18</span> | <span style="color: #006400; font-weight: bold;">18.04</span> |
-| **2025/06** | **1.08** | <span style="color: #004225; font-weight: bold;">-16.2</span> | <span style="color: #002818; font-weight: bold;">-4.12</span> | **120.5** | <span style="color: #002818; font-weight: bold;">6.5</span> | <span style="color: #006400; font-weight: bold;">18.55</span> |
-| **2025/05** | **1.32** | <span style="color: #8B0000; font-weight: bold;">+6.28</span> | <span style="color: #002818; font-weight: bold;">-1.47</span> | **131** | <span style="color: #002818; font-weight: bold;">6.81</span> | <span style="color: #004225; font-weight: bold;">19.23</span> |
-| **2025/04** | **1.27** | <span style="color: #002818; font-weight: bold;">-2.12</span> | <span style="color: #002818; font-weight: bold;">-3.57</span> | **133.5** | <span style="color: #8B0000; font-weight: bold;">7.13</span> | <span style="color: #006400; font-weight: bold;">18.73</span> |
-| **2025/03** | **1.11** | <span style="color: #8B0000; font-weight: bold;">+3.14</span> | <span style="color: #002818; font-weight: bold;">-4.15</span> | **137** | <span style="color: #B22222; font-weight: bold;">7.44</span> | <span style="color: #006400; font-weight: bold;">18.4</span> |
-| **2025/02** | **1.04** | <span style="color: #8B0000; font-weight: bold;">+0.35</span> | <span style="color: #002818; font-weight: bold;">-7.7</span> | **212** | <span style="color: #B22222; font-weight: bold;">7.76</span> | <span style="color: #DC143C; font-weight: bold;">27.32</span> |
-| **2025/01** | **1.01** | <span style="color: #004225; font-weight: bold;">-14.8</span> | <span style="color: #004225; font-weight: bold;">-14.8</span> | **239** | <span style="color: #DC143C; font-weight: bold;">8.07</span> | <span style="color: #FF4500; font-weight: bold;">29.6</span> |
+| **2025/10** | **1.1** | <span style="color: #8B0000; font-weight: bold;">+6.56</span> | <span style="color: #002818; font-weight: bold;">-5.17</span> | **113** | <span style="color: #006400; font-weight: bold;">5.56</span> | <span style="color: #002818; font-weight: bold;">20.34</span> |
+| **2025/09** | **1** | <span style="color: #004225; font-weight: bold;">-10.5</span> | <span style="color: #002818; font-weight: bold;">-6.31</span> | **137.5** | <span style="color: #004225; font-weight: bold;">5.84</span> | <span style="color: #8B0000; font-weight: bold;">23.54</span> |
+| **2025/08** | **1.1** | <span style="color: #002818; font-weight: bold;">-1.59</span> | <span style="color: #002818; font-weight: bold;">-5.81</span> | **155** | <span style="color: #004225; font-weight: bold;">6.12</span> | <span style="color: #B22222; font-weight: bold;">25.31</span> |
+| **2025/07** | **1.03** | <span style="color: #004225; font-weight: bold;">-19</span> | <span style="color: #002818; font-weight: bold;">-6.38</span> | **111.5** | <span style="color: #002818; font-weight: bold;">6.41</span> | <span style="color: #006400; font-weight: bold;">17.4</span> |
+| **2025/06** | **1.08** | <span style="color: #004225; font-weight: bold;">-16.2</span> | <span style="color: #002818; font-weight: bold;">-4.12</span> | **120.5** | <span style="color: #8B0000; font-weight: bold;">6.69</span> | <span style="color: #004225; font-weight: bold;">18.01</span> |
+| **2025/05** | **1.32** | <span style="color: #8B0000; font-weight: bold;">+6.28</span> | <span style="color: #002818; font-weight: bold;">-1.47</span> | **131** | <span style="color: #8B0000; font-weight: bold;">6.97</span> | <span style="color: #004225; font-weight: bold;">18.79</span> |
+| **2025/04** | **1.27** | <span style="color: #002818; font-weight: bold;">-2.12</span> | <span style="color: #002818; font-weight: bold;">-3.57</span> | **133.5** | <span style="color: #B22222; font-weight: bold;">7.26</span> | <span style="color: #004225; font-weight: bold;">18.4</span> |
+| **2025/03** | **1.11** | <span style="color: #8B0000; font-weight: bold;">+3.14</span> | <span style="color: #002818; font-weight: bold;">-4.15</span> | **137** | <span style="color: #B22222; font-weight: bold;">7.54</span> | <span style="color: #004225; font-weight: bold;">18.17</span> |
+| **2025/02** | **1.04** | <span style="color: #8B0000; font-weight: bold;">+0.35</span> | <span style="color: #002818; font-weight: bold;">-7.7</span> | **212** | <span style="color: #DC143C; font-weight: bold;">7.82</span> | <span style="color: #DC143C; font-weight: bold;">27.1</span> |
+| **2025/01** | **1.01** | <span style="color: #004225; font-weight: bold;">-14.8</span> | <span style="color: #004225; font-weight: bold;">-14.8</span> | **239** | <span style="color: #DC143C; font-weight: bold;">8.11</span> | <span style="color: #FF4500; font-weight: bold;">29.48</span> |
 | **2024/12** | **1.19** | <span style="color: #B22222; font-weight: bold;">+12.1</span> | <span style="color: #8B0000; font-weight: bold;">+5.44</span> | **218** | <span style="color: #FF4500; font-weight: bold;">8.39</span> | <span style="color: #B22222; font-weight: bold;">25.98</span> |
 | **2024/11** | **1.17** | <span style="color: #8B0000; font-weight: bold;">+3.03</span> | <span style="color: #8B0000; font-weight: bold;">+4.87</span> | **-** | N/A | N/A |
 | **2024/10** | **1.04** | <span style="color: #8B0000; font-weight: bold;">+2.42</span> | <span style="color: #8B0000; font-weight: bold;">+5.05</span> | **-** | N/A | N/A |
@@ -168,7 +168,7 @@ description: 月營收表 博盛半導體 (7712) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

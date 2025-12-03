@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 銳澤 (7703) - 自動產生
     **:building_construction: 公司名稱**: 銳澤  
     **:identification_card: 股票代號**: 7703  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
@@ -32,15 +32,15 @@ description: 月營收表 銳澤 (7703) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **7.56** | **7.93** | **8.32** |
-| **P/E倍數** | **18.29** | **21.29** | **28.15** |
+| **EPS(元)** | **7.66** | **8.25** | **8.84** |
+| **P/E倍數** | **18.15** | **20.94** | **26.61** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 銳澤 歷史平均獲利能力 (σup=0.39, σlo=0.37)
-    - **P/Ebase**: 銳澤 歷史平均估值水準 (σup=6.86, σlo=3.00)
+    - **EPSbase**: 銳澤 歷史平均獲利能力 (σup=0.60, σlo=0.58)
+    - **P/Ebase**: 銳澤 歷史平均估值水準 (σup=5.68, σlo=2.79)
 
 
 ## :moneybag: 月營收數據
@@ -49,16 +49,16 @@ description: 月營收表 銳澤 (7703) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **2.53** | <span style="color: #FF4500; font-weight: bold;">+38.9</span> | <span style="color: #FF4500; font-weight: bold;">+35.3</span> | **213.5** | <span style="color: #FF4500; font-weight: bold;">8.55</span> | <span style="color: #B22222; font-weight: bold;">24.98</span> |
-| **2025/09** | **2.2** | <span style="color: #B22222; font-weight: bold;">+10.6</span> | <span style="color: #FF4500; font-weight: bold;">+34.8</span> | **226** | <span style="color: #DC143C; font-weight: bold;">8.43</span> | <span style="color: #B22222; font-weight: bold;">26.8</span> |
-| **2025/08** | **2.01** | <span style="color: #DC143C; font-weight: bold;">+21.9</span> | <span style="color: #FF4500; font-weight: bold;">+39.1</span> | **277** | <span style="color: #DC143C; font-weight: bold;">8.32</span> | <span style="color: #FF4500; font-weight: bold;">33.3</span> |
-| **2025/07** | **1.8** | <span style="color: #FF7F7F; font-weight: bold;">+71.3</span> | <span style="color: #FF6347; font-weight: bold;">+42.1</span> | **161.5** | <span style="color: #B22222; font-weight: bold;">8.21</span> | <span style="color: #004225; font-weight: bold;">19.68</span> |
-| **2025/06** | **2.28** | <span style="color: #FF7F7F; font-weight: bold;">+58.8</span> | <span style="color: #FF4500; font-weight: bold;">+38.5</span> | **141** | <span style="color: #8B0000; font-weight: bold;">8.09</span> | <span style="color: #006400; font-weight: bold;">17.43</span> |
-| **2025/05** | **2.42** | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | <span style="color: #FF4500; font-weight: bold;">+34.4</span> | **137** | <span style="color: #8B0000; font-weight: bold;">7.98</span> | <span style="color: #006400; font-weight: bold;">17.17</span> |
-| **2025/04** | **2.08** | <span style="color: #FF7F7F; font-weight: bold;">+50.9</span> | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | **132.5** | <span style="color: #002818; font-weight: bold;">7.86</span> | <span style="color: #006400; font-weight: bold;">16.85</span> |
-| **2025/03** | **1.69** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #FF4500; font-weight: bold;">+30</span> | **141.5** | <span style="color: #002818; font-weight: bold;">7.75</span> | <span style="color: #006400; font-weight: bold;">18.26</span> |
-| **2025/02** | **1.7** | <span style="color: #FF7F7F; font-weight: bold;">+86.9</span> | <span style="color: #FF4500; font-weight: bold;">+37.3</span> | **158** | <span style="color: #004225; font-weight: bold;">7.64</span> | <span style="color: #002818; font-weight: bold;">20.69</span> |
-| **2025/01** | **1.61** | <span style="color: #8B0000; font-weight: bold;">+7.26</span> | <span style="color: #8B0000; font-weight: bold;">+7.26</span> | **164** | <span style="color: #006400; font-weight: bold;">7.52</span> | <span style="color: #8B0000; font-weight: bold;">21.8</span> |
+| **2025/10** | **2.53** | <span style="color: #FF4500; font-weight: bold;">+38.9</span> | <span style="color: #FF4500; font-weight: bold;">+35.3</span> | **213.5** | <span style="color: #DC143C; font-weight: bold;">8.91</span> | <span style="color: #B22222; font-weight: bold;">23.96</span> |
+| **2025/09** | **2.2** | <span style="color: #B22222; font-weight: bold;">+10.6</span> | <span style="color: #FF4500; font-weight: bold;">+34.8</span> | **226** | <span style="color: #B22222; font-weight: bold;">8.76</span> | <span style="color: #B22222; font-weight: bold;">25.8</span> |
+| **2025/08** | **2.01** | <span style="color: #DC143C; font-weight: bold;">+21.9</span> | <span style="color: #FF4500; font-weight: bold;">+39.1</span> | **277** | <span style="color: #B22222; font-weight: bold;">8.61</span> | <span style="color: #FF4500; font-weight: bold;">32.17</span> |
+| **2025/07** | **1.8** | <span style="color: #FF7F7F; font-weight: bold;">+71.3</span> | <span style="color: #FF6347; font-weight: bold;">+42.1</span> | **161.5** | <span style="color: #8B0000; font-weight: bold;">8.46</span> | <span style="color: #004225; font-weight: bold;">19.09</span> |
+| **2025/06** | **2.28** | <span style="color: #FF7F7F; font-weight: bold;">+58.8</span> | <span style="color: #FF4500; font-weight: bold;">+38.5</span> | **141** | <span style="color: #8B0000; font-weight: bold;">8.31</span> | <span style="color: #006400; font-weight: bold;">16.97</span> |
+| **2025/05** | **2.42** | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | <span style="color: #FF4500; font-weight: bold;">+34.4</span> | **137** | <span style="color: #002818; font-weight: bold;">8.16</span> | <span style="color: #006400; font-weight: bold;">16.79</span> |
+| **2025/04** | **2.08** | <span style="color: #FF7F7F; font-weight: bold;">+50.9</span> | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | **132.5** | <span style="color: #002818; font-weight: bold;">8.01</span> | <span style="color: #228B22; font-weight: bold;">16.54</span> |
+| **2025/03** | **1.69** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #FF4500; font-weight: bold;">+30</span> | **141.5** | <span style="color: #004225; font-weight: bold;">7.86</span> | <span style="color: #006400; font-weight: bold;">18.0</span> |
+| **2025/02** | **1.7** | <span style="color: #FF7F7F; font-weight: bold;">+86.9</span> | <span style="color: #FF4500; font-weight: bold;">+37.3</span> | **158** | <span style="color: #004225; font-weight: bold;">7.71</span> | <span style="color: #002818; font-weight: bold;">20.49</span> |
+| **2025/01** | **1.61** | <span style="color: #8B0000; font-weight: bold;">+7.26</span> | <span style="color: #8B0000; font-weight: bold;">+7.26</span> | **164** | <span style="color: #006400; font-weight: bold;">7.56</span> | <span style="color: #8B0000; font-weight: bold;">21.69</span> |
 | **2024/12** | **2.36** | <span style="color: #FF7F7F; font-weight: bold;">+68.9</span> | <span style="color: #8B0000; font-weight: bold;">+9.64</span> | **142.5** | <span style="color: #006400; font-weight: bold;">7.41</span> | <span style="color: #004225; font-weight: bold;">19.23</span> |
 | **2024/11** | **2.15** | <span style="color: #FF6347; font-weight: bold;">+41.3</span> | <span style="color: #8B0000; font-weight: bold;">+4.6</span> | **143** | <span style="color: #006400; font-weight: bold;">7.41</span> | <span style="color: #004225; font-weight: bold;">19.3</span> |
 | **2024/10** | **1.82** | <span style="color: #FF7F7F; font-weight: bold;">+115.6</span> | <span style="color: #8B0000; font-weight: bold;">+0.85</span> | **-** | N/A | N/A |
@@ -170,7 +170,7 @@ description: 月營收表 銳澤 (7703) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

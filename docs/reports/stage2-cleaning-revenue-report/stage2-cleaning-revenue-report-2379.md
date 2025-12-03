@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,28 +19,28 @@ description: 月營收表 瑞昱 (2379) - 自動產生
     **:building_construction: 公司名稱**: 瑞昱  
     **:identification_card: 股票代號**: 2379  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+1.29</span> | <span style="color: #8B0000; font-weight: bold;">+9.89</span> | **240** 個月 | 2005/11 至 2025/10 |
+| <span style="color: #8B0000; font-weight: bold;">+1.29</span> | <span style="color: #8B0000; font-weight: bold;">+9.89</span> | **239** 個月 | 2005/12 至 2025/10 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (瑞昱) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **4.56** | **11.02** | **25.99** |
-| **P/E倍數** | **14.33** | **18.21** | **27.41** |
+| **EPS(元)** | **4.58** | **11.18** | **25.98** |
+| **P/E倍數** | **14.35** | **18.24** | **27.37** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 瑞昱 歷史平均獲利能力 (σup=14.97, σlo=6.46)
-    - **P/Ebase**: 瑞昱 歷史平均估值水準 (σup=9.20, σlo=3.87)
+    - **EPSbase**: 瑞昱 歷史平均獲利能力 (σup=14.80, σlo=6.59)
+    - **P/Ebase**: 瑞昱 歷史平均估值水準 (σup=9.13, σlo=3.88)
 
 
 ## :moneybag: 月營收數據
@@ -49,16 +49,16 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **90.63** | <span style="color: #8B0000; font-weight: bold;">+1.29</span> | <span style="color: #8B0000; font-weight: bold;">+9.89</span> | **515** | <span style="color: #DC143C; font-weight: bold;">31.87</span> | <span style="color: #004225; font-weight: bold;">16.16</span> |
-| **2025/09** | **100.3** | <span style="color: #8B0000; font-weight: bold;">+2.08</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **550** | <span style="color: #DC143C; font-weight: bold;">31.66</span> | <span style="color: #002818; font-weight: bold;">17.37</span> |
-| **2025/08** | **97.27** | <span style="color: #002818; font-weight: bold;">-4.75</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **534** | <span style="color: #DC143C; font-weight: bold;">31.46</span> | <span style="color: #002818; font-weight: bold;">16.98</span> |
-| **2025/07** | **97.3** | <span style="color: #002818; font-weight: bold;">-9.15</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **575** | <span style="color: #DC143C; font-weight: bold;">31.25</span> | <span style="color: #8B0000; font-weight: bold;">18.4</span> |
-| **2025/06** | **102.1** | <span style="color: #002818; font-weight: bold;">-0.15</span> | <span style="color: #B22222; font-weight: bold;">+18.9</span> | **567** | <span style="color: #DC143C; font-weight: bold;">31.05</span> | <span style="color: #8B0000; font-weight: bold;">18.26</span> |
-| **2025/05** | **102.8** | <span style="color: #002818; font-weight: bold;">-1.02</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **541** | <span style="color: #DC143C; font-weight: bold;">30.84</span> | <span style="color: #002818; font-weight: bold;">17.54</span> |
-| **2025/04** | **114.3** | <span style="color: #B22222; font-weight: bold;">+13.5</span> | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | **524** | <span style="color: #DC143C; font-weight: bold;">30.64</span> | <span style="color: #002818; font-weight: bold;">17.1</span> |
-| **2025/03** | **118.3** | <span style="color: #FF4500; font-weight: bold;">+30.9</span> | <span style="color: #FF4500; font-weight: bold;">+36.7</span> | **523** | <span style="color: #DC143C; font-weight: bold;">30.43</span> | <span style="color: #002818; font-weight: bold;">17.18</span> |
-| **2025/02** | **113.2** | <span style="color: #FF6347; font-weight: bold;">+44.7</span> | <span style="color: #FF4500; font-weight: bold;">+39.8</span> | **550** | <span style="color: #DC143C; font-weight: bold;">30.23</span> | <span style="color: #002818; font-weight: bold;">18.19</span> |
-| **2025/01** | **118.7** | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | **542** | <span style="color: #DC143C; font-weight: bold;">30.02</span> | <span style="color: #002818; font-weight: bold;">18.05</span> |
+| **2025/10** | **90.63** | <span style="color: #8B0000; font-weight: bold;">+1.29</span> | <span style="color: #8B0000; font-weight: bold;">+9.89</span> | **515** | <span style="color: #DC143C; font-weight: bold;">30.15</span> | <span style="color: #002818; font-weight: bold;">17.08</span> |
+| **2025/09** | **100.3** | <span style="color: #8B0000; font-weight: bold;">+2.08</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **550** | <span style="color: #DC143C; font-weight: bold;">30.12</span> | <span style="color: #8B0000; font-weight: bold;">18.26</span> |
+| **2025/08** | **97.27** | <span style="color: #002818; font-weight: bold;">-4.75</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **534** | <span style="color: #DC143C; font-weight: bold;">30.09</span> | <span style="color: #002818; font-weight: bold;">17.75</span> |
+| **2025/07** | **97.3** | <span style="color: #002818; font-weight: bold;">-9.15</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **575** | <span style="color: #DC143C; font-weight: bold;">30.05</span> | <span style="color: #8B0000; font-weight: bold;">19.13</span> |
+| **2025/06** | **102.1** | <span style="color: #002818; font-weight: bold;">-0.15</span> | <span style="color: #B22222; font-weight: bold;">+18.9</span> | **567** | <span style="color: #DC143C; font-weight: bold;">30.02</span> | <span style="color: #8B0000; font-weight: bold;">18.89</span> |
+| **2025/05** | **102.8** | <span style="color: #002818; font-weight: bold;">-1.02</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **541** | <span style="color: #DC143C; font-weight: bold;">29.99</span> | <span style="color: #002818; font-weight: bold;">18.04</span> |
+| **2025/04** | **114.3** | <span style="color: #B22222; font-weight: bold;">+13.5</span> | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | **524** | <span style="color: #DC143C; font-weight: bold;">29.95</span> | <span style="color: #002818; font-weight: bold;">17.49</span> |
+| **2025/03** | **118.3** | <span style="color: #FF4500; font-weight: bold;">+30.9</span> | <span style="color: #FF4500; font-weight: bold;">+36.7</span> | **523** | <span style="color: #DC143C; font-weight: bold;">29.92</span> | <span style="color: #002818; font-weight: bold;">17.48</span> |
+| **2025/02** | **113.2** | <span style="color: #FF6347; font-weight: bold;">+44.7</span> | <span style="color: #FF4500; font-weight: bold;">+39.8</span> | **550** | <span style="color: #DC143C; font-weight: bold;">29.89</span> | <span style="color: #8B0000; font-weight: bold;">18.4</span> |
+| **2025/01** | **118.7** | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | **542** | <span style="color: #DC143C; font-weight: bold;">29.85</span> | <span style="color: #002818; font-weight: bold;">18.16</span> |
 | **2024/12** | **86.75** | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | <span style="color: #B22222; font-weight: bold;">+19.1</span> | **568** | <span style="color: #DC143C; font-weight: bold;">29.82</span> | <span style="color: #8B0000; font-weight: bold;">19.05</span> |
 | **2024/11** | **87.22** | <span style="color: #B22222; font-weight: bold;">+11.7</span> | <span style="color: #B22222; font-weight: bold;">+18.6</span> | **476** | <span style="color: #DC143C; font-weight: bold;">28.82</span> | <span style="color: #002818; font-weight: bold;">16.51</span> |
 | **2024/10** | **89.47** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #B22222; font-weight: bold;">+19.3</span> | **478.5** | <span style="color: #DC143C; font-weight: bold;">27.83</span> | <span style="color: #002818; font-weight: bold;">17.2</span> |
@@ -106,7 +106,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 | **2021/04** | **78.12** | <span style="color: #FF6347; font-weight: bold;">+41.2</span> | <span style="color: #FF6347; font-weight: bold;">+45.2</span> | **532** | <span style="color: #B22222; font-weight: bold;">22.49</span> | <span style="color: #B22222; font-weight: bold;">23.65</span> |
 | **2021/03** | **80.55** | <span style="color: #FF6347; font-weight: bold;">+48.3</span> | <span style="color: #FF6347; font-weight: bold;">+46.5</span> | **494** | <span style="color: #B22222; font-weight: bold;">21.18</span> | <span style="color: #B22222; font-weight: bold;">23.32</span> |
 | **2021/02** | **70.27** | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | <span style="color: #FF6347; font-weight: bold;">+45.6</span> | **460** | <span style="color: #B22222; font-weight: bold;">19.87</span> | <span style="color: #B22222; font-weight: bold;">23.15</span> |
-| **2021/01** | **82.58** | <span style="color: #FF7F7F; font-weight: bold;">+53.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.2</span> | **451.5** | <span style="color: #B22222; font-weight: bold;">18.55</span> | <span style="color: #B22222; font-weight: bold;">24.34</span> |
+| **2021/01** | **82.58** | <span style="color: #FF7F7F; font-weight: bold;">+53.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.2</span> | **451.5** | <span style="color: #8B0000; font-weight: bold;">18.55</span> | <span style="color: #B22222; font-weight: bold;">24.34</span> |
 | **2020/12** | **68.4** | <span style="color: #DC143C; font-weight: bold;">+24</span> | <span style="color: #DC143C; font-weight: bold;">+28</span> | **390.5** | <span style="color: #8B0000; font-weight: bold;">17.24</span> | <span style="color: #8B0000; font-weight: bold;">22.65</span> |
 | **2020/11** | **78.03** | <span style="color: #FF6347; font-weight: bold;">+42.3</span> | <span style="color: #DC143C; font-weight: bold;">+28.4</span> | **371** | <span style="color: #8B0000; font-weight: bold;">16.92</span> | <span style="color: #8B0000; font-weight: bold;">21.93</span> |
 | **2020/10** | **74.42** | <span style="color: #FF4500; font-weight: bold;">+30.9</span> | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | **355.5** | <span style="color: #8B0000; font-weight: bold;">16.59</span> | <span style="color: #8B0000; font-weight: bold;">21.42</span> |
@@ -130,23 +130,23 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 | **2019/04** | **48.72** | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **209** | <span style="color: #002818; font-weight: bold;">10.17</span> | <span style="color: #8B0000; font-weight: bold;">20.56</span> |
 | **2019/03** | **44.95** | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | **182** | <span style="color: #002818; font-weight: bold;">9.77</span> | <span style="color: #8B0000; font-weight: bold;">18.63</span> |
 | **2019/02** | **36.77** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | **178** | <span style="color: #002818; font-weight: bold;">9.37</span> | <span style="color: #8B0000; font-weight: bold;">19.0</span> |
-| **2019/01** | **46.63** | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | **163.5** | <span style="color: #002818; font-weight: bold;">8.97</span> | <span style="color: #8B0000; font-weight: bold;">18.23</span> |
+| **2019/01** | **46.63** | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | **163.5** | <span style="color: #002818; font-weight: bold;">8.97</span> | <span style="color: #002818; font-weight: bold;">18.23</span> |
 | **2018/12** | **39.27** | <span style="color: #B22222; font-weight: bold;">+17</span> | <span style="color: #8B0000; font-weight: bold;">+9.87</span> | **143** | <span style="color: #002818; font-weight: bold;">8.57</span> | <span style="color: #002818; font-weight: bold;">16.69</span> |
 | **2018/11** | **40.51** | <span style="color: #8B0000; font-weight: bold;">+7.6</span> | <span style="color: #8B0000; font-weight: bold;">+9.25</span> | **141.5** | <span style="color: #002818; font-weight: bold;">8.42</span> | <span style="color: #002818; font-weight: bold;">16.82</span> |
 | **2018/10** | **39.64** | <span style="color: #8B0000; font-weight: bold;">+7.66</span> | <span style="color: #8B0000; font-weight: bold;">+9.43</span> | **124** | <span style="color: #002818; font-weight: bold;">8.26</span> | <span style="color: #004225; font-weight: bold;">15.01</span> |
 | **2018/09** | **41.44** | <span style="color: #8B0000; font-weight: bold;">+5.63</span> | <span style="color: #8B0000; font-weight: bold;">+9.64</span> | **136** | <span style="color: #002818; font-weight: bold;">8.1</span> | <span style="color: #002818; font-weight: bold;">16.78</span> |
 | **2018/08** | **40.82** | <span style="color: #B22222; font-weight: bold;">+13.5</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **149** | <span style="color: #002818; font-weight: bold;">7.95</span> | <span style="color: #8B0000; font-weight: bold;">18.74</span> |
-| **2018/07** | **38.59** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #8B0000; font-weight: bold;">+9.72</span> | **123** | <span style="color: #002818; font-weight: bold;">7.8</span> | <span style="color: #004225; font-weight: bold;">15.78</span> |
+| **2018/07** | **38.59** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #8B0000; font-weight: bold;">+9.72</span> | **123** | <span style="color: #004225; font-weight: bold;">7.8</span> | <span style="color: #004225; font-weight: bold;">15.78</span> |
 | **2018/06** | **36.2** | <span style="color: #B22222; font-weight: bold;">+12.4</span> | <span style="color: #8B0000; font-weight: bold;">+9.24</span> | **111** | <span style="color: #004225; font-weight: bold;">7.64</span> | <span style="color: #004225; font-weight: bold;">14.53</span> |
 | **2018/05** | **37.79** | <span style="color: #B22222; font-weight: bold;">+14.5</span> | <span style="color: #8B0000; font-weight: bold;">+8.63</span> | **114.5** | <span style="color: #004225; font-weight: bold;">7.48</span> | <span style="color: #004225; font-weight: bold;">15.3</span> |
 | **2018/04** | **37.54** | <span style="color: #8B0000; font-weight: bold;">+9.32</span> | <span style="color: #8B0000; font-weight: bold;">+7.17</span> | **113** | <span style="color: #004225; font-weight: bold;">7.33</span> | <span style="color: #004225; font-weight: bold;">15.42</span> |
 | **2018/03** | **36.96** | <span style="color: #8B0000; font-weight: bold;">+8.06</span> | <span style="color: #8B0000; font-weight: bold;">+6.43</span> | **130** | <span style="color: #004225; font-weight: bold;">7.18</span> | <span style="color: #002818; font-weight: bold;">18.12</span> |
 | **2018/02** | **30.65** | <span style="color: #8B0000; font-weight: bold;">+0.6</span> | <span style="color: #8B0000; font-weight: bold;">+5.59</span> | **116** | <span style="color: #004225; font-weight: bold;">7.02</span> | <span style="color: #002818; font-weight: bold;">16.52</span> |
-| **2018/01** | **38.65** | <span style="color: #8B0000; font-weight: bold;">+9.92</span> | <span style="color: #8B0000; font-weight: bold;">+9.92</span> | **116.5** | <span style="color: #004225; font-weight: bold;">6.86</span> | <span style="color: #002818; font-weight: bold;">16.97</span> |
+| **2018/01** | **38.65** | <span style="color: #8B0000; font-weight: bold;">+9.92</span> | <span style="color: #8B0000; font-weight: bold;">+9.92</span> | **116.5** | <span style="color: #004225; font-weight: bold;">6.87</span> | <span style="color: #002818; font-weight: bold;">16.97</span> |
 | **2017/12** | **33.55** | <span style="color: #B22222; font-weight: bold;">+12.1</span> | <span style="color: #8B0000; font-weight: bold;">+7.12</span> | **109** | <span style="color: #004225; font-weight: bold;">6.71</span> | <span style="color: #004225; font-weight: bold;">16.24</span> |
 | **2017/11** | **37.64** | <span style="color: #B22222; font-weight: bold;">+12.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.71</span> | **111.5** | <span style="color: #004225; font-weight: bold;">6.65</span> | <span style="color: #002818; font-weight: bold;">16.76</span> |
 | **2017/10** | **36.82** | <span style="color: #8B0000; font-weight: bold;">+6.28</span> | <span style="color: #8B0000; font-weight: bold;">+6.11</span> | **113.5** | <span style="color: #004225; font-weight: bold;">6.6</span> | <span style="color: #002818; font-weight: bold;">17.21</span> |
-| **2017/09** | **39.23** | <span style="color: #8B0000; font-weight: bold;">+7.48</span> | <span style="color: #8B0000; font-weight: bold;">+6.09</span> | **106.5** | <span style="color: #004225; font-weight: bold;">6.54</span> | <span style="color: #002818; font-weight: bold;">16.29</span> |
+| **2017/09** | **39.23** | <span style="color: #8B0000; font-weight: bold;">+7.48</span> | <span style="color: #8B0000; font-weight: bold;">+6.09</span> | **106.5** | <span style="color: #004225; font-weight: bold;">6.54</span> | <span style="color: #004225; font-weight: bold;">16.29</span> |
 | **2017/08** | **35.97** | <span style="color: #8B0000; font-weight: bold;">+3.93</span> | <span style="color: #8B0000; font-weight: bold;">+5.89</span> | **117** | <span style="color: #004225; font-weight: bold;">6.48</span> | <span style="color: #002818; font-weight: bold;">18.06</span> |
 | **2017/07** | **34.31** | <span style="color: #8B0000; font-weight: bold;">+8.29</span> | <span style="color: #8B0000; font-weight: bold;">+6.19</span> | **113** | <span style="color: #004225; font-weight: bold;">6.42</span> | <span style="color: #002818; font-weight: bold;">17.59</span> |
 | **2017/06** | **32.19** | <span style="color: #8B0000; font-weight: bold;">+5.72</span> | <span style="color: #8B0000; font-weight: bold;">+5.84</span> | **109.5** | <span style="color: #004225; font-weight: bold;">6.36</span> | <span style="color: #002818; font-weight: bold;">17.2</span> |
@@ -254,7 +254,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 | **2008/12** | **-** | N/A | N/A | **31.65** | <span style="color: #006400; font-weight: bold;">1.88</span> | <span style="color: #002818; font-weight: bold;">16.84</span> |
 | **2008/11** | **-** | N/A | N/A | **34.1** | <span style="color: #006400; font-weight: bold;">2.0</span> | <span style="color: #002818; font-weight: bold;">17.06</span> |
 | **2008/10** | **-** | N/A | N/A | **48.5** | <span style="color: #006400; font-weight: bold;">2.12</span> | <span style="color: #B22222; font-weight: bold;">22.91</span> |
-| **2008/09** | **-** | N/A | N/A | **52.9** | <span style="color: #006400; font-weight: bold;">2.24</span> | <span style="color: #B22222; font-weight: bold;">23.67</span> |
+| **2008/09** | **-** | N/A | N/A | **52.9** | <span style="color: #006400; font-weight: bold;">2.23</span> | <span style="color: #B22222; font-weight: bold;">23.67</span> |
 | **2008/08** | **-** | N/A | N/A | **64.5** | <span style="color: #006400; font-weight: bold;">2.35</span> | <span style="color: #DC143C; font-weight: bold;">27.41</span> |
 | **2008/07** | **-** | N/A | N/A | **72.2** | <span style="color: #006400; font-weight: bold;">2.47</span> | <span style="color: #DC143C; font-weight: bold;">29.21</span> |
 | **2008/06** | **-** | N/A | N/A | **62.2** | <span style="color: #006400; font-weight: bold;">2.59</span> | <span style="color: #B22222; font-weight: bold;">24.02</span> |
@@ -269,7 +269,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 | **2007/09** | **-** | N/A | N/A | **152.5** | <span style="color: #006400; font-weight: bold;">3.29</span> | <span style="color: #FF7F7F; font-weight: bold;">46.39</span> |
 | **2007/08** | **-** | N/A | N/A | **161.5** | <span style="color: #006400; font-weight: bold;">3.28</span> | <span style="color: #FF7F7F; font-weight: bold;">49.19</span> |
 | **2007/07** | **-** | N/A | N/A | **190** | <span style="color: #006400; font-weight: bold;">3.28</span> | <span style="color: #FF7F7F; font-weight: bold;">57.94</span> |
-| **2007/06** | **-** | N/A | N/A | **163** | <span style="color: #006400; font-weight: bold;">3.28</span> | <span style="color: #FF7F7F; font-weight: bold;">49.77</span> |
+| **2007/06** | **-** | N/A | N/A | **163** | <span style="color: #006400; font-weight: bold;">3.27</span> | <span style="color: #FF7F7F; font-weight: bold;">49.77</span> |
 | **2007/05** | **-** | N/A | N/A | **84.5** | <span style="color: #006400; font-weight: bold;">3.27</span> | <span style="color: #B22222; font-weight: bold;">25.83</span> |
 | **2007/04** | **-** | N/A | N/A | **67.5** | <span style="color: #006400; font-weight: bold;">3.27</span> | <span style="color: #8B0000; font-weight: bold;">20.66</span> |
 | **2007/03** | **-** | N/A | N/A | **72.7** | <span style="color: #006400; font-weight: bold;">3.26</span> | <span style="color: #8B0000; font-weight: bold;">22.28</span> |
@@ -288,7 +288,6 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 | **2006/02** | **-** | N/A | N/A | **35.9** | <span style="color: #006400; font-weight: bold;">2.62</span> | <span style="color: #006400; font-weight: bold;">13.68</span> |
 | **2006/01** | **-** | N/A | N/A | **38.1** | <span style="color: #006400; font-weight: bold;">2.56</span> | <span style="color: #004225; font-weight: bold;">14.87</span> |
 | **2005/12** | **-** | N/A | N/A | **38.4** | <span style="color: #006400; font-weight: bold;">2.5</span> | <span style="color: #004225; font-weight: bold;">15.36</span> |
-| **2005/11** | **-** | N/A | N/A | **37.6** | <span style="color: #006400; font-weight: bold;">2.5</span> | <span style="color: #004225; font-weight: bold;">15.04</span> |
 
 </div>
 
@@ -384,7 +383,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

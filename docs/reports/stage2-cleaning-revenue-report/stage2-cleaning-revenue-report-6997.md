@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-02
+date: 2025-12-03
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 博弘 (6997) - 自動產生
     **:building_construction: 公司名稱**: 博弘  
     **:identification_card: 股票代號**: 6997  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-02 11:41:26 CST
+    **:clock3: 更新時間**: 2025-12-03 11:40:45 CST
 
 ## :bar_chart: 績效概覽
 
@@ -32,15 +32,15 @@ description: 月營收表 博弘 (6997) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **4.79** | **5.32** | **5.80** |
-| **P/E倍數** | **20.06** | **21.20** | **22.16** |
+| **EPS(元)** | **4.44** | **5.07** | **5.75** |
+| **P/E倍數** | **20.51** | **21.72** | **22.77** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 博弘 歷史平均獲利能力 (σup=0.48, σlo=0.52)
-    - **P/Ebase**: 博弘 歷史平均估值水準 (σup=0.96, σlo=1.14)
+    - **EPSbase**: 博弘 歷史平均獲利能力 (σup=0.68, σlo=0.63)
+    - **P/Ebase**: 博弘 歷史平均估值水準 (σup=1.05, σlo=1.21)
 
 
 ## :moneybag: 月營收數據
@@ -49,16 +49,16 @@ description: 月營收表 博弘 (6997) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/10** | **3.98** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.53</span> | **103.5** | <span style="color: #228B22; font-weight: bold;">4.53</span> | <span style="color: #FF4500; font-weight: bold;">22.86</span> |
-| **2025/09** | **3.87** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #8B0000; font-weight: bold;">+7.38</span> | **102.5** | <span style="color: #006400; font-weight: bold;">4.69</span> | <span style="color: #B22222; font-weight: bold;">21.87</span> |
-| **2025/08** | **3.78** | <span style="color: #8B0000; font-weight: bold;">+8.64</span> | <span style="color: #8B0000; font-weight: bold;">+6.06</span> | **94.5** | <span style="color: #004225; font-weight: bold;">4.84</span> | <span style="color: #006400; font-weight: bold;">19.51</span> |
-| **2025/07** | **3.57** | <span style="color: #8B0000; font-weight: bold;">+0.76</span> | <span style="color: #8B0000; font-weight: bold;">+5.67</span> | **107** | <span style="color: #004225; font-weight: bold;">5.0</span> | <span style="color: #8B0000; font-weight: bold;">21.39</span> |
-| **2025/06** | **3.34** | <span style="color: #8B0000; font-weight: bold;">+0.17</span> | <span style="color: #8B0000; font-weight: bold;">+6.56</span> | **112** | <span style="color: #002818; font-weight: bold;">5.16</span> | <span style="color: #B22222; font-weight: bold;">21.7</span> |
-| **2025/05** | **3.5** | <span style="color: #002818; font-weight: bold;">-0.1</span> | <span style="color: #8B0000; font-weight: bold;">+7.87</span> | **105** | <span style="color: #8B0000; font-weight: bold;">5.32</span> | <span style="color: #006400; font-weight: bold;">19.74</span> |
-| **2025/04** | **3.53** | <span style="color: #8B0000; font-weight: bold;">+5.95</span> | <span style="color: #B22222; font-weight: bold;">+10.1</span> | **109.5** | <span style="color: #8B0000; font-weight: bold;">5.48</span> | <span style="color: #006400; font-weight: bold;">19.99</span> |
-| **2025/03** | **3.54** | <span style="color: #8B0000; font-weight: bold;">+9.64</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **120** | <span style="color: #B22222; font-weight: bold;">5.64</span> | <span style="color: #8B0000; font-weight: bold;">21.29</span> |
-| **2025/02** | **3.33** | <span style="color: #B22222; font-weight: bold;">+13.4</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **131** | <span style="color: #B22222; font-weight: bold;">5.79</span> | <span style="color: #DC143C; font-weight: bold;">22.61</span> |
-| **2025/01** | **3.62** | <span style="color: #B22222; font-weight: bold;">+11.7</span> | <span style="color: #B22222; font-weight: bold;">+11.7</span> | **125** | <span style="color: #DC143C; font-weight: bold;">5.95</span> | <span style="color: #002818; font-weight: bold;">21.0</span> |
+| **2025/10** | **3.98** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.53</span> | **103.5** | <span style="color: #006400; font-weight: bold;">4.38</span> | <span style="color: #FF4500; font-weight: bold;">23.65</span> |
+| **2025/09** | **3.87** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #8B0000; font-weight: bold;">+7.38</span> | **102.5** | <span style="color: #004225; font-weight: bold;">4.55</span> | <span style="color: #B22222; font-weight: bold;">22.53</span> |
+| **2025/08** | **3.78** | <span style="color: #8B0000; font-weight: bold;">+8.64</span> | <span style="color: #8B0000; font-weight: bold;">+6.06</span> | **94.5** | <span style="color: #004225; font-weight: bold;">4.72</span> | <span style="color: #006400; font-weight: bold;">20.01</span> |
+| **2025/07** | **3.57** | <span style="color: #8B0000; font-weight: bold;">+0.76</span> | <span style="color: #8B0000; font-weight: bold;">+5.67</span> | **107** | <span style="color: #002818; font-weight: bold;">4.9</span> | <span style="color: #8B0000; font-weight: bold;">21.85</span> |
+| **2025/06** | **3.34** | <span style="color: #8B0000; font-weight: bold;">+0.17</span> | <span style="color: #8B0000; font-weight: bold;">+6.56</span> | **112** | <span style="color: #002818; font-weight: bold;">5.07</span> | <span style="color: #8B0000; font-weight: bold;">22.09</span> |
+| **2025/05** | **3.5** | <span style="color: #002818; font-weight: bold;">-0.1</span> | <span style="color: #8B0000; font-weight: bold;">+7.87</span> | **105** | <span style="color: #8B0000; font-weight: bold;">5.24</span> | <span style="color: #006400; font-weight: bold;">20.03</span> |
+| **2025/04** | **3.53** | <span style="color: #8B0000; font-weight: bold;">+5.95</span> | <span style="color: #B22222; font-weight: bold;">+10.1</span> | **109.5** | <span style="color: #B22222; font-weight: bold;">5.42</span> | <span style="color: #006400; font-weight: bold;">20.22</span> |
+| **2025/03** | **3.54** | <span style="color: #8B0000; font-weight: bold;">+9.64</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **120** | <span style="color: #B22222; font-weight: bold;">5.59</span> | <span style="color: #002818; font-weight: bold;">21.47</span> |
+| **2025/02** | **3.33** | <span style="color: #B22222; font-weight: bold;">+13.4</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **131** | <span style="color: #DC143C; font-weight: bold;">5.76</span> | <span style="color: #B22222; font-weight: bold;">22.73</span> |
+| **2025/01** | **3.62** | <span style="color: #B22222; font-weight: bold;">+11.7</span> | <span style="color: #B22222; font-weight: bold;">+11.7</span> | **125** | <span style="color: #DC143C; font-weight: bold;">5.94</span> | <span style="color: #004225; font-weight: bold;">21.06</span> |
 | **2024/12** | **3.39** | <span style="color: #004225; font-weight: bold;">-16.4</span> | <span style="color: #004225; font-weight: bold;">-15.7</span> | **129.5** | <span style="color: #FF4500; font-weight: bold;">6.11</span> | <span style="color: #002818; font-weight: bold;">21.19</span> |
 | **2024/11** | **3.41** | <span style="color: #004225; font-weight: bold;">-17.8</span> | <span style="color: #004225; font-weight: bold;">-15.6</span> | **-** | N/A | N/A |
 | **2024/10** | **3.35** | <span style="color: #004225; font-weight: bold;">-17.6</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **-** | N/A | N/A |
@@ -171,7 +171,7 @@ description: 月營收表 博弘 (6997) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-02 11:41:26 CST
+- **產生時間**: 2025-12-03 11:40:45 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
