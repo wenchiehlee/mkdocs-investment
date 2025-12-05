@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-04
+date: 2025-12-05
 categories:
   - 股票
   - 月營收
@@ -19,13 +19,13 @@ description: 月營收表 星宇航空 (2646) - 自動產生
     **:building_construction: 公司名稱**: 星宇航空  
     **:identification_card: 股票代號**: 2646  
     **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-04 11:42:21 CST
+    **:clock3: 更新時間**: 2025-12-05 11:41:01 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+19.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **39** 個月 | 2022/08 至 2025/10 |
+| <span style="color: #B22222; font-weight: bold;">+19.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **40** 個月 | 2022/07 至 2025/10 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (星宇航空) - 非對稱分布
@@ -88,6 +88,7 @@ description: 月營收表 星宇航空 (2646) - 自動產生
 | **2022/10** | **3.83** | <span style="color: #FF7F7F; font-weight: bold;">+455.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+183.7</span> | **-** | N/A | N/A |
 | **2022/09** | **2.84** | <span style="color: #FF7F7F; font-weight: bold;">+271.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+150</span> | **-** | N/A | N/A |
 | **2022/08** | **2.71** | <span style="color: #FF7F7F; font-weight: bold;">+309.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+130.8</span> | **-** | N/A | N/A |
+| **2022/07** | **2.07** | <span style="color: #FF7F7F; font-weight: bold;">+223.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+102.2</span> | **-** | N/A | N/A |
 
 </div>
 
@@ -183,7 +184,7 @@ description: 月營收表 星宇航空 (2646) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-04 11:42:21 CST
+- **產生時間**: 2025-12-05 11:41:01 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
