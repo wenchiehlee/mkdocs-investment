@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-04
+date: 2025-12-05
 categories:
   - 股票
   - 股利分配
@@ -12,14 +12,14 @@ tags:
 title: 股利分配總覽報告 - 全部股票
 comments: false
 draft: false
-description: 股利分配總覽報告 - 全部 118 檔股票 (有效 95 檔) - 自動產生
+description: 股利分配總覽報告 - 全部 117 檔股票 (有效 94 檔) - 自動產生
 ---
 
 # :bar_chart: 股利分配總覽報告 - 全部股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2025-12-04 11:42:42  
-    **:building_construction: 分析股票總數**: 118 檔 (有效 95 檔)  
+    **:calendar: 產生時間**: 2025-12-05 11:41:28  
+    **:building_construction: 分析股票總數**: 117 檔 (有效 94 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析
 
 ---
@@ -28,8 +28,8 @@ description: 股利分配總覽報告 - 全部 118 檔股票 (有效 95 檔) - �
 
 | :chart: 指標 | :bar_chart: 平均值 | :1234: 中位數 | :trophy: 最佳股票 | :warning: 最弱股票 |
 |:--------:|:-------------:|:--------:|:-----------:|:------------:|
-| **現金殖利率 (5年平均)** | 3.88% | 3.70% | [**2603**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2603.md): 17.94% | [**2646**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2646.md): 0.00% |
-| **穩定性評分** | 5.9/10 | 6.5/10 | [**6690**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6690.md): 8.5/10 | [**2405**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2405.md): 0.0/10 |
+| **現金殖利率 (5年平均)** | 3.92% | 3.72% | [**2603**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2603.md): 17.94% | [**2646**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2646.md): 0.00% |
+| **穩定性評分** | 6.0/10 | 6.5/10 | [**6690**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6690.md): 8.5/10 | [**2405**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2405.md): 0.0/10 |
 
 ---
 
@@ -124,7 +124,6 @@ description: 股利分配總覽報告 - 全部 118 檔股票 (有效 95 檔) - �
 | [**6669**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6669.md) | 緯穎 | 74.00 | 1.61% | 5.05% | 1.57% | 58% | 🟡 7.0 | 2018~2025 (8年) |
 | [**6690**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6690.md) | 安碁資訊 | 6.00 | 3.48% | 4.18% | 2.75% | 59% | 🟢 8.5 | 2019~2025 (7年) |
 | [**6695**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6695.md) | 芯鼎 | 0.00 | 0.00% | 0.00% | 0.00% | - | 🔴 0.5 | 2019~2025 (7年) |
-| [**6699**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6699.md) | 奇邑 | 0.00 | 0.00% | 0.00% | 0.00% | - | 🔴 0.5 | 2020~2025 (6年) |
 | [**6720**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6720.md) | 久昌 | 3.80 | 2.83% | 3.23% | 1.99% | 84% | 🔴 5.0 | 2019~2025 (7年) |
 | [**6751**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6751.md) | 智聯服務 | 1.00 | 1.81% | 2.54% | 1.47% | 120% | 🟡 6.0 | 2020~2025 (6年) |
 | [**6757**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6757.md) | 台灣虎航 | 6.05 | 8.92% | 9.17% | 5.55% | 98% | 🔴 2.5 | 2020~2025 (6年) |
@@ -151,12 +150,12 @@ description: 股利分配總覽報告 - 全部 118 檔股票 (有效 95 檔) - �
 ## :information_source: 資料來源與涵蓋範圍
 
 !!! note "資料統計"
-    - **分析股票數**: 95 檔
+    - **分析股票數**: 94 檔
     - **略過股票數**: 23 檔 (資料不足: < 3 年)
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2025-12-04 11:42:42
+    - **報告產生時間**: 2025-12-05 11:41:28
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
