@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-06
+date: 2025-12-07
 categories:
   - 股票
   - 月營收
@@ -18,14 +18,14 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 宏碁資訊  
     **:identification_card: 股票代號**: 6811  
-    **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-06 11:32:17 CST
+    **:calendar: 最新資料**: 2025/11  
+    **:clock3: 更新時間**: 2025-12-07 11:47:15 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+1.15</span> | <span style="color: #8B0000; font-weight: bold;">+9.37</span> | **61** 個月 | 2020/10 至 2025/10 |
+| <span style="color: #B22222; font-weight: bold;">+19.7</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **62** 個月 | 2020/10 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (宏碁資訊) - 非對稱分布
@@ -49,6 +49,7 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/11** | **5.35** | <span style="color: #B22222; font-weight: bold;">+19.7</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **214** | <span style="color: #FF4500; font-weight: bold;">13.68</span> | <span style="color: #004225; font-weight: bold;">15.65</span> |
 | **2025/10** | **6.8** | <span style="color: #8B0000; font-weight: bold;">+1.15</span> | <span style="color: #8B0000; font-weight: bold;">+9.37</span> | **230** | <span style="color: #DC143C; font-weight: bold;">13.62</span> | <span style="color: #004225; font-weight: bold;">16.89</span> |
 | **2025/09** | **7.75** | <span style="color: #002818; font-weight: bold;">-6.36</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **243.5** | <span style="color: #DC143C; font-weight: bold;">13.56</span> | <span style="color: #002818; font-weight: bold;">17.96</span> |
 | **2025/08** | **6.61** | <span style="color: #8B0000; font-weight: bold;">+9.91</span> | <span style="color: #B22222; font-weight: bold;">+12.6</span> | **263** | <span style="color: #DC143C; font-weight: bold;">13.49</span> | <span style="color: #8B0000; font-weight: bold;">19.49</span> |
@@ -205,7 +206,7 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-06 11:32:17 CST
+- **產生時間**: 2025-12-07 11:47:15 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

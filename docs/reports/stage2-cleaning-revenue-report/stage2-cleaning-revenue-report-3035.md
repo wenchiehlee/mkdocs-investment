@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-06
+date: 2025-12-07
 categories:
   - 股票
   - 月營收
@@ -18,14 +18,14 @@ description: 月營收表 智原 (3035) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 智原  
     **:identification_card: 股票代號**: 3035  
-    **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-06 11:32:17 CST
+    **:calendar: 最新資料**: 2025/11  
+    **:clock3: 更新時間**: 2025-12-07 11:47:15 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #004225; font-weight: bold;">-10.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+77.2</span> | **239** 個月 | 2005/12 至 2025/10 |
+| <span style="color: #B22222; font-weight: bold;">+10.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+71</span> | **240** 個月 | 2005/12 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (智原) - 非對稱分布
@@ -49,6 +49,7 @@ description: 月營收表 智原 (3035) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/11** | **10.16** | <span style="color: #B22222; font-weight: bold;">+10.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+71</span> | **174** | <span style="color: #002818; font-weight: bold;">3.01</span> | <span style="color: #DC143C; font-weight: bold;">57.74</span> |
 | **2025/10** | **8.34** | <span style="color: #004225; font-weight: bold;">-10.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+77.2</span> | **182.5** | <span style="color: #8B0000; font-weight: bold;">3.11</span> | <span style="color: #DC143C; font-weight: bold;">58.74</span> |
 | **2025/09** | **13.58** | <span style="color: #FF6347; font-weight: bold;">+44.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+87.2</span> | **158.5** | <span style="color: #8B0000; font-weight: bold;">3.2</span> | <span style="color: #B22222; font-weight: bold;">49.53</span> |
 | **2025/08** | **9.11** | <span style="color: #002818; font-weight: bold;">-6.96</span> | <span style="color: #FF7F7F; font-weight: bold;">+92.9</span> | **158** | <span style="color: #8B0000; font-weight: bold;">3.29</span> | <span style="color: #B22222; font-weight: bold;">47.98</span> |
@@ -383,7 +384,7 @@ description: 月營收表 智原 (3035) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-06 11:32:17 CST
+- **產生時間**: 2025-12-07 11:47:15 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
