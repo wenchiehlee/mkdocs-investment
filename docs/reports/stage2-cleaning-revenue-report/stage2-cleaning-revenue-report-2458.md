@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-06
+date: 2025-12-07
 categories:
   - 股票
   - 月營收
@@ -18,14 +18,14 @@ description: 月營收表 義隆 (2458) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 義隆  
     **:identification_card: 股票代號**: 2458  
-    **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-06 11:32:17 CST
+    **:calendar: 最新資料**: 2025/11  
+    **:clock3: 更新時間**: 2025-12-07 11:47:15 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-8.01</span> | <span style="color: #002818; font-weight: bold;">-2.6</span> | **239** 個月 | 2005/12 至 2025/10 |
+| <span style="color: #002818; font-weight: bold;">-3.49</span> | <span style="color: #002818; font-weight: bold;">-2.68</span> | **240** 個月 | 2005/12 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (義隆) - 非對稱分布
@@ -49,6 +49,7 @@ description: 月營收表 義隆 (2458) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/11** | **9.46** | <span style="color: #002818; font-weight: bold;">-3.49</span> | <span style="color: #002818; font-weight: bold;">-2.68</span> | **133** | <span style="color: #B22222; font-weight: bold;">8.2</span> | <span style="color: #004225; font-weight: bold;">16.23</span> |
 | **2025/10** | **9.97** | <span style="color: #002818; font-weight: bold;">-8.01</span> | <span style="color: #002818; font-weight: bold;">-2.6</span> | **124** | <span style="color: #B22222; font-weight: bold;">8.32</span> | <span style="color: #004225; font-weight: bold;">14.9</span> |
 | **2025/09** | **11.33** | <span style="color: #8B0000; font-weight: bold;">+1.66</span> | <span style="color: #002818; font-weight: bold;">-2</span> | **130** | <span style="color: #B22222; font-weight: bold;">8.44</span> | <span style="color: #004225; font-weight: bold;">15.39</span> |
 | **2025/08** | **11.71** | <span style="color: #002818; font-weight: bold;">-1.54</span> | <span style="color: #002818; font-weight: bold;">-2.48</span> | **119.5** | <span style="color: #B22222; font-weight: bold;">8.57</span> | <span style="color: #006400; font-weight: bold;">13.94</span> |
@@ -383,7 +384,7 @@ description: 月營收表 義隆 (2458) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-06 11:32:17 CST
+- **產生時間**: 2025-12-07 11:47:15 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

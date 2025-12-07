@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-06
+date: 2025-12-07
 categories:
   - 股票
   - 月營收
@@ -18,14 +18,14 @@ description: 月營收表 宏碁智新 (7794) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 宏碁智新  
     **:identification_card: 股票代號**: 7794  
-    **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-06 11:32:17 CST
+    **:calendar: 最新資料**: 2025/11  
+    **:clock3: 更新時間**: 2025-12-07 11:47:15 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+25.3</span> | <span style="color: #B22222; font-weight: bold;">+19.8</span> | **13** 個月 | 2024/10 至 2025/10 |
+| <span style="color: #002818; font-weight: bold;">-5.43</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **14** 個月 | 2024/10 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (宏碁智新) - 非對稱分布
@@ -49,6 +49,7 @@ description: 月營收表 宏碁智新 (7794) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/11** | **0.653** | <span style="color: #002818; font-weight: bold;">-5.43</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **50.5** | <span style="color: #000000; font-weight: bold;">1.01</span> | <span style="color: #DC143C; font-weight: bold;">50.0</span> |
 | **2025/10** | **0.975** | <span style="color: #DC143C; font-weight: bold;">+25.3</span> | <span style="color: #B22222; font-weight: bold;">+19.8</span> | **51** | <span style="color: #000000; font-weight: bold;">1.01</span> | <span style="color: #DC143C; font-weight: bold;">50.5</span> |
 | **2025/09** | **1.07** | <span style="color: #228B22; font-weight: bold;">-30.1</span> | <span style="color: #B22222; font-weight: bold;">+19.1</span> | **48.65** | <span style="color: #000000; font-weight: bold;">1.01</span> | <span style="color: #B22222; font-weight: bold;">48.17</span> |
 | **2025/08** | **0.827** | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | <span style="color: #FF4500; font-weight: bold;">+35.2</span> | **50.5** | <span style="color: #000000; font-weight: bold;">1.01</span> | <span style="color: #DC143C; font-weight: bold;">50.0</span> |
@@ -157,7 +158,7 @@ description: 月營收表 宏碁智新 (7794) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-06 11:32:17 CST
+- **產生時間**: 2025-12-07 11:47:15 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

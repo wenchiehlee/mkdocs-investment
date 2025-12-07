@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-06
+date: 2025-12-07
 categories:
   - 股票
   - 月營收
@@ -18,14 +18,14 @@ description: 月營收表 鈊象 (3293) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 鈊象  
     **:identification_card: 股票代號**: 3293  
-    **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-06 11:32:17 CST
+    **:calendar: 最新資料**: 2025/11  
+    **:clock3: 更新時間**: 2025-12-07 11:47:15 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+11.7</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **239** 個月 | 2005/12 至 2025/10 |
+| <span style="color: #B22222; font-weight: bold;">+11.6</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **240** 個月 | 2005/12 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (鈊象) - 非對稱分布
@@ -49,6 +49,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/11** | **18.65** | <span style="color: #B22222; font-weight: bold;">+11.6</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **743** | <span style="color: #B22222; font-weight: bold;">36.62</span> | <span style="color: #8B0000; font-weight: bold;">20.29</span> |
 | **2025/10** | **18.76** | <span style="color: #B22222; font-weight: bold;">+11.7</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **720** | <span style="color: #B22222; font-weight: bold;">36.22</span> | <span style="color: #8B0000; font-weight: bold;">19.88</span> |
 | **2025/09** | **17.95** | <span style="color: #B22222; font-weight: bold;">+13.5</span> | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | **787** | <span style="color: #B22222; font-weight: bold;">35.81</span> | <span style="color: #8B0000; font-weight: bold;">21.98</span> |
 | **2025/08** | **18.18** | <span style="color: #B22222; font-weight: bold;">+13.5</span> | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | **765** | <span style="color: #B22222; font-weight: bold;">35.4</span> | <span style="color: #8B0000; font-weight: bold;">21.61</span> |
@@ -383,7 +384,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-06 11:32:17 CST
+- **產生時間**: 2025-12-07 11:47:15 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
