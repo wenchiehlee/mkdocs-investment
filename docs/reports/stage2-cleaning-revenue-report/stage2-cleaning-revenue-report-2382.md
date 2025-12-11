@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-10
+date: 2025-12-11
 categories:
   - 股票
   - 月營收
@@ -18,14 +18,14 @@ description: 月營收表 廣達 (2382) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 廣達  
     **:identification_card: 股票代號**: 2382  
-    **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-10 11:45:24 CST
+    **:calendar: 最新資料**: 2025/11  
+    **:clock3: 更新時間**: 2025-12-11 11:47:10 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+27.4</span> | <span style="color: #FF6347; font-weight: bold;">+46.8</span> | **239** 個月 | 2005/12 至 2025/10 |
+| <span style="color: #FF4500; font-weight: bold;">+36.5</span> | <span style="color: #FF6347; font-weight: bold;">+45.7</span> | **240** 個月 | 2005/12 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (廣達) - 非對稱分布
@@ -49,6 +49,7 @@ description: 月營收表 廣達 (2382) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/11** | **1929** | <span style="color: #FF4500; font-weight: bold;">+36.5</span> | <span style="color: #FF6347; font-weight: bold;">+45.7</span> | **282** | <span style="color: #FF4500; font-weight: bold;">17.63</span> | <span style="color: #B22222; font-weight: bold;">16.0</span> |
 | **2025/10** | **1732** | <span style="color: #DC143C; font-weight: bold;">+27.4</span> | <span style="color: #FF6347; font-weight: bold;">+46.8</span> | **300.5** | <span style="color: #FF4500; font-weight: bold;">17.43</span> | <span style="color: #B22222; font-weight: bold;">17.24</span> |
 | **2025/09** | **1841** | <span style="color: #B22222; font-weight: bold;">+18.7</span> | <span style="color: #FF6347; font-weight: bold;">+49.5</span> | **290** | <span style="color: #FF4500; font-weight: bold;">17.24</span> | <span style="color: #B22222; font-weight: bold;">16.82</span> |
 | **2025/08** | **1528** | <span style="color: #8B0000; font-weight: bold;">+5.25</span> | <span style="color: #FF7F7F; font-weight: bold;">+55.2</span> | **262.5** | <span style="color: #FF4500; font-weight: bold;">17.04</span> | <span style="color: #8B0000; font-weight: bold;">15.4</span> |
@@ -383,7 +384,7 @@ description: 月營收表 廣達 (2382) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-10 11:45:24 CST
+- **產生時間**: 2025-12-11 11:47:10 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
