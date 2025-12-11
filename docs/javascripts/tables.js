@@ -63,9 +63,24 @@ document$.subscribe(function() {
             // Column definitions for better sorting
             columnDefs: [
                 {
-                    // Stock code column - treat as string
+                    // Stock code column - render Markdown links as HTML
                     targets: 0,
-                    type: 'string'
+                    type: 'string',
+                    render: function(data, type, row) {
+                        if (type === 'display' || type === 'filter') {
+                            // Regex to extract link text and URL from Markdown format [text](url)
+                            const markdownLinkRegex = /\[\*\*(.*?)\*\*\]\((.*?)\)/;
+                            const match = data.match(markdownLinkRegex);
+
+                            if (match && match.length === 3) {
+                                const linkText = match[1];
+                                const linkUrl = match[2];
+                                // Create a safe HTML anchor tag
+                                return `<a href="${linkUrl}">${linkText}</a>`;
+                            }
+                        }
+                        return data;
+                    }
                 },
                 {
                     // Numeric columns - auto-detect numbers with % and other symbols
