@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-10
+date: 2025-12-11
 categories:
   - 股票
   - 月營收
@@ -18,14 +18,14 @@ description: 月營收表 全家餐飲 (7708) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 全家餐飲  
     **:identification_card: 股票代號**: 7708  
-    **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-10 11:45:24 CST
+    **:calendar: 最新資料**: 2025/11  
+    **:clock3: 更新時間**: 2025-12-11 11:47:10 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **26** 個月 | 2023/09 至 2025/10 |
+| <span style="color: #B22222; font-weight: bold;">+18.2</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **27** 個月 | 2023/09 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (全家餐飲) - 非對稱分布
@@ -49,6 +49,7 @@ description: 月營收表 全家餐飲 (7708) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/11** | **2.3** | <span style="color: #B22222; font-weight: bold;">+18.2</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **97.5** | <span style="color: #DC143C; font-weight: bold;">5.9</span> | <span style="color: #006400; font-weight: bold;">16.52</span> |
 | **2025/10** | **2.36** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **98** | <span style="color: #DC143C; font-weight: bold;">5.86</span> | <span style="color: #002818; font-weight: bold;">16.73</span> |
 | **2025/09** | **2.22** | <span style="color: #8B0000; font-weight: bold;">+9</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **99** | <span style="color: #B22222; font-weight: bold;">5.81</span> | <span style="color: #B22222; font-weight: bold;">17.04</span> |
 | **2025/08** | **2.51** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **95.5** | <span style="color: #B22222; font-weight: bold;">5.76</span> | <span style="color: #004225; font-weight: bold;">16.57</span> |
@@ -170,7 +171,7 @@ description: 月營收表 全家餐飲 (7708) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-10 11:45:24 CST
+- **產生時間**: 2025-12-11 11:47:10 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

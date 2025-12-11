@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-10
+date: 2025-12-11
 categories:
   - 股票
   - 股利分配
@@ -21,7 +21,7 @@ description: 股利分配報告 GOGOLOOK (6902) - 自動產生
     **:identification_card: 股票代號**: 6902  
     **:calendar: 分析年度**: 2023-2025 (共 3 年)  
     **:clock3: 最新資料**: 2025 年  
-    **🕒 更新時間**: 2025-12-10 11:45:48 CST
+    **🕒 更新時間**: 2025-12-11 11:47:35 CST
 
 ## :chart_with_upwards_trend: 快速摘要指標
 
@@ -108,7 +108,7 @@ description: 股利分配報告 GOGOLOOK (6902) - 自動產生
     - **EPS資料**：交叉比對 `cleaned_performance1.csv` (Type 7: Quarterly Performance)
 
 !!! info "報告元資訊"
-    - **報告產生時間**：2025-12-10 11:45:48
+    - **報告產生時間**：2025-12-11 11:47:35
     - **資料品質評分**：9.5/10
     - **分析期間**：2023 - 2025 (共 3 年)
     - **資料來源**：Stage 2 資料清理股利報告系統

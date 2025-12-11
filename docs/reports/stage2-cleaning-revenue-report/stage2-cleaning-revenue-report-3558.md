@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-10
+date: 2025-12-11
 categories:
   - 股票
   - 月營收
@@ -18,14 +18,14 @@ description: 月營收表 神準 (3558) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 神準  
     **:identification_card: 股票代號**: 3558  
-    **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-10 11:45:24 CST
+    **:calendar: 最新資料**: 2025/11  
+    **:clock3: 更新時間**: 2025-12-11 11:47:10 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-0.73</span> | <span style="color: #FF4500; font-weight: bold;">+33.8</span> | **223** 個月 | 2007/04 至 2025/10 |
+| <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #DC143C; font-weight: bold;">+28.6</span> | **224** 個月 | 2007/04 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (神準) - 非對稱分布
@@ -49,6 +49,7 @@ description: 月營收表 神準 (3558) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/11** | **10.4** | <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #DC143C; font-weight: bold;">+28.6</span> | **133.5** | <span style="color: #228B22; font-weight: bold;">6.45</span> | <span style="color: #B22222; font-weight: bold;">20.69</span> |
 | **2025/10** | **11.86** | <span style="color: #002818; font-weight: bold;">-0.73</span> | <span style="color: #FF4500; font-weight: bold;">+33.8</span> | **152.5** | <span style="color: #228B22; font-weight: bold;">6.29</span> | <span style="color: #B22222; font-weight: bold;">24.23</span> |
 | **2025/09** | **11.75** | <span style="color: #B22222; font-weight: bold;">+16.8</span> | <span style="color: #FF4500; font-weight: bold;">+38.8</span> | **158** | <span style="color: #228B22; font-weight: bold;">6.14</span> | <span style="color: #B22222; font-weight: bold;">25.75</span> |
 | **2025/08** | **11.69** | <span style="color: #B22222; font-weight: bold;">+16</span> | <span style="color: #FF6347; font-weight: bold;">+41.8</span> | **172.5** | <span style="color: #228B22; font-weight: bold;">5.98</span> | <span style="color: #DC143C; font-weight: bold;">28.86</span> |
@@ -367,7 +368,7 @@ description: 月營收表 神準 (3558) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-10 11:45:24 CST
+- **產生時間**: 2025-12-11 11:47:10 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
