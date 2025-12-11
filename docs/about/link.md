@@ -19,7 +19,7 @@ title: 友鏈
   url: https://wenchiehlee.github.io/mkdocs/
 
 - title: Wen-Chieh Lee的生活
-  content: 種植, 養殖, 釀
+  content: 生活, 種植, 養殖, 釀酒
   image: https://wenchiehlee.github.io/mkdocs-life/assets/images/w.png
   url: https://wenchiehlee.github.io/mkdocs-life/
 
