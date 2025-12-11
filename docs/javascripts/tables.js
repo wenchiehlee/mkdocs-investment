@@ -1,5 +1,5 @@
 // DataTables initialization for Stock Analysis System
-// Version: 1.0.2
+// Version: 1.0.3
 // Purpose: Enable sortable and filterable tables for dividend reports and render emojis in headers
 
 document$.subscribe(function() {
@@ -30,6 +30,10 @@ document$.subscribe(function() {
         }
         return newText;
     }
+
+    // Add 'sortable-table' class to tables within '.annotate' divs that don't already have it
+    $('.annotate table:not(.sortable-table)').addClass('sortable-table');
+    console.log('Added sortable-table class to tables within .annotate divs that were missing it.');
 
     // Pre-process table headers to replace emoji shortcodes before DataTables initialization
     $('.sortable-table th').each(function() {
