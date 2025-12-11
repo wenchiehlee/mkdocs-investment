@@ -1,6 +1,6 @@
 // DataTables initialization for Stock Analysis System
-// Version: 1.0.0
-// Purpose: Enable sortable and filterable tables for dividend reports
+// Version: 1.0.1
+// Purpose: Enable sortable and filterable tables for dividend reports and render emojis in headers
 
 document$.subscribe(function() {
     // Wait for DOM to be ready
@@ -8,6 +8,34 @@ document$.subscribe(function() {
         console.error('jQuery or DataTables not loaded');
         return;
     }
+
+    // Mapping of emoji shortcodes to Unicode characters
+    const emojiMap = {
+        ':identification_card:': '&#x1f4b3;', // 💳
+        ':building_construction:': '&#x1f3d7;&#xfe0f;', // 🏗️
+        ':moneybag:': '&#x1f4b0;', // 💰
+        ':chart:': '&#x1f4c8;', // 📈
+        ':arrow_down:': '&#x2b07;&#xfe0f;', // ⬇️
+        ':arrow_up:': '&#x2b06;&#xfe0f;', // ⬆️
+        ':repeat:': '&#x1f501;', // 🔁
+        ':traffic_light:': '&#x1f6a6;', // 🚥
+        ':date:': '&#x1f4c5;' // 📅
+    };
+
+    // Function to replace emoji shortcodes in a given text
+    function replaceEmojiShortcodes(text) {
+        let newText = text;
+        for (const shortcode in emojiMap) {
+            newText = newText.replace(new RegExp(shortcode, 'g'), emojiMap[shortcode]);
+        }
+        return newText;
+    }
+
+    // Pre-process table headers to replace emoji shortcodes before DataTables initialization
+    $('.sortable-table th').each(function() {
+        const $th = $(this);
+        $th.html(replaceEmojiShortcodes($th.html()));
+    });
 
     // Initialize DataTables for all sortable tables
     $('.sortable-table table').each(function() {
