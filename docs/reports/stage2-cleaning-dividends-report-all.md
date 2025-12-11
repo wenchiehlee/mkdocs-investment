@@ -15,10 +15,16 @@ draft: false
 description: 股利分配總覽報告 - 全部 117 檔股票 (有效 94 檔) - 自動產生
 ---
 
+<style>
+.sortable-table, .sortable-table td, .sortable-table th {
+    font-size: var(--md-text-size) !important;
+}
+</style>
+
 # :bar_chart: 股利分配總覽報告 - 全部股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2025-12-11 11:47:36  
+    **:calendar: 產生時間**: 2025-12-11 13:45:07  
     **:building_construction: 分析股票總數**: 117 檔 (有效 94 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析
 
@@ -44,106 +50,1057 @@ description: 股利分配總覽報告 - 全部 117 檔股票 (有效 94 檔) - �
     - 🟡 **良好** (6.0-7.9): 股利發放穩定，適合長期投資
     - 🔴 **警示** (<6.0): 股利波動較大或可持續性存在風險
 
-<div class="sortable-table" markdown>
-
-| :identification_card: 股票代號 | :building_construction: 公司名稱 | :moneybag: 現金股利(元) | :chart: 殖利率@當日價 | :arrow_down: 殖利率@當年度最低價 | :arrow_up: 殖利率@當年度最高價 | :repeat: 配發率 | :traffic_light: 穩定性 | :date: 資料區間 |
-|:--------:|:-----------:|:-----------:|:---------------:|:------------------------:|:------------------------:|:--------:|:--------:|:-----------:|
-| [**2301**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2301.md) | 光寶科 | 4.51 | 2.81% | 6.39% | 2.29% | 87% | 🟡 7.5 | 1993~2025 (33年) |
-| [**2303**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2303.md) | 聯電 | 2.85 | 5.78% | 7.22% | 5.70% | 75% | 🟡 6.5 | 1984~2025 (41年) |
-| [**2308**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2308.md) | 台達電 | 7.00 | 0.72% | 2.55% | 0.65% | 52% | 🟡 7.0 | 1984~2025 (42年) |
-| [**2317**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2317.md) | 鴻海 | 5.80 | 2.50% | 5.16% | 2.19% | 53% | 🟢 8.0 | 1989~2025 (37年) |
-| [**2324**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2324.md) | 仁寶 | 1.40 | 4.58% | 5.91% | 3.52% | 61% | 🟡 7.0 | 1990~2025 (36年) |
-| [**2330**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2330.md) | 台積電 | 19.00 | 1.27% | 2.44% | 1.25% | 42% | 🟡 7.5 | 1992~2025 (34年) |
-| [**2332**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2332.md) | 友訊 | 0.10 | 0.62% | 0.71% | 0.39% | 167% | 🔴 4.5 | 1993~2025 (33年) |
-| [**2345**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2345.md) | 智邦 | 11.00 | 1.13% | 2.56% | 0.93% | 51% | 🟡 7.0 | 1993~2025 (33年) |
-| [**2347**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2347.md) | 聯強 | 4.00 | 6.59% | 7.33% | 5.25% | 72% | 🟢 8.0 | 1993~2025 (33年) |
-| [**2353**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2353.md) | 宏碁 | 1.70 | 6.37% | 6.37% | 4.15% | 92% | 🟡 6.0 | 1993~2025 (33年) |
-| [**2354**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2354.md) | 鴻準 | 1.40 | 2.13% | 2.99% | 1.75% | 55% | 🟡 6.5 | 1993~2025 (33年) |
-| [**2356**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2356.md) | 英業達 | 1.70 | 3.59% | 5.11% | 3.17% | 84% | 🔴 5.5 | 1993~2025 (33年) |
-| [**2357**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2357.md) | 華碩 | 34.00 | 5.65% | 7.71% | 4.56% | 80% | 🟡 6.0 | 1993~2025 (33年) |
-| [**2359**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2359.md) | 所羅門 | 1.00 | 0.74% | 0.95% | 0.57% | 119% | 🔴 4.0 | 1993~2025 (33年) |
-| [**2376**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2376.md) | 技嘉 | 10.00 | 4.07% | 5.56% | 3.15% | 66% | 🟡 6.0 | 1993~2025 (33年) |
-| [**2377**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2377.md) | 微星 | 5.00 | 4.95% | 5.01% | 2.38% | 62% | 🟡 6.5 | 1993~2025 (33年) |
-| [**2379**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2379.md) | 瑞昱 | 25.50 | 4.78% | 5.90% | 4.30% | 86% | 🔴 5.5 | 1993~2025 (33年) |
-| [**2382**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2382.md) | 廣達 | 13.00 | 4.37% | 7.47% | 4.14% | 84% | 🔴 5.5 | 1993~2025 (33年) |
-| [**2383**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2383.md) | 台光電 | 16.58 | 1.12% | 4.07% | 1.06% | 60% | 🟡 7.5 | 1993~2025 (33年) |
-| [**2395**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2395.md) | 研華 | 8.39 | 2.93% | 3.07% | 1.97% | 80% | 🟡 7.5 | 1997~2025 (29年) |
-| [**2405**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2405.md) | 輔信 | 0.17 | 0.97% | 1.21% | 0.72% | 567% | 🔴 0.0 | 1994~2025 (32年) |
-| [**2412**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2412.md) | 中華電 | 5.00 | 3.86% | 4.10% | 3.62% | 104% | 🟡 7.5 | 1998~2025 (28年) |
-| [**2449**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2449.md) | 京元電子 | 4.00 | 1.75% | 5.71% | 1.72% | 63% | 🟡 6.5 | 1998~2025 (28年) |
-| [**2450**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2450.md) | 神腦 | 1.65 | 5.70% | 5.84% | 4.76% | 89% | 🟡 6.0 | 1997~2025 (29年) |
-| [**2451**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2451.md) | 創見 | 6.09 | 3.36% | 7.76% | 2.82% | 113% | 🟡 6.5 | 1998~2025 (28年) |
-| [**2454**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2454.md) | 聯發科 | 54.00 | 3.75% | 4.78% | 3.43% | 81% | 🔴 5.5 | 2000~2025 (26年) |
-| [**2458**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2458.md) | 義隆 | 6.41 | 4.99% | 6.38% | 3.84% | 67% | 🟡 6.0 | 1998~2025 (28年) |
-| [**2474**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2474.md) | 可成 | 8.33 | 8.52% | 9.46% | 7.29% | 43% | 🟡 7.0 | 1996~2025 (30年) |
-| [**2480**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2480.md) | 敦陽科 | 7.42 | 4.95% | 6.32% | 4.01% | 99% | 🟡 6.0 | 1998~2025 (28年) |
-| [**2603**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2603.md) | 長榮 | 32.50 | 18.10% | 19.00% | 12.30% | 50% | 🔴 5.5 | 1985~2025 (40年) |
-| [**2646**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2646.md) | 星宇航空 | 0.00 | 0.00% | 0.00% | 0.00% | 0% | 🔴 0.5 | 2023~2025 (3年) |
-| [**3014**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3014.md) | 聯陽 | 9.00 | 7.59% | 8.37% | 5.49% | 89% | 🔴 5.5 | 2000~2025 (26年) |
-| [**3022**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3022.md) | 威強電 | 4.50 | 6.79% | 7.26% | 3.69% | 52% | 🟡 7.0 | 1999~2025 (27年) |
-| [**3026**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3026.md) | 禾伸堂 | 5.50 | 5.24% | 7.67% | 4.35% | 94% | 🔴 5.5 | 1995~2025 (30年) |
-| [**3029**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3029.md) | 零壹 | 5.00 | 4.27% | 5.29% | 3.05% | 95% | 🟡 6.5 | 1999~2025 (27年) |
-| [**3034**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3034.md) | 聯詠 | 28.00 | 7.27% | 7.61% | 4.96% | 84% | 🟡 6.5 | 1999~2025 (27年) |
-| [**3035**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3035.md) | 智原 | 3.00 | 1.74% | 2.01% | 1.14% | 74% | 🟢 8.0 | 1998~2025 (28年) |
-| [**3045**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3045.md) | 台灣大 | 4.50 | 4.29% | 4.29% | 3.73% | 98% | 🟡 6.5 | 1998~2025 (28年) |
-| [**3048**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3048.md) | 益登 | 0.00 | 0.00% | 0.00% | 0.00% | - | 🔴 4.0 | 2000~2025 (26年) |
-| [**3150**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3150.md) | 鈺寶-創 | 1.00 | 5.21% | 5.87% | 2.54% | 139% | 🔴 3.5 | 2011~2025 (15年) |
-| [**3158**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3158.md) | 嘉實 | 6.00 | 6.23% | 6.24% | 5.80% | 82% | 🟡 7.5 | 2009~2025 (17年) |
-| [**3231**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3231.md) | 緯創 | 3.80 | 2.55% | 5.15% | 2.40% | 62% | 🟢 8.0 | 2003~2025 (23年) |
-| [**3260**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3260.md) | 威剛 | 5.12 | 2.83% | 7.67% | 2.19% | 55% | 🟡 6.5 | 2002~2025 (24年) |
-| [**3293**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3293.md) | 鈊象 | 29.00 | 4.03% | 4.35% | 2.90% | 74% | 🔴 5.5 | 2004~2025 (22年) |
-| [**3356**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3356.md) | 奇偶 | 4.00 | 8.43% | 10.10% | 5.94% | 57% | 🟡 6.0 | 2003~2025 (23年) |
-| [**3558**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3558.md) | 神準 | 3.00 | 2.04% | 2.37% | 1.15% | 62% | 🟡 7.0 | 2007~2025 (19年) |
-| [**3661**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3661.md) | 世芯-KY | 36.48 | 1.17% | 1.88% | 0.82% | 45% | 🟡 7.5 | 2011~2025 (15年) |
-| [**4114**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4114.md) | 健喬 | 0.60 | 1.87% | 2.07% | 1.51% | 92% | 🟡 7.0 | 2002~2025 (24年) |
-| [**4749**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4749.md) | 新應材 | 5.99 | 0.75% | 1.63% | 0.63% | 70% | 🟡 7.0 | 2010~2025 (10年) |
-| [**4938**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4938.md) | 和碩 | 4.50 | 6.38% | 6.57% | 4.55% | 71% | 🟢 8.0 | 2010~2025 (16年) |
-| [**4953**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4953.md) | 緯軟 | 3.99 | 3.05% | 5.18% | 2.96% | 64% | 🟡 7.5 | 2011~2025 (15年) |
-| [**5203**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5203.md) | 訊連 | 3.90 | 4.16% | 4.58% | 2.69% | 98% | 🟡 6.0 | 1999~2025 (27年) |
-| [**5269**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5269.md) | 祥碩 | 30.00 | 2.44% | 2.61% | 1.32% | 58% | 🟡 7.5 | 2012~2025 (14年) |
-| [**5274**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5274.md) | 信驊 | 52.00 | 0.80% | 2.29% | 0.71% | 76% | 🟡 7.0 | 2012~2025 (14年) |
-| [**5434**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5434.md) | 崇越 | 11.99 | 3.92% | 5.83% | 3.38% | 62% | 🟡 7.0 | 1998~2025 (28年) |
-| [**5536**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5536.md) | 聖暉 | 15.00 | 2.09% | 5.40% | 1.48% | 71% | 🟢 8.0 | 2010~2025 (16年) |
-| [**5904**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5904.md) | 寶雅 | 23.00 | 5.22% | 5.36% | 4.32% | 86% | 🔴 5.5 | 2000~2025 (26年) |
-| [**6035**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6035.md) | 悠遊卡 | 2.95 | 4.45% | 4.84% | 3.98% | - | 🔴 4.0 | 2023~2025 (3年) |
-| [**6123**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6123.md) | 上奇 | 4.05 | 8.10% | 8.30% | 6.38% | 111% | 🟡 6.5 | 1999~2025 (26年) |
-| [**6125**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6125.md) | 廣運 | 0.70 | 1.09% | 1.40% | 0.67% | - | 🟡 6.5 | 2000~2025 (26年) |
-| [**6182**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6182.md) | 合晶 | 0.00 | 0.00% | 0.00% | 0.00% | - | 🔴 3.5 | 2000~2025 (26年) |
-| [**6214**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6214.md) | 精誠 | 5.20 | 4.26% | 5.28% | 3.44% | 67% | 🟡 6.5 | 1998~2025 (28年) |
-| [**6231**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6231.md) | 系微 | 6.50 | 3.09% | 3.39% | 1.44% | 81% | 🔴 5.5 | 2000~2025 (26年) |
-| [**6285**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6285.md) | 啟碁 | 4.80 | 4.62% | 5.00% | 2.94% | 66% | 🟢 8.0 | 2001~2025 (25年) |
-| [**6425**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6425.md) | 易發 | 1.00 | 1.25% | 2.67% | 1.21% | 145% | 🔴 5.0 | 2013~2025 (13年) |
-| [**6442**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6442.md) | 光聖 | 8.62 | 0.72% | 2.94% | 0.63% | 60% | 🟡 7.5 | 2014~2025 (12年) |
-| [**6462**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6462.md) | 神盾 | 0.00 | 0.00% | 0.00% | 0.00% | - | 🔴 2.0 | 2014~2025 (12年) |
-| [**6506**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6506.md) | 雙邦 | 0.80 | 5.08% | 6.30% | 4.53% | 108% | 🔴 5.0 | 2000~2025 (26年) |
-| [**6510**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6510.md) | 精測 | 7.80 | 0.41% | 1.60% | 0.38% | 50% | 🟢 8.0 | 2014~2025 (12年) |
-| [**6526**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6526.md) | 達發 | 12.50 | 2.74% | 2.96% | 1.75% | 78% | 🔴 4.0 | 2015~2025 (7年) |
-| [**6561**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6561.md) | 是方 | 19.10 | 5.36% | 5.46% | 4.00% | 138% | 🟡 6.0 | 2016~2025 (10年) |
-| [**6597**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6597.md) | 立誠 | 2.63 | 3.93% | 5.16% | 2.93% | 57% | 🔴 3.5 | 2018~2025 (8年) |
-| [**6613**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6613.md) | 朋億 | 14.90 | 8.14% | 10.70% | 5.57% | 87% | 🟢 8.0 | 2016~2025 (10年) |
-| [**6669**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6669.md) | 緯穎 | 74.00 | 1.60% | 5.05% | 1.55% | 58% | 🟡 7.0 | 2018~2025 (8年) |
-| [**6690**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6690.md) | 安碁資訊 | 6.00 | 3.47% | 4.18% | 2.75% | 59% | 🟢 8.5 | 2019~2025 (7年) |
-| [**6695**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6695.md) | 芯鼎 | 0.00 | 0.00% | 0.00% | 0.00% | - | 🔴 0.5 | 2019~2025 (7年) |
-| [**6720**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6720.md) | 久昌 | 3.80 | 2.99% | 3.23% | 1.99% | 84% | 🔴 5.0 | 2019~2025 (7年) |
-| [**6751**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6751.md) | 智聯服務 | 1.00 | 1.95% | 2.54% | 1.47% | 120% | 🟡 6.0 | 2020~2025 (6年) |
-| [**6757**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6757.md) | 台灣虎航 | 6.05 | 8.83% | 9.17% | 5.55% | 98% | 🔴 2.5 | 2020~2025 (6年) |
-| [**6763**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6763.md) | 綠界科技 | 1.60 | 2.71% | 3.54% | 1.96% | 16% | 🟡 6.0 | 2020~2025 (6年) |
-| [**6811**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6811.md) | 宏碁資訊 | 9.50 | 4.37% | 5.43% | 3.06% | 73% | 🟡 7.0 | 2021~2025 (5年) |
-| [**6850**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6850.md) | 光鼎生技 | 0.30 | 0.73% | 0.79% | 0.57% | - | 🔴 5.5 | 2022~2025 (4年) |
-| [**6902**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6902.md) | GOGOLOOK | 0.00 | 0.00% | 0.00% | 0.00% | - | 🔴 0.5 | 2023~2025 (3年) |
-| [**6918**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6918.md) | 愛派司 | 4.00 | 4.65% | 4.80% | 2.94% | 80% | 🔴 5.0 | 2023~2025 (3年) |
-| [**6925**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6925.md) | 意藍 | 2.00 | 2.03% | 3.33% | 1.04% | 73% | 🟡 7.0 | 2022~2025 (4年) |
-| [**7547**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-7547.md) | 碩網 | 1.35 | 1.95% | 2.06% | 0.88% | 67% | 🟡 7.0 | 2020~2025 (6年) |
-| [**7712**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-7712.md) | 博盛半導體 | 4.00 | 4.51% | 4.88% | 1.41% | 48% | 🔴 4.5 | 2023~2025 (3年) |
-| [**8016**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8016.md) | 矽創 | 12.00 | 6.67% | 7.48% | 5.12% | 78% | 🟡 6.0 | 2002~2025 (24年) |
-| [**8045**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8045.md) | 達運光電 | 1.97 | 2.28% | 3.22% | 1.29% | 80% | 🔴 4.0 | 2009~2025 (17年) |
-| [**8299**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8299.md) | 群聯 | 31.31 | 2.71% | 7.71% | 2.25% | 80% | 🟡 6.5 | 2002~2025 (24年) |
-| [**8454**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8454.md) | 富邦媒 | 12.80 | 5.90% | 6.05% | 3.25% | 95% | 🟡 7.0 | 2010~2025 (16年) |
-| [**9914**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-9914.md) | 美利達 | 4.00 | 4.36% | 4.60% | 2.09% | - | 🟡 6.0 | 1988~2025 (37年) |
-| [**9917**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-9917.md) | 中保科 | 5.20 | 4.84% | 4.95% | 4.08% | 81% | 🟡 7.0 | 1989~2025 (37年) |
-| [**9921**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-9921.md) | 巨大 | 2.20 | 2.15% | 2.44% | 1.29% | 68% | 🟢 8.0 | 1993~2025 (33年) |
-
-</div>
+<table class="sortable-table">
+<thead>
+<tr>
+<th>:identification_card: 股票代號</th>
+<th>:building_construction: 公司名稱</th>
+<th>:moneybag: 現金股利(元)</th>
+<th>:chart: 殖利率@當日價</th>
+<th>:arrow_down: 殖利率@當年度最低價</th>
+<th>:arrow_up: 殖利率@當年度最高價</th>
+<th>:repeat: 配發率</th>
+<th>:traffic_light: 穩定性</th>
+<th>:date: 資料區間</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[**2301**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2301.md)</td>
+<td>光寶科</td>
+<td>4.51</td>
+<td>2.81%</td>
+<td>6.39%</td>
+<td>2.29%</td>
+<td>87%</td>
+<td>🟡 7.5</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2303**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2303.md)</td>
+<td>聯電</td>
+<td>2.85</td>
+<td>5.78%</td>
+<td>7.22%</td>
+<td>5.70%</td>
+<td>75%</td>
+<td>🟡 6.5</td>
+<td>1984~2025 (41年)</td>
+</tr>
+<tr>
+<td>[**2308**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2308.md)</td>
+<td>台達電</td>
+<td>7.00</td>
+<td>0.72%</td>
+<td>2.55%</td>
+<td>0.65%</td>
+<td>52%</td>
+<td>🟡 7.0</td>
+<td>1984~2025 (42年)</td>
+</tr>
+<tr>
+<td>[**2317**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2317.md)</td>
+<td>鴻海</td>
+<td>5.80</td>
+<td>2.50%</td>
+<td>5.16%</td>
+<td>2.19%</td>
+<td>53%</td>
+<td>🟢 8.0</td>
+<td>1989~2025 (37年)</td>
+</tr>
+<tr>
+<td>[**2324**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2324.md)</td>
+<td>仁寶</td>
+<td>1.40</td>
+<td>4.58%</td>
+<td>5.91%</td>
+<td>3.52%</td>
+<td>61%</td>
+<td>🟡 7.0</td>
+<td>1990~2025 (36年)</td>
+</tr>
+<tr>
+<td>[**2330**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2330.md)</td>
+<td>台積電</td>
+<td>19.00</td>
+<td>1.27%</td>
+<td>2.44%</td>
+<td>1.25%</td>
+<td>42%</td>
+<td>🟡 7.5</td>
+<td>1992~2025 (34年)</td>
+</tr>
+<tr>
+<td>[**2332**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2332.md)</td>
+<td>友訊</td>
+<td>0.10</td>
+<td>0.62%</td>
+<td>0.71%</td>
+<td>0.39%</td>
+<td>167%</td>
+<td>🔴 4.5</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2345**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2345.md)</td>
+<td>智邦</td>
+<td>11.00</td>
+<td>1.13%</td>
+<td>2.56%</td>
+<td>0.93%</td>
+<td>51%</td>
+<td>🟡 7.0</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2347**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2347.md)</td>
+<td>聯強</td>
+<td>4.00</td>
+<td>6.59%</td>
+<td>7.33%</td>
+<td>5.25%</td>
+<td>72%</td>
+<td>🟢 8.0</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2353**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2353.md)</td>
+<td>宏碁</td>
+<td>1.70</td>
+<td>6.37%</td>
+<td>6.37%</td>
+<td>4.15%</td>
+<td>92%</td>
+<td>🟡 6.0</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2354**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2354.md)</td>
+<td>鴻準</td>
+<td>1.40</td>
+<td>2.13%</td>
+<td>2.99%</td>
+<td>1.75%</td>
+<td>55%</td>
+<td>🟡 6.5</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2356**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2356.md)</td>
+<td>英業達</td>
+<td>1.70</td>
+<td>3.59%</td>
+<td>5.11%</td>
+<td>3.17%</td>
+<td>84%</td>
+<td>🔴 5.5</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2357**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2357.md)</td>
+<td>華碩</td>
+<td>34.00</td>
+<td>5.65%</td>
+<td>7.71%</td>
+<td>4.56%</td>
+<td>80%</td>
+<td>🟡 6.0</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2359**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2359.md)</td>
+<td>所羅門</td>
+<td>1.00</td>
+<td>0.74%</td>
+<td>0.95%</td>
+<td>0.57%</td>
+<td>119%</td>
+<td>🔴 4.0</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2376**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2376.md)</td>
+<td>技嘉</td>
+<td>10.00</td>
+<td>4.07%</td>
+<td>5.56%</td>
+<td>3.15%</td>
+<td>66%</td>
+<td>🟡 6.0</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2377**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2377.md)</td>
+<td>微星</td>
+<td>5.00</td>
+<td>4.95%</td>
+<td>5.01%</td>
+<td>2.38%</td>
+<td>62%</td>
+<td>🟡 6.5</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2379**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2379.md)</td>
+<td>瑞昱</td>
+<td>25.50</td>
+<td>4.78%</td>
+<td>5.90%</td>
+<td>4.30%</td>
+<td>86%</td>
+<td>🔴 5.5</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2382**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2382.md)</td>
+<td>廣達</td>
+<td>13.00</td>
+<td>4.37%</td>
+<td>7.47%</td>
+<td>4.14%</td>
+<td>84%</td>
+<td>🔴 5.5</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2383**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2383.md)</td>
+<td>台光電</td>
+<td>16.58</td>
+<td>1.12%</td>
+<td>4.07%</td>
+<td>1.06%</td>
+<td>60%</td>
+<td>🟡 7.5</td>
+<td>1993~2025 (33年)</td>
+</tr>
+<tr>
+<td>[**2395**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2395.md)</td>
+<td>研華</td>
+<td>8.39</td>
+<td>2.93%</td>
+<td>3.07%</td>
+<td>1.97%</td>
+<td>80%</td>
+<td>🟡 7.5</td>
+<td>1997~2025 (29年)</td>
+</tr>
+<tr>
+<td>[**2405**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2405.md)</td>
+<td>輔信</td>
+<td>0.17</td>
+<td>0.97%</td>
+<td>1.21%</td>
+<td>0.72%</td>
+<td>567%</td>
+<td>🔴 0.0</td>
+<td>1994~2025 (32年)</td>
+</tr>
+<tr>
+<td>[**2412**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2412.md)</td>
+<td>中華電</td>
+<td>5.00</td>
+<td>3.86%</td>
+<td>4.10%</td>
+<td>3.62%</td>
+<td>104%</td>
+<td>🟡 7.5</td>
+<td>1998~2025 (28年)</td>
+</tr>
+<tr>
+<td>[**2449**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2449.md)</td>
+<td>京元電子</td>
+<td>4.00</td>
+<td>1.75%</td>
+<td>5.71%</td>
+<td>1.72%</td>
+<td>63%</td>
+<td>🟡 6.5</td>
+<td>1998~2025 (28年)</td>
+</tr>
+<tr>
+<td>[**2450**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2450.md)</td>
+<td>神腦</td>
+<td>1.65</td>
+<td>5.70%</td>
+<td>5.84%</td>
+<td>4.76%</td>
+<td>89%</td>
+<td>🟡 6.0</td>
+<td>1997~2025 (29年)</td>
+</tr>
+<tr>
+<td>[**2451**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2451.md)</td>
+<td>創見</td>
+<td>6.09</td>
+<td>3.36%</td>
+<td>7.76%</td>
+<td>2.82%</td>
+<td>113%</td>
+<td>🟡 6.5</td>
+<td>1998~2025 (28年)</td>
+</tr>
+<tr>
+<td>[**2454**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2454.md)</td>
+<td>聯發科</td>
+<td>54.00</td>
+<td>3.75%</td>
+<td>4.78%</td>
+<td>3.43%</td>
+<td>81%</td>
+<td>🔴 5.5</td>
+<td>2000~2025 (26年)</td>
+</tr>
+<tr>
+<td>[**2458**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2458.md)</td>
+<td>義隆</td>
+<td>6.41</td>
+<td>4.99%</td>
+<td>6.38%</td>
+<td>3.84%</td>
+<td>67%</td>
+<td>🟡 6.0</td>
+<td>1998~2025 (28年)</td>
+</tr>
+<tr>
+<td>[**2474**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2474.md)</td>
+<td>可成</td>
+<td>8.33</td>
+<td>8.52%</td>
+<td>9.46%</td>
+<td>7.29%</td>
+<td>43%</td>
+<td>🟡 7.0</td>
+<td>1996~2025 (30年)</td>
+</tr>
+<tr>
+<td>[**2480**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2480.md)</td>
+<td>敦陽科</td>
+<td>7.42</td>
+<td>4.95%</td>
+<td>6.32%</td>
+<td>4.01%</td>
+<td>99%</td>
+<td>🟡 6.0</td>
+<td>1998~2025 (28年)</td>
+</tr>
+<tr>
+<td>[**2603**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2603.md)</td>
+<td>長榮</td>
+<td>32.50</td>
+<td>18.10%</td>
+<td>19.00%</td>
+<td>12.30%</td>
+<td>50%</td>
+<td>🔴 5.5</td>
+<td>1985~2025 (40年)</td>
+</tr>
+<tr>
+<td>[**2646**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2646.md)</td>
+<td>星宇航空</td>
+<td>0.00</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0%</td>
+<td>🔴 0.5</td>
+<td>2023~2025 (3年)</td>
+</tr>
+<tr>
+<td>[**3014**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3014.md)</td>
+<td>聯陽</td>
+<td>9.00</td>
+<td>7.59%</td>
+<td>8.37%</td>
+<td>5.49%</td>
+<td>89%</td>
+<td>🔴 5.5</td>
+<td>2000~2025 (26年)</td>
+</tr>
+<tr>
+<td>[**3022**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3022.md)</td>
+<td>威強電</td>
+<td>4.50</td>
+<td>6.79%</td>
+<td>7.26%</td>
+<td>3.69%</td>
+<td>52%</td>
+<td>🟡 7.0</td>
+<td>1999~2025 (27年)</td>
+</tr>
+<tr>
+<td>[**3026**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3026.md)</td>
+<td>禾伸堂</td>
+<td>5.50</td>
+<td>5.24%</td>
+<td>7.67%</td>
+<td>4.35%</td>
+<td>94%</td>
+<td>🔴 5.5</td>
+<td>1995~2025 (30年)</td>
+</tr>
+<tr>
+<td>[**3029**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3029.md)</td>
+<td>零壹</td>
+<td>5.00</td>
+<td>4.27%</td>
+<td>5.29%</td>
+<td>3.05%</td>
+<td>95%</td>
+<td>🟡 6.5</td>
+<td>1999~2025 (27年)</td>
+</tr>
+<tr>
+<td>[**3034**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3034.md)</td>
+<td>聯詠</td>
+<td>28.00</td>
+<td>7.27%</td>
+<td>7.61%</td>
+<td>4.96%</td>
+<td>84%</td>
+<td>🟡 6.5</td>
+<td>1999~2025 (27年)</td>
+</tr>
+<tr>
+<td>[**3035**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3035.md)</td>
+<td>智原</td>
+<td>3.00</td>
+<td>1.74%</td>
+<td>2.01%</td>
+<td>1.14%</td>
+<td>74%</td>
+<td>🟢 8.0</td>
+<td>1998~2025 (28年)</td>
+</tr>
+<tr>
+<td>[**3045**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3045.md)</td>
+<td>台灣大</td>
+<td>4.50</td>
+<td>4.29%</td>
+<td>4.29%</td>
+<td>3.73%</td>
+<td>98%</td>
+<td>🟡 6.5</td>
+<td>1998~2025 (28年)</td>
+</tr>
+<tr>
+<td>[**3048**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3048.md)</td>
+<td>益登</td>
+<td>0.00</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>-</td>
+<td>🔴 4.0</td>
+<td>2000~2025 (26年)</td>
+</tr>
+<tr>
+<td>[**3150**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3150.md)</td>
+<td>鈺寶-創</td>
+<td>1.00</td>
+<td>5.21%</td>
+<td>5.87%</td>
+<td>2.54%</td>
+<td>139%</td>
+<td>🔴 3.5</td>
+<td>2011~2025 (15年)</td>
+</tr>
+<tr>
+<td>[**3158**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3158.md)</td>
+<td>嘉實</td>
+<td>6.00</td>
+<td>6.23%</td>
+<td>6.24%</td>
+<td>5.80%</td>
+<td>82%</td>
+<td>🟡 7.5</td>
+<td>2009~2025 (17年)</td>
+</tr>
+<tr>
+<td>[**3231**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3231.md)</td>
+<td>緯創</td>
+<td>3.80</td>
+<td>2.55%</td>
+<td>5.15%</td>
+<td>2.40%</td>
+<td>62%</td>
+<td>🟢 8.0</td>
+<td>2003~2025 (23年)</td>
+</tr>
+<tr>
+<td>[**3260**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3260.md)</td>
+<td>威剛</td>
+<td>5.12</td>
+<td>2.83%</td>
+<td>7.67%</td>
+<td>2.19%</td>
+<td>55%</td>
+<td>🟡 6.5</td>
+<td>2002~2025 (24年)</td>
+</tr>
+<tr>
+<td>[**3293**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3293.md)</td>
+<td>鈊象</td>
+<td>29.00</td>
+<td>4.03%</td>
+<td>4.35%</td>
+<td>2.90%</td>
+<td>74%</td>
+<td>🔴 5.5</td>
+<td>2004~2025 (22年)</td>
+</tr>
+<tr>
+<td>[**3356**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3356.md)</td>
+<td>奇偶</td>
+<td>4.00</td>
+<td>8.43%</td>
+<td>10.10%</td>
+<td>5.94%</td>
+<td>57%</td>
+<td>🟡 6.0</td>
+<td>2003~2025 (23年)</td>
+</tr>
+<tr>
+<td>[**3558**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3558.md)</td>
+<td>神準</td>
+<td>3.00</td>
+<td>2.04%</td>
+<td>2.37%</td>
+<td>1.15%</td>
+<td>62%</td>
+<td>🟡 7.0</td>
+<td>2007~2025 (19年)</td>
+</tr>
+<tr>
+<td>[**3661**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3661.md)</td>
+<td>世芯-KY</td>
+<td>36.48</td>
+<td>1.17%</td>
+<td>1.88%</td>
+<td>0.82%</td>
+<td>45%</td>
+<td>🟡 7.5</td>
+<td>2011~2025 (15年)</td>
+</tr>
+<tr>
+<td>[**4114**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4114.md)</td>
+<td>健喬</td>
+<td>0.60</td>
+<td>1.87%</td>
+<td>2.07%</td>
+<td>1.51%</td>
+<td>92%</td>
+<td>🟡 7.0</td>
+<td>2002~2025 (24年)</td>
+</tr>
+<tr>
+<td>[**4749**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4749.md)</td>
+<td>新應材</td>
+<td>5.99</td>
+<td>0.75%</td>
+<td>1.63%</td>
+<td>0.63%</td>
+<td>70%</td>
+<td>🟡 7.0</td>
+<td>2010~2025 (10年)</td>
+</tr>
+<tr>
+<td>[**4938**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4938.md)</td>
+<td>和碩</td>
+<td>4.50</td>
+<td>6.38%</td>
+<td>6.57%</td>
+<td>4.55%</td>
+<td>71%</td>
+<td>🟢 8.0</td>
+<td>2010~2025 (16年)</td>
+</tr>
+<tr>
+<td>[**4953**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4953.md)</td>
+<td>緯軟</td>
+<td>3.99</td>
+<td>3.05%</td>
+<td>5.18%</td>
+<td>2.96%</td>
+<td>64%</td>
+<td>🟡 7.5</td>
+<td>2011~2025 (15年)</td>
+</tr>
+<tr>
+<td>[**5203**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5203.md)</td>
+<td>訊連</td>
+<td>3.90</td>
+<td>4.16%</td>
+<td>4.58%</td>
+<td>2.69%</td>
+<td>98%</td>
+<td>🟡 6.0</td>
+<td>1999~2025 (27年)</td>
+</tr>
+<tr>
+<td>[**5269**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5269.md)</td>
+<td>祥碩</td>
+<td>30.00</td>
+<td>2.44%</td>
+<td>2.61%</td>
+<td>1.32%</td>
+<td>58%</td>
+<td>🟡 7.5</td>
+<td>2012~2025 (14年)</td>
+</tr>
+<tr>
+<td>[**5274**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5274.md)</td>
+<td>信驊</td>
+<td>52.00</td>
+<td>0.80%</td>
+<td>2.29%</td>
+<td>0.71%</td>
+<td>76%</td>
+<td>🟡 7.0</td>
+<td>2012~2025 (14年)</td>
+</tr>
+<tr>
+<td>[**5434**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5434.md)</td>
+<td>崇越</td>
+<td>11.99</td>
+<td>3.92%</td>
+<td>5.83%</td>
+<td>3.38%</td>
+<td>62%</td>
+<td>🟡 7.0</td>
+<td>1998~2025 (28年)</td>
+</tr>
+<tr>
+<td>[**5536**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5536.md)</td>
+<td>聖暉</td>
+<td>15.00</td>
+<td>2.09%</td>
+<td>5.40%</td>
+<td>1.48%</td>
+<td>71%</td>
+<td>🟢 8.0</td>
+<td>2010~2025 (16年)</td>
+</tr>
+<tr>
+<td>[**5904**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5904.md)</td>
+<td>寶雅</td>
+<td>23.00</td>
+<td>5.22%</td>
+<td>5.36%</td>
+<td>4.32%</td>
+<td>86%</td>
+<td>🔴 5.5</td>
+<td>2000~2025 (26年)</td>
+</tr>
+<tr>
+<td>[**6035**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6035.md)</td>
+<td>悠遊卡</td>
+<td>2.95</td>
+<td>4.45%</td>
+<td>4.84%</td>
+<td>3.98%</td>
+<td>-</td>
+<td>🔴 4.0</td>
+<td>2023~2025 (3年)</td>
+</tr>
+<tr>
+<td>[**6123**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6123.md)</td>
+<td>上奇</td>
+<td>4.05</td>
+<td>8.10%</td>
+<td>8.30%</td>
+<td>6.38%</td>
+<td>111%</td>
+<td>🟡 6.5</td>
+<td>1999~2025 (26年)</td>
+</tr>
+<tr>
+<td>[**6125**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6125.md)</td>
+<td>廣運</td>
+<td>0.70</td>
+<td>1.09%</td>
+<td>1.40%</td>
+<td>0.67%</td>
+<td>-</td>
+<td>🟡 6.5</td>
+<td>2000~2025 (26年)</td>
+</tr>
+<tr>
+<td>[**6182**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6182.md)</td>
+<td>合晶</td>
+<td>0.00</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>-</td>
+<td>🔴 3.5</td>
+<td>2000~2025 (26年)</td>
+</tr>
+<tr>
+<td>[**6214**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6214.md)</td>
+<td>精誠</td>
+<td>5.20</td>
+<td>4.26%</td>
+<td>5.28%</td>
+<td>3.44%</td>
+<td>67%</td>
+<td>🟡 6.5</td>
+<td>1998~2025 (28年)</td>
+</tr>
+<tr>
+<td>[**6231**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6231.md)</td>
+<td>系微</td>
+<td>6.50</td>
+<td>3.09%</td>
+<td>3.39%</td>
+<td>1.44%</td>
+<td>81%</td>
+<td>🔴 5.5</td>
+<td>2000~2025 (26年)</td>
+</tr>
+<tr>
+<td>[**6285**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6285.md)</td>
+<td>啟碁</td>
+<td>4.80</td>
+<td>4.62%</td>
+<td>5.00%</td>
+<td>2.94%</td>
+<td>66%</td>
+<td>🟢 8.0</td>
+<td>2001~2025 (25年)</td>
+</tr>
+<tr>
+<td>[**6425**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6425.md)</td>
+<td>易發</td>
+<td>1.00</td>
+<td>1.25%</td>
+<td>2.67%</td>
+<td>1.21%</td>
+<td>145%</td>
+<td>🔴 5.0</td>
+<td>2013~2025 (13年)</td>
+</tr>
+<tr>
+<td>[**6442**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6442.md)</td>
+<td>光聖</td>
+<td>8.62</td>
+<td>0.72%</td>
+<td>2.94%</td>
+<td>0.63%</td>
+<td>60%</td>
+<td>🟡 7.5</td>
+<td>2014~2025 (12年)</td>
+</tr>
+<tr>
+<td>[**6462**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6462.md)</td>
+<td>神盾</td>
+<td>0.00</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>-</td>
+<td>🔴 2.0</td>
+<td>2014~2025 (12年)</td>
+</tr>
+<tr>
+<td>[**6506**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6506.md)</td>
+<td>雙邦</td>
+<td>0.80</td>
+<td>5.08%</td>
+<td>6.30%</td>
+<td>4.53%</td>
+<td>108%</td>
+<td>🔴 5.0</td>
+<td>2000~2025 (26年)</td>
+</tr>
+<tr>
+<td>[**6510**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6510.md)</td>
+<td>精測</td>
+<td>7.80</td>
+<td>0.41%</td>
+<td>1.60%</td>
+<td>0.38%</td>
+<td>50%</td>
+<td>🟢 8.0</td>
+<td>2014~2025 (12年)</td>
+</tr>
+<tr>
+<td>[**6526**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6526.md)</td>
+<td>達發</td>
+<td>12.50</td>
+<td>2.74%</td>
+<td>2.96%</td>
+<td>1.75%</td>
+<td>78%</td>
+<td>🔴 4.0</td>
+<td>2015~2025 (7年)</td>
+</tr>
+<tr>
+<td>[**6561**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6561.md)</td>
+<td>是方</td>
+<td>19.10</td>
+<td>5.36%</td>
+<td>5.46%</td>
+<td>4.00%</td>
+<td>138%</td>
+<td>🟡 6.0</td>
+<td>2016~2025 (10年)</td>
+</tr>
+<tr>
+<td>[**6597**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6597.md)</td>
+<td>立誠</td>
+<td>2.63</td>
+<td>3.93%</td>
+<td>5.16%</td>
+<td>2.93%</td>
+<td>57%</td>
+<td>🔴 3.5</td>
+<td>2018~2025 (8年)</td>
+</tr>
+<tr>
+<td>[**6613**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6613.md)</td>
+<td>朋億</td>
+<td>14.90</td>
+<td>8.14%</td>
+<td>10.70%</td>
+<td>5.57%</td>
+<td>87%</td>
+<td>🟢 8.0</td>
+<td>2016~2025 (10年)</td>
+</tr>
+<tr>
+<td>[**6669**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6669.md)</td>
+<td>緯穎</td>
+<td>74.00</td>
+<td>1.60%</td>
+<td>5.05%</td>
+<td>1.55%</td>
+<td>58%</td>
+<td>🟡 7.0</td>
+<td>2018~2025 (8年)</td>
+</tr>
+<tr>
+<td>[**6690**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6690.md)</td>
+<td>安碁資訊</td>
+<td>6.00</td>
+<td>3.47%</td>
+<td>4.18%</td>
+<td>2.75%</td>
+<td>59%</td>
+<td>🟢 8.5</td>
+<td>2019~2025 (7年)</td>
+</tr>
+<tr>
+<td>[**6695**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6695.md)</td>
+<td>芯鼎</td>
+<td>0.00</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>-</td>
+<td>🔴 0.5</td>
+<td>2019~2025 (7年)</td>
+</tr>
+<tr>
+<td>[**6720**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6720.md)</td>
+<td>久昌</td>
+<td>3.80</td>
+<td>2.99%</td>
+<td>3.23%</td>
+<td>1.99%</td>
+<td>84%</td>
+<td>🔴 5.0</td>
+<td>2019~2025 (7年)</td>
+</tr>
+<tr>
+<td>[**6751**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6751.md)</td>
+<td>智聯服務</td>
+<td>1.00</td>
+<td>1.95%</td>
+<td>2.54%</td>
+<td>1.47%</td>
+<td>120%</td>
+<td>🟡 6.0</td>
+<td>2020~2025 (6年)</td>
+</tr>
+<tr>
+<td>[**6757**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6757.md)</td>
+<td>台灣虎航</td>
+<td>6.05</td>
+<td>8.83%</td>
+<td>9.17%</td>
+<td>5.55%</td>
+<td>98%</td>
+<td>🔴 2.5</td>
+<td>2020~2025 (6年)</td>
+</tr>
+<tr>
+<td>[**6763**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6763.md)</td>
+<td>綠界科技</td>
+<td>1.60</td>
+<td>2.71%</td>
+<td>3.54%</td>
+<td>1.96%</td>
+<td>16%</td>
+<td>🟡 6.0</td>
+<td>2020~2025 (6年)</td>
+</tr>
+<tr>
+<td>[**6811**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6811.md)</td>
+<td>宏碁資訊</td>
+<td>9.50</td>
+<td>4.37%</td>
+<td>5.43%</td>
+<td>3.06%</td>
+<td>73%</td>
+<td>🟡 7.0</td>
+<td>2021~2025 (5年)</td>
+</tr>
+<tr>
+<td>[**6850**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6850.md)</td>
+<td>光鼎生技</td>
+<td>0.30</td>
+<td>0.73%</td>
+<td>0.79%</td>
+<td>0.57%</td>
+<td>-</td>
+<td>🔴 5.5</td>
+<td>2022~2025 (4年)</td>
+</tr>
+<tr>
+<td>[**6902**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6902.md)</td>
+<td>GOGOLOOK</td>
+<td>0.00</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>-</td>
+<td>🔴 0.5</td>
+<td>2023~2025 (3年)</td>
+</tr>
+<tr>
+<td>[**6918**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6918.md)</td>
+<td>愛派司</td>
+<td>4.00</td>
+<td>4.65%</td>
+<td>4.80%</td>
+<td>2.94%</td>
+<td>80%</td>
+<td>🔴 5.0</td>
+<td>2023~2025 (3年)</td>
+</tr>
+<tr>
+<td>[**6925**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6925.md)</td>
+<td>意藍</td>
+<td>2.00</td>
+<td>2.03%</td>
+<td>3.33%</td>
+<td>1.04%</td>
+<td>73%</td>
+<td>🟡 7.0</td>
+<td>2022~2025 (4年)</td>
+</tr>
+<tr>
+<td>[**7547**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-7547.md)</td>
+<td>碩網</td>
+<td>1.35</td>
+<td>1.95%</td>
+<td>2.06%</td>
+<td>0.88%</td>
+<td>67%</td>
+<td>🟡 7.0</td>
+<td>2020~2025 (6年)</td>
+</tr>
+<tr>
+<td>[**7712**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-7712.md)</td>
+<td>博盛半導體</td>
+<td>4.00</td>
+<td>4.51%</td>
+<td>4.88%</td>
+<td>1.41%</td>
+<td>48%</td>
+<td>🔴 4.5</td>
+<td>2023~2025 (3年)</td>
+</tr>
+<tr>
+<td>[**8016**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8016.md)</td>
+<td>矽創</td>
+<td>12.00</td>
+<td>6.67%</td>
+<td>7.48%</td>
+<td>5.12%</td>
+<td>78%</td>
+<td>🟡 6.0</td>
+<td>2002~2025 (24年)</td>
+</tr>
+<tr>
+<td>[**8045**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8045.md)</td>
+<td>達運光電</td>
+<td>1.97</td>
+<td>2.28%</td>
+<td>3.22%</td>
+<td>1.29%</td>
+<td>80%</td>
+<td>🔴 4.0</td>
+<td>2009~2025 (17年)</td>
+</tr>
+<tr>
+<td>[**8299**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8299.md)</td>
+<td>群聯</td>
+<td>31.31</td>
+<td>2.71%</td>
+<td>7.71%</td>
+<td>2.25%</td>
+<td>80%</td>
+<td>🟡 6.5</td>
+<td>2002~2025 (24年)</td>
+</tr>
+<tr>
+<td>[**8454**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8454.md)</td>
+<td>富邦媒</td>
+<td>12.80</td>
+<td>5.90%</td>
+<td>6.05%</td>
+<td>3.25%</td>
+<td>95%</td>
+<td>🟡 7.0</td>
+<td>2010~2025 (16年)</td>
+</tr>
+<tr>
+<td>[**9914**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-9914.md)</td>
+<td>美利達</td>
+<td>4.00</td>
+<td>4.36%</td>
+<td>4.60%</td>
+<td>2.09%</td>
+<td>-</td>
+<td>🟡 6.0</td>
+<td>1988~2025 (37年)</td>
+</tr>
+<tr>
+<td>[**9917**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-9917.md)</td>
+<td>中保科</td>
+<td>5.20</td>
+<td>4.84%</td>
+<td>4.95%</td>
+<td>4.08%</td>
+<td>81%</td>
+<td>🟡 7.0</td>
+<td>1989~2025 (37年)</td>
+</tr>
+<tr>
+<td>[**9921**](stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-9921.md)</td>
+<td>巨大</td>
+<td>2.20</td>
+<td>2.15%</td>
+<td>2.44%</td>
+<td>1.29%</td>
+<td>68%</td>
+<td>🟢 8.0</td>
+<td>1993~2025 (33年)</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -155,7 +1112,7 @@ description: 股利分配總覽報告 - 全部 117 檔股票 (有效 94 檔) - �
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2025-12-11 11:47:36
+    - **報告產生時間**: 2025-12-11 13:45:07
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)

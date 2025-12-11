@@ -14,10 +14,16 @@ draft: false
 description: 完整營收報告總覽 - 所有 117 檔股票 - 自動產生
 ---
 
+
+<style>
+.sortable-table, .sortable-table td, .sortable-table th {
+    font-size: var(--md-text-size) !important;
+}
+</style>
 # :bar_chart: 完整營收報告總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2025-12-11 11:47:10 CST  
+    **:calendar: 產生時間**: 2025-12-11 13:44:41 CST  
     **:building_construction: 處理股票總數**: 117  
     **:chart_with_upwards_trend: 報告類型**: 各股完整歷史資料
 
@@ -246,7 +252,7 @@ description: 完整營收報告總覽 - 所有 117 檔股票 - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-**產生時間**: 2025-12-11 11:47:10 CST  
+**產生時間**: 2025-12-11 13:44:41 CST  
 **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)  
 **報告版本**: Material for MkDocs 增強版 with EPS/P-E Integration (Asymmetric Statistics)  
 **處理模式**: 完整資料模式
