@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-12
+date: 2025-12-13
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 綠界科技  
     **:identification_card: 股票代號**: 6763  
-    **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-12 11:46:41 CST
+    **:calendar: 最新資料**: 2025/11  
+    **:clock3: 更新時間**: 2025-12-13 11:38:25 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+5.06</span> | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | **74** 個月 | 2019/09 至 2025/10 |
+| <span style="color: #B22222; font-weight: bold;">+10.4</span> | <span style="color: #8B0000; font-weight: bold;">+8.31</span> | **75** 個月 | 2019/09 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (綠界科技) - 非對稱分布
@@ -55,6 +55,7 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/11** | **1.55** | <span style="color: #B22222; font-weight: bold;">+10.4</span> | <span style="color: #8B0000; font-weight: bold;">+8.31</span> | **58.7** | <span style="color: #006400; font-weight: bold;">4.15</span> | <span style="color: #228B22; font-weight: bold;">14.15</span> |
 | **2025/10** | **1.44** | <span style="color: #8B0000; font-weight: bold;">+5.06</span> | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | **59.6** | <span style="color: #006400; font-weight: bold;">3.95</span> | <span style="color: #006400; font-weight: bold;">15.09</span> |
 | **2025/09** | **1.7** | <span style="color: #B22222; font-weight: bold;">+19.9</span> | <span style="color: #8B0000; font-weight: bold;">+8.45</span> | **57.8** | <span style="color: #006400; font-weight: bold;">3.75</span> | <span style="color: #006400; font-weight: bold;">15.42</span> |
 | **2025/08** | **1.36** | <span style="color: #8B0000; font-weight: bold;">+3.67</span> | <span style="color: #8B0000; font-weight: bold;">+6.88</span> | **61.1** | <span style="color: #006400; font-weight: bold;">3.55</span> | <span style="color: #006400; font-weight: bold;">17.23</span> |
@@ -224,7 +225,7 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-12 11:46:41 CST
+- **產生時間**: 2025-12-13 11:38:25 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

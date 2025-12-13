@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-12
+date: 2025-12-13
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 光聖 (6442) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 光聖  
     **:identification_card: 股票代號**: 6442  
-    **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-12 11:46:41 CST
+    **:calendar: 最新資料**: 2025/11  
+    **:clock3: 更新時間**: 2025-12-13 11:38:25 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+71.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+89.8</span> | **144** 個月 | 2013/11 至 2025/10 |
+| <span style="color: #FF6347; font-weight: bold;">+46</span> | <span style="color: #FF7F7F; font-weight: bold;">+85</span> | **145** 個月 | 2013/11 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (光聖) - 非對稱分布
@@ -55,6 +55,7 @@ description: 月營收表 光聖 (6442) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/11** | **8.1** | <span style="color: #FF6347; font-weight: bold;">+46</span> | <span style="color: #FF7F7F; font-weight: bold;">+85</span> | **1190** | <span style="color: #DC143C; font-weight: bold;">19.15</span> | <span style="color: #FF4500; font-weight: bold;">62.14</span> |
 | **2025/10** | **10.06** | <span style="color: #FF7F7F; font-weight: bold;">+71.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+89.8</span> | **939** | <span style="color: #DC143C; font-weight: bold;">18.71</span> | <span style="color: #DC143C; font-weight: bold;">50.19</span> |
 | **2025/09** | **10.45** | <span style="color: #FF7F7F; font-weight: bold;">+86</span> | <span style="color: #FF7F7F; font-weight: bold;">+92.6</span> | **793** | <span style="color: #DC143C; font-weight: bold;">18.27</span> | <span style="color: #B22222; font-weight: bold;">43.41</span> |
 | **2025/08** | **6.45** | <span style="color: #DC143C; font-weight: bold;">+21</span> | <span style="color: #FF7F7F; font-weight: bold;">+93.6</span> | **924** | <span style="color: #DC143C; font-weight: bold;">17.83</span> | <span style="color: #DC143C; font-weight: bold;">51.83</span> |
@@ -294,7 +295,7 @@ description: 月營收表 光聖 (6442) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-12 11:46:41 CST
+- **產生時間**: 2025-12-13 11:38:25 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
