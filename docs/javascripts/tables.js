@@ -83,6 +83,28 @@ document$.subscribe(function() {
         $td.html(html);
     });
 
+    // Helper to extract numeric value from mixed HTML/text
+    function parseNumeric(data) {
+        var text = $('<div>').html(data).text();
+        var cleaned = text.replace(/[^\d.+-]/g, '');
+        var num = parseFloat(cleaned);
+        return isNaN(num) ? null : num;
+    }
+
+    // Helper to convert YYYY/MM strings into sortable numbers
+    function parseYearMonth(data) {
+        var text = $('<div>').html(data).text().trim();
+        var parts = text.split('/');
+        if (parts.length === 2) {
+            var year = parseInt(parts[0], 10);
+            var month = parseInt(parts[1], 10);
+            if (!isNaN(year) && !isNaN(month)) {
+                return year * 100 + month;
+            }
+        }
+        return null;
+    }
+
     // Initialize DataTables for all sortable tables
     $('table.sortable-table').each(function() {
         // Skip if already initialized
@@ -159,15 +181,37 @@ document$.subscribe(function() {
                     }
                 },
                 {
-                    // Numeric columns - auto-detect numbers with % and other symbols
-                    targets: '_all',
+                    // Data count column
+                    targets: [2],
+                    type: 'num',
                     render: function(data, type, row) {
                         if (type === 'sort' || type === 'type') {
-                            // Strip HTML and extract the numeric part (handles +/-, %, spans with styles)
-                            var text = $('<div>').html(data).text();
-                            var cleaned = text.replace(/[^\d.+-]/g, '');
-                            var num = parseFloat(cleaned);
-                            return isNaN(num) ? data : num;
+                            var num = parseNumeric(data);
+                            return num === null ? 0 : num;
+                        }
+                        return data;
+                    }
+                },
+                {
+                    // Latest month column (YYYY/MM)
+                    targets: [3],
+                    type: 'num',
+                    render: function(data, type, row) {
+                        if (type === 'sort' || type === 'type') {
+                            var ym = parseYearMonth(data);
+                            return ym === null ? data : ym;
+                        }
+                        return data;
+                    }
+                },
+                {
+                    // Latest YoY growth column - ensure numeric sort despite styled spans
+                    targets: [4],
+                    type: 'num',
+                    render: function(data, type, row) {
+                        if (type === 'sort' || type === 'type') {
+                            var num = parseNumeric(data);
+                            return num === null ? 0 : num;
                         }
                         return data;
                     }
