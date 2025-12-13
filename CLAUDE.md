@@ -137,6 +137,14 @@ Related repositories include:
 - **Custom CSS**: Add to `docs/stylesheets/extra.css`
 - **Custom JavaScript**: Add to `docs/javascripts/` and reference in `extra_javascript`
 
+## Contributor Quickstart (shared with AGENTS.md)
+- Structure: `mkdocs.yml` drives nav/theme/plugins; content lives in `docs/` (pages, `about/`, `tag.md`), images in `docs/assets/images`, custom CSS/JS in `docs/stylesheets` and `docs/javascripts`. Blog posts go to `docs/blog/posts/` with authors in `docs/blog/.authors.yml`; reports sit under `docs/reports/*` (many auto-generated—avoid manual edits) and use DataTables logic in `docs/javascripts/tables.js`. Overrides live in `docs/overrides/`.
+- Commands: `pip install -r requirements.txt`; `mkdocs serve` for local preview; `mkdocs build --strict` before merging; `mkdocs gh-deploy` publishes (CI deploys from `main`).
+- Style: single H1 per page; YAML front matter when metadata is needed (`title`, `date`, `tags`, `categories`, `draft`, `description`); blog filenames `YYYY-MM-DD-short-title.md`; use relative links without `.md`; JS follows `docs/javascripts/tables.js` style (4-space indent, semicolons, single quotes) with `document$.subscribe`; CSS scoped in `docs/stylesheets/`.
+- Testing: run `mkdocs build --strict` to catch nav/link/front-matter issues; preview `docs/reports/*` with `mkdocs serve` and confirm DataTables initializes cleanly; skim zh-TW content to keep tone consistent with the 7-Level stack.
+- Commits/PRs: use typed subjects (`feat:`, `fix:`, `docs:`, `chore:`, `sync:`) plus an imperative summary; PRs describe scope, affected pages/assets, new front-matter fields, and include screenshots for visual changes; note whether `mkdocs build --strict` or deploy was run.
+- Security: keep secrets out of the repo; analytics uses `GOOGLE_ANALYTICS_KEY`; pin new external JS/CSS and register them in `mkdocs.yml` under `extra_javascript`/`extra_css`.
+
 ## Auto-Generated Reports Organization
 
 **Important**: The revenue and dividend reports are auto-generated from another repository and should NOT be manually edited in this repo.

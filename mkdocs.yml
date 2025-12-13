@@ -306,7 +306,14 @@ extra_css:
   # - https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.1.0/style.css  #字型
   # - https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-webfont@1.2.0/style.min.css
 # Page tree
+not_in_nav: |
+  reports/stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-*.md
+  !reports/stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-all.md
+  reports/stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-*.md
+  !reports/stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-all.md
+
 nav:
+  - 首頁: index.md
   - 部落格: blog/index.md
   - 台股總覽:
     - 台股營收總覽: reports/stage2-cleaning-revenue-report-all.md

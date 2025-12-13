@@ -1,5 +1,5 @@
 ---
-icon: material/Stacked Bar Chart
+icon: material/chart-bar-stacked
 ---
 # Wen-Chieh Lee的投資堆疊
 
@@ -9,5 +9,4 @@ icon: material/Stacked Bar Chart
   ![Investment Stack Vision](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/wenchiehlee/mkdocs-investment/main/docs/InvestmentStackVision.planuml)
   <figcaption>Figure 1 Investment Stack Vision</figcaption>
 </figure>
-
 
