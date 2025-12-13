@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-12
+date: 2025-12-13
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 台灣精材  
     **:identification_card: 股票代號**: 3467  
-    **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-12 11:46:41 CST
+    **:calendar: 最新資料**: 2025/11  
+    **:clock3: 更新時間**: 2025-12-13 11:38:25 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-0.63</span> | <span style="color: #002818; font-weight: bold;">-0.79</span> | **27** 個月 | 2023/08 至 2025/10 |
+| <span style="color: #002818; font-weight: bold;">-2.93</span> | <span style="color: #002818; font-weight: bold;">-0.99</span> | **28** 個月 | 2023/08 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (台灣精材) - 非對稱分布
@@ -55,6 +55,7 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/11** | **0.516** | <span style="color: #002818; font-weight: bold;">-2.93</span> | <span style="color: #002818; font-weight: bold;">-0.99</span> | **37.2** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #006400; font-weight: bold;">51.67</span> |
 | **2025/10** | **0.501** | <span style="color: #002818; font-weight: bold;">-0.63</span> | <span style="color: #002818; font-weight: bold;">-0.79</span> | **41.1** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #004225; font-weight: bold;">57.08</span> |
 | **2025/09** | **0.492** | <span style="color: #002818; font-weight: bold;">-5.89</span> | <span style="color: #002818; font-weight: bold;">-0.8</span> | **45** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #004225; font-weight: bold;">62.5</span> |
 | **2025/08** | **0.507** | <span style="color: #002818; font-weight: bold;">-1.36</span> | <span style="color: #002818; font-weight: bold;">-0.16</span> | **50.4** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #8B0000; font-weight: bold;">70.0</span> |
@@ -177,7 +178,7 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-12 11:46:41 CST
+- **產生時間**: 2025-12-13 11:38:25 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

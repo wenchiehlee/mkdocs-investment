@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-12
+date: 2025-12-13
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 富邦媒  
     **:identification_card: 股票代號**: 8454  
-    **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-12 11:46:41 CST
+    **:calendar: 最新資料**: 2025/11  
+    **:clock3: 更新時間**: 2025-12-13 11:38:25 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-4.37</span> | <span style="color: #002818; font-weight: bold;">-2.81</span> | **143** 個月 | 2013/12 至 2025/10 |
+| <span style="color: #002818; font-weight: bold;">-5.73</span> | <span style="color: #002818; font-weight: bold;">-3.25</span> | **144** 個月 | 2013/12 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (富邦媒) - 非對稱分布
@@ -55,6 +55,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/11** | **146.8** | <span style="color: #002818; font-weight: bold;">-5.73</span> | <span style="color: #002818; font-weight: bold;">-3.25</span> | **227** | <span style="color: #8B0000; font-weight: bold;">12.14</span> | <span style="color: #228B22; font-weight: bold;">18.7</span> |
 | **2025/10** | **77.99** | <span style="color: #002818; font-weight: bold;">-4.37</span> | <span style="color: #002818; font-weight: bold;">-2.81</span> | **233.5** | <span style="color: #8B0000; font-weight: bold;">12.28</span> | <span style="color: #228B22; font-weight: bold;">19.01</span> |
 | **2025/09** | **79.38** | <span style="color: #002818; font-weight: bold;">-3.72</span> | <span style="color: #002818; font-weight: bold;">-2.65</span> | **241.5** | <span style="color: #8B0000; font-weight: bold;">12.42</span> | <span style="color: #228B22; font-weight: bold;">19.44</span> |
 | **2025/08** | **84.88** | <span style="color: #002818; font-weight: bold;">-3.12</span> | <span style="color: #002818; font-weight: bold;">-2.52</span> | **253** | <span style="color: #8B0000; font-weight: bold;">12.56</span> | <span style="color: #006400; font-weight: bold;">20.14</span> |
@@ -293,7 +294,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-12 11:46:41 CST
+- **產生時間**: 2025-12-13 11:38:25 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

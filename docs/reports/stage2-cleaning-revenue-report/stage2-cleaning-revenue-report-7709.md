@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-12
+date: 2025-12-13
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 榮田 (7709) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 榮田  
     **:identification_card: 股票代號**: 7709  
-    **:calendar: 最新資料**: 2025/10  
-    **:clock3: 更新時間**: 2025-12-12 11:46:41 CST
+    **:calendar: 最新資料**: 2025/11  
+    **:clock3: 更新時間**: 2025-12-13 11:38:25 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #32CD32; font-weight: bold;">-43.6</span> | <span style="color: #228B22; font-weight: bold;">-38.2</span> | **26** 個月 | 2023/09 至 2025/10 |
+| <span style="color: #006400; font-weight: bold;">-23.7</span> | <span style="color: #228B22; font-weight: bold;">-36.8</span> | **27** 個月 | 2023/09 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (榮田) - 非對稱分布
@@ -55,6 +55,7 @@ description: 月營收表 榮田 (7709) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/11** | **0.935** | <span style="color: #006400; font-weight: bold;">-23.7</span> | <span style="color: #228B22; font-weight: bold;">-36.8</span> | **37.5** | <span style="color: #004225; font-weight: bold;">2.3</span> | <span style="color: #006400; font-weight: bold;">16.3</span> |
 | **2025/10** | **0.687** | <span style="color: #32CD32; font-weight: bold;">-43.6</span> | <span style="color: #228B22; font-weight: bold;">-38.2</span> | **38.95** | <span style="color: #004225; font-weight: bold;">2.3</span> | <span style="color: #004225; font-weight: bold;">16.93</span> |
 | **2025/09** | **0.896** | <span style="color: #90EE90; font-weight: bold;">-69.8</span> | <span style="color: #228B22; font-weight: bold;">-37.6</span> | **37.65** | <span style="color: #004225; font-weight: bold;">2.3</span> | <span style="color: #006400; font-weight: bold;">16.37</span> |
 | **2025/08** | **0.413** | <span style="color: #004225; font-weight: bold;">-13.7</span> | <span style="color: #006400; font-weight: bold;">-24.8</span> | **39** | <span style="color: #004225; font-weight: bold;">2.3</span> | <span style="color: #004225; font-weight: bold;">16.96</span> |
@@ -176,7 +177,7 @@ description: 月營收表 榮田 (7709) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-12 11:46:41 CST
+- **產生時間**: 2025-12-13 11:38:25 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
