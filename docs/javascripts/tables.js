@@ -163,8 +163,9 @@ document$.subscribe(function() {
                     targets: '_all',
                     render: function(data, type, row) {
                         if (type === 'sort' || type === 'type') {
-                            // Extract numeric value for sorting
-                            var num = parseFloat(data.toString().replace(/[^0-9.-]/g, ''));
+                            // Extract first numeric token only; ignore hex values in style attributes
+                            var match = data.toString().match(/-?\d+(?:\.\d+)?/);
+                            var num = match ? parseFloat(match[0]) : NaN;
                             return isNaN(num) ? data : num;
                         }
                         return data;
