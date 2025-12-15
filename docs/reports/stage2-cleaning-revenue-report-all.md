@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-14
+date: 2025-12-15
 categories:
   - 股票
   - 月營收
@@ -23,7 +23,7 @@ description: 完整營收報告總覽 - 所有 117 檔股票 - 自動產生
 # :bar_chart: 完整營收報告總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2025-12-14 11:49:26 CST  
+    **:calendar: 產生時間**: 2025-12-15 11:54:59 CST  
     **:building_construction: 處理股票總數**: 117  
     **:chart_with_upwards_trend: 報告類型**: 各股完整歷史資料
 
@@ -102,7 +102,7 @@ description: 完整營收報告總覽 - 所有 117 檔股票 - 自動產生
 | [**3026**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3026/) | 禾伸堂 | **238** | 2025/11 | <span style="color: #8B0000; font-weight: bold;">+1.15</span> | 2005/12 ~ 2025/11 |
 | [**3029**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3029/) | 零壹 | **240** | 2025/11 | <span style="color: #8B0000; font-weight: bold;">+1.86</span> | 2005/12 ~ 2025/11 |
 | [**3034**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3034/) | 聯詠 | **240** | 2025/11 | <span style="color: #002818; font-weight: bold;">-7.23</span> | 2005/12 ~ 2025/11 |
-| [**3035**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3035/) | 智原 | **240** | 2025/11 | <span style="color: #B22222; font-weight: bold;">+10.4</span> | 2005/12 ~ 2025/11 |
+| [**3035**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3035/) | 智原 | **40** | 2025/11 | <span style="color: #B22222; font-weight: bold;">+10.4</span> | 2022/08 ~ 2025/11 |
 | [**3045**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3045/) | 台灣大 | **240** | 2025/11 | <span style="color: #8B0000; font-weight: bold;">+0.2</span> | 2005/12 ~ 2025/11 |
 | [**3048**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3048/) | 益登 | **240** | 2025/11 | <span style="color: #002818; font-weight: bold;">-2.97</span> | 2005/12 ~ 2025/11 |
 | [**3150**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3150/) | 鈺寶-創 | **184** | 2025/11 | <span style="color: #228B22; font-weight: bold;">-30.1</span> | 2010/08 ~ 2025/11 |
@@ -252,7 +252,7 @@ description: 完整營收報告總覽 - 所有 117 檔股票 - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-**產生時間**: 2025-12-14 11:49:26 CST  
+**產生時間**: 2025-12-15 11:54:59 CST  
 **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)  
 **報告版本**: Material for MkDocs 增強版 with EPS/P-E Integration (Asymmetric Statistics)  
 **處理模式**: 完整資料模式
