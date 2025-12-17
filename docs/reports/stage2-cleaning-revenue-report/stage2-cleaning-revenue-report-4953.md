@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-16
+date: 2025-12-17
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 緯軟 (4953) - 自動產生
     **:building_construction: 公司名稱**: 緯軟  
     **:identification_card: 股票代號**: 4953  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-16 11:47:34 CST
+    **:clock3: 更新時間**: 2025-12-17 11:44:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -336,7 +336,7 @@ description: 月營收表 緯軟 (4953) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-16 11:47:34 CST
+- **產生時間**: 2025-12-17 11:44:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
