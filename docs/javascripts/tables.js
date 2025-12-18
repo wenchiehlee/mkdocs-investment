@@ -170,11 +170,11 @@ document$.subscribe(function() {
                     return data;
                 }
             });
-        } else if (columnCount === 9) {
-            // Dividend report: 9 columns (股票代號, 公司名稱, 現金股利, 殖利率@當日價, 殖利率@最低價, 殖利率@最高價, 配發率, 穩定性, 資料區間)
+        } else if (columnCount === 10) {
+            // Dividend report: 10 columns (股票代號, 公司名稱, 現金股利, 殖利率@當日價, 當日價時間, 殖利率@最低價, 殖利率@最高價, 配發率, 穩定性, 資料區間)
             columnDefs.push({
-                // Numeric/percentage columns: 現金股利 (col 2), 殖利率@最低價 (col 4), 殖利率@最高價 (col 5), 配發率 (col 6)
-                targets: [2, 4, 5, 6],
+                // Numeric/percentage columns: 現金股利 (col 2), 殖利率@最低價 (col 5), 殖利率@最高價 (col 6), 配發率 (col 7)
+                targets: [2, 5, 6, 7],
                 type: 'num',
                 render: function(data, type, row) {
                     if (type === 'sort' || type === 'type') {
@@ -197,8 +197,13 @@ document$.subscribe(function() {
                 }
             });
             columnDefs.push({
-                // Stability score column: 穩定性 (col 7) - extract numeric value from emoji prefix
-                targets: [7],
+                // Timestamp column: 當日價時間 (col 4) - sort as string (MM/DD HH:MM format)
+                targets: [4],
+                type: 'string'
+            });
+            columnDefs.push({
+                // Stability score column: 穩定性 (col 8) - extract numeric value from emoji prefix
+                targets: [8],
                 type: 'num',
                 render: function(data, type, row) {
                     if (type === 'sort' || type === 'type') {
