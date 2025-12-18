@@ -276,7 +276,7 @@ extra_javascript:
   # - javascripts/extra.js #自定義javascript
   - https://cdn.jsdelivr.net/gh/Wcowin/Wcowin.github.io@main/docs/javascripts/extra.js  # extra的cdn
   - javascripts/mathjax.js #Latex支援
-  - https://polyfill.io/v3/polyfill.min.js?features=es6 #Latex支援
+  # Removed polyfill.io (service shut down) - MathJax 3 includes necessary polyfills
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js #Latex支援
   # DataTables for sortable/filterable stock tables
   - https://code.jquery.com/jquery-3.7.1.min.js  # jQuery library
