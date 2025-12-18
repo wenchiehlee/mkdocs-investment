@@ -116,6 +116,100 @@ document$.subscribe(function() {
         var $table = $(this);
         console.log('Attempting to initialize DataTable for:', $table.attr('id') || 'unnamed table');
 
+        // Detect table type by column count
+        var columnCount = $table.find('thead th').length;
+        console.log('Table has', columnCount, 'columns');
+
+        // Build columnDefs based on table type
+        var columnDefs = [
+            {
+                // Stock code column - render Markdown links as HTML (applies to all tables)
+                targets: 0,
+                type: 'string',
+                render: function(data, type, row) {
+                    if (type === 'display' || type === 'filter') {
+                        // Regex to extract link text and URL from Markdown format [text](url)
+                        const markdownLinkRegex = /\[\*\*(.*?)\*\*\]\((.*?)\)/;
+                        const match = data.match(markdownLinkRegex);
+
+                        if (match && match.length === 3) {
+                            const linkText = match[1];
+                            const linkUrl = match[2];
+                            // Create a safe HTML anchor tag
+                            return `<a href="${linkUrl}">${linkText}</a>`;
+                        }
+                    }
+                    return data;
+                }
+            }
+        ];
+
+        if (columnCount === 6) {
+            // Revenue report: 6 columns (股票代號, 公司名稱, 資料筆數, 最新月份, 最新年增率, 資料區間)
+            columnDefs.push({
+                // Numeric columns: 資料筆數 (col 2), 最新年增率 (col 4)
+                targets: [2, 4],
+                type: 'num',
+                render: function(data, type, row) {
+                    if (type === 'sort' || type === 'type') {
+                        var num = parseNumeric(data);
+                        return num === null ? 0 : num;
+                    }
+                    return data;
+                }
+            });
+            columnDefs.push({
+                // YYYY/MM column: 最新月份 (col 3)
+                targets: [3],
+                type: 'num',
+                render: function(data, type, row) {
+                    if (type === 'sort' || type === 'type') {
+                        var ym = parseYearMonth(data);
+                        return ym !== null ? ym : 0;
+                    }
+                    return data;
+                }
+            });
+        } else if (columnCount === 9) {
+            // Dividend report: 9 columns (股票代號, 公司名稱, 現金股利, 殖利率@當日價, 殖利率@最低價, 殖利率@最高價, 配發率, 穩定性, 資料區間)
+            columnDefs.push({
+                // Numeric/percentage columns: 現金股利 (col 2), 殖利率@最低價 (col 4), 殖利率@最高價 (col 5), 配發率 (col 6)
+                targets: [2, 4, 5, 6],
+                type: 'num',
+                render: function(data, type, row) {
+                    if (type === 'sort' || type === 'type') {
+                        var num = parseNumeric(data);
+                        return num === null ? 0 : num;
+                    }
+                    return data;
+                }
+            });
+            columnDefs.push({
+                // Percentage column: 殖利率@當日價 (col 3)
+                targets: [3],
+                type: 'num',
+                render: function(data, type, row) {
+                    if (type === 'sort' || type === 'type') {
+                        var num = parseNumeric(data);
+                        return num === null ? 0 : num;
+                    }
+                    return data;
+                }
+            });
+            columnDefs.push({
+                // Stability score column: 穩定性 (col 7) - extract numeric value from emoji prefix
+                targets: [7],
+                type: 'num',
+                render: function(data, type, row) {
+                    if (type === 'sort' || type === 'type') {
+                        var num = parseNumeric(data);
+                        return num === null ? 0 : num;
+                    }
+                    return data;
+                }
+            });
+        }
+
         // DataTables configuration
         $table.DataTable({
             // Pagination
@@ -158,57 +252,8 @@ document$.subscribe(function() {
                 }
             },
 
-            // Column definitions for better sorting
-            columnDefs: [
-                {
-                    // Stock code column - render Markdown links as HTML
-                    targets: 0,
-                    type: 'string',
-                    render: function(data, type, row) {
-                        if (type === 'display' || type === 'filter') {
-                            // Regex to extract link text and URL from Markdown format [text](url)
-                            const markdownLinkRegex = /\[\*\*(.*?)\*\*\]\((.*?)\)/;
-                            const match = data.match(markdownLinkRegex);
-
-                            if (match && match.length === 3) {
-                                const linkText = match[1];
-                                const linkUrl = match[2];
-                                // Create a safe HTML anchor tag
-                                return `<a href="${linkUrl}">${linkText}</a>`;
-                            }
-                        }
-                        return data;
-                    }
-                },
-                {
-                    // Numeric columns (revenue: count/YoY; dividend: amounts/percentages)
-                    targets: [2, 4, 5, 6],
-                    type: 'num',
-                    render: function(data, type, row) {
-                        if (type === 'sort' || type === 'type') {
-                            var num = parseNumeric(data);
-                            return num === null ? 0 : num;
-                        }
-                        return data;
-                    }
-                },
-                {
-                    // Column 3: YYYY/MM (revenue) or percentage (dividend)
-                    targets: [3],
-                    type: 'num',
-                    render: function(data, type, row) {
-                        if (type === 'sort' || type === 'type') {
-                            // Try year/month format first
-                            var ym = parseYearMonth(data);
-                            if (ym !== null) return ym;
-                            // Fall back to numeric parsing (for percentages)
-                            var num = parseNumeric(data);
-                            return num === null ? 0 : num;
-                        }
-                        return data;
-                    }
-                }
-            ],
+            // Column definitions (built dynamically based on table type)
+            columnDefs: columnDefs,
 
             // Initialization callback
             initComplete: function(settings, json) {
