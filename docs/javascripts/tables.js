@@ -181,8 +181,8 @@ document$.subscribe(function() {
                     }
                 },
                 {
-                    // Data count column
-                    targets: [2],
+                    // Numeric columns (revenue: count/YoY; dividend: amounts/percentages)
+                    targets: [2, 4, 5, 6],
                     type: 'num',
                     render: function(data, type, row) {
                         if (type === 'sort' || type === 'type') {
@@ -193,23 +193,15 @@ document$.subscribe(function() {
                     }
                 },
                 {
-                    // Latest month column (YYYY/MM)
+                    // Column 3: YYYY/MM (revenue) or percentage (dividend)
                     targets: [3],
                     type: 'num',
                     render: function(data, type, row) {
                         if (type === 'sort' || type === 'type') {
+                            // Try year/month format first
                             var ym = parseYearMonth(data);
-                            return ym === null ? data : ym;
-                        }
-                        return data;
-                    }
-                },
-                {
-                    // Latest YoY growth column - ensure numeric sort despite styled spans
-                    targets: [4],
-                    type: 'num',
-                    render: function(data, type, row) {
-                        if (type === 'sort' || type === 'type') {
+                            if (ym !== null) return ym;
+                            // Fall back to numeric parsing (for percentages)
                             var num = parseNumeric(data);
                             return num === null ? 0 : num;
                         }
