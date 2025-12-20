@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-19
+date: 2025-12-20
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 易發 (6425) - 自動產生
     **:building_construction: 公司名稱**: 易發  
     **:identification_card: 股票代號**: 6425  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-19 11:47:03 CST
+    **:clock3: 更新時間**: 2025-12-20 11:38:21 CST
 
 ## :bar_chart: 績效概覽
 
@@ -301,7 +301,7 @@ description: 月營收表 易發 (6425) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-19 11:47:03 CST
+- **產生時間**: 2025-12-20 11:38:21 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
