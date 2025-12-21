@@ -318,6 +318,8 @@ nav:
   - 台股總覽:
     - 台股營收總覽: reports/stage2-cleaning-revenue-report-all.md
     - 台股股利總覽: reports/stage2-cleaning-dividends-report-all.md
+    - 台股指數分析-未來報酬率與本益比分析總覽: reports/stage2-cleaning-market-analysis-pe-forward-return-report-tr-all.md
+    - 台股指數分析-回檔報告總覽: reports/stage2-cleaning-market-analysis-drawdown-report-tr-all.md
   - 標簽:   tag.md
   - 友鏈:   about/link.md
   - 關於:   about/index.md
