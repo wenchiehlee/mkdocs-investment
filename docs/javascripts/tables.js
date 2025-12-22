@@ -30,6 +30,7 @@ document$.subscribe(function() {
         ':trophy:': '&#x1f3c6;', // 🏆
         ':100:': '&#x1f4af;', // 💯
         ':information_source:': '&#x2139;&#xfe0f;', // ℹ️
+        ':crystal_ball:': '&#x1f52e;', // 🔮
         ':star:': '&#x2b50;', // ⭐
         ':seedling:': '&#x1f331;', // 🌱
         ':key:': '&#x1f511;', // 🔑
