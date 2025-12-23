@@ -73,7 +73,7 @@ document$.subscribe(function() {
 
         // Convert Markdown links [**text**](url) to HTML <a> tags
         // Also fix relative paths: add ../ prefix and remove .md extension
-        html = html.replace(/\[\*\*(.*?)\*\*\]\((stage2-cleaning-.*?)\)/g, function(match, text, url) {
+        html = html.replace(/\[\*\*(.*?)\*\*\]\((?:\.\.\/)?(stage2-cleaning-.*?)\)/g, function(match, text, url) {
             // Add ../ prefix for relative paths
             let fixedUrl = url.startsWith('../') ? url : '../' + url;
             // Remove .md extension (MkDocs converts .md files to directories)
