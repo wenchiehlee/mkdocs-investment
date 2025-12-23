@@ -53,6 +53,19 @@ document$.subscribe(function() {
         return newText;
     }
 
+    // Normalize report links for MkDocs pretty URLs
+    function normalizeReportLink(url) {
+        let fixedUrl = url;
+        const isExternal = /^(https?:)?\/\//.test(fixedUrl);
+        if (!isExternal && !fixedUrl.startsWith('../') && !fixedUrl.startsWith('./') && !fixedUrl.startsWith('/')) {
+            fixedUrl = '../' + fixedUrl;
+        }
+        if (/stage2-cleaning-.*\.md$/i.test(fixedUrl)) {
+            fixedUrl = fixedUrl.replace(/\.md$/i, '/');
+        }
+        return fixedUrl;
+    }
+
     // Add 'sortable-table' class to tables within '.annotate' divs that don't already have it
     $('.annotate table:not(.sortable-table)').addClass('sortable-table');
     console.log('Added sortable-table class to tables within .annotate divs that were missing it.');
@@ -74,10 +87,7 @@ document$.subscribe(function() {
         // Convert Markdown links [**text**](url) to HTML <a> tags
         // Also fix relative paths: add ../ prefix and remove .md extension
         html = html.replace(/\[\*\*(.*?)\*\*\]\((?:\.\.\/)?(stage2-cleaning-.*?)\)/g, function(match, text, url) {
-            // Add ../ prefix for relative paths
-            let fixedUrl = url.startsWith('../') ? url : '../' + url;
-            // Remove .md extension (MkDocs converts .md files to directories)
-            fixedUrl = fixedUrl.replace(/\.md$/, '/');
+            let fixedUrl = normalizeReportLink(url);
             return '<a href="' + fixedUrl + '"><strong>' + text + '</strong></a>';
         });
 
@@ -136,8 +146,9 @@ document$.subscribe(function() {
                         if (match && match.length === 3) {
                             const linkText = match[1];
                             const linkUrl = match[2];
+                            const fixedUrl = normalizeReportLink(linkUrl);
                             // Create a safe HTML anchor tag
-                            return `<a href="${linkUrl}">${linkText}</a>`;
+                            return `<a href="${fixedUrl}">${linkText}</a>`;
                         }
                     }
                     return data;
