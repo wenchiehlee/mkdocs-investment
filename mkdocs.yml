@@ -132,6 +132,7 @@ plugins:
           as_creation: date
           as_update: git
   - tags:
+      tags_file: tag.md
 # Customization
 
 extra:
