@@ -4,6 +4,7 @@ date: 2025-06-29
 categories:
   - 投資
 tags:
+  - 投資
   - 股票
   - 股票資訊分析堆疊架構
 title: 股票資訊分析堆疊架構（7-Level Stock Information Stack）
