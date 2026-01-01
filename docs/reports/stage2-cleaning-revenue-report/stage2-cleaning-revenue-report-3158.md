@@ -25,13 +25,13 @@ description: 月營收表 嘉實 (3158) - 自動產生
     **:building_construction: 公司名稱**: 嘉實  
     **:identification_card: 股票代號**: 3158  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-01 20:27:44 CST
+    **:clock3: 更新時間**: 2026-01-01 22:18:01 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+5.87</span> | <span style="color: #8B0000; font-weight: bold;">+9.48</span> | **238** 個月 | 2005/12 至 2025/11 |
+| <span style="color: #8B0000; font-weight: bold;">+5.87</span> | <span style="color: #8B0000; font-weight: bold;">+9.48</span> | **237** 個月 | 2006/01 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (嘉實) - 非對稱分布
@@ -292,7 +292,6 @@ description: 月營收表 嘉實 (3158) - 自動產生
 | **2006/03** | **-** | N/A | N/A | **-** | N/A | N/A |
 | **2006/02** | **-** | N/A | N/A | **-** | N/A | N/A |
 | **2006/01** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2005/12** | **-** | N/A | N/A | **-** | N/A | N/A |
 
 </div>
 
@@ -388,7 +387,7 @@ description: 月營收表 嘉實 (3158) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-01 20:27:44 CST
+- **產生時間**: 2026-01-01 22:18:01 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

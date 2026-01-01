@@ -25,13 +25,13 @@ description: 月營收表 群聯 (8299) - 自動產生
     **:building_construction: 公司名稱**: 群聯  
     **:identification_card: 股票代號**: 8299  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-01 20:27:44 CST
+    **:clock3: 更新時間**: 2026-01-01 22:18:01 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+62</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **240** 個月 | 2005/12 至 2025/11 |
+| <span style="color: #FF7F7F; font-weight: bold;">+62</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **239** 個月 | 2006/01 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (群聯) - 非對稱分布
@@ -294,7 +294,6 @@ description: 月營收表 群聯 (8299) - 自動產生
 | **2006/03** | **-** | N/A | N/A | **165** | <span style="color: #006400; font-weight: bold;">12.98</span> | <span style="color: #004225; font-weight: bold;">12.72</span> |
 | **2006/02** | **-** | N/A | N/A | **150** | <span style="color: #006400; font-weight: bold;">12.73</span> | <span style="color: #004225; font-weight: bold;">11.78</span> |
 | **2006/01** | **-** | N/A | N/A | **145** | <span style="color: #006400; font-weight: bold;">12.49</span> | <span style="color: #004225; font-weight: bold;">11.61</span> |
-| **2005/12** | **-** | N/A | N/A | **142** | <span style="color: #006400; font-weight: bold;">12.25</span> | <span style="color: #004225; font-weight: bold;">11.59</span> |
 
 </div>
 
@@ -390,7 +389,7 @@ description: 月營收表 群聯 (8299) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-01 20:27:44 CST
+- **產生時間**: 2026-01-01 22:18:01 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -25,13 +25,13 @@ description: 月營收表 微星 (2377) - 自動產生
     **:building_construction: 公司名稱**: 微星  
     **:identification_card: 股票代號**: 2377  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-01 20:27:44 CST
+    **:clock3: 更新時間**: 2026-01-01 22:18:01 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+6.85</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **240** 個月 | 2005/12 至 2025/11 |
+| <span style="color: #8B0000; font-weight: bold;">+6.85</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **239** 個月 | 2006/01 至 2025/11 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (微星) - 非對稱分布
@@ -294,7 +294,6 @@ description: 月營收表 微星 (2377) - 自動產生
 | **2006/03** | **-** | N/A | N/A | **17.4** | <span style="color: #006400; font-weight: bold;">1.48</span> | <span style="color: #004225; font-weight: bold;">11.76</span> |
 | **2006/02** | **-** | N/A | N/A | **18.55** | <span style="color: #006400; font-weight: bold;">1.49</span> | <span style="color: #004225; font-weight: bold;">12.48</span> |
 | **2006/01** | **-** | N/A | N/A | **19.75** | <span style="color: #006400; font-weight: bold;">1.49</span> | <span style="color: #004225; font-weight: bold;">13.23</span> |
-| **2005/12** | **-** | N/A | N/A | **20** | <span style="color: #006400; font-weight: bold;">1.5</span> | <span style="color: #004225; font-weight: bold;">13.33</span> |
 
 </div>
 
@@ -390,7 +389,7 @@ description: 月營收表 微星 (2377) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-01 20:27:44 CST
+- **產生時間**: 2026-01-01 22:18:01 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
