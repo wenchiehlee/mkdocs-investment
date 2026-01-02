@@ -25,7 +25,7 @@ description: 月營收表 榮田 (7709) - 自動產生
     **:building_construction: 公司名稱**: 榮田  
     **:identification_card: 股票代號**: 7709  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-02 11:58:31 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 榮田 (7709) - 自動產生
 | <span style="color: #006400; font-weight: bold;">-23.7</span> | <span style="color: #228B22; font-weight: bold;">-36.8</span> | **27** 個月 | 2023/09 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** |
+|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 170<br/><span style="color: #FF6347;">(+48.80%)</span> | 113<br/><span style="color: #32CD32;">(-40.60%)</span> |
+| **11月** | 93<br/><span style="color: #006400;">(-23.70%)</span> | 123<br/><span style="color: #32CD32;">(-40.90%)</span> | 206<br/><span style="color: #FF7F7F;">(+164.10%)</span> |
+| **10月** | 68<br/><span style="color: #32CD32;">(-43.60%)</span> | 122<br/><span style="color: #FF7F7F;">(+178.80%)</span> | 43<br/><span style="color: #90EE90;">(-64.30%)</span> |
+| **9月** | 89<br/><span style="color: #90EE90;">(-69.80%)</span> | 296<br/><span style="color: #FF7F7F;">(+149.40%)</span> | 119<br/><span style="color: #002818;">(-6.36%)</span> |
+| **8月** | 41<br/><span style="color: #004225;">(-13.70%)</span> | 47<br/><span style="color: #90EE90;">(-57.10%)</span> | -- |
+| **7月** | 69<br/><span style="color: #006400;">(-22.60%)</span> | 89<br/><span style="color: #FF6347;">(+47.00%)</span> | -- |
+| **6月** | 126<br/><span style="color: #002818;">(-7.03%)</span> | 135<br/><span style="color: #32CD32;">(-49.80%)</span> | -- |
+| **5月** | 58<br/><span style="color: #90EE90;">(-51.40%)</span> | 120<br/><span style="color: #32CD32;">(-47.00%)</span> | -- |
+| **4月** | 93<br/><span style="color: #006400;">(-26.60%)</span> | 128<br/><span style="color: #FF7F7F;">(+244.80%)</span> | -- |
+| **3月** | 79<br/><span style="color: #228B22;">(-30.00%)</span> | 112<br/><span style="color: #FF4500;">(+37.90%)</span> | -- |
+| **2月** | 55<br/><span style="color: #FF6347;">(+41.80%)</span> | 38<br/><span style="color: #228B22;">(-32.20%)</span> | -- |
+| **1月** | 37<br/><span style="color: #32CD32;">(-48.40%)</span> | 73<br/><span style="color: #FF7F7F;">(+305.30%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (榮田) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **2.30** | **2.30** | **3.30** |
-| **P/E倍數** | **16.87** | **18.20** | **22.23** |
+| **P/E倍數** | **16.84** | **18.18** | **22.23** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 榮田 歷史平均獲利能力 (σup=1.00, σlo=0.00)
-    - **P/Ebase**: 榮田 歷史平均估值水準 (σup=4.04, σlo=1.33)
+    - **P/Ebase**: 榮田 歷史平均估值水準 (σup=4.05, σlo=1.34)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -177,7 +201,7 @@ description: 月營收表 榮田 (7709) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-02 11:58:31 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

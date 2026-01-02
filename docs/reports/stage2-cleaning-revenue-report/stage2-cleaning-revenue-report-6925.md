@@ -25,7 +25,7 @@ description: 月營收表 意藍 (6925) - 自動產生
     **:building_construction: 公司名稱**: 意藍  
     **:identification_card: 股票代號**: 6925  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-02 11:58:31 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,28 +34,52 @@ description: 月營收表 意藍 (6925) - 自動產生
 | <span style="color: #FF4500; font-weight: bold;">+32.7</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **38** 個月 | 2022/10 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 17<br/><span style="color: #002818;">(-2.78%)</span> | 17<br/><span style="color: #004225;">(-15.70%)</span> | 20<br/><span style="color: #DC143C;">(+26.90%)</span> |
+| **11月** | 22<br/><span style="color: #FF4500;">(+32.70%)</span> | 16<br/><span style="color: #B22222;">(+12.20%)</span> | 14<br/><span style="color: #002818;">(-8.65%)</span> | 16<br/><span style="color: #DC143C;">(+26.50%)</span> |
+| **10月** | 19<br/><span style="color: #DC143C;">(+23.40%)</span> | 16<br/><span style="color: #B22222;">(+17.70%)</span> | 13<br/><span style="color: #004225;">(-13.10%)</span> | 15<br/><span style="color: #8B0000;">(+3.09%)</span> |
+| **9月** | 19<br/><span style="color: #8B0000;">(+0.76%)</span> | 19<br/><span style="color: #FF6347;">(+45.80%)</span> | 13<br/><span style="color: #8B0000;">(+4.63%)</span> | -- |
+| **8月** | 16<br/><span style="color: #B22222;">(+11.20%)</span> | 15<br/><span style="color: #002818;">(-0.56%)</span> | 15<br/><span style="color: #DC143C;">(+22.20%)</span> | -- |
+| **7月** | 16<br/><span style="color: #B22222;">(+16.80%)</span> | 14<br/><span style="color: #B22222;">(+10.20%)</span> | 13<br/><span style="color: #002818;">(-5.89%)</span> | -- |
+| **6月** | 17<br/><span style="color: #B22222;">(+16.60%)</span> | 14<br/><span style="color: #8B0000;">(+2.84%)</span> | 14<br/><span style="color: #B22222;">(+11.80%)</span> | -- |
+| **5月** | 16<br/><span style="color: #002818;">(-0.93%)</span> | 16<br/><span style="color: #FF4500;">(+31.80%)</span> | 12<br/><span style="color: #002818;">(-0.45%)</span> | -- |
+| **4月** | 15<br/><span style="color: #B22222;">(+15.10%)</span> | 13<br/><span style="color: #8B0000;">(+2.12%)</span> | 13<br/><span style="color: #002818;">(-4.98%)</span> | -- |
+| **3月** | 14<br/><span style="color: #8B0000;">(+7.30%)</span> | 13<br/><span style="color: #8B0000;">(+7.32%)</span> | 12<br/><span style="color: #004225;">(-11.60%)</span> | -- |
+| **2月** | 14<br/><span style="color: #B22222;">(+16.30%)</span> | 12<br/><span style="color: #8B0000;">(+4.07%)</span> | 12<br/><span style="color: #B22222;">(+13.30%)</span> | -- |
+| **1月** | 14<br/><span style="color: #B22222;">(+12.10%)</span> | 13<br/><span style="color: #8B0000;">(+8.77%)</span> | 12<br/><span style="color: #8B0000;">(+6.00%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (意藍) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **1.87** | **2.87** | **2.87** |
-| **P/E倍數** | **35.28** | **43.76** | **53.14** |
+| **P/E倍數** | **34.61** | **43.52** | **53.11** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 意藍 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 意藍 歷史平均估值水準 (σup=9.37, σlo=8.49)
+    - **P/Ebase**: 意藍 歷史平均估值水準 (σup=9.58, σlo=8.91)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/11** | **0.22** | <span style="color: #FF4500; font-weight: bold;">+32.7</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **100.5** | <span style="color: #000000; font-weight: bold;">2.87</span> | <span style="color: #006400; font-weight: bold;">35.02</span> |
+| **2025/11** | **0.22** | <span style="color: #FF4500; font-weight: bold;">+32.7</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **100.5** | <span style="color: #000000; font-weight: bold;">2.87</span> | <span style="color: #004225; font-weight: bold;">35.02</span> |
 | **2025/10** | **0.199** | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **110** | <span style="color: #000000; font-weight: bold;">2.87</span> | <span style="color: #004225; font-weight: bold;">38.33</span> |
 | **2025/09** | **0.198** | <span style="color: #8B0000; font-weight: bold;">+0.76</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **133.5** | <span style="color: #000000; font-weight: bold;">2.87</span> | <span style="color: #8B0000; font-weight: bold;">46.52</span> |
 | **2025/08** | **0.169** | <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #B22222; font-weight: bold;">+11.6</span> | **141.5** | <span style="color: #000000; font-weight: bold;">2.87</span> | <span style="color: #B22222; font-weight: bold;">49.3</span> |
@@ -188,7 +212,7 @@ description: 月營收表 意藍 (6925) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-02 11:58:31 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

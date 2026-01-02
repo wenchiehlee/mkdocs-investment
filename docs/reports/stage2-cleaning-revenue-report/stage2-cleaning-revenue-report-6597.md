@@ -25,7 +25,7 @@ description: 月營收表 立誠 (6597) - 自動產生
     **:building_construction: 公司名稱**: 立誠  
     **:identification_card: 股票代號**: 6597  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-02 11:58:31 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 立誠 (6597) - 自動產生
 | <span style="color: #004225; font-weight: bold;">-17.4</span> | <span style="color: #004225; font-weight: bold;">-12.5</span> | **111** 個月 | 2016/09 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 66<br/><span style="color: #002818;">(-3.94%)</span> | 68<br/><span style="color: #FF7F7F;">(+83.00%)</span> | 37<br/><span style="color: #FF4500;">(+38.80%)</span> | 27<br/><span style="color: #228B22;">(-39.70%)</span> |
+| **11月** | 57<br/><span style="color: #004225;">(-17.40%)</span> | 69<br/><span style="color: #8B0000;">(+6.41%)</span> | 65<br/><span style="color: #FF6347;">(+45.20%)</span> | 45<br/><span style="color: #FF7F7F;">(+105.10%)</span> | 22<br/><span style="color: #32CD32;">(-47.50%)</span> |
+| **10月** | 74<br/><span style="color: #002818;">(-3.40%)</span> | 76<br/><span style="color: #B22222;">(+17.90%)</span> | 65<br/><span style="color: #FF6347;">(+49.70%)</span> | 43<br/><span style="color: #FF4500;">(+35.80%)</span> | 32<br/><span style="color: #002818;">(-6.68%)</span> |
+| **9月** | 70<br/><span style="color: #004225;">(-14.50%)</span> | 82<br/><span style="color: #FF6347;">(+44.60%)</span> | 57<br/><span style="color: #FF6347;">(+47.00%)</span> | 38<br/><span style="color: #004225;">(-11.90%)</span> | 44<br/><span style="color: #DC143C;">(+21.30%)</span> |
+| **8月** | 66<br/><span style="color: #006400;">(-26.40%)</span> | 90<br/><span style="color: #FF7F7F;">(+63.50%)</span> | 55<br/><span style="color: #FF7F7F;">(+54.90%)</span> | 35<br/><span style="color: #228B22;">(-38.70%)</span> | 57<br/><span style="color: #FF7F7F;">(+69.50%)</span> |
+| **7月** | 60<br/><span style="color: #004225;">(-19.20%)</span> | 74<br/><span style="color: #FF6347;">(+46.20%)</span> | 51<br/><span style="color: #B22222;">(+14.50%)</span> | 44<br/><span style="color: #006400;">(-23.30%)</span> | 58<br/><span style="color: #FF6347;">(+42.40%)</span> |
+| **6月** | 57<br/><span style="color: #004225;">(-18.70%)</span> | 70<br/><span style="color: #FF4500;">(+37.20%)</span> | 51<br/><span style="color: #DC143C;">(+20.90%)</span> | 42<br/><span style="color: #006400;">(-22.50%)</span> | 55<br/><span style="color: #FF6347;">(+42.90%)</span> |
+| **5月** | 55<br/><span style="color: #228B22;">(-32.20%)</span> | 82<br/><span style="color: #FF7F7F;">(+78.60%)</span> | 45<br/><span style="color: #002818;">(-5.83%)</span> | 48<br/><span style="color: #004225;">(-12.10%)</span> | 55<br/><span style="color: #FF7F7F;">(+54.90%)</span> |
+| **4月** | 51<br/><span style="color: #006400;">(-23.10%)</span> | 66<br/><span style="color: #FF7F7F;">(+78.30%)</span> | 37<br/><span style="color: #006400;">(-25.40%)</span> | 50<br/><span style="color: #B22222;">(+15.50%)</span> | 43<br/><span style="color: #B22222;">(+14.80%)</span> |
+| **3月** | 68<br/><span style="color: #8B0000;">(+9.06%)</span> | 63<br/><span style="color: #FF7F7F;">(+142.70%)</span> | 26<br/><span style="color: #004225;">(-16.10%)</span> | 31<br/><span style="color: #228B22;">(-33.00%)</span> | 46<br/><span style="color: #DC143C;">(+26.40%)</span> |
+| **2月** | 69<br/><span style="color: #B22222;">(+18.20%)</span> | 59<br/><span style="color: #FF6347;">(+43.90%)</span> | 41<br/><span style="color: #FF6347;">(+44.50%)</span> | 28<br/><span style="color: #004225;">(-18.90%)</span> | 35<br/><span style="color: #FF7F7F;">(+85.50%)</span> |
+| **1月** | 68<br/><span style="color: #8B0000;">(+5.12%)</span> | 65<br/><span style="color: #FF7F7F;">(+69.60%)</span> | 38<br/><span style="color: #FF6347;">(+45.80%)</span> | 26<br/><span style="color: #228B22;">(-36.20%)</span> | 41<br/><span style="color: #DC143C;">(+26.50%)</span> |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (立誠) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **1.61** | **2.61** | **2.61** |
-| **P/E倍數** | **22.92** | **25.89** | **30.13** |
+| **P/E倍數** | **22.64** | **25.67** | **30.12** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 立誠 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 立誠 歷史平均估值水準 (σup=4.24, σlo=2.97)
+    - **P/Ebase**: 立誠 歷史平均估值水準 (σup=4.45, σlo=3.03)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -57,7 +81,7 @@ description: 月營收表 立誠 (6597) - 自動產生
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2025/11** | **0.578** | <span style="color: #004225; font-weight: bold;">-17.4</span> | <span style="color: #004225; font-weight: bold;">-12.5</span> | **64** | <span style="color: #000000; font-weight: bold;">2.61</span> | <span style="color: #002818; font-weight: bold;">24.52</span> |
 | **2025/10** | **0.741** | <span style="color: #002818; font-weight: bold;">-3.4</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **56.5** | <span style="color: #000000; font-weight: bold;">2.61</span> | <span style="color: #006400; font-weight: bold;">21.65</span> |
-| **2025/09** | **0.706** | <span style="color: #004225; font-weight: bold;">-14.5</span> | <span style="color: #004225; font-weight: bold;">-13</span> | **55.5** | <span style="color: #000000; font-weight: bold;">2.61</span> | <span style="color: #228B22; font-weight: bold;">21.26</span> |
+| **2025/09** | **0.706** | <span style="color: #004225; font-weight: bold;">-14.5</span> | <span style="color: #004225; font-weight: bold;">-13</span> | **55.5** | <span style="color: #000000; font-weight: bold;">2.61</span> | <span style="color: #006400; font-weight: bold;">21.26</span> |
 | **2025/08** | **0.664** | <span style="color: #006400; font-weight: bold;">-26.4</span> | <span style="color: #004225; font-weight: bold;">-12.8</span> | **65** | <span style="color: #000000; font-weight: bold;">2.61</span> | <span style="color: #002818; font-weight: bold;">24.9</span> |
 | **2025/07** | **0.605** | <span style="color: #004225; font-weight: bold;">-19.2</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **79.8** | <span style="color: #000000; font-weight: bold;">2.61</span> | <span style="color: #DC143C; font-weight: bold;">30.57</span> |
 | **2025/06** | **0.576** | <span style="color: #004225; font-weight: bold;">-18.7</span> | <span style="color: #002818; font-weight: bold;">-8.67</span> | **79.6** | <span style="color: #000000; font-weight: bold;">2.61</span> | <span style="color: #DC143C; font-weight: bold;">30.5</span> |
@@ -261,7 +285,7 @@ description: 月營收表 立誠 (6597) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-02 11:58:31 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

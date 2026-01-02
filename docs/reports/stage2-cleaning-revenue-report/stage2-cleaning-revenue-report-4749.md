@@ -25,7 +25,7 @@ description: 月營收表 新應材 (4749) - 自動產生
     **:building_construction: 公司名稱**: 新應材  
     **:identification_card: 股票代號**: 4749  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-02 11:58:31 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 新應材 (4749) - 自動產生
 | <span style="color: #B22222; font-weight: bold;">+15.5</span> | <span style="color: #FF4500; font-weight: bold;">+30.2</span> | **134** 個月 | 2009/08 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 325<br/><span style="color: #FF6347;">(+41.10%)</span> | 229<br/><span style="color: #8B0000;">(+9.38%)</span> | 210<br/><span style="color: #FF6347;">(+43.80%)</span> | 146<br/><span style="color: #8B0000;">(+7.87%)</span> |
+| **11月** | 366<br/><span style="color: #B22222;">(+15.50%)</span> | 316<br/><span style="color: #FF7F7F;">(+62.20%)</span> | 195<br/><span style="color: #004225;">(-19.00%)</span> | 241<br/><span style="color: #FF7F7F;">(+63.30%)</span> | 148<br/><span style="color: #DC143C;">(+22.10%)</span> |
+| **10月** | 358<br/><span style="color: #FF4500;">(+30.80%)</span> | 274<br/><span style="color: #FF7F7F;">(+67.20%)</span> | 164<br/><span style="color: #006400;">(-25.50%)</span> | 220<br/><span style="color: #FF7F7F;">(+62.40%)</span> | 135<br/><span style="color: #FF7F7F;">(+70.50%)</span> |
+| **9月** | 385<br/><span style="color: #FF4500;">(+32.30%)</span> | 291<br/><span style="color: #FF7F7F;">(+55.90%)</span> | 187<br/><span style="color: #002818;">(-6.88%)</span> | 200<br/><span style="color: #FF6347;">(+47.00%)</span> | 136<br/><span style="color: #FF6347;">(+45.20%)</span> |
+| **8月** | 342<br/><span style="color: #DC143C;">(+22.50%)</span> | 279<br/><span style="color: #FF6347;">(+48.60%)</span> | 188<br/><span style="color: #002818;">(-8.16%)</span> | 204<br/><span style="color: #FF4500;">(+39.60%)</span> | 146<br/><span style="color: #FF7F7F;">(+52.50%)</span> |
+| **7月** | 339<br/><span style="color: #B22222;">(+18.10%)</span> | 287<br/><span style="color: #FF6347;">(+47.10%)</span> | 195<br/><span style="color: #002818;">(-8.78%)</span> | 214<br/><span style="color: #FF4500;">(+38.50%)</span> | -- |
+| **6月** | 365<br/><span style="color: #B22222;">(+18.60%)</span> | 308<br/><span style="color: #FF6347;">(+41.20%)</span> | 218<br/><span style="color: #B22222;">(+12.30%)</span> | 194<br/><span style="color: #FF4500;">(+31.40%)</span> | -- |
+| **5月** | 385<br/><span style="color: #FF6347;">(+49.60%)</span> | 258<br/><span style="color: #FF6347;">(+40.60%)</span> | 183<br/><span style="color: #002818;">(-3.33%)</span> | 190<br/><span style="color: #FF6347;">(+40.30%)</span> | -- |
+| **4月** | 403<br/><span style="color: #FF4500;">(+37.50%)</span> | 293<br/><span style="color: #FF6347;">(+47.40%)</span> | 199<br/><span style="color: #FF4500;">(+39.40%)</span> | 142<br/><span style="color: #B22222;">(+16.60%)</span> | -- |
+| **3月** | 326<br/><span style="color: #FF6347;">(+41.00%)</span> | 231<br/><span style="color: #DC143C;">(+22.00%)</span> | 190<br/><span style="color: #DC143C;">(+23.30%)</span> | 154<br/><span style="color: #B22222;">(+14.00%)</span> | -- |
+| **2月** | 317<br/><span style="color: #FF7F7F;">(+58.80%)</span> | 200<br/><span style="color: #002818;">(-6.63%)</span> | 214<br/><span style="color: #FF7F7F;">(+55.00%)</span> | 138<br/><span style="color: #DC143C;">(+27.00%)</span> | -- |
+| **1月** | 316<br/><span style="color: #DC143C;">(+21.30%)</span> | 260<br/><span style="color: #DC143C;">(+28.60%)</span> | 202<br/><span style="color: #FF4500;">(+36.20%)</span> | 149<br/><span style="color: #FF7F7F;">(+55.70%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (新應材) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **10.37** | **10.37** | **11.37** |
-| **P/E倍數** | **53.70** | **68.05** | **80.43** |
+| **P/E倍數** | **53.83** | **68.70** | **81.74** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 新應材 歷史平均獲利能力 (σup=1.00, σlo=0.00)
-    - **P/Ebase**: 新應材 歷史平均估值水準 (σup=12.38, σlo=14.36)
+    - **P/Ebase**: 新應材 歷史平均估值水準 (σup=13.05, σlo=14.86)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -284,7 +308,7 @@ description: 月營收表 新應材 (4749) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-02 11:58:31 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

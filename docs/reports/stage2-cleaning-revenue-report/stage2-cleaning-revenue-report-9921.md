@@ -25,7 +25,7 @@ description: 月營收表 巨大 (9921) - 自動產生
     **:building_construction: 公司名稱**: 巨大  
     **:identification_card: 股票代號**: 9921  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-02 11:58:31 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 巨大 (9921) - 自動產生
 | <span style="color: #002818; font-weight: bold;">-9.69</span> | <span style="color: #004225; font-weight: bold;">-15.6</span> | **239** 個月 | 2006/01 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 4,109<br/><span style="color: #002818;">(-1.43%)</span> | 4,169<br/><span style="color: #006400;">(-25.80%)</span> | 5,616<br/><span style="color: #004225;">(-12.40%)</span> | 6,413<br/><span style="color: #B22222;">(+11.50%)</span> |
+| **11月** | 4,144<br/><span style="color: #002818;">(-9.69%)</span> | 4,588<br/><span style="color: #004225;">(-16.10%)</span> | 5,469<br/><span style="color: #006400;">(-28.10%)</span> | 7,606<br/><span style="color: #8B0000;">(+8.52%)</span> | 7,009<br/><span style="color: #B22222;">(+16.60%)</span> |
+| **10月** | 4,566<br/><span style="color: #002818;">(-6.26%)</span> | 4,871<br/><span style="color: #002818;">(-6.53%)</span> | 5,212<br/><span style="color: #228B22;">(-34.40%)</span> | 7,939<br/><span style="color: #DC143C;">(+21.60%)</span> | 6,531<br/><span style="color: #B22222;">(+14.50%)</span> |
+| **9月** | 5,218<br/><span style="color: #004225;">(-13.40%)</span> | 6,028<br/><span style="color: #002818;">(-4.76%)</span> | 6,330<br/><span style="color: #006400;">(-20.90%)</span> | 8,005<br/><span style="color: #DC143C;">(+22.80%)</span> | 6,518<br/><span style="color: #8B0000;">(+1.08%)</span> |
+| **8月** | 5,025<br/><span style="color: #006400;">(-26.70%)</span> | 6,856<br/><span style="color: #8B0000;">(+2.02%)</span> | 6,719<br/><span style="color: #006400;">(-22.90%)</span> | 8,712<br/><span style="color: #FF4500;">(+34.90%)</span> | 6,458<br/><span style="color: #8B0000;">(+1.77%)</span> |
+| **7月** | 5,107<br/><span style="color: #228B22;">(-32.60%)</span> | 7,573<br/><span style="color: #B22222;">(+16.60%)</span> | 6,494<br/><span style="color: #006400;">(-29.10%)</span> | 9,163<br/><span style="color: #FF4500;">(+32.10%)</span> | 6,937<br/><span style="color: #8B0000;">(+3.02%)</span> |
+| **6月** | 4,966<br/><span style="color: #228B22;">(-30.00%)</span> | 7,094<br/><span style="color: #002818;">(-7.50%)</span> | 7,670<br/><span style="color: #004225;">(-13.50%)</span> | 8,869<br/><span style="color: #DC143C;">(+21.80%)</span> | 7,281<br/><span style="color: #002818;">(-3.84%)</span> |
+| **5月** | 5,063<br/><span style="color: #006400;">(-29.30%)</span> | 7,164<br/><span style="color: #002818;">(-7.12%)</span> | 7,714<br/><span style="color: #002818;">(-3.35%)</span> | 7,981<br/><span style="color: #B22222;">(+11.00%)</span> | 7,192<br/><span style="color: #8B0000;">(+1.51%)</span> |
+| **4月** | 5,727<br/><span style="color: #004225;">(-17.10%)</span> | 6,908<br/><span style="color: #002818;">(-1.74%)</span> | 7,031<br/><span style="color: #DC143C;">(+20.30%)</span> | 5,846<br/><span style="color: #004225;">(-15.40%)</span> | 6,911<br/><span style="color: #FF4500;">(+37.40%)</span> |
+| **3月** | 6,747<br/><span style="color: #002818;">(-5.30%)</span> | 7,125<br/><span style="color: #004225;">(-17.40%)</span> | 8,622<br/><span style="color: #002818;">(-3.55%)</span> | 8,940<br/><span style="color: #8B0000;">(+6.28%)</span> | 8,411<br/><span style="color: #FF7F7F;">(+82.20%)</span> |
+| **2月** | 5,423<br/><span style="color: #FF4500;">(+30.90%)</span> | 4,143<br/><span style="color: #006400;">(-27.20%)</span> | 5,691<br/><span style="color: #004225;">(-14.90%)</span> | 6,688<br/><span style="color: #B22222;">(+18.90%)</span> | 5,623<br/><span style="color: #FF6347;">(+42.10%)</span> |
+| **1月** | 4,687<br/><span style="color: #002818;">(-2.24%)</span> | 4,795<br/><span style="color: #004225;">(-17.70%)</span> | 5,828<br/><span style="color: #004225;">(-12.70%)</span> | 6,678<br/><span style="color: #8B0000;">(+1.63%)</span> | 6,570<br/><span style="color: #FF4500;">(+38.40%)</span> |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (巨大) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **5.44** | **8.35** | **12.34** |
-| **P/E倍數** | **15.71** | **23.84** | **76.01** |
+| **EPS(元)** | **5.43** | **8.36** | **12.34** |
+| **P/E倍數** | **15.86** | **23.92** | **77.29** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 巨大 歷史平均獲利能力 (σup=3.99, σlo=2.91)
-    - **P/Ebase**: 巨大 歷史平均估值水準 (σup=52.16, σlo=8.13)
+    - **EPSbase**: 巨大 歷史平均獲利能力 (σup=3.98, σlo=2.94)
+    - **P/Ebase**: 巨大 歷史平均估值水準 (σup=53.36, σlo=8.06)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -98,7 +122,7 @@ description: 月營收表 巨大 (9921) - 自動產生
 | **2022/07** | **91.63** | <span style="color: #FF4500; font-weight: bold;">+32.1</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **244** | <span style="color: #FF4500; font-weight: bold;">15.64</span> | <span style="color: #006400; font-weight: bold;">15.61</span> |
 | **2022/06** | **88.69** | <span style="color: #DC143C; font-weight: bold;">+21.8</span> | <span style="color: #8B0000; font-weight: bold;">+7.17</span> | **240** | <span style="color: #FF4500; font-weight: bold;">15.66</span> | <span style="color: #006400; font-weight: bold;">15.33</span> |
 | **2022/05** | **79.81** | <span style="color: #B22222; font-weight: bold;">+11</span> | <span style="color: #8B0000; font-weight: bold;">+4.1</span> | **263** | <span style="color: #FF4500; font-weight: bold;">15.68</span> | <span style="color: #004225; font-weight: bold;">16.77</span> |
-| **2022/04** | **58.46** | <span style="color: #004225; font-weight: bold;">-15.4</span> | <span style="color: #8B0000; font-weight: bold;">+2.3</span> | **248.5** | <span style="color: #FF4500; font-weight: bold;">15.71</span> | <span style="color: #004225; font-weight: bold;">15.82</span> |
+| **2022/04** | **58.46** | <span style="color: #004225; font-weight: bold;">-15.4</span> | <span style="color: #8B0000; font-weight: bold;">+2.3</span> | **248.5** | <span style="color: #FF4500; font-weight: bold;">15.71</span> | <span style="color: #006400; font-weight: bold;">15.82</span> |
 | **2022/03** | **89.4** | <span style="color: #8B0000; font-weight: bold;">+6.28</span> | <span style="color: #8B0000; font-weight: bold;">+8.25</span> | **260.5** | <span style="color: #FF4500; font-weight: bold;">15.74</span> | <span style="color: #004225; font-weight: bold;">16.56</span> |
 | **2022/02** | **66.88** | <span style="color: #B22222; font-weight: bold;">+18.9</span> | <span style="color: #8B0000; font-weight: bold;">+9.61</span> | **289.5** | <span style="color: #FF4500; font-weight: bold;">15.76</span> | <span style="color: #004225; font-weight: bold;">18.37</span> |
 | **2022/01** | **66.78** | <span style="color: #8B0000; font-weight: bold;">+1.63</span> | <span style="color: #8B0000; font-weight: bold;">+1.63</span> | **316.5** | <span style="color: #FF4500; font-weight: bold;">15.78</span> | <span style="color: #002818; font-weight: bold;">20.05</span> |
@@ -154,7 +178,7 @@ description: 月營收表 巨大 (9921) - 自動產生
 | **2017/11** | **45.31** | <span style="color: #8B0000; font-weight: bold;">+3.09</span> | <span style="color: #002818; font-weight: bold;">-4.15</span> | **150** | <span style="color: #004225; font-weight: bold;">5.7</span> | <span style="color: #8B0000; font-weight: bold;">26.3</span> |
 | **2017/10** | **44** | <span style="color: #8B0000; font-weight: bold;">+3.47</span> | <span style="color: #002818; font-weight: bold;">-4.81</span> | **155** | <span style="color: #004225; font-weight: bold;">5.93</span> | <span style="color: #8B0000; font-weight: bold;">26.15</span> |
 | **2017/09** | **51.63** | <span style="color: #002818; font-weight: bold;">-0.72</span> | <span style="color: #002818; font-weight: bold;">-5.61</span> | **143** | <span style="color: #004225; font-weight: bold;">6.15</span> | <span style="color: #002818; font-weight: bold;">23.24</span> |
-| **2017/08** | **49.26** | <span style="color: #002818; font-weight: bold;">-2.48</span> | <span style="color: #002818; font-weight: bold;">-6.26</span> | **152.5** | <span style="color: #004225; font-weight: bold;">6.38</span> | <span style="color: #8B0000; font-weight: bold;">23.92</span> |
+| **2017/08** | **49.26** | <span style="color: #002818; font-weight: bold;">-2.48</span> | <span style="color: #002818; font-weight: bold;">-6.26</span> | **152.5** | <span style="color: #004225; font-weight: bold;">6.38</span> | <span style="color: #002818; font-weight: bold;">23.92</span> |
 | **2017/07** | **47.75** | <span style="color: #002818; font-weight: bold;">-2.75</span> | <span style="color: #002818; font-weight: bold;">-6.82</span> | **149** | <span style="color: #004225; font-weight: bold;">6.6</span> | <span style="color: #002818; font-weight: bold;">22.57</span> |
 | **2017/06** | **43.68** | <span style="color: #002818; font-weight: bold;">-7.95</span> | <span style="color: #002818; font-weight: bold;">-7.51</span> | **174** | <span style="color: #004225; font-weight: bold;">6.82</span> | <span style="color: #8B0000; font-weight: bold;">25.49</span> |
 | **2017/05** | **44.92** | <span style="color: #002818; font-weight: bold;">-5.38</span> | <span style="color: #002818; font-weight: bold;">-7.42</span> | **176.5** | <span style="color: #002818; font-weight: bold;">7.05</span> | <span style="color: #8B0000; font-weight: bold;">25.04</span> |
@@ -190,11 +214,11 @@ description: 月營收表 巨大 (9921) - 自動產生
 | **2014/11** | **47.37** | <span style="color: #B22222; font-weight: bold;">+18.3</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **272** | <span style="color: #B22222; font-weight: bold;">10.82</span> | <span style="color: #8B0000; font-weight: bold;">25.13</span> |
 | **2014/10** | **50.21** | <span style="color: #B22222; font-weight: bold;">+14.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.56</span> | **246** | <span style="color: #B22222; font-weight: bold;">10.69</span> | <span style="color: #002818; font-weight: bold;">23.01</span> |
 | **2014/09** | **57.22** | <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #8B0000; font-weight: bold;">+9.07</span> | **237** | <span style="color: #B22222; font-weight: bold;">10.56</span> | <span style="color: #002818; font-weight: bold;">22.45</span> |
-| **2014/08** | **53.01** | <span style="color: #8B0000; font-weight: bold;">+6.99</span> | <span style="color: #8B0000; font-weight: bold;">+8.23</span> | **248.5** | <span style="color: #B22222; font-weight: bold;">10.42</span> | <span style="color: #8B0000; font-weight: bold;">23.85</span> |
+| **2014/08** | **53.01** | <span style="color: #8B0000; font-weight: bold;">+6.99</span> | <span style="color: #8B0000; font-weight: bold;">+8.23</span> | **248.5** | <span style="color: #B22222; font-weight: bold;">10.42</span> | <span style="color: #002818; font-weight: bold;">23.85</span> |
 | **2014/07** | **56.34** | <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #8B0000; font-weight: bold;">+8.42</span> | **248.5** | <span style="color: #8B0000; font-weight: bold;">10.28</span> | <span style="color: #8B0000; font-weight: bold;">24.16</span> |
 | **2014/06** | **47.29** | <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #8B0000; font-weight: bold;">+7.9</span> | **232.5** | <span style="color: #8B0000; font-weight: bold;">10.15</span> | <span style="color: #002818; font-weight: bold;">22.91</span> |
 | **2014/05** | **48.58** | <span style="color: #8B0000; font-weight: bold;">+0.07</span> | <span style="color: #8B0000; font-weight: bold;">+7.29</span> | **237.5** | <span style="color: #8B0000; font-weight: bold;">10.02</span> | <span style="color: #002818; font-weight: bold;">23.71</span> |
-| **2014/04** | **55.59** | <span style="color: #B22222; font-weight: bold;">+15.3</span> | <span style="color: #8B0000; font-weight: bold;">+9.23</span> | **236** | <span style="color: #8B0000; font-weight: bold;">9.88</span> | <span style="color: #8B0000; font-weight: bold;">23.89</span> |
+| **2014/04** | **55.59** | <span style="color: #B22222; font-weight: bold;">+15.3</span> | <span style="color: #8B0000; font-weight: bold;">+9.23</span> | **236** | <span style="color: #8B0000; font-weight: bold;">9.88</span> | <span style="color: #002818; font-weight: bold;">23.89</span> |
 | **2014/03** | **59.34** | <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #8B0000; font-weight: bold;">+7.03</span> | **207** | <span style="color: #8B0000; font-weight: bold;">9.75</span> | <span style="color: #002818; font-weight: bold;">21.24</span> |
 | **2014/02** | **38.56** | <span style="color: #8B0000; font-weight: bold;">+3.87</span> | <span style="color: #8B0000; font-weight: bold;">+1.7</span> | **206.5** | <span style="color: #8B0000; font-weight: bold;">9.61</span> | <span style="color: #002818; font-weight: bold;">21.49</span> |
 | **2014/01** | **43.92** | <span style="color: #002818; font-weight: bold;">-0.12</span> | <span style="color: #002818; font-weight: bold;">-0.12</span> | **192** | <span style="color: #8B0000; font-weight: bold;">9.48</span> | <span style="color: #002818; font-weight: bold;">20.26</span> |
@@ -220,7 +244,7 @@ description: 月營收表 巨大 (9921) - 自動產生
 | **2012/05** | **-** | N/A | N/A | **140.5** | <span style="color: #002818; font-weight: bold;">8.02</span> | <span style="color: #004225; font-weight: bold;">17.51</span> |
 | **2012/04** | **-** | N/A | N/A | **147** | <span style="color: #002818; font-weight: bold;">8.03</span> | <span style="color: #004225; font-weight: bold;">18.31</span> |
 | **2012/03** | **-** | N/A | N/A | **129.5** | <span style="color: #002818; font-weight: bold;">8.03</span> | <span style="color: #004225; font-weight: bold;">16.13</span> |
-| **2012/02** | **-** | N/A | N/A | **126.5** | <span style="color: #002818; font-weight: bold;">8.03</span> | <span style="color: #004225; font-weight: bold;">15.75</span> |
+| **2012/02** | **-** | N/A | N/A | **126.5** | <span style="color: #002818; font-weight: bold;">8.03</span> | <span style="color: #006400; font-weight: bold;">15.75</span> |
 | **2012/01** | **-** | N/A | N/A | **125** | <span style="color: #002818; font-weight: bold;">8.04</span> | <span style="color: #006400; font-weight: bold;">15.55</span> |
 | **2011/12** | **-** | N/A | N/A | **117** | <span style="color: #002818; font-weight: bold;">8.04</span> | <span style="color: #006400; font-weight: bold;">14.55</span> |
 | **2011/11** | **-** | N/A | N/A | **108** | <span style="color: #002818; font-weight: bold;">7.97</span> | <span style="color: #006400; font-weight: bold;">13.56</span> |
@@ -283,17 +307,17 @@ description: 月營收表 巨大 (9921) - 自動產生
 | **2007/02** | **-** | N/A | N/A | **50.4** | <span style="color: #006400; font-weight: bold;">4.09</span> | <span style="color: #006400; font-weight: bold;">12.33</span> |
 | **2007/01** | **-** | N/A | N/A | **50.2** | <span style="color: #228B22; font-weight: bold;">3.85</span> | <span style="color: #006400; font-weight: bold;">13.04</span> |
 | **2006/12** | **-** | N/A | N/A | **53.5** | <span style="color: #228B22; font-weight: bold;">3.61</span> | <span style="color: #006400; font-weight: bold;">14.82</span> |
-| **2006/11** | **-** | N/A | N/A | **50** | <span style="color: #228B22; font-weight: bold;">3.65</span> | <span style="color: #006400; font-weight: bold;">13.7</span> |
-| **2006/10** | **-** | N/A | N/A | **52** | <span style="color: #228B22; font-weight: bold;">3.69</span> | <span style="color: #006400; font-weight: bold;">14.09</span> |
-| **2006/09** | **-** | N/A | N/A | **52** | <span style="color: #228B22; font-weight: bold;">3.73</span> | <span style="color: #006400; font-weight: bold;">13.93</span> |
-| **2006/08** | **-** | N/A | N/A | **46.55** | <span style="color: #228B22; font-weight: bold;">3.77</span> | <span style="color: #006400; font-weight: bold;">12.34</span> |
-| **2006/07** | **-** | N/A | N/A | **48.8** | <span style="color: #228B22; font-weight: bold;">3.81</span> | <span style="color: #006400; font-weight: bold;">12.79</span> |
-| **2006/06** | **-** | N/A | N/A | **52.4** | <span style="color: #228B22; font-weight: bold;">3.85</span> | <span style="color: #006400; font-weight: bold;">13.59</span> |
-| **2006/05** | **-** | N/A | N/A | **51.6** | <span style="color: #228B22; font-weight: bold;">3.9</span> | <span style="color: #006400; font-weight: bold;">13.24</span> |
-| **2006/04** | **-** | N/A | N/A | **61.5** | <span style="color: #228B22; font-weight: bold;">3.94</span> | <span style="color: #006400; font-weight: bold;">15.62</span> |
-| **2006/03** | **-** | N/A | N/A | **59.4** | <span style="color: #228B22; font-weight: bold;">3.98</span> | <span style="color: #006400; font-weight: bold;">14.93</span> |
-| **2006/02** | **-** | N/A | N/A | **61** | <span style="color: #006400; font-weight: bold;">4.02</span> | <span style="color: #006400; font-weight: bold;">15.18</span> |
-| **2006/01** | **-** | N/A | N/A | **61** | <span style="color: #006400; font-weight: bold;">4.06</span> | <span style="color: #006400; font-weight: bold;">15.03</span> |
+| **2006/11** | **-** | N/A | N/A | **50** | <span style="color: #228B22; font-weight: bold;">3.61</span> | <span style="color: #006400; font-weight: bold;">13.85</span> |
+| **2006/10** | **-** | N/A | N/A | **52** | <span style="color: #228B22; font-weight: bold;">3.61</span> | <span style="color: #006400; font-weight: bold;">14.4</span> |
+| **2006/09** | **-** | N/A | N/A | **52** | <span style="color: #228B22; font-weight: bold;">3.61</span> | <span style="color: #006400; font-weight: bold;">14.4</span> |
+| **2006/08** | **-** | N/A | N/A | **46.55** | <span style="color: #228B22; font-weight: bold;">3.61</span> | <span style="color: #006400; font-weight: bold;">12.89</span> |
+| **2006/07** | **-** | N/A | N/A | **48.8** | <span style="color: #228B22; font-weight: bold;">3.61</span> | <span style="color: #006400; font-weight: bold;">13.52</span> |
+| **2006/06** | **-** | N/A | N/A | **52.4** | <span style="color: #228B22; font-weight: bold;">3.61</span> | <span style="color: #006400; font-weight: bold;">14.52</span> |
+| **2006/05** | **-** | N/A | N/A | **51.6** | <span style="color: #228B22; font-weight: bold;">3.61</span> | <span style="color: #006400; font-weight: bold;">14.29</span> |
+| **2006/04** | **-** | N/A | N/A | **61.5** | <span style="color: #228B22; font-weight: bold;">3.61</span> | <span style="color: #004225; font-weight: bold;">17.04</span> |
+| **2006/03** | **-** | N/A | N/A | **59.4** | <span style="color: #228B22; font-weight: bold;">3.61</span> | <span style="color: #004225; font-weight: bold;">16.45</span> |
+| **2006/02** | **-** | N/A | N/A | **61** | <span style="color: #228B22; font-weight: bold;">3.61</span> | <span style="color: #004225; font-weight: bold;">16.9</span> |
+| **2006/01** | **-** | N/A | N/A | **61** | <span style="color: #228B22; font-weight: bold;">3.61</span> | <span style="color: #004225; font-weight: bold;">16.9</span> |
 
 </div>
 
@@ -389,7 +413,7 @@ description: 月營收表 巨大 (9921) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-02 11:58:31 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

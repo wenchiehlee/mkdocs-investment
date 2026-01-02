@@ -25,7 +25,7 @@ description: 月營收表 意騰-KY (7749) - 自動產生
     **:building_construction: 公司名稱**: 意騰-KY  
     **:identification_card: 股票代號**: 7749  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-02 11:58:31 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,32 +34,56 @@ description: 月營收表 意騰-KY (7749) - 自動產生
 | <span style="color: #FF7F7F; font-weight: bold;">+60</span> | <span style="color: #FF7F7F; font-weight: bold;">+94.6</span> | **8** 個月 | 2025/04 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** |
+|:----------:|:----------:|
+| **12月** | -- |
+| **11月** | 147<br/><span style="color: #FF7F7F;">(+60.00%)</span> |
+| **10月** | 179<br/><span style="color: #FF7F7F;">(+62.20%)</span> |
+| **9月** | 212<br/><span style="color: #FF7F7F;">(+100.90%)</span> |
+| **8月** | 124<br/><span style="color: #FF7F7F;">(+87.30%)</span> |
+| **7月** | 146<br/><span style="color: #FF7F7F;">(+85.60%)</span> |
+| **6月** | 98<br/><span style="color: #FF4500;">(+32.70%)</span> |
+| **5月** | 113<br/><span style="color: #FF7F7F;">(+120.50%)</span> |
+| **4月** | 137<br/><span style="color: #FF7F7F;">(+155.70%)</span> |
+| **3月** | -- |
+| **2月** | -- |
+| **1月** | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (意騰-KY) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **11.59** | **11.59** | **12.59** |
-| **P/E倍數** | **40.94** | **45.74** | **55.70** |
+| **P/E倍數** | **39.53** | **45.39** | **53.81** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 意騰-KY 歷史平均獲利能力 (σup=1.00, σlo=0.00)
-    - **P/Ebase**: 意騰-KY 歷史平均估值水準 (σup=9.96, σlo=4.80)
+    - **P/Ebase**: 意騰-KY 歷史平均估值水準 (σup=8.41, σlo=5.87)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/11** | **1.47** | <span style="color: #FF7F7F; font-weight: bold;">+60</span> | <span style="color: #FF7F7F; font-weight: bold;">+94.6</span> | **445** | <span style="color: #004225; font-weight: bold;">11.59</span> | <span style="color: #228B22; font-weight: bold;">38.4</span> |
+| **2025/11** | **1.47** | <span style="color: #FF7F7F; font-weight: bold;">+60</span> | <span style="color: #FF7F7F; font-weight: bold;">+94.6</span> | **445** | <span style="color: #004225; font-weight: bold;">11.59</span> | <span style="color: #006400; font-weight: bold;">38.4</span> |
 | **2025/10** | **1.79** | <span style="color: #FF7F7F; font-weight: bold;">+62.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+99.4</span> | **482.5** | <span style="color: #004225; font-weight: bold;">11.59</span> | <span style="color: #004225; font-weight: bold;">41.63</span> |
 | **2025/09** | **2.12** | <span style="color: #FF7F7F; font-weight: bold;">+100.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+106.8</span> | **512** | <span style="color: #004225; font-weight: bold;">11.59</span> | <span style="color: #002818; font-weight: bold;">44.18</span> |
-| **2025/08** | **1.24** | <span style="color: #FF7F7F; font-weight: bold;">+87.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+108.2</span> | **629** | <span style="color: #004225; font-weight: bold;">11.59</span> | <span style="color: #B22222; font-weight: bold;">54.27</span> |
-| **2025/07** | **1.46** | <span style="color: #FF7F7F; font-weight: bold;">+85.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+111.9</span> | **527** | <span style="color: #004225; font-weight: bold;">11.59</span> | <span style="color: #002818; font-weight: bold;">45.47</span> |
+| **2025/08** | **1.24** | <span style="color: #FF7F7F; font-weight: bold;">+87.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+108.2</span> | **629** | <span style="color: #004225; font-weight: bold;">11.59</span> | <span style="color: #DC143C; font-weight: bold;">54.27</span> |
+| **2025/07** | **1.46** | <span style="color: #FF7F7F; font-weight: bold;">+85.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+111.9</span> | **527** | <span style="color: #004225; font-weight: bold;">11.59</span> | <span style="color: #8B0000; font-weight: bold;">45.47</span> |
 | **2025/06** | **0.985** | <span style="color: #FF4500; font-weight: bold;">+32.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+118.7</span> | **660** | <span style="color: #004225; font-weight: bold;">11.59</span> | <span style="color: #DC143C; font-weight: bold;">56.95</span> |
 | **2025/05** | **1.14** | <span style="color: #FF7F7F; font-weight: bold;">+120.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+146.7</span> | **-** | N/A | N/A |
 | **2025/04** | **1.37** | <span style="color: #FF7F7F; font-weight: bold;">+155.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+154.4</span> | **-** | N/A | N/A |
@@ -158,7 +182,7 @@ description: 月營收表 意騰-KY (7749) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-02 11:58:31 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

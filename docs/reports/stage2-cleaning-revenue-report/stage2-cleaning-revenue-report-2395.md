@@ -25,7 +25,7 @@ description: 月營收表 研華 (2395) - 自動產生
     **:building_construction: 公司名稱**: 研華  
     **:identification_card: 股票代號**: 2395  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-02 11:58:31 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 研華 (2395) - 自動產生
 | <span style="color: #8B0000; font-weight: bold;">+9.54</span> | <span style="color: #B22222; font-weight: bold;">+19.3</span> | **239** 個月 | 2006/01 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 5,360<br/><span style="color: #B22222;">(+11.40%)</span> | 4,812<br/><span style="color: #004225;">(-14.60%)</span> | 5,635<br/><span style="color: #8B0000;">(+1.31%)</span> | 5,562<br/><span style="color: #B22222;">(+10.40%)</span> |
+| **11月** | 5,920<br/><span style="color: #8B0000;">(+9.54%)</span> | 5,404<br/><span style="color: #8B0000;">(+3.94%)</span> | 5,199<br/><span style="color: #004225;">(-10.60%)</span> | 5,816<br/><span style="color: #B22222;">(+12.50%)</span> | 5,171<br/><span style="color: #FF4500;">(+32.30%)</span> |
+| **10月** | 6,016<br/><span style="color: #8B0000;">(+8.70%)</span> | 5,535<br/><span style="color: #8B0000;">(+7.95%)</span> | 5,127<br/><span style="color: #004225;">(-10.60%)</span> | 5,736<br/><span style="color: #B22222;">(+14.50%)</span> | 5,011<br/><span style="color: #FF4500;">(+30.70%)</span> |
+| **9月** | 6,208<br/><span style="color: #DC143C;">(+25.40%)</span> | 4,951<br/><span style="color: #002818;">(-2.87%)</span> | 5,097<br/><span style="color: #006400;">(-20.50%)</span> | 6,409<br/><span style="color: #B22222;">(+16.70%)</span> | 5,490<br/><span style="color: #DC143C;">(+26.20%)</span> |
+| **8月** | 5,556<br/><span style="color: #B22222;">(+11.80%)</span> | 4,967<br/><span style="color: #002818;">(-2.29%)</span> | 5,084<br/><span style="color: #004225;">(-18.50%)</span> | 6,236<br/><span style="color: #DC143C;">(+21.00%)</span> | 5,152<br/><span style="color: #B22222;">(+19.90%)</span> |
+| **7月** | 6,009<br/><span style="color: #B22222;">(+19.40%)</span> | 5,031<br/><span style="color: #8B0000;">(+4.28%)</span> | 4,825<br/><span style="color: #004225;">(-19.20%)</span> | 5,968<br/><span style="color: #DC143C;">(+22.70%)</span> | 4,864<br/><span style="color: #B22222;">(+10.40%)</span> |
+| **6月** | 5,838<br/><span style="color: #B22222;">(+18.40%)</span> | 4,931<br/><span style="color: #004225;">(-13.10%)</span> | 5,673<br/><span style="color: #004225;">(-11.80%)</span> | 6,434<br/><span style="color: #DC143C;">(+27.50%)</span> | 5,047<br/><span style="color: #002818;">(-1.45%)</span> |
+| **5月** | 5,855<br/><span style="color: #B22222;">(+18.30%)</span> | 4,949<br/><span style="color: #004225;">(-15.00%)</span> | 5,827<br/><span style="color: #8B0000;">(+3.78%)</span> | 5,614<br/><span style="color: #DC143C;">(+25.10%)</span> | 4,487<br/><span style="color: #002818;">(-0.35%)</span> |
+| **4月** | 6,143<br/><span style="color: #DC143C;">(+29.00%)</span> | 4,763<br/><span style="color: #004225;">(-13.80%)</span> | 5,529<br/><span style="color: #B22222;">(+15.80%)</span> | 4,776<br/><span style="color: #8B0000;">(+2.15%)</span> | 4,675<br/><span style="color: #8B0000;">(+6.42%)</span> |
+| **3月** | 6,323<br/><span style="color: #DC143C;">(+25.60%)</span> | 5,034<br/><span style="color: #006400;">(-22.80%)</span> | 6,525<br/><span style="color: #8B0000;">(+7.64%)</span> | 6,062<br/><span style="color: #DC143C;">(+20.50%)</span> | 5,031<br/><span style="color: #DC143C;">(+23.40%)</span> |
+| **2月** | 5,295<br/><span style="color: #FF4500;">(+37.30%)</span> | 3,856<br/><span style="color: #006400;">(-26.30%)</span> | 5,230<br/><span style="color: #B22222;">(+11.90%)</span> | 4,673<br/><span style="color: #DC143C;">(+29.10%)</span> | 3,619<br/><span style="color: #B22222;">(+12.00%)</span> |
+| **1月** | 5,733<br/><span style="color: #B22222;">(+14.90%)</span> | 4,989<br/><span style="color: #004225;">(-11.60%)</span> | 5,640<br/><span style="color: #8B0000;">(+4.76%)</span> | 5,384<br/><span style="color: #B22222;">(+19.40%)</span> | 4,511<br/><span style="color: #B22222;">(+13.80%)</span> |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (研華) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **5.96** | **8.31** | **10.98** |
-| **P/E倍數** | **14.92** | **23.46** | **30.22** |
+| **EPS(元)** | **5.97** | **8.32** | **10.98** |
+| **P/E倍數** | **14.88** | **23.48** | **30.22** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 研華 歷史平均獲利能力 (σup=2.67, σlo=2.35)
-    - **P/Ebase**: 研華 歷史平均估值水準 (σup=6.76, σlo=8.54)
+    - **EPSbase**: 研華 歷史平均獲利能力 (σup=2.65, σlo=2.36)
+    - **P/Ebase**: 研華 歷史平均估值水準 (σup=6.74, σlo=8.59)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -283,17 +307,17 @@ description: 月營收表 研華 (2395) - 自動產生
 | **2007/02** | **-** | N/A | N/A | **118** | <span style="color: #004225; font-weight: bold;">6.27</span> | <span style="color: #004225; font-weight: bold;">18.82</span> |
 | **2007/01** | **-** | N/A | N/A | **104** | <span style="color: #004225; font-weight: bold;">6.28</span> | <span style="color: #004225; font-weight: bold;">16.55</span> |
 | **2006/12** | **-** | N/A | N/A | **117** | <span style="color: #004225; font-weight: bold;">6.3</span> | <span style="color: #004225; font-weight: bold;">18.57</span> |
-| **2006/11** | **-** | N/A | N/A | **99.9** | <span style="color: #004225; font-weight: bold;">6.28</span> | <span style="color: #004225; font-weight: bold;">15.91</span> |
-| **2006/10** | **-** | N/A | N/A | **92.6** | <span style="color: #004225; font-weight: bold;">6.26</span> | <span style="color: #006400; font-weight: bold;">14.8</span> |
-| **2006/09** | **-** | N/A | N/A | **95.3** | <span style="color: #004225; font-weight: bold;">6.24</span> | <span style="color: #004225; font-weight: bold;">15.28</span> |
-| **2006/08** | **-** | N/A | N/A | **93** | <span style="color: #004225; font-weight: bold;">6.22</span> | <span style="color: #004225; font-weight: bold;">14.96</span> |
-| **2006/07** | **-** | N/A | N/A | **100** | <span style="color: #004225; font-weight: bold;">6.2</span> | <span style="color: #004225; font-weight: bold;">16.14</span> |
-| **2006/06** | **-** | N/A | N/A | **92.8** | <span style="color: #004225; font-weight: bold;">6.18</span> | <span style="color: #004225; font-weight: bold;">15.03</span> |
-| **2006/05** | **-** | N/A | N/A | **86.7** | <span style="color: #004225; font-weight: bold;">6.15</span> | <span style="color: #006400; font-weight: bold;">14.09</span> |
-| **2006/04** | **-** | N/A | N/A | **87.5** | <span style="color: #004225; font-weight: bold;">6.13</span> | <span style="color: #006400; font-weight: bold;">14.27</span> |
-| **2006/03** | **-** | N/A | N/A | **89.9** | <span style="color: #004225; font-weight: bold;">6.11</span> | <span style="color: #006400; font-weight: bold;">14.71</span> |
-| **2006/02** | **-** | N/A | N/A | **88.7** | <span style="color: #004225; font-weight: bold;">6.09</span> | <span style="color: #006400; font-weight: bold;">14.56</span> |
-| **2006/01** | **-** | N/A | N/A | **91.5** | <span style="color: #004225; font-weight: bold;">6.07</span> | <span style="color: #004225; font-weight: bold;">15.07</span> |
+| **2006/11** | **-** | N/A | N/A | **99.9** | <span style="color: #004225; font-weight: bold;">6.3</span> | <span style="color: #004225; font-weight: bold;">15.86</span> |
+| **2006/10** | **-** | N/A | N/A | **92.6** | <span style="color: #004225; font-weight: bold;">6.3</span> | <span style="color: #006400; font-weight: bold;">14.7</span> |
+| **2006/09** | **-** | N/A | N/A | **95.3** | <span style="color: #004225; font-weight: bold;">6.3</span> | <span style="color: #004225; font-weight: bold;">15.13</span> |
+| **2006/08** | **-** | N/A | N/A | **93** | <span style="color: #004225; font-weight: bold;">6.3</span> | <span style="color: #006400; font-weight: bold;">14.76</span> |
+| **2006/07** | **-** | N/A | N/A | **100** | <span style="color: #004225; font-weight: bold;">6.3</span> | <span style="color: #004225; font-weight: bold;">15.87</span> |
+| **2006/06** | **-** | N/A | N/A | **92.8** | <span style="color: #004225; font-weight: bold;">6.3</span> | <span style="color: #006400; font-weight: bold;">14.73</span> |
+| **2006/05** | **-** | N/A | N/A | **86.7** | <span style="color: #004225; font-weight: bold;">6.3</span> | <span style="color: #006400; font-weight: bold;">13.76</span> |
+| **2006/04** | **-** | N/A | N/A | **87.5** | <span style="color: #004225; font-weight: bold;">6.3</span> | <span style="color: #006400; font-weight: bold;">13.89</span> |
+| **2006/03** | **-** | N/A | N/A | **89.9** | <span style="color: #004225; font-weight: bold;">6.3</span> | <span style="color: #006400; font-weight: bold;">14.27</span> |
+| **2006/02** | **-** | N/A | N/A | **88.7** | <span style="color: #004225; font-weight: bold;">6.3</span> | <span style="color: #006400; font-weight: bold;">14.08</span> |
+| **2006/01** | **-** | N/A | N/A | **91.5** | <span style="color: #004225; font-weight: bold;">6.3</span> | <span style="color: #006400; font-weight: bold;">14.52</span> |
 
 </div>
 
@@ -389,7 +413,7 @@ description: 月營收表 研華 (2395) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-02 11:58:31 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -25,7 +25,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
     **:building_construction: 公司名稱**: 世芯-KY  
     **:identification_card: 股票代號**: 3661  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-02 11:58:31 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 | <span style="color: #90EE90; font-weight: bold;">-61.4</span> | <span style="color: #228B22; font-weight: bold;">-37.8</span> | **180** 個月 | 2010/12 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 4,486<br/><span style="color: #DC143C;">(+27.80%)</span> | 3,510<br/><span style="color: #FF7F7F;">(+114.60%)</span> | 1,636<br/><span style="color: #FF7F7F;">(+106.20%)</span> | 793<br/><span style="color: #B22222;">(+18.30%)</span> |
+| **11月** | 1,698<br/><span style="color: #90EE90;">(-61.40%)</span> | 4,395<br/><span style="color: #FF7F7F;">(+50.90%)</span> | 2,912<br/><span style="color: #FF7F7F;">(+65.00%)</span> | 1,764<br/><span style="color: #FF7F7F;">(+108.10%)</span> | 848<br/><span style="color: #DC143C;">(+28.00%)</span> |
+| **10月** | 1,666<br/><span style="color: #90EE90;">(-60.30%)</span> | 4,193<br/><span style="color: #FF6347;">(+47.80%)</span> | 2,837<br/><span style="color: #FF7F7F;">(+130.70%)</span> | 1,230<br/><span style="color: #FF6347;">(+46.10%)</span> | 842<br/><span style="color: #FF6347;">(+46.80%)</span> |
+| **9月** | 1,673<br/><span style="color: #90EE90;">(-68.40%)</span> | 5,301<br/><span style="color: #FF7F7F;">(+82.60%)</span> | 2,903<br/><span style="color: #FF7F7F;">(+98.20%)</span> | 1,464<br/><span style="color: #FF7F7F;">(+61.80%)</span> | 905<br/><span style="color: #FF4500;">(+38.70%)</span> |
+| **8月** | 2,349<br/><span style="color: #32CD32;">(-49.70%)</span> | 4,669<br/><span style="color: #FF7F7F;">(+89.40%)</span> | 2,465<br/><span style="color: #FF7F7F;">(+111.40%)</span> | 1,166<br/><span style="color: #FF4500;">(+38.70%)</span> | 841<br/><span style="color: #DC143C;">(+22.70%)</span> |
+| **7月** | 2,638<br/><span style="color: #32CD32;">(-45.90%)</span> | 4,878<br/><span style="color: #FF7F7F;">(+116.30%)</span> | 2,255<br/><span style="color: #FF7F7F;">(+137.20%)</span> | 951<br/><span style="color: #B22222;">(+17.00%)</span> | 813<br/><span style="color: #DC143C;">(+23.80%)</span> |
+| **6月** | 3,096<br/><span style="color: #32CD32;">(-40.90%)</span> | 5,236<br/><span style="color: #FF7F7F;">(+100.60%)</span> | 2,610<br/><span style="color: #FF7F7F;">(+147.00%)</span> | 1,057<br/><span style="color: #FF4500;">(+32.50%)</span> | 798<br/><span style="color: #FF6347;">(+43.00%)</span> |
+| **5月** | 2,908<br/><span style="color: #228B22;">(-33.50%)</span> | 4,373<br/><span style="color: #FF7F7F;">(+60.60%)</span> | 2,722<br/><span style="color: #FF7F7F;">(+170.60%)</span> | 1,006<br/><span style="color: #8B0000;">(+9.35%)</span> | 919<br/><span style="color: #FF7F7F;">(+65.60%)</span> |
+| **4月** | 3,151<br/><span style="color: #006400;">(-21.50%)</span> | 4,014<br/><span style="color: #FF7F7F;">(+53.90%)</span> | 2,608<br/><span style="color: #FF7F7F;">(+185.50%)</span> | 913<br/><span style="color: #002818;">(-9.42%)</span> | 1,009<br/><span style="color: #FF7F7F;">(+90.10%)</span> |
+| **3月** | 3,619<br/><span style="color: #002818;">(-6.63%)</span> | 3,876<br/><span style="color: #FF7F7F;">(+51.90%)</span> | 2,551<br/><span style="color: #FF7F7F;">(+198.40%)</span> | 855<br/><span style="color: #004225;">(-17.20%)</span> | 1,033<br/><span style="color: #FF7F7F;">(+66.10%)</span> |
+| **2月** | 3,606<br/><span style="color: #B22222;">(+11.20%)</span> | 3,243<br/><span style="color: #FF7F7F;">(+110.80%)</span> | 1,538<br/><span style="color: #FF7F7F;">(+73.50%)</span> | 886<br/><span style="color: #8B0000;">(+1.12%)</span> | 877<br/><span style="color: #FF7F7F;">(+74.90%)</span> |
+| **1月** | 3,261<br/><span style="color: #002818;">(-3.37%)</span> | 3,374<br/><span style="color: #FF7F7F;">(+106.70%)</span> | 1,632<br/><span style="color: #FF7F7F;">(+86.60%)</span> | 875<br/><span style="color: #B22222;">(+16.80%)</span> | 749<br/><span style="color: #FF7F7F;">(+88.50%)</span> |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (世芯-KY) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **4.92** | **21.79** | **58.52** |
-| **P/E倍數** | **25.15** | **41.14** | **126.17** |
+| **P/E倍數** | **25.15** | **41.15** | **126.17** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 世芯-KY 歷史平均獲利能力 (σup=36.74, σlo=16.87)
-    - **P/Ebase**: 世芯-KY 歷史平均估值水準 (σup=85.03, σlo=15.99)
+    - **P/Ebase**: 世芯-KY 歷史平均估值水準 (σup=85.03, σlo=16.00)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -330,7 +354,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-02 11:58:31 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

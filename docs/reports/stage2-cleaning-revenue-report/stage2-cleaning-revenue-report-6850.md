@@ -25,7 +25,7 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
     **:building_construction: 公司名稱**: 光鼎生技  
     **:identification_card: 股票代號**: 6850  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-02 11:58:31 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 | <span style="color: #004225; font-weight: bold;">-13.3</span> | <span style="color: #8B0000; font-weight: bold;">+7.52</span> | **52** 個月 | 2021/08 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 19<br/><span style="color: #228B22;">(-30.60%)</span> | 27<br/><span style="color: #002818;">(-7.17%)</span> | 29<br/><span style="color: #8B0000;">(+9.62%)</span> | 26<br/><span style="color: #8B0000;">(+8.06%)</span> |
+| **11月** | 22<br/><span style="color: #004225;">(-13.30%)</span> | 25<br/><span style="color: #FF4500;">(+36.70%)</span> | 18<br/><span style="color: #228B22;">(-36.00%)</span> | 28<br/><span style="color: #B22222;">(+19.40%)</span> | 24<br/><span style="color: #8B0000;">(+5.73%)</span> |
+| **10月** | 22<br/><span style="color: #FF4500;">(+34.40%)</span> | 17<br/><span style="color: #006400;">(-29.90%)</span> | 24<br/><span style="color: #002818;">(-7.71%)</span> | 26<br/><span style="color: #B22222;">(+19.00%)</span> | 22<br/><span style="color: #FF7F7F;">(+116.70%)</span> |
+| **9月** | 12<br/><span style="color: #228B22;">(-32.70%)</span> | 18<br/><span style="color: #004225;">(-16.20%)</span> | 22<br/><span style="color: #FF4500;">(+32.20%)</span> | 16<br/><span style="color: #002818;">(-4.54%)</span> | 17<br/><span style="color: #FF6347;">(+47.30%)</span> |
+| **8月** | 20<br/><span style="color: #002818;">(-5.89%)</span> | 22<br/><span style="color: #DC143C;">(+26.80%)</span> | 17<br/><span style="color: #006400;">(-20.80%)</span> | 22<br/><span style="color: #FF7F7F;">(+58.00%)</span> | 14<br/><span style="color: #DC143C;">(+24.00%)</span> |
+| **7月** | 12<br/><span style="color: #32CD32;">(-47.50%)</span> | 23<br/><span style="color: #FF6347;">(+46.10%)</span> | 15<br/><span style="color: #004225;">(-19.90%)</span> | 19<br/><span style="color: #FF7F7F;">(+59.50%)</span> | -- |
+| **6月** | 16<br/><span style="color: #8B0000;">(+4.67%)</span> | 15<br/><span style="color: #006400;">(-24.00%)</span> | 20<br/><span style="color: #FF4500;">(+39.50%)</span> | 14<br/><span style="color: #B22222;">(+15.30%)</span> | -- |
+| **5月** | 14<br/><span style="color: #8B0000;">(+4.92%)</span> | 13<br/><span style="color: #228B22;">(-37.50%)</span> | 22<br/><span style="color: #004225;">(-13.20%)</span> | 25<br/><span style="color: #FF7F7F;">(+131.60%)</span> | -- |
+| **4月** | 25<br/><span style="color: #FF7F7F;">(+274.90%)</span> | 6<br/><span style="color: #90EE90;">(-66.80%)</span> | 20<br/><span style="color: #FF6347;">(+42.70%)</span> | 14<br/><span style="color: #DC143C;">(+28.80%)</span> | -- |
+| **3月** | 18<br/><span style="color: #B22222;">(+16.80%)</span> | 15<br/><span style="color: #006400;">(-24.40%)</span> | 20<br/><span style="color: #DC143C;">(+27.70%)</span> | 16<br/><span style="color: #002818;">(-3.49%)</span> | -- |
+| **2月** | 14<br/><span style="color: #FF6347;">(+41.90%)</span> | 10<br/><span style="color: #004225;">(-10.20%)</span> | 11<br/><span style="color: #B22222;">(+10.80%)</span> | 10<br/><span style="color: #FF7F7F;">(+122.40%)</span> | -- |
+| **1月** | 18<br/><span style="color: #B22222;">(+16.70%)</span> | 15<br/><span style="color: #FF7F7F;">(+95.80%)</span> | 8<br/><span style="color: #8B0000;">(+7.42%)</span> | 7<br/><span style="color: #DC143C;">(+20.90%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (光鼎生技) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **0.91** | **1.56** | **2.27** |
-| **P/E倍數** | **23.34** | **38.25** | **55.87** |
+| **P/E倍數** | **23.34** | **38.22** | **55.81** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 光鼎生技 歷史平均獲利能力 (σup=0.71, σlo=0.66)
-    - **P/Ebase**: 光鼎生技 歷史平均估值水準 (σup=17.62, σlo=14.91)
+    - **P/Ebase**: 光鼎生技 歷史平均估值水準 (σup=17.59, σlo=14.88)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -202,7 +226,7 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-02 11:58:31 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

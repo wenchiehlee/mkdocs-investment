@@ -25,7 +25,7 @@ description: 月營收表 愛派司 (6918) - 自動產生
     **:building_construction: 公司名稱**: 愛派司  
     **:identification_card: 股票代號**: 6918  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-02 11:58:31 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 愛派司 (6918) - 自動產生
 | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | <span style="color: #8B0000; font-weight: bold;">+9.67</span> | **40** 個月 | 2022/08 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 73<br/><span style="color: #B22222;">(+16.40%)</span> | 62<br/><span style="color: #8B0000;">(+9.00%)</span> | 57<br/><span style="color: #FF7F7F;">(+103.50%)</span> |
+| **11月** | 80<br/><span style="color: #DC143C;">(+25.10%)</span> | 64<br/><span style="color: #B22222;">(+11.20%)</span> | 57<br/><span style="color: #8B0000;">(+1.39%)</span> | 56<br/><span style="color: #B22222;">(+14.40%)</span> |
+| **10月** | 62<br/><span style="color: #002818;">(-7.00%)</span> | 67<br/><span style="color: #DC143C;">(+27.80%)</span> | 52<br/><span style="color: #8B0000;">(+0.36%)</span> | 52<br/><span style="color: #B22222;">(+14.40%)</span> |
+| **9月** | 70<br/><span style="color: #8B0000;">(+4.89%)</span> | 66<br/><span style="color: #DC143C;">(+22.80%)</span> | 54<br/><span style="color: #8B0000;">(+2.83%)</span> | 52<br/><span style="color: #B22222;">(+15.10%)</span> |
+| **8月** | 69<br/><span style="color: #8B0000;">(+2.17%)</span> | 67<br/><span style="color: #B22222;">(+10.40%)</span> | 61<br/><span style="color: #8B0000;">(+0.50%)</span> | 60<br/><span style="color: #DC143C;">(+25.00%)</span> |
+| **7月** | 71<br/><span style="color: #8B0000;">(+8.61%)</span> | 65<br/><span style="color: #8B0000;">(+9.45%)</span> | 60<br/><span style="color: #B22222;">(+12.60%)</span> | -- |
+| **6月** | 76<br/><span style="color: #DC143C;">(+24.00%)</span> | 61<br/><span style="color: #B22222;">(+17.20%)</span> | 52<br/><span style="color: #B22222;">(+13.70%)</span> | -- |
+| **5月** | 62<br/><span style="color: #8B0000;">(+5.69%)</span> | 58<br/><span style="color: #8B0000;">(+8.20%)</span> | 54<br/><span style="color: #DC143C;">(+21.20%)</span> | -- |
+| **4月** | 75<br/><span style="color: #B22222;">(+13.50%)</span> | 66<br/><span style="color: #DC143C;">(+22.80%)</span> | 54<br/><span style="color: #FF4500;">(+36.50%)</span> | -- |
+| **3月** | 63<br/><span style="color: #002818;">(-0.08%)</span> | 63<br/><span style="color: #B22222;">(+18.90%)</span> | 53<br/><span style="color: #B22222;">(+14.70%)</span> | -- |
+| **2月** | 69<br/><span style="color: #FF4500;">(+30.80%)</span> | 53<br/><span style="color: #004225;">(-10.80%)</span> | 59<br/><span style="color: #FF4500;">(+39.50%)</span> | -- |
+| **1月** | 63<br/><span style="color: #8B0000;">(+3.44%)</span> | 61<br/><span style="color: #B22222;">(+17.70%)</span> | 51<br/><span style="color: #004225;">(-15.10%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (愛派司) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **4.33** | **5.33** | **5.33** |
-| **P/E倍數** | **16.30** | **17.18** | **18.23** |
+| **P/E倍數** | **16.23** | **17.14** | **18.23** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 愛派司 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 愛派司 歷史平均估值水準 (σup=1.05, σlo=0.87)
+    - **P/Ebase**: 愛派司 歷史平均估值水準 (σup=1.08, σlo=0.91)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -190,7 +214,7 @@ description: 月營收表 愛派司 (6918) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-02 11:58:31 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
