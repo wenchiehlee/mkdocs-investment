@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,13 +25,37 @@ description: 月營收表 鈊象 (3293) - 自動產生
     **:building_construction: 公司名稱**: 鈊象  
     **:identification_card: 股票代號**: 3293  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+11.6</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **240** 個月 | 2005/12 至 2025/11 |
+| <span style="color: #B22222; font-weight: bold;">+11.6</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **239** 個月 | 2006/01 至 2025/11 |
+
+
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 1,710<br/><span style="color: #DC143C;">(+29.10%)</span> | 1,325<br/><span style="color: #DC143C;">(+20.20%)</span> | 1,102<br/><span style="color: #DC143C;">(+23.60%)</span> | 891<br/><span style="color: #8B0000;">(+9.87%)</span> |
+| **11月** | 1,864<br/><span style="color: #B22222;">(+11.60%)</span> | 1,671<br/><span style="color: #FF4500;">(+35.40%)</span> | 1,235<br/><span style="color: #DC143C;">(+20.60%)</span> | 1,023<br/><span style="color: #B22222;">(+11.70%)</span> | 916<br/><span style="color: #DC143C;">(+23.50%)</span> |
+| **10月** | 1,876<br/><span style="color: #B22222;">(+11.70%)</span> | 1,680<br/><span style="color: #FF4500;">(+36.50%)</span> | 1,231<br/><span style="color: #B22222;">(+18.20%)</span> | 1,042<br/><span style="color: #8B0000;">(+2.05%)</span> | 1,021<br/><span style="color: #FF4500;">(+32.40%)</span> |
+| **9月** | 1,795<br/><span style="color: #B22222;">(+13.50%)</span> | 1,582<br/><span style="color: #FF4500;">(+31.00%)</span> | 1,207<br/><span style="color: #DC143C;">(+20.40%)</span> | 1,002<br/><span style="color: #8B0000;">(+8.60%)</span> | 923<br/><span style="color: #DC143C;">(+21.40%)</span> |
+| **8月** | 1,818<br/><span style="color: #B22222;">(+13.50%)</span> | 1,602<br/><span style="color: #FF4500;">(+30.40%)</span> | 1,228<br/><span style="color: #DC143C;">(+21.50%)</span> | 1,011<br/><span style="color: #8B0000;">(+4.75%)</span> | 965<br/><span style="color: #FF4500;">(+31.30%)</span> |
+| **7月** | 1,771<br/><span style="color: #B22222;">(+16.90%)</span> | 1,515<br/><span style="color: #FF4500;">(+32.00%)</span> | 1,147<br/><span style="color: #B22222;">(+17.60%)</span> | 976<br/><span style="color: #8B0000;">(+0.72%)</span> | 969<br/><span style="color: #DC143C;">(+28.60%)</span> |
+| **6月** | 1,848<br/><span style="color: #B22222;">(+19.00%)</span> | 1,554<br/><span style="color: #FF4500;">(+32.90%)</span> | 1,169<br/><span style="color: #FF4500;">(+30.70%)</span> | 894<br/><span style="color: #002818;">(-6.87%)</span> | 961<br/><span style="color: #FF6347;">(+41.00%)</span> |
+| **5月** | 1,897<br/><span style="color: #DC143C;">(+20.70%)</span> | 1,572<br/><span style="color: #FF4500;">(+35.60%)</span> | 1,160<br/><span style="color: #B22222;">(+15.80%)</span> | 1,001<br/><span style="color: #8B0000;">(+3.90%)</span> | 963<br/><span style="color: #FF6347;">(+41.00%)</span> |
+| **4月** | 1,851<br/><span style="color: #DC143C;">(+27.70%)</span> | 1,449<br/><span style="color: #DC143C;">(+26.00%)</span> | 1,150<br/><span style="color: #B22222;">(+17.60%)</span> | 977<br/><span style="color: #8B0000;">(+5.92%)</span> | 923<br/><span style="color: #FF7F7F;">(+55.40%)</span> |
+| **3月** | 1,862<br/><span style="color: #DC143C;">(+26.60%)</span> | 1,471<br/><span style="color: #FF4500;">(+31.80%)</span> | 1,116<br/><span style="color: #B22222;">(+10.20%)</span> | 1,013<br/><span style="color: #8B0000;">(+1.86%)</span> | 994<br/><span style="color: #FF7F7F;">(+52.70%)</span> |
+| **2月** | 1,747<br/><span style="color: #DC143C;">(+25.20%)</span> | 1,395<br/><span style="color: #FF4500;">(+31.80%)</span> | 1,059<br/><span style="color: #B22222;">(+11.90%)</span> | 946<br/><span style="color: #8B0000;">(+3.08%)</span> | 918<br/><span style="color: #FF6347;">(+46.30%)</span> |
+| **1月** | 1,750<br/><span style="color: #FF4500;">(+33.50%)</span> | 1,311<br/><span style="color: #B22222;">(+14.10%)</span> | 1,149<br/><span style="color: #B22222;">(+19.70%)</span> | 960<br/><span style="color: #B22222;">(+14.10%)</span> | 841<br/><span style="color: #FF4500;">(+36.60%)</span> |
+
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (鈊象) - 非對稱分布
@@ -39,7 +63,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **9.80** | **21.53** | **45.25** |
-| **P/E倍數** | **13.21** | **19.14** | **33.43** |
+| **P/E倍數** | **13.21** | **19.13** | **33.43** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
@@ -49,7 +73,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
     - **P/Ebase**: 鈊象 歷史平均估值水準 (σup=14.30, σlo=5.93)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -294,7 +318,6 @@ description: 月營收表 鈊象 (3293) - 自動產生
 | **2006/03** | **-** | N/A | N/A | **-** | N/A | N/A |
 | **2006/02** | **-** | N/A | N/A | **-** | N/A | N/A |
 | **2006/01** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2005/12** | **-** | N/A | N/A | **-** | N/A | N/A |
 
 </div>
 
@@ -390,7 +413,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

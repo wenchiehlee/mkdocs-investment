@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 信驊 (5274) - 自動產生
     **:building_construction: 公司名稱**: 信驊  
     **:identification_card: 股票代號**: 5274  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 信驊 (5274) - 自動產生
 | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #FF6347; font-weight: bold;">+43.5</span> | **167** 個月 | 2012/01 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 737<br/><span style="color: #FF7F7F;">(+131.30%)</span> | 319<br/><span style="color: #004225;">(-18.50%)</span> | 391<br/><span style="color: #8B0000;">(+5.43%)</span> | 371<br/><span style="color: #FF4500;">(+32.10%)</span> |
+| **11月** | 840<br/><span style="color: #DC143C;">(+23.40%)</span> | 681<br/><span style="color: #FF7F7F;">(+99.10%)</span> | 342<br/><span style="color: #004225;">(-18.40%)</span> | 419<br/><span style="color: #FF4500;">(+37.60%)</span> | 305<br/><span style="color: #FF4500;">(+33.60%)</span> |
+| **10月** | 731<br/><span style="color: #8B0000;">(+6.53%)</span> | 686<br/><span style="color: #FF7F7F;">(+111.90%)</span> | 324<br/><span style="color: #228B22;">(-37.30%)</span> | 517<br/><span style="color: #FF6347;">(+45.10%)</span> | 356<br/><span style="color: #FF7F7F;">(+88.60%)</span> |
+| **9月** | 814<br/><span style="color: #B22222;">(+15.00%)</span> | 708<br/><span style="color: #FF7F7F;">(+120.20%)</span> | 322<br/><span style="color: #228B22;">(-32.50%)</span> | 476<br/><span style="color: #FF7F7F;">(+55.60%)</span> | 306<br/><span style="color: #FF6347;">(+47.70%)</span> |
+| **8月** | 744<br/><span style="color: #8B0000;">(+9.94%)</span> | 677<br/><span style="color: #FF7F7F;">(+178.10%)</span> | 243<br/><span style="color: #228B22;">(-39.50%)</span> | 403<br/><span style="color: #FF4500;">(+32.60%)</span> | 304<br/><span style="color: #FF6347;">(+49.50%)</span> |
+| **7月** | 771<br/><span style="color: #DC143C;">(+28.30%)</span> | 601<br/><span style="color: #FF7F7F;">(+159.40%)</span> | 231<br/><span style="color: #32CD32;">(-45.80%)</span> | 426<br/><span style="color: #DC143C;">(+29.70%)</span> | 329<br/><span style="color: #8B0000;">(+2.26%)</span> |
+| **6月** | 782<br/><span style="color: #FF7F7F;">(+55.00%)</span> | 505<br/><span style="color: #FF7F7F;">(+123.00%)</span> | 225<br/><span style="color: #90EE90;">(-55.20%)</span> | 505<br/><span style="color: #FF7F7F;">(+53.70%)</span> | 329<br/><span style="color: #8B0000;">(+1.08%)</span> |
+| **5月** | 760<br/><span style="color: #FF7F7F;">(+74.50%)</span> | 434<br/><span style="color: #FF7F7F;">(+92.90%)</span> | 225<br/><span style="color: #90EE90;">(-51.50%)</span> | 466<br/><span style="color: #FF7F7F;">(+52.70%)</span> | 305<br/><span style="color: #8B0000;">(+0.83%)</span> |
+| **4月** | 704<br/><span style="color: #FF7F7F;">(+69.40%)</span> | 416<br/><span style="color: #FF7F7F;">(+82.40%)</span> | 227<br/><span style="color: #32CD32;">(-49.80%)</span> | 454<br/><span style="color: #FF7F7F;">(+60.70%)</span> | 283<br/><span style="color: #8B0000;">(+3.29%)</span> |
+| **3月** | 755<br/><span style="color: #FF7F7F;">(+110.30%)</span> | 359<br/><span style="color: #FF7F7F;">(+59.00%)</span> | 225<br/><span style="color: #32CD32;">(-47.80%)</span> | 433<br/><span style="color: #FF7F7F;">(+66.30%)</span> | 260<br/><span style="color: #8B0000;">(+1.03%)</span> |
+| **2月** | 609<br/><span style="color: #FF7F7F;">(+108.60%)</span> | 292<br/><span style="color: #FF4500;">(+30.90%)</span> | 223<br/><span style="color: #228B22;">(-33.20%)</span> | 334<br/><span style="color: #FF4500;">(+32.50%)</span> | 252<br/><span style="color: #8B0000;">(+3.73%)</span> |
+| **1月** | 701<br/><span style="color: #FF7F7F;">(+93.40%)</span> | 362<br/><span style="color: #FF7F7F;">(+64.30%)</span> | 220<br/><span style="color: #32CD32;">(-42.70%)</span> | 385<br/><span style="color: #FF7F7F;">(+61.50%)</span> | 238<br/><span style="color: #8B0000;">(+2.76%)</span> |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (信驊) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **14.33** | **29.45** | **58.65** |
-| **P/E倍數** | **30.51** | **46.09** | **71.89** |
+| **P/E倍數** | **30.60** | **46.14** | **72.21** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 信驊 歷史平均獲利能力 (σup=29.20, σlo=15.12)
-    - **P/Ebase**: 信驊 歷史平均估值水準 (σup=25.80, σlo=15.58)
+    - **P/Ebase**: 信驊 歷史平均估值水準 (σup=26.08, σlo=15.54)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -120,7 +144,7 @@ description: 月營收表 信驊 (5274) - 自動產生
 | **2020/09** | **2.07** | <span style="color: #004225; font-weight: bold;">-15.2</span> | <span style="color: #FF4500; font-weight: bold;">+34.3</span> | **1135** | <span style="color: #002818; font-weight: bold;">28.13</span> | <span style="color: #002818; font-weight: bold;">40.34</span> |
 | **2020/08** | **2.03** | <span style="color: #004225; font-weight: bold;">-11</span> | <span style="color: #FF6347; font-weight: bold;">+42.3</span> | **1200** | <span style="color: #002818; font-weight: bold;">27.72</span> | <span style="color: #002818; font-weight: bold;">43.3</span> |
 | **2020/07** | **3.22** | <span style="color: #FF7F7F; font-weight: bold;">+50.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.8</span> | **1175** | <span style="color: #002818; font-weight: bold;">27.3</span> | <span style="color: #002818; font-weight: bold;">43.04</span> |
-| **2020/06** | **3.25** | <span style="color: #FF7F7F; font-weight: bold;">+92.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+52.1</span> | **1240** | <span style="color: #002818; font-weight: bold;">26.88</span> | <span style="color: #8B0000; font-weight: bold;">46.12</span> |
+| **2020/06** | **3.25** | <span style="color: #FF7F7F; font-weight: bold;">+92.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+52.1</span> | **1240** | <span style="color: #002818; font-weight: bold;">26.88</span> | <span style="color: #002818; font-weight: bold;">46.12</span> |
 | **2020/05** | **3.02** | <span style="color: #FF7F7F; font-weight: bold;">+85.7</span> | <span style="color: #FF6347; font-weight: bold;">+44.6</span> | **1550** | <span style="color: #002818; font-weight: bold;">26.47</span> | <span style="color: #8B0000; font-weight: bold;">58.56</span> |
 | **2020/04** | **2.74** | <span style="color: #FF6347; font-weight: bold;">+43.4</span> | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | **1190** | <span style="color: #002818; font-weight: bold;">26.05</span> | <span style="color: #002818; font-weight: bold;">45.68</span> |
 | **2020/03** | **2.58** | <span style="color: #FF6347; font-weight: bold;">+41.8</span> | <span style="color: #FF4500; font-weight: bold;">+32.9</span> | **1040** | <span style="color: #002818; font-weight: bold;">25.64</span> | <span style="color: #002818; font-weight: bold;">40.57</span> |
@@ -131,7 +155,7 @@ description: 月營收表 信驊 (5274) - 自動產生
 | **2019/10** | **2.35** | <span style="color: #FF7F7F; font-weight: bold;">+50.5</span> | <span style="color: #8B0000; font-weight: bold;">+9.35</span> | **798** | <span style="color: #002818; font-weight: bold;">23.69</span> | <span style="color: #004225; font-weight: bold;">33.68</span> |
 | **2019/09** | **2.45** | <span style="color: #FF4500; font-weight: bold;">+34.7</span> | <span style="color: #8B0000; font-weight: bold;">+5.5</span> | **789** | <span style="color: #002818; font-weight: bold;">23.34</span> | <span style="color: #004225; font-weight: bold;">33.8</span> |
 | **2019/08** | **2.28** | <span style="color: #B22222; font-weight: bold;">+13.7</span> | <span style="color: #8B0000; font-weight: bold;">+1.93</span> | **767** | <span style="color: #002818; font-weight: bold;">22.99</span> | <span style="color: #004225; font-weight: bold;">33.36</span> |
-| **2019/07** | **2.15** | <span style="color: #8B0000; font-weight: bold;">+6.64</span> | <span style="color: #8B0000; font-weight: bold;">+0.1</span> | **691** | <span style="color: #002818; font-weight: bold;">22.64</span> | <span style="color: #004225; font-weight: bold;">30.52</span> |
+| **2019/07** | **2.15** | <span style="color: #8B0000; font-weight: bold;">+6.64</span> | <span style="color: #8B0000; font-weight: bold;">+0.1</span> | **691** | <span style="color: #002818; font-weight: bold;">22.64</span> | <span style="color: #006400; font-weight: bold;">30.52</span> |
 | **2019/06** | **1.69** | <span style="color: #002818; font-weight: bold;">-3.47</span> | <span style="color: #002818; font-weight: bold;">-1.11</span> | **592** | <span style="color: #002818; font-weight: bold;">22.3</span> | <span style="color: #006400; font-weight: bold;">26.55</span> |
 | **2019/05** | **1.63** | <span style="color: #002818; font-weight: bold;">-4.98</span> | <span style="color: #002818; font-weight: bold;">-0.65</span> | **640** | <span style="color: #002818; font-weight: bold;">21.95</span> | <span style="color: #006400; font-weight: bold;">29.16</span> |
 | **2019/04** | **1.91** | <span style="color: #002818; font-weight: bold;">-5.12</span> | <span style="color: #8B0000; font-weight: bold;">+0.34</span> | **642** | <span style="color: #004225; font-weight: bold;">21.6</span> | <span style="color: #006400; font-weight: bold;">29.73</span> |
@@ -193,7 +217,7 @@ description: 月營收表 信驊 (5274) - 自動產生
 | **2014/08** | **0.674** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #FF4500; font-weight: bold;">+39.3</span> | **214.5** | <span style="color: #006400; font-weight: bold;">9.61</span> | <span style="color: #228B22; font-weight: bold;">22.31</span> |
 | **2014/07** | **0.773** | <span style="color: #FF7F7F; font-weight: bold;">+67.1</span> | <span style="color: #FF6347; font-weight: bold;">+42</span> | **237.5** | <span style="color: #006400; font-weight: bold;">9.34</span> | <span style="color: #006400; font-weight: bold;">25.44</span> |
 | **2014/06** | **0.773** | <span style="color: #FF7F7F; font-weight: bold;">+55.9</span> | <span style="color: #FF4500; font-weight: bold;">+38</span> | **267.5** | <span style="color: #006400; font-weight: bold;">9.06</span> | <span style="color: #006400; font-weight: bold;">29.53</span> |
-| **2014/05** | **0.809** | <span style="color: #FF7F7F; font-weight: bold;">+58.2</span> | <span style="color: #FF4500; font-weight: bold;">+34.4</span> | **268.5** | <span style="color: #006400; font-weight: bold;">8.78</span> | <span style="color: #004225; font-weight: bold;">30.57</span> |
+| **2014/05** | **0.809** | <span style="color: #FF7F7F; font-weight: bold;">+58.2</span> | <span style="color: #FF4500; font-weight: bold;">+34.4</span> | **268.5** | <span style="color: #006400; font-weight: bold;">8.78</span> | <span style="color: #006400; font-weight: bold;">30.57</span> |
 | **2014/04** | **0.703** | <span style="color: #DC143C; font-weight: bold;">+27.6</span> | <span style="color: #DC143C; font-weight: bold;">+28.1</span> | **261** | <span style="color: #006400; font-weight: bold;">8.51</span> | <span style="color: #004225; font-weight: bold;">30.68</span> |
 | **2014/03** | **0.624** | <span style="color: #B22222; font-weight: bold;">+13.9</span> | <span style="color: #DC143C; font-weight: bold;">+28.3</span> | **266** | <span style="color: #006400; font-weight: bold;">8.23</span> | <span style="color: #004225; font-weight: bold;">32.32</span> |
 | **2014/02** | **0.552** | <span style="color: #FF4500; font-weight: bold;">+37.2</span> | <span style="color: #FF4500; font-weight: bold;">+37.8</span> | **220** | <span style="color: #006400; font-weight: bold;">7.95</span> | <span style="color: #006400; font-weight: bold;">27.66</span> |
@@ -317,7 +341,7 @@ description: 月營收表 信驊 (5274) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 GOGOLOOK (6902) - 自動產生
     **:building_construction: 公司名稱**: GOGOLOOK  
     **:identification_card: 股票代號**: 6902  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 GOGOLOOK (6902) - 自動產生
 | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | **32** 個月 | 2023/04 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** |
+|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 85<br/><span style="color: #B22222;">(+10.50%)</span> | 77<br/><span style="color: #FF7F7F;">(+60.00%)</span> |
+| **11月** | 102<br/><span style="color: #B22222;">(+12.20%)</span> | 90<br/><span style="color: #FF4500;">(+34.10%)</span> | 67<br/><span style="color: #FF6347;">(+43.40%)</span> |
+| **10月** | 97<br/><span style="color: #FF4500;">(+36.80%)</span> | 71<br/><span style="color: #8B0000;">(+6.22%)</span> | 66<br/><span style="color: #FF7F7F;">(+77.00%)</span> |
+| **9月** | 96<br/><span style="color: #B22222;">(+14.90%)</span> | 84<br/><span style="color: #DC143C;">(+23.70%)</span> | 68<br/><span style="color: #FF7F7F;">(+92.90%)</span> |
+| **8月** | 86<br/><span style="color: #DC143C;">(+22.70%)</span> | 70<br/><span style="color: #B22222;">(+13.70%)</span> | 62<br/><span style="color: #FF7F7F;">(+81.50%)</span> |
+| **7月** | 83<br/><span style="color: #FF4500;">(+37.20%)</span> | 61<br/><span style="color: #8B0000;">(+7.98%)</span> | 56<br/><span style="color: #FF7F7F;">(+82.80%)</span> |
+| **6月** | 80<br/><span style="color: #B22222;">(+13.80%)</span> | 71<br/><span style="color: #DC143C;">(+20.10%)</span> | 59<br/><span style="color: #FF7F7F;">(+74.40%)</span> |
+| **5月** | 78<br/><span style="color: #B22222;">(+16.40%)</span> | 67<br/><span style="color: #8B0000;">(+6.58%)</span> | 63<br/><span style="color: #FF7F7F;">(+87.80%)</span> |
+| **4月** | 81<br/><span style="color: #FF6347;">(+41.20%)</span> | 57<br/><span style="color: #004225;">(-14.00%)</span> | 67<br/><span style="color: #FF7F7F;">(+120.00%)</span> |
+| **3月** | 85<br/><span style="color: #FF4500;">(+31.00%)</span> | 65<br/><span style="color: #8B0000;">(+5.09%)</span> | -- |
+| **2月** | 78<br/><span style="color: #B22222;">(+17.70%)</span> | 66<br/><span style="color: #002818;">(-1.53%)</span> | -- |
+| **1月** | 76<br/><span style="color: #8B0000;">(+0.44%)</span> | 75<br/><span style="color: #FF6347;">(+43.50%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (GOGOLOOK) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **-0.88** | **-0.41** | **0.03** |
-| **P/E倍數** | **1022.46** | **2587.46** | **9411.45** |
+| **P/E倍數** | **1016.00** | **2583.39** | **9410.62** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: GOGOLOOK 歷史平均獲利能力 (σup=0.44, σlo=0.47)
-    - **P/Ebase**: GOGOLOOK 歷史平均估值水準 (σup=6823.99, σlo=1564.99)
+    - **P/Ebase**: GOGOLOOK 歷史平均估值水準 (σup=6827.23, σlo=1567.39)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -182,7 +206,7 @@ description: 月營收表 GOGOLOOK (6902) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

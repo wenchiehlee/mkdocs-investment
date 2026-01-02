@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 博弘 (6997) - 自動產生
     **:building_construction: 公司名稱**: 博弘  
     **:identification_card: 股票代號**: 6997  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 博弘 (6997) - 自動產生
 | <span style="color: #FF4500; font-weight: bold;">+30.7</span> | <span style="color: #B22222; font-weight: bold;">+10.6</span> | **28** 個月 | 2023/08 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** |
+|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 339<br/><span style="color: #004225;">(-16.40%)</span> | 405<br/><span style="color: #002818;">(-0.33%)</span> |
+| **11月** | 446<br/><span style="color: #FF4500;">(+30.70%)</span> | 341<br/><span style="color: #004225;">(-17.80%)</span> | 415<br/><span style="color: #002818;">(-5.11%)</span> |
+| **10月** | 398<br/><span style="color: #B22222;">(+18.80%)</span> | 335<br/><span style="color: #004225;">(-17.60%)</span> | 407<br/><span style="color: #002818;">(-7.53%)</span> |
+| **9月** | 387<br/><span style="color: #B22222;">(+18.10%)</span> | 328<br/><span style="color: #004225;">(-16.80%)</span> | 394<br/><span style="color: #002818;">(-7.53%)</span> |
+| **8月** | 378<br/><span style="color: #8B0000;">(+8.64%)</span> | 348<br/><span style="color: #004225;">(-14.00%)</span> | 404<br/><span style="color: #002818;">(-5.43%)</span> |
+| **7月** | 357<br/><span style="color: #8B0000;">(+0.76%)</span> | 354<br/><span style="color: #004225;">(-12.10%)</span> | -- |
+| **6月** | 334<br/><span style="color: #8B0000;">(+0.17%)</span> | 333<br/><span style="color: #002818;">(-9.46%)</span> | -- |
+| **5月** | 350<br/><span style="color: #002818;">(-0.10%)</span> | 351<br/><span style="color: #004225;">(-10.10%)</span> | -- |
+| **4月** | 353<br/><span style="color: #8B0000;">(+5.95%)</span> | 333<br/><span style="color: #004225;">(-16.00%)</span> | -- |
+| **3月** | 354<br/><span style="color: #8B0000;">(+9.64%)</span> | 323<br/><span style="color: #006400;">(-20.80%)</span> | -- |
+| **2月** | 333<br/><span style="color: #B22222;">(+13.40%)</span> | 294<br/><span style="color: #006400;">(-20.70%)</span> | -- |
+| **1月** | 362<br/><span style="color: #B22222;">(+11.70%)</span> | 324<br/><span style="color: #004225;">(-16.40%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (博弘) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **4.44** | **5.07** | **5.75** |
-| **P/E倍數** | **20.51** | **21.72** | **22.77** |
+| **P/E倍數** | **20.51** | **21.70** | **22.74** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 博弘 歷史平均獲利能力 (σup=0.68, σlo=0.63)
-    - **P/Ebase**: 博弘 歷史平均估值水準 (σup=1.05, σlo=1.21)
+    - **P/Ebase**: 博弘 歷史平均估值水準 (σup=1.04, σlo=1.20)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -178,7 +202,7 @@ description: 月營收表 博弘 (6997) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 緯軟 (4953) - 自動產生
     **:building_construction: 公司名稱**: 緯軟  
     **:identification_card: 股票代號**: 4953  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,12 +34,36 @@ description: 月營收表 緯軟 (4953) - 自動產生
 | <span style="color: #B22222; font-weight: bold;">+18</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **186** 個月 | 2010/06 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 913<br/><span style="color: #8B0000;">(+8.05%)</span> | 844<br/><span style="color: #B22222;">(+19.20%)</span> | 709<br/><span style="color: #B22222;">(+16.70%)</span> | 607<br/><span style="color: #FF4500;">(+32.50%)</span> |
+| **11月** | 1,076<br/><span style="color: #B22222;">(+18.00%)</span> | 911<br/><span style="color: #B22222;">(+10.90%)</span> | 822<br/><span style="color: #B22222;">(+15.50%)</span> | 711<br/><span style="color: #DC143C;">(+20.00%)</span> | 593<br/><span style="color: #FF4500;">(+30.60%)</span> |
+| **10月** | 1,003<br/><span style="color: #B22222;">(+13.20%)</span> | 886<br/><span style="color: #B22222;">(+14.80%)</span> | 772<br/><span style="color: #B22222;">(+14.90%)</span> | 672<br/><span style="color: #DC143C;">(+23.20%)</span> | 546<br/><span style="color: #DC143C;">(+29.80%)</span> |
+| **9月** | 1,047<br/><span style="color: #B22222;">(+19.10%)</span> | 878<br/><span style="color: #B22222;">(+14.40%)</span> | 769<br/><span style="color: #8B0000;">(+9.49%)</span> | 702<br/><span style="color: #DC143C;">(+29.00%)</span> | 544<br/><span style="color: #DC143C;">(+21.00%)</span> |
+| **8月** | 984<br/><span style="color: #B22222;">(+12.80%)</span> | 872<br/><span style="color: #B22222;">(+17.40%)</span> | 743<br/><span style="color: #8B0000;">(+6.24%)</span> | 699<br/><span style="color: #FF4500;">(+33.30%)</span> | 525<br/><span style="color: #B22222;">(+17.70%)</span> |
+| **7月** | 955<br/><span style="color: #B22222;">(+11.00%)</span> | 860<br/><span style="color: #DC143C;">(+21.40%)</span> | 709<br/><span style="color: #8B0000;">(+4.71%)</span> | 677<br/><span style="color: #DC143C;">(+27.90%)</span> | 529<br/><span style="color: #B22222;">(+18.80%)</span> |
+| **6月** | 900<br/><span style="color: #8B0000;">(+8.80%)</span> | 827<br/><span style="color: #B22222;">(+16.80%)</span> | 708<br/><span style="color: #8B0000;">(+7.27%)</span> | 660<br/><span style="color: #FF4500;">(+31.60%)</span> | 501<br/><span style="color: #B22222;">(+14.00%)</span> |
+| **5月** | 890<br/><span style="color: #8B0000;">(+5.38%)</span> | 844<br/><span style="color: #B22222;">(+19.30%)</span> | 707<br/><span style="color: #B22222;">(+10.00%)</span> | 643<br/><span style="color: #FF4500;">(+34.20%)</span> | 479<br/><span style="color: #B22222;">(+15.40%)</span> |
+| **4月** | 934<br/><span style="color: #8B0000;">(+9.47%)</span> | 852<br/><span style="color: #B22222;">(+19.70%)</span> | 712<br/><span style="color: #B22222;">(+10.00%)</span> | 647<br/><span style="color: #FF4500;">(+33.60%)</span> | 484<br/><span style="color: #B22222;">(+11.80%)</span> |
+| **3月** | 926<br/><span style="color: #B22222;">(+12.00%)</span> | 827<br/><span style="color: #B22222;">(+15.70%)</span> | 714<br/><span style="color: #8B0000;">(+9.18%)</span> | 654<br/><span style="color: #FF4500;">(+37.10%)</span> | 476<br/><span style="color: #DC143C;">(+20.90%)</span> |
+| **2月** | 869<br/><span style="color: #B22222;">(+15.90%)</span> | 751<br/><span style="color: #8B0000;">(+9.69%)</span> | 684<br/><span style="color: #B22222;">(+19.00%)</span> | 575<br/><span style="color: #FF4500;">(+34.40%)</span> | 428<br/><span style="color: #DC143C;">(+25.30%)</span> |
+| **1月** | 846<br/><span style="color: #8B0000;">(+0.54%)</span> | 841<br/><span style="color: #DC143C;">(+28.30%)</span> | 656<br/><span style="color: #8B0000;">(+9.43%)</span> | 599<br/><span style="color: #DC143C;">(+29.10%)</span> | 463<br/><span style="color: #B22222;">(+15.00%)</span> |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (緯軟) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **2.03** | **5.06** | **7.20** |
-| **P/E倍數** | **12.53** | **16.10** | **25.13** |
+| **P/E倍數** | **12.53** | **16.09** | **25.12** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
@@ -49,7 +73,7 @@ description: 月營收表 緯軟 (4953) - 自動產生
     - **P/Ebase**: 緯軟 歷史平均估值水準 (σup=9.03, σlo=3.56)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -336,7 +360,7 @@ description: 月營收表 緯軟 (4953) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

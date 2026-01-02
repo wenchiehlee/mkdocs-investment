@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,31 +25,55 @@ description: 月營收表 威剛 (3260) - 自動產生
     **:building_construction: 公司名稱**: 威剛  
     **:identification_card: 股票代號**: 3260  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+60.2</span> | <span style="color: #DC143C; font-weight: bold;">+27.1</span> | **240** 個月 | 2005/12 至 2025/11 |
+| <span style="color: #FF7F7F; font-weight: bold;">+60.2</span> | <span style="color: #DC143C; font-weight: bold;">+27.1</span> | **239** 個月 | 2006/01 至 2025/11 |
+
+
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 2,887<br/><span style="color: #002818;">(-8.20%)</span> | 3,145<br/><span style="color: #FF4500;">(+33.50%)</span> | 2,356<br/><span style="color: #006400;">(-27.90%)</span> | 3,267<br/><span style="color: #B22222;">(+16.80%)</span> |
+| **11月** | 5,598<br/><span style="color: #FF7F7F;">(+60.20%)</span> | 3,494<br/><span style="color: #004225;">(-14.70%)</span> | 4,095<br/><span style="color: #FF7F7F;">(+56.20%)</span> | 2,621<br/><span style="color: #006400;">(-26.70%)</span> | 3,576<br/><span style="color: #B22222;">(+14.50%)</span> |
+| **10月** | 4,463<br/><span style="color: #FF4500;">(+30.90%)</span> | 3,410<br/><span style="color: #004225;">(-10.00%)</span> | 3,790<br/><span style="color: #FF4500;">(+39.60%)</span> | 2,716<br/><span style="color: #004225;">(-18.20%)</span> | 3,322<br/><span style="color: #B22222;">(+14.90%)</span> |
+| **9月** | 5,244<br/><span style="color: #FF7F7F;">(+61.20%)</span> | 3,254<br/><span style="color: #002818;">(-2.65%)</span> | 3,342<br/><span style="color: #8B0000;">(+3.95%)</span> | 3,215<br/><span style="color: #8B0000;">(+0.37%)</span> | 3,203<br/><span style="color: #8B0000;">(+0.09%)</span> |
+| **8月** | 4,983<br/><span style="color: #FF7F7F;">(+64.50%)</span> | 3,029<br/><span style="color: #8B0000;">(+1.93%)</span> | 2,971<br/><span style="color: #002818;">(-1.12%)</span> | 3,005<br/><span style="color: #002818;">(-6.62%)</span> | 3,218<br/><span style="color: #DC143C;">(+20.00%)</span> |
+| **7月** | 4,261<br/><span style="color: #FF4500;">(+39.50%)</span> | 3,054<br/><span style="color: #FF4500;">(+34.00%)</span> | 2,278<br/><span style="color: #004225;">(-14.60%)</span> | 2,667<br/><span style="color: #004225;">(-18.40%)</span> | 3,268<br/><span style="color: #DC143C;">(+20.30%)</span> |
+| **6月** | 4,698<br/><span style="color: #FF7F7F;">(+59.00%)</span> | 2,954<br/><span style="color: #DC143C;">(+29.40%)</span> | 2,283<br/><span style="color: #006400;">(-23.90%)</span> | 2,999<br/><span style="color: #004225;">(-11.40%)</span> | 3,385<br/><span style="color: #DC143C;">(+23.00%)</span> |
+| **5月** | 4,169<br/><span style="color: #DC143C;">(+29.20%)</span> | 3,227<br/><span style="color: #FF4500;">(+31.50%)</span> | 2,454<br/><span style="color: #004225;">(-12.50%)</span> | 2,806<br/><span style="color: #006400;">(-22.80%)</span> | 3,634<br/><span style="color: #FF4500;">(+39.20%)</span> |
+| **4月** | 3,917<br/><span style="color: #8B0000;">(+1.78%)</span> | 3,847<br/><span style="color: #FF7F7F;">(+80.80%)</span> | 2,129<br/><span style="color: #006400;">(-26.80%)</span> | 2,907<br/><span style="color: #004225;">(-19.30%)</span> | 3,602<br/><span style="color: #FF7F7F;">(+74.00%)</span> |
+| **3月** | 3,743<br/><span style="color: #002818;">(-5.83%)</span> | 3,975<br/><span style="color: #FF7F7F;">(+56.60%)</span> | 2,539<br/><span style="color: #006400;">(-22.00%)</span> | 3,254<br/><span style="color: #002818;">(-2.94%)</span> | 3,353<br/><span style="color: #B22222;">(+15.80%)</span> |
+| **2月** | 3,343<br/><span style="color: #8B0000;">(+0.07%)</span> | 3,340<br/><span style="color: #FF4500;">(+34.00%)</span> | 2,493<br/><span style="color: #006400;">(-21.70%)</span> | 3,186<br/><span style="color: #B22222;">(+13.30%)</span> | 2,812<br/><span style="color: #B22222;">(+12.30%)</span> |
+| **1月** | 2,814<br/><span style="color: #006400;">(-21.10%)</span> | 3,565<br/><span style="color: #FF7F7F;">(+63.80%)</span> | 2,177<br/><span style="color: #228B22;">(-34.40%)</span> | 3,321<br/><span style="color: #B22222;">(+13.30%)</span> | 2,931<br/><span style="color: #FF7F7F;">(+59.50%)</span> |
+
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (威剛) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-0.84** | **4.33** | **8.34** |
-| **P/E倍數** | **12.86** | **30.38** | **234.68** |
+| **EPS(元)** | **-0.84** | **4.30** | **8.30** |
+| **P/E倍數** | **12.92** | **30.53** | **234.76** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 威剛 歷史平均獲利能力 (σup=4.01, σlo=5.17)
-    - **P/Ebase**: 威剛 歷史平均估值水準 (σup=204.30, σlo=17.53)
+    - **EPSbase**: 威剛 歷史平均獲利能力 (σup=4.00, σlo=5.15)
+    - **P/Ebase**: 威剛 歷史平均估值水準 (σup=204.23, σlo=17.61)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -92,7 +116,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 | **2023/01** | **21.77** | <span style="color: #228B22; font-weight: bold;">-34.4</span> | <span style="color: #228B22; font-weight: bold;">-34.4</span> | **65.5** | <span style="color: #002818; font-weight: bold;">3.36</span> | <span style="color: #004225; font-weight: bold;">19.5</span> |
 | **2022/12** | **23.56** | <span style="color: #006400; font-weight: bold;">-27.9</span> | <span style="color: #004225; font-weight: bold;">-11.4</span> | **57** | <span style="color: #002818; font-weight: bold;">3.19</span> | <span style="color: #004225; font-weight: bold;">17.87</span> |
 | **2022/11** | **26.21** | <span style="color: #006400; font-weight: bold;">-26.7</span> | <span style="color: #002818; font-weight: bold;">-9.94</span> | **61.7** | <span style="color: #002818; font-weight: bold;">3.69</span> | <span style="color: #004225; font-weight: bold;">16.74</span> |
-| **2022/10** | **27.16** | <span style="color: #004225; font-weight: bold;">-18.2</span> | <span style="color: #002818; font-weight: bold;">-8.1</span> | **53.9** | <span style="color: #002818; font-weight: bold;">4.18</span> | <span style="color: #004225; font-weight: bold;">12.89</span> |
+| **2022/10** | **27.16** | <span style="color: #004225; font-weight: bold;">-18.2</span> | <span style="color: #002818; font-weight: bold;">-8.1</span> | **53.9** | <span style="color: #002818; font-weight: bold;">4.18</span> | <span style="color: #006400; font-weight: bold;">12.89</span> |
 | **2022/09** | **32.15** | <span style="color: #8B0000; font-weight: bold;">+0.37</span> | <span style="color: #002818; font-weight: bold;">-6.96</span> | **51.9** | <span style="color: #8B0000; font-weight: bold;">4.68</span> | <span style="color: #006400; font-weight: bold;">11.1</span> |
 | **2022/08** | **30.05** | <span style="color: #002818; font-weight: bold;">-6.62</span> | <span style="color: #002818; font-weight: bold;">-7.86</span> | **61.1** | <span style="color: #8B0000; font-weight: bold;">5.17</span> | <span style="color: #006400; font-weight: bold;">11.81</span> |
 | **2022/07** | **26.67** | <span style="color: #004225; font-weight: bold;">-18.4</span> | <span style="color: #002818; font-weight: bold;">-8.03</span> | **58.4** | <span style="color: #8B0000; font-weight: bold;">5.67</span> | <span style="color: #006400; font-weight: bold;">10.3</span> |
@@ -159,7 +183,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 | **2017/06** | **27.54** | <span style="color: #FF6347; font-weight: bold;">+46.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.4</span> | **74.7** | <span style="color: #B22222; font-weight: bold;">7.4</span> | <span style="color: #006400; font-weight: bold;">10.09</span> |
 | **2017/05** | **25.46** | <span style="color: #FF7F7F; font-weight: bold;">+66</span> | <span style="color: #FF7F7F; font-weight: bold;">+62.4</span> | **75.1** | <span style="color: #B22222; font-weight: bold;">7.2</span> | <span style="color: #006400; font-weight: bold;">10.43</span> |
 | **2017/04** | **25.33** | <span style="color: #FF7F7F; font-weight: bold;">+54.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+61.5</span> | **71.5** | <span style="color: #B22222; font-weight: bold;">7.0</span> | <span style="color: #006400; font-weight: bold;">10.21</span> |
-| **2017/03** | **27.94** | <span style="color: #FF7F7F; font-weight: bold;">+62.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+63.9</span> | **78.2** | <span style="color: #B22222; font-weight: bold;">6.81</span> | <span style="color: #006400; font-weight: bold;">11.49</span> |
+| **2017/03** | **27.94** | <span style="color: #FF7F7F; font-weight: bold;">+62.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+63.9</span> | **78.2** | <span style="color: #B22222; font-weight: bold;">6.8</span> | <span style="color: #006400; font-weight: bold;">11.49</span> |
 | **2017/02** | **27.01** | <span style="color: #FF7F7F; font-weight: bold;">+102</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.8</span> | **53.3** | <span style="color: #B22222; font-weight: bold;">6.61</span> | <span style="color: #006400; font-weight: bold;">8.07</span> |
 | **2017/01** | **25.08** | <span style="color: #FF4500; font-weight: bold;">+37.4</span> | <span style="color: #FF4500; font-weight: bold;">+37.4</span> | **52.2** | <span style="color: #B22222; font-weight: bold;">6.41</span> | <span style="color: #006400; font-weight: bold;">8.15</span> |
 | **2016/12** | **22.65** | <span style="color: #DC143C; font-weight: bold;">+23.8</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **52.7** | <span style="color: #8B0000; font-weight: bold;">6.21</span> | <span style="color: #006400; font-weight: bold;">8.49</span> |
@@ -168,7 +192,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 | **2016/09** | **21.77** | <span style="color: #FF4500; font-weight: bold;">+32.5</span> | <span style="color: #8B0000; font-weight: bold;">+5.49</span> | **49.9** | <span style="color: #8B0000; font-weight: bold;">4.61</span> | <span style="color: #006400; font-weight: bold;">10.83</span> |
 | **2016/08** | **18.8** | <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #8B0000; font-weight: bold;">+2.16</span> | **42.45** | <span style="color: #002818; font-weight: bold;">4.07</span> | <span style="color: #006400; font-weight: bold;">10.42</span> |
 | **2016/07** | **18.04** | <span style="color: #B22222; font-weight: bold;">+16.1</span> | <span style="color: #8B0000; font-weight: bold;">+0.59</span> | **44.85** | <span style="color: #002818; font-weight: bold;">3.54</span> | <span style="color: #006400; font-weight: bold;">12.67</span> |
-| **2016/06** | **18.81** | <span style="color: #DC143C; font-weight: bold;">+25.7</span> | <span style="color: #002818; font-weight: bold;">-1.78</span> | **42.1** | <span style="color: #002818; font-weight: bold;">3.01</span> | <span style="color: #004225; font-weight: bold;">14.01</span> |
+| **2016/06** | **18.81** | <span style="color: #DC143C; font-weight: bold;">+25.7</span> | <span style="color: #002818; font-weight: bold;">-1.78</span> | **42.1** | <span style="color: #002818; font-weight: bold;">3.0</span> | <span style="color: #004225; font-weight: bold;">14.01</span> |
 | **2016/05** | **15.34** | <span style="color: #8B0000; font-weight: bold;">+5.43</span> | <span style="color: #002818; font-weight: bold;">-6.55</span> | **35** | <span style="color: #002818; font-weight: bold;">2.47</span> | <span style="color: #004225; font-weight: bold;">14.17</span> |
 | **2016/04** | **16.42** | <span style="color: #002818; font-weight: bold;">-4.28</span> | <span style="color: #002818; font-weight: bold;">-8.98</span> | **29.9** | <span style="color: #002818; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">15.44</span> |
 | **2016/03** | **17.2** | <span style="color: #004225; font-weight: bold;">-17</span> | <span style="color: #004225; font-weight: bold;">-10.5</span> | **32.15** | <span style="color: #004225; font-weight: bold;">1.4</span> | <span style="color: #002818; font-weight: bold;">22.92</span> |
@@ -189,8 +213,8 @@ description: 月營收表 威剛 (3260) - 自動產生
 | **2014/12** | **23.74** | <span style="color: #004225; font-weight: bold;">-17.9</span> | <span style="color: #004225; font-weight: bold;">-13.2</span> | **58.6** | <span style="color: #002818; font-weight: bold;">3.52</span> | <span style="color: #004225; font-weight: bold;">16.65</span> |
 | **2014/11** | **22** | <span style="color: #004225; font-weight: bold;">-15.4</span> | <span style="color: #004225; font-weight: bold;">-12.8</span> | **50.8** | <span style="color: #002818; font-weight: bold;">3.98</span> | <span style="color: #006400; font-weight: bold;">12.75</span> |
 | **2014/10** | **22.73** | <span style="color: #006400; font-weight: bold;">-24.2</span> | <span style="color: #004225; font-weight: bold;">-12.5</span> | **54.7** | <span style="color: #8B0000; font-weight: bold;">4.45</span> | <span style="color: #006400; font-weight: bold;">12.3</span> |
-| **2014/09** | **24.48** | <span style="color: #004225; font-weight: bold;">-10.2</span> | <span style="color: #004225; font-weight: bold;">-11.1</span> | **63.4** | <span style="color: #8B0000; font-weight: bold;">4.91</span> | <span style="color: #004225; font-weight: bold;">12.91</span> |
-| **2014/08** | **23.26** | <span style="color: #004225; font-weight: bold;">-12.9</span> | <span style="color: #004225; font-weight: bold;">-11.2</span> | **69.3** | <span style="color: #8B0000; font-weight: bold;">5.37</span> | <span style="color: #004225; font-weight: bold;">12.9</span> |
+| **2014/09** | **24.48** | <span style="color: #004225; font-weight: bold;">-10.2</span> | <span style="color: #004225; font-weight: bold;">-11.1</span> | **63.4** | <span style="color: #8B0000; font-weight: bold;">4.91</span> | <span style="color: #006400; font-weight: bold;">12.91</span> |
+| **2014/08** | **23.26** | <span style="color: #004225; font-weight: bold;">-12.9</span> | <span style="color: #004225; font-weight: bold;">-11.2</span> | **69.3** | <span style="color: #8B0000; font-weight: bold;">5.37</span> | <span style="color: #006400; font-weight: bold;">12.9</span> |
 | **2014/07** | **26.67** | <span style="color: #002818; font-weight: bold;">-7.31</span> | <span style="color: #004225; font-weight: bold;">-11</span> | **71.7** | <span style="color: #8B0000; font-weight: bold;">5.84</span> | <span style="color: #006400; font-weight: bold;">12.28</span> |
 | **2014/06** | **26.47** | <span style="color: #004225; font-weight: bold;">-20</span> | <span style="color: #004225; font-weight: bold;">-11.6</span> | **80.3** | <span style="color: #8B0000; font-weight: bold;">6.3</span> | <span style="color: #006400; font-weight: bold;">12.75</span> |
 | **2014/05** | **24.12** | <span style="color: #228B22; font-weight: bold;">-32</span> | <span style="color: #002818; font-weight: bold;">-9.58</span> | **77** | <span style="color: #B22222; font-weight: bold;">6.76</span> | <span style="color: #006400; font-weight: bold;">11.38</span> |
@@ -283,18 +307,17 @@ description: 月營收表 威剛 (3260) - 自動產生
 | **2007/02** | **-** | N/A | N/A | **123** | <span style="color: #DC143C; font-weight: bold;">9.91</span> | <span style="color: #006400; font-weight: bold;">12.42</span> |
 | **2007/01** | **-** | N/A | N/A | **124** | <span style="color: #FF4500; font-weight: bold;">10.86</span> | <span style="color: #006400; font-weight: bold;">11.41</span> |
 | **2006/12** | **-** | N/A | N/A | **148.5** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">12.56</span> |
-| **2006/11** | **-** | N/A | N/A | **117** | <span style="color: #FF4500; font-weight: bold;">11.81</span> | <span style="color: #006400; font-weight: bold;">9.9</span> |
-| **2006/10** | **-** | N/A | N/A | **110** | <span style="color: #FF4500; font-weight: bold;">11.81</span> | <span style="color: #006400; font-weight: bold;">9.32</span> |
-| **2006/09** | **-** | N/A | N/A | **114** | <span style="color: #FF4500; font-weight: bold;">11.8</span> | <span style="color: #006400; font-weight: bold;">9.66</span> |
-| **2006/08** | **-** | N/A | N/A | **105** | <span style="color: #FF4500; font-weight: bold;">11.79</span> | <span style="color: #006400; font-weight: bold;">8.9</span> |
-| **2006/07** | **-** | N/A | N/A | **111** | <span style="color: #FF4500; font-weight: bold;">11.79</span> | <span style="color: #006400; font-weight: bold;">9.42</span> |
-| **2006/06** | **-** | N/A | N/A | **101** | <span style="color: #FF4500; font-weight: bold;">11.78</span> | <span style="color: #006400; font-weight: bold;">8.57</span> |
-| **2006/05** | **-** | N/A | N/A | **110.5** | <span style="color: #FF4500; font-weight: bold;">11.77</span> | <span style="color: #006400; font-weight: bold;">9.39</span> |
-| **2006/04** | **-** | N/A | N/A | **104** | <span style="color: #FF4500; font-weight: bold;">11.77</span> | <span style="color: #006400; font-weight: bold;">8.84</span> |
-| **2006/03** | **-** | N/A | N/A | **93.7** | <span style="color: #FF4500; font-weight: bold;">11.76</span> | <span style="color: #006400; font-weight: bold;">7.97</span> |
-| **2006/02** | **-** | N/A | N/A | **94.1** | <span style="color: #FF4500; font-weight: bold;">11.75</span> | <span style="color: #006400; font-weight: bold;">8.01</span> |
-| **2006/01** | **-** | N/A | N/A | **109** | <span style="color: #FF4500; font-weight: bold;">11.75</span> | <span style="color: #006400; font-weight: bold;">9.28</span> |
-| **2005/12** | **-** | N/A | N/A | **101** | <span style="color: #FF4500; font-weight: bold;">11.74</span> | <span style="color: #006400; font-weight: bold;">8.6</span> |
+| **2006/11** | **-** | N/A | N/A | **117** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">9.9</span> |
+| **2006/10** | **-** | N/A | N/A | **110** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">9.31</span> |
+| **2006/09** | **-** | N/A | N/A | **114** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">9.64</span> |
+| **2006/08** | **-** | N/A | N/A | **105** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">8.88</span> |
+| **2006/07** | **-** | N/A | N/A | **111** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">9.39</span> |
+| **2006/06** | **-** | N/A | N/A | **101** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">8.54</span> |
+| **2006/05** | **-** | N/A | N/A | **110.5** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">9.35</span> |
+| **2006/04** | **-** | N/A | N/A | **104** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">8.8</span> |
+| **2006/03** | **-** | N/A | N/A | **93.7** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">7.93</span> |
+| **2006/02** | **-** | N/A | N/A | **94.1** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">7.96</span> |
+| **2006/01** | **-** | N/A | N/A | **109** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">9.22</span> |
 
 </div>
 
@@ -390,7 +413,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

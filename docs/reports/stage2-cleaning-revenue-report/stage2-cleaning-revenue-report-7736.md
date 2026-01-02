@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 虎山 (7736) - 自動產生
     **:building_construction: 公司名稱**: 虎山  
     **:identification_card: 股票代號**: 7736  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 虎山 (7736) - 自動產生
 | <span style="color: #8B0000; font-weight: bold;">+5.45</span> | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | **23** 個月 | 2024/01 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** |
+|:----------:|:----------:|:----------:|
+| **12月** | -- | 128<br/><span style="color: #FF7F7F;">(+51.90%)</span> |
+| **11月** | 137<br/><span style="color: #8B0000;">(+5.45%)</span> | 130<br/><span style="color: #B22222;">(+14.50%)</span> |
+| **10月** | 133<br/><span style="color: #8B0000;">(+2.29%)</span> | 130<br/><span style="color: #8B0000;">(+4.98%)</span> |
+| **9月** | 144<br/><span style="color: #DC143C;">(+22.90%)</span> | 117<br/><span style="color: #FF7F7F;">(+84.00%)</span> |
+| **8月** | 145<br/><span style="color: #8B0000;">(+3.36%)</span> | 140<br/><span style="color: #B22222;">(+10.10%)</span> |
+| **7月** | 140<br/><span style="color: #FF4500;">(+35.60%)</span> | 103<br/><span style="color: #B22222;">(+12.30%)</span> |
+| **6月** | 157<br/><span style="color: #B22222;">(+15.50%)</span> | 136<br/><span style="color: #FF7F7F;">(+53.00%)</span> |
+| **5月** | 124<br/><span style="color: #FF6347;">(+45.30%)</span> | 85<br/><span style="color: #004225;">(-11.20%)</span> |
+| **4月** | 144<br/><span style="color: #FF6347;">(+43.90%)</span> | 100<br/><span style="color: #002818;">(-2.23%)</span> |
+| **3月** | 148<br/><span style="color: #FF6347;">(+48.80%)</span> | 99<br/><span style="color: #002818;">(-8.96%)</span> |
+| **2月** | 146<br/><span style="color: #FF7F7F;">(+52.20%)</span> | 95<br/><span style="color: #B22222;">(+16.50%)</span> |
+| **1月** | 129<br/><span style="color: #FF4500;">(+39.60%)</span> | 92<br/><span style="color: #B22222;">(+15.70%)</span> |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (虎山) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **4.49** | **5.49** | **5.49** |
-| **P/E倍數** | **16.94** | **18.15** | **19.62** |
+| **P/E倍數** | **16.85** | **18.12** | **19.62** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 虎山 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 虎山 歷史平均估值水準 (σup=1.47, σlo=1.21)
+    - **P/Ebase**: 虎山 歷史平均估值水準 (σup=1.50, σlo=1.27)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -57,7 +81,7 @@ description: 月營收表 虎山 (7736) - 自動產生
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2025/11** | **1.37** | <span style="color: #8B0000; font-weight: bold;">+5.45</span> | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | **92** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #006400; font-weight: bold;">16.76</span> |
 | **2025/10** | **1.33** | <span style="color: #8B0000; font-weight: bold;">+2.29</span> | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | **94.3** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #004225; font-weight: bold;">17.18</span> |
-| **2025/09** | **1.44** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #FF4500; font-weight: bold;">+31.7</span> | **92.6** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #006400; font-weight: bold;">16.87</span> |
+| **2025/09** | **1.44** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #FF4500; font-weight: bold;">+31.7</span> | **92.6** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #004225; font-weight: bold;">16.87</span> |
 | **2025/08** | **1.45** | <span style="color: #8B0000; font-weight: bold;">+3.36</span> | <span style="color: #FF4500; font-weight: bold;">+32.9</span> | **94.6** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #004225; font-weight: bold;">17.23</span> |
 | **2025/07** | **1.4** | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | <span style="color: #FF4500; font-weight: bold;">+38.7</span> | **101** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #8B0000; font-weight: bold;">18.4</span> |
 | **2025/06** | **1.57** | <span style="color: #B22222; font-weight: bold;">+15.5</span> | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | **100.5** | <span style="color: #000000; font-weight: bold;">5.49</span> | <span style="color: #8B0000; font-weight: bold;">18.31</span> |
@@ -173,7 +197,7 @@ description: 月營收表 虎山 (7736) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

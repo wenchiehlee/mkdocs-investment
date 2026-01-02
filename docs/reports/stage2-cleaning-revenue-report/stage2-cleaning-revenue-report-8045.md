@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,13 +25,37 @@ description: 月營收表 達運光電 (8045) - 自動產生
     **:building_construction: 公司名稱**: 達運光電  
     **:identification_card: 股票代號**: 8045  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #90EE90; font-weight: bold;">-52.8</span> | <span style="color: #228B22; font-weight: bold;">-32.1</span> | **237** 個月 | 2005/12 至 2025/11 |
+| <span style="color: #90EE90; font-weight: bold;">-52.8</span> | <span style="color: #228B22; font-weight: bold;">-32.1</span> | **236** 個月 | 2006/01 至 2025/11 |
+
+
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 79<br/><span style="color: #90EE90;">(-75.60%)</span> | 327<br/><span style="color: #FF7F7F;">(+204.90%)</span> | 107<br/><span style="color: #006400;">(-25.20%)</span> | 144<br/><span style="color: #DC143C;">(+24.80%)</span> |
+| **11月** | 48<br/><span style="color: #90EE90;">(-52.80%)</span> | 102<br/><span style="color: #90EE90;">(-64.90%)</span> | 291<br/><span style="color: #FF7F7F;">(+151.90%)</span> | 114<br/><span style="color: #FF4500;">(+34.00%)</span> | 86<br/><span style="color: #004225;">(-16.80%)</span> |
+| **10月** | 57<br/><span style="color: #90EE90;">(-58.40%)</span> | 138<br/><span style="color: #90EE90;">(-51.70%)</span> | 286<br/><span style="color: #FF7F7F;">(+298.90%)</span> | 71<br/><span style="color: #004225;">(-18.70%)</span> | 88<br/><span style="color: #006400;">(-26.80%)</span> |
+| **9月** | 106<br/><span style="color: #FF7F7F;">(+173.20%)</span> | 38<br/><span style="color: #90EE90;">(-87.60%)</span> | 315<br/><span style="color: #FF7F7F;">(+188.60%)</span> | 109<br/><span style="color: #8B0000;">(+3.43%)</span> | 105<br/><span style="color: #B22222;">(+13.60%)</span> |
+| **8月** | 107<br/><span style="color: #8B0000;">(+5.64%)</span> | 102<br/><span style="color: #90EE90;">(-52.40%)</span> | 214<br/><span style="color: #FF7F7F;">(+268.20%)</span> | 57<br/><span style="color: #228B22;">(-30.50%)</span> | 83<br/><span style="color: #228B22;">(-36.90%)</span> |
+| **7月** | 139<br/><span style="color: #32CD32;">(-44.50%)</span> | 250<br/><span style="color: #002818;">(-3.75%)</span> | 261<br/><span style="color: #FF7F7F;">(+284.70%)</span> | 67<br/><span style="color: #004225;">(-16.50%)</span> | 81<br/><span style="color: #B22222;">(+10.60%)</span> |
+| **6月** | 111<br/><span style="color: #228B22;">(-38.20%)</span> | 181<br/><span style="color: #006400;">(-21.90%)</span> | 231<br/><span style="color: #FF7F7F;">(+159.10%)</span> | 89<br/><span style="color: #004225;">(-12.60%)</span> | 102<br/><span style="color: #FF6347;">(+47.50%)</span> |
+| **5月** | 104<br/><span style="color: #228B22;">(-37.10%)</span> | 165<br/><span style="color: #002818;">(-5.09%)</span> | 174<br/><span style="color: #FF7F7F;">(+123.40%)</span> | 78<br/><span style="color: #B22222;">(+10.20%)</span> | 70<br/><span style="color: #004225;">(-14.60%)</span> |
+| **4月** | 119<br/><span style="color: #DC143C;">(+25.50%)</span> | 95<br/><span style="color: #8B0000;">(+0.01%)</span> | 95<br/><span style="color: #DC143C;">(+25.80%)</span> | 75<br/><span style="color: #002818;">(-0.63%)</span> | 76<br/><span style="color: #002818;">(-3.14%)</span> |
+| **3月** | 135<br/><span style="color: #8B0000;">(+9.05%)</span> | 124<br/><span style="color: #FF7F7F;">(+137.60%)</span> | 52<br/><span style="color: #32CD32;">(-49.20%)</span> | 103<br/><span style="color: #004225;">(-17.30%)</span> | 124<br/><span style="color: #FF7F7F;">(+147.70%)</span> |
+| **2月** | 107<br/><span style="color: #006400;">(-29.70%)</span> | 152<br/><span style="color: #FF7F7F;">(+233.30%)</span> | 45<br/><span style="color: #32CD32;">(-41.70%)</span> | 78<br/><span style="color: #8B0000;">(+4.98%)</span> | 74<br/><span style="color: #DC143C;">(+22.30%)</span> |
+| **1月** | 68<br/><span style="color: #90EE90;">(-75.20%)</span> | 278<br/><span style="color: #FF7F7F;">(+651.60%)</span> | 37<br/><span style="color: #32CD32;">(-44.00%)</span> | 66<br/><span style="color: #32CD32;">(-49.10%)</span> | 130<br/><span style="color: #FF7F7F;">(+72.10%)</span> |
+
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (達運光電) - 非對稱分布
@@ -39,17 +63,17 @@ description: 月營收表 達運光電 (8045) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **1.08** | **1.62** | **2.12** |
-| **P/E倍數** | **45.58** | **64.57** | **86.07** |
+| **P/E倍數** | **45.51** | **64.12** | **84.39** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 達運光電 歷史平均獲利能力 (σup=0.50, σlo=0.54)
-    - **P/Ebase**: 達運光電 歷史平均估值水準 (σup=21.50, σlo=18.98)
+    - **P/Ebase**: 達運光電 歷史平均估值水準 (σup=20.27, σlo=18.61)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -291,7 +315,6 @@ description: 月營收表 達運光電 (8045) - 自動產生
 | **2006/03** | **-** | N/A | N/A | **-** | N/A | N/A |
 | **2006/02** | **-** | N/A | N/A | **-** | N/A | N/A |
 | **2006/01** | **-** | N/A | N/A | **-** | N/A | N/A |
-| **2005/12** | **-** | N/A | N/A | **-** | N/A | N/A |
 
 </div>
 
@@ -387,7 +410,7 @@ description: 月營收表 達運光電 (8045) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

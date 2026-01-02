@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 久昌 (6720) - 自動產生
     **:building_construction: 公司名稱**: 久昌  
     **:identification_card: 股票代號**: 6720  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,37 +34,61 @@ description: 月營收表 久昌 (6720) - 自動產生
 | <span style="color: #006400; font-weight: bold;">-25.7</span> | <span style="color: #004225; font-weight: bold;">-13.6</span> | **85** 個月 | 2018/11 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 40<br/><span style="color: #8B0000;">(+4.81%)</span> | 38<br/><span style="color: #FF7F7F;">(+126.40%)</span> | 17<br/><span style="color: #228B22;">(-31.40%)</span> | 25<br/><span style="color: #004225;">(-16.70%)</span> |
+| **11月** | 32<br/><span style="color: #006400;">(-25.70%)</span> | 44<br/><span style="color: #FF4500;">(+34.70%)</span> | 32<br/><span style="color: #FF7F7F;">(+78.10%)</span> | 18<br/><span style="color: #006400;">(-21.30%)</span> | 23<br/><span style="color: #004225;">(-13.70%)</span> |
+| **10月** | 29<br/><span style="color: #006400;">(-29.00%)</span> | 41<br/><span style="color: #DC143C;">(+25.40%)</span> | 33<br/><span style="color: #FF7F7F;">(+76.80%)</span> | 18<br/><span style="color: #228B22;">(-30.70%)</span> | 27<br/><span style="color: #8B0000;">(+0.10%)</span> |
+| **9月** | 29<br/><span style="color: #006400;">(-27.90%)</span> | 41<br/><span style="color: #DC143C;">(+24.20%)</span> | 33<br/><span style="color: #FF7F7F;">(+74.60%)</span> | 18<br/><span style="color: #228B22;">(-31.50%)</span> | 27<br/><span style="color: #8B0000;">(+8.87%)</span> |
+| **8月** | 25<br/><span style="color: #228B22;">(-33.10%)</span> | 38<br/><span style="color: #8B0000;">(+9.68%)</span> | 35<br/><span style="color: #FF7F7F;">(+63.10%)</span> | 21<br/><span style="color: #006400;">(-23.70%)</span> | 28<br/><span style="color: #8B0000;">(+1.60%)</span> |
+| **7月** | 31<br/><span style="color: #006400;">(-26.70%)</span> | 42<br/><span style="color: #FF6347;">(+40.70%)</span> | 30<br/><span style="color: #FF7F7F;">(+60.60%)</span> | 18<br/><span style="color: #228B22;">(-35.00%)</span> | 29<br/><span style="color: #B22222;">(+14.80%)</span> |
+| **6月** | 36<br/><span style="color: #006400;">(-21.10%)</span> | 45<br/><span style="color: #FF7F7F;">(+54.50%)</span> | 29<br/><span style="color: #FF6347;">(+44.80%)</span> | 20<br/><span style="color: #32CD32;">(-41.30%)</span> | 34<br/><span style="color: #B22222;">(+13.70%)</span> |
+| **5月** | 40<br/><span style="color: #004225;">(-17.50%)</span> | 48<br/><span style="color: #FF7F7F;">(+53.00%)</span> | 31<br/><span style="color: #FF7F7F;">(+62.70%)</span> | 19<br/><span style="color: #32CD32;">(-48.80%)</span> | 38<br/><span style="color: #DC143C;">(+20.80%)</span> |
+| **4月** | 46<br/><span style="color: #002818;">(-8.86%)</span> | 51<br/><span style="color: #FF7F7F;">(+70.70%)</span> | 30<br/><span style="color: #FF6347;">(+41.60%)</span> | 21<br/><span style="color: #32CD32;">(-41.80%)</span> | 36<br/><span style="color: #FF7F7F;">(+93.60%)</span> |
+| **3月** | 47<br/><span style="color: #B22222;">(+16.60%)</span> | 40<br/><span style="color: #FF7F7F;">(+52.00%)</span> | 26<br/><span style="color: #B22222;">(+17.90%)</span> | 22<br/><span style="color: #228B22;">(-38.00%)</span> | 36<br/><span style="color: #FF7F7F;">(+193.20%)</span> |
+| **2月** | 43<br/><span style="color: #DC143C;">(+28.40%)</span> | 33<br/><span style="color: #FF7F7F;">(+67.60%)</span> | 20<br/><span style="color: #002818;">(-8.18%)</span> | 21<br/><span style="color: #8B0000;">(+1.13%)</span> | 21<br/><span style="color: #FF7F7F;">(+83.60%)</span> |
+| **1月** | 42<br/><span style="color: #8B0000;">(+4.20%)</span> | 40<br/><span style="color: #FF7F7F;">(+113.60%)</span> | 19<br/><span style="color: #004225;">(-15.20%)</span> | 22<br/><span style="color: #228B22;">(-34.20%)</span> | 34<br/><span style="color: #FF7F7F;">(+73.80%)</span> |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (久昌) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **4.88** | **5.52** | **6.22** |
-| **P/E倍數** | **24.51** | **26.52** | **28.00** |
+| **P/E倍數** | **24.48** | **26.34** | **27.37** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 久昌 歷史平均獲利能力 (σup=0.70, σlo=0.64)
-    - **P/Ebase**: 久昌 歷史平均估值水準 (σup=1.47, σlo=2.02)
+    - **P/Ebase**: 久昌 歷史平均估值水準 (σup=1.03, σlo=1.87)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/11** | **0.328** | <span style="color: #006400; font-weight: bold;">-25.7</span> | <span style="color: #004225; font-weight: bold;">-13.6</span> | **125** | <span style="color: #006400; font-weight: bold;">4.63</span> | <span style="color: #8B0000; font-weight: bold;">27.0</span> |
-| **2025/10** | **0.297** | <span style="color: #006400; font-weight: bold;">-29</span> | <span style="color: #004225; font-weight: bold;">-12.4</span> | **129.5** | <span style="color: #006400; font-weight: bold;">4.81</span> | <span style="color: #8B0000; font-weight: bold;">26.93</span> |
-| **2025/09** | **0.296** | <span style="color: #006400; font-weight: bold;">-27.9</span> | <span style="color: #004225; font-weight: bold;">-10.5</span> | **135** | <span style="color: #004225; font-weight: bold;">4.99</span> | <span style="color: #8B0000; font-weight: bold;">27.07</span> |
+| **2025/11** | **0.328** | <span style="color: #006400; font-weight: bold;">-25.7</span> | <span style="color: #004225; font-weight: bold;">-13.6</span> | **125** | <span style="color: #006400; font-weight: bold;">4.63</span> | <span style="color: #B22222; font-weight: bold;">27.0</span> |
+| **2025/10** | **0.297** | <span style="color: #006400; font-weight: bold;">-29</span> | <span style="color: #004225; font-weight: bold;">-12.4</span> | **129.5** | <span style="color: #006400; font-weight: bold;">4.81</span> | <span style="color: #B22222; font-weight: bold;">26.93</span> |
+| **2025/09** | **0.296** | <span style="color: #006400; font-weight: bold;">-27.9</span> | <span style="color: #004225; font-weight: bold;">-10.5</span> | **135** | <span style="color: #004225; font-weight: bold;">4.99</span> | <span style="color: #B22222; font-weight: bold;">27.07</span> |
 | **2025/08** | **0.259** | <span style="color: #228B22; font-weight: bold;">-33.1</span> | <span style="color: #002818; font-weight: bold;">-8.46</span> | **133** | <span style="color: #004225; font-weight: bold;">5.17</span> | <span style="color: #002818; font-weight: bold;">25.74</span> |
 | **2025/07** | **0.313** | <span style="color: #006400; font-weight: bold;">-26.7</span> | <span style="color: #002818; font-weight: bold;">-5.32</span> | **125.5** | <span style="color: #002818; font-weight: bold;">5.35</span> | <span style="color: #228B22; font-weight: bold;">23.48</span> |
 | **2025/06** | **0.362** | <span style="color: #006400; font-weight: bold;">-21.1</span> | <span style="color: #002818; font-weight: bold;">-1.81</span> | **148** | <span style="color: #002818; font-weight: bold;">5.52</span> | <span style="color: #8B0000; font-weight: bold;">26.79</span> |
-| **2025/05** | **0.401** | <span style="color: #004225; font-weight: bold;">-17.5</span> | <span style="color: #8B0000; font-weight: bold;">+2.29</span> | **157** | <span style="color: #8B0000; font-weight: bold;">5.7</span> | <span style="color: #B22222; font-weight: bold;">27.52</span> |
-| **2025/04** | **0.467** | <span style="color: #002818; font-weight: bold;">-8.86</span> | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | **161.5** | <span style="color: #B22222; font-weight: bold;">5.88</span> | <span style="color: #B22222; font-weight: bold;">27.45</span> |
+| **2025/05** | **0.401** | <span style="color: #004225; font-weight: bold;">-17.5</span> | <span style="color: #8B0000; font-weight: bold;">+2.29</span> | **157** | <span style="color: #8B0000; font-weight: bold;">5.7</span> | <span style="color: #DC143C; font-weight: bold;">27.52</span> |
+| **2025/04** | **0.467** | <span style="color: #002818; font-weight: bold;">-8.86</span> | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | **161.5** | <span style="color: #B22222; font-weight: bold;">5.88</span> | <span style="color: #DC143C; font-weight: bold;">27.45</span> |
 | **2025/03** | **0.476** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **157** | <span style="color: #B22222; font-weight: bold;">6.06</span> | <span style="color: #002818; font-weight: bold;">25.9</span> |
-| **2025/02** | **0.43** | <span style="color: #DC143C; font-weight: bold;">+28.4</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **174** | <span style="color: #DC143C; font-weight: bold;">6.24</span> | <span style="color: #B22222; font-weight: bold;">27.88</span> |
+| **2025/02** | **0.43** | <span style="color: #DC143C; font-weight: bold;">+28.4</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **174** | <span style="color: #DC143C; font-weight: bold;">6.24</span> | <span style="color: #DC143C; font-weight: bold;">27.88</span> |
 | **2025/01** | **0.424** | <span style="color: #8B0000; font-weight: bold;">+4.2</span> | <span style="color: #8B0000; font-weight: bold;">+4.2</span> | **163** | <span style="color: #DC143C; font-weight: bold;">6.42</span> | <span style="color: #004225; font-weight: bold;">25.39</span> |
 | **2024/12** | **0.407** | <span style="color: #8B0000; font-weight: bold;">+4.81</span> | <span style="color: #FF6347; font-weight: bold;">+41.2</span> | **155.5** | <span style="color: #FF4500; font-weight: bold;">6.6</span> | <span style="color: #006400; font-weight: bold;">23.56</span> |
 | **2024/11** | **0.441** | <span style="color: #FF4500; font-weight: bold;">+34.7</span> | <span style="color: #FF6347; font-weight: bold;">+45.6</span> | **-** | N/A | N/A |
@@ -235,7 +259,7 @@ description: 月營收表 久昌 (6720) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

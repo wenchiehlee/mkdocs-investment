@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
     **:building_construction: 公司名稱**: 聖暉  
     **:identification_card: 股票代號**: 5536  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 聖暉 (5536) - 自動產生
 | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #FF6347; font-weight: bold;">+40.8</span> | **195** 個月 | 2009/09 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 3,675<br/><span style="color: #FF7F7F;">(+55.20%)</span> | 2,367<br/><span style="color: #004225;">(-14.60%)</span> | 2,773<br/><span style="color: #DC143C;">(+29.70%)</span> | 2,138<br/><span style="color: #FF4500;">(+31.00%)</span> |
+| **11月** | 3,727<br/><span style="color: #DC143C;">(+20.00%)</span> | 3,105<br/><span style="color: #FF4500;">(+38.70%)</span> | 2,238<br/><span style="color: #006400;">(-23.80%)</span> | 2,939<br/><span style="color: #FF4500;">(+33.40%)</span> | 2,203<br/><span style="color: #FF7F7F;">(+97.80%)</span> |
+| **10月** | 3,202<br/><span style="color: #B22222;">(+17.80%)</span> | 2,717<br/><span style="color: #FF4500;">(+34.60%)</span> | 2,019<br/><span style="color: #004225;">(-12.70%)</span> | 2,314<br/><span style="color: #DC143C;">(+26.80%)</span> | 1,825<br/><span style="color: #FF7F7F;">(+86.40%)</span> |
+| **9月** | 3,909<br/><span style="color: #DC143C;">(+28.80%)</span> | 3,036<br/><span style="color: #B22222;">(+17.60%)</span> | 2,582<br/><span style="color: #002818;">(-6.47%)</span> | 2,760<br/><span style="color: #FF6347;">(+45.30%)</span> | 1,898<br/><span style="color: #FF7F7F;">(+72.40%)</span> |
+| **8月** | 3,375<br/><span style="color: #FF6347;">(+41.80%)</span> | 2,379<br/><span style="color: #DC143C;">(+21.10%)</span> | 1,964<br/><span style="color: #006400;">(-29.00%)</span> | 2,768<br/><span style="color: #FF7F7F;">(+75.20%)</span> | 1,580<br/><span style="color: #FF4500;">(+36.00%)</span> |
+| **7月** | 3,757<br/><span style="color: #FF7F7F;">(+70.40%)</span> | 2,206<br/><span style="color: #B22222;">(+15.00%)</span> | 1,917<br/><span style="color: #228B22;">(-31.80%)</span> | 2,809<br/><span style="color: #FF7F7F;">(+81.00%)</span> | 1,552<br/><span style="color: #FF6347;">(+47.60%)</span> |
+| **6月** | 3,822<br/><span style="color: #FF4500;">(+37.60%)</span> | 2,778<br/><span style="color: #FF4500;">(+32.10%)</span> | 2,103<br/><span style="color: #006400;">(-22.10%)</span> | 2,700<br/><span style="color: #FF6347;">(+46.10%)</span> | 1,848<br/><span style="color: #FF4500;">(+34.00%)</span> |
+| **5月** | 3,536<br/><span style="color: #FF6347;">(+45.30%)</span> | 2,433<br/><span style="color: #B22222;">(+18.30%)</span> | 2,056<br/><span style="color: #8B0000;">(+4.11%)</span> | 1,975<br/><span style="color: #B22222;">(+18.80%)</span> | 1,662<br/><span style="color: #FF7F7F;">(+54.70%)</span> |
+| **4月** | 3,550<br/><span style="color: #FF6347;">(+44.90%)</span> | 2,449<br/><span style="color: #8B0000;">(+9.43%)</span> | 2,238<br/><span style="color: #B22222;">(+19.80%)</span> | 1,869<br/><span style="color: #002818;">(-3.39%)</span> | 1,934<br/><span style="color: #FF4500;">(+37.80%)</span> |
+| **3月** | 3,243<br/><span style="color: #FF7F7F;">(+52.40%)</span> | 2,127<br/><span style="color: #002818;">(-8.12%)</span> | 2,315<br/><span style="color: #002818;">(-4.08%)</span> | 2,414<br/><span style="color: #FF7F7F;">(+71.80%)</span> | 1,405<br/><span style="color: #B22222;">(+17.40%)</span> |
+| **2月** | 2,672<br/><span style="color: #FF7F7F;">(+101.50%)</span> | 1,326<br/><span style="color: #006400;">(-27.50%)</span> | 1,830<br/><span style="color: #FF4500;">(+36.20%)</span> | 1,343<br/><span style="color: #FF7F7F;">(+52.10%)</span> | 883<br/><span style="color: #8B0000;">(+6.70%)</span> |
+| **1月** | 2,642<br/><span style="color: #FF4500;">(+30.60%)</span> | 2,023<br/><span style="color: #FF6347;">(+41.30%)</span> | 1,432<br/><span style="color: #004225;">(-10.40%)</span> | 1,598<br/><span style="color: #DC143C;">(+24.10%)</span> | 1,288<br/><span style="color: #DC143C;">(+21.90%)</span> |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (聖暉) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **9.10** | **15.44** | **19.70** |
-| **P/E倍數** | **9.21** | **11.95** | **21.55** |
+| **P/E倍數** | **9.23** | **11.97** | **21.82** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 聖暉 歷史平均獲利能力 (σup=4.26, σlo=6.34)
-    - **P/Ebase**: 聖暉 歷史平均估值水準 (σup=9.61, σlo=2.73)
+    - **P/Ebase**: 聖暉 歷史平均估值水準 (σup=9.85, σlo=2.74)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -60,7 +84,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
 | **2025/09** | **39.09** | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | <span style="color: #FF6347; font-weight: bold;">+47</span> | **775** | <span style="color: #FF6347; font-weight: bold;">25.04</span> | <span style="color: #FF4500; font-weight: bold;">30.96</span> |
 | **2025/08** | **33.75** | <span style="color: #FF6347; font-weight: bold;">+41.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+50.1</span> | **892** | <span style="color: #FF6347; font-weight: bold;">24.6</span> | <span style="color: #FF6347; font-weight: bold;">36.27</span> |
 | **2025/07** | **37.57** | <span style="color: #FF7F7F; font-weight: bold;">+70.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.4</span> | **490** | <span style="color: #FF6347; font-weight: bold;">24.16</span> | <span style="color: #B22222; font-weight: bold;">20.28</span> |
-| **2025/06** | **38.22** | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | <span style="color: #FF6347; font-weight: bold;">+48.2</span> | **397.5** | <span style="color: #FF4500; font-weight: bold;">23.72</span> | <span style="color: #B22222; font-weight: bold;">16.76</span> |
+| **2025/06** | **38.22** | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | <span style="color: #FF6347; font-weight: bold;">+48.2</span> | **397.5** | <span style="color: #FF4500; font-weight: bold;">23.72</span> | <span style="color: #8B0000; font-weight: bold;">16.76</span> |
 | **2025/05** | **35.36** | <span style="color: #FF6347; font-weight: bold;">+45.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+51</span> | **380.5** | <span style="color: #FF4500; font-weight: bold;">23.28</span> | <span style="color: #8B0000; font-weight: bold;">16.34</span> |
 | **2025/04** | **35.5** | <span style="color: #FF6347; font-weight: bold;">+44.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+52.7</span> | **401.5** | <span style="color: #FF4500; font-weight: bold;">22.84</span> | <span style="color: #B22222; font-weight: bold;">17.58</span> |
 | **2025/03** | **32.43** | <span style="color: #FF7F7F; font-weight: bold;">+52.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+56.2</span> | **352.5** | <span style="color: #FF4500; font-weight: bold;">22.4</span> | <span style="color: #8B0000; font-weight: bold;">15.73</span> |
@@ -127,7 +151,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
 | **2020/02** | **8.27** | <span style="color: #FF7F7F; font-weight: bold;">+60.6</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **175** | <span style="color: #B22222; font-weight: bold;">18.95</span> | <span style="color: #004225; font-weight: bold;">9.23</span> |
 | **2020/01** | **10.56** | <span style="color: #004225; font-weight: bold;">-11.5</span> | <span style="color: #004225; font-weight: bold;">-11.5</span> | **171.5** | <span style="color: #B22222; font-weight: bold;">19.06</span> | <span style="color: #006400; font-weight: bold;">9.0</span> |
 | **2019/12** | **10.96** | <span style="color: #DC143C; font-weight: bold;">+23</span> | <span style="color: #004225; font-weight: bold;">-10.9</span> | **184.5** | <span style="color: #B22222; font-weight: bold;">19.16</span> | <span style="color: #004225; font-weight: bold;">9.63</span> |
-| **2019/11** | **11.78** | <span style="color: #B22222; font-weight: bold;">+19.6</span> | <span style="color: #004225; font-weight: bold;">-13.1</span> | **177** | <span style="color: #B22222; font-weight: bold;">19.19</span> | <span style="color: #004225; font-weight: bold;">9.22</span> |
+| **2019/11** | **11.78** | <span style="color: #B22222; font-weight: bold;">+19.6</span> | <span style="color: #004225; font-weight: bold;">-13.1</span> | **177** | <span style="color: #B22222; font-weight: bold;">19.19</span> | <span style="color: #006400; font-weight: bold;">9.22</span> |
 | **2019/10** | **9.65** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #004225; font-weight: bold;">-15.7</span> | **168** | <span style="color: #B22222; font-weight: bold;">19.22</span> | <span style="color: #006400; font-weight: bold;">8.74</span> |
 | **2019/09** | **11.81** | <span style="color: #8B0000; font-weight: bold;">+4.26</span> | <span style="color: #004225; font-weight: bold;">-17.8</span> | **158.5** | <span style="color: #B22222; font-weight: bold;">19.25</span> | <span style="color: #006400; font-weight: bold;">8.23</span> |
 | **2019/08** | **8.66** | <span style="color: #228B22; font-weight: bold;">-33.8</span> | <span style="color: #006400; font-weight: bold;">-20.2</span> | **157** | <span style="color: #B22222; font-weight: bold;">19.28</span> | <span style="color: #006400; font-weight: bold;">8.14</span> |
@@ -170,13 +194,13 @@ description: 月營收表 聖暉 (5536) - 自動產生
 | **2016/07** | **12.15** | <span style="color: #FF7F7F; font-weight: bold;">+88.7</span> | <span style="color: #DC143C; font-weight: bold;">+25.9</span> | **85.2** | <span style="color: #004225; font-weight: bold;">9.27</span> | <span style="color: #006400; font-weight: bold;">9.19</span> |
 | **2016/06** | **8.82** | <span style="color: #002818; font-weight: bold;">-3.02</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **80.8** | <span style="color: #004225; font-weight: bold;">9.24</span> | <span style="color: #006400; font-weight: bold;">8.75</span> |
 | **2016/05** | **7.39** | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **80.9** | <span style="color: #004225; font-weight: bold;">9.2</span> | <span style="color: #006400; font-weight: bold;">8.79</span> |
-| **2016/04** | **5.64** | <span style="color: #004225; font-weight: bold;">-10.9</span> | <span style="color: #B22222; font-weight: bold;">+19</span> | **84.5** | <span style="color: #004225; font-weight: bold;">9.16</span> | <span style="color: #004225; font-weight: bold;">9.22</span> |
+| **2016/04** | **5.64** | <span style="color: #004225; font-weight: bold;">-10.9</span> | <span style="color: #B22222; font-weight: bold;">+19</span> | **84.5** | <span style="color: #004225; font-weight: bold;">9.16</span> | <span style="color: #006400; font-weight: bold;">9.22</span> |
 | **2016/03** | **7.84** | <span style="color: #FF4500; font-weight: bold;">+39.5</span> | <span style="color: #FF4500; font-weight: bold;">+33</span> | **86.3** | <span style="color: #004225; font-weight: bold;">9.13</span> | <span style="color: #004225; font-weight: bold;">9.45</span> |
 | **2016/02** | **4.35** | <span style="color: #DC143C; font-weight: bold;">+29.4</span> | <span style="color: #DC143C; font-weight: bold;">+28.3</span> | **86** | <span style="color: #006400; font-weight: bold;">9.09</span> | <span style="color: #004225; font-weight: bold;">9.46</span> |
 | **2016/01** | **5.82** | <span style="color: #DC143C; font-weight: bold;">+27.5</span> | <span style="color: #DC143C; font-weight: bold;">+27.5</span> | **80.4** | <span style="color: #006400; font-weight: bold;">9.06</span> | <span style="color: #006400; font-weight: bold;">8.88</span> |
 | **2015/12** | **7.26** | <span style="color: #8B0000; font-weight: bold;">+7.52</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **86.7** | <span style="color: #006400; font-weight: bold;">9.02</span> | <span style="color: #004225; font-weight: bold;">9.61</span> |
 | **2015/11** | **10.14** | <span style="color: #FF4500; font-weight: bold;">+34.1</span> | <span style="color: #B22222; font-weight: bold;">+13.4</span> | **86** | <span style="color: #006400; font-weight: bold;">8.44</span> | <span style="color: #004225; font-weight: bold;">10.19</span> |
-| **2015/10** | **9.58** | <span style="color: #FF4500; font-weight: bold;">+38.4</span> | <span style="color: #B22222; font-weight: bold;">+10.9</span> | **94** | <span style="color: #006400; font-weight: bold;">7.86</span> | <span style="color: #8B0000; font-weight: bold;">11.96</span> |
+| **2015/10** | **9.58** | <span style="color: #FF4500; font-weight: bold;">+38.4</span> | <span style="color: #B22222; font-weight: bold;">+10.9</span> | **94** | <span style="color: #006400; font-weight: bold;">7.86</span> | <span style="color: #002818; font-weight: bold;">11.96</span> |
 | **2015/09** | **9.01** | <span style="color: #FF7F7F; font-weight: bold;">+50.7</span> | <span style="color: #8B0000; font-weight: bold;">+7.37</span> | **78.4** | <span style="color: #006400; font-weight: bold;">7.28</span> | <span style="color: #002818; font-weight: bold;">10.77</span> |
 | **2015/08** | **8.32** | <span style="color: #FF4500; font-weight: bold;">+32.5</span> | <span style="color: #8B0000; font-weight: bold;">+2.05</span> | **76** | <span style="color: #006400; font-weight: bold;">6.7</span> | <span style="color: #002818; font-weight: bold;">11.34</span> |
 | **2015/07** | **6.44** | <span style="color: #004225; font-weight: bold;">-10.5</span> | <span style="color: #002818; font-weight: bold;">-2.46</span> | **78.3** | <span style="color: #006400; font-weight: bold;">6.12</span> | <span style="color: #8B0000; font-weight: bold;">12.79</span> |
@@ -229,7 +253,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
 | **2011/08** | **-** | N/A | N/A | **138** | <span style="color: #002818; font-weight: bold;">15.31</span> | <span style="color: #006400; font-weight: bold;">9.02</span> |
 | **2011/07** | **-** | N/A | N/A | **162** | <span style="color: #8B0000; font-weight: bold;">15.81</span> | <span style="color: #004225; font-weight: bold;">10.25</span> |
 | **2011/06** | **-** | N/A | N/A | **174.5** | <span style="color: #8B0000; font-weight: bold;">16.31</span> | <span style="color: #002818; font-weight: bold;">10.7</span> |
-| **2011/05** | **-** | N/A | N/A | **178** | <span style="color: #8B0000; font-weight: bold;">16.81</span> | <span style="color: #002818; font-weight: bold;">10.59</span> |
+| **2011/05** | **-** | N/A | N/A | **178** | <span style="color: #8B0000; font-weight: bold;">16.81</span> | <span style="color: #004225; font-weight: bold;">10.59</span> |
 | **2011/04** | **-** | N/A | N/A | **161.5** | <span style="color: #8B0000; font-weight: bold;">17.31</span> | <span style="color: #004225; font-weight: bold;">9.33</span> |
 | **2011/03** | **-** | N/A | N/A | **169** | <span style="color: #B22222; font-weight: bold;">17.82</span> | <span style="color: #004225; font-weight: bold;">9.49</span> |
 | **2011/02** | **-** | N/A | N/A | **139** | <span style="color: #B22222; font-weight: bold;">18.32</span> | <span style="color: #228B22; font-weight: bold;">7.59</span> |
@@ -345,7 +369,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

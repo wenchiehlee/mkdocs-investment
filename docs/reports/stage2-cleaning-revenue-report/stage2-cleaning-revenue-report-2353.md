@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,31 +25,55 @@ description: 月營收表 宏碁 (2353) - 自動產生
     **:building_construction: 公司名稱**: 宏碁  
     **:identification_card: 股票代號**: 2353  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+8.13</span> | <span style="color: #8B0000; font-weight: bold;">+2.89</span> | **240** 個月 | 2005/12 至 2025/11 |
+| <span style="color: #8B0000; font-weight: bold;">+8.13</span> | <span style="color: #8B0000; font-weight: bold;">+2.89</span> | **239** 個月 | 2006/01 至 2025/11 |
+
+
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 24,550<br/><span style="color: #8B0000;">(+3.68%)</span> | 23,680<br/><span style="color: #8B0000;">(+3.47%)</span> | 22,890<br/><span style="color: #006400;">(-22.90%)</span> | 29,670<br/><span style="color: #8B0000;">(+4.52%)</span> |
+| **11月** | 24,600<br/><span style="color: #8B0000;">(+8.13%)</span> | 22,750<br/><span style="color: #B22222;">(+13.10%)</span> | 20,110<br/><span style="color: #8B0000;">(+6.36%)</span> | 18,910<br/><span style="color: #228B22;">(-34.50%)</span> | 28,850<br/><span style="color: #8B0000;">(+0.47%)</span> |
+| **10月** | 21,230<br/><span style="color: #B22222;">(+12.80%)</span> | 18,820<br/><span style="color: #002818;">(-2.75%)</span> | 19,350<br/><span style="color: #8B0000;">(+7.21%)</span> | 18,050<br/><span style="color: #228B22;">(-35.60%)</span> | 28,010<br/><span style="color: #8B0000;">(+9.76%)</span> |
+| **9月** | 29,530<br/><span style="color: #B22222;">(+12.20%)</span> | 26,310<br/><span style="color: #002818;">(-6.25%)</span> | 28,060<br/><span style="color: #8B0000;">(+3.32%)</span> | 27,160<br/><span style="color: #002818;">(-2.74%)</span> | 27,930<br/><span style="color: #002818;">(-5.37%)</span> |
+| **8月** | 21,800<br/><span style="color: #002818;">(-4.46%)</span> | 22,820<br/><span style="color: #8B0000;">(+5.23%)</span> | 21,690<br/><span style="color: #8B0000;">(+7.14%)</span> | 20,240<br/><span style="color: #006400;">(-25.30%)</span> | 27,100<br/><span style="color: #002818;">(-0.62%)</span> |
+| **7月** | 22,060<br/><span style="color: #002818;">(-5.91%)</span> | 23,450<br/><span style="color: #FF4500;">(+32.30%)</span> | 17,720<br/><span style="color: #8B0000;">(+1.51%)</span> | 17,460<br/><span style="color: #228B22;">(-33.10%)</span> | 26,100<br/><span style="color: #B22222;">(+12.30%)</span> |
+| **6月** | 28,689<br/><span style="color: #8B0000;">(+1.74%)</span> | 28,189<br/><span style="color: #8B0000;">(+7.12%)</span> | 26,320<br/><span style="color: #004225;">(-15.00%)</span> | 30,939<br/><span style="color: #8B0000;">(+3.08%)</span> | 30,020<br/><span style="color: #B22222;">(+16.90%)</span> |
+| **5月** | 19,170<br/><span style="color: #002818;">(-9.28%)</span> | 21,130<br/><span style="color: #B22222;">(+16.80%)</span> | 18,080<br/><span style="color: #004225;">(-18.40%)</span> | 22,180<br/><span style="color: #004225;">(-10.60%)</span> | 24,810<br/><span style="color: #DC143C;">(+22.90%)</span> |
+| **4月** | 18,590<br/><span style="color: #8B0000;">(+4.16%)</span> | 17,850<br/><span style="color: #DC143C;">(+29.10%)</span> | 13,830<br/><span style="color: #006400;">(-28.10%)</span> | 19,230<br/><span style="color: #006400;">(-22.90%)</span> | 24,950<br/><span style="color: #DC143C;">(+26.30%)</span> |
+| **3月** | 29,280<br/><span style="color: #8B0000;">(+6.52%)</span> | 27,480<br/><span style="color: #B22222;">(+13.80%)</span> | 24,150<br/><span style="color: #006400;">(-20.30%)</span> | 30,310<br/><span style="color: #8B0000;">(+9.24%)</span> | 27,739<br/><span style="color: #B22222;">(+15.30%)</span> |
+| **2月** | 17,070<br/><span style="color: #8B0000;">(+5.94%)</span> | 16,119<br/><span style="color: #8B0000;">(+9.79%)</span> | 14,680<br/><span style="color: #228B22;">(-35.90%)</span> | 22,910<br/><span style="color: #B22222;">(+12.70%)</span> | 20,320<br/><span style="color: #FF7F7F;">(+80.90%)</span> |
+| **1月** | 15,069<br/><span style="color: #002818;">(-1.02%)</span> | 15,230<br/><span style="color: #B22222;">(+11.70%)</span> | 13,630<br/><span style="color: #32CD32;">(-45.80%)</span> | 25,160<br/><span style="color: #8B0000;">(+7.07%)</span> | 23,500<br/><span style="color: #FF7F7F;">(+73.40%)</span> |
+
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (宏碁) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-1.64** | **1.46** | **3.86** |
-| **P/E倍數** | **13.82** | **21.79** | **67.96** |
+| **EPS(元)** | **-1.64** | **1.47** | **3.89** |
+| **P/E倍數** | **13.65** | **21.72** | **66.97** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 宏碁 歷史平均獲利能力 (σup=2.40, σlo=3.10)
-    - **P/Ebase**: 宏碁 歷史平均估值水準 (σup=46.17, σlo=7.96)
+    - **EPSbase**: 宏碁 歷史平均獲利能力 (σup=2.43, σlo=3.11)
+    - **P/Ebase**: 宏碁 歷史平均估值水準 (σup=45.25, σlo=8.07)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -105,9 +129,9 @@ description: 月營收表 宏碁 (2353) - 自動產生
 | **2021/12** | **296.7** | <span style="color: #8B0000; font-weight: bold;">+4.52</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **30.45** | <span style="color: #B22222; font-weight: bold;">3.63</span> | <span style="color: #228B22; font-weight: bold;">8.39</span> |
 | **2021/11** | **288.5** | <span style="color: #8B0000; font-weight: bold;">+0.47</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **27.7** | <span style="color: #B22222; font-weight: bold;">3.5</span> | <span style="color: #228B22; font-weight: bold;">7.93</span> |
 | **2021/10** | **280.1** | <span style="color: #8B0000; font-weight: bold;">+9.76</span> | <span style="color: #B22222; font-weight: bold;">+18.4</span> | **26** | <span style="color: #B22222; font-weight: bold;">3.36</span> | <span style="color: #228B22; font-weight: bold;">7.74</span> |
-| **2021/09** | **279.3** | <span style="color: #002818; font-weight: bold;">-5.37</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **24.75** | <span style="color: #B22222; font-weight: bold;">3.23</span> | <span style="color: #228B22; font-weight: bold;">7.67</span> |
+| **2021/09** | **279.3** | <span style="color: #002818; font-weight: bold;">-5.37</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **24.75** | <span style="color: #B22222; font-weight: bold;">3.22</span> | <span style="color: #228B22; font-weight: bold;">7.67</span> |
 | **2021/08** | **271** | <span style="color: #002818; font-weight: bold;">-0.62</span> | <span style="color: #DC143C; font-weight: bold;">+24</span> | **25.2** | <span style="color: #B22222; font-weight: bold;">3.09</span> | <span style="color: #228B22; font-weight: bold;">8.16</span> |
-| **2021/07** | **261** | <span style="color: #B22222; font-weight: bold;">+12.3</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **27.2** | <span style="color: #B22222; font-weight: bold;">2.96</span> | <span style="color: #228B22; font-weight: bold;">9.2</span> |
+| **2021/07** | **261** | <span style="color: #B22222; font-weight: bold;">+12.3</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **27.2** | <span style="color: #B22222; font-weight: bold;">2.95</span> | <span style="color: #228B22; font-weight: bold;">9.2</span> |
 | **2021/06** | **300.2** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #FF4500; font-weight: bold;">+32.2</span> | **29.3** | <span style="color: #B22222; font-weight: bold;">2.82</span> | <span style="color: #006400; font-weight: bold;">10.39</span> |
 | **2021/05** | **248.1** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #FF4500; font-weight: bold;">+36.6</span> | **31.9** | <span style="color: #B22222; font-weight: bold;">2.68</span> | <span style="color: #006400; font-weight: bold;">11.88</span> |
 | **2021/04** | **249.5** | <span style="color: #DC143C; font-weight: bold;">+26.3</span> | <span style="color: #FF6347; font-weight: bold;">+40.7</span> | **34.3** | <span style="color: #8B0000; font-weight: bold;">2.55</span> | <span style="color: #006400; font-weight: bold;">13.45</span> |
@@ -134,13 +158,13 @@ description: 月營收表 宏碁 (2353) - 自動產生
 | **2019/07** | **183.2** | <span style="color: #002818; font-weight: bold;">-8.73</span> | <span style="color: #002818; font-weight: bold;">-3.89</span> | **18.95** | <span style="color: #002818; font-weight: bold;">0.93</span> | <span style="color: #002818; font-weight: bold;">20.41</span> |
 | **2019/06** | **244.8** | <span style="color: #8B0000; font-weight: bold;">+4.26</span> | <span style="color: #002818; font-weight: bold;">-3.03</span> | **19.25** | <span style="color: #002818; font-weight: bold;">0.94</span> | <span style="color: #002818; font-weight: bold;">20.48</span> |
 | **2019/05** | **166.7** | <span style="color: #004225; font-weight: bold;">-11</span> | <span style="color: #002818; font-weight: bold;">-4.94</span> | **19.05** | <span style="color: #002818; font-weight: bold;">0.95</span> | <span style="color: #002818; font-weight: bold;">20.02</span> |
-| **2019/04** | **140** | <span style="color: #004225; font-weight: bold;">-14</span> | <span style="color: #002818; font-weight: bold;">-3.33</span> | **20.95** | <span style="color: #002818; font-weight: bold;">0.96</span> | <span style="color: #002818; font-weight: bold;">21.75</span> |
+| **2019/04** | **140** | <span style="color: #004225; font-weight: bold;">-14</span> | <span style="color: #002818; font-weight: bold;">-3.33</span> | **20.95** | <span style="color: #002818; font-weight: bold;">0.96</span> | <span style="color: #8B0000; font-weight: bold;">21.75</span> |
 | **2019/03** | **235.5** | <span style="color: #8B0000; font-weight: bold;">+4.01</span> | <span style="color: #002818; font-weight: bold;">-0.16</span> | **19.75** | <span style="color: #002818; font-weight: bold;">0.98</span> | <span style="color: #002818; font-weight: bold;">20.26</span> |
 | **2019/02** | **144.7** | <span style="color: #002818; font-weight: bold;">-5.15</span> | <span style="color: #002818; font-weight: bold;">-3.11</span> | **20.35** | <span style="color: #002818; font-weight: bold;">0.99</span> | <span style="color: #002818; font-weight: bold;">20.62</span> |
 | **2019/01** | **166.6** | <span style="color: #002818; font-weight: bold;">-1.27</span> | <span style="color: #002818; font-weight: bold;">-1.27</span> | **19.5** | <span style="color: #002818; font-weight: bold;">1.0</span> | <span style="color: #002818; font-weight: bold;">19.53</span> |
 | **2018/12** | **215.3** | <span style="color: #8B0000; font-weight: bold;">+2.68</span> | <span style="color: #8B0000; font-weight: bold;">+2.11</span> | **19.45** | <span style="color: #002818; font-weight: bold;">1.01</span> | <span style="color: #002818; font-weight: bold;">19.26</span> |
 | **2018/11** | **221.7** | <span style="color: #002818; font-weight: bold;">-6.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.05</span> | **19.9** | <span style="color: #002818; font-weight: bold;">1.0</span> | <span style="color: #002818; font-weight: bold;">19.83</span> |
-| **2018/10** | **199.6** | <span style="color: #004225; font-weight: bold;">-11.1</span> | <span style="color: #8B0000; font-weight: bold;">+3.04</span> | **21.7** | <span style="color: #002818; font-weight: bold;">1.0</span> | <span style="color: #002818; font-weight: bold;">21.77</span> |
+| **2018/10** | **199.6** | <span style="color: #004225; font-weight: bold;">-11.1</span> | <span style="color: #8B0000; font-weight: bold;">+3.04</span> | **21.7** | <span style="color: #002818; font-weight: bold;">1.0</span> | <span style="color: #8B0000; font-weight: bold;">21.77</span> |
 | **2018/09** | **229.2** | <span style="color: #8B0000; font-weight: bold;">+2.49</span> | <span style="color: #8B0000; font-weight: bold;">+4.91</span> | **25.25** | <span style="color: #002818; font-weight: bold;">0.99</span> | <span style="color: #8B0000; font-weight: bold;">25.51</span> |
 | **2018/08** | **223.6** | <span style="color: #B22222; font-weight: bold;">+11.5</span> | <span style="color: #8B0000; font-weight: bold;">+5.28</span> | **25.7** | <span style="color: #002818; font-weight: bold;">0.98</span> | <span style="color: #8B0000; font-weight: bold;">26.14</span> |
 | **2018/07** | **200.7** | <span style="color: #B22222; font-weight: bold;">+10.5</span> | <span style="color: #8B0000; font-weight: bold;">+4.31</span> | **25** | <span style="color: #002818; font-weight: bold;">0.98</span> | <span style="color: #8B0000; font-weight: bold;">25.6</span> |
@@ -254,7 +278,7 @@ description: 月營收表 宏碁 (2353) - 自動產生
 | **2009/07** | **-** | N/A | N/A | **69.2** | <span style="color: #DC143C; font-weight: bold;">4.48</span> | <span style="color: #004225; font-weight: bold;">15.44</span> |
 | **2009/06** | **-** | N/A | N/A | **57.1** | <span style="color: #DC143C; font-weight: bold;">4.51</span> | <span style="color: #006400; font-weight: bold;">12.65</span> |
 | **2009/05** | **-** | N/A | N/A | **58.8** | <span style="color: #DC143C; font-weight: bold;">4.55</span> | <span style="color: #006400; font-weight: bold;">12.93</span> |
-| **2009/04** | **-** | N/A | N/A | **63.3** | <span style="color: #DC143C; font-weight: bold;">4.58</span> | <span style="color: #006400; font-weight: bold;">13.81</span> |
+| **2009/04** | **-** | N/A | N/A | **63.3** | <span style="color: #DC143C; font-weight: bold;">4.58</span> | <span style="color: #004225; font-weight: bold;">13.81</span> |
 | **2009/03** | **-** | N/A | N/A | **51** | <span style="color: #DC143C; font-weight: bold;">4.62</span> | <span style="color: #006400; font-weight: bold;">11.04</span> |
 | **2009/02** | **-** | N/A | N/A | **46.4** | <span style="color: #DC143C; font-weight: bold;">4.65</span> | <span style="color: #006400; font-weight: bold;">9.97</span> |
 | **2009/01** | **-** | N/A | N/A | **41.75** | <span style="color: #DC143C; font-weight: bold;">4.69</span> | <span style="color: #228B22; font-weight: bold;">8.91</span> |
@@ -264,7 +288,7 @@ description: 月營收表 宏碁 (2353) - 自動產生
 | **2008/09** | **-** | N/A | N/A | **53.2** | <span style="color: #DC143C; font-weight: bold;">4.91</span> | <span style="color: #006400; font-weight: bold;">10.84</span> |
 | **2008/08** | **-** | N/A | N/A | **63.5** | <span style="color: #DC143C; font-weight: bold;">4.97</span> | <span style="color: #006400; font-weight: bold;">12.77</span> |
 | **2008/07** | **-** | N/A | N/A | **63.3** | <span style="color: #DC143C; font-weight: bold;">5.04</span> | <span style="color: #006400; font-weight: bold;">12.57</span> |
-| **2008/06** | **-** | N/A | N/A | **59.8** | <span style="color: #FF4500; font-weight: bold;">5.1</span> | <span style="color: #006400; font-weight: bold;">11.73</span> |
+| **2008/06** | **-** | N/A | N/A | **59.8** | <span style="color: #DC143C; font-weight: bold;">5.1</span> | <span style="color: #006400; font-weight: bold;">11.73</span> |
 | **2008/05** | **-** | N/A | N/A | **63.1** | <span style="color: #FF4500; font-weight: bold;">5.16</span> | <span style="color: #006400; font-weight: bold;">12.22</span> |
 | **2008/04** | **-** | N/A | N/A | **66** | <span style="color: #FF4500; font-weight: bold;">5.23</span> | <span style="color: #006400; font-weight: bold;">12.63</span> |
 | **2008/03** | **-** | N/A | N/A | **54.4** | <span style="color: #FF4500; font-weight: bold;">5.29</span> | <span style="color: #006400; font-weight: bold;">10.28</span> |
@@ -281,20 +305,19 @@ description: 月營收表 宏碁 (2353) - 自動產生
 | **2007/04** | **-** | N/A | N/A | **63.6** | <span style="color: #DC143C; font-weight: bold;">4.79</span> | <span style="color: #006400; font-weight: bold;">13.27</span> |
 | **2007/03** | **-** | N/A | N/A | **63.5** | <span style="color: #DC143C; font-weight: bold;">4.71</span> | <span style="color: #006400; font-weight: bold;">13.49</span> |
 | **2007/02** | **-** | N/A | N/A | **63** | <span style="color: #DC143C; font-weight: bold;">4.62</span> | <span style="color: #006400; font-weight: bold;">13.63</span> |
-| **2007/01** | **-** | N/A | N/A | **62** | <span style="color: #DC143C; font-weight: bold;">4.54</span> | <span style="color: #006400; font-weight: bold;">13.67</span> |
+| **2007/01** | **-** | N/A | N/A | **62** | <span style="color: #DC143C; font-weight: bold;">4.54</span> | <span style="color: #004225; font-weight: bold;">13.67</span> |
 | **2006/12** | **315.4** | <span style="color: #DC143C; font-weight: bold;">+26.8</span> | <span style="color: #B22222; font-weight: bold;">+15.9</span> | **68** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #004225; font-weight: bold;">15.28</span> |
-| **2006/11** | **435** | <span style="color: #8B0000; font-weight: bold;">+5.58</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **69.8** | <span style="color: #DC143C; font-weight: bold;">4.4</span> | <span style="color: #004225; font-weight: bold;">15.87</span> |
-| **2006/10** | **425.9** | <span style="color: #B22222; font-weight: bold;">+11.8</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **60.3** | <span style="color: #DC143C; font-weight: bold;">4.35</span> | <span style="color: #004225; font-weight: bold;">13.87</span> |
-| **2006/09** | **402** | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #B22222; font-weight: bold;">+17.3</span> | **56.1** | <span style="color: #DC143C; font-weight: bold;">4.3</span> | <span style="color: #006400; font-weight: bold;">13.06</span> |
-| **2006/08** | **299.9** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **50.8** | <span style="color: #DC143C; font-weight: bold;">4.24</span> | <span style="color: #006400; font-weight: bold;">11.97</span> |
-| **2006/07** | **247.9** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **45.75** | <span style="color: #DC143C; font-weight: bold;">4.19</span> | <span style="color: #006400; font-weight: bold;">10.91</span> |
-| **2006/06** | **273.4** | <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #B22222; font-weight: bold;">+18.8</span> | **56.9** | <span style="color: #DC143C; font-weight: bold;">4.14</span> | <span style="color: #006400; font-weight: bold;">13.74</span> |
-| **2006/05** | **243.2** | <span style="color: #8B0000; font-weight: bold;">+6.35</span> | <span style="color: #B22222; font-weight: bold;">+19.6</span> | **52.4** | <span style="color: #DC143C; font-weight: bold;">4.09</span> | <span style="color: #006400; font-weight: bold;">12.82</span> |
-| **2006/04** | **213** | <span style="color: #B22222; font-weight: bold;">+11.9</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **61.8** | <span style="color: #DC143C; font-weight: bold;">4.04</span> | <span style="color: #004225; font-weight: bold;">15.31</span> |
-| **2006/03** | **316** | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | **59.7** | <span style="color: #DC143C; font-weight: bold;">3.99</span> | <span style="color: #004225; font-weight: bold;">14.98</span> |
-| **2006/02** | **270.5** | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | **72** | <span style="color: #DC143C; font-weight: bold;">3.93</span> | <span style="color: #002818; font-weight: bold;">18.31</span> |
-| **2006/01** | **244** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **73** | <span style="color: #DC143C; font-weight: bold;">3.88</span> | <span style="color: #002818; font-weight: bold;">18.81</span> |
-| **2005/12** | **236.7** | <span style="color: #B22222; font-weight: bold;">+18.9</span> | <span style="color: #FF6347; font-weight: bold;">+40.8</span> | **82.5** | <span style="color: #B22222; font-weight: bold;">3.83</span> | <span style="color: #002818; font-weight: bold;">21.54</span> |
+| **2006/11** | **435** | <span style="color: #8B0000; font-weight: bold;">+5.58</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **69.8** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #004225; font-weight: bold;">15.69</span> |
+| **2006/10** | **425.9** | <span style="color: #B22222; font-weight: bold;">+11.8</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **60.3** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #006400; font-weight: bold;">13.55</span> |
+| **2006/09** | **402** | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #B22222; font-weight: bold;">+17.3</span> | **56.1** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #006400; font-weight: bold;">12.61</span> |
+| **2006/08** | **299.9** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **50.8** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #006400; font-weight: bold;">11.42</span> |
+| **2006/07** | **247.9** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **45.75** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #006400; font-weight: bold;">10.28</span> |
+| **2006/06** | **273.4** | <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #B22222; font-weight: bold;">+18.8</span> | **56.9** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #006400; font-weight: bold;">12.79</span> |
+| **2006/05** | **243.2** | <span style="color: #8B0000; font-weight: bold;">+6.35</span> | <span style="color: #B22222; font-weight: bold;">+19.6</span> | **52.4** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #006400; font-weight: bold;">11.78</span> |
+| **2006/04** | **213** | <span style="color: #B22222; font-weight: bold;">+11.9</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **61.8** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #004225; font-weight: bold;">13.89</span> |
+| **2006/03** | **316** | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | **59.7** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #006400; font-weight: bold;">13.42</span> |
+| **2006/02** | **270.5** | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | **72** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #004225; font-weight: bold;">16.18</span> |
+| **2006/01** | **244** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **73** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #004225; font-weight: bold;">16.4</span> |
 
 </div>
 
@@ -390,7 +413,7 @@ description: 月營收表 宏碁 (2353) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

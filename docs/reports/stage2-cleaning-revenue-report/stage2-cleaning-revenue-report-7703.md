@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 銳澤 (7703) - 自動產生
     **:building_construction: 公司名稱**: 銳澤  
     **:identification_card: 股票代號**: 7703  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 銳澤 (7703) - 自動產生
 | <span style="color: #FF6347; font-weight: bold;">+42.3</span> | <span style="color: #FF4500; font-weight: bold;">+36.2</span> | **27** 個月 | 2023/09 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** |
+|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 236<br/><span style="color: #FF7F7F;">(+68.90%)</span> | 139<br/><span style="color: #228B22;">(-34.70%)</span> |
+| **11月** | 306<br/><span style="color: #FF6347;">(+42.30%)</span> | 215<br/><span style="color: #FF6347;">(+41.30%)</span> | 152<br/><span style="color: #228B22;">(-36.50%)</span> |
+| **10月** | 252<br/><span style="color: #FF4500;">(+38.90%)</span> | 182<br/><span style="color: #FF7F7F;">(+115.60%)</span> | 84<br/><span style="color: #32CD32;">(-45.70%)</span> |
+| **9月** | 220<br/><span style="color: #B22222;">(+10.60%)</span> | 199<br/><span style="color: #FF7F7F;">(+102.50%)</span> | 98<br/><span style="color: #90EE90;">(-59.10%)</span> |
+| **8月** | 200<br/><span style="color: #DC143C;">(+21.90%)</span> | 165<br/><span style="color: #8B0000;">(+3.42%)</span> | -- |
+| **7月** | 180<br/><span style="color: #FF7F7F;">(+71.30%)</span> | 105<br/><span style="color: #228B22;">(-30.40%)</span> | -- |
+| **6月** | 227<br/><span style="color: #FF7F7F;">(+58.80%)</span> | 143<br/><span style="color: #B22222;">(+10.70%)</span> | -- |
+| **5月** | 242<br/><span style="color: #FF4500;">(+31.10%)</span> | 184<br/><span style="color: #B22222;">(+10.50%)</span> | -- |
+| **4月** | 208<br/><span style="color: #FF7F7F;">(+50.90%)</span> | 138<br/><span style="color: #228B22;">(-36.40%)</span> | -- |
+| **3月** | 169<br/><span style="color: #B22222;">(+17.70%)</span> | 144<br/><span style="color: #002818;">(-3.63%)</span> | -- |
+| **2月** | 170<br/><span style="color: #FF7F7F;">(+86.90%)</span> | 90<br/><span style="color: #90EE90;">(-51.10%)</span> | -- |
+| **1月** | 161<br/><span style="color: #8B0000;">(+7.26%)</span> | 150<br/><span style="color: #8B0000;">(+1.57%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (銳澤) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **7.66** | **8.25** | **8.84** |
-| **P/E倍數** | **18.15** | **20.94** | **26.61** |
+| **P/E倍數** | **18.01** | **21.24** | **26.47** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 銳澤 歷史平均獲利能力 (σup=0.60, σlo=0.58)
-    - **P/Ebase**: 銳澤 歷史平均估值水準 (σup=5.68, σlo=2.79)
+    - **P/Ebase**: 銳澤 歷史平均估值水準 (σup=5.23, σlo=3.24)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -58,11 +82,11 @@ description: 月營收表 銳澤 (7703) - 自動產生
 | **2025/11** | **3.06** | <span style="color: #FF6347; font-weight: bold;">+42.3</span> | <span style="color: #FF4500; font-weight: bold;">+36.2</span> | **201** | <span style="color: #DC143C; font-weight: bold;">9.06</span> | <span style="color: #8B0000; font-weight: bold;">22.19</span> |
 | **2025/10** | **2.53** | <span style="color: #FF4500; font-weight: bold;">+38.9</span> | <span style="color: #FF4500; font-weight: bold;">+35.3</span> | **213.5** | <span style="color: #DC143C; font-weight: bold;">8.91</span> | <span style="color: #B22222; font-weight: bold;">23.96</span> |
 | **2025/09** | **2.2** | <span style="color: #B22222; font-weight: bold;">+10.6</span> | <span style="color: #FF4500; font-weight: bold;">+34.8</span> | **226** | <span style="color: #B22222; font-weight: bold;">8.76</span> | <span style="color: #B22222; font-weight: bold;">25.8</span> |
-| **2025/08** | **2.01** | <span style="color: #DC143C; font-weight: bold;">+21.9</span> | <span style="color: #FF4500; font-weight: bold;">+39.1</span> | **277** | <span style="color: #B22222; font-weight: bold;">8.61</span> | <span style="color: #FF4500; font-weight: bold;">32.17</span> |
+| **2025/08** | **2.01** | <span style="color: #DC143C; font-weight: bold;">+21.9</span> | <span style="color: #FF4500; font-weight: bold;">+39.1</span> | **277** | <span style="color: #B22222; font-weight: bold;">8.61</span> | <span style="color: #FF6347; font-weight: bold;">32.17</span> |
 | **2025/07** | **1.8** | <span style="color: #FF7F7F; font-weight: bold;">+71.3</span> | <span style="color: #FF6347; font-weight: bold;">+42.1</span> | **161.5** | <span style="color: #8B0000; font-weight: bold;">8.46</span> | <span style="color: #004225; font-weight: bold;">19.09</span> |
 | **2025/06** | **2.28** | <span style="color: #FF7F7F; font-weight: bold;">+58.8</span> | <span style="color: #FF4500; font-weight: bold;">+38.5</span> | **141** | <span style="color: #8B0000; font-weight: bold;">8.31</span> | <span style="color: #006400; font-weight: bold;">16.97</span> |
 | **2025/05** | **2.42** | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | <span style="color: #FF4500; font-weight: bold;">+34.4</span> | **137** | <span style="color: #002818; font-weight: bold;">8.16</span> | <span style="color: #006400; font-weight: bold;">16.79</span> |
-| **2025/04** | **2.08** | <span style="color: #FF7F7F; font-weight: bold;">+50.9</span> | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | **132.5** | <span style="color: #002818; font-weight: bold;">8.01</span> | <span style="color: #228B22; font-weight: bold;">16.54</span> |
+| **2025/04** | **2.08** | <span style="color: #FF7F7F; font-weight: bold;">+50.9</span> | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | **132.5** | <span style="color: #002818; font-weight: bold;">8.01</span> | <span style="color: #006400; font-weight: bold;">16.54</span> |
 | **2025/03** | **1.69** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #FF4500; font-weight: bold;">+30</span> | **141.5** | <span style="color: #004225; font-weight: bold;">7.86</span> | <span style="color: #006400; font-weight: bold;">18.0</span> |
 | **2025/02** | **1.7** | <span style="color: #FF7F7F; font-weight: bold;">+86.9</span> | <span style="color: #FF4500; font-weight: bold;">+37.3</span> | **158** | <span style="color: #004225; font-weight: bold;">7.71</span> | <span style="color: #002818; font-weight: bold;">20.49</span> |
 | **2025/01** | **1.61** | <span style="color: #8B0000; font-weight: bold;">+7.26</span> | <span style="color: #8B0000; font-weight: bold;">+7.26</span> | **164** | <span style="color: #006400; font-weight: bold;">7.56</span> | <span style="color: #8B0000; font-weight: bold;">21.69</span> |
@@ -177,7 +201,7 @@ description: 月營收表 銳澤 (7703) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

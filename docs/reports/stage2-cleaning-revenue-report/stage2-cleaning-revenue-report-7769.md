@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 鴻勁 (7769) - 自動產生
     **:building_construction: 公司名稱**: 鴻勁  
     **:identification_card: 股票代號**: 7769  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,12 +34,36 @@ description: 月營收表 鴻勁 (7769) - 自動產生
 | <span style="color: #FF7F7F; font-weight: bold;">+94.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+122.9</span> | **17** 個月 | 2024/07 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** |
+|:----------:|:----------:|:----------:|
+| **12月** | -- | 1,907<br/><span style="color: #FF7F7F;">(+207.90%)</span> |
+| **11月** | 3,025<br/><span style="color: #FF7F7F;">(+94.40%)</span> | 1,556<br/><span style="color: #FF7F7F;">(+358.00%)</span> |
+| **10月** | 2,921<br/><span style="color: #FF7F7F;">(+95.20%)</span> | 1,497<br/><span style="color: #FF7F7F;">(+275.70%)</span> |
+| **9月** | 2,862<br/><span style="color: #FF7F7F;">(+131.20%)</span> | 1,237<br/><span style="color: #FF7F7F;">(+134.80%)</span> |
+| **8月** | 2,724<br/><span style="color: #FF7F7F;">(+145.90%)</span> | 1,108<br/><span style="color: #FF7F7F;">(+59.80%)</span> |
+| **7月** | 2,612<br/><span style="color: #FF7F7F;">(+112.40%)</span> | 1,230<br/><span style="color: #FF7F7F;">(+65.90%)</span> |
+| **6月** | 2,567<br/><span style="color: #FF7F7F;">(+165.10%)</span> | -- |
+| **5月** | 2,249<br/><span style="color: #FF6347;">(+43.90%)</span> | -- |
+| **4月** | 2,059<br/><span style="color: #FF7F7F;">(+329.40%)</span> | -- |
+| **3月** | 2,030<br/><span style="color: #FF7F7F;">(+108.40%)</span> | -- |
+| **2月** | 1,972<br/><span style="color: #FF7F7F;">(+350.00%)</span> | -- |
+| **1月** | 1,921<br/><span style="color: #FF7F7F;">(+87.00%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (鴻勁) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **64.70** | **65.70** | **65.70** |
-| **P/E倍數** | **43.83** | **44.83** | **45.83** |
+| **P/E倍數** | **47.89** | **48.89** | **49.89** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
@@ -49,13 +73,13 @@ description: 月營收表 鴻勁 (7769) - 自動產生
     - **P/Ebase**: 鴻勁 歷史平均估值水準 (σup=1.00, σlo=1.00)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/11** | **30.25** | <span style="color: #FF7F7F; font-weight: bold;">+94.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+122.9</span> | **3000** | <span style="color: #000000; font-weight: bold;">65.7</span> | <span style="color: #B22222; font-weight: bold;">45.66</span> |
+| **2025/11** | **30.25** | <span style="color: #FF7F7F; font-weight: bold;">+94.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+122.9</span> | **3000** | <span style="color: #000000; font-weight: bold;">65.7</span> | <span style="color: #90EE90; font-weight: bold;">45.66</span> |
 | **2025/10** | **29.21** | <span style="color: #FF7F7F; font-weight: bold;">+95.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+127.1</span> | **-** | N/A | N/A |
 | **2025/09** | **28.62** | <span style="color: #FF7F7F; font-weight: bold;">+131.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+132.4</span> | **-** | N/A | N/A |
 | **2025/08** | **27.24** | <span style="color: #FF7F7F; font-weight: bold;">+145.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+132.6</span> | **-** | N/A | N/A |
@@ -167,7 +191,7 @@ description: 月營收表 鴻勁 (7769) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

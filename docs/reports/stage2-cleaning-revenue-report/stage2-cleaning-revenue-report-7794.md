@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 宏碁智新 (7794) - 自動產生
     **:building_construction: 公司名稱**: 宏碁智新  
     **:identification_card: 股票代號**: 7794  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 宏碁智新 (7794) - 自動產生
 | <span style="color: #002818; font-weight: bold;">-5.43</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **14** 個月 | 2024/10 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** |
+|:----------:|:----------:|:----------:|
+| **12月** | -- | 67<br/><span style="color: #FF7F7F;">(+87.70%)</span> |
+| **11月** | 65<br/><span style="color: #002818;">(-5.43%)</span> | 69<br/><span style="color: #B22222;">(+12.50%)</span> |
+| **10月** | 97<br/><span style="color: #DC143C;">(+25.30%)</span> | 77<br/><span style="color: #FF7F7F;">(+57.00%)</span> |
+| **9月** | 107<br/><span style="color: #228B22;">(-30.10%)</span> | -- |
+| **8月** | 82<br/><span style="color: #DC143C;">(+26.90%)</span> | -- |
+| **7月** | 102<br/><span style="color: #FF4500;">(+35.30%)</span> | -- |
+| **6月** | 93<br/><span style="color: #DC143C;">(+21.30%)</span> | -- |
+| **5月** | 88<br/><span style="color: #FF7F7F;">(+91.80%)</span> | -- |
+| **4月** | 87<br/><span style="color: #FF7F7F;">(+58.80%)</span> | -- |
+| **3月** | 52<br/><span style="color: #8B0000;">(+1.29%)</span> | -- |
+| **2月** | 50<br/><span style="color: #8B0000;">(+1.95%)</span> | -- |
+| **1月** | 73<br/><span style="color: #FF7F7F;">(+59.00%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (宏碁智新) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **0.01** | **1.01** | **1.01** |
-| **P/E倍數** | **41.12** | **45.83** | **49.27** |
+| **P/E倍數** | **41.08** | **45.51** | **48.89** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 宏碁智新 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 宏碁智新 歷史平均估值水準 (σup=3.44, σlo=4.71)
+    - **P/Ebase**: 宏碁智新 歷史平均估值水準 (σup=3.38, σlo=4.43)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -164,7 +188,7 @@ description: 月營收表 宏碁智新 (7794) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

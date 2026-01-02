@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,31 +25,55 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
     **:building_construction: 公司名稱**: 禾伸堂  
     **:identification_card: 股票代號**: 3026  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+1.15</span> | <span style="color: #8B0000; font-weight: bold;">+4.35</span> | **238** 個月 | 2005/12 至 2025/11 |
+| <span style="color: #8B0000; font-weight: bold;">+1.15</span> | <span style="color: #8B0000; font-weight: bold;">+4.35</span> | **237** 個月 | 2006/01 至 2025/11 |
+
+
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 1,021<br/><span style="color: #DC143C;">(+21.30%)</span> | 842<br/><span style="color: #004225;">(-11.50%)</span> | 951<br/><span style="color: #002818;">(-6.68%)</span> | 1,019<br/><span style="color: #004225;">(-17.50%)</span> |
+| **11月** | 1,108<br/><span style="color: #8B0000;">(+1.15%)</span> | 1,096<br/><span style="color: #8B0000;">(+4.11%)</span> | 1,052<br/><span style="color: #004225;">(-12.80%)</span> | 1,207<br/><span style="color: #002818;">(-9.97%)</span> | 1,341<br/><span style="color: #002818;">(-3.75%)</span> |
+| **10月** | 1,074<br/><span style="color: #002818;">(-0.58%)</span> | 1,080<br/><span style="color: #8B0000;">(+4.77%)</span> | 1,031<br/><span style="color: #002818;">(-9.18%)</span> | 1,135<br/><span style="color: #002818;">(-1.00%)</span> | 1,147<br/><span style="color: #002818;">(-7.54%)</span> |
+| **9月** | 1,242<br/><span style="color: #B22222;">(+12.00%)</span> | 1,108<br/><span style="color: #002818;">(-8.18%)</span> | 1,207<br/><span style="color: #002818;">(-5.32%)</span> | 1,275<br/><span style="color: #002818;">(-5.09%)</span> | 1,343<br/><span style="color: #004225;">(-14.40%)</span> |
+| **8月** | 1,081<br/><span style="color: #002818;">(-1.40%)</span> | 1,096<br/><span style="color: #002818;">(-1.86%)</span> | 1,117<br/><span style="color: #002818;">(-3.50%)</span> | 1,158<br/><span style="color: #004225;">(-19.70%)</span> | 1,442<br/><span style="color: #8B0000;">(+8.67%)</span> |
+| **7月** | 1,095<br/><span style="color: #002818;">(-9.26%)</span> | 1,207<br/><span style="color: #8B0000;">(+6.60%)</span> | 1,132<br/><span style="color: #002818;">(-5.16%)</span> | 1,194<br/><span style="color: #006400;">(-20.20%)</span> | 1,497<br/><span style="color: #B22222;">(+18.60%)</span> |
+| **6月** | 1,034<br/><span style="color: #002818;">(-1.37%)</span> | 1,048<br/><span style="color: #002818;">(-4.08%)</span> | 1,093<br/><span style="color: #004225;">(-16.40%)</span> | 1,306<br/><span style="color: #004225;">(-10.00%)</span> | 1,452<br/><span style="color: #DC143C;">(+28.20%)</span> |
+| **5月** | 1,064<br/><span style="color: #002818;">(-2.77%)</span> | 1,094<br/><span style="color: #002818;">(-5.15%)</span> | 1,154<br/><span style="color: #002818;">(-9.61%)</span> | 1,277<br/><span style="color: #004225;">(-17.00%)</span> | 1,539<br/><span style="color: #DC143C;">(+25.70%)</span> |
+| **4月** | 1,179<br/><span style="color: #8B0000;">(+7.45%)</span> | 1,097<br/><span style="color: #8B0000;">(+0.13%)</span> | 1,095<br/><span style="color: #004225;">(-12.60%)</span> | 1,253<br/><span style="color: #004225;">(-11.50%)</span> | 1,415<br/><span style="color: #B22222;">(+10.40%)</span> |
+| **3月** | 1,288<br/><span style="color: #DC143C;">(+24.00%)</span> | 1,039<br/><span style="color: #004225;">(-13.90%)</span> | 1,207<br/><span style="color: #004225;">(-18.10%)</span> | 1,473<br/><span style="color: #002818;">(-8.01%)</span> | 1,601<br/><span style="color: #DC143C;">(+27.00%)</span> |
+| **2月** | 1,043<br/><span style="color: #FF4500;">(+39.30%)</span> | 748<br/><span style="color: #32CD32;">(-41.70%)</span> | 1,284<br/><span style="color: #8B0000;">(+4.94%)</span> | 1,223<br/><span style="color: #B22222;">(+11.90%)</span> | 1,093<br/><span style="color: #FF4500;">(+32.60%)</span> |
+| **1月** | 1,071<br/><span style="color: #002818;">(-7.06%)</span> | 1,152<br/><span style="color: #B22222;">(+12.20%)</span> | 1,027<br/><span style="color: #228B22;">(-36.60%)</span> | 1,620<br/><span style="color: #002818;">(-5.48%)</span> | 1,714<br/><span style="color: #FF7F7F;">(+58.50%)</span> |
+
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (禾伸堂) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **3.01** | **5.25** | **9.76** |
-| **P/E倍數** | **10.49** | **13.12** | **16.54** |
+| **EPS(元)** | **3.00** | **5.26** | **9.76** |
+| **P/E倍數** | **10.50** | **13.12** | **16.56** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 禾伸堂 歷史平均獲利能力 (σup=4.51, σlo=2.24)
-    - **P/Ebase**: 禾伸堂 歷史平均估值水準 (σup=3.42, σlo=2.62)
+    - **EPSbase**: 禾伸堂 歷史平均獲利能力 (σup=4.51, σlo=2.25)
+    - **P/Ebase**: 禾伸堂 歷史平均估值水準 (σup=3.44, σlo=2.62)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -169,7 +193,7 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 | **2016/08** | **12.17** | <span style="color: #B22222; font-weight: bold;">+15.9</span> | <span style="color: #002818; font-weight: bold;">-6.86</span> | **31.8** | <span style="color: #006400; font-weight: bold;">2.4</span> | <span style="color: #8B0000; font-weight: bold;">13.27</span> |
 | **2016/07** | **11.25** | <span style="color: #004225; font-weight: bold;">-14</span> | <span style="color: #002818; font-weight: bold;">-9.81</span> | **35.15** | <span style="color: #006400; font-weight: bold;">2.43</span> | <span style="color: #8B0000; font-weight: bold;">14.46</span> |
 | **2016/06** | **10.63** | <span style="color: #002818; font-weight: bold;">-7.95</span> | <span style="color: #002818; font-weight: bold;">-9.01</span> | **33.5** | <span style="color: #006400; font-weight: bold;">2.46</span> | <span style="color: #8B0000; font-weight: bold;">13.59</span> |
-| **2016/05** | **10.82** | <span style="color: #002818; font-weight: bold;">-4.47</span> | <span style="color: #002818; font-weight: bold;">-9.22</span> | **32.8** | <span style="color: #006400; font-weight: bold;">2.5</span> | <span style="color: #8B0000; font-weight: bold;">13.12</span> |
+| **2016/05** | **10.82** | <span style="color: #002818; font-weight: bold;">-4.47</span> | <span style="color: #002818; font-weight: bold;">-9.22</span> | **32.8** | <span style="color: #006400; font-weight: bold;">2.5</span> | <span style="color: #002818; font-weight: bold;">13.12</span> |
 | **2016/04** | **10.71** | <span style="color: #004225; font-weight: bold;">-15.1</span> | <span style="color: #004225; font-weight: bold;">-10.4</span> | **33.1** | <span style="color: #006400; font-weight: bold;">2.53</span> | <span style="color: #002818; font-weight: bold;">13.07</span> |
 | **2016/03** | **11.63** | <span style="color: #8B0000; font-weight: bold;">+0.2</span> | <span style="color: #002818; font-weight: bold;">-8.61</span> | **34.5** | <span style="color: #006400; font-weight: bold;">2.57</span> | <span style="color: #8B0000; font-weight: bold;">13.44</span> |
 | **2016/02** | **7.21** | <span style="color: #004225; font-weight: bold;">-13.4</span> | <span style="color: #004225; font-weight: bold;">-13.5</span> | **34.3** | <span style="color: #006400; font-weight: bold;">2.6</span> | <span style="color: #8B0000; font-weight: bold;">13.18</span> |
@@ -177,7 +201,7 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 | **2015/12** | **10.97** | <span style="color: #002818; font-weight: bold;">-0.75</span> | <span style="color: #004225; font-weight: bold;">-15.2</span> | **33.4** | <span style="color: #006400; font-weight: bold;">2.67</span> | <span style="color: #002818; font-weight: bold;">12.51</span> |
 | **2015/11** | **10.68** | <span style="color: #002818; font-weight: bold;">-9.76</span> | <span style="color: #004225; font-weight: bold;">-16.2</span> | **32.5** | <span style="color: #006400; font-weight: bold;">2.78</span> | <span style="color: #004225; font-weight: bold;">11.67</span> |
 | **2015/10** | **11.32** | <span style="color: #004225; font-weight: bold;">-16.9</span> | <span style="color: #004225; font-weight: bold;">-16.8</span> | **33** | <span style="color: #006400; font-weight: bold;">2.9</span> | <span style="color: #004225; font-weight: bold;">11.38</span> |
-| **2015/09** | **11.53** | <span style="color: #004225; font-weight: bold;">-17.5</span> | <span style="color: #004225; font-weight: bold;">-16.8</span> | **30.75** | <span style="color: #006400; font-weight: bold;">3.01</span> | <span style="color: #006400; font-weight: bold;">10.2</span> |
+| **2015/09** | **11.53** | <span style="color: #004225; font-weight: bold;">-17.5</span> | <span style="color: #004225; font-weight: bold;">-16.8</span> | **30.75** | <span style="color: #004225; font-weight: bold;">3.01</span> | <span style="color: #006400; font-weight: bold;">10.2</span> |
 | **2015/08** | **10.5** | <span style="color: #004225; font-weight: bold;">-18.7</span> | <span style="color: #004225; font-weight: bold;">-16.7</span> | **30.9** | <span style="color: #004225; font-weight: bold;">3.13</span> | <span style="color: #006400; font-weight: bold;">9.87</span> |
 | **2015/07** | **13.08** | <span style="color: #002818; font-weight: bold;">-5.07</span> | <span style="color: #004225; font-weight: bold;">-16.4</span> | **38.8** | <span style="color: #004225; font-weight: bold;">3.24</span> | <span style="color: #002818; font-weight: bold;">11.96</span> |
 | **2015/06** | **11.55** | <span style="color: #004225; font-weight: bold;">-15.8</span> | <span style="color: #004225; font-weight: bold;">-18.3</span> | **42.3** | <span style="color: #004225; font-weight: bold;">3.36</span> | <span style="color: #002818; font-weight: bold;">12.59</span> |
@@ -292,7 +316,6 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 | **2006/03** | **-** | N/A | N/A | **59.1** | <span style="color: #002818; font-weight: bold;">4.74</span> | <span style="color: #002818; font-weight: bold;">12.47</span> |
 | **2006/02** | **-** | N/A | N/A | **53.2** | <span style="color: #002818; font-weight: bold;">4.74</span> | <span style="color: #004225; font-weight: bold;">11.22</span> |
 | **2006/01** | **-** | N/A | N/A | **54.4** | <span style="color: #002818; font-weight: bold;">4.74</span> | <span style="color: #004225; font-weight: bold;">11.48</span> |
-| **2005/12** | **-** | N/A | N/A | **58.8** | <span style="color: #002818; font-weight: bold;">4.74</span> | <span style="color: #002818; font-weight: bold;">12.41</span> |
 
 </div>
 
@@ -388,7 +411,7 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

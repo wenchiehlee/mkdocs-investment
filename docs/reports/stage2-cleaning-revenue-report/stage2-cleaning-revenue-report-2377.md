@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,31 +25,55 @@ description: 月營收表 微星 (2377) - 自動產生
     **:building_construction: 公司名稱**: 微星  
     **:identification_card: 股票代號**: 2377  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+6.85</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **240** 個月 | 2005/12 至 2025/11 |
+| <span style="color: #8B0000; font-weight: bold;">+6.85</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **239** 個月 | 2006/01 至 2025/11 |
+
+
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 12,590<br/><span style="color: #8B0000;">(+5.44%)</span> | 11,940<br/><span style="color: #002818;">(-2.82%)</span> | 12,290<br/><span style="color: #006400;">(-20.80%)</span> | 15,510<br/><span style="color: #DC143C;">(+24.50%)</span> |
+| **11月** | 20,120<br/><span style="color: #8B0000;">(+6.85%)</span> | 18,830<br/><span style="color: #8B0000;">(+4.22%)</span> | 18,060<br/><span style="color: #DC143C;">(+21.70%)</span> | 14,850<br/><span style="color: #006400;">(-25.20%)</span> | 19,840<br/><span style="color: #DC143C;">(+27.10%)</span> |
+| **10月** | 20,620<br/><span style="color: #8B0000;">(+2.78%)</span> | 20,070<br/><span style="color: #8B0000;">(+4.79%)</span> | 19,150<br/><span style="color: #FF6347;">(+40.20%)</span> | 13,650<br/><span style="color: #228B22;">(-31.50%)</span> | 19,930<br/><span style="color: #FF6347;">(+44.00%)</span> |
+| **9月** | 19,550<br/><span style="color: #002818;">(-1.30%)</span> | 19,810<br/><span style="color: #8B0000;">(+9.38%)</span> | 18,110<br/><span style="color: #FF4500;">(+39.40%)</span> | 12,990<br/><span style="color: #228B22;">(-32.40%)</span> | 19,200<br/><span style="color: #FF6347;">(+40.80%)</span> |
+| **8月** | 18,830<br/><span style="color: #B22222;">(+14.70%)</span> | 16,420<br/><span style="color: #002818;">(-2.78%)</span> | 16,890<br/><span style="color: #FF4500;">(+34.50%)</span> | 12,560<br/><span style="color: #228B22;">(-32.00%)</span> | 18,480<br/><span style="color: #FF4500;">(+39.20%)</span> |
+| **7月** | 19,350<br/><span style="color: #DC143C;">(+22.00%)</span> | 15,850<br/><span style="color: #B22222;">(+13.90%)</span> | 13,910<br/><span style="color: #8B0000;">(+6.93%)</span> | 13,010<br/><span style="color: #004225;">(-10.40%)</span> | 14,519<br/><span style="color: #8B0000;">(+4.94%)</span> |
+| **6月** | 19,560<br/><span style="color: #FF4500;">(+33.00%)</span> | 14,710<br/><span style="color: #8B0000;">(+2.69%)</span> | 14,319<br/><span style="color: #004225;">(-13.20%)</span> | 16,500<br/><span style="color: #8B0000;">(+5.95%)</span> | 15,569<br/><span style="color: #B22222;">(+13.00%)</span> |
+| **5月** | 20,710<br/><span style="color: #FF4500;">(+33.20%)</span> | 15,560<br/><span style="color: #B22222;">(+12.20%)</span> | 13,860<br/><span style="color: #004225;">(-12.90%)</span> | 15,910<br/><span style="color: #8B0000;">(+1.50%)</span> | 15,669<br/><span style="color: #FF6347;">(+43.10%)</span> |
+| **4月** | 21,040<br/><span style="color: #DC143C;">(+28.20%)</span> | 16,410<br/><span style="color: #DC143C;">(+25.10%)</span> | 13,110<br/><span style="color: #004225;">(-16.00%)</span> | 15,610<br/><span style="color: #8B0000;">(+3.51%)</span> | 15,080<br/><span style="color: #FF6347;">(+42.10%)</span> |
+| **3月** | 20,260<br/><span style="color: #DC143C;">(+23.40%)</span> | 16,410<br/><span style="color: #8B0000;">(+0.49%)</span> | 16,330<br/><span style="color: #002818;">(-8.14%)</span> | 17,780<br/><span style="color: #8B0000;">(+0.31%)</span> | 17,730<br/><span style="color: #FF7F7F;">(+72.00%)</span> |
+| **2月** | 16,620<br/><span style="color: #B22222;">(+12.20%)</span> | 14,819<br/><span style="color: #8B0000;">(+5.01%)</span> | 14,110<br/><span style="color: #002818;">(-5.10%)</span> | 14,869<br/><span style="color: #B22222;">(+12.20%)</span> | 13,260<br/><span style="color: #FF7F7F;">(+63.00%)</span> |
+| **1月** | 16,650<br/><span style="color: #8B0000;">(+1.59%)</span> | 16,390<br/><span style="color: #DC143C;">(+24.60%)</span> | 13,160<br/><span style="color: #228B22;">(-35.50%)</span> | 20,390<br/><span style="color: #B22222;">(+19.80%)</span> | 17,020<br/><span style="color: #FF7F7F;">(+69.10%)</span> |
+
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (微星) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.68** | **5.30** | **10.64** |
-| **P/E倍數** | **10.86** | **17.07** | **37.50** |
+| **EPS(元)** | **1.68** | **5.31** | **10.64** |
+| **P/E倍數** | **10.87** | **17.10** | **37.50** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 微星 歷史平均獲利能力 (σup=5.34, σlo=3.62)
-    - **P/Ebase**: 微星 歷史平均估值水準 (σup=20.42, σlo=6.21)
+    - **EPSbase**: 微星 歷史平均獲利能力 (σup=5.33, σlo=3.63)
+    - **P/Ebase**: 微星 歷史平均估值水準 (σup=20.40, σlo=6.23)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -283,18 +307,17 @@ description: 月營收表 微星 (2377) - 自動產生
 | **2007/02** | **-** | N/A | N/A | **25** | <span style="color: #004225; font-weight: bold;">1.7</span> | <span style="color: #002818; font-weight: bold;">14.75</span> |
 | **2007/01** | **-** | N/A | N/A | **24.2** | <span style="color: #006400; font-weight: bold;">1.56</span> | <span style="color: #002818; font-weight: bold;">15.54</span> |
 | **2006/12** | **-** | N/A | N/A | **25.9** | <span style="color: #006400; font-weight: bold;">1.42</span> | <span style="color: #8B0000; font-weight: bold;">18.24</span> |
-| **2006/11** | **-** | N/A | N/A | **26** | <span style="color: #006400; font-weight: bold;">1.43</span> | <span style="color: #8B0000; font-weight: bold;">18.22</span> |
-| **2006/10** | **-** | N/A | N/A | **17.85** | <span style="color: #006400; font-weight: bold;">1.43</span> | <span style="color: #004225; font-weight: bold;">12.45</span> |
-| **2006/09** | **-** | N/A | N/A | **16.5** | <span style="color: #006400; font-weight: bold;">1.44</span> | <span style="color: #004225; font-weight: bold;">11.46</span> |
-| **2006/08** | **-** | N/A | N/A | **15.4** | <span style="color: #006400; font-weight: bold;">1.45</span> | <span style="color: #006400; font-weight: bold;">10.65</span> |
-| **2006/07** | **-** | N/A | N/A | **17.95** | <span style="color: #006400; font-weight: bold;">1.45</span> | <span style="color: #004225; font-weight: bold;">12.35</span> |
-| **2006/06** | **-** | N/A | N/A | **18.4** | <span style="color: #006400; font-weight: bold;">1.46</span> | <span style="color: #004225; font-weight: bold;">12.6</span> |
-| **2006/05** | **-** | N/A | N/A | **18.1** | <span style="color: #006400; font-weight: bold;">1.47</span> | <span style="color: #004225; font-weight: bold;">12.34</span> |
-| **2006/04** | **-** | N/A | N/A | **17.85** | <span style="color: #006400; font-weight: bold;">1.47</span> | <span style="color: #004225; font-weight: bold;">12.12</span> |
-| **2006/03** | **-** | N/A | N/A | **17.4** | <span style="color: #006400; font-weight: bold;">1.48</span> | <span style="color: #004225; font-weight: bold;">11.76</span> |
-| **2006/02** | **-** | N/A | N/A | **18.55** | <span style="color: #006400; font-weight: bold;">1.49</span> | <span style="color: #004225; font-weight: bold;">12.48</span> |
-| **2006/01** | **-** | N/A | N/A | **19.75** | <span style="color: #006400; font-weight: bold;">1.49</span> | <span style="color: #004225; font-weight: bold;">13.23</span> |
-| **2005/12** | **-** | N/A | N/A | **20** | <span style="color: #006400; font-weight: bold;">1.5</span> | <span style="color: #004225; font-weight: bold;">13.33</span> |
+| **2006/11** | **-** | N/A | N/A | **26** | <span style="color: #006400; font-weight: bold;">1.42</span> | <span style="color: #8B0000; font-weight: bold;">18.31</span> |
+| **2006/10** | **-** | N/A | N/A | **17.85** | <span style="color: #006400; font-weight: bold;">1.42</span> | <span style="color: #004225; font-weight: bold;">12.57</span> |
+| **2006/09** | **-** | N/A | N/A | **16.5** | <span style="color: #006400; font-weight: bold;">1.42</span> | <span style="color: #004225; font-weight: bold;">11.62</span> |
+| **2006/08** | **-** | N/A | N/A | **15.4** | <span style="color: #006400; font-weight: bold;">1.42</span> | <span style="color: #006400; font-weight: bold;">10.85</span> |
+| **2006/07** | **-** | N/A | N/A | **17.95** | <span style="color: #006400; font-weight: bold;">1.42</span> | <span style="color: #004225; font-weight: bold;">12.64</span> |
+| **2006/06** | **-** | N/A | N/A | **18.4** | <span style="color: #006400; font-weight: bold;">1.42</span> | <span style="color: #004225; font-weight: bold;">12.96</span> |
+| **2006/05** | **-** | N/A | N/A | **18.1** | <span style="color: #006400; font-weight: bold;">1.42</span> | <span style="color: #004225; font-weight: bold;">12.75</span> |
+| **2006/04** | **-** | N/A | N/A | **17.85** | <span style="color: #006400; font-weight: bold;">1.42</span> | <span style="color: #004225; font-weight: bold;">12.57</span> |
+| **2006/03** | **-** | N/A | N/A | **17.4** | <span style="color: #006400; font-weight: bold;">1.42</span> | <span style="color: #004225; font-weight: bold;">12.25</span> |
+| **2006/02** | **-** | N/A | N/A | **18.55** | <span style="color: #006400; font-weight: bold;">1.42</span> | <span style="color: #004225; font-weight: bold;">13.06</span> |
+| **2006/01** | **-** | N/A | N/A | **19.75** | <span style="color: #006400; font-weight: bold;">1.42</span> | <span style="color: #004225; font-weight: bold;">13.91</span> |
 
 </div>
 
@@ -390,7 +413,7 @@ description: 月營收表 微星 (2377) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

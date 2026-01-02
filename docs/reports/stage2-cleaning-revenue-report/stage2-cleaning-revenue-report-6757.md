@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
     **:building_construction: 公司名稱**: 台灣虎航  
     **:identification_card: 股票代號**: 6757  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
 | <span style="color: #8B0000; font-weight: bold;">+6.38</span> | <span style="color: #8B0000; font-weight: bold;">+1.91</span> | **75** 個月 | 2019/09 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 1,300<br/><span style="color: #B22222;">(+14.00%)</span> | 1,140<br/><span style="color: #FF7F7F;">(+129.30%)</span> | 497<br/><span style="color: #FF7F7F;">(+13703.60%)</span> | 3<br/><span style="color: #90EE90;">(-73.90%)</span> |
+| **11月** | 1,260<br/><span style="color: #8B0000;">(+6.38%)</span> | 1,184<br/><span style="color: #B22222;">(+11.80%)</span> | 1,059<br/><span style="color: #FF7F7F;">(+308.80%)</span> | 259<br/><span style="color: #FF7F7F;">(+4785.70%)</span> | 5<br/><span style="color: #90EE90;">(-74.40%)</span> |
+| **10月** | 1,566<br/><span style="color: #DC143C;">(+20.20%)</span> | 1,303<br/><span style="color: #8B0000;">(+6.74%)</span> | 1,220<br/><span style="color: #FF7F7F;">(+1040.50%)</span> | 107<br/><span style="color: #FF7F7F;">(+514.30%)</span> | 17<br/><span style="color: #32CD32;">(-45.90%)</span> |
+| **9月** | 1,277<br/><span style="color: #8B0000;">(+1.00%)</span> | 1,264<br/><span style="color: #B22222;">(+17.80%)</span> | 1,074<br/><span style="color: #FF7F7F;">(+2053.70%)</span> | 49<br/><span style="color: #8B0000;">(+9.71%)</span> | 45<br/><span style="color: #004225;">(-11.10%)</span> |
+| **8月** | 1,465<br/><span style="color: #002818;">(-4.32%)</span> | 1,531<br/><span style="color: #DC143C;">(+23.60%)</span> | 1,239<br/><span style="color: #FF7F7F;">(+2992.60%)</span> | 40<br/><span style="color: #FF7F7F;">(+962.10%)</span> | 3<br/><span style="color: #90EE90;">(-94.50%)</span> |
+| **7月** | 1,391<br/><span style="color: #004225;">(-14.50%)</span> | 1,627<br/><span style="color: #DC143C;">(+28.70%)</span> | 1,264<br/><span style="color: #FF7F7F;">(+2223.40%)</span> | 54<br/><span style="color: #FF7F7F;">(+1687.60%)</span> | 3<br/><span style="color: #90EE90;">(-94.60%)</span> |
+| **6月** | 1,271<br/><span style="color: #004225;">(-10.50%)</span> | 1,421<br/><span style="color: #FF4500;">(+30.20%)</span> | 1,091<br/><span style="color: #FF7F7F;">(+1571.70%)</span> | 65<br/><span style="color: #FF7F7F;">(+1236.30%)</span> | 4<br/><span style="color: #90EE90;">(-50.60%)</span> |
+| **5月** | 1,248<br/><span style="color: #8B0000;">(+2.30%)</span> | 1,220<br/><span style="color: #FF4500;">(+38.30%)</span> | 882<br/><span style="color: #FF7F7F;">(+1170.40%)</span> | 69<br/><span style="color: #FF7F7F;">(+56.40%)</span> | 44<br/><span style="color: #FF7F7F;">(+624.90%)</span> |
+| **4月** | 1,306<br/><span style="color: #002818;">(-1.59%)</span> | 1,327<br/><span style="color: #FF6347;">(+45.20%)</span> | 914<br/><span style="color: #FF7F7F;">(+1366.90%)</span> | 62<br/><span style="color: #002818;">(-2.41%)</span> | 63<br/><span style="color: #FF7F7F;">(+1894.00%)</span> |
+| **3月** | 1,409<br/><span style="color: #8B0000;">(+1.48%)</span> | 1,388<br/><span style="color: #FF7F7F;">(+57.50%)</span> | 882<br/><span style="color: #FF7F7F;">(+2958.40%)</span> | 28<br/><span style="color: #FF4500;">(+32.90%)</span> | 21<br/><span style="color: #90EE90;">(-83.40%)</span> |
+| **2月** | 1,528<br/><span style="color: #002818;">(-2.59%)</span> | 1,568<br/><span style="color: #FF7F7F;">(+95.60%)</span> | 802<br/><span style="color: #FF7F7F;">(+1922.60%)</span> | 39<br/><span style="color: #FF7F7F;">(+83.10%)</span> | 21<br/><span style="color: #90EE90;">(-96.30%)</span> |
+| **1月** | 1,692<br/><span style="color: #FF4500;">(+31.20%)</span> | 1,290<br/><span style="color: #FF6347;">(+42.90%)</span> | 902<br/><span style="color: #FF7F7F;">(+2060.10%)</span> | 41<br/><span style="color: #FF7F7F;">(+355.70%)</span> | 9<br/><span style="color: #90EE90;">(-99.00%)</span> |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (台灣虎航) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **4.54** | **5.20** | **5.75** |
-| **P/E倍數** | **8.28** | **11.53** | **14.78** |
+| **P/E倍數** | **8.28** | **11.51** | **14.75** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 台灣虎航 歷史平均獲利能力 (σup=0.55, σlo=0.66)
-    - **P/Ebase**: 台灣虎航 歷史平均估值水準 (σup=3.25, σlo=3.25)
+    - **P/Ebase**: 台灣虎航 歷史平均估值水準 (σup=3.24, σlo=3.23)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -225,7 +249,7 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

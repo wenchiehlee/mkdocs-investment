@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
     **:building_construction: 公司名稱**: 威力德生醫  
     **:identification_card: 股票代號**: 7713  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
 | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **26** 個月 | 2023/10 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** |
+|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 79<br/><span style="color: #8B0000;">(+1.49%)</span> | 78<br/><span style="color: #002818;">(-3.22%)</span> |
+| **11月** | 101<br/><span style="color: #B22222;">(+14.70%)</span> | 88<br/><span style="color: #B22222;">(+15.20%)</span> | 76<br/><span style="color: #002818;">(-3.73%)</span> |
+| **10月** | 97<br/><span style="color: #DC143C;">(+22.00%)</span> | 80<br/><span style="color: #8B0000;">(+5.86%)</span> | 75<br/><span style="color: #002818;">(-6.89%)</span> |
+| **9月** | 99<br/><span style="color: #DC143C;">(+25.80%)</span> | 79<br/><span style="color: #002818;">(-2.88%)</span> | -- |
+| **8月** | 101<br/><span style="color: #B22222;">(+10.20%)</span> | 91<br/><span style="color: #8B0000;">(+8.92%)</span> | -- |
+| **7月** | 94<br/><span style="color: #B22222;">(+12.50%)</span> | 84<br/><span style="color: #8B0000;">(+3.09%)</span> | -- |
+| **6月** | 97<br/><span style="color: #8B0000;">(+0.08%)</span> | 97<br/><span style="color: #B22222;">(+16.00%)</span> | -- |
+| **5月** | 92<br/><span style="color: #B22222;">(+14.90%)</span> | 80<br/><span style="color: #8B0000;">(+3.38%)</span> | -- |
+| **4月** | 82<br/><span style="color: #B22222;">(+11.30%)</span> | 74<br/><span style="color: #8B0000;">(+1.06%)</span> | -- |
+| **3月** | 89<br/><span style="color: #8B0000;">(+6.31%)</span> | 84<br/><span style="color: #002818;">(-0.24%)</span> | -- |
+| **2月** | 74<br/><span style="color: #B22222;">(+10.60%)</span> | 67<br/><span style="color: #002818;">(-1.12%)</span> | -- |
+| **1月** | 80<br/><span style="color: #002818;">(-2.94%)</span> | 83<br/><span style="color: #B22222;">(+13.00%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (威力德生醫) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **3.27** | **4.27** | **4.27** |
-| **P/E倍數** | **14.28** | **15.77** | **17.43** |
+| **P/E倍數** | **14.28** | **15.73** | **17.33** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 威力德生醫 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 威力德生醫 歷史平均估值水準 (σup=1.66, σlo=1.49)
+    - **P/Ebase**: 威力德生醫 歷史平均估值水準 (σup=1.61, σlo=1.45)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -176,7 +200,7 @@ description: 月營收表 威力德生醫 (7713) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 全家餐飲 (7708) - 自動產生
     **:building_construction: 公司名稱**: 全家餐飲  
     **:identification_card: 股票代號**: 7708  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,36 +34,60 @@ description: 月營收表 全家餐飲 (7708) - 自動產生
 | <span style="color: #B22222; font-weight: bold;">+18.2</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **27** 個月 | 2023/09 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** |
+|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 212<br/><span style="color: #B22222;">(+15.20%)</span> | 184<br/><span style="color: #002818;">(-3.65%)</span> |
+| **11月** | 229<br/><span style="color: #B22222;">(+18.20%)</span> | 195<br/><span style="color: #DC143C;">(+20.30%)</span> | 162<br/><span style="color: #8B0000;">(+7.05%)</span> |
+| **10月** | 236<br/><span style="color: #DC143C;">(+22.90%)</span> | 192<br/><span style="color: #8B0000;">(+6.53%)</span> | 180<br/><span style="color: #B22222;">(+11.90%)</span> |
+| **9月** | 222<br/><span style="color: #8B0000;">(+9.00%)</span> | 202<br/><span style="color: #B22222;">(+15.80%)</span> | 176<br/><span style="color: #B22222;">(+18.80%)</span> |
+| **8月** | 250<br/><span style="color: #B22222;">(+13.80%)</span> | 221<br/><span style="color: #B22222;">(+13.80%)</span> | -- |
+| **7月** | 239<br/><span style="color: #B22222;">(+13.30%)</span> | 211<br/><span style="color: #8B0000;">(+4.90%)</span> | -- |
+| **6月** | 225<br/><span style="color: #8B0000;">(+8.80%)</span> | 206<br/><span style="color: #B22222;">(+15.90%)</span> | -- |
+| **5月** | 227<br/><span style="color: #DC143C;">(+20.00%)</span> | 189<br/><span style="color: #8B0000;">(+9.18%)</span> | -- |
+| **4月** | 206<br/><span style="color: #B22222;">(+10.20%)</span> | 187<br/><span style="color: #8B0000;">(+2.64%)</span> | -- |
+| **3月** | 212<br/><span style="color: #B22222;">(+12.50%)</span> | 188<br/><span style="color: #B22222;">(+14.10%)</span> | -- |
+| **2月** | 198<br/><span style="color: #002818;">(-0.49%)</span> | 199<br/><span style="color: #B22222;">(+17.60%)</span> | -- |
+| **1月** | 236<br/><span style="color: #FF4500;">(+34.50%)</span> | 175<br/><span style="color: #004225;">(-17.10%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (全家餐飲) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **5.47** | **5.65** | **5.84** |
-| **P/E倍數** | **16.54** | **16.83** | **17.23** |
+| **P/E倍數** | **16.48** | **16.81** | **17.23** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 全家餐飲 歷史平均獲利能力 (σup=0.19, σlo=0.18)
-    - **P/Ebase**: 全家餐飲 歷史平均估值水準 (σup=0.40, σlo=0.29)
+    - **P/Ebase**: 全家餐飲 歷史平均估值水準 (σup=0.42, σlo=0.33)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/11** | **2.3** | <span style="color: #B22222; font-weight: bold;">+18.2</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **97.5** | <span style="color: #DC143C; font-weight: bold;">5.9</span> | <span style="color: #006400; font-weight: bold;">16.52</span> |
+| **2025/11** | **2.3** | <span style="color: #B22222; font-weight: bold;">+18.2</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **97.5** | <span style="color: #DC143C; font-weight: bold;">5.9</span> | <span style="color: #004225; font-weight: bold;">16.52</span> |
 | **2025/10** | **2.36** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **98** | <span style="color: #DC143C; font-weight: bold;">5.86</span> | <span style="color: #002818; font-weight: bold;">16.73</span> |
 | **2025/09** | **2.22** | <span style="color: #8B0000; font-weight: bold;">+9</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **99** | <span style="color: #B22222; font-weight: bold;">5.81</span> | <span style="color: #B22222; font-weight: bold;">17.04</span> |
 | **2025/08** | **2.51** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **95.5** | <span style="color: #B22222; font-weight: bold;">5.76</span> | <span style="color: #004225; font-weight: bold;">16.57</span> |
-| **2025/07** | **2.39** | <span style="color: #B22222; font-weight: bold;">+13.3</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **95.3** | <span style="color: #8B0000; font-weight: bold;">5.72</span> | <span style="color: #004225; font-weight: bold;">16.67</span> |
+| **2025/07** | **2.39** | <span style="color: #B22222; font-weight: bold;">+13.3</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **95.3** | <span style="color: #8B0000; font-weight: bold;">5.72</span> | <span style="color: #002818; font-weight: bold;">16.67</span> |
 | **2025/06** | **2.25** | <span style="color: #8B0000; font-weight: bold;">+8.8</span> | <span style="color: #B22222; font-weight: bold;">+13.8</span> | **97** | <span style="color: #8B0000; font-weight: bold;">5.67</span> | <span style="color: #B22222; font-weight: bold;">17.11</span> |
-| **2025/05** | **2.27** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **92.1** | <span style="color: #002818; font-weight: bold;">5.62</span> | <span style="color: #228B22; font-weight: bold;">16.38</span> |
+| **2025/05** | **2.27** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **92.1** | <span style="color: #002818; font-weight: bold;">5.62</span> | <span style="color: #006400; font-weight: bold;">16.38</span> |
 | **2025/04** | **2.06** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **92.5** | <span style="color: #002818; font-weight: bold;">5.58</span> | <span style="color: #004225; font-weight: bold;">16.59</span> |
-| **2025/03** | **2.12** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #B22222; font-weight: bold;">+14.8</span> | **92.2** | <span style="color: #004225; font-weight: bold;">5.53</span> | <span style="color: #004225; font-weight: bold;">16.67</span> |
+| **2025/03** | **2.12** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #B22222; font-weight: bold;">+14.8</span> | **92.2** | <span style="color: #004225; font-weight: bold;">5.53</span> | <span style="color: #002818; font-weight: bold;">16.67</span> |
 | **2025/02** | **1.98** | <span style="color: #002818; font-weight: bold;">-0.49</span> | <span style="color: #B22222; font-weight: bold;">+15.9</span> | **96.1** | <span style="color: #004225; font-weight: bold;">5.48</span> | <span style="color: #FF4500; font-weight: bold;">17.53</span> |
 | **2025/01** | **2.36** | <span style="color: #FF4500; font-weight: bold;">+34.5</span> | <span style="color: #FF4500; font-weight: bold;">+34.5</span> | **92.1** | <span style="color: #006400; font-weight: bold;">5.44</span> | <span style="color: #8B0000; font-weight: bold;">16.94</span> |
 | **2024/12** | **2.12** | <span style="color: #B22222; font-weight: bold;">+15.2</span> | <span style="color: #8B0000; font-weight: bold;">+9.33</span> | **92** | <span style="color: #006400; font-weight: bold;">5.39</span> | <span style="color: #B22222; font-weight: bold;">17.07</span> |
@@ -177,7 +201,7 @@ description: 月營收表 全家餐飲 (7708) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

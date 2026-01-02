@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
     **:building_construction: 公司名稱**: 宏碁資訊  
     **:identification_card: 股票代號**: 6811  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
 | <span style="color: #B22222; font-weight: bold;">+19.7</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **62** 個月 | 2020/10 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 947<br/><span style="color: #8B0000;">(+6.79%)</span> | 886<br/><span style="color: #8B0000;">(+3.11%)</span> | 860<br/><span style="color: #FF4500;">(+33.80%)</span> | 643<br/><span style="color: #002818;">(-6.08%)</span> |
+| **11月** | 535<br/><span style="color: #B22222;">(+19.70%)</span> | 447<br/><span style="color: #FF4500;">(+37.60%)</span> | 325<br/><span style="color: #8B0000;">(+6.49%)</span> | 305<br/><span style="color: #002818;">(-8.26%)</span> | 332<br/><span style="color: #8B0000;">(+3.94%)</span> |
+| **10月** | 680<br/><span style="color: #8B0000;">(+1.15%)</span> | 672<br/><span style="color: #FF4500;">(+34.00%)</span> | 501<br/><span style="color: #8B0000;">(+0.52%)</span> | 499<br/><span style="color: #B22222;">(+10.70%)</span> | 451<br/><span style="color: #228B22;">(-30.10%)</span> |
+| **9月** | 775<br/><span style="color: #002818;">(-6.36%)</span> | 827<br/><span style="color: #B22222;">(+16.80%)</span> | 708<br/><span style="color: #8B0000;">(+6.35%)</span> | 666<br/><span style="color: #002818;">(-5.71%)</span> | 706<br/><span style="color: #FF6347;">(+42.20%)</span> |
+| **8月** | 661<br/><span style="color: #8B0000;">(+9.91%)</span> | 601<br/><span style="color: #DC143C;">(+26.90%)</span> | 474<br/><span style="color: #004225;">(-13.10%)</span> | 545<br/><span style="color: #B22222;">(+18.00%)</span> | 462<br/><span style="color: #FF4500;">(+37.40%)</span> |
+| **7月** | 764<br/><span style="color: #B22222;">(+18.40%)</span> | 646<br/><span style="color: #B22222;">(+13.20%)</span> | 570<br/><span style="color: #002818;">(-5.86%)</span> | 606<br/><span style="color: #FF6347;">(+45.50%)</span> | 416<br/><span style="color: #8B0000;">(+3.60%)</span> |
+| **6月** | 1,415<br/><span style="color: #B22222;">(+11.20%)</span> | 1,272<br/><span style="color: #8B0000;">(+1.70%)</span> | 1,251<br/><span style="color: #8B0000;">(+8.76%)</span> | 1,150<br/><span style="color: #DC143C;">(+25.60%)</span> | 916<br/><span style="color: #002818;">(-2.67%)</span> |
+| **5月** | 441<br/><span style="color: #B22222;">(+12.20%)</span> | 393<br/><span style="color: #B22222;">(+18.60%)</span> | 331<br/><span style="color: #004225;">(-10.30%)</span> | 369<br/><span style="color: #004225;">(-16.20%)</span> | 440<br/><span style="color: #FF7F7F;">(+111.20%)</span> |
+| **4月** | 712<br/><span style="color: #002818;">(-1.63%)</span> | 724<br/><span style="color: #8B0000;">(+5.29%)</span> | 687<br/><span style="color: #B22222;">(+19.10%)</span> | 577<br/><span style="color: #FF4500;">(+35.60%)</span> | 426<br/><span style="color: #B22222;">(+17.20%)</span> |
+| **3月** | 787<br/><span style="color: #B22222;">(+16.70%)</span> | 674<br/><span style="color: #8B0000;">(+7.27%)</span> | 629<br/><span style="color: #B22222;">(+10.70%)</span> | 568<br/><span style="color: #8B0000;">(+8.38%)</span> | 524<br/><span style="color: #FF4500;">(+36.60%)</span> |
+| **2月** | 633<br/><span style="color: #FF7F7F;">(+60.00%)</span> | 396<br/><span style="color: #006400;">(-24.10%)</span> | 521<br/><span style="color: #B22222;">(+14.30%)</span> | 455<br/><span style="color: #FF4500;">(+37.90%)</span> | 331<br/><span style="color: #B22222;">(+17.00%)</span> |
+| **1月** | 1,116<br/><span style="color: #8B0000;">(+2.01%)</span> | 1,094<br/><span style="color: #FF7F7F;">(+65.60%)</span> | 660<br/><span style="color: #B22222;">(+10.20%)</span> | 599<br/><span style="color: #B22222;">(+16.20%)</span> | 516<br/><span style="color: #FF6347;">(+40.70%)</span> |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (宏碁資訊) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **11.68** | **12.43** | **13.23** |
-| **P/E倍數** | **14.45** | **19.34** | **23.51** |
+| **P/E倍數** | **14.46** | **19.34** | **23.51** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 宏碁資訊 歷史平均獲利能力 (σup=0.80, σlo=0.76)
-    - **P/Ebase**: 宏碁資訊 歷史平均估值水準 (σup=4.17, σlo=4.89)
+    - **P/Ebase**: 宏碁資訊 歷史平均估值水準 (σup=4.17, σlo=4.88)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -212,7 +236,7 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

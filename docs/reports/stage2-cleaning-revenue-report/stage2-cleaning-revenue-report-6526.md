@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 達發 (6526) - 自動產生
     **:building_construction: 公司名稱**: 達發  
     **:identification_card: 股票代號**: 6526  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 達發 (6526) - 自動產生
 | <span style="color: #002818; font-weight: bold;">-5.76</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **72** 個月 | 2015/04 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2017** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 1,562<br/><span style="color: #FF7F7F;">(+58.40%)</span> | 986<br/><span style="color: #8B0000;">(+1.39%)</span> | 973<br/><span style="color: #006400;">(-24.00%)</span> | -- |
+| **11月** | 1,548<br/><span style="color: #002818;">(-5.76%)</span> | 1,643<br/><span style="color: #FF7F7F;">(+61.10%)</span> | 1,019<br/><span style="color: #8B0000;">(+7.03%)</span> | 952<br/><span style="color: #006400;">(-21.70%)</span> | -- |
+| **10月** | 1,509<br/><span style="color: #002818;">(-7.25%)</span> | 1,627<br/><span style="color: #FF4500;">(+37.80%)</span> | 1,181<br/><span style="color: #8B0000;">(+1.96%)</span> | 1,158<br/><span style="color: #B22222;">(+16.70%)</span> | -- |
+| **9月** | 1,827<br/><span style="color: #002818;">(-1.49%)</span> | 1,854<br/><span style="color: #B22222;">(+13.00%)</span> | 1,641<br/><span style="color: #B22222;">(+10.40%)</span> | 1,485<br/><span style="color: #FF7F7F;">(+51.10%)</span> | -- |
+| **8月** | 1,855<br/><span style="color: #002818;">(-1.80%)</span> | 1,889<br/><span style="color: #FF7F7F;">(+61.00%)</span> | 1,173<br/><span style="color: #006400;">(-22.20%)</span> | 1,509<br/><span style="color: #FF6347;">(+42.80%)</span> | -- |
+| **7月** | 1,948<br/><span style="color: #8B0000;">(+7.01%)</span> | 1,821<br/><span style="color: #FF7F7F;">(+76.90%)</span> | 1,029<br/><span style="color: #228B22;">(-38.20%)</span> | 1,664<br/><span style="color: #FF7F7F;">(+56.40%)</span> | -- |
+| **6月** | 1,930<br/><span style="color: #B22222;">(+12.00%)</span> | 1,723<br/><span style="color: #FF4500;">(+33.90%)</span> | 1,288<br/><span style="color: #228B22;">(-32.50%)</span> | 1,909<br/><span style="color: #FF7F7F;">(+125.20%)</span> | 457<br/><span style="color: #FF4500;">(+34.80%)</span> |
+| **5月** | 1,817<br/><span style="color: #B22222;">(+12.10%)</span> | 1,620<br/><span style="color: #FF6347;">(+42.50%)</span> | 1,137<br/><span style="color: #32CD32;">(-42.70%)</span> | 1,985<br/><span style="color: #FF7F7F;">(+104.10%)</span> | 353<br/><span style="color: #004225;">(-14.80%)</span> |
+| **4月** | 1,773<br/><span style="color: #B22222;">(+14.20%)</span> | 1,554<br/><span style="color: #FF6347;">(+42.40%)</span> | 1,091<br/><span style="color: #32CD32;">(-44.30%)</span> | 1,959<br/><span style="color: #FF7F7F;">(+166.90%)</span> | 333<br/><span style="color: #004225;">(-17.00%)</span> |
+| **3月** | 1,717<br/><span style="color: #B22222;">(+11.60%)</span> | 1,538<br/><span style="color: #B22222;">(+17.80%)</span> | 1,306<br/><span style="color: #228B22;">(-35.90%)</span> | 2,037<br/><span style="color: #FF7F7F;">(+139.10%)</span> | 463<br/><span style="color: #DC143C;">(+27.90%)</span> |
+| **2月** | 1,761<br/><span style="color: #FF6347;">(+42.10%)</span> | 1,239<br/><span style="color: #DC143C;">(+28.60%)</span> | 963<br/><span style="color: #228B22;">(-36.00%)</span> | -- | 265<br/><span style="color: #FF4500;">(+30.40%)</span> |
+| **1月** | 1,745<br/><span style="color: #FF7F7F;">(+66.20%)</span> | 1,050<br/><span style="color: #FF4500;">(+37.90%)</span> | 761<br/><span style="color: #90EE90;">(-53.70%)</span> | -- | 385<br/><span style="color: #8B0000;">(+3.25%)</span> |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (達發) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **8.55** | **13.47** | **16.67** |
-| **P/E倍數** | **33.46** | **49.40** | **74.02** |
+| **P/E倍數** | **33.36** | **49.36** | **74.02** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 達發 歷史平均獲利能力 (σup=3.20, σlo=4.92)
-    - **P/Ebase**: 達發 歷史平均估值水準 (σup=24.62, σlo=15.93)
+    - **P/Ebase**: 達發 歷史平均估值水準 (σup=24.66, σlo=16.00)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -222,7 +246,7 @@ description: 月營收表 達發 (6526) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,13 +25,37 @@ description: 月營收表 凱鈿 (7737) - 自動產生
     **:building_construction: 公司名稱**: 凱鈿  
     **:identification_card: 股票代號**: 7737  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
 | <span style="color: #228B22; font-weight: bold;">-30.2</span> | <span style="color: #004225; font-weight: bold;">-12.4</span> | **11** 個月 | 2025/01 至 2025/11 |
+
+
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** |
+|:----------:|:----------:|
+| **12月** | -- |
+| **11月** | 28<br/><span style="color: #228B22;">(-30.20%)</span> |
+| **10月** | 27<br/><span style="color: #006400;">(-27.10%)</span> |
+| **9月** | 25<br/><span style="color: #006400;">(-28.10%)</span> |
+| **8月** | 26<br/><span style="color: #004225;">(-19.00%)</span> |
+| **7月** | 28<br/><span style="color: #004225;">(-12.90%)</span> |
+| **6月** | 33<br/><span style="color: #8B0000;">(+2.53%)</span> |
+| **5月** | 32<br/><span style="color: #002818;">(-2.20%)</span> |
+| **4月** | 31<br/><span style="color: #002818;">(-4.32%)</span> |
+| **3月** | 33<br/><span style="color: #002818;">(-9.88%)</span> |
+| **2月** | 33<br/><span style="color: #B22222;">(+14.40%)</span> |
+| **1月** | 32<br/><span style="color: #002818;">(-9.14%)</span> |
+
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (凱鈿) - 非對稱分布
@@ -49,7 +73,7 @@ description: 月營收表 凱鈿 (7737) - 自動產生
     - **P/Ebase**: 凱鈿 歷史平均估值水準 (σup=1.00, σlo=1.00)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -161,7 +185,7 @@ description: 月營收表 凱鈿 (7737) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

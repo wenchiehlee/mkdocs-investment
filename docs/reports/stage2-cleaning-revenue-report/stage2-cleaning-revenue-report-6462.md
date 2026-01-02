@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,13 +25,37 @@ description: 月營收表 神盾 (6462) - 自動產生
     **:building_construction: 公司名稱**: 神盾  
     **:identification_card: 股票代號**: 6462  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
 | <span style="color: #002818; font-weight: bold;">-8.31</span> | <span style="color: #8B0000; font-weight: bold;">+7.86</span> | **140** 個月 | 2014/04 至 2025/11 |
+
+
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 531<br/><span style="color: #B22222;">(+13.00%)</span> | 470<br/><span style="color: #FF7F7F;">(+63.80%)</span> | 287<br/><span style="color: #004225;">(-10.60%)</span> | 321<br/><span style="color: #FF7F7F;">(+58.40%)</span> |
+| **11月** | 535<br/><span style="color: #002818;">(-8.31%)</span> | 584<br/><span style="color: #FF7F7F;">(+63.30%)</span> | 358<br/><span style="color: #B22222;">(+18.70%)</span> | 301<br/><span style="color: #B22222;">(+14.30%)</span> | 263<br/><span style="color: #32CD32;">(-42.40%)</span> |
+| **10月** | 316<br/><span style="color: #228B22;">(-31.50%)</span> | 462<br/><span style="color: #FF7F7F;">(+54.50%)</span> | 299<br/><span style="color: #B22222;">(+16.00%)</span> | 258<br/><span style="color: #B22222;">(+13.70%)</span> | 227<br/><span style="color: #90EE90;">(-57.90%)</span> |
+| **9月** | 498<br/><span style="color: #8B0000;">(+9.05%)</span> | 455<br/><span style="color: #DC143C;">(+29.90%)</span> | 351<br/><span style="color: #FF4500;">(+31.60%)</span> | 267<br/><span style="color: #228B22;">(-37.00%)</span> | 424<br/><span style="color: #228B22;">(-32.20%)</span> |
+| **8月** | 479<br/><span style="color: #8B0000;">(+9.66%)</span> | 437<br/><span style="color: #FF6347;">(+43.60%)</span> | 304<br/><span style="color: #B22222;">(+13.10%)</span> | 269<br/><span style="color: #8B0000;">(+2.72%)</span> | 262<br/><span style="color: #90EE90;">(-62.20%)</span> |
+| **7月** | 486<br/><span style="color: #FF4500;">(+37.80%)</span> | 353<br/><span style="color: #DC143C;">(+21.10%)</span> | 291<br/><span style="color: #B22222;">(+12.40%)</span> | 259<br/><span style="color: #FF7F7F;">(+100.00%)</span> | 130<br/><span style="color: #90EE90;">(-75.80%)</span> |
+| **6月** | 487<br/><span style="color: #FF7F7F;">(+58.40%)</span> | 307<br/><span style="color: #B22222;">(+13.40%)</span> | 271<br/><span style="color: #FF7F7F;">(+98.70%)</span> | 136<br/><span style="color: #004225;">(-17.50%)</span> | 165<br/><span style="color: #90EE90;">(-66.20%)</span> |
+| **5月** | 383<br/><span style="color: #8B0000;">(+5.57%)</span> | 363<br/><span style="color: #B22222;">(+16.60%)</span> | 311<br/><span style="color: #DC143C;">(+29.90%)</span> | 240<br/><span style="color: #8B0000;">(+5.48%)</span> | 227<br/><span style="color: #90EE90;">(-55.00%)</span> |
+| **4月** | 333<br/><span style="color: #B22222;">(+18.30%)</span> | 281<br/><span style="color: #8B0000;">(+6.66%)</span> | 264<br/><span style="color: #006400;">(-25.80%)</span> | 355<br/><span style="color: #8B0000;">(+4.38%)</span> | 340<br/><span style="color: #228B22;">(-34.90%)</span> |
+| **3月** | 389<br/><span style="color: #B22222;">(+13.00%)</span> | 344<br/><span style="color: #002818;">(-2.73%)</span> | 354<br/><span style="color: #004225;">(-12.60%)</span> | 405<br/><span style="color: #8B0000;">(+9.37%)</span> | 370<br/><span style="color: #32CD32;">(-45.10%)</span> |
+| **2月** | 345<br/><span style="color: #B22222;">(+17.40%)</span> | 293<br/><span style="color: #002818;">(-8.32%)</span> | 320<br/><span style="color: #FF6347;">(+42.60%)</span> | 224<br/><span style="color: #32CD32;">(-40.00%)</span> | 374<br/><span style="color: #004225;">(-14.10%)</span> |
+| **1月** | 344<br/><span style="color: #002818;">(-9.21%)</span> | 379<br/><span style="color: #FF6347;">(+48.10%)</span> | 256<br/><span style="color: #004225;">(-11.10%)</span> | 288<br/><span style="color: #004225;">(-15.20%)</span> | 339<br/><span style="color: #228B22;">(-38.10%)</span> |
+
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (神盾) - 非對稱分布
@@ -49,7 +73,7 @@ description: 月營收表 神盾 (6462) - 自動產生
     - **P/Ebase**: 神盾 歷史平均估值水準 (σup=462.14, σlo=52.65)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -290,7 +314,7 @@ description: 月營收表 神盾 (6462) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

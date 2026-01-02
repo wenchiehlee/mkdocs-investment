@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,31 +25,55 @@ description: 月營收表 智原 (3035) - 自動產生
     **:building_construction: 公司名稱**: 智原  
     **:identification_card: 股票代號**: 3035  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+10.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+71</span> | **240** 個月 | 2005/12 至 2025/11 |
+| <span style="color: #B22222; font-weight: bold;">+10.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+71</span> | **239** 個月 | 2006/01 至 2025/11 |
+
+
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 1,102<br/><span style="color: #B22222;">(+14.30%)</span> | 964<br/><span style="color: #004225;">(-11.30%)</span> | 1,087<br/><span style="color: #B22222;">(+16.40%)</span> | 934<br/><span style="color: #FF7F7F;">(+98.50%)</span> |
+| **11月** | 1,016<br/><span style="color: #B22222;">(+10.40%)</span> | 921<br/><span style="color: #002818;">(-1.31%)</span> | 933<br/><span style="color: #004225;">(-12.20%)</span> | 1,063<br/><span style="color: #DC143C;">(+20.10%)</span> | 885<br/><span style="color: #FF7F7F;">(+82.80%)</span> |
+| **10月** | 834<br/><span style="color: #004225;">(-10.40%)</span> | 930<br/><span style="color: #8B0000;">(+0.33%)</span> | 927<br/><span style="color: #004225;">(-15.70%)</span> | 1,100<br/><span style="color: #FF4500;">(+33.20%)</span> | 826<br/><span style="color: #FF7F7F;">(+73.60%)</span> |
+| **9月** | 1,358<br/><span style="color: #FF6347;">(+44.10%)</span> | 943<br/><span style="color: #002818;">(-4.28%)</span> | 985<br/><span style="color: #002818;">(-7.71%)</span> | 1,067<br/><span style="color: #DC143C;">(+27.10%)</span> | 840<br/><span style="color: #FF7F7F;">(+67.60%)</span> |
+| **8月** | 911<br/><span style="color: #002818;">(-6.96%)</span> | 980<br/><span style="color: #002818;">(-1.03%)</span> | 990<br/><span style="color: #002818;">(-8.86%)</span> | 1,086<br/><span style="color: #FF6347;">(+48.50%)</span> | 731<br/><span style="color: #FF6347;">(+45.70%)</span> |
+| **7月** | 966<br/><span style="color: #8B0000;">(+0.42%)</span> | 961<br/><span style="color: #002818;">(-2.60%)</span> | 986<br/><span style="color: #002818;">(-9.41%)</span> | 1,090<br/><span style="color: #FF7F7F;">(+68.60%)</span> | 647<br/><span style="color: #FF4500;">(+31.80%)</span> |
+| **6月** | 1,119<br/><span style="color: #DC143C;">(+22.00%)</span> | 917<br/><span style="color: #002818;">(-6.98%)</span> | 986<br/><span style="color: #004225;">(-11.70%)</span> | 1,117<br/><span style="color: #FF7F7F;">(+96.00%)</span> | 570<br/><span style="color: #B22222;">(+12.40%)</span> |
+| **5月** | 1,692<br/><span style="color: #FF7F7F;">(+94.20%)</span> | 871<br/><span style="color: #004225;">(-10.30%)</span> | 971<br/><span style="color: #004225;">(-13.80%)</span> | 1,126<br/><span style="color: #FF7F7F;">(+101.30%)</span> | 560<br/><span style="color: #DC143C;">(+29.50%)</span> |
+| **4月** | 1,700<br/><span style="color: #FF7F7F;">(+97.50%)</span> | 861<br/><span style="color: #004225;">(-10.30%)</span> | 960<br/><span style="color: #004225;">(-14.40%)</span> | 1,121<br/><span style="color: #FF7F7F;">(+100.80%)</span> | 558<br/><span style="color: #FF7F7F;">(+52.20%)</span> |
+| **3月** | 3,483<br/><span style="color: #FF7F7F;">(+312.20%)</span> | 844<br/><span style="color: #006400;">(-23.90%)</span> | 1,110<br/><span style="color: #8B0000;">(+0.44%)</span> | 1,105<br/><span style="color: #FF7F7F;">(+91.20%)</span> | 578<br/><span style="color: #DC143C;">(+29.90%)</span> |
+| **2月** | 2,837<br/><span style="color: #FF7F7F;">(+244.60%)</span> | 823<br/><span style="color: #006400;">(-23.60%)</span> | 1,077<br/><span style="color: #8B0000;">(+2.52%)</span> | 1,051<br/><span style="color: #FF7F7F;">(+122.10%)</span> | 473<br/><span style="color: #B22222;">(+16.20%)</span> |
+| **1月** | 1,118<br/><span style="color: #DC143C;">(+22.80%)</span> | 911<br/><span style="color: #004225;">(-15.30%)</span> | 1,075<br/><span style="color: #8B0000;">(+2.27%)</span> | 1,051<br/><span style="color: #FF7F7F;">(+117.10%)</span> | 484<br/><span style="color: #B22222;">(+17.00%)</span> |
+
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (智原) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.64** | **3.06** | **5.95** |
-| **P/E倍數** | **19.05** | **30.03** | **49.64** |
+| **EPS(元)** | **1.64** | **3.04** | **5.94** |
+| **P/E倍數** | **19.19** | **30.12** | **49.65** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 智原 歷史平均獲利能力 (σup=2.89, σlo=1.42)
-    - **P/Ebase**: 智原 歷史平均估值水準 (σup=19.61, σlo=10.97)
+    - **EPSbase**: 智原 歷史平均獲利能力 (σup=2.89, σlo=1.41)
+    - **P/Ebase**: 智原 歷史平均估值水準 (σup=19.53, σlo=10.93)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -147,7 +171,7 @@ description: 月營收表 智原 (3035) - 自動產生
 | **2018/06** | **4.2** | <span style="color: #004225; font-weight: bold;">-12.4</span> | <span style="color: #006400; font-weight: bold;">-27</span> | **59.8** | <span style="color: #004225; font-weight: bold;">2.23</span> | <span style="color: #002818; font-weight: bold;">26.82</span> |
 | **2018/05** | **3.63** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #006400; font-weight: bold;">-29.9</span> | **63.4** | <span style="color: #002818; font-weight: bold;">2.42</span> | <span style="color: #002818; font-weight: bold;">26.14</span> |
 | **2018/04** | **3.21** | <span style="color: #32CD32; font-weight: bold;">-43.8</span> | <span style="color: #228B22; font-weight: bold;">-31.9</span> | **67** | <span style="color: #002818; font-weight: bold;">2.62</span> | <span style="color: #002818; font-weight: bold;">25.57</span> |
-| **2018/03** | **3.62** | <span style="color: #32CD32; font-weight: bold;">-42.7</span> | <span style="color: #006400; font-weight: bold;">-27.2</span> | **69.4** | <span style="color: #002818; font-weight: bold;">2.82</span> | <span style="color: #002818; font-weight: bold;">24.65</span> |
+| **2018/03** | **3.62** | <span style="color: #32CD32; font-weight: bold;">-42.7</span> | <span style="color: #006400; font-weight: bold;">-27.2</span> | **69.4** | <span style="color: #002818; font-weight: bold;">2.82</span> | <span style="color: #004225; font-weight: bold;">24.65</span> |
 | **2018/02** | **3.24** | <span style="color: #006400; font-weight: bold;">-20.2</span> | <span style="color: #004225; font-weight: bold;">-14.9</span> | **67.9** | <span style="color: #002818; font-weight: bold;">3.01</span> | <span style="color: #004225; font-weight: bold;">22.56</span> |
 | **2018/01** | **3.57** | <span style="color: #002818; font-weight: bold;">-9.44</span> | <span style="color: #002818; font-weight: bold;">-9.44</span> | **81.8** | <span style="color: #8B0000; font-weight: bold;">3.2</span> | <span style="color: #002818; font-weight: bold;">25.52</span> |
 | **2017/12** | **3.21** | <span style="color: #228B22; font-weight: bold;">-36.2</span> | <span style="color: #8B0000; font-weight: bold;">+1.56</span> | **57.9** | <span style="color: #8B0000; font-weight: bold;">3.4</span> | <span style="color: #006400; font-weight: bold;">17.03</span> |
@@ -197,7 +221,7 @@ description: 月營收表 智原 (3035) - 自動產生
 | **2014/04** | **4.92** | <span style="color: #004225; font-weight: bold;">-18.7</span> | <span style="color: #006400; font-weight: bold;">-20.6</span> | **41.05** | <span style="color: #004225; font-weight: bold;">1.9</span> | <span style="color: #004225; font-weight: bold;">21.64</span> |
 | **2014/03** | **5** | <span style="color: #004225; font-weight: bold;">-17.6</span> | <span style="color: #006400; font-weight: bold;">-21.2</span> | **44.1** | <span style="color: #004225; font-weight: bold;">1.93</span> | <span style="color: #004225; font-weight: bold;">22.88</span> |
 | **2014/02** | **4.83** | <span style="color: #004225; font-weight: bold;">-17.8</span> | <span style="color: #006400; font-weight: bold;">-22.9</span> | **43.8** | <span style="color: #004225; font-weight: bold;">1.96</span> | <span style="color: #004225; font-weight: bold;">22.37</span> |
-| **2014/01** | **4.57** | <span style="color: #006400; font-weight: bold;">-27.7</span> | <span style="color: #006400; font-weight: bold;">-27.7</span> | **38.1** | <span style="color: #004225; font-weight: bold;">1.99</span> | <span style="color: #004225; font-weight: bold;">19.15</span> |
+| **2014/01** | **4.57** | <span style="color: #006400; font-weight: bold;">-27.7</span> | <span style="color: #006400; font-weight: bold;">-27.7</span> | **38.1** | <span style="color: #004225; font-weight: bold;">1.99</span> | <span style="color: #006400; font-weight: bold;">19.15</span> |
 | **2013/12** | **5.12** | <span style="color: #002818; font-weight: bold;">-7.09</span> | <span style="color: #004225; font-weight: bold;">-16.6</span> | **41.7** | <span style="color: #004225; font-weight: bold;">2.02</span> | <span style="color: #004225; font-weight: bold;">20.64</span> |
 | **2013/11** | **5.48** | <span style="color: #006400; font-weight: bold;">-28.8</span> | <span style="color: #004225; font-weight: bold;">-17.2</span> | **34.25** | <span style="color: #004225; font-weight: bold;">2.07</span> | <span style="color: #006400; font-weight: bold;">16.54</span> |
 | **2013/10** | **5.31** | <span style="color: #228B22; font-weight: bold;">-31.9</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **33.5** | <span style="color: #004225; font-weight: bold;">2.12</span> | <span style="color: #006400; font-weight: bold;">15.79</span> |
@@ -234,7 +258,7 @@ description: 月營收表 智原 (3035) - 自動產生
 | **2011/03** | **5.12** | <span style="color: #002818; font-weight: bold;">-8.61</span> | <span style="color: #004225; font-weight: bold;">-14</span> | **44.75** | <span style="color: #004225; font-weight: bold;">1.83</span> | <span style="color: #004225; font-weight: bold;">24.45</span> |
 | **2011/02** | **3.69** | <span style="color: #006400; font-weight: bold;">-28.6</span> | <span style="color: #004225; font-weight: bold;">-17</span> | **49.85** | <span style="color: #004225; font-weight: bold;">2.0</span> | <span style="color: #002818; font-weight: bold;">24.93</span> |
 | **2011/01** | **4.65** | <span style="color: #002818; font-weight: bold;">-4.84</span> | <span style="color: #002818; font-weight: bold;">-4.84</span> | **63.2** | <span style="color: #004225; font-weight: bold;">2.17</span> | <span style="color: #002818; font-weight: bold;">29.12</span> |
-| **2010/12** | **5.02** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **57** | <span style="color: #004225; font-weight: bold;">2.34</span> | <span style="color: #004225; font-weight: bold;">24.36</span> |
+| **2010/12** | **5.02** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **57** | <span style="color: #002818; font-weight: bold;">2.34</span> | <span style="color: #004225; font-weight: bold;">24.36</span> |
 | **2010/11** | **5.62** | <span style="color: #FF4500; font-weight: bold;">+32.5</span> | <span style="color: #DC143C; font-weight: bold;">+22.8</span> | **58.9** | <span style="color: #004225; font-weight: bold;">2.32</span> | <span style="color: #002818; font-weight: bold;">25.38</span> |
 | **2010/10** | **5.59** | <span style="color: #B22222; font-weight: bold;">+12.8</span> | <span style="color: #DC143C; font-weight: bold;">+21.9</span> | **60.3** | <span style="color: #004225; font-weight: bold;">2.3</span> | <span style="color: #002818; font-weight: bold;">26.2</span> |
 | **2010/09** | **5.72** | <span style="color: #8B0000; font-weight: bold;">+7.12</span> | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | **60.3** | <span style="color: #004225; font-weight: bold;">2.28</span> | <span style="color: #002818; font-weight: bold;">26.42</span> |
@@ -280,21 +304,20 @@ description: 月營收表 智原 (3035) - 自動產生
 | **2007/05** | **-** | N/A | N/A | **121.5** | <span style="color: #B22222; font-weight: bold;">4.86</span> | <span style="color: #002818; font-weight: bold;">25.0</span> |
 | **2007/04** | **-** | N/A | N/A | **100** | <span style="color: #B22222; font-weight: bold;">4.84</span> | <span style="color: #004225; font-weight: bold;">20.68</span> |
 | **2007/03** | **-** | N/A | N/A | **114** | <span style="color: #B22222; font-weight: bold;">4.81</span> | <span style="color: #004225; font-weight: bold;">23.69</span> |
-| **2007/02** | **-** | N/A | N/A | **91.8** | <span style="color: #B22222; font-weight: bold;">4.79</span> | <span style="color: #004225; font-weight: bold;">19.17</span> |
+| **2007/02** | **-** | N/A | N/A | **91.8** | <span style="color: #B22222; font-weight: bold;">4.79</span> | <span style="color: #006400; font-weight: bold;">19.17</span> |
 | **2007/01** | **-** | N/A | N/A | **73.9** | <span style="color: #B22222; font-weight: bold;">4.76</span> | <span style="color: #006400; font-weight: bold;">15.51</span> |
 | **2006/12** | **-** | N/A | N/A | **78.8** | <span style="color: #B22222; font-weight: bold;">4.74</span> | <span style="color: #006400; font-weight: bold;">16.62</span> |
-| **2006/11** | **-** | N/A | N/A | **58.8** | <span style="color: #B22222; font-weight: bold;">4.77</span> | <span style="color: #228B22; font-weight: bold;">12.33</span> |
-| **2006/10** | **-** | N/A | N/A | **47.4** | <span style="color: #B22222; font-weight: bold;">4.8</span> | <span style="color: #228B22; font-weight: bold;">9.88</span> |
-| **2006/09** | **-** | N/A | N/A | **51.8** | <span style="color: #B22222; font-weight: bold;">4.83</span> | <span style="color: #228B22; font-weight: bold;">10.73</span> |
-| **2006/08** | **-** | N/A | N/A | **50.4** | <span style="color: #B22222; font-weight: bold;">4.86</span> | <span style="color: #228B22; font-weight: bold;">10.38</span> |
-| **2006/07** | **-** | N/A | N/A | **50.8** | <span style="color: #B22222; font-weight: bold;">4.89</span> | <span style="color: #228B22; font-weight: bold;">10.4</span> |
-| **2006/06** | **-** | N/A | N/A | **55.8** | <span style="color: #B22222; font-weight: bold;">4.92</span> | <span style="color: #228B22; font-weight: bold;">11.35</span> |
-| **2006/05** | **-** | N/A | N/A | **59.4** | <span style="color: #B22222; font-weight: bold;">4.94</span> | <span style="color: #228B22; font-weight: bold;">12.01</span> |
-| **2006/04** | **-** | N/A | N/A | **57** | <span style="color: #B22222; font-weight: bold;">4.97</span> | <span style="color: #228B22; font-weight: bold;">11.46</span> |
-| **2006/03** | **-** | N/A | N/A | **52.6** | <span style="color: #B22222; font-weight: bold;">5.0</span> | <span style="color: #228B22; font-weight: bold;">10.51</span> |
-| **2006/02** | **-** | N/A | N/A | **51** | <span style="color: #B22222; font-weight: bold;">5.03</span> | <span style="color: #228B22; font-weight: bold;">10.14</span> |
-| **2006/01** | **-** | N/A | N/A | **51.9** | <span style="color: #B22222; font-weight: bold;">5.06</span> | <span style="color: #228B22; font-weight: bold;">10.26</span> |
-| **2005/12** | **-** | N/A | N/A | **58** | <span style="color: #B22222; font-weight: bold;">5.09</span> | <span style="color: #228B22; font-weight: bold;">11.39</span> |
+| **2006/11** | **-** | N/A | N/A | **58.8** | <span style="color: #B22222; font-weight: bold;">4.74</span> | <span style="color: #228B22; font-weight: bold;">12.41</span> |
+| **2006/10** | **-** | N/A | N/A | **47.4** | <span style="color: #B22222; font-weight: bold;">4.74</span> | <span style="color: #228B22; font-weight: bold;">10.0</span> |
+| **2006/09** | **-** | N/A | N/A | **51.8** | <span style="color: #B22222; font-weight: bold;">4.74</span> | <span style="color: #228B22; font-weight: bold;">10.93</span> |
+| **2006/08** | **-** | N/A | N/A | **50.4** | <span style="color: #B22222; font-weight: bold;">4.74</span> | <span style="color: #228B22; font-weight: bold;">10.63</span> |
+| **2006/07** | **-** | N/A | N/A | **50.8** | <span style="color: #B22222; font-weight: bold;">4.74</span> | <span style="color: #228B22; font-weight: bold;">10.72</span> |
+| **2006/06** | **-** | N/A | N/A | **55.8** | <span style="color: #B22222; font-weight: bold;">4.74</span> | <span style="color: #228B22; font-weight: bold;">11.77</span> |
+| **2006/05** | **-** | N/A | N/A | **59.4** | <span style="color: #B22222; font-weight: bold;">4.74</span> | <span style="color: #228B22; font-weight: bold;">12.53</span> |
+| **2006/04** | **-** | N/A | N/A | **57** | <span style="color: #B22222; font-weight: bold;">4.74</span> | <span style="color: #228B22; font-weight: bold;">12.03</span> |
+| **2006/03** | **-** | N/A | N/A | **52.6** | <span style="color: #B22222; font-weight: bold;">4.74</span> | <span style="color: #228B22; font-weight: bold;">11.1</span> |
+| **2006/02** | **-** | N/A | N/A | **51** | <span style="color: #B22222; font-weight: bold;">4.74</span> | <span style="color: #228B22; font-weight: bold;">10.76</span> |
+| **2006/01** | **-** | N/A | N/A | **51.9** | <span style="color: #B22222; font-weight: bold;">4.74</span> | <span style="color: #228B22; font-weight: bold;">10.95</span> |
 
 </div>
 
@@ -390,7 +413,7 @@ description: 月營收表 智原 (3035) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

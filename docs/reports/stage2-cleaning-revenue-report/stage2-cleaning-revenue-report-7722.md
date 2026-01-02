@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 LINEPAY (7722) - 自動產生
     **:building_construction: 公司名稱**: LINEPAY  
     **:identification_card: 股票代號**: 7722  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,22 +34,46 @@ description: 月營收表 LINEPAY (7722) - 自動產生
 | <span style="color: #DC143C; font-weight: bold;">+27.8</span> | <span style="color: #DC143C; font-weight: bold;">+26</span> | **25** 個月 | 2023/11 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** |
+|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 617<br/><span style="color: #FF6347;">(+40.70%)</span> | 438<br/><span style="color: #B22222;">(+14.50%)</span> |
+| **11月** | 757<br/><span style="color: #DC143C;">(+27.80%)</span> | 592<br/><span style="color: #FF4500;">(+31.60%)</span> | 450<br/><span style="color: #DC143C;">(+25.10%)</span> |
+| **10月** | 704<br/><span style="color: #DC143C;">(+26.40%)</span> | 557<br/><span style="color: #B22222;">(+19.50%)</span> | -- |
+| **9月** | 679<br/><span style="color: #DC143C;">(+24.40%)</span> | 546<br/><span style="color: #FF6347;">(+42.20%)</span> | -- |
+| **8月** | 696<br/><span style="color: #FF4500;">(+30.80%)</span> | 532<br/><span style="color: #DC143C;">(+29.20%)</span> | -- |
+| **7月** | 640<br/><span style="color: #DC143C;">(+23.90%)</span> | 517<br/><span style="color: #DC143C;">(+20.20%)</span> | -- |
+| **6月** | 636<br/><span style="color: #B22222;">(+15.00%)</span> | 553<br/><span style="color: #FF7F7F;">(+52.70%)</span> | -- |
+| **5月** | 637<br/><span style="color: #FF4500;">(+33.10%)</span> | 479<br/><span style="color: #DC143C;">(+29.00%)</span> | -- |
+| **4月** | 590<br/><span style="color: #FF4500;">(+32.90%)</span> | 444<br/><span style="color: #DC143C;">(+21.10%)</span> | -- |
+| **3月** | 608<br/><span style="color: #DC143C;">(+25.40%)</span> | 484<br/><span style="color: #FF4500;">(+31.80%)</span> | -- |
+| **2月** | 585<br/><span style="color: #DC143C;">(+24.20%)</span> | 470<br/><span style="color: #FF4500;">(+35.00%)</span> | -- |
+| **1月** | 623<br/><span style="color: #DC143C;">(+23.50%)</span> | 505<br/><span style="color: #FF4500;">(+31.80%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (LINEPAY) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **8.91** | **9.60** | **10.24** |
-| **P/E倍數** | **56.03** | **65.81** | **72.61** |
+| **P/E倍數** | **56.02** | **65.78** | **72.60** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: LINEPAY 歷史平均獲利能力 (σup=0.64, σlo=0.69)
-    - **P/Ebase**: LINEPAY 歷史平均估值水準 (σup=6.81, σlo=9.77)
+    - **P/Ebase**: LINEPAY 歷史平均估值水準 (σup=6.82, σlo=9.76)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -175,7 +199,7 @@ description: 月營收表 LINEPAY (7722) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

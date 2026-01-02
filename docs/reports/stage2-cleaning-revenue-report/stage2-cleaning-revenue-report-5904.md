@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,31 +25,55 @@ description: 月營收表 寶雅 (5904) - 自動產生
     **:building_construction: 公司名稱**: 寶雅  
     **:identification_card: 股票代號**: 5904  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #8B0000; font-weight: bold;">+7.63</span> | **240** 個月 | 2005/12 至 2025/11 |
+| <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #8B0000; font-weight: bold;">+7.63</span> | **239** 個月 | 2006/01 至 2025/11 |
+
+
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 2,200<br/><span style="color: #B22222;">(+11.10%)</span> | 1,980<br/><span style="color: #8B0000;">(+2.26%)</span> | 1,936<br/><span style="color: #B22222;">(+18.40%)</span> | 1,635<br/><span style="color: #8B0000;">(+0.34%)</span> |
+| **11月** | 2,176<br/><span style="color: #B22222;">(+14.30%)</span> | 1,905<br/><span style="color: #8B0000;">(+9.10%)</span> | 1,746<br/><span style="color: #B22222;">(+13.00%)</span> | 1,545<br/><span style="color: #8B0000;">(+4.29%)</span> | 1,481<br/><span style="color: #8B0000;">(+2.20%)</span> |
+| **10月** | 2,147<br/><span style="color: #B22222;">(+13.20%)</span> | 1,898<br/><span style="color: #002818;">(-0.61%)</span> | 1,909<br/><span style="color: #B22222;">(+15.10%)</span> | 1,659<br/><span style="color: #8B0000;">(+1.84%)</span> | 1,629<br/><span style="color: #8B0000;">(+9.30%)</span> |
+| **9月** | 2,093<br/><span style="color: #8B0000;">(+2.19%)</span> | 2,048<br/><span style="color: #8B0000;">(+5.82%)</span> | 1,935<br/><span style="color: #B22222;">(+14.60%)</span> | 1,689<br/><span style="color: #B22222;">(+15.00%)</span> | 1,469<br/><span style="color: #002818;">(-0.79%)</span> |
+| **8月** | 2,235<br/><span style="color: #8B0000;">(+8.80%)</span> | 2,054<br/><span style="color: #8B0000;">(+6.18%)</span> | 1,934<br/><span style="color: #8B0000;">(+9.59%)</span> | 1,764<br/><span style="color: #DC143C;">(+20.30%)</span> | 1,466<br/><span style="color: #004225;">(-12.30%)</span> |
+| **7月** | 2,073<br/><span style="color: #8B0000;">(+2.49%)</span> | 2,023<br/><span style="color: #8B0000;">(+1.12%)</span> | 2,000<br/><span style="color: #B22222;">(+11.30%)</span> | 1,797<br/><span style="color: #FF6347;">(+41.10%)</span> | 1,273<br/><span style="color: #006400;">(-20.90%)</span> |
+| **6月** | 2,072<br/><span style="color: #8B0000;">(+5.24%)</span> | 1,969<br/><span style="color: #8B0000;">(+8.72%)</span> | 1,811<br/><span style="color: #DC143C;">(+20.00%)</span> | 1,509<br/><span style="color: #FF6347;">(+46.30%)</span> | 1,032<br/><span style="color: #006400;">(-28.30%)</span> |
+| **5月** | 2,045<br/><span style="color: #8B0000;">(+9.66%)</span> | 1,864<br/><span style="color: #8B0000;">(+8.10%)</span> | 1,725<br/><span style="color: #DC143C;">(+26.70%)</span> | 1,362<br/><span style="color: #8B0000;">(+3.76%)</span> | 1,313<br/><span style="color: #002818;">(-0.57%)</span> |
+| **4月** | 1,927<br/><span style="color: #8B0000;">(+7.41%)</span> | 1,794<br/><span style="color: #8B0000;">(+2.81%)</span> | 1,744<br/><span style="color: #B22222;">(+16.20%)</span> | 1,501<br/><span style="color: #8B0000;">(+3.55%)</span> | 1,449<br/><span style="color: #DC143C;">(+22.60%)</span> |
+| **3月** | 1,912<br/><span style="color: #8B0000;">(+2.82%)</span> | 1,859<br/><span style="color: #B22222;">(+14.90%)</span> | 1,618<br/><span style="color: #B22222;">(+10.40%)</span> | 1,465<br/><span style="color: #8B0000;">(+4.37%)</span> | 1,404<br/><span style="color: #B22222;">(+14.00%)</span> |
+| **2月** | 1,964<br/><span style="color: #002818;">(-5.01%)</span> | 2,068<br/><span style="color: #DC143C;">(+29.20%)</span> | 1,600<br/><span style="color: #8B0000;">(+4.01%)</span> | 1,538<br/><span style="color: #002818;">(-2.29%)</span> | 1,574<br/><span style="color: #B22222;">(+12.20%)</span> |
+| **1月** | 2,420<br/><span style="color: #DC143C;">(+24.30%)</span> | 1,946<br/><span style="color: #002818;">(-6.22%)</span> | 2,076<br/><span style="color: #DC143C;">(+21.40%)</span> | 1,710<br/><span style="color: #002818;">(-1.93%)</span> | 1,743<br/><span style="color: #8B0000;">(+6.91%)</span> |
+
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (寶雅) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **4.42** | **11.90** | **21.23** |
-| **P/E倍數** | **10.83** | **19.61** | **28.53** |
+| **EPS(元)** | **4.32** | **11.88** | **21.23** |
+| **P/E倍數** | **11.24** | **19.80** | **28.57** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 寶雅 歷史平均獲利能力 (σup=9.34, σlo=7.48)
-    - **P/Ebase**: 寶雅 歷史平均估值水準 (σup=8.92, σlo=8.78)
+    - **EPSbase**: 寶雅 歷史平均獲利能力 (σup=9.35, σlo=7.56)
+    - **P/Ebase**: 寶雅 歷史平均估值水準 (σup=8.77, σlo=8.56)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
@@ -214,7 +238,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 | **2012/11** | **-** | N/A | N/A | **73** | <span style="color: #004225; font-weight: bold;">4.6</span> | <span style="color: #002818; font-weight: bold;">15.88</span> |
 | **2012/10** | **-** | N/A | N/A | **68.6** | <span style="color: #004225; font-weight: bold;">4.52</span> | <span style="color: #004225; font-weight: bold;">15.18</span> |
 | **2012/09** | **-** | N/A | N/A | **64.9** | <span style="color: #004225; font-weight: bold;">4.44</span> | <span style="color: #004225; font-weight: bold;">14.6</span> |
-| **2012/08** | **-** | N/A | N/A | **62.3** | <span style="color: #006400; font-weight: bold;">4.37</span> | <span style="color: #004225; font-weight: bold;">14.26</span> |
+| **2012/08** | **-** | N/A | N/A | **62.3** | <span style="color: #004225; font-weight: bold;">4.37</span> | <span style="color: #004225; font-weight: bold;">14.26</span> |
 | **2012/07** | **-** | N/A | N/A | **61.3** | <span style="color: #006400; font-weight: bold;">4.29</span> | <span style="color: #004225; font-weight: bold;">14.28</span> |
 | **2012/06** | **-** | N/A | N/A | **54.6** | <span style="color: #006400; font-weight: bold;">4.22</span> | <span style="color: #004225; font-weight: bold;">12.95</span> |
 | **2012/05** | **-** | N/A | N/A | **53.6** | <span style="color: #006400; font-weight: bold;">4.14</span> | <span style="color: #004225; font-weight: bold;">12.95</span> |
@@ -240,7 +264,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 | **2010/09** | **-** | N/A | N/A | **30.7** | <span style="color: #006400; font-weight: bold;">3.12</span> | <span style="color: #006400; font-weight: bold;">9.85</span> |
 | **2010/08** | **-** | N/A | N/A | **35.8** | <span style="color: #006400; font-weight: bold;">3.07</span> | <span style="color: #004225; font-weight: bold;">11.66</span> |
 | **2010/07** | **-** | N/A | N/A | **34.3** | <span style="color: #006400; font-weight: bold;">3.02</span> | <span style="color: #004225; font-weight: bold;">11.35</span> |
-| **2010/06** | **-** | N/A | N/A | **32.3** | <span style="color: #006400; font-weight: bold;">2.97</span> | <span style="color: #004225; font-weight: bold;">10.86</span> |
+| **2010/06** | **-** | N/A | N/A | **32.3** | <span style="color: #006400; font-weight: bold;">2.97</span> | <span style="color: #006400; font-weight: bold;">10.86</span> |
 | **2010/05** | **-** | N/A | N/A | **31.7** | <span style="color: #006400; font-weight: bold;">2.93</span> | <span style="color: #006400; font-weight: bold;">10.83</span> |
 | **2010/04** | **-** | N/A | N/A | **31.2** | <span style="color: #006400; font-weight: bold;">2.88</span> | <span style="color: #006400; font-weight: bold;">10.83</span> |
 | **2010/03** | **-** | N/A | N/A | **29.8** | <span style="color: #006400; font-weight: bold;">2.83</span> | <span style="color: #006400; font-weight: bold;">10.52</span> |
@@ -261,7 +285,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 | **2008/12** | **-** | N/A | N/A | **22.3** | <span style="color: #006400; font-weight: bold;">3.08</span> | <span style="color: #006400; font-weight: bold;">7.24</span> |
 | **2008/11** | **-** | N/A | N/A | **19** | <span style="color: #006400; font-weight: bold;">3.03</span> | <span style="color: #228B22; font-weight: bold;">6.27</span> |
 | **2008/10** | **-** | N/A | N/A | **18.55** | <span style="color: #006400; font-weight: bold;">2.98</span> | <span style="color: #228B22; font-weight: bold;">6.22</span> |
-| **2008/09** | **-** | N/A | N/A | **20.1** | <span style="color: #006400; font-weight: bold;">2.94</span> | <span style="color: #006400; font-weight: bold;">6.85</span> |
+| **2008/09** | **-** | N/A | N/A | **20.1** | <span style="color: #006400; font-weight: bold;">2.94</span> | <span style="color: #228B22; font-weight: bold;">6.85</span> |
 | **2008/08** | **-** | N/A | N/A | **24.75** | <span style="color: #006400; font-weight: bold;">2.89</span> | <span style="color: #006400; font-weight: bold;">8.57</span> |
 | **2008/07** | **-** | N/A | N/A | **24** | <span style="color: #006400; font-weight: bold;">2.84</span> | <span style="color: #006400; font-weight: bold;">8.46</span> |
 | **2008/06** | **-** | N/A | N/A | **24.9** | <span style="color: #006400; font-weight: bold;">2.79</span> | <span style="color: #006400; font-weight: bold;">8.92</span> |
@@ -283,18 +307,17 @@ description: 月營收表 寶雅 (5904) - 自動產生
 | **2007/02** | **-** | N/A | N/A | **21.4** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">8.53</span> |
 | **2007/01** | **-** | N/A | N/A | **21.5** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">8.57</span> |
 | **2006/12** | **-** | N/A | N/A | **21.85** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">8.71</span> |
-| **2006/11** | **-** | N/A | N/A | **21.1** | <span style="color: #006400; font-weight: bold;">2.67</span> | <span style="color: #006400; font-weight: bold;">7.9</span> |
-| **2006/10** | **-** | N/A | N/A | **20.3** | <span style="color: #006400; font-weight: bold;">2.83</span> | <span style="color: #006400; font-weight: bold;">7.17</span> |
-| **2006/09** | **-** | N/A | N/A | **23.4** | <span style="color: #006400; font-weight: bold;">2.99</span> | <span style="color: #006400; font-weight: bold;">7.82</span> |
-| **2006/08** | **-** | N/A | N/A | **22.9** | <span style="color: #006400; font-weight: bold;">3.15</span> | <span style="color: #006400; font-weight: bold;">7.26</span> |
-| **2006/07** | **-** | N/A | N/A | **25.15** | <span style="color: #006400; font-weight: bold;">3.31</span> | <span style="color: #006400; font-weight: bold;">7.59</span> |
-| **2006/06** | **-** | N/A | N/A | **27.1** | <span style="color: #006400; font-weight: bold;">3.48</span> | <span style="color: #006400; font-weight: bold;">7.8</span> |
-| **2006/05** | **-** | N/A | N/A | **27.75** | <span style="color: #006400; font-weight: bold;">3.64</span> | <span style="color: #006400; font-weight: bold;">7.63</span> |
-| **2006/04** | **-** | N/A | N/A | **29.1** | <span style="color: #006400; font-weight: bold;">3.8</span> | <span style="color: #006400; font-weight: bold;">7.66</span> |
-| **2006/03** | **-** | N/A | N/A | **27.6** | <span style="color: #006400; font-weight: bold;">3.96</span> | <span style="color: #006400; font-weight: bold;">6.97</span> |
-| **2006/02** | **-** | N/A | N/A | **27.9** | <span style="color: #006400; font-weight: bold;">4.12</span> | <span style="color: #006400; font-weight: bold;">6.77</span> |
-| **2006/01** | **-** | N/A | N/A | **29** | <span style="color: #006400; font-weight: bold;">4.28</span> | <span style="color: #006400; font-weight: bold;">6.78</span> |
-| **2005/12** | **-** | N/A | N/A | **26.8** | <span style="color: #004225; font-weight: bold;">4.44</span> | <span style="color: #228B22; font-weight: bold;">6.04</span> |
+| **2006/11** | **-** | N/A | N/A | **21.1** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">8.41</span> |
+| **2006/10** | **-** | N/A | N/A | **20.3** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">8.09</span> |
+| **2006/09** | **-** | N/A | N/A | **23.4** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">9.32</span> |
+| **2006/08** | **-** | N/A | N/A | **22.9** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">9.12</span> |
+| **2006/07** | **-** | N/A | N/A | **25.15** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">10.02</span> |
+| **2006/06** | **-** | N/A | N/A | **27.1** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">10.8</span> |
+| **2006/05** | **-** | N/A | N/A | **27.75** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">11.06</span> |
+| **2006/04** | **-** | N/A | N/A | **29.1** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #004225; font-weight: bold;">11.59</span> |
+| **2006/03** | **-** | N/A | N/A | **27.6** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">11.0</span> |
+| **2006/02** | **-** | N/A | N/A | **27.9** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">11.12</span> |
+| **2006/01** | **-** | N/A | N/A | **29** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #004225; font-weight: bold;">11.55</span> |
 
 </div>
 
@@ -390,7 +413,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

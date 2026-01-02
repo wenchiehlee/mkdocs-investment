@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-12-24
+date: 2026-01-02
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 力領科技 (6996) - 自動產生
     **:building_construction: 公司名稱**: 力領科技  
     **:identification_card: 股票代號**: 6996  
     **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2025-12-24 11:51:59 CST
+    **:clock3: 更新時間**: 2026-01-02 12:38:53 CST
 
 ## :bar_chart: 績效概覽
 
@@ -34,28 +34,52 @@ description: 月營收表 力領科技 (6996) - 自動產生
 | <span style="color: #002818; font-weight: bold;">-0.02</span> | <span style="color: #004225; font-weight: bold;">-11.4</span> | **28** 個月 | 2023/08 至 2025/11 |
 
 
+## :calendar: 月營收表 (年度比較)
+
+!!! note "表格說明"
+    - 營收單位：**百萬元** (Million NT$)
+    - 括號內為年增率 (%)
+    - 顏色編碼：正值為紅色系，負值為綠色系
+
+| 營收(年增) | **2025** | **2024** | **2023** |
+|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 234<br/><span style="color: #DC143C;">(+20.80%)</span> | 194<br/><span style="color: #006400;">(-23.30%)</span> |
+| **11月** | 258<br/><span style="color: #002818;">(-0.02%)</span> | 258<br/><span style="color: #B22222;">(+14.40%)</span> | 225<br/><span style="color: #002818;">(-7.12%)</span> |
+| **10月** | 267<br/><span style="color: #B22222;">(+15.10%)</span> | 231<br/><span style="color: #006400;">(-20.90%)</span> | 293<br/><span style="color: #DC143C;">(+25.30%)</span> |
+| **9月** | 244<br/><span style="color: #002818;">(-3.89%)</span> | 254<br/><span style="color: #8B0000;">(+4.80%)</span> | 242<br/><span style="color: #002818;">(-1.74%)</span> |
+| **8月** | 223<br/><span style="color: #004225;">(-16.80%)</span> | 268<br/><span style="color: #B22222;">(+12.10%)</span> | 239<br/><span style="color: #8B0000;">(+3.13%)</span> |
+| **7月** | 192<br/><span style="color: #006400;">(-27.00%)</span> | 262<br/><span style="color: #DC143C;">(+22.50%)</span> | -- |
+| **6月** | 184<br/><span style="color: #004225;">(-18.60%)</span> | 225<br/><span style="color: #B22222;">(+16.00%)</span> | -- |
+| **5月** | 180<br/><span style="color: #228B22;">(-36.10%)</span> | 282<br/><span style="color: #FF4500;">(+34.10%)</span> | -- |
+| **4月** | 252<br/><span style="color: #002818;">(-6.68%)</span> | 270<br/><span style="color: #B22222;">(+13.40%)</span> | -- |
+| **3月** | 231<br/><span style="color: #002818;">(-5.83%)</span> | 246<br/><span style="color: #002818;">(-7.20%)</span> | -- |
+| **2月** | 194<br/><span style="color: #8B0000;">(+1.04%)</span> | 192<br/><span style="color: #8B0000;">(+0.48%)</span> | -- |
+| **1月** | 198<br/><span style="color: #004225;">(-18.80%)</span> | 244<br/><span style="color: #FF7F7F;">(+64.90%)</span> | -- |
+
+
+
 ## :chart_with_upwards_trend: 個股統計基準 (力領科技) - 非對稱分布
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **11.46** | **12.93** | **14.51** |
-| **P/E倍數** | **11.72** | **13.22** | **14.62** |
+| **P/E倍數** | **11.72** | **13.22** | **14.63** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 力領科技 歷史平均獲利能力 (σup=1.59, σlo=1.47)
-    - **P/Ebase**: 力領科技 歷史平均估值水準 (σup=1.40, σlo=1.49)
+    - **P/Ebase**: 力領科技 歷史平均估值水準 (σup=1.40, σlo=1.50)
 
 
-## :moneybag: 月營收數據
+## :moneybag: 月營收數據 (明細)
 
 <div class="annotate" markdown>
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/11** | **2.58** | <span style="color: #002818; font-weight: bold;">-0.02</span> | <span style="color: #004225; font-weight: bold;">-11.4</span> | **151.5** | <span style="color: #006400; font-weight: bold;">10.89</span> | <span style="color: #B22222; font-weight: bold;">13.92</span> |
+| **2025/11** | **2.58** | <span style="color: #002818; font-weight: bold;">-0.02</span> | <span style="color: #004225; font-weight: bold;">-11.4</span> | **151.5** | <span style="color: #006400; font-weight: bold;">10.89</span> | <span style="color: #8B0000; font-weight: bold;">13.92</span> |
 | **2025/10** | **2.67** | <span style="color: #B22222; font-weight: bold;">+15.1</span> | <span style="color: #004225; font-weight: bold;">-12.6</span> | **152.5** | <span style="color: #006400; font-weight: bold;">11.3</span> | <span style="color: #8B0000; font-weight: bold;">13.5</span> |
 | **2025/09** | **2.44** | <span style="color: #002818; font-weight: bold;">-3.89</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **149.5** | <span style="color: #004225; font-weight: bold;">11.7</span> | <span style="color: #002818; font-weight: bold;">12.78</span> |
 | **2025/08** | **2.23** | <span style="color: #004225; font-weight: bold;">-16.8</span> | <span style="color: #004225; font-weight: bold;">-16.9</span> | **150** | <span style="color: #004225; font-weight: bold;">12.11</span> | <span style="color: #004225; font-weight: bold;">12.39</span> |
@@ -178,7 +202,7 @@ description: 月營收表 力領科技 (6996) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-12-24 11:51:59 CST
+- **產生時間**: 2026-01-02 12:38:53 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
