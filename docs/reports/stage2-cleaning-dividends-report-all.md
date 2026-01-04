@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-03
+date: 2026-01-04
 categories:
   - 股票
   - 股利分配
@@ -24,7 +24,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 # :bar_chart: 股利分配總覽報告 - 全部股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-01-03 22:52:28  
+    **:calendar: 產生時間**: 2026-01-04 09:31:46  
     **:building_construction: 分析股票總數**: 126 檔 (有效 103 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析
 
@@ -123,7 +123,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>[**2317**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2317/)</td>
 <td>鴻海</td>
 <td>5.80</td>
-<td>🔼 7.39</td>
+<td>🔼 7.17</td>
 <td>2.52%</td>
 <td>01/01 08:24</td>
 <td>5.16%</td>
@@ -240,7 +240,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>[**2357**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2357/)</td>
 <td>華碩</td>
 <td>34.00</td>
-<td>🔼 40.53</td>
+<td>🔼 39.94</td>
 <td>6.20%</td>
 <td>01/01 10:25</td>
 <td>7.71%</td>
@@ -318,7 +318,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>[**2382**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2382/)</td>
 <td>廣達</td>
 <td>13.00</td>
-<td>🔼 14.93</td>
+<td>🔼 14.13</td>
 <td>4.78%</td>
 <td>01/01 10:27</td>
 <td>7.47%</td>
@@ -344,7 +344,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>[**2395**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2395/)</td>
 <td>研華</td>
 <td>8.39</td>
-<td>🔼 8.92</td>
+<td>🔼 8.59</td>
 <td>2.91%</td>
 <td>01/01 10:27</td>
 <td>3.10%</td>
@@ -838,7 +838,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>[**4938**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4938/)</td>
 <td>和碩</td>
 <td>4.50</td>
-<td>🔽 3.32</td>
+<td>🔽 2.90</td>
 <td>6.56%</td>
 <td>01/01 10:35</td>
 <td>6.67%</td>
@@ -1358,7 +1358,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>[**8299**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8299/)</td>
 <td>群聯</td>
 <td>31.31</td>
-<td>🔽 17.34</td>
+<td>🔽 17.54</td>
 <td>2.16%</td>
 <td>01/01 10:39</td>
 <td>7.71%</td>
@@ -1432,7 +1432,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-01-03 22:52:28
+    - **報告產生時間**: 2026-01-04 09:31:46
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
