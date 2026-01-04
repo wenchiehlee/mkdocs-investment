@@ -2,7 +2,7 @@
 title: "本益比與未來報酬率分析 - 完整總覽 (總報酬含息)"
 authors:
   - Stock Analysis System
-date: 2025-12-23
+date: 2026-01-04
 categories:
   - 市場分析
   - 估值分析
@@ -21,7 +21,7 @@ description: "全市場本益比與未來報酬率分析 - 跨期間完整總覽
     - **涵蓋期間**: 3個月 至 10年 共10個投資期間
     - **分析方法**: 本益比與未來報酬率歷史回測分析
     - **資料來源**: Type 12 (ShowMonthlyK_ChartFlow) 月收盤價與本益比
-    - **報告生成時間**: 2025-12-23 12:44:01 CST
+    - **報告生成時間**: 2026-01-04 08:21:42 CST
 
 ---
 
@@ -31,16 +31,16 @@ description: "全市場本益比與未來報酬率分析 - 跨期間完整總覽
 
 | 投資期間 | 分析股票數 | 平均預期報酬率 | 平均R² | 最佳機會 | 最高預期報酬 | 📄 詳細報告 |
 |:---:|:---:|:---:|:---:|:---|:---:|:---|
-| **3個月** | 110 檔 | N/A | N/A | N/A | N/A | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.25y-tr.md) |
-| **6個月** | 107 檔 | N/A | N/A | N/A | N/A | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.5y-tr.md) |
-| **1年** | 89 檔 | **+11.18%** | 0.2030 | 6442 光聖 | **+224.92%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-1y-tr.md) |
-| **2年** | 82 檔 | **+12.40%** | 0.2023 | 6442 光聖 | **+270.79%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-2y-tr.md) |
-| **3年** | 78 檔 | **+17.36%** | 0.2253 | 6442 光聖 | **+187.13%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-3y-tr.md) |
-| **4年** | 73 檔 | **+11.57%** | 0.1789 | 5269 祥碩 | **+34.59%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-4y-tr.md) |
-| **5年** | 71 檔 | **+10.87%** | 0.1958 | 5269 祥碩 | **+37.92%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-5y-tr.md) |
-| **6年** | 71 檔 | **+11.03%** | 0.2109 | 6669 緯穎 | **+41.53%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-6y-tr.md) |
-| **8年** | 66 檔 | **+9.80%** | 0.2459 | 2345 智邦 | **+36.36%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-8y-tr.md) |
-| **10年** | 64 檔 | **+10.88%** | 0.2965 | 2345 智邦 | **+36.08%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-10y-tr.md) |
+| **3個月** | 118 檔 | **+43.96%** | 0.1618 | 5269 祥碩 | **+589.69%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.25y-tr.md) |
+| **6個月** | 115 檔 | **+22.62%** | 0.2208 | 7728 光焱科技 | **+175.15%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.5y-tr.md) |
+| **1年** | 97 檔 | **+9.47%** | 0.2038 | 6425 易發 | **+84.44%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-1y-tr.md) |
+| **2年** | 90 檔 | **+10.48%** | 0.1900 | 6510 精測 | **+95.36%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-2y-tr.md) |
+| **3年** | 86 檔 | **+15.35%** | 0.2079 | 6425 易發 | **+60.13%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-3y-tr.md) |
+| **4年** | 83 檔 | **+11.90%** | 0.1733 | 2603 長榮 | **+34.98%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-4y-tr.md) |
+| **5年** | 81 檔 | **+10.84%** | 0.1861 | 5269 祥碩 | **+37.91%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-5y-tr.md) |
+| **6年** | 81 檔 | **+10.85%** | 0.2048 | 6669 緯穎 | **+41.54%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-6y-tr.md) |
+| **8年** | 75 檔 | **+10.69%** | 0.2364 | 6442 光聖 | **+67.03%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-8y-tr.md) |
+| **10年** | 73 檔 | **+11.20%** | 0.2790 | 6442 光聖 | **+36.45%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-10y-tr.md) |
 
 ---
 
@@ -50,26 +50,26 @@ description: "全市場本益比與未來報酬率分析 - 跨期間完整總覽
 
 適合波段操作、短線交易、技術分析搭配估值判斷
 
-- **[3個月報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.25y-tr.md)** - 110檔股票，平均預期報酬率 **N/A%**
-- **[6個月報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.5y-tr.md)** - 107檔股票，平均預期報酬率 **N/A%**
-- **[1年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-1y-tr.md)** - 89檔股票，平均預期報酬率 **+11.18%**
+- **[3個月報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.25y-tr.md)** - 118檔股票，平均預期報酬率 **+43.96%**
+- **[6個月報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.5y-tr.md)** - 115檔股票，平均預期報酬率 **+22.62%**
+- **[1年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-1y-tr.md)** - 97檔股票，平均預期報酬率 **+9.47%**
 
 ### 🚶 中期投資 (2年 - 5年)
 
 適合產業輪動、景氣循環投資、成長股投資
 
-- **[2年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-2y-tr.md)** - 82檔股票，平均預期報酬率 **+12.40%**
-- **[3年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-3y-tr.md)** - 78檔股票，平均預期報酬率 **+17.36%**
-- **[4年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-4y-tr.md)** - 73檔股票，平均預期報酬率 **+11.57%**
-- **[5年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-5y-tr.md)** - 71檔股票，平均預期報酬率 **+10.87%**
+- **[2年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-2y-tr.md)** - 90檔股票，平均預期報酬率 **+10.48%**
+- **[3年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-3y-tr.md)** - 86檔股票，平均預期報酬率 **+15.35%**
+- **[4年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-4y-tr.md)** - 83檔股票，平均預期報酬率 **+11.90%**
+- **[5年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-5y-tr.md)** - 81檔股票，平均預期報酬率 **+10.84%**
 
 ### 🎯 長期投資 (6年 - 10年)
 
 適合價值投資、退休規劃、長期財富累積
 
-- **[6年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-6y-tr.md)** - 71檔股票，平均預期報酬率 **+11.03%**
-- **[8年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-8y-tr.md)** - 66檔股票，平均預期報酬率 **+9.80%**
-- **[10年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-10y-tr.md)** - 64檔股票，平均預期報酬率 **+10.88%**
+- **[6年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-6y-tr.md)** - 81檔股票，平均預期報酬率 **+10.85%**
+- **[8年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-8y-tr.md)** - 75檔股票，平均預期報酬率 **+10.69%**
+- **[10年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-10y-tr.md)** - 73檔股票，平均預期報酬率 **+11.20%**
 
 ---
 
@@ -79,14 +79,16 @@ description: "全市場本益比與未來報酬率分析 - 跨期間完整總覽
 
 | 投資期間 | 最佳標的 | 預期年化報酬率 | 目前估值 |
 |:---:|:---|:---:|:---|
-| 1年 | **6442 光聖** | +224.92% | 詳見[1年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-1y-tr.md) |
-| 2年 | **6442 光聖** | +270.79% | 詳見[2年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-2y-tr.md) |
-| 3年 | **6442 光聖** | +187.13% | 詳見[3年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-3y-tr.md) |
-| 4年 | **5269 祥碩** | +34.59% | 詳見[4年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-4y-tr.md) |
-| 5年 | **5269 祥碩** | +37.92% | 詳見[5年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-5y-tr.md) |
-| 6年 | **6669 緯穎** | +41.53% | 詳見[6年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-6y-tr.md) |
-| 8年 | **2345 智邦** | +36.36% | 詳見[8年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-8y-tr.md) |
-| 10年 | **2345 智邦** | +36.08% | 詳見[10年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-10y-tr.md) |
+| 3個月 | **5269 祥碩** | +589.69% | 詳見[3個月報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.25y-tr.md) |
+| 6個月 | **7728 光焱科技** | +175.15% | 詳見[6個月報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.5y-tr.md) |
+| 1年 | **6425 易發** | +84.44% | 詳見[1年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-1y-tr.md) |
+| 2年 | **6510 精測** | +95.36% | 詳見[2年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-2y-tr.md) |
+| 3年 | **6425 易發** | +60.13% | 詳見[3年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-3y-tr.md) |
+| 4年 | **2603 長榮** | +34.98% | 詳見[4年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-4y-tr.md) |
+| 5年 | **5269 祥碩** | +37.91% | 詳見[5年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-5y-tr.md) |
+| 6年 | **6669 緯穎** | +41.54% | 詳見[6年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-6y-tr.md) |
+| 8年 | **6442 光聖** | +67.03% | 詳見[8年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-8y-tr.md) |
+| 10年 | **6442 光聖** | +36.45% | 詳見[10年報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-10y-tr.md) |
 
 ---
 
@@ -171,74 +173,74 @@ description: "全市場本益比與未來報酬率分析 - 跨期間完整總覽
 ### 短期投資報告
 
 - **[3個月期本益比與報酬率分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.25y-tr.md)**
-  - 分析股票: 110檔
-  - 平均預期報酬率: **N/A%**
-  - 平均R²值: N/A
-  - 最佳標的: N/A N/A (N/A%)
+  - 分析股票: 118檔
+  - 平均預期報酬率: **+43.96%**
+  - 平均R²值: 0.1618
+  - 最佳標的: 5269 祥碩 (+589.69%)
 
 - **[6個月期本益比與報酬率分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.5y-tr.md)**
-  - 分析股票: 107檔
-  - 平均預期報酬率: **N/A%**
-  - 平均R²值: N/A
-  - 最佳標的: N/A N/A (N/A%)
+  - 分析股票: 115檔
+  - 平均預期報酬率: **+22.62%**
+  - 平均R²值: 0.2208
+  - 最佳標的: 7728 光焱科技 (+175.15%)
 
 - **[1年期本益比與報酬率分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-1y-tr.md)**
-  - 分析股票: 89檔
-  - 平均預期報酬率: **+11.18%**
-  - 平均R²值: 0.2030
-  - 最佳標的: 6442 光聖 (+224.92%)
+  - 分析股票: 97檔
+  - 平均預期報酬率: **+9.47%**
+  - 平均R²值: 0.2038
+  - 最佳標的: 6425 易發 (+84.44%)
 
 
 ### 中期投資報告
 
 - **[2年期本益比與報酬率分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-2y-tr.md)**
-  - 分析股票: 82檔
-  - 平均預期報酬率: **+12.40%**
-  - 平均R²值: 0.2023
-  - 最佳標的: 6442 光聖 (+270.79%)
+  - 分析股票: 90檔
+  - 平均預期報酬率: **+10.48%**
+  - 平均R²值: 0.1900
+  - 最佳標的: 6510 精測 (+95.36%)
 
 - **[3年期本益比與報酬率分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-3y-tr.md)**
-  - 分析股票: 78檔
-  - 平均預期報酬率: **+17.36%**
-  - 平均R²值: 0.2253
-  - 最佳標的: 6442 光聖 (+187.13%)
+  - 分析股票: 86檔
+  - 平均預期報酬率: **+15.35%**
+  - 平均R²值: 0.2079
+  - 最佳標的: 6425 易發 (+60.13%)
 
 - **[4年期本益比與報酬率分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-4y-tr.md)**
-  - 分析股票: 73檔
-  - 平均預期報酬率: **+11.57%**
-  - 平均R²值: 0.1789
-  - 最佳標的: 5269 祥碩 (+34.59%)
+  - 分析股票: 83檔
+  - 平均預期報酬率: **+11.90%**
+  - 平均R²值: 0.1733
+  - 最佳標的: 2603 長榮 (+34.98%)
 
 - **[5年期本益比與報酬率分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-5y-tr.md)**
-  - 分析股票: 71檔
-  - 平均預期報酬率: **+10.87%**
-  - 平均R²值: 0.1958
-  - 最佳標的: 5269 祥碩 (+37.92%)
+  - 分析股票: 81檔
+  - 平均預期報酬率: **+10.84%**
+  - 平均R²值: 0.1861
+  - 最佳標的: 5269 祥碩 (+37.91%)
 
 
 ### 長期投資報告
 
 - **[6年期本益比與報酬率分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-6y-tr.md)**
-  - 分析股票: 71檔
-  - 平均預期報酬率: **+11.03%**
-  - 平均R²值: 0.2109
-  - 最佳標的: 6669 緯穎 (+41.53%)
+  - 分析股票: 81檔
+  - 平均預期報酬率: **+10.85%**
+  - 平均R²值: 0.2048
+  - 最佳標的: 6669 緯穎 (+41.54%)
 
 - **[8年期本益比與報酬率分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-8y-tr.md)**
-  - 分析股票: 66檔
-  - 平均預期報酬率: **+9.80%**
-  - 平均R²值: 0.2459
-  - 最佳標的: 2345 智邦 (+36.36%)
+  - 分析股票: 75檔
+  - 平均預期報酬率: **+10.69%**
+  - 平均R²值: 0.2364
+  - 最佳標的: 6442 光聖 (+67.03%)
 
 - **[10年期本益比與報酬率分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-10y-tr.md)**
-  - 分析股票: 64檔
-  - 平均預期報酬率: **+10.88%**
-  - 平均R²值: 0.2965
-  - 最佳標的: 2345 智邦 (+36.08%)
+  - 分析股票: 73檔
+  - 平均預期報酬率: **+11.20%**
+  - 平均R²值: 0.2790
+  - 最佳標的: 6442 光聖 (+36.45%)
 
 
 ---
 
 *本總覽由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2025-12-23 12:44:01 CST*
+*數據更新時間: 2026-01-04 08:21:42 CST*
 *涵蓋期間: 10個投資期間 (3個月至10年)*
