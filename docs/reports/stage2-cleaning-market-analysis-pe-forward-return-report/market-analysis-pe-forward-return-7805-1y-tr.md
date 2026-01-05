@@ -10,7 +10,7 @@ tags:
   - TWSE
   - P/E Ratio
   - Forward Return
-  - "7805"
+  - 7805
   - 數位雲端
 description: "7805 威聯通 (數位雲端) 本益比與1年期未來報酬率關係分析"
 ---
