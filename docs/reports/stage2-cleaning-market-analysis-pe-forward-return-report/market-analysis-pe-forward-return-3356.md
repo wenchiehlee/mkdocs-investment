@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 3356
+  - 本益比
+  - 未來報酬率
   - 光電業
 description: "3356 奇偶 (光電業) 本益比與10年期未來報酬率關係分析"
 ---

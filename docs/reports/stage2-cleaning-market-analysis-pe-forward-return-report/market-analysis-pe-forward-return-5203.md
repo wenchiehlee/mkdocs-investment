@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 5203
+  - 本益比
+  - 未來報酬率
   - 資訊服務業
 description: "5203 訊連 (資訊服務業) 本益比與10年期未來報酬率關係分析"
 ---

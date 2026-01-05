@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 9917
+  - 本益比
+  - 未來報酬率
   - 其他業
 description: "9917 中保科 (其他業) 本益比與10年期未來報酬率關係分析"
 ---

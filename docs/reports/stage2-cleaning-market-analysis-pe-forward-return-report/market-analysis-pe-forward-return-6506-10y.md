@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 6506
+  - 本益比
+  - 未來報酬率
   - 紡織纖維
 	description: "6506 雙邦 (紡織纖維) 本益比與10年期未來報酬率關係分析"
 	---

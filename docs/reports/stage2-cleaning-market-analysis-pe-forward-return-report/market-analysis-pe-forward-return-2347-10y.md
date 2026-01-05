@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 2347
+  - 本益比
+  - 未來報酬率
   - 電子通路業
 	description: "2347 聯強 (電子通路業) 本益比與10年期未來報酬率關係分析"
 	---

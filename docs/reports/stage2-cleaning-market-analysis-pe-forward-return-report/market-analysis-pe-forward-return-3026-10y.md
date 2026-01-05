@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 3026
+  - 本益比
+  - 未來報酬率
   - 電子零組件業
 	description: "3026 禾伸堂 (電子零組件業) 本益比與10年期未來報酬率關係分析"
 	---

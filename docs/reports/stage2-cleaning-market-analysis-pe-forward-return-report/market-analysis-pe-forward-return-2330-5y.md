@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 2330
+  - 本益比
+  - 未來報酬率
   - 半導體業
 	description: "2330 台積電 (半導體業) 本益比與5年期未來報酬率關係分析"
 	---

@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 2354
+  - 本益比
+  - 未來報酬率
   - 其他電子業
 description: "2354 鴻準 (其他電子業) 本益比與10年期未來報酬率關係分析"
 ---

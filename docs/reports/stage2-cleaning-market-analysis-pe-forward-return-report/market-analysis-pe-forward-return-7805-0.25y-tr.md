@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 7805
+  - 本益比
+  - 未來報酬率
   - 數位雲端
 description: "7805 威聯通 (數位雲端) 本益比與0.25年期未來報酬率關係分析"
 ---

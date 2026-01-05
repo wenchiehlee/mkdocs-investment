@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 5434
+  - 本益比
+  - 未來報酬率
   - 電子通路業
 	description: "5434 崇越 (電子通路業) 本益比與10年期未來報酬率關係分析"
 	---

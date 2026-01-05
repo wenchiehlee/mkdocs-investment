@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 2412
+  - 本益比
+  - 未來報酬率
   - 通信網路業
 	description: "2412 中華電 (通信網路業) 本益比與5年期未來報酬率關係分析"
 	---

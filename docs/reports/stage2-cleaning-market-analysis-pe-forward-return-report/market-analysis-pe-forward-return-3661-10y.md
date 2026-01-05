@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 3661
+  - 本益比
+  - 未來報酬率
   - 半導體業
 	description: "3661 世芯-KY (半導體業) 本益比與10年期未來報酬率關係分析"
 	---

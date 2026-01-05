@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 5904
+  - 本益比
+  - 未來報酬率
   - 居家生活
 description: "5904 寶雅 (居家生活) 本益比與10年期未來報酬率關係分析"
 ---

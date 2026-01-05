@@ -7,10 +7,9 @@ categories:
   - 市場分析
   - 估值分析
 tags:
-  - P/E Ratio
-  - Forward Return
+  - 本益比
+  - 未來報酬率
   - Summary Report
-  - 10
 description: "全市場本益比與10未來報酬率分析總覽報告"
 ---
 

@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 4114
+  - 本益比
+  - 未來報酬率
   - 生技醫療業
 description: "4114 健喬 (生技醫療業) 本益比與10年期未來報酬率關係分析"
 ---

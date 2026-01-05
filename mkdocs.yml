@@ -133,8 +133,16 @@ plugins:
           as_update: git
   - tags:
       tags_file: tag.md
-# Customization
+  - macros
 
+# Validation
+validation:
+  links:
+    unrecognized_links: ignore
+  nav:
+    not_found: ignore
+
+# Customization
 extra:
   # alternate:
   #   - name: 簡體中文
@@ -316,6 +324,7 @@ not_in_nav: |
 nav:
   - 首頁: index.md
   - 部落格: blog/index.md
+  - 分類: categories.md
   - 台股總覽:
     - 台股營收總覽: reports/stage2-cleaning-revenue-report-all.md
     - 台股股利總覽: reports/stage2-cleaning-dividends-report-all.md

@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 2603
+  - 本益比
+  - 未來報酬率
   - 航運業
 	description: "2603 長榮 (航運業) 本益比與10年期未來報酬率關係分析"
 	---

@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 4953
+  - 本益比
+  - 未來報酬率
   - 資訊服務業
 description: "4953 緯軟 (資訊服務業) 本益比與10年期未來報酬率關係分析"
 ---

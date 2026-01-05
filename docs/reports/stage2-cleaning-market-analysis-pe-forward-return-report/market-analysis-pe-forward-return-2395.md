@@ -8,9 +8,8 @@ categories:
   - 估值分析
 tags:
   - TWSE
-  - P/E Ratio
-  - Forward Return
-  - 2395
+  - 本益比
+  - 未來報酬率
   - 電腦及週邊設備業
 description: "2395 研華 (電腦及週邊設備業) 本益比與10年期未來報酬率關係分析"
 ---
