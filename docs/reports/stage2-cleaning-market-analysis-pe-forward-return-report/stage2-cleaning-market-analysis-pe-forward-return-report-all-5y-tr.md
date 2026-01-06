@@ -22,12 +22,12 @@ description: "全市場本益比與5未來報酬率分析總覽報告 (含息)"
 # 本益比與5未來報酬率分析 - 全股總覽 (含息)
 
 !!! info "報告資訊"
-    - **分析股票數量**: 81 檔
+    - **分析股票數量**: 121 檔
     - **分析期間**: 5
     - **報酬計算**: 總報酬 (含現金股利)
     - **分析方法**: 本益比與5未來報酬率回歸分析
     - **資料來源**: Type 12 (ShowMonthlyK_ChartFlow) 月收盤價與本益比
-    - **報告生成時間**: 2026-01-06 01:21:58 CST
+    - **報告生成時間**: 2026-01-06 19:19:39 CST
 
 ## 📊 全市場估值分析總覽
 
@@ -1077,6 +1077,8 @@ description: "全市場本益比與5未來報酬率分析總覽報告 (含息)"
 - [2474 可成](market-analysis-pe-forward-return-2474-5y-tr.md) - 預期報酬率: **+10.19%** (R²=0.046)
 - [5536 聖暉](market-analysis-pe-forward-return-5536-5y-tr.md) - 預期報酬率: **+13.07%** (R²=0.040)
 - [6613 朋億](market-analysis-pe-forward-return-6613-5y-tr.md) - 預期報酬率: **+3.16%** (R²=0.223)
+- [7703 銳澤](market-analysis-pe-forward-return-7703-5y-tr.md) - 預期報酬率: **N/A** 
+- [7728 光焱科技](market-analysis-pe-forward-return-7728-5y-tr.md) - 預期報酬率: **N/A** 
 
 ### 半導體業
 
@@ -1092,31 +1094,61 @@ description: "全市場本益比與5未來報酬率分析總覽報告 (含息)"
 - [3034 聯詠](market-analysis-pe-forward-return-3034-5y-tr.md) - 預期報酬率: **+10.90%** (R²=0.036)
 - [3035 智原](market-analysis-pe-forward-return-3035-5y-tr.md) - 預期報酬率: **+20.83%** (R²=0.059)
 - [3260 威剛](market-analysis-pe-forward-return-3260-5y-tr.md) - 預期報酬率: **+5.00%** (R²=0.022)
+- [3467 台灣精材](market-analysis-pe-forward-return-3467-5y-tr.md) - 預期報酬率: **N/A** 
 - [3711 日月光投控](market-analysis-pe-forward-return-3711-5y-tr.md) - 預期報酬率: **+20.60%** (R²=0.060)
+- [4749 新應材](market-analysis-pe-forward-return-4749-5y-tr.md) - 預期報酬率: **N/A** 
 - [5269 祥碩](market-analysis-pe-forward-return-5269-5y-tr.md) - 預期報酬率: **+37.91%** (R²=0.162)
 - [5274 信驊](market-analysis-pe-forward-return-5274-5y-tr.md) - 預期報酬率: **+25.28%** (R²=0.157)
 - [6182 合晶](market-analysis-pe-forward-return-6182-5y-tr.md) - 預期報酬率: **-11.62%** (R²=0.001)
 - [6462 神盾](market-analysis-pe-forward-return-6462-5y-tr.md) - 預期報酬率: **-3.72%** (R²=0.002)
 - [6510 精測](market-analysis-pe-forward-return-6510-5y-tr.md) - 預期報酬率: **+5.09%** (R²=0.642)
+- [6526 達發](market-analysis-pe-forward-return-6526-5y-tr.md) - 預期報酬率: **N/A** 
+- [6695 芯鼎](market-analysis-pe-forward-return-6695-5y-tr.md) - 預期報酬率: **N/A** 
+- [6720 久昌](market-analysis-pe-forward-return-6720-5y-tr.md) - 預期報酬率: **N/A** 
+- [6996 力領科技](market-analysis-pe-forward-return-6996-5y-tr.md) - 預期報酬率: **N/A** 
+- [7704 明遠精密](market-analysis-pe-forward-return-7704-5y-tr.md) - 預期報酬率: **N/A** 
+- [7712 博盛半導體](market-analysis-pe-forward-return-7712-5y-tr.md) - 預期報酬率: **N/A** 
+- [7734 印能科技](market-analysis-pe-forward-return-7734-5y-tr.md) - 預期報酬率: **N/A** 
+- [7769 鴻勁](market-analysis-pe-forward-return-7769-5y-tr.md) - 預期報酬率: **N/A** 
 - [8016 矽創](market-analysis-pe-forward-return-8016-5y-tr.md) - 預期報酬率: **+12.34%** (R²=0.081)
 - [8299 群聯](market-analysis-pe-forward-return-8299-5y-tr.md) - 預期報酬率: **+17.69%** (R²=0.434)
 
 ### 居家生活
 
 - [5904 寶雅](market-analysis-pe-forward-return-5904-5y-tr.md) - 預期報酬率: **+14.85%** (R²=0.488)
+- [7794 宏碁智新](market-analysis-pe-forward-return-7794-5y-tr.md) - 預期報酬率: **N/A** 
 
 ### 數位雲端
 
 - [6690 安碁資訊](market-analysis-pe-forward-return-6690-5y-tr.md) - 預期報酬率: **+7.44%** (R²=0.926)
+- [6763 綠界科技](market-analysis-pe-forward-return-6763-5y-tr.md) - 預期報酬率: **N/A** 
+- [6811 宏碁資訊](market-analysis-pe-forward-return-6811-5y-tr.md) - 預期報酬率: **N/A** 
+- [6902 GOGOLOOK](market-analysis-pe-forward-return-6902-5y-tr.md) - 預期報酬率: **N/A** 
+- [6925 意藍](market-analysis-pe-forward-return-6925-5y-tr.md) - 預期報酬率: **N/A** 
+- [6997 博弘](market-analysis-pe-forward-return-6997-5y-tr.md) - 預期報酬率: **N/A** 
+- [7547 碩網](market-analysis-pe-forward-return-7547-5y-tr.md) - 預期報酬率: **N/A** 
+- [7722 LINEPAY](market-analysis-pe-forward-return-7722-5y-tr.md) - 預期報酬率: **N/A** 
+- [7737 凱鈿](market-analysis-pe-forward-return-7737-5y-tr.md) - 預期報酬率: **N/A** 
+- [7747 昕奇雲端](market-analysis-pe-forward-return-7747-5y-tr.md) - 預期報酬率: **N/A** 
+- [7765 中華資安](market-analysis-pe-forward-return-7765-5y-tr.md) - 預期報酬率: **N/A** 
+- [7805 威聯通](market-analysis-pe-forward-return-7805-5y-tr.md) - 預期報酬率: **N/A** 
 - [8454 富邦媒](market-analysis-pe-forward-return-8454-5y-tr.md) - 預期報酬率: **-3.25%** (R²=0.545)
 
 ### 文化創意業
 
 - [3293 鈊象](market-analysis-pe-forward-return-3293-5y-tr.md) - 預期報酬率: **+13.30%** (R²=0.046)
 
+### 汽車工業
+
+- [7732 金興精密](market-analysis-pe-forward-return-7732-5y-tr.md) - 預期報酬率: **N/A** 
+- [7736 虎山](market-analysis-pe-forward-return-7736-5y-tr.md) - 預期報酬率: **N/A** 
+
 ### 生技醫療業
 
 - [4114 健喬](market-analysis-pe-forward-return-4114-5y-tr.md) - 預期報酬率: **+2.48%** (R²=0.002)
+- [6850 光鼎生技](market-analysis-pe-forward-return-6850-5y-tr.md) - 預期報酬率: **N/A** 
+- [6918 愛派司](market-analysis-pe-forward-return-6918-5y-tr.md) - 預期報酬率: **N/A** 
+- [7713 威力德生醫](market-analysis-pe-forward-return-7713-5y-tr.md) - 預期報酬率: **N/A** 
 
 ### 紡織纖維
 
@@ -1125,16 +1157,26 @@ description: "全市場本益比與5未來報酬率分析總覽報告 (含息)"
 ### 航運業
 
 - [2603 長榮](market-analysis-pe-forward-return-2603-5y-tr.md) - 預期報酬率: **+27.22%** (R²=0.000)
+- [2646 星宇航空](market-analysis-pe-forward-return-2646-5y-tr.md) - 預期報酬率: **N/A** 
+- [6757 台灣虎航](market-analysis-pe-forward-return-6757-5y-tr.md) - 預期報酬率: **N/A** 
+
+### 觀光餐旅
+
+- [7705 三商餐飲](market-analysis-pe-forward-return-7705-5y-tr.md) - 預期報酬率: **N/A** 
+- [7708 全家餐飲](market-analysis-pe-forward-return-7708-5y-tr.md) - 預期報酬率: **N/A** 
 
 ### 資訊服務業
 
 - [2480 敦陽科](market-analysis-pe-forward-return-2480-5y-tr.md) - 預期報酬率: **+15.41%** (R²=0.171)
 - [3029 零壹](market-analysis-pe-forward-return-3029-5y-tr.md) - 預期報酬率: **+16.30%** (R²=0.001)
+- [3158 嘉實](market-analysis-pe-forward-return-3158-5y-tr.md) - 預期報酬率: **N/A** 
 - [4953 緯軟](market-analysis-pe-forward-return-4953-5y-tr.md) - 預期報酬率: **+20.57%** (R²=0.081)
 - [5203 訊連](market-analysis-pe-forward-return-5203-5y-tr.md) - 預期報酬率: **+1.84%** (R²=0.002)
 - [6123 上奇](market-analysis-pe-forward-return-6123-5y-tr.md) - 預期報酬率: **+16.52%** (R²=0.316)
 - [6214 精誠](market-analysis-pe-forward-return-6214-5y-tr.md) - 預期報酬率: **+11.49%** (R²=0.113)
 - [6231 系微](market-analysis-pe-forward-return-6231-5y-tr.md) - 預期報酬率: **+8.94%** (R²=0.009)
+- [6751 智聯服務](market-analysis-pe-forward-return-6751-5y-tr.md) - 預期報酬率: **N/A** 
+- [8272 全景軟體](market-analysis-pe-forward-return-8272-5y-tr.md) - 預期報酬率: **N/A** 
 
 ### 通信網路業
 
@@ -1147,6 +1189,7 @@ description: "全市場本益比與5未來報酬率分析總覽報告 (含息)"
 - [6285 啟碁](market-analysis-pe-forward-return-6285-5y-tr.md) - 預期報酬率: **+1.57%** (R²=0.106)
 - [6442 光聖](market-analysis-pe-forward-return-6442-5y-tr.md) - 預期報酬率: **N/A** (R²=0.406)
 - [6561 是方](market-analysis-pe-forward-return-6561-5y-tr.md) - 預期報酬率: **+7.16%** (R²=0.862)
+- [8045 達運光電](market-analysis-pe-forward-return-8045-5y-tr.md) - 預期報酬率: **N/A** 
 
 ### 運動休閒
 
@@ -1159,6 +1202,7 @@ description: "全市場本益比與5未來報酬率分析總覽報告 (含息)"
 - [2882 國泰金](market-analysis-pe-forward-return-2882-5y-tr.md) - 預期報酬率: **+5.12%** (R²=0.106)
 - [2884 玉山金](market-analysis-pe-forward-return-2884-5y-tr.md) - 預期報酬率: **+6.71%** (R²=0.244)
 - [2891 中信金](market-analysis-pe-forward-return-2891-5y-tr.md) - 預期報酬率: **+6.54%** (R²=0.031)
+- [6035 悠遊卡](market-analysis-pe-forward-return-6035-5y-tr.md) - 預期報酬率: **N/A** 
 
 ### 電子通路業
 
@@ -1172,10 +1216,12 @@ description: "全市場本益比與5未來報酬率分析總覽報告 (含息)"
 - [2383 台光電](market-analysis-pe-forward-return-2383-5y-tr.md) - 預期報酬率: **+27.25%** (R²=0.002)
 - [3026 禾伸堂](market-analysis-pe-forward-return-3026-5y-tr.md) - 預期報酬率: **+12.30%** (R²=0.014)
 - [3653 健策](market-analysis-pe-forward-return-3653-5y-tr.md) - 預期報酬率: **+21.86%** (R²=0.014)
+- [6597 立誠](market-analysis-pe-forward-return-6597-5y-tr.md) - 預期報酬率: **N/A** 
 
 ### 電機機械
 
 - [6425 易發](market-analysis-pe-forward-return-6425-5y-tr.md) - 預期報酬率: **N/A** 
+- [7709 榮田](market-analysis-pe-forward-return-7709-5y-tr.md) - 預期報酬率: **N/A** 
 
 ### 電腦及週邊設備業
 
@@ -1197,5 +1243,5 @@ description: "全市場本益比與5未來報酬率分析總覽報告 (含息)"
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-06 01:21:58 CST*
-*分析股票數量: 81 檔*
+*數據更新時間: 2026-01-06 19:19:39 CST*
+*分析股票數量: 121 檔*
