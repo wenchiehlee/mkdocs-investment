@@ -24,7 +24,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 # :bar_chart: 股利分配總覽報告 - 全部股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-01-08 14:08:22  
+    **:calendar: 產生時間**: 2026-01-08 14:36:53  
     **:building_construction: 分析股票總數**: 126 檔 (有效 103 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析
 
@@ -79,7 +79,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <th>:arrow_up: 殖利率@當年度最高價</th>
 <th>:repeat: 配發率</th>
 <th>:traffic_light: 穩定性</th>
-<th>:date: 資料區間</th>
 </tr>
 </thead>
 <tbody>
@@ -96,7 +95,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.29%</td>
 <td>87%</td>
 <td>🟡 7.5</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2303**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2303/)</td>
@@ -111,7 +109,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>5.58%</td>
 <td>75%</td>
 <td>🟡 6.5</td>
-<td>1984~2025 (41年)</td>
 </tr>
 <tr>
 <td>[**2308**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2308/)</td>
@@ -126,7 +123,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.65%</td>
 <td>52%</td>
 <td>🟡 7.0</td>
-<td>1984~2025 (42年)</td>
 </tr>
 <tr>
 <td>[**2317**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2317/)</td>
@@ -141,7 +137,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.19%</td>
 <td>53%</td>
 <td>🟢 8.0</td>
-<td>1989~2025 (37年)</td>
 </tr>
 <tr>
 <td>[**2324**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2324/)</td>
@@ -156,7 +151,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.52%</td>
 <td>61%</td>
 <td>🟡 7.0</td>
-<td>1990~2025 (36年)</td>
 </tr>
 <tr>
 <td>[**2330**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2330/)</td>
@@ -171,7 +165,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.41%</td>
 <td>13%</td>
 <td>🟡 7.5</td>
-<td>1992~2026 (35年)</td>
 </tr>
 <tr>
 <td>[**2332**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2332/)</td>
@@ -186,7 +179,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.39%</td>
 <td>167%</td>
 <td>🔴 4.5</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2345**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2345/)</td>
@@ -201,7 +193,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.89%</td>
 <td>51%</td>
 <td>🟡 7.0</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2347**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2347/)</td>
@@ -216,7 +207,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>5.25%</td>
 <td>72%</td>
 <td>🟢 8.0</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2353**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2353/)</td>
@@ -231,7 +221,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.15%</td>
 <td>92%</td>
 <td>🟡 6.0</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2354**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2354/)</td>
@@ -246,7 +235,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.75%</td>
 <td>55%</td>
 <td>🟡 6.5</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2356**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2356/)</td>
@@ -261,7 +249,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.17%</td>
 <td>84%</td>
 <td>🔴 5.5</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2357**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2357/)</td>
@@ -276,7 +263,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.56%</td>
 <td>80%</td>
 <td>🟡 6.0</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2359**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2359/)</td>
@@ -291,7 +277,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.00%</td>
 <td>0%</td>
 <td>🔴 5.0</td>
-<td>1993~2026 (34年)</td>
 </tr>
 <tr>
 <td>[**2360**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2360/)</td>
@@ -306,7 +291,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.04%</td>
 <td>-</td>
 <td>🟡 6.5</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2376**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2376/)</td>
@@ -321,7 +305,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.15%</td>
 <td>66%</td>
 <td>🟡 6.0</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2377**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2377/)</td>
@@ -336,7 +319,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.38%</td>
 <td>62%</td>
 <td>🟡 6.5</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2379**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2379/)</td>
@@ -351,7 +333,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.30%</td>
 <td>86%</td>
 <td>🔴 5.5</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2382**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2382/)</td>
@@ -366,7 +347,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.14%</td>
 <td>84%</td>
 <td>🔴 5.5</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2383**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2383/)</td>
@@ -381,7 +361,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.98%</td>
 <td>60%</td>
 <td>🟡 7.5</td>
-<td>1993~2025 (33年)</td>
 </tr>
 <tr>
 <td>[**2395**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2395/)</td>
@@ -396,7 +375,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.97%</td>
 <td>80%</td>
 <td>🟡 7.5</td>
-<td>1997~2025 (29年)</td>
 </tr>
 <tr>
 <td>[**2405**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2405/)</td>
@@ -411,7 +389,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.00%</td>
 <td>-</td>
 <td>🔴 0.0</td>
-<td>1994~2026 (33年)</td>
 </tr>
 <tr>
 <td>[**2408**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2408/)</td>
@@ -426,7 +403,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.00%</td>
 <td>-</td>
 <td>🔴 2.0</td>
-<td>1997~2025 (29年)</td>
 </tr>
 <tr>
 <td>[**2412**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2412/)</td>
@@ -441,7 +417,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.62%</td>
 <td>104%</td>
 <td>🟡 7.5</td>
-<td>1998~2025 (28年)</td>
 </tr>
 <tr>
 <td>[**2449**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2449/)</td>
@@ -456,7 +431,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.53%</td>
 <td>63%</td>
 <td>🟡 6.5</td>
-<td>1998~2025 (28年)</td>
 </tr>
 <tr>
 <td>[**2450**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2450/)</td>
@@ -471,7 +445,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.76%</td>
 <td>89%</td>
 <td>🟡 6.0</td>
-<td>1997~2025 (29年)</td>
 </tr>
 <tr>
 <td>[**2451**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2451/)</td>
@@ -486,7 +459,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.82%</td>
 <td>113%</td>
 <td>🟡 6.5</td>
-<td>1998~2025 (28年)</td>
 </tr>
 <tr>
 <td>[**2454**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2454/)</td>
@@ -501,7 +473,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.79%</td>
 <td>56%</td>
 <td>🔴 5.5</td>
-<td>2000~2026 (27年)</td>
 </tr>
 <tr>
 <td>[**2458**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2458/)</td>
@@ -516,7 +487,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.84%</td>
 <td>67%</td>
 <td>🟡 6.0</td>
-<td>1998~2025 (28年)</td>
 </tr>
 <tr>
 <td>[**2474**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2474/)</td>
@@ -531,7 +501,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>5.03%</td>
 <td>59%</td>
 <td>🟡 6.5</td>
-<td>1996~2025 (30年)</td>
 </tr>
 <tr>
 <td>[**2480**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2480/)</td>
@@ -546,7 +515,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.01%</td>
 <td>99%</td>
 <td>🟡 6.0</td>
-<td>1998~2025 (28年)</td>
 </tr>
 <tr>
 <td>[**2603**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2603/)</td>
@@ -561,7 +529,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>12.30%</td>
 <td>50%</td>
 <td>🔴 5.5</td>
-<td>1985~2025 (40年)</td>
 </tr>
 <tr>
 <td>[**2646**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2646/)</td>
@@ -576,7 +543,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.00%</td>
 <td>0%</td>
 <td>🔴 0.5</td>
-<td>2023~2025 (3年)</td>
 </tr>
 <tr>
 <td>[**2881**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2881/)</td>
@@ -591,7 +557,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.30%</td>
 <td>-</td>
 <td>🟡 6.5</td>
-<td>2002~2025 (24年)</td>
 </tr>
 <tr>
 <td>[**2882**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2882/)</td>
@@ -606,7 +571,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.53%</td>
 <td>-</td>
 <td>🟡 7.0</td>
-<td>2002~2025 (24年)</td>
 </tr>
 <tr>
 <td>[**2884**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2884/)</td>
@@ -621,7 +585,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.39%</td>
 <td>-</td>
 <td>🟡 7.0</td>
-<td>2002~2025 (24年)</td>
 </tr>
 <tr>
 <td>[**2891**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2891/)</td>
@@ -636,7 +599,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.52%</td>
 <td>-</td>
 <td>🟡 7.0</td>
-<td>2003~2025 (23年)</td>
 </tr>
 <tr>
 <td>[**3014**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3014/)</td>
@@ -651,7 +613,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>5.49%</td>
 <td>89%</td>
 <td>🔴 5.5</td>
-<td>2000~2025 (26年)</td>
 </tr>
 <tr>
 <td>[**3022**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3022/)</td>
@@ -666,7 +627,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.69%</td>
 <td>52%</td>
 <td>🟡 7.0</td>
-<td>1999~2025 (27年)</td>
 </tr>
 <tr>
 <td>[**3026**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3026/)</td>
@@ -681,7 +641,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.35%</td>
 <td>94%</td>
 <td>🔴 5.5</td>
-<td>1995~2025 (30年)</td>
 </tr>
 <tr>
 <td>[**3029**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3029/)</td>
@@ -696,7 +655,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.05%</td>
 <td>95%</td>
 <td>🟡 6.5</td>
-<td>1999~2025 (27年)</td>
 </tr>
 <tr>
 <td>[**3034**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3034/)</td>
@@ -711,7 +669,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.96%</td>
 <td>84%</td>
 <td>🟡 6.5</td>
-<td>1999~2025 (27年)</td>
 </tr>
 <tr>
 <td>[**3035**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3035/)</td>
@@ -726,7 +683,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.14%</td>
 <td>74%</td>
 <td>🟢 8.0</td>
-<td>1998~2025 (28年)</td>
 </tr>
 <tr>
 <td>[**3045**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3045/)</td>
@@ -741,7 +697,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.73%</td>
 <td>98%</td>
 <td>🟡 6.5</td>
-<td>1998~2025 (28年)</td>
 </tr>
 <tr>
 <td>[**3048**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3048/)</td>
@@ -756,7 +711,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.00%</td>
 <td>-</td>
 <td>🔴 4.0</td>
-<td>2000~2025 (26年)</td>
 </tr>
 <tr>
 <td>[**3150**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3150/)</td>
@@ -771,7 +725,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.54%</td>
 <td>139%</td>
 <td>🔴 3.5</td>
-<td>2011~2025 (15年)</td>
 </tr>
 <tr>
 <td>[**3158**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3158/)</td>
@@ -786,7 +739,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>5.80%</td>
 <td>82%</td>
 <td>🟡 7.5</td>
-<td>2009~2025 (17年)</td>
 </tr>
 <tr>
 <td>[**3231**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3231/)</td>
@@ -801,7 +753,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.40%</td>
 <td>62%</td>
 <td>🟢 8.0</td>
-<td>2003~2025 (23年)</td>
 </tr>
 <tr>
 <td>[**3260**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3260/)</td>
@@ -816,7 +767,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.00%</td>
 <td>0%</td>
 <td>🟡 6.5</td>
-<td>2002~2026 (25年)</td>
 </tr>
 <tr>
 <td>[**3293**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3293/)</td>
@@ -831,7 +781,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.00%</td>
 <td>0%</td>
 <td>🟡 6.5</td>
-<td>2004~2026 (23年)</td>
 </tr>
 <tr>
 <td>[**3356**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3356/)</td>
@@ -846,7 +795,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>5.94%</td>
 <td>57%</td>
 <td>🟡 6.0</td>
-<td>2003~2025 (23年)</td>
 </tr>
 <tr>
 <td>[**3558**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3558/)</td>
@@ -861,7 +809,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.15%</td>
 <td>62%</td>
 <td>🟡 7.0</td>
-<td>2007~2025 (19年)</td>
 </tr>
 <tr>
 <td>[**3653**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3653/)</td>
@@ -876,7 +823,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.46%</td>
 <td>-</td>
 <td>🔴 5.5</td>
-<td>2009~2025 (17年)</td>
 </tr>
 <tr>
 <td>[**3661**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3661/)</td>
@@ -891,7 +837,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.82%</td>
 <td>45%</td>
 <td>🟡 7.5</td>
-<td>2011~2025 (15年)</td>
 </tr>
 <tr>
 <td>[**3665**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3665/)</td>
@@ -906,7 +851,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.60%</td>
 <td>-</td>
 <td>🟡 7.5</td>
-<td>2011~2025 (15年)</td>
 </tr>
 <tr>
 <td>[**3711**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3711/)</td>
@@ -921,7 +865,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.08%</td>
 <td>-</td>
 <td>🔴 5.0</td>
-<td>2018~2025 (8年)</td>
 </tr>
 <tr>
 <td>[**4114**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4114/)</td>
@@ -936,7 +879,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.51%</td>
 <td>92%</td>
 <td>🟡 7.0</td>
-<td>2002~2025 (24年)</td>
 </tr>
 <tr>
 <td>[**4749**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4749/)</td>
@@ -951,7 +893,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.63%</td>
 <td>70%</td>
 <td>🟡 7.0</td>
-<td>2010~2025 (10年)</td>
 </tr>
 <tr>
 <td>[**4938**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4938/)</td>
@@ -966,7 +907,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.55%</td>
 <td>71%</td>
 <td>🟢 8.0</td>
-<td>2010~2025 (16年)</td>
 </tr>
 <tr>
 <td>[**4953**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4953/)</td>
@@ -981,7 +921,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.93%</td>
 <td>64%</td>
 <td>🟡 7.5</td>
-<td>2011~2025 (15年)</td>
 </tr>
 <tr>
 <td>[**5203**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5203/)</td>
@@ -996,7 +935,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.69%</td>
 <td>98%</td>
 <td>🟡 6.0</td>
-<td>1999~2025 (27年)</td>
 </tr>
 <tr>
 <td>[**5269**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5269/)</td>
@@ -1011,7 +949,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.32%</td>
 <td>58%</td>
 <td>🟡 7.5</td>
-<td>2012~2025 (14年)</td>
 </tr>
 <tr>
 <td>[**5274**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5274/)</td>
@@ -1026,7 +963,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.67%</td>
 <td>76%</td>
 <td>🟡 7.0</td>
-<td>2012~2025 (14年)</td>
 </tr>
 <tr>
 <td>[**5434**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5434/)</td>
@@ -1041,7 +977,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.38%</td>
 <td>62%</td>
 <td>🟡 7.0</td>
-<td>1998~2025 (28年)</td>
 </tr>
 <tr>
 <td>[**5536**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5536/)</td>
@@ -1056,7 +991,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.34%</td>
 <td>27%</td>
 <td>🟢 8.0</td>
-<td>2010~2026 (17年)</td>
 </tr>
 <tr>
 <td>[**5904**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5904/)</td>
@@ -1071,7 +1005,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.32%</td>
 <td>86%</td>
 <td>🔴 5.5</td>
-<td>2000~2025 (26年)</td>
 </tr>
 <tr>
 <td>[**6035**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6035/)</td>
@@ -1086,7 +1019,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.98%</td>
 <td>-</td>
 <td>🔴 4.0</td>
-<td>2023~2025 (3年)</td>
 </tr>
 <tr>
 <td>[**6123**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6123/)</td>
@@ -1101,7 +1033,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.00%</td>
 <td>0%</td>
 <td>🟡 7.5</td>
-<td>1999~2026 (27年)</td>
 </tr>
 <tr>
 <td>[**6125**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6125/)</td>
@@ -1116,7 +1047,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.67%</td>
 <td>-</td>
 <td>🟡 6.5</td>
-<td>2000~2025 (26年)</td>
 </tr>
 <tr>
 <td>[**6182**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6182/)</td>
@@ -1131,7 +1061,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.00%</td>
 <td>-</td>
 <td>🔴 3.5</td>
-<td>2000~2025 (26年)</td>
 </tr>
 <tr>
 <td>[**6214**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6214/)</td>
@@ -1146,7 +1075,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.44%</td>
 <td>67%</td>
 <td>🟡 6.5</td>
-<td>1998~2025 (28年)</td>
 </tr>
 <tr>
 <td>[**6231**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6231/)</td>
@@ -1161,7 +1089,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.44%</td>
 <td>81%</td>
 <td>🔴 5.5</td>
-<td>2000~2025 (26年)</td>
 </tr>
 <tr>
 <td>[**6285**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6285/)</td>
@@ -1176,7 +1103,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.94%</td>
 <td>66%</td>
 <td>🟢 8.0</td>
-<td>2001~2025 (25年)</td>
 </tr>
 <tr>
 <td>[**6425**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6425/)</td>
@@ -1191,7 +1117,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.05%</td>
 <td>145%</td>
 <td>🔴 5.0</td>
-<td>2013~2025 (13年)</td>
 </tr>
 <tr>
 <td>[**6442**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6442/)</td>
@@ -1206,7 +1131,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.60%</td>
 <td>60%</td>
 <td>🟡 7.5</td>
-<td>2014~2025 (12年)</td>
 </tr>
 <tr>
 <td>[**6462**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6462/)</td>
@@ -1221,7 +1145,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.00%</td>
 <td>-</td>
 <td>🔴 2.0</td>
-<td>2014~2025 (12年)</td>
 </tr>
 <tr>
 <td>[**6506**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6506/)</td>
@@ -1236,7 +1159,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.53%</td>
 <td>108%</td>
 <td>🔴 5.0</td>
-<td>2000~2025 (26年)</td>
 </tr>
 <tr>
 <td>[**6510**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6510/)</td>
@@ -1251,7 +1173,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.31%</td>
 <td>50%</td>
 <td>🟢 8.0</td>
-<td>2014~2025 (12年)</td>
 </tr>
 <tr>
 <td>[**6526**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6526/)</td>
@@ -1266,7 +1187,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.75%</td>
 <td>78%</td>
 <td>🔴 4.0</td>
-<td>2015~2025 (7年)</td>
 </tr>
 <tr>
 <td>[**6561**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6561/)</td>
@@ -1281,7 +1201,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.00%</td>
 <td>138%</td>
 <td>🟡 6.0</td>
-<td>2016~2025 (10年)</td>
 </tr>
 <tr>
 <td>[**6597**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6597/)</td>
@@ -1296,7 +1215,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.93%</td>
 <td>57%</td>
 <td>🔴 3.5</td>
-<td>2018~2025 (8年)</td>
 </tr>
 <tr>
 <td>[**6613**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6613/)</td>
@@ -1311,7 +1229,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.93%</td>
 <td>30%</td>
 <td>🟢 8.0</td>
-<td>2016~2026 (11年)</td>
 </tr>
 <tr>
 <td>[**6669**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6669/)</td>
@@ -1326,7 +1243,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.55%</td>
 <td>58%</td>
 <td>🟡 7.0</td>
-<td>2018~2025 (8年)</td>
 </tr>
 <tr>
 <td>[**6690**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6690/)</td>
@@ -1341,7 +1257,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.75%</td>
 <td>59%</td>
 <td>🟢 8.5</td>
-<td>2019~2025 (7年)</td>
 </tr>
 <tr>
 <td>[**6695**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6695/)</td>
@@ -1356,7 +1271,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.00%</td>
 <td>-</td>
 <td>🔴 0.5</td>
-<td>2019~2025 (7年)</td>
 </tr>
 <tr>
 <td>[**6720**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6720/)</td>
@@ -1371,7 +1285,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.99%</td>
 <td>84%</td>
 <td>🔴 5.0</td>
-<td>2019~2025 (7年)</td>
 </tr>
 <tr>
 <td>[**6751**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6751/)</td>
@@ -1386,7 +1299,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.47%</td>
 <td>120%</td>
 <td>🟡 6.0</td>
-<td>2020~2025 (6年)</td>
 </tr>
 <tr>
 <td>[**6757**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6757/)</td>
@@ -1401,7 +1313,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>5.55%</td>
 <td>98%</td>
 <td>🔴 2.5</td>
-<td>2020~2025 (6年)</td>
 </tr>
 <tr>
 <td>[**6763**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6763/)</td>
@@ -1416,7 +1327,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.24%</td>
 <td>25%</td>
 <td>🟡 6.5</td>
-<td>2020~2026 (7年)</td>
 </tr>
 <tr>
 <td>[**6811**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6811/)</td>
@@ -1431,7 +1341,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.06%</td>
 <td>73%</td>
 <td>🟡 7.0</td>
-<td>2021~2025 (5年)</td>
 </tr>
 <tr>
 <td>[**6850**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6850/)</td>
@@ -1446,7 +1355,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.57%</td>
 <td>-</td>
 <td>🔴 5.5</td>
-<td>2022~2025 (4年)</td>
 </tr>
 <tr>
 <td>[**6902**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6902/)</td>
@@ -1461,7 +1369,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.00%</td>
 <td>-</td>
 <td>🔴 0.5</td>
-<td>2023~2025 (3年)</td>
 </tr>
 <tr>
 <td>[**6918**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6918/)</td>
@@ -1476,7 +1383,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.94%</td>
 <td>80%</td>
 <td>🔴 5.0</td>
-<td>2023~2025 (3年)</td>
 </tr>
 <tr>
 <td>[**6925**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6925/)</td>
@@ -1491,7 +1397,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.04%</td>
 <td>73%</td>
 <td>🟡 7.0</td>
-<td>2022~2025 (4年)</td>
 </tr>
 <tr>
 <td>[**7547**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-7547/)</td>
@@ -1506,7 +1411,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.88%</td>
 <td>67%</td>
 <td>🟡 7.0</td>
-<td>2020~2025 (6年)</td>
 </tr>
 <tr>
 <td>[**7712**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-7712/)</td>
@@ -1521,7 +1425,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.41%</td>
 <td>48%</td>
 <td>🔴 4.5</td>
-<td>2023~2025 (3年)</td>
 </tr>
 <tr>
 <td>[**8016**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8016/)</td>
@@ -1536,7 +1439,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>5.12%</td>
 <td>78%</td>
 <td>🟡 6.0</td>
-<td>2002~2025 (24年)</td>
 </tr>
 <tr>
 <td>[**8045**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8045/)</td>
@@ -1551,7 +1453,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.29%</td>
 <td>80%</td>
 <td>🔴 4.0</td>
-<td>2009~2025 (17年)</td>
 </tr>
 <tr>
 <td>[**8299**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8299/)</td>
@@ -1566,7 +1467,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.13%</td>
 <td>80%</td>
 <td>🟡 6.5</td>
-<td>2002~2025 (24年)</td>
 </tr>
 <tr>
 <td>[**8454**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8454/)</td>
@@ -1581,7 +1481,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>3.25%</td>
 <td>95%</td>
 <td>🟡 7.0</td>
-<td>2010~2025 (16年)</td>
 </tr>
 <tr>
 <td>[**9914**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-9914/)</td>
@@ -1596,7 +1495,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>2.09%</td>
 <td>-</td>
 <td>🟡 6.0</td>
-<td>1988~2025 (37年)</td>
 </tr>
 <tr>
 <td>[**9917**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-9917/)</td>
@@ -1611,7 +1509,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>4.08%</td>
 <td>81%</td>
 <td>🟡 7.0</td>
-<td>1989~2025 (37年)</td>
 </tr>
 <tr>
 <td>[**9921**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-9921/)</td>
@@ -1626,7 +1523,6 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>1.29%</td>
 <td>68%</td>
 <td>🟢 8.0</td>
-<td>1993~2025 (33年)</td>
 </tr>
 </tbody>
 </table>
@@ -1641,7 +1537,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-01-08 14:08:22
+    - **報告產生時間**: 2026-01-08 14:36:53
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
