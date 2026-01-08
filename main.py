@@ -61,9 +61,9 @@ def define_env(env):
 
         for cat, count in sorted_cats:
             slug = slugifier(cat, '-')
-            # Link format: blog/category/<slug>/
+            # Link format: ../blog/category/<slug>/
             # Using HTML to bypass MkDocs 'unrecognized relative link' validation for virtual pages
-            url = f"blog/category/{slug}/"
+            url = f"../blog/category/{slug}/"
             output.append(f"<li><a href=\"{url}\">{cat}</a> ({count})</li>")
             
         return "<ul>" + "\n".join(output) + "</ul>"
