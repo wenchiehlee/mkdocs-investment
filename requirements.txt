@@ -9,3 +9,5 @@ mkdocs-git-authors-plugin
 markdown-include
 mkdocs-macros-plugin
 neoteroi-mkdocs
+mkdocs-roamlinks-plugin
+mkdocs-callouts

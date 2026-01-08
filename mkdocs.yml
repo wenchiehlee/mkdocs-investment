@@ -133,6 +133,8 @@ plugins:
           as_update: git
   - tags
   - macros
+  - roamlinks
+  - callouts
 
 # Validation
 validation:
