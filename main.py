@@ -35,7 +35,12 @@ def define_env(env):
                         frontmatter = parts[1]
                         metadata = yaml.safe_load(frontmatter)
                         
-                        if metadata and 'categories' in metadata:
+                        if metadata:
+                            # Skip drafts
+                            if metadata.get('draft', False) is True:
+                                continue
+
+                            if 'categories' in metadata:
                             cats = metadata['categories']
                             if cats:
                                 if isinstance(cats, list):
