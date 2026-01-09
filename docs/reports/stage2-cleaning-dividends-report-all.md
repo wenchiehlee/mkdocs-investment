@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-08
+date: 2026-01-09
 categories:
   - 股票
   - 股利分配
@@ -24,7 +24,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 # :bar_chart: 股利分配總覽報告 - 全部股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-01-08 14:36:53  
+    **:calendar: 產生時間**: 2026-01-09 11:59:14  
     **:building_construction: 分析股票總數**: 126 檔 (有效 103 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析
 
@@ -35,7 +35,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 | :chart: 指標 | :bar_chart: 平均值 | :1234: 中位數 | :trophy: 最佳股票 | :warning: 最弱股票 |
 |:--------:|:-------------:|:--------:|:-----------:|:------------:|
 | **現金殖利率 (5年平均)** | 3.82% | 3.61% | [**2603**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2603/): 17.98% | [**2646**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2646/): 0.00% |
-| **穩定性評分** | 6.0/10 | 6.5/10 | [**6690**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6690/): 8.5/10 | [**2405**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2405/): 0.0/10 |
+| **穩定性評分** | 6.1/10 | 6.5/10 | [**6690**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6690/): 8.5/10 | [**2405**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2405/): 0.0/10 |
 
 ---
 
@@ -282,15 +282,15 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>[**2360**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2360/)</td>
 <td>致茂</td>
 <td>9.00</td>
-<td>-</td>
-<td>-</td>
+<td>🔼 17.50</td>
+<td>🔼 18.04</td>
 <td>-</td>
 <td>1.16%</td>
 <td>01/07 11:25</td>
 <td>4.08%</td>
 <td>1.04%</td>
-<td>-</td>
-<td>🟡 6.5</td>
+<td>72%</td>
+<td>🟡 7.5</td>
 </tr>
 <tr>
 <td>[**2376**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2376/)</td>
@@ -402,7 +402,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>0.00%</td>
 <td>0.00%</td>
 <td>-</td>
-<td>🔴 2.0</td>
+<td>🔴 3.0</td>
 </tr>
 <tr>
 <td>[**2412**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2412/)</td>
@@ -548,57 +548,57 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>[**2881**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2881/)</td>
 <td>富邦金</td>
 <td>4.25</td>
-<td>-</td>
-<td>-</td>
+<td>🔽 2.86</td>
+<td>🔽 3.31</td>
 <td>-</td>
 <td>4.42%</td>
 <td>01/07 11:21</td>
 <td>5.89%</td>
 <td>4.30%</td>
-<td>-</td>
-<td>🟡 6.5</td>
+<td>42%</td>
+<td>🟡 7.5</td>
 </tr>
 <tr>
 <td>[**2882**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2882/)</td>
 <td>國泰金</td>
 <td>3.50</td>
-<td>-</td>
-<td>-</td>
+<td>🔽 2.33</td>
+<td>🔽 2.40</td>
 <td>-</td>
 <td>4.62%</td>
 <td>01/07 11:22</td>
 <td>7.07%</td>
 <td>4.53%</td>
-<td>-</td>
-<td>🟡 7.0</td>
+<td>48%</td>
+<td>🟢 8.0</td>
 </tr>
 <tr>
 <td>[**2884**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2884/)</td>
 <td>玉山金</td>
 <td>1.20</td>
-<td>-</td>
-<td>-</td>
+<td>🔽 0.96</td>
+<td>🔽 0.96</td>
 <td>-</td>
 <td>3.56%</td>
 <td>01/07 11:23</td>
 <td>4.71%</td>
 <td>3.39%</td>
-<td>-</td>
-<td>🟡 7.0</td>
+<td>79%</td>
+<td>🟡 7.5</td>
 </tr>
 <tr>
 <td>[**2891**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2891/)</td>
 <td>中信金</td>
 <td>2.30</td>
-<td>-</td>
-<td>-</td>
+<td>🔽 2.05</td>
+<td>🔽 2.16</td>
 <td>-</td>
 <td>4.58%</td>
 <td>01/07 11:22</td>
 <td>6.84%</td>
 <td>4.52%</td>
-<td>-</td>
-<td>🟡 7.0</td>
+<td>63%</td>
+<td>🟢 8.0</td>
 </tr>
 <tr>
 <td>[**3014**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3014/)</td>
@@ -814,15 +814,15 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>[**3653**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3653/)</td>
 <td>健策</td>
 <td>14.50</td>
-<td>-</td>
-<td>-</td>
+<td>🔼 20.62</td>
+<td>🔼 21.52</td>
 <td>-</td>
 <td>0.53%</td>
 <td>01/07 11:25</td>
 <td>1.92%</td>
 <td>0.46%</td>
-<td>-</td>
-<td>🔴 5.5</td>
+<td>60%</td>
+<td>🟡 6.5</td>
 </tr>
 <tr>
 <td>[**3661**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3661/)</td>
@@ -842,29 +842,29 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 <td>[**3665**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3665/)</td>
 <td>貿聯-KY</td>
 <td>10.51</td>
-<td>-</td>
-<td>-</td>
+<td>🔼 20.47</td>
+<td>🔼 21.61</td>
 <td>-</td>
 <td>0.69%</td>
 <td>01/07 11:26</td>
 <td>2.80%</td>
 <td>0.60%</td>
-<td>-</td>
-<td>🟡 7.5</td>
+<td>41%</td>
+<td>🟢 8.5</td>
 </tr>
 <tr>
 <td>[**3711**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3711/)</td>
 <td>日月光投控</td>
 <td>5.30</td>
-<td>-</td>
-<td>-</td>
+<td>🔼 5.46</td>
+<td>🔽 5.11</td>
 <td>-</td>
 <td>2.11%</td>
 <td>01/07 11:23</td>
 <td>4.61%</td>
 <td>2.08%</td>
-<td>-</td>
-<td>🔴 5.0</td>
+<td>70%</td>
+<td>🟡 6.0</td>
 </tr>
 <tr>
 <td>[**4114**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-4114/)</td>
@@ -1537,7 +1537,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-01-08 14:36:53
+    - **報告產生時間**: 2026-01-09 11:59:14
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)

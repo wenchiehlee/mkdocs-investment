@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-08
+date: 2026-01-09
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 聯詠 (3034) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 聯詠  
     **:identification_card: 股票代號**: 3034  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-08 11:57:07 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-09 11:58:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-7.23</span> | <span style="color: #002818; font-weight: bold;">-0.97</span> | **239** 個月 | 2006/01 至 2025/11 |
+| <span style="color: #004225; font-weight: bold;">-14.2</span> | <span style="color: #002818; font-weight: bold;">-2.06</span> | **240** 個月 | 2006/01 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 聯詠 (3034) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 8,527<br/><span style="color: #002818;">(-1.75%)</span> | 8,679<br/><span style="color: #B22222;">(+11.70%)</span> | 7,769<br/><span style="color: #228B22;">(-34.60%)</span> | 11,880<br/><span style="color: #FF7F7F;">(+62.60%)</span> |
+| **12月** | 7,320<br/><span style="color: #004225;">(-14.20%)</span> | 8,527<br/><span style="color: #002818;">(-1.75%)</span> | 8,679<br/><span style="color: #B22222;">(+11.70%)</span> | 7,769<br/><span style="color: #228B22;">(-34.60%)</span> | 11,880<br/><span style="color: #FF7F7F;">(+62.60%)</span> |
 | **11月** | 7,619<br/><span style="color: #002818;">(-7.23%)</span> | 8,213<br/><span style="color: #002818;">(-8.22%)</span> | 8,949<br/><span style="color: #B22222;">(+15.00%)</span> | 7,779<br/><span style="color: #228B22;">(-35.50%)</span> | 12,070<br/><span style="color: #FF7F7F;">(+59.20%)</span> |
 | **10月** | 7,879<br/><span style="color: #002818;">(-7.55%)</span> | 8,523<br/><span style="color: #004225;">(-10.50%)</span> | 9,526<br/><span style="color: #FF4500;">(+38.60%)</span> | 6,872<br/><span style="color: #32CD32;">(-45.40%)</span> | 12,590<br/><span style="color: #FF7F7F;">(+66.40%)</span> |
 | **9月** | 8,278<br/><span style="color: #002818;">(-7.17%)</span> | 8,918<br/><span style="color: #002818;">(-6.71%)</span> | 9,561<br/><span style="color: #FF7F7F;">(+54.90%)</span> | 6,171<br/><span style="color: #90EE90;">(-52.30%)</span> | 12,930<br/><span style="color: #FF7F7F;">(+62.20%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 聯詠 (3034) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **73.2** | <span style="color: #004225; font-weight: bold;">-14.2</span> | <span style="color: #002818; font-weight: bold;">-2.06</span> | **374** | <span style="color: #8B0000; font-weight: bold;">28.69</span> | <span style="color: #8B0000; font-weight: bold;">13.04</span> |
 | **2025/11** | **76.19** | <span style="color: #002818; font-weight: bold;">-7.23</span> | <span style="color: #002818; font-weight: bold;">-0.97</span> | **389.5** | <span style="color: #8B0000; font-weight: bold;">29.08</span> | <span style="color: #8B0000; font-weight: bold;">13.39</span> |
 | **2025/10** | **78.79** | <span style="color: #002818; font-weight: bold;">-7.55</span> | <span style="color: #002818; font-weight: bold;">-0.37</span> | **393** | <span style="color: #8B0000; font-weight: bold;">29.48</span> | <span style="color: #8B0000; font-weight: bold;">13.33</span> |
 | **2025/09** | **82.78** | <span style="color: #002818; font-weight: bold;">-7.17</span> | <span style="color: #8B0000; font-weight: bold;">+0.41</span> | **426.5** | <span style="color: #8B0000; font-weight: bold;">29.88</span> | <span style="color: #8B0000; font-weight: bold;">14.28</span> |
@@ -413,7 +414,7 @@ description: 月營收表 聯詠 (3034) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-08 11:57:07 CST
+- **產生時間**: 2026-01-09 11:58:06 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

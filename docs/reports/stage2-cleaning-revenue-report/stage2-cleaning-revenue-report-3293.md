@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-08
+date: 2026-01-09
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 鈊象 (3293) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 鈊象  
     **:identification_card: 股票代號**: 3293  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-08 11:57:07 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-09 11:58:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+11.6</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **239** 個月 | 2006/01 至 2025/11 |
+| <span style="color: #B22222; font-weight: bold;">+14.1</span> | <span style="color: #B22222; font-weight: bold;">+19</span> | **240** 個月 | 2006/01 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 1,710<br/><span style="color: #DC143C;">(+29.10%)</span> | 1,325<br/><span style="color: #DC143C;">(+20.20%)</span> | 1,102<br/><span style="color: #DC143C;">(+23.60%)</span> | 891<br/><span style="color: #8B0000;">(+9.87%)</span> |
+| **12月** | 1,952<br/><span style="color: #B22222;">(+14.10%)</span> | 1,710<br/><span style="color: #DC143C;">(+29.10%)</span> | 1,325<br/><span style="color: #DC143C;">(+20.20%)</span> | 1,102<br/><span style="color: #DC143C;">(+23.60%)</span> | 891<br/><span style="color: #8B0000;">(+9.87%)</span> |
 | **11月** | 1,864<br/><span style="color: #B22222;">(+11.60%)</span> | 1,671<br/><span style="color: #FF4500;">(+35.40%)</span> | 1,235<br/><span style="color: #DC143C;">(+20.60%)</span> | 1,023<br/><span style="color: #B22222;">(+11.70%)</span> | 916<br/><span style="color: #DC143C;">(+23.50%)</span> |
 | **10月** | 1,876<br/><span style="color: #B22222;">(+11.70%)</span> | 1,680<br/><span style="color: #FF4500;">(+36.50%)</span> | 1,231<br/><span style="color: #B22222;">(+18.20%)</span> | 1,042<br/><span style="color: #8B0000;">(+2.05%)</span> | 1,021<br/><span style="color: #FF4500;">(+32.40%)</span> |
 | **9月** | 1,795<br/><span style="color: #B22222;">(+13.50%)</span> | 1,582<br/><span style="color: #FF4500;">(+31.00%)</span> | 1,207<br/><span style="color: #DC143C;">(+20.40%)</span> | 1,002<br/><span style="color: #8B0000;">(+8.60%)</span> | 923<br/><span style="color: #DC143C;">(+21.40%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **19.52** | <span style="color: #B22222; font-weight: bold;">+14.1</span> | <span style="color: #B22222; font-weight: bold;">+19</span> | **721** | <span style="color: #B22222; font-weight: bold;">37.03</span> | <span style="color: #8B0000; font-weight: bold;">19.47</span> |
 | **2025/11** | **18.65** | <span style="color: #B22222; font-weight: bold;">+11.6</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **743** | <span style="color: #B22222; font-weight: bold;">36.62</span> | <span style="color: #8B0000; font-weight: bold;">20.29</span> |
 | **2025/10** | **18.76** | <span style="color: #B22222; font-weight: bold;">+11.7</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **720** | <span style="color: #B22222; font-weight: bold;">36.22</span> | <span style="color: #8B0000; font-weight: bold;">19.88</span> |
 | **2025/09** | **17.95** | <span style="color: #B22222; font-weight: bold;">+13.5</span> | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | **787** | <span style="color: #B22222; font-weight: bold;">35.81</span> | <span style="color: #8B0000; font-weight: bold;">21.98</span> |
@@ -413,7 +414,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-08 11:57:07 CST
+- **產生時間**: 2026-01-09 11:58:06 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-08
+date: 2026-01-09
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 南亞科 (2408) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 南亞科  
     **:identification_card: 股票代號**: 2408  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-08 11:57:07 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-09 11:58:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+364.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+70.9</span> | **239** 個月 | 2006/01 至 2025/11 |
+| <span style="color: #FF7F7F; font-weight: bold;">+444.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+95.1</span> | **240** 個月 | 2006/01 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 南亞科 (2408) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 2,206<br/><span style="color: #228B22;">(-30.20%)</span> | 3,162<br/><span style="color: #FF4500;">(+31.70%)</span> | 2,400<br/><span style="color: #90EE90;">(-65.40%)</span> | 6,937<br/><span style="color: #FF4500;">(+36.60%)</span> |
+| **12月** | 12,020<br/><span style="color: #FF7F7F;">(+444.90%)</span> | 2,206<br/><span style="color: #228B22;">(-30.20%)</span> | 3,162<br/><span style="color: #FF4500;">(+31.70%)</span> | 2,400<br/><span style="color: #90EE90;">(-65.40%)</span> | 6,937<br/><span style="color: #FF4500;">(+36.60%)</span> |
 | **11月** | 10,170<br/><span style="color: #FF7F7F;">(+364.90%)</span> | 2,187<br/><span style="color: #006400;">(-23.90%)</span> | 2,874<br/><span style="color: #8B0000;">(+3.71%)</span> | 2,771<br/><span style="color: #90EE90;">(-61.80%)</span> | 7,256<br/><span style="color: #FF6347;">(+48.20%)</span> |
 | **10月** | 7,908<br/><span style="color: #FF7F7F;">(+262.40%)</span> | 2,182<br/><span style="color: #004225;">(-18.20%)</span> | 2,668<br/><span style="color: #002818;">(-4.10%)</span> | 2,782<br/><span style="color: #90EE90;">(-61.40%)</span> | 7,205<br/><span style="color: #FF7F7F;">(+50.20%)</span> |
 | **9月** | 6,664<br/><span style="color: #FF7F7F;">(+157.80%)</span> | 2,585<br/><span style="color: #002818;">(-5.11%)</span> | 2,724<br/><span style="color: #004225;">(-15.00%)</span> | 3,206<br/><span style="color: #90EE90;">(-58.20%)</span> | 7,677<br/><span style="color: #FF4500;">(+38.40%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 南亞科 (2408) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **120.2** | <span style="color: #FF7F7F; font-weight: bold;">+444.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+95.1</span> | **193** | <span style="color: #004225; font-weight: bold;">-1.96</span> | N/A |
 | **2025/11** | **101.7** | <span style="color: #FF7F7F; font-weight: bold;">+364.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+70.9</span> | **146** | <span style="color: #004225; font-weight: bold;">-1.93</span> | N/A |
 | **2025/10** | **79.08** | <span style="color: #FF7F7F; font-weight: bold;">+262.4</span> | <span style="color: #FF6347; font-weight: bold;">+49.3</span> | **132.5** | <span style="color: #004225; font-weight: bold;">-1.91</span> | N/A |
 | **2025/09** | **66.64** | <span style="color: #FF7F7F; font-weight: bold;">+157.8</span> | <span style="color: #FF4500; font-weight: bold;">+32.4</span> | **73** | <span style="color: #004225; font-weight: bold;">-1.88</span> | N/A |
@@ -413,7 +414,7 @@ description: 月營收表 南亞科 (2408) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-08 11:57:07 CST
+- **產生時間**: 2026-01-09 11:58:06 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

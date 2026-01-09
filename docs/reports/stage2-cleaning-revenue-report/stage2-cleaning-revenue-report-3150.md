@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-08
+date: 2026-01-09
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 鈺寶-創 (3150) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 鈺寶-創  
     **:identification_card: 股票代號**: 3150  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-08 11:57:07 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-09 11:58:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #228B22; font-weight: bold;">-30.1</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **184** 個月 | 2010/08 至 2025/11 |
+| <span style="color: #006400; font-weight: bold;">-23.9</span> | <span style="color: #004225; font-weight: bold;">-12.6</span> | **185** 個月 | 2010/08 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 鈺寶-創 (3150) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 16<br/><span style="color: #DC143C;">(+22.10%)</span> | 13<br/><span style="color: #002818;">(-9.88%)</span> | 15<br/><span style="color: #32CD32;">(-43.90%)</span> | 26<br/><span style="color: #002818;">(-6.61%)</span> |
+| **12月** | 12<br/><span style="color: #006400;">(-23.90%)</span> | 16<br/><span style="color: #DC143C;">(+22.10%)</span> | 13<br/><span style="color: #002818;">(-9.88%)</span> | 15<br/><span style="color: #32CD32;">(-43.90%)</span> | 26<br/><span style="color: #002818;">(-6.61%)</span> |
 | **11月** | 16<br/><span style="color: #228B22;">(-30.10%)</span> | 24<br/><span style="color: #FF7F7F;">(+87.00%)</span> | 12<br/><span style="color: #32CD32;">(-49.50%)</span> | 25<br/><span style="color: #32CD32;">(-40.90%)</span> | 43<br/><span style="color: #DC143C;">(+23.60%)</span> |
 | **10月** | 20<br/><span style="color: #002818;">(-0.80%)</span> | 21<br/><span style="color: #FF4500;">(+32.10%)</span> | 15<br/><span style="color: #002818;">(-4.97%)</span> | 16<br/><span style="color: #90EE90;">(-63.00%)</span> | 45<br/><span style="color: #FF6347;">(+43.80%)</span> |
 | **9月** | 23<br/><span style="color: #006400;">(-22.70%)</span> | 29<br/><span style="color: #FF7F7F;">(+142.70%)</span> | 12<br/><span style="color: #228B22;">(-35.50%)</span> | 19<br/><span style="color: #228B22;">(-38.00%)</span> | 30<br/><span style="color: #006400;">(-25.40%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 鈺寶-創 (3150) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **0.126** | <span style="color: #006400; font-weight: bold;">-23.9</span> | <span style="color: #004225; font-weight: bold;">-12.6</span> | **19.7** | <span style="color: #228B22; font-weight: bold;">0.16</span> | <span style="color: #FF4500; font-weight: bold;">123.1</span> |
 | **2025/11** | **0.169** | <span style="color: #228B22; font-weight: bold;">-30.1</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **18.25** | <span style="color: #006400; font-weight: bold;">0.21</span> | <span style="color: #B22222; font-weight: bold;">88.31</span> |
 | **2025/10** | **0.208** | <span style="color: #002818; font-weight: bold;">-0.8</span> | <span style="color: #004225; font-weight: bold;">-10.6</span> | **21.2** | <span style="color: #006400; font-weight: bold;">0.25</span> | <span style="color: #B22222; font-weight: bold;">83.68</span> |
 | **2025/09** | **0.231** | <span style="color: #006400; font-weight: bold;">-22.7</span> | <span style="color: #004225; font-weight: bold;">-11.3</span> | **22.75** | <span style="color: #004225; font-weight: bold;">0.3</span> | <span style="color: #8B0000; font-weight: bold;">75.83</span> |
@@ -358,7 +359,7 @@ description: 月營收表 鈺寶-創 (3150) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-08 11:57:07 CST
+- **產生時間**: 2026-01-09 11:58:06 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

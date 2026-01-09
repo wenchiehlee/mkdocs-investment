@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-08
+date: 2026-01-09
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 智邦 (2345) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 智邦  
     **:identification_card: 股票代號**: 2345  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-08 11:57:07 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-09 11:58:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+79.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+134.2</span> | **239** 個月 | 2006/01 至 2025/11 |
+| <span style="color: #FF7F7F; font-weight: bold;">+67.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+124.8</span> | **240** 個月 | 2006/01 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 智邦 (2345) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 15,540<br/><span style="color: #FF7F7F;">(+96.00%)</span> | 7,928<br/><span style="color: #002818;">(-9.60%)</span> | 8,770<br/><span style="color: #FF4500;">(+30.50%)</span> | 6,719<br/><span style="color: #8B0000;">(+6.03%)</span> |
+| **12月** | 26,050<br/><span style="color: #FF7F7F;">(+67.60%)</span> | 15,540<br/><span style="color: #FF7F7F;">(+96.00%)</span> | 7,928<br/><span style="color: #002818;">(-9.60%)</span> | 8,770<br/><span style="color: #FF4500;">(+30.50%)</span> | 6,719<br/><span style="color: #8B0000;">(+6.03%)</span> |
 | **11月** | 22,550<br/><span style="color: #FF7F7F;">(+79.70%)</span> | 12,550<br/><span style="color: #FF7F7F;">(+83.20%)</span> | 6,850<br/><span style="color: #8B0000;">(+0.48%)</span> | 6,817<br/><span style="color: #DC143C;">(+27.30%)</span> | 5,355<br/><span style="color: #8B0000;">(+7.27%)</span> |
 | **10月** | 23,360<br/><span style="color: #FF7F7F;">(+114.70%)</span> | 10,880<br/><span style="color: #FF7F7F;">(+51.60%)</span> | 7,178<br/><span style="color: #8B0000;">(+8.58%)</span> | 6,611<br/><span style="color: #FF4500;">(+30.40%)</span> | 5,070<br/><span style="color: #B22222;">(+15.70%)</span> |
 | **9月** | 24,320<br/><span style="color: #FF7F7F;">(+142.00%)</span> | 10,050<br/><span style="color: #FF4500;">(+33.70%)</span> | 7,515<br/><span style="color: #8B0000;">(+2.26%)</span> | 7,348<br/><span style="color: #FF6347;">(+42.60%)</span> | 5,154<br/><span style="color: #002818;">(-4.40%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 智邦 (2345) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **260.5** | <span style="color: #FF7F7F; font-weight: bold;">+67.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+124.8</span> | **1185** | <span style="color: #FF6347; font-weight: bold;">40.28</span> | <span style="color: #004225; font-weight: bold;">29.42</span> |
 | **2025/11** | **225.5** | <span style="color: #FF7F7F; font-weight: bold;">+79.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+134.2</span> | **1025** | <span style="color: #FF6347; font-weight: bold;">38.71</span> | <span style="color: #004225; font-weight: bold;">26.48</span> |
 | **2025/10** | **233.6** | <span style="color: #FF7F7F; font-weight: bold;">+114.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+142.5</span> | **1080** | <span style="color: #FF6347; font-weight: bold;">37.15</span> | <span style="color: #004225; font-weight: bold;">29.07</span> |
 | **2025/09** | **243.2** | <span style="color: #FF7F7F; font-weight: bold;">+142</span> | <span style="color: #FF7F7F; font-weight: bold;">+146.7</span> | **1045** | <span style="color: #FF6347; font-weight: bold;">35.58</span> | <span style="color: #004225; font-weight: bold;">29.37</span> |
@@ -413,7 +414,7 @@ description: 月營收表 智邦 (2345) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-08 11:57:07 CST
+- **產生時間**: 2026-01-09 11:58:06 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
