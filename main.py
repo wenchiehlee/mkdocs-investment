@@ -41,14 +41,14 @@ def define_env(env):
                                 continue
 
                             if 'categories' in metadata:
-                            cats = metadata['categories']
-                            if cats:
-                                if isinstance(cats, list):
-                                    for cat in cats:
-                                        if cat:
-                                            categories[cat] = categories.get(cat, 0) + 1
-                                elif isinstance(cats, str):
-                                    categories[cats] = categories.get(cats, 0) + 1
+                                cats = metadata['categories']
+                                if cats:
+                                    if isinstance(cats, list):
+                                        for cat in cats:
+                                            if cat:
+                                                categories[cat] = categories.get(cat, 0) + 1
+                                    elif isinstance(cats, str):
+                                        categories[cats] = categories.get(cats, 0) + 1
                 except Exception as e:
                     print(f"Error parsing frontmatter in {filename}: {e}")
                     continue
