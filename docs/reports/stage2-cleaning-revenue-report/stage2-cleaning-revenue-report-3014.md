@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-09
+date: 2026-01-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 聯陽 (3014) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 聯陽  
     **:identification_card: 股票代號**: 3014  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-09 20:28:49 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-10 18:19:52 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-8.14</span> | <span style="color: #8B0000; font-weight: bold;">+5.17</span> | **239** 個月 | 2006/01 至 2025/11 |
+| <span style="color: #002818; font-weight: bold;">-0.85</span> | <span style="color: #8B0000; font-weight: bold;">+4.73</span> | **240** 個月 | 2006/01 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 479<br/><span style="color: #8B0000;">(+1.11%)</span> | 474<br/><span style="color: #DC143C;">(+23.20%)</span> | 385<br/><span style="color: #006400;">(-27.80%)</span> | 533<br/><span style="color: #B22222;">(+16.20%)</span> |
+| **12月** | 475<br/><span style="color: #002818;">(-0.85%)</span> | 479<br/><span style="color: #8B0000;">(+1.11%)</span> | 474<br/><span style="color: #DC143C;">(+23.20%)</span> | 385<br/><span style="color: #006400;">(-27.80%)</span> | 533<br/><span style="color: #B22222;">(+16.20%)</span> |
 | **11月** | 522<br/><span style="color: #002818;">(-8.14%)</span> | 568<br/><span style="color: #B22222;">(+17.60%)</span> | 483<br/><span style="color: #B22222;">(+17.50%)</span> | 411<br/><span style="color: #006400;">(-28.00%)</span> | 571<br/><span style="color: #FF4500;">(+31.00%)</span> |
 | **10月** | 509<br/><span style="color: #004225;">(-13.90%)</span> | 593<br/><span style="color: #DC143C;">(+20.20%)</span> | 493<br/><span style="color: #FF6347;">(+40.90%)</span> | 350<br/><span style="color: #32CD32;">(-42.40%)</span> | 608<br/><span style="color: #FF4500;">(+31.00%)</span> |
 | **9月** | 605<br/><span style="color: #002818;">(-5.24%)</span> | 639<br/><span style="color: #002818;">(-1.81%)</span> | 650<br/><span style="color: #FF7F7F;">(+87.30%)</span> | 347<br/><span style="color: #90EE90;">(-51.10%)</span> | 710<br/><span style="color: #FF4500;">(+38.90%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **4.75** | <span style="color: #002818; font-weight: bold;">-0.85</span> | <span style="color: #8B0000; font-weight: bold;">+4.73</span> | **115** | <span style="color: #DC143C; font-weight: bold;">9.67</span> | <span style="color: #006400; font-weight: bold;">11.89</span> |
 | **2025/11** | **5.22** | <span style="color: #002818; font-weight: bold;">-8.14</span> | <span style="color: #8B0000; font-weight: bold;">+5.17</span> | **120.5** | <span style="color: #DC143C; font-weight: bold;">9.71</span> | <span style="color: #006400; font-weight: bold;">12.42</span> |
 | **2025/10** | **5.1** | <span style="color: #004225; font-weight: bold;">-13.9</span> | <span style="color: #8B0000; font-weight: bold;">+6.52</span> | **130.5** | <span style="color: #DC143C; font-weight: bold;">9.74</span> | <span style="color: #004225; font-weight: bold;">13.4</span> |
 | **2025/09** | **6.05** | <span style="color: #002818; font-weight: bold;">-5.24</span> | <span style="color: #8B0000; font-weight: bold;">+8.96</span> | **133.5** | <span style="color: #DC143C; font-weight: bold;">9.78</span> | <span style="color: #004225; font-weight: bold;">13.65</span> |
@@ -413,7 +414,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-09 20:28:49 CST
+- **產生時間**: 2026-01-10 18:19:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

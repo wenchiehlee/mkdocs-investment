@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-09
+date: 2026-01-10
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 啟碁 (6285) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 啟碁  
     **:identification_card: 股票代號**: 6285  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-09 20:28:49 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-10 18:19:52 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #004225; font-weight: bold;">-10.7</span> | <span style="color: #8B0000; font-weight: bold;">+0.29</span> | **239** 個月 | 2006/01 至 2025/11 |
+| <span style="color: #002818; font-weight: bold;">-2.71</span> | <span style="color: #8B0000; font-weight: bold;">+0.03</span> | **240** 個月 | 2006/01 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 啟碁 (6285) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 9,489<br/><span style="color: #002818;">(-2.28%)</span> | 9,711<br/><span style="color: #8B0000;">(+3.24%)</span> | 9,405<br/><span style="color: #FF4500;">(+35.20%)</span> | 6,955<br/><span style="color: #B22222;">(+17.20%)</span> |
+| **12月** | 9,231<br/><span style="color: #002818;">(-2.71%)</span> | 9,489<br/><span style="color: #002818;">(-2.28%)</span> | 9,711<br/><span style="color: #8B0000;">(+3.24%)</span> | 9,405<br/><span style="color: #FF4500;">(+35.20%)</span> | 6,955<br/><span style="color: #B22222;">(+17.20%)</span> |
 | **11月** | 8,302<br/><span style="color: #004225;">(-10.70%)</span> | 9,300<br/><span style="color: #002818;">(-8.43%)</span> | 10,160<br/><span style="color: #8B0000;">(+8.14%)</span> | 9,392<br/><span style="color: #FF6347;">(+48.60%)</span> | 6,319<br/><span style="color: #B22222;">(+11.30%)</span> |
 | **10月** | 9,483<br/><span style="color: #8B0000;">(+3.51%)</span> | 9,161<br/><span style="color: #002818;">(-6.68%)</span> | 9,818<br/><span style="color: #002818;">(-4.66%)</span> | 10,300<br/><span style="color: #FF7F7F;">(+78.20%)</span> | 5,779<br/><span style="color: #8B0000;">(+5.43%)</span> |
 | **9月** | 9,802<br/><span style="color: #B22222;">(+17.10%)</span> | 8,372<br/><span style="color: #002818;">(-9.76%)</span> | 9,278<br/><span style="color: #002818;">(-4.82%)</span> | 9,748<br/><span style="color: #FF7F7F;">(+68.80%)</span> | 5,774<br/><span style="color: #002818;">(-2.02%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 啟碁 (6285) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **92.31** | <span style="color: #002818; font-weight: bold;">-2.71</span> | <span style="color: #8B0000; font-weight: bold;">+0.03</span> | **99** | <span style="color: #B22222; font-weight: bold;">6.48</span> | <span style="color: #8B0000; font-weight: bold;">15.28</span> |
 | **2025/11** | **83.02** | <span style="color: #004225; font-weight: bold;">-10.7</span> | <span style="color: #8B0000; font-weight: bold;">+0.29</span> | **102** | <span style="color: #B22222; font-weight: bold;">6.54</span> | <span style="color: #8B0000; font-weight: bold;">15.58</span> |
 | **2025/10** | **94.83** | <span style="color: #8B0000; font-weight: bold;">+3.51</span> | <span style="color: #8B0000; font-weight: bold;">+1.41</span> | **125.5** | <span style="color: #B22222; font-weight: bold;">6.61</span> | <span style="color: #DC143C; font-weight: bold;">18.99</span> |
 | **2025/09** | **98.02** | <span style="color: #B22222; font-weight: bold;">+17.1</span> | <span style="color: #8B0000; font-weight: bold;">+1.18</span> | **116.5** | <span style="color: #B22222; font-weight: bold;">6.68</span> | <span style="color: #B22222; font-weight: bold;">17.45</span> |
@@ -413,7 +414,7 @@ description: 月營收表 啟碁 (6285) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-09 20:28:49 CST
+- **產生時間**: 2026-01-10 18:19:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
