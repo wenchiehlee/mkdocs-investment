@@ -116,6 +116,25 @@ document$.subscribe(function() {
         return null;
     }
 
+    // Helper to convert Market Cap strings (e.g. "1.2 兆元", "500 億元") into sortable numbers
+    function parseMarketCap(data) {
+        var text = $('<div>').html(data).text().trim();
+        // Remove commas
+        text = text.replace(/,/g, '');
+        
+        var val = parseFloat(text);
+        if (isNaN(val)) return 0;
+
+        if (text.includes('兆')) {
+            return val * 10000; // Convert Trillion to 100 Million unit
+        } else if (text.includes('億')) {
+            return val;
+        } else if (text.includes('萬')) {
+            return val / 10000;
+        }
+        return val;
+    }
+
     // Initialize DataTables for all sortable tables
     $('table.sortable-table').each(function() {
         // Skip if already initialized
@@ -157,9 +176,8 @@ document$.subscribe(function() {
         ];
 
         if (columnCount === 6) {
-            // Revenue report: 6 columns (股票代號, 公司名稱, 資料筆數, 最新月份, 最新年增率, 資料區間)
+            // Revenue report: 6 columns
             columnDefs.push({
-                // Numeric columns: 資料筆數 (col 2), 最新年增率 (col 4)
                 targets: [2, 4],
                 type: 'num',
                 render: function(data, type, row) {
@@ -171,13 +189,37 @@ document$.subscribe(function() {
                 }
             });
             columnDefs.push({
-                // YYYY/MM column: 最新月份 (col 3)
                 targets: [3],
                 type: 'num',
                 render: function(data, type, row) {
                     if (type === 'sort' || type === 'type') {
                         var ym = parseYearMonth(data);
                         return ym !== null ? ym : 0;
+                    }
+                    return data;
+                }
+            });
+        } else if (columnCount === 8) {
+            // Margin Daily report: 8 columns (代號, 名稱, 融資餘額, 收盤價, 市值, 比率, 風險, 最新日期)
+            columnDefs.push({
+                // Numeric columns: 融資餘額 (col 2), 收盤價 (col 3), 比率 (col 5)
+                targets: [2, 3, 5],
+                type: 'num',
+                render: function(data, type, row) {
+                    if (type === 'sort' || type === 'type') {
+                        var num = parseNumeric(data);
+                        return num === null ? 0 : num;
+                    }
+                    return data;
+                }
+            });
+            columnDefs.push({
+                // Market Cap column: 市值 (col 4) - Use custom parser
+                targets: [4],
+                type: 'num',
+                render: function(data, type, row) {
+                    if (type === 'sort' || type === 'type') {
+                        return parseMarketCap(data);
                     }
                     return data;
                 }
