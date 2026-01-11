@@ -112,6 +112,7 @@ plugins:
       exclude:
         - index.md
         - tags.md
+        - reports/.*
   - git-revision-date-localized:
       enabled: !ENV [CI, false]
       type: timeago
