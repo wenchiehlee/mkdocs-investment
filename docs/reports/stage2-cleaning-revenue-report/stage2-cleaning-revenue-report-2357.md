@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-10
+date: 2026-01-11
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 華碩 (2357) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 華碩  
     **:identification_card: 股票代號**: 2357  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-10 20:27:14 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-11 12:09:26 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+20.6</span> | <span style="color: #DC143C; font-weight: bold;">+24.2</span> | **239** 個月 | 2006/01 至 2025/11 |
+| <span style="color: #FF6347; font-weight: bold;">+43.6</span> | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | **240** 個月 | 2006/01 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 華碩 (2357) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 47,410<br/><span style="color: #FF4500;">(+35.90%)</span> | 34,890<br/><span style="color: #004225;">(-14.90%)</span> | 41,010<br/><span style="color: #006400;">(-20.70%)</span> | 51,740<br/><span style="color: #DC143C;">(+20.40%)</span> |
+| **12月** | 69,710<br/><span style="color: #FF6347;">(+43.60%)</span> | 48,540<br/><span style="color: #FF4500;">(+39.10%)</span> | 34,890<br/><span style="color: #004225;">(-14.90%)</span> | 41,010<br/><span style="color: #006400;">(-20.70%)</span> | 51,740<br/><span style="color: #DC143C;">(+20.40%)</span> |
 | **11月** | 66,880<br/><span style="color: #DC143C;">(+20.60%)</span> | 55,460<br/><span style="color: #DC143C;">(+28.50%)</span> | 43,150<br/><span style="color: #002818;">(-5.67%)</span> | 45,740<br/><span style="color: #004225;">(-17.10%)</span> | 55,170<br/><span style="color: #FF4500;">(+38.80%)</span> |
 | **10月** | 66,330<br/><span style="color: #FF4500;">(+32.80%)</span> | 49,930<br/><span style="color: #B22222;">(+18.50%)</span> | 42,120<br/><span style="color: #8B0000;">(+4.47%)</span> | 40,320<br/><span style="color: #004225;">(-10.40%)</span> | 44,990<br/><span style="color: #B22222;">(+13.60%)</span> |
 | **9月** | 82,590<br/><span style="color: #FF4500;">(+33.00%)</span> | 62,090<br/><span style="color: #DC143C;">(+27.10%)</span> | 48,870<br/><span style="color: #004225;">(-18.30%)</span> | 59,790<br/><span style="color: #8B0000;">(+6.67%)</span> | 56,050<br/><span style="color: #B22222;">(+19.10%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 華碩 (2357) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **697.1** | <span style="color: #FF6347; font-weight: bold;">+43.6</span> | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | **548** | <span style="color: #FF4500; font-weight: bold;">46.84</span> | <span style="color: #004225; font-weight: bold;">11.7</span> |
 | **2025/11** | **668.8** | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | <span style="color: #DC143C; font-weight: bold;">+24.2</span> | **601** | <span style="color: #FF4500; font-weight: bold;">46.46</span> | <span style="color: #002818; font-weight: bold;">12.94</span> |
 | **2025/10** | **663.3** | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | **697** | <span style="color: #FF4500; font-weight: bold;">46.08</span> | <span style="color: #8B0000; font-weight: bold;">15.13</span> |
 | **2025/09** | **825.9** | <span style="color: #FF4500; font-weight: bold;">+33</span> | <span style="color: #DC143C; font-weight: bold;">+23.7</span> | **671** | <span style="color: #FF4500; font-weight: bold;">45.7</span> | <span style="color: #8B0000; font-weight: bold;">14.68</span> |
@@ -90,7 +91,7 @@ description: 月營收表 華碩 (2357) - 自動產生
 | **2025/03** | **643.2** | <span style="color: #DC143C; font-weight: bold;">+29.3</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **609** | <span style="color: #FF4500; font-weight: bold;">43.41</span> | <span style="color: #002818; font-weight: bold;">14.03</span> |
 | **2025/02** | **456.3** | <span style="color: #DC143C; font-weight: bold;">+29.3</span> | <span style="color: #B22222; font-weight: bold;">+15.8</span> | **682** | <span style="color: #FF4500; font-weight: bold;">43.03</span> | <span style="color: #8B0000; font-weight: bold;">15.85</span> |
 | **2025/01** | **377.5** | <span style="color: #8B0000; font-weight: bold;">+2.94</span> | <span style="color: #8B0000; font-weight: bold;">+2.94</span> | **607** | <span style="color: #DC143C; font-weight: bold;">42.65</span> | <span style="color: #8B0000; font-weight: bold;">14.23</span> |
-| **2024/12** | **474.1** | <span style="color: #FF4500; font-weight: bold;">+35.9</span> | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | **616** | <span style="color: #DC143C; font-weight: bold;">42.27</span> | <span style="color: #8B0000; font-weight: bold;">14.57</span> |
+| **2024/12** | **485.4** | <span style="color: #FF4500; font-weight: bold;">+39.1</span> | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | **616** | <span style="color: #DC143C; font-weight: bold;">42.27</span> | <span style="color: #8B0000; font-weight: bold;">14.57</span> |
 | **2024/11** | **554.6** | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **588** | <span style="color: #DC143C; font-weight: bold;">40.53</span> | <span style="color: #8B0000; font-weight: bold;">14.51</span> |
 | **2024/10** | **499.3** | <span style="color: #B22222; font-weight: bold;">+18.5</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **575** | <span style="color: #DC143C; font-weight: bold;">38.8</span> | <span style="color: #8B0000; font-weight: bold;">14.82</span> |
 | **2024/09** | **620.9** | <span style="color: #DC143C; font-weight: bold;">+27.1</span> | <span style="color: #B22222; font-weight: bold;">+19.6</span> | **553** | <span style="color: #DC143C; font-weight: bold;">37.06</span> | <span style="color: #8B0000; font-weight: bold;">14.92</span> |
@@ -413,7 +414,7 @@ description: 月營收表 華碩 (2357) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-10 20:27:14 CST
+- **產生時間**: 2026-01-11 12:09:26 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-10
+date: 2026-01-11
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 意藍 (6925) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 意藍  
     **:identification_card: 股票代號**: 6925  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-10 20:27:14 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-11 12:09:26 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+32.7</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **38** 個月 | 2022/10 至 2025/11 |
+| <span style="color: #DC143C; font-weight: bold;">+25.1</span> | <span style="color: #B22222; font-weight: bold;">+14.6</span> | **39** 個月 | 2022/10 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 意藍 (6925) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 17<br/><span style="color: #002818;">(-2.78%)</span> | 17<br/><span style="color: #004225;">(-15.70%)</span> | 20<br/><span style="color: #DC143C;">(+26.90%)</span> |
+| **12月** | 21<br/><span style="color: #DC143C;">(+25.10%)</span> | 17<br/><span style="color: #002818;">(-2.78%)</span> | 17<br/><span style="color: #004225;">(-15.70%)</span> | 20<br/><span style="color: #DC143C;">(+26.90%)</span> |
 | **11月** | 22<br/><span style="color: #FF4500;">(+32.70%)</span> | 16<br/><span style="color: #B22222;">(+12.20%)</span> | 14<br/><span style="color: #002818;">(-8.65%)</span> | 16<br/><span style="color: #DC143C;">(+26.50%)</span> |
 | **10月** | 19<br/><span style="color: #DC143C;">(+23.40%)</span> | 16<br/><span style="color: #B22222;">(+17.70%)</span> | 13<br/><span style="color: #004225;">(-13.10%)</span> | 15<br/><span style="color: #8B0000;">(+3.09%)</span> |
 | **9月** | 19<br/><span style="color: #8B0000;">(+0.76%)</span> | 19<br/><span style="color: #FF6347;">(+45.80%)</span> | 13<br/><span style="color: #8B0000;">(+4.63%)</span> | -- |
@@ -79,6 +79,7 @@ description: 月營收表 意藍 (6925) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **0.214** | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | <span style="color: #B22222; font-weight: bold;">+14.6</span> | **88.3** | <span style="color: #000000; font-weight: bold;">2.87</span> | <span style="color: #006400; font-weight: bold;">30.77</span> |
 | **2025/11** | **0.22** | <span style="color: #FF4500; font-weight: bold;">+32.7</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **100.5** | <span style="color: #000000; font-weight: bold;">2.87</span> | <span style="color: #004225; font-weight: bold;">35.02</span> |
 | **2025/10** | **0.199** | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **110** | <span style="color: #000000; font-weight: bold;">2.87</span> | <span style="color: #004225; font-weight: bold;">38.33</span> |
 | **2025/09** | **0.198** | <span style="color: #8B0000; font-weight: bold;">+0.76</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **133.5** | <span style="color: #000000; font-weight: bold;">2.87</span> | <span style="color: #8B0000; font-weight: bold;">46.52</span> |
@@ -212,7 +213,7 @@ description: 月營收表 意藍 (6925) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-10 20:27:14 CST
+- **產生時間**: 2026-01-11 12:09:26 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

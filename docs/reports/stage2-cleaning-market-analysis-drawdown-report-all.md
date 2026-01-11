@@ -24,7 +24,7 @@ description: TWSE/TPEX 市場分析回檔報告總覽 - 全部 92 檔股票 - �
 # :bar_chart: 市場分析回檔報告總覽 - 全部股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-01-10 21:28:02 CST
+    **:calendar: 產生時間**: 2026-01-10 23:19:06 CST
     **:building_construction: 分析股票總數**: 92 檔
     **:chart_with_upwards_trend: 報告類型**: 年度報酬與最大回檔分析
     **:file_folder: 資料來源**: Type 12 (ShowMonthlyK_ChartFlow) 月收盤價
@@ -1010,4 +1010,4 @@ description: TWSE/TPEX 市場分析回檔報告總覽 - 全部 92 檔股票 - �
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-10 21:28:02 CST*
+*數據更新時間: 2026-01-10 23:19:06 CST*

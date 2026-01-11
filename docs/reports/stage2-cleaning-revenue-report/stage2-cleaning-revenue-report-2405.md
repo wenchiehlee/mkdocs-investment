@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-10
+date: 2026-01-11
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 輔信 (2405) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 輔信  
     **:identification_card: 股票代號**: 2405  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-10 20:27:14 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-11 12:09:26 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+28.7</span> | <span style="color: #8B0000; font-weight: bold;">+3.97</span> | **239** 個月 | 2006/01 至 2025/11 |
+| <span style="color: #B22222; font-weight: bold;">+10.6</span> | <span style="color: #8B0000; font-weight: bold;">+4.47</span> | **240** 個月 | 2006/01 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 輔信 (2405) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 124<br/><span style="color: #004225;">(-13.00%)</span> | 143<br/><span style="color: #B22222;">(+16.60%)</span> | 123<br/><span style="color: #002818;">(-2.85%)</span> | 126<br/><span style="color: #228B22;">(-33.90%)</span> |
+| **12月** | 137<br/><span style="color: #B22222;">(+10.60%)</span> | 124<br/><span style="color: #004225;">(-13.00%)</span> | 143<br/><span style="color: #B22222;">(+16.60%)</span> | 123<br/><span style="color: #002818;">(-2.85%)</span> | 126<br/><span style="color: #228B22;">(-33.90%)</span> |
 | **11月** | 173<br/><span style="color: #DC143C;">(+28.70%)</span> | 135<br/><span style="color: #004225;">(-17.80%)</span> | 164<br/><span style="color: #DC143C;">(+23.20%)</span> | 133<br/><span style="color: #228B22;">(-31.80%)</span> | 195<br/><span style="color: #FF6347;">(+42.30%)</span> |
 | **10月** | 146<br/><span style="color: #8B0000;">(+3.75%)</span> | 140<br/><span style="color: #8B0000;">(+9.66%)</span> | 128<br/><span style="color: #004225;">(-13.20%)</span> | 147<br/><span style="color: #006400;">(-26.50%)</span> | 200<br/><span style="color: #FF7F7F;">(+52.30%)</span> |
 | **9月** | 160<br/><span style="color: #DC143C;">(+26.40%)</span> | 126<br/><span style="color: #004225;">(-17.20%)</span> | 152<br/><span style="color: #8B0000;">(+1.99%)</span> | 149<br/><span style="color: #006400;">(-22.40%)</span> | 192<br/><span style="color: #DC143C;">(+25.00%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 輔信 (2405) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **1.37** | <span style="color: #B22222; font-weight: bold;">+10.6</span> | <span style="color: #8B0000; font-weight: bold;">+4.47</span> | **17.8** | <span style="color: #002818; font-weight: bold;">-0.17</span> | N/A |
 | **2025/11** | **1.73** | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | <span style="color: #8B0000; font-weight: bold;">+3.97</span> | **17.5** | <span style="color: #002818; font-weight: bold;">-0.15</span> | N/A |
 | **2025/10** | **1.46** | <span style="color: #8B0000; font-weight: bold;">+3.75</span> | <span style="color: #8B0000; font-weight: bold;">+1.61</span> | **18.6** | <span style="color: #002818; font-weight: bold;">-0.14</span> | N/A |
 | **2025/09** | **1.6** | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #8B0000; font-weight: bold;">+1.37</span> | **19.05** | <span style="color: #002818; font-weight: bold;">-0.12</span> | N/A |
@@ -413,7 +414,7 @@ description: 月營收表 輔信 (2405) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-10 20:27:14 CST
+- **產生時間**: 2026-01-11 12:09:26 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

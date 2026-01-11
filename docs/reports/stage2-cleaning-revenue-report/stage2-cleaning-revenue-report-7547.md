@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-10
+date: 2026-01-11
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 碩網 (7547) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 碩網  
     **:identification_card: 股票代號**: 7547  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-10 20:27:14 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-11 12:09:26 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #004225; font-weight: bold;">-15.9</span> | <span style="color: #8B0000; font-weight: bold;">+8.37</span> | **66** 個月 | 2020/06 至 2025/11 |
+| <span style="color: #228B22; font-weight: bold;">-33.8</span> | <span style="color: #8B0000; font-weight: bold;">+2.44</span> | **67** 個月 | 2020/06 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 碩網 (7547) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 47<br/><span style="color: #FF7F7F;">(+120.80%)</span> | 21<br/><span style="color: #004225;">(-18.50%)</span> | 26<br/><span style="color: #B22222;">(+13.90%)</span> | 22<br/><span style="color: #8B0000;">(+7.12%)</span> |
+| **12月** | 31<br/><span style="color: #228B22;">(-33.80%)</span> | 47<br/><span style="color: #FF7F7F;">(+120.80%)</span> | 21<br/><span style="color: #004225;">(-18.50%)</span> | 26<br/><span style="color: #B22222;">(+13.90%)</span> | 22<br/><span style="color: #8B0000;">(+7.12%)</span> |
 | **11月** | 27<br/><span style="color: #004225;">(-15.90%)</span> | 32<br/><span style="color: #FF6347;">(+46.50%)</span> | 22<br/><span style="color: #DC143C;">(+27.10%)</span> | 17<br/><span style="color: #004225;">(-16.40%)</span> | 20<br/><span style="color: #FF7F7F;">(+59.40%)</span> |
 | **10月** | 35<br/><span style="color: #B22222;">(+14.10%)</span> | 30<br/><span style="color: #FF7F7F;">(+50.70%)</span> | 20<br/><span style="color: #FF4500;">(+30.90%)</span> | 15<br/><span style="color: #8B0000;">(+9.15%)</span> | 14<br/><span style="color: #B22222;">(+19.70%)</span> |
 | **9月** | 39<br/><span style="color: #B22222;">(+11.40%)</span> | 35<br/><span style="color: #FF7F7F;">(+171.60%)</span> | 13<br/><span style="color: #004225;">(-16.80%)</span> | 15<br/><span style="color: #DC143C;">(+29.40%)</span> | 12<br/><span style="color: #002818;">(-7.04%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 碩網 (7547) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **0.311** | <span style="color: #228B22; font-weight: bold;">-33.8</span> | <span style="color: #8B0000; font-weight: bold;">+2.44</span> | **57.2** | <span style="color: #000000; font-weight: bold;">2.73</span> | <span style="color: #006400; font-weight: bold;">20.95</span> |
 | **2025/11** | **0.273** | <span style="color: #004225; font-weight: bold;">-15.9</span> | <span style="color: #8B0000; font-weight: bold;">+8.37</span> | **71.1** | <span style="color: #000000; font-weight: bold;">2.73</span> | <span style="color: #004225; font-weight: bold;">26.04</span> |
 | **2025/10** | **0.35** | <span style="color: #B22222; font-weight: bold;">+14.1</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **75.4** | <span style="color: #000000; font-weight: bold;">2.73</span> | <span style="color: #004225; font-weight: bold;">27.62</span> |
 | **2025/09** | **0.393** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **90.1** | <span style="color: #000000; font-weight: bold;">2.73</span> | <span style="color: #8B0000; font-weight: bold;">33.0</span> |
@@ -240,7 +241,7 @@ description: 月營收表 碩網 (7547) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-10 20:27:14 CST
+- **產生時間**: 2026-01-11 12:09:26 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

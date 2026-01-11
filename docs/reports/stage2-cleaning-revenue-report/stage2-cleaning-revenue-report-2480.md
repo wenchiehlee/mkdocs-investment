@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-10
+date: 2026-01-11
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 敦陽科 (2480) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 敦陽科  
     **:identification_card: 股票代號**: 2480  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-10 20:27:14 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-11 12:09:26 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+1.04</span> | <span style="color: #B22222; font-weight: bold;">+13.4</span> | **239** 個月 | 2006/01 至 2025/11 |
+| <span style="color: #002818; font-weight: bold;">-3.15</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **240** 個月 | 2006/01 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 敦陽科 (2480) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 901<br/><span style="color: #DC143C;">(+25.00%)</span> | 721<br/><span style="color: #8B0000;">(+1.68%)</span> | 709<br/><span style="color: #006400;">(-21.90%)</span> | 907<br/><span style="color: #FF7F7F;">(+54.70%)</span> |
+| **12月** | 873<br/><span style="color: #002818;">(-3.15%)</span> | 901<br/><span style="color: #DC143C;">(+25.00%)</span> | 721<br/><span style="color: #8B0000;">(+1.68%)</span> | 709<br/><span style="color: #006400;">(-21.90%)</span> | 907<br/><span style="color: #FF7F7F;">(+54.70%)</span> |
 | **11月** | 614<br/><span style="color: #8B0000;">(+1.04%)</span> | 607<br/><span style="color: #B22222;">(+15.20%)</span> | 527<br/><span style="color: #004225;">(-10.30%)</span> | 588<br/><span style="color: #8B0000;">(+9.23%)</span> | 538<br/><span style="color: #8B0000;">(+6.92%)</span> |
 | **10月** | 702<br/><span style="color: #002818;">(-3.15%)</span> | 725<br/><span style="color: #8B0000;">(+0.26%)</span> | 723<br/><span style="color: #DC143C;">(+28.80%)</span> | 561<br/><span style="color: #8B0000;">(+3.40%)</span> | 543<br/><span style="color: #B22222;">(+12.20%)</span> |
 | **9月** | 649<br/><span style="color: #8B0000;">(+3.79%)</span> | 625<br/><span style="color: #8B0000;">(+9.82%)</span> | 569<br/><span style="color: #8B0000;">(+0.70%)</span> | 565<br/><span style="color: #8B0000;">(+1.19%)</span> | 559<br/><span style="color: #8B0000;">(+9.65%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 敦陽科 (2480) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **8.73** | <span style="color: #002818; font-weight: bold;">-3.15</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **151** | <span style="color: #FF4500; font-weight: bold;">7.91</span> | <span style="color: #FF4500; font-weight: bold;">19.09</span> |
 | **2025/11** | **6.14** | <span style="color: #8B0000; font-weight: bold;">+1.04</span> | <span style="color: #B22222; font-weight: bold;">+13.4</span> | **152.5** | <span style="color: #FF4500; font-weight: bold;">7.88</span> | <span style="color: #FF6347; font-weight: bold;">19.36</span> |
 | **2025/10** | **7.02** | <span style="color: #002818; font-weight: bold;">-3.15</span> | <span style="color: #B22222; font-weight: bold;">+14.6</span> | **160** | <span style="color: #FF4500; font-weight: bold;">7.84</span> | <span style="color: #FF6347; font-weight: bold;">20.4</span> |
 | **2025/09** | **6.49** | <span style="color: #8B0000; font-weight: bold;">+3.79</span> | <span style="color: #B22222; font-weight: bold;">+17</span> | **178** | <span style="color: #DC143C; font-weight: bold;">7.81</span> | <span style="color: #FF7F7F; font-weight: bold;">22.8</span> |
@@ -413,7 +414,7 @@ description: 月營收表 敦陽科 (2480) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-10 20:27:14 CST
+- **產生時間**: 2026-01-11 12:09:26 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-10
+date: 2026-01-11
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 三商餐飲 (7705) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 三商餐飲  
     **:identification_card: 股票代號**: 7705  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-10 20:27:14 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-11 12:09:26 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+17.3</span> | <span style="color: #8B0000; font-weight: bold;">+2.89</span> | **27** 個月 | 2023/09 至 2025/11 |
+| <span style="color: #8B0000; font-weight: bold;">+7.68</span> | <span style="color: #8B0000; font-weight: bold;">+3.3</span> | **28** 個月 | 2023/09 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 三商餐飲 (7705) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** |
 |:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 549<br/><span style="color: #8B0000;">(+1.32%)</span> | 542<br/><span style="color: #B22222;">(+11.30%)</span> |
+| **12月** | 591<br/><span style="color: #8B0000;">(+7.68%)</span> | 549<br/><span style="color: #8B0000;">(+1.32%)</span> | 542<br/><span style="color: #B22222;">(+11.30%)</span> |
 | **11月** | 573<br/><span style="color: #B22222;">(+17.30%)</span> | 488<br/><span style="color: #DC143C;">(+20.00%)</span> | 407<br/><span style="color: #8B0000;">(+2.66%)</span> |
 | **10月** | 505<br/><span style="color: #8B0000;">(+0.20%)</span> | 504<br/><span style="color: #8B0000;">(+6.43%)</span> | 474<br/><span style="color: #8B0000;">(+7.60%)</span> |
 | **9月** | 556<br/><span style="color: #8B0000;">(+0.13%)</span> | 555<br/><span style="color: #B22222;">(+12.40%)</span> | 494<br/><span style="color: #B22222;">(+10.10%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 三商餐飲 (7705) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **5.91** | <span style="color: #8B0000; font-weight: bold;">+7.68</span> | <span style="color: #8B0000; font-weight: bold;">+3.3</span> | **40** | <span style="color: #228B22; font-weight: bold;">1.31</span> | <span style="color: #FF4500; font-weight: bold;">30.53</span> |
 | **2025/11** | **5.73** | <span style="color: #B22222; font-weight: bold;">+17.3</span> | <span style="color: #8B0000; font-weight: bold;">+2.89</span> | **40.25** | <span style="color: #006400; font-weight: bold;">1.54</span> | <span style="color: #B22222; font-weight: bold;">26.09</span> |
 | **2025/10** | **5.05** | <span style="color: #8B0000; font-weight: bold;">+0.2</span> | <span style="color: #8B0000; font-weight: bold;">+1.56</span> | **40.7** | <span style="color: #006400; font-weight: bold;">1.78</span> | <span style="color: #8B0000; font-weight: bold;">22.93</span> |
 | **2025/09** | **5.56** | <span style="color: #8B0000; font-weight: bold;">+0.13</span> | <span style="color: #8B0000; font-weight: bold;">+1.7</span> | **41.9** | <span style="color: #004225; font-weight: bold;">2.01</span> | <span style="color: #8B0000; font-weight: bold;">20.87</span> |
@@ -201,7 +202,7 @@ description: 月營收表 三商餐飲 (7705) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-10 20:27:14 CST
+- **產生時間**: 2026-01-11 12:09:26 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
