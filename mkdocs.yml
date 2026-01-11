@@ -322,7 +322,7 @@ not_in_nav: |
   !reports/stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-all.md
   reports/stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-*.md
   !reports/stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-all.md
-  reports/stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-*.md
+  reports/stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-*.md
   !reports/stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-all.md
   reports/stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-*.md
   !reports/stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-all.md
