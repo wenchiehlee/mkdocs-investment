@@ -42,7 +42,7 @@ description: 融資餘額報告彙總 - 包含所有股票的融資餘額分析�
 </thead>
 <tbody>
 <tr>
-<td><a href="stage2-cleaning-margin_daily-report-0000.md">0000</a></td>
+<td><a href="../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-0000/">0000</a></td>
 <td>台灣加權指數</td>
 <td>3514.9</td>
 <td>30288.96</td>
@@ -52,7 +52,7 @@ description: 融資餘額報告彙總 - 包含所有股票的融資餘額分析�
 <td>2026-01-09</td>
 </tr>
 <tr>
-<td><a href="stage2-cleaning-margin_daily-report-2301.md">2301</a></td>
+<td><a href="../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2301/">2301</a></td>
 <td>光寶科</td>
 <td>32.0</td>
 <td>160.00</td>
