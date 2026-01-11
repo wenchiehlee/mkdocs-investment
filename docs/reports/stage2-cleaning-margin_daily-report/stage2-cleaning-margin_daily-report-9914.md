@@ -51,8 +51,8 @@ description: 融資餘額報告 美利達 (9914) - 自動產生
 
 ## :chart_with_upwards_trend: 融資餘額趨勢圖
 
-<div class="chart-container" style="text-align: center; margin: 20px 0;">
-    <img src="margin_daily-9914.svg" alt="Stock 9914 Margin Balance Analysis" style="max-width: 100%; height: auto;">
+<div class="chart-container" style="text-align: center; margin: 20px 0;" markdown="1">
+![Stock 9914 Margin Balance Analysis](margin_daily-9914.svg){: style="max-width: 100%; height: auto;"}
 </div>
 
 ---

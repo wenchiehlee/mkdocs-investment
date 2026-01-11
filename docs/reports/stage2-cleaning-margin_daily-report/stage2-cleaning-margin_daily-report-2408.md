@@ -51,8 +51,8 @@ description: 融資餘額報告 南亞科 (2408) - 自動產生
 
 ## :chart_with_upwards_trend: 融資餘額趨勢圖
 
-<div class="chart-container" style="text-align: center; margin: 20px 0;">
-    <img src="margin_daily-2408.svg" alt="Stock 2408 Margin Balance Analysis" style="max-width: 100%; height: auto;">
+<div class="chart-container" style="text-align: center; margin: 20px 0;" markdown="1">
+![Stock 2408 Margin Balance Analysis](margin_daily-2408.svg){: style="max-width: 100%; height: auto;"}
 </div>
 
 ---

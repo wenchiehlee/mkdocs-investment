@@ -51,8 +51,8 @@ description: 融資餘額報告 奇偶 (3356) - 自動產生
 
 ## :chart_with_upwards_trend: 融資餘額趨勢圖
 
-<div class="chart-container" style="text-align: center; margin: 20px 0;">
-    <img src="margin_daily-3356.svg" alt="Stock 3356 Margin Balance Analysis" style="max-width: 100%; height: auto;">
+<div class="chart-container" style="text-align: center; margin: 20px 0;" markdown="1">
+![Stock 3356 Margin Balance Analysis](margin_daily-3356.svg){: style="max-width: 100%; height: auto;"}
 </div>
 
 ---
