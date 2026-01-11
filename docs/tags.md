@@ -1,6 +1,6 @@
 ---
 icon: material/pin
-title: 分類
+title: 標籤
 hide:
   #- navigation # 顯示右
   #- toc #顯示左

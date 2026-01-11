@@ -111,7 +111,7 @@ plugins:
       branch: main
       exclude:
         - index.md
-        - tag.md
+        - tags.md
   - git-revision-date-localized:
       enabled: !ENV [CI, false]
       type: timeago
@@ -131,8 +131,7 @@ plugins:
       date_from_meta:
           as_creation: date
           as_update: git
-  - tags:
-      tags_file: tag.md
+  - tags
   - macros
   - roamlinks
   - callouts
@@ -333,6 +332,6 @@ nav:
     - 台股ROE/ROA總覽: reports/stage2-cleaning-roa-roe-report-all.md
     - 台股指數分析-未來報酬率與本益比分析總覽: reports/stage2-cleaning-market-analysis-pe-forward-return-report-tr-all.md
     - 台股指數分析-回檔報告總覽: reports/stage2-cleaning-market-analysis-drawdown-report-all.md
-  - 標簽:   tag.md
+  - 標簽:   tags.md
   - 友鏈:   about/link.md
   - 關於:   about/index.md
