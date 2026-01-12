@@ -148,6 +148,7 @@ document$.subscribe(function() {
 
         // Detect table type by column count
         var columnCount = $table.find('thead th').length;
+        var headerText = $table.find('thead').text();
         console.log('Table has', columnCount, 'columns');
 
         // Build columnDefs based on table type
@@ -175,7 +176,21 @@ document$.subscribe(function() {
             }
         ];
 
-        if (columnCount === 6) {
+        if (headerText.includes('ROE') && headerText.includes('ROA')) {
+            // ROA/ROE report
+            columnDefs.push({
+                // Percentage columns: ROE (col 3), ROA (col 4) - assuming 0-based index
+                targets: [3, 4],
+                type: 'num',
+                render: function(data, type, row) {
+                    if (type === 'sort' || type === 'type') {
+                        // Use existing percent-pre logic or simple parse
+                        return parseFloat(data.replace('%', '')) || 0;
+                    }
+                    return data;
+                }
+            });
+        } else if (columnCount === 6) {
             // Revenue report: 6 columns
             columnDefs.push({
                 targets: [2, 4],
