@@ -32,9 +32,9 @@ description: 融資餘額報告彙總 - 包含所有股票的融資餘額分析�
 <tr>
 <th markdown="span">:identification_card: 代號</th>
 <th markdown="span">:building_construction: 名稱</th>
-<th markdown="span">:package: 融資餘額(億元)</th>
+<th markdown="span">📦 融資餘額(億元)</th>
 <th markdown="span">:money_with_wings: 收盤價(元)</th>
-<th markdown="span">:bank: 市值</th>
+<th markdown="span">🏦 市值</th>
 <th markdown="span">:chart: 比率</th>
 <th markdown="span">:traffic_light: 風險</th>
 <th markdown="span">:calendar: 最新日期</th>
