@@ -14,18 +14,18 @@ draft: false
 description: 融資餘額報告 聖暉 (5536) - 自動產生
 ---
 
-# :chart_with_upwards_trend: 聖暉 (5536) 融資餘額報告
+# 📈 聖暉 (5536) 融資餘額報告
 
 !!! info "基本資訊"
-    **:building_construction: 名稱**: 聖暉
-    **:identification_card: 代號**: 5536
-    **:calendar: 分析期間**: 2025-07-18 ~ 2026-01-09 (共 242 個交易日)
-    **:clock3: 最新資料**: 2026-01-09
-    **🕒 更新時間**: 2026-01-12 13:15:16 CST
+    **🏗️ 名稱**: 聖暉
+    **🪪 代號**: 5536
+    **📅 分析期間**: 2025-07-18 ~ 2026-01-09 (共 242 個交易日)
+    **🕒 最新資料**: 2026-01-09
+    **🕒 更新時間**: 2026-01-12 17:17:27 CST
 
-## :moneybag: 融資餘額現況
+## 💰 融資餘額現況
 
-| :chart: 指標 | :1234: 數值 | :traffic_light: 狀態 |
+| 📊 指標 | 🔢 數值 | 🚦 狀態 |
 |:------------:|:----------:|:-------------------:|
 | **最新融資餘額** | 21.7 億元 (2,827 張) | - |
 | **最新收盤價** | 767.00 元 | - |
@@ -37,9 +37,9 @@ description: 融資餘額報告 聖暉 (5536) - 自動產生
 
 ---
 
-## :bar_chart: 歷史統計
+## 📊 歷史統計
 
-| :chart: 指標 | :1234: 數值 |
+| 📊 指標 | 🔢 數值 |
 |:------------:|:----------:|
 | **歷史最高** | 23.0 億元 |
 | **歷史最低** | 2.1 億元 |
@@ -49,28 +49,28 @@ description: 融資餘額報告 聖暉 (5536) - 自動產生
 
 ---
 
-## :chart_with_upwards_trend: 融資餘額趨勢圖
+## 📈 融資餘額趨勢圖
 
-<div class="chart-container" style="text-align: center; margin: 20px 0;">
-    <img src="margin_daily-5536.svg" alt="Stock 5536 Margin Balance Analysis" style="max-width: 100%; height: auto;">
+<div class="chart-container" style="text-align: center; margin: 20px 0;" markdown="1">
+![Stock 5536 Margin Balance Analysis](margin_daily-5536.svg){: style="max-width: 100%; height: auto;"}
 </div>
 
 ---
 
-## :clipboard: 詳細歷史記錄 (最近30日)
+## 📋 詳細歷史記錄 (最近30日)
 
 <table class="sortable-table">
 <thead>
 <tr>
-<th markdown="span">:calendar: 日期</th>
-<th markdown="span">:money_with_wings: 收盤價(元)</th>
-<th markdown="span">:chart: 漲跌(元)</th>
-<th markdown="span">:chart_with_upwards_trend: 漲跌(%)</th>
-<th markdown="span">:package: 融資餘額(億元)</th>
-<th markdown="span">:package: 融資餘額(張)</th>
-<th markdown="span">:arrow_up_down: 融資增減(張)</th>
-<th markdown="span">:chart: 融券餘額(張)</th>
-<th markdown="span">:balance_scale: 券資比(%)</th>
+<th markdown="span">📅 日期</th>
+<th markdown="span">💸 收盤價(元)</th>
+<th markdown="span">📊 漲跌(元)</th>
+<th markdown="span">📈 漲跌(%)</th>
+<th markdown="span">📦 融資餘額(億元)</th>
+<th markdown="span">📦 融資餘額(張)</th>
+<th markdown="span">↕️ 融資增減(張)</th>
+<th markdown="span">📊 融券餘額(張)</th>
+<th markdown="span">⚖️ 券資比(%)</th>
 </tr>
 </thead>
 <tbody>
@@ -409,7 +409,7 @@ description: 融資餘額報告 聖暉 (5536) - 自動產生
 
 ---
 
-## :information_source: 資料來源與方法
+## ℹ️ 資料來源與方法
 
 !!! note "資料來源說明"
     - **主要來源**: `raw_margin_daily.csv` (Type 13: ShowMarginChart)
@@ -417,7 +417,7 @@ description: 融資餘額報告 聖暉 (5536) - 自動產生
     - **資料範圍**: 近1年交易日資料
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-01-12 13:15:16
+    - **報告產生時間**: 2026-01-12 17:17:27
     - **分析期間**: 242 個交易日
     - **資料來源**: Stage 1 Raw Margin Daily Data
 
