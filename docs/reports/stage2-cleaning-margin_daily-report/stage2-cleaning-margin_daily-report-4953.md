@@ -21,7 +21,7 @@ description: 融資餘額報告 緯軟 (4953) - 自動產生
     **:identification_card: 代號**: 4953
     **:calendar: 分析期間**: 2025-07-18 ~ 2026-01-09 (共 242 個交易日)
     **:clock3: 最新資料**: 2026-01-09
-    **🕒 更新時間**: 2026-01-12 12:08:32 CST
+    **🕒 更新時間**: 2026-01-12 13:14:56 CST
 
 ## :moneybag: 融資餘額現況
 
@@ -62,15 +62,15 @@ description: 融資餘額報告 緯軟 (4953) - 自動產生
 <table class="sortable-table">
 <thead>
 <tr>
-<th>:calendar: 日期</th>
-<th>:money_with_wings: 收盤價(元)</th>
-<th>:chart: 漲跌(元)</th>
-<th>:chart_with_upwards_trend: 漲跌(%)</th>
-<th>:package: 融資餘額(億元)</th>
-<th>:package: 融資餘額(張)</th>
-<th>:arrow_up_down: 融資增減(張)</th>
-<th>:chart: 融券餘額(張)</th>
-<th>:balance_scale: 券資比(%)</th>
+<th markdown="span">:calendar: 日期</th>
+<th markdown="span">:money_with_wings: 收盤價(元)</th>
+<th markdown="span">:chart: 漲跌(元)</th>
+<th markdown="span">:chart_with_upwards_trend: 漲跌(%)</th>
+<th markdown="span">:package: 融資餘額(億元)</th>
+<th markdown="span">:package: 融資餘額(張)</th>
+<th markdown="span">:arrow_up_down: 融資增減(張)</th>
+<th markdown="span">:chart: 融券餘額(張)</th>
+<th markdown="span">:balance_scale: 券資比(%)</th>
 </tr>
 </thead>
 <tbody>
@@ -417,7 +417,7 @@ description: 融資餘額報告 緯軟 (4953) - 自動產生
     - **資料範圍**: 近1年交易日資料
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-01-12 12:08:32
+    - **報告產生時間**: 2026-01-12 13:14:56
     - **分析期間**: 242 個交易日
     - **資料來源**: Stage 1 Raw Margin Daily Data
 
