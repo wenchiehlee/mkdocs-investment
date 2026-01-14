@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 是方 (6561) - 自動產生
     **:building_construction: 公司名稱**: 是方  
     **:identification_card: 股票代號**: 6561  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-13 13:08:32 CST
+    **:clock3: 更新時間**: 2026-01-14 22:41:17 CST
 
 ## :bar_chart: 績效概覽
 
@@ -158,7 +158,7 @@ description: 月營收表 是方 (6561) - 自動產生
 | **2019/08** | **2** | <span style="color: #8B0000; font-weight: bold;">+4.55</span> | <span style="color: #8B0000; font-weight: bold;">+5.95</span> | **250** | <span style="color: #006400; font-weight: bold;">7.69</span> | <span style="color: #8B0000; font-weight: bold;">32.51</span> |
 | **2019/07** | **1.98** | <span style="color: #8B0000; font-weight: bold;">+2.86</span> | <span style="color: #8B0000; font-weight: bold;">+6.15</span> | **225.5** | <span style="color: #006400; font-weight: bold;">7.66</span> | <span style="color: #002818; font-weight: bold;">29.46</span> |
 | **2019/06** | **2.01** | <span style="color: #8B0000; font-weight: bold;">+3.04</span> | <span style="color: #8B0000; font-weight: bold;">+6.72</span> | **202.5** | <span style="color: #006400; font-weight: bold;">7.62</span> | <span style="color: #004225; font-weight: bold;">26.57</span> |
-| **2019/05** | **1.93** | <span style="color: #8B0000; font-weight: bold;">+1.87</span> | <span style="color: #8B0000; font-weight: bold;">+7.49</span> | **201.5** | <span style="color: #006400; font-weight: bold;">7.58</span> | <span style="color: #004225; font-weight: bold;">26.57</span> |
+| **2019/05** | **1.93** | <span style="color: #8B0000; font-weight: bold;">+1.87</span> | <span style="color: #8B0000; font-weight: bold;">+7.49</span> | **201.5** | <span style="color: #006400; font-weight: bold;">7.59</span> | <span style="color: #004225; font-weight: bold;">26.57</span> |
 | **2019/04** | **2.03** | <span style="color: #B22222; font-weight: bold;">+11.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.95</span> | **190** | <span style="color: #006400; font-weight: bold;">7.55</span> | <span style="color: #006400; font-weight: bold;">25.17</span> |
 | **2019/03** | **1.99** | <span style="color: #8B0000; font-weight: bold;">+8.38</span> | <span style="color: #8B0000; font-weight: bold;">+8.03</span> | **172.5** | <span style="color: #006400; font-weight: bold;">7.52</span> | <span style="color: #228B22; font-weight: bold;">22.95</span> |
 | **2019/02** | **1.9** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #8B0000; font-weight: bold;">+7.85</span> | **171.5** | <span style="color: #006400; font-weight: bold;">7.48</span> | <span style="color: #228B22; font-weight: bold;">22.93</span> |
@@ -296,7 +296,7 @@ description: 月營收表 是方 (6561) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-13 13:08:32 CST
+- **產生時間**: 2026-01-14 22:41:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

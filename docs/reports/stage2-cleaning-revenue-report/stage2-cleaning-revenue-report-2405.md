@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 輔信 (2405) - 自動產生
     **:building_construction: 公司名稱**: 輔信  
     **:identification_card: 股票代號**: 2405  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-13 13:08:32 CST
+    **:clock3: 更新時間**: 2026-01-14 22:41:17 CST
 
 ## :bar_chart: 績效概覽
 
@@ -157,7 +157,7 @@ description: 月營收表 輔信 (2405) - 自動產生
 | **2019/09** | **2.94** | <span style="color: #8B0000; font-weight: bold;">+2.22</span> | <span style="color: #006400; font-weight: bold;">-27.8</span> | **11.7** | <span style="color: #8B0000; font-weight: bold;">-0.09</span> | N/A |
 | **2019/08** | **2.93** | <span style="color: #004225; font-weight: bold;">-18.8</span> | <span style="color: #228B22; font-weight: bold;">-30.5</span> | **11.8** | <span style="color: #002818; font-weight: bold;">-0.13</span> | N/A |
 | **2019/07** | **2.66** | <span style="color: #006400; font-weight: bold;">-27.8</span> | <span style="color: #228B22; font-weight: bold;">-32.1</span> | **12.65** | <span style="color: #002818; font-weight: bold;">-0.16</span> | N/A |
-| **2019/06** | **2.05** | <span style="color: #228B22; font-weight: bold;">-34.1</span> | <span style="color: #228B22; font-weight: bold;">-32.7</span> | **11.9** | <span style="color: #002818; font-weight: bold;">-0.2</span> | N/A |
+| **2019/06** | **2.05** | <span style="color: #228B22; font-weight: bold;">-34.1</span> | <span style="color: #228B22; font-weight: bold;">-32.7</span> | **11.9** | <span style="color: #002818; font-weight: bold;">-0.19</span> | N/A |
 | **2019/05** | **2.36** | <span style="color: #90EE90; font-weight: bold;">-60.1</span> | <span style="color: #228B22; font-weight: bold;">-32.5</span> | **12.5** | <span style="color: #002818; font-weight: bold;">-0.23</span> | N/A |
 | **2019/04** | **3.86** | <span style="color: #8B0000; font-weight: bold;">+8.72</span> | <span style="color: #006400; font-weight: bold;">-21.6</span> | **11.95** | <span style="color: #002818; font-weight: bold;">-0.26</span> | N/A |
 | **2019/03** | **3** | <span style="color: #32CD32; font-weight: bold;">-41.7</span> | <span style="color: #228B22; font-weight: bold;">-31</span> | **13.3** | <span style="color: #002818; font-weight: bold;">-0.3</span> | N/A |
@@ -168,7 +168,7 @@ description: 月營收表 輔信 (2405) - 自動產生
 | **2018/10** | **2.72** | <span style="color: #228B22; font-weight: bold;">-33</span> | <span style="color: #002818; font-weight: bold;">-8.3</span> | **10.2** | <span style="color: #002818; font-weight: bold;">-0.41</span> | N/A |
 | **2018/09** | **2.88** | <span style="color: #228B22; font-weight: bold;">-33.3</span> | <span style="color: #002818; font-weight: bold;">-5.54</span> | **14.75** | <span style="color: #002818; font-weight: bold;">-0.42</span> | N/A |
 | **2018/08** | **3.61** | <span style="color: #004225; font-weight: bold;">-12.2</span> | <span style="color: #002818; font-weight: bold;">-1.78</span> | **15.35** | <span style="color: #002818; font-weight: bold;">-0.42</span> | N/A |
-| **2018/07** | **3.68** | <span style="color: #004225; font-weight: bold;">-10.4</span> | <span style="color: #002818; font-weight: bold;">-0.24</span> | **14.5** | <span style="color: #002818; font-weight: bold;">-0.43</span> | N/A |
+| **2018/07** | **3.68** | <span style="color: #004225; font-weight: bold;">-10.4</span> | <span style="color: #002818; font-weight: bold;">-0.24</span> | **14.5** | <span style="color: #002818; font-weight: bold;">-0.42</span> | N/A |
 | **2018/06** | **3.1** | <span style="color: #32CD32; font-weight: bold;">-49.5</span> | <span style="color: #8B0000; font-weight: bold;">+1.52</span> | **16.75** | <span style="color: #002818; font-weight: bold;">-0.43</span> | N/A |
 | **2018/05** | **5.92** | <span style="color: #8B0000; font-weight: bold;">+6.99</span> | <span style="color: #B22222; font-weight: bold;">+19.4</span> | **17.5** | <span style="color: #002818; font-weight: bold;">-0.44</span> | N/A |
 | **2018/04** | **3.55** | <span style="color: #FF7F7F; font-weight: bold;">+54.4</span> | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | **15.9** | <span style="color: #002818; font-weight: bold;">-0.44</span> | N/A |
@@ -414,7 +414,7 @@ description: 月營收表 輔信 (2405) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-13 13:08:32 CST
+- **產生時間**: 2026-01-14 22:41:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

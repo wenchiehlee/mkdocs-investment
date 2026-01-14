@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 仁寶 (2324) - 自動產生
     **:building_construction: 公司名稱**: 仁寶  
     **:identification_card: 股票代號**: 2324  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-13 13:08:32 CST
+    **:clock3: 更新時間**: 2026-01-14 22:41:17 CST
 
 ## :bar_chart: 績效概覽
 
@@ -153,7 +153,7 @@ description: 月營收表 仁寶 (2324) - 自動產生
 | **2020/01** | **617.7** | <span style="color: #004225; font-weight: bold;">-11.9</span> | <span style="color: #004225; font-weight: bold;">-11.9</span> | **18.35** | <span style="color: #006400; font-weight: bold;">1.65</span> | <span style="color: #002818; font-weight: bold;">11.15</span> |
 | **2019/12** | **821.4** | <span style="color: #002818; font-weight: bold;">-4.16</span> | <span style="color: #8B0000; font-weight: bold;">+1.32</span> | **18.85** | <span style="color: #006400; font-weight: bold;">1.6</span> | <span style="color: #002818; font-weight: bold;">11.78</span> |
 | **2019/11** | **864.6** | <span style="color: #002818; font-weight: bold;">-9.41</span> | <span style="color: #8B0000; font-weight: bold;">+1.85</span> | **18.8** | <span style="color: #006400; font-weight: bold;">1.64</span> | <span style="color: #002818; font-weight: bold;">11.48</span> |
-| **2019/10** | **989.2** | <span style="color: #002818; font-weight: bold;">-0.23</span> | <span style="color: #8B0000; font-weight: bold;">+3.21</span> | **18.2** | <span style="color: #004225; font-weight: bold;">1.68</span> | <span style="color: #004225; font-weight: bold;">10.87</span> |
+| **2019/10** | **989.2** | <span style="color: #002818; font-weight: bold;">-0.23</span> | <span style="color: #8B0000; font-weight: bold;">+3.21</span> | **18.2** | <span style="color: #004225; font-weight: bold;">1.67</span> | <span style="color: #004225; font-weight: bold;">10.87</span> |
 | **2019/09** | **968.1** | <span style="color: #8B0000; font-weight: bold;">+7.57</span> | <span style="color: #8B0000; font-weight: bold;">+3.71</span> | **17.9** | <span style="color: #004225; font-weight: bold;">1.71</span> | <span style="color: #004225; font-weight: bold;">10.45</span> |
 | **2019/08** | **746.1** | <span style="color: #002818; font-weight: bold;">-10</span> | <span style="color: #8B0000; font-weight: bold;">+3.13</span> | **17.95** | <span style="color: #004225; font-weight: bold;">1.75</span> | <span style="color: #004225; font-weight: bold;">10.26</span> |
 | **2019/07** | **785.1** | <span style="color: #002818; font-weight: bold;">-2.43</span> | <span style="color: #8B0000; font-weight: bold;">+5.26</span> | **19.1** | <span style="color: #004225; font-weight: bold;">1.79</span> | <span style="color: #004225; font-weight: bold;">10.69</span> |
@@ -402,7 +402,7 @@ description: 月營收表 仁寶 (2324) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-13 13:08:32 CST
+- **產生時間**: 2026-01-14 22:41:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

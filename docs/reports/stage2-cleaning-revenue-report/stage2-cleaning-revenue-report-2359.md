@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 所羅門 (2359) - 自動產生
     **:building_construction: 公司名稱**: 所羅門  
     **:identification_card: 股票代號**: 2359  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-13 13:08:32 CST
+    **:clock3: 更新時間**: 2026-01-14 22:41:17 CST
 
 ## :bar_chart: 績效概覽
 
@@ -153,7 +153,7 @@ description: 月營收表 所羅門 (2359) - 自動產生
 | **2020/01** | **2.32** | <span style="color: #006400; font-weight: bold;">-26.9</span> | <span style="color: #006400; font-weight: bold;">-26.9</span> | **20.5** | <span style="color: #8B0000; font-weight: bold;">1.72</span> | <span style="color: #006400; font-weight: bold;">11.95</span> |
 | **2019/12** | **3.71** | <span style="color: #DC143C; font-weight: bold;">+27.6</span> | <span style="color: #002818; font-weight: bold;">-5.39</span> | **22.1** | <span style="color: #8B0000; font-weight: bold;">1.86</span> | <span style="color: #006400; font-weight: bold;">11.88</span> |
 | **2019/11** | **2.18** | <span style="color: #006400; font-weight: bold;">-27.2</span> | <span style="color: #002818; font-weight: bold;">-8.01</span> | **20.8** | <span style="color: #8B0000; font-weight: bold;">1.84</span> | <span style="color: #006400; font-weight: bold;">11.29</span> |
-| **2019/10** | **2.87** | <span style="color: #002818; font-weight: bold;">-2.23</span> | <span style="color: #002818; font-weight: bold;">-6.3</span> | **20.45** | <span style="color: #8B0000; font-weight: bold;">1.83</span> | <span style="color: #006400; font-weight: bold;">11.21</span> |
+| **2019/10** | **2.87** | <span style="color: #002818; font-weight: bold;">-2.23</span> | <span style="color: #002818; font-weight: bold;">-6.3</span> | **20.45** | <span style="color: #8B0000; font-weight: bold;">1.82</span> | <span style="color: #006400; font-weight: bold;">11.21</span> |
 | **2019/09** | **3.03** | <span style="color: #8B0000; font-weight: bold;">+0.79</span> | <span style="color: #002818; font-weight: bold;">-6.69</span> | **21.4** | <span style="color: #8B0000; font-weight: bold;">1.81</span> | <span style="color: #006400; font-weight: bold;">11.84</span> |
 | **2019/08** | **4.13** | <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #002818; font-weight: bold;">-7.5</span> | **21.35** | <span style="color: #8B0000; font-weight: bold;">1.79</span> | <span style="color: #006400; font-weight: bold;">11.93</span> |
 | **2019/07** | **3.51** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #004225; font-weight: bold;">-10.9</span> | **20.1** | <span style="color: #8B0000; font-weight: bold;">1.77</span> | <span style="color: #006400; font-weight: bold;">11.34</span> |
@@ -414,7 +414,7 @@ description: 月營收表 所羅門 (2359) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-13 13:08:32 CST
+- **產生時間**: 2026-01-14 22:41:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 光焱科技 (7728) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 光焱科技  
     **:identification_card: 股票代號**: 7728  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-13 13:08:32 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-14 22:41:17 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+36.4</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **25** 個月 | 2023/11 至 2025/11 |
+| <span style="color: #FF7F7F; font-weight: bold;">+54.4</span> | <span style="color: #002818; font-weight: bold;">-6.15</span> | **26** 個月 | 2023/11 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 光焱科技 (7728) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** |
 |:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 33<br/><span style="color: #B22222;">(+18.20%)</span> | 28<br/><span style="color: #002818;">(-3.95%)</span> |
+| **12月** | 51<br/><span style="color: #FF7F7F;">(+54.40%)</span> | 33<br/><span style="color: #B22222;">(+18.20%)</span> | 28<br/><span style="color: #002818;">(-3.95%)</span> |
 | **11月** | 47<br/><span style="color: #FF4500;">(+36.40%)</span> | 35<br/><span style="color: #DC143C;">(+22.30%)</span> | 28<br/><span style="color: #002818;">(-1.14%)</span> |
 | **10月** | 30<br/><span style="color: #B22222;">(+17.00%)</span> | 25<br/><span style="color: #DC143C;">(+28.00%)</span> | -- |
 | **9月** | 30<br/><span style="color: #004225;">(-11.00%)</span> | 34<br/><span style="color: #B22222;">(+15.50%)</span> | -- |
@@ -79,6 +79,7 @@ description: 月營收表 光焱科技 (7728) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **0.517** | <span style="color: #FF7F7F; font-weight: bold;">+54.4</span> | <span style="color: #002818; font-weight: bold;">-6.15</span> | **552** | <span style="color: #000000; font-weight: bold;">3.34</span> | <span style="color: #FF4500; font-weight: bold;">165.3</span> |
 | **2025/11** | **0.477** | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **334.5** | <span style="color: #000000; font-weight: bold;">3.34</span> | <span style="color: #8B0000; font-weight: bold;">100.2</span> |
 | **2025/10** | **0.301** | <span style="color: #B22222; font-weight: bold;">+17</span> | <span style="color: #004225; font-weight: bold;">-17.4</span> | **313.5** | <span style="color: #000000; font-weight: bold;">3.34</span> | <span style="color: #002818; font-weight: bold;">93.86</span> |
 | **2025/09** | **0.304** | <span style="color: #004225; font-weight: bold;">-11</span> | <span style="color: #006400; font-weight: bold;">-20.5</span> | **317** | <span style="color: #000000; font-weight: bold;">3.34</span> | <span style="color: #002818; font-weight: bold;">94.91</span> |
@@ -199,7 +200,7 @@ description: 月營收表 光焱科技 (7728) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-13 13:08:32 CST
+- **產生時間**: 2026-01-14 22:41:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 友訊 (2332) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 友訊  
     **:identification_card: 股票代號**: 2332  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-13 13:08:32 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-14 22:41:17 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-5.86</span> | <span style="color: #002818; font-weight: bold;">-8.11</span> | **239** 個月 | 2006/01 至 2025/11 |
+| <span style="color: #8B0000; font-weight: bold;">+4.1</span> | <span style="color: #002818; font-weight: bold;">-7.13</span> | **240** 個月 | 2006/01 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 1,153<br/><span style="color: #8B0000;">(+2.48%)</span> | 1,125<br/><span style="color: #004225;">(-14.30%)</span> | 1,313<br/><span style="color: #002818;">(-9.05%)</span> | 1,444<br/><span style="color: #8B0000;">(+6.57%)</span> |
+| **12月** | 1,200<br/><span style="color: #8B0000;">(+4.10%)</span> | 1,153<br/><span style="color: #8B0000;">(+2.49%)</span> | 1,125<br/><span style="color: #004225;">(-14.30%)</span> | 1,313<br/><span style="color: #002818;">(-9.05%)</span> | 1,444<br/><span style="color: #8B0000;">(+6.57%)</span> |
 | **11月** | 1,094<br/><span style="color: #002818;">(-5.86%)</span> | 1,162<br/><span style="color: #004225;">(-10.20%)</span> | 1,294<br/><span style="color: #004225;">(-16.30%)</span> | 1,547<br/><span style="color: #8B0000;">(+6.53%)</span> | 1,452<br/><span style="color: #8B0000;">(+4.06%)</span> |
 | **10月** | 1,143<br/><span style="color: #8B0000;">(+2.35%)</span> | 1,116<br/><span style="color: #004225;">(-13.50%)</span> | 1,290<br/><span style="color: #004225;">(-17.30%)</span> | 1,561<br/><span style="color: #B22222;">(+11.10%)</span> | 1,405<br/><span style="color: #000000;">(+0.00%)</span> |
 | **9月** | 1,223<br/><span style="color: #002818;">(-2.78%)</span> | 1,258<br/><span style="color: #002818;">(-4.10%)</span> | 1,312<br/><span style="color: #004225;">(-19.70%)</span> | 1,632<br/><span style="color: #8B0000;">(+9.79%)</span> | 1,487<br/><span style="color: #8B0000;">(+0.58%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **12** | <span style="color: #8B0000; font-weight: bold;">+4.1</span> | <span style="color: #002818; font-weight: bold;">-7.13</span> | **15.05** | <span style="color: #006400; font-weight: bold;">-0.66</span> | N/A |
 | **2025/11** | **10.94** | <span style="color: #002818; font-weight: bold;">-5.86</span> | <span style="color: #002818; font-weight: bold;">-8.11</span> | **15.9** | <span style="color: #004225; font-weight: bold;">-0.6</span> | N/A |
 | **2025/10** | **11.43** | <span style="color: #8B0000; font-weight: bold;">+2.35</span> | <span style="color: #002818; font-weight: bold;">-8.32</span> | **16.7** | <span style="color: #004225; font-weight: bold;">-0.54</span> | N/A |
 | **2025/09** | **12.23** | <span style="color: #002818; font-weight: bold;">-2.78</span> | <span style="color: #002818; font-weight: bold;">-9.41</span> | **17.45** | <span style="color: #004225; font-weight: bold;">-0.48</span> | N/A |
@@ -90,7 +91,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 | **2025/03** | **11.55** | <span style="color: #004225; font-weight: bold;">-10.6</span> | <span style="color: #002818; font-weight: bold;">-6.36</span> | **17.95** | <span style="color: #004225; font-weight: bold;">-0.12</span> | N/A |
 | **2025/02** | **11.28** | <span style="color: #8B0000; font-weight: bold;">+0.44</span> | <span style="color: #002818; font-weight: bold;">-3.98</span> | **21.05** | <span style="color: #004225; font-weight: bold;">-0.06</span> | N/A |
 | **2025/01** | **10.54** | <span style="color: #002818; font-weight: bold;">-8.3</span> | <span style="color: #002818; font-weight: bold;">-8.3</span> | **23.35** | <span style="color: #004225; font-weight: bold;">0.0</span> | N/A |
-| **2024/12** | **11.53** | <span style="color: #8B0000; font-weight: bold;">+2.48</span> | <span style="color: #002818; font-weight: bold;">-9.7</span> | **25.45** | <span style="color: #004225; font-weight: bold;">0.06</span> | <span style="color: #8B0000; font-weight: bold;">424.2</span> |
+| **2024/12** | **11.53** | <span style="color: #8B0000; font-weight: bold;">+2.49</span> | <span style="color: #002818; font-weight: bold;">-9.7</span> | **25.45** | <span style="color: #004225; font-weight: bold;">0.06</span> | <span style="color: #8B0000; font-weight: bold;">424.2</span> |
 | **2024/11** | **11.62** | <span style="color: #004225; font-weight: bold;">-10.2</span> | <span style="color: #004225; font-weight: bold;">-10.6</span> | **21.75** | <span style="color: #002818; font-weight: bold;">0.13</span> | <span style="color: #8B0000; font-weight: bold;">162.1</span> |
 | **2024/10** | **11.16** | <span style="color: #004225; font-weight: bold;">-13.5</span> | <span style="color: #004225; font-weight: bold;">-10.7</span> | **19.1** | <span style="color: #002818; font-weight: bold;">0.21</span> | <span style="color: #8B0000; font-weight: bold;">91.68</span> |
 | **2024/09** | **12.58** | <span style="color: #002818; font-weight: bold;">-4.1</span> | <span style="color: #004225; font-weight: bold;">-10.4</span> | **19.35** | <span style="color: #002818; font-weight: bold;">0.28</span> | <span style="color: #8B0000; font-weight: bold;">68.5</span> |
@@ -413,7 +414,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-13 13:08:32 CST
+- **產生時間**: 2026-01-14 22:41:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

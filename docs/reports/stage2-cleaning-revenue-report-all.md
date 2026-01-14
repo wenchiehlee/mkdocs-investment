@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -23,7 +23,7 @@ description: 完整營收報告總覽 - 所有 126 檔股票 - 自動產生
 # :bar_chart: 完整營收報告總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-01-13 13:08:32 CST  
+    **:calendar: 產生時間**: 2026-01-14 22:41:17 CST  
     **:building_construction: 處理股票總數**: 126  
     **:chart_with_upwards_trend: 報告類型**: 各股完整歷史資料
 
@@ -35,13 +35,13 @@ description: 完整營收報告總覽 - 所有 126 檔股票 - 自動產生
 
     ---
 
-    **83** 檔 (65.9%)
+    **84** 檔 (66.7%)
 
 - :chart_with_downwards_trend: **負成長股票**
 
     ---
 
-    **43** 檔 (34.1%)
+    **42** 檔 (33.3%)
 
 - :page_with_curl: **總處理股票**
 
@@ -68,11 +68,11 @@ description: 完整營收報告總覽 - 所有 126 檔股票 - 自動產生
 |:-----------------------------:|:-------------------------------:|:------------------------:|:------------------:|:-----------------:|:--------------:|
 | [**2301**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2301/) | 光寶科 | **228** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+11.4</span> | 2007/01 ~ 2025/12 |
 | [**2303**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2303/) | 聯電 | **240** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+1.66</span> | 2006/01 ~ 2025/12 |
-| [**2308**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2308/) | 台達電 | **239** | 2025/11 | <span style="color: #FF4500; font-weight: bold;">+37.9</span> | 2006/01 ~ 2025/11 |
+| [**2308**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2308/) | 台達電 | **240** | 2025/12 | <span style="color: #FF4500; font-weight: bold;">+38.6</span> | 2006/01 ~ 2025/12 |
 | [**2317**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2317/) | 鴻海 | **228** | 2025/12 | <span style="color: #FF4500; font-weight: bold;">+31.8</span> | 2007/01 ~ 2025/12 |
 | [**2324**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2324/) | 仁寶 | **228** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+2.97</span> | 2007/01 ~ 2025/12 |
 | [**2330**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2330/) | 台積電 | **240** | 2025/12 | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | 2006/01 ~ 2025/12 |
-| [**2332**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2332/) | 友訊 | **239** | 2025/11 | <span style="color: #002818; font-weight: bold;">-5.86</span> | 2006/01 ~ 2025/11 |
+| [**2332**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2332/) | 友訊 | **240** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+4.1</span> | 2006/01 ~ 2025/12 |
 | [**2345**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2345/) | 智邦 | **240** | 2025/12 | <span style="color: #FF7F7F; font-weight: bold;">+67.6</span> | 2006/01 ~ 2025/12 |
 | [**2347**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2347/) | 聯強 | **240** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+13.8</span> | 2006/01 ~ 2025/12 |
 | [**2353**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2353/) | 宏碁 | **240** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+16.4</span> | 2006/01 ~ 2025/12 |
@@ -89,7 +89,7 @@ description: 完整營收報告總覽 - 所有 126 檔股票 - 自動產生
 | [**2395**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2395/) | 研華 | **240** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+11.4</span> | 2006/01 ~ 2025/12 |
 | [**2405**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2405/) | 輔信 | **240** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+10.6</span> | 2006/01 ~ 2025/12 |
 | [**2408**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2408/) | 南亞科 | **240** | 2025/12 | <span style="color: #FF7F7F; font-weight: bold;">+444.9</span> | 2006/01 ~ 2025/12 |
-| [**2412**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2412/) | 中華電 | **239** | 2025/11 | <span style="color: #8B0000; font-weight: bold;">+6.06</span> | 2006/01 ~ 2025/11 |
+| [**2412**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2412/) | 中華電 | **240** | 2025/12 | <span style="color: #002818; font-weight: bold;">-6.75</span> | 2006/01 ~ 2025/12 |
 | [**2449**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2449/) | 京元電子 | **240** | 2025/12 | <span style="color: #FF4500; font-weight: bold;">+33</span> | 2006/01 ~ 2025/12 |
 | [**2450**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2450/) | 神腦 | **240** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+17.1</span> | 2006/01 ~ 2025/12 |
 | [**2451**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2451/) | 創見 | **240** | 2025/12 | <span style="color: #FF7F7F; font-weight: bold;">+242</span> | 2006/01 ~ 2025/12 |
@@ -98,29 +98,29 @@ description: 完整營收報告總覽 - 所有 126 檔股票 - 自動產生
 | [**2474**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2474/) | 可成 | **240** | 2025/12 | <span style="color: #006400; font-weight: bold;">-25.9</span> | 2006/01 ~ 2025/12 |
 | [**2480**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2480/) | 敦陽科 | **240** | 2025/12 | <span style="color: #002818; font-weight: bold;">-3.15</span> | 2006/01 ~ 2025/12 |
 | [**2603**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2603/) | 長榮 | **228** | 2025/12 | <span style="color: #004225; font-weight: bold;">-19.6</span> | 2007/01 ~ 2025/12 |
-| [**2646**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2646/) | 星宇航空 | **41** | 2025/11 | <span style="color: #B22222; font-weight: bold;">+18.1</span> | 2022/07 ~ 2025/11 |
-| [**2881**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2881/) | 富邦金 | **239** | 2025/11 | <span style="color: #FF7F7F; font-weight: bold;">+53.5</span> | 2006/01 ~ 2025/11 |
-| [**2882**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2882/) | 國泰金 | **239** | 2025/11 | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | 2006/01 ~ 2025/11 |
+| [**2646**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2646/) | 星宇航空 | **42** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+16.9</span> | 2022/07 ~ 2025/12 |
+| [**2881**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2881/) | 富邦金 | **240** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | 2006/01 ~ 2025/12 |
+| [**2882**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2882/) | 國泰金 | **240** | 2025/12 | <span style="color: #002818; font-weight: bold;">-6.38</span> | 2006/01 ~ 2025/12 |
 | [**2884**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2884/) | 玉山金 | **240** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+15</span> | 2006/01 ~ 2025/12 |
-| [**2891**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2891/) | 中信金 | **239** | 2025/11 | <span style="color: #FF6347; font-weight: bold;">+45.8</span> | 2006/01 ~ 2025/11 |
+| [**2891**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2891/) | 中信金 | **240** | 2025/12 | <span style="color: #FF6347; font-weight: bold;">+44.1</span> | 2006/01 ~ 2025/12 |
 | [**3014**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3014/) | 聯陽 | **240** | 2025/12 | <span style="color: #002818; font-weight: bold;">-0.85</span> | 2006/01 ~ 2025/12 |
 | [**3022**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3022/) | 威強電 | **240** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+16.8</span> | 2006/01 ~ 2025/12 |
 | [**3026**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3026/) | 禾伸堂 | **238** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+11.3</span> | 2006/01 ~ 2025/12 |
 | [**3029**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3029/) | 零壹 | **240** | 2025/12 | <span style="color: #002818; font-weight: bold;">-2.34</span> | 2006/01 ~ 2025/12 |
 | [**3034**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3034/) | 聯詠 | **240** | 2025/12 | <span style="color: #004225; font-weight: bold;">-14.2</span> | 2006/01 ~ 2025/12 |
 | [**3035**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3035/) | 智原 | **240** | 2025/12 | <span style="color: #004225; font-weight: bold;">-13.1</span> | 2006/01 ~ 2025/12 |
-| [**3045**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3045/) | 台灣大 | **239** | 2025/11 | <span style="color: #8B0000; font-weight: bold;">+0.2</span> | 2006/01 ~ 2025/11 |
+| [**3045**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3045/) | 台灣大 | **240** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+5.2</span> | 2006/01 ~ 2025/12 |
 | [**3048**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3048/) | 益登 | **240** | 2025/12 | <span style="color: #002818; font-weight: bold;">-3.95</span> | 2006/01 ~ 2025/12 |
 | [**3150**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3150/) | 鈺寶-創 | **185** | 2025/12 | <span style="color: #006400; font-weight: bold;">-23.9</span> | 2010/08 ~ 2025/12 |
 | [**3158**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3158/) | 嘉實 | **238** | 2025/12 | <span style="color: #004225; font-weight: bold;">-10.2</span> | 2006/01 ~ 2025/12 |
 | [**3231**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3231/) | 緯創 | **240** | 2025/12 | <span style="color: #FF7F7F; font-weight: bold;">+141.6</span> | 2006/01 ~ 2025/12 |
 | [**3260**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3260/) | 威剛 | **240** | 2025/12 | <span style="color: #FF7F7F; font-weight: bold;">+101.2</span> | 2006/01 ~ 2025/12 |
 | [**3293**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3293/) | 鈊象 | **240** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+14.1</span> | 2006/01 ~ 2025/12 |
-| [**3356**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3356/) | 奇偶 | **239** | 2025/11 | <span style="color: #004225; font-weight: bold;">-19</span> | 2006/01 ~ 2025/11 |
+| [**3356**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3356/) | 奇偶 | **240** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+1.02</span> | 2006/01 ~ 2025/12 |
 | [**3467**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3467/) | 台灣精材 | **29** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+4.15</span> | 2023/08 ~ 2025/12 |
 | [**3558**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3558/) | 神準 | **225** | 2025/12 | <span style="color: #002818; font-weight: bold;">-1.13</span> | 2007/04 ~ 2025/12 |
 | [**3653**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3653/) | 健策 | **202** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+13.3</span> | 2008/10 ~ 2025/12 |
-| [**3661**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3661/) | 世芯-KY | **180** | 2025/11 | <span style="color: #90EE90; font-weight: bold;">-61.4</span> | 2010/12 ~ 2025/11 |
+| [**3661**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3661/) | 世芯-KY | **181** | 2025/12 | <span style="color: #90EE90; font-weight: bold;">-69.3</span> | 2010/12 ~ 2025/12 |
 | [**3665**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3665/) | 貿聯-KY | **178** | 2025/12 | <span style="color: #FF6347; font-weight: bold;">+43</span> | 2011/03 ~ 2025/12 |
 | [**3711**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3711/) | 日月光投控 | **93** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+11.3</span> | 2018/04 ~ 2025/12 |
 | [**4114**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-4114/) | 健喬 | **240** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+4.33</span> | 2006/01 ~ 2025/12 |
@@ -128,13 +128,13 @@ description: 完整營收報告總覽 - 所有 126 檔股票 - 自動產生
 | [**4938**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-4938/) | 和碩 | **190** | 2025/12 | <span style="color: #002818; font-weight: bold;">-2.49</span> | 2010/03 ~ 2025/12 |
 | [**4953**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-4953/) | 緯軟 | **187** | 2025/12 | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | 2010/06 ~ 2025/12 |
 | [**5203**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-5203/) | 訊連 | **240** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+17.6</span> | 2006/01 ~ 2025/12 |
-| [**5269**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-5269/) | 祥碩 | **169** | 2025/12 | <span style="color: #FF7F7F; font-weight: bold;">+79.7</span> | 2011/12 ~ 2025/12 |
+| [**5269**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-5269/) | 祥碩 | **40** | 2025/12 | <span style="color: #FF7F7F; font-weight: bold;">+79.7</span> | 2022/09 ~ 2025/12 |
 | [**5274**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-5274/) | 信驊 | **168** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+18.4</span> | 2012/01 ~ 2025/12 |
 | [**5434**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-5434/) | 崇越 | **240** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+18.9</span> | 2006/01 ~ 2025/12 |
 | [**5536**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-5536/) | 聖暉 | **196** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+10.1</span> | 2009/09 ~ 2025/12 |
 | [**5904**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-5904/) | 寶雅 | **240** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+2.5</span> | 2006/01 ~ 2025/12 |
 | [**6035**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6035/) | 悠遊卡 | **43** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+17.4</span> | 2022/06 ~ 2025/12 |
-| [**6123**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6123/) | 上奇 | **239** | 2025/11 | <span style="color: #004225; font-weight: bold;">-18.7</span> | 2006/01 ~ 2025/11 |
+| [**6123**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6123/) | 上奇 | **240** | 2025/12 | <span style="color: #002818; font-weight: bold;">-8.25</span> | 2006/01 ~ 2025/12 |
 | [**6125**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6125/) | 廣運 | **240** | 2025/12 | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | 2006/01 ~ 2025/12 |
 | [**6182**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6182/) | 合晶 | **240** | 2025/12 | <span style="color: #DC143C; font-weight: bold;">+22.1</span> | 2006/01 ~ 2025/12 |
 | [**6214**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6214/) | 精誠 | **240** | 2025/12 | <span style="color: #DC143C; font-weight: bold;">+23.9</span> | 2006/01 ~ 2025/12 |
@@ -154,7 +154,7 @@ description: 完整營收報告總覽 - 所有 126 檔股票 - 自動產生
 | [**6695**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6695/) | 芯鼎 | **90** | 2025/12 | <span style="color: #006400; font-weight: bold;">-22.1</span> | 2018/07 ~ 2025/12 |
 | [**6720**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6720/) | 久昌 | **86** | 2025/12 | <span style="color: #006400; font-weight: bold;">-24.6</span> | 2018/11 ~ 2025/12 |
 | [**6751**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6751/) | 智聯服務 | **77** | 2025/12 | <span style="color: #228B22; font-weight: bold;">-33.8</span> | 2019/08 ~ 2025/12 |
-| [**6757**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6757/) | 台灣虎航 | **75** | 2025/11 | <span style="color: #8B0000; font-weight: bold;">+6.38</span> | 2019/09 ~ 2025/11 |
+| [**6757**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6757/) | 台灣虎航 | **76** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+14.3</span> | 2019/09 ~ 2025/12 |
 | [**6763**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6763/) | 綠界科技 | **76** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+13.8</span> | 2019/09 ~ 2025/12 |
 | [**6811**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6811/) | 宏碁資訊 | **63** | 2025/12 | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | 2020/10 ~ 2025/12 |
 | [**6850**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6850/) | 光鼎生技 | **53** | 2025/12 | <span style="color: #FF7F7F; font-weight: bold;">+103.3</span> | 2021/08 ~ 2025/12 |
@@ -163,7 +163,7 @@ description: 完整營收報告總覽 - 所有 126 檔股票 - 自動產生
 | [**6925**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6925/) | 意藍 | **39** | 2025/12 | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | 2022/10 ~ 2025/12 |
 | [**6962**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6962/) | 奕力-KY | **16** | 2025/12 | <span style="color: #002818; font-weight: bold;">-1.44</span> | 2024/09 ~ 2025/12 |
 | [**6996**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6996/) | 力領科技 | **29** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+13.7</span> | 2023/08 ~ 2025/12 |
-| [**6997**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6997/) | 博弘 | **28** | 2025/11 | <span style="color: #FF4500; font-weight: bold;">+30.7</span> | 2023/08 ~ 2025/11 |
+| [**6997**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6997/) | 博弘 | **29** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+18.1</span> | 2023/08 ~ 2025/12 |
 | [**7547**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7547/) | 碩網 | **67** | 2025/12 | <span style="color: #228B22; font-weight: bold;">-33.8</span> | 2020/06 ~ 2025/12 |
 | [**7703**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7703/) | 銳澤 | **28** | 2025/12 | <span style="color: #002818; font-weight: bold;">-3.31</span> | 2023/09 ~ 2025/12 |
 | [**7704**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7704/) | 明遠精密 | **28** | 2025/12 | <span style="color: #FF4500; font-weight: bold;">+30.3</span> | 2023/09 ~ 2025/12 |
@@ -172,13 +172,13 @@ description: 完整營收報告總覽 - 所有 126 檔股票 - 自動產生
 | [**7709**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7709/) | 榮田 | **28** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+11.9</span> | 2023/09 ~ 2025/12 |
 | [**7712**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7712/) | 博盛半導體 | **26** | 2025/12 | <span style="color: #002818; font-weight: bold;">-8.2</span> | 2023/11 ~ 2025/12 |
 | [**7713**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7713/) | 威力德生醫 | **27** | 2025/12 | <span style="color: #DC143C; font-weight: bold;">+21</span> | 2023/10 ~ 2025/12 |
-| [**7722**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7722/) | LINEPAY | **25** | 2025/11 | <span style="color: #DC143C; font-weight: bold;">+27.8</span> | 2023/11 ~ 2025/11 |
-| [**7728**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7728/) | 光焱科技 | **25** | 2025/11 | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | 2023/11 ~ 2025/11 |
-| [**7732**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7732/) | 金興精密 | **24** | 2025/11 | <span style="color: #002818; font-weight: bold;">-6.91</span> | 2023/12 ~ 2025/11 |
-| [**7734**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7734/) | 印能科技 | **24** | 2025/11 | <span style="color: #8B0000; font-weight: bold;">+6.3</span> | 2023/12 ~ 2025/11 |
+| [**7722**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7722/) | LINEPAY | **26** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+16.3</span> | 2023/11 ~ 2025/12 |
+| [**7728**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7728/) | 光焱科技 | **26** | 2025/12 | <span style="color: #FF7F7F; font-weight: bold;">+54.4</span> | 2023/11 ~ 2025/12 |
+| [**7732**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7732/) | 金興精密 | **25** | 2025/12 | <span style="color: #006400; font-weight: bold;">-26.8</span> | 2023/12 ~ 2025/12 |
+| [**7734**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7734/) | 印能科技 | **25** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+2.46</span> | 2023/12 ~ 2025/12 |
 | [**7736**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7736/) | 虎山 | **24** | 2025/12 | <span style="color: #004225; font-weight: bold;">-10.2</span> | 2024/01 ~ 2025/12 |
 | [**7737**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7737/) | 凱鈿 | **12** | 2025/12 | <span style="color: #006400; font-weight: bold;">-29.4</span> | 2025/01 ~ 2025/12 |
-| [**7747**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7747/) | 昕奇雲端 | **19** | 2025/11 | <span style="color: #002818; font-weight: bold;">-8.6</span> | 2024/05 ~ 2025/11 |
+| [**7747**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7747/) | 昕奇雲端 | **20** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+6.81</span> | 2024/05 ~ 2025/12 |
 | [**7749**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7749/) | 意騰-KY | **9** | 2025/12 | <span style="color: #B22222; font-weight: bold;">+17.2</span> | 2025/04 ~ 2025/12 |
 | [**7765**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7765/) | 中華資安 | **18** | 2025/12 | <span style="color: #006400; font-weight: bold;">-28.2</span> | 2024/07 ~ 2025/12 |
 | [**7769**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-7769/) | 鴻勁 | **18** | 2025/12 | <span style="color: #FF7F7F; font-weight: bold;">+74.5</span> | 2024/07 ~ 2025/12 |
@@ -188,10 +188,10 @@ description: 完整營收報告總覽 - 所有 126 檔股票 - 自動產生
 | [**8045**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-8045/) | 達運光電 | **237** | 2025/12 | <span style="color: #002818; font-weight: bold;">-3.07</span> | 2006/01 ~ 2025/12 |
 | [**8272**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-8272/) | 全景軟體 | **57** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+5.98</span> | 2006/01 ~ 2025/12 |
 | [**8299**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-8299/) | 群聯 | **240** | 2025/12 | <span style="color: #FF7F7F; font-weight: bold;">+92.7</span> | 2006/01 ~ 2025/12 |
-| [**8454**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-8454/) | 富邦媒 | **144** | 2025/11 | <span style="color: #002818; font-weight: bold;">-5.73</span> | 2013/12 ~ 2025/11 |
+| [**8454**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-8454/) | 富邦媒 | **145** | 2025/12 | <span style="color: #002818; font-weight: bold;">-5.65</span> | 2013/12 ~ 2025/12 |
 | [**9914**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-9914/) | 美利達 | **240** | 2025/12 | <span style="color: #004225; font-weight: bold;">-11.2</span> | 2006/01 ~ 2025/12 |
 | [**9917**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-9917/) | 中保科 | **240** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+0.09</span> | 2006/01 ~ 2025/12 |
-| [**9921**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-9921/) | 巨大 | **239** | 2025/11 | <span style="color: #002818; font-weight: bold;">-9.69</span> | 2006/01 ~ 2025/11 |
+| [**9921**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-9921/) | 巨大 | **240** | 2025/12 | <span style="color: #004225; font-weight: bold;">-12.5</span> | 2006/01 ~ 2025/12 |
 
 </div>
 
@@ -246,13 +246,13 @@ description: 完整營收報告總覽 - 所有 126 檔股票 - 自動產生
 ## :material-chart-timeline-variant: 趨勢分析
 
 !!! success "正向指標"
-    - **65.9%** 的股票呈現正成長
-    - 共有 **83** 檔股票營收增長
+    - **66.7%** 的股票呈現正成長
+    - 共有 **84** 檔股票營收增長
     - 反映整體市場樂觀氣氛
 
 !!! note "市場概況"
-    - **34.1%** 的股票出現負成長
-    - 共有 **43** 檔股票營收下滑
+    - **33.3%** 的股票出現負成長
+    - 共有 **42** 檔股票營收下滑
     - 建議關注產業別和個股基本面
 
 ---
@@ -261,7 +261,7 @@ description: 完整營收報告總覽 - 所有 126 檔股票 - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-**產生時間**: 2026-01-13 13:08:32 CST  
+**產生時間**: 2026-01-14 22:41:17 CST  
 **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)  
 **報告版本**: Material for MkDocs 增強版 with EPS/P-E Integration (Asymmetric Statistics)  
 **處理模式**: 完整資料模式

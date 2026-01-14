@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 英業達 (2356) - 自動產生
     **:building_construction: 公司名稱**: 英業達  
     **:identification_card: 股票代號**: 2356  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-13 13:08:32 CST
+    **:clock3: 更新時間**: 2026-01-14 22:41:17 CST
 
 ## :bar_chart: 績效概覽
 
@@ -133,7 +133,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2021/09** | **508.8** | <span style="color: #002818; font-weight: bold;">-2.05</span> | <span style="color: #002818; font-weight: bold;">-2.89</span> | **25.8** | <span style="color: #8B0000; font-weight: bold;">1.89</span> | <span style="color: #002818; font-weight: bold;">13.65</span> |
 | **2021/08** | **486.9** | <span style="color: #8B0000; font-weight: bold;">+8.83</span> | <span style="color: #002818; font-weight: bold;">-3.02</span> | **24.3** | <span style="color: #8B0000; font-weight: bold;">1.91</span> | <span style="color: #002818; font-weight: bold;">12.7</span> |
 | **2021/07** | **455.1** | <span style="color: #002818; font-weight: bold;">-6.54</span> | <span style="color: #002818; font-weight: bold;">-4.88</span> | **23.45** | <span style="color: #8B0000; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">12.11</span> |
-| **2021/06** | **412.7** | <span style="color: #006400; font-weight: bold;">-22.7</span> | <span style="color: #002818; font-weight: bold;">-4.54</span> | **26.25** | <span style="color: #B22222; font-weight: bold;">1.96</span> | <span style="color: #002818; font-weight: bold;">13.39</span> |
+| **2021/06** | **412.7** | <span style="color: #006400; font-weight: bold;">-22.7</span> | <span style="color: #002818; font-weight: bold;">-4.54</span> | **26.25** | <span style="color: #8B0000; font-weight: bold;">1.96</span> | <span style="color: #002818; font-weight: bold;">13.39</span> |
 | **2021/05** | **353.4** | <span style="color: #006400; font-weight: bold;">-23.3</span> | <span style="color: #8B0000; font-weight: bold;">+0.73</span> | **25.85** | <span style="color: #B22222; font-weight: bold;">1.98</span> | <span style="color: #002818; font-weight: bold;">13.03</span> |
 | **2021/04** | **381.9** | <span style="color: #006400; font-weight: bold;">-22.5</span> | <span style="color: #8B0000; font-weight: bold;">+8.75</span> | **27.15** | <span style="color: #B22222; font-weight: bold;">2.01</span> | <span style="color: #002818; font-weight: bold;">13.53</span> |
 | **2021/03** | **410** | <span style="color: #002818; font-weight: bold;">-2.14</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **27** | <span style="color: #B22222; font-weight: bold;">2.03</span> | <span style="color: #002818; font-weight: bold;">13.3</span> |
@@ -142,7 +142,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2020/12** | **432.2** | <span style="color: #002818; font-weight: bold;">-0.36</span> | <span style="color: #8B0000; font-weight: bold;">+1.46</span> | **24** | <span style="color: #B22222; font-weight: bold;">2.1</span> | <span style="color: #004225; font-weight: bold;">11.43</span> |
 | **2020/11** | **401.5** | <span style="color: #8B0000; font-weight: bold;">+5.55</span> | <span style="color: #8B0000; font-weight: bold;">+1.63</span> | **23.3** | <span style="color: #B22222; font-weight: bold;">2.05</span> | <span style="color: #004225; font-weight: bold;">11.35</span> |
 | **2020/10** | **421.1** | <span style="color: #004225; font-weight: bold;">-12.6</span> | <span style="color: #8B0000; font-weight: bold;">+1.28</span> | **22.6** | <span style="color: #B22222; font-weight: bold;">2.01</span> | <span style="color: #004225; font-weight: bold;">11.26</span> |
-| **2020/09** | **519.5** | <span style="color: #B22222; font-weight: bold;">+14.9</span> | <span style="color: #8B0000; font-weight: bold;">+3.08</span> | **22.45** | <span style="color: #B22222; font-weight: bold;">1.96</span> | <span style="color: #004225; font-weight: bold;">11.45</span> |
+| **2020/09** | **519.5** | <span style="color: #B22222; font-weight: bold;">+14.9</span> | <span style="color: #8B0000; font-weight: bold;">+3.08</span> | **22.45** | <span style="color: #8B0000; font-weight: bold;">1.96</span> | <span style="color: #004225; font-weight: bold;">11.45</span> |
 | **2020/08** | **447.3** | <span style="color: #8B0000; font-weight: bold;">+8.04</span> | <span style="color: #8B0000; font-weight: bold;">+1.44</span> | **22.75** | <span style="color: #8B0000; font-weight: bold;">1.91</span> | <span style="color: #004225; font-weight: bold;">11.89</span> |
 | **2020/07** | **487** | <span style="color: #B22222; font-weight: bold;">+15.7</span> | <span style="color: #8B0000; font-weight: bold;">+0.48</span> | **25** | <span style="color: #8B0000; font-weight: bold;">1.87</span> | <span style="color: #002818; font-weight: bold;">13.39</span> |
 | **2020/06** | **534.1** | <span style="color: #B22222; font-weight: bold;">+12</span> | <span style="color: #002818; font-weight: bold;">-2.15</span> | **25.1** | <span style="color: #8B0000; font-weight: bold;">1.82</span> | <span style="color: #002818; font-weight: bold;">13.79</span> |
@@ -153,7 +153,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2020/01** | **293.8** | <span style="color: #228B22; font-weight: bold;">-35.4</span> | <span style="color: #228B22; font-weight: bold;">-35.4</span> | **22.95** | <span style="color: #002818; font-weight: bold;">1.59</span> | <span style="color: #8B0000; font-weight: bold;">14.46</span> |
 | **2019/12** | **433.8** | <span style="color: #002818; font-weight: bold;">-7.73</span> | <span style="color: #002818; font-weight: bold;">-1.16</span> | **22.85** | <span style="color: #004225; font-weight: bold;">1.54</span> | <span style="color: #8B0000; font-weight: bold;">14.84</span> |
 | **2019/11** | **380.4** | <span style="color: #002818; font-weight: bold;">-6.91</span> | <span style="color: #002818; font-weight: bold;">-0.49</span> | **22.85** | <span style="color: #002818; font-weight: bold;">1.56</span> | <span style="color: #8B0000; font-weight: bold;">14.62</span> |
-| **2019/10** | **481.8** | <span style="color: #8B0000; font-weight: bold;">+4.26</span> | <span style="color: #8B0000; font-weight: bold;">+0.13</span> | **22.1** | <span style="color: #002818; font-weight: bold;">1.58</span> | <span style="color: #8B0000; font-weight: bold;">13.94</span> |
+| **2019/10** | **481.8** | <span style="color: #8B0000; font-weight: bold;">+4.26</span> | <span style="color: #8B0000; font-weight: bold;">+0.13</span> | **22.1** | <span style="color: #002818; font-weight: bold;">1.59</span> | <span style="color: #8B0000; font-weight: bold;">13.94</span> |
 | **2019/09** | **452.1** | <span style="color: #002818; font-weight: bold;">-5.88</span> | <span style="color: #002818; font-weight: bold;">-0.37</span> | **21.4** | <span style="color: #002818; font-weight: bold;">1.61</span> | <span style="color: #002818; font-weight: bold;">13.31</span> |
 | **2019/08** | **414** | <span style="color: #004225; font-weight: bold;">-17</span> | <span style="color: #8B0000; font-weight: bold;">+0.43</span> | **21.5** | <span style="color: #002818; font-weight: bold;">1.63</span> | <span style="color: #002818; font-weight: bold;">13.19</span> |
 | **2019/07** | **420.9** | <span style="color: #002818; font-weight: bold;">-2.48</span> | <span style="color: #8B0000; font-weight: bold;">+3.59</span> | **23.3** | <span style="color: #002818; font-weight: bold;">1.65</span> | <span style="color: #8B0000; font-weight: bold;">14.1</span> |
@@ -190,7 +190,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2016/12** | **384.5** | <span style="color: #002818; font-weight: bold;">-0.26</span> | <span style="color: #8B0000; font-weight: bold;">+8.35</span> | **22.1** | <span style="color: #002818; font-weight: bold;">1.57</span> | <span style="color: #8B0000; font-weight: bold;">14.08</span> |
 | **2016/11** | **376.4** | <span style="color: #8B0000; font-weight: bold;">+3.59</span> | <span style="color: #8B0000; font-weight: bold;">+9.28</span> | **21.55** | <span style="color: #002818; font-weight: bold;">1.57</span> | <span style="color: #002818; font-weight: bold;">13.74</span> |
 | **2016/10** | **370.5** | <span style="color: #8B0000; font-weight: bold;">+5.36</span> | <span style="color: #8B0000; font-weight: bold;">+9.92</span> | **24.7** | <span style="color: #002818; font-weight: bold;">1.57</span> | <span style="color: #8B0000; font-weight: bold;">15.77</span> |
-| **2016/09** | **390.6** | <span style="color: #002818; font-weight: bold;">-3.57</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **25.6** | <span style="color: #002818; font-weight: bold;">1.56</span> | <span style="color: #8B0000; font-weight: bold;">16.36</span> |
+| **2016/09** | **390.6** | <span style="color: #002818; font-weight: bold;">-3.57</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **25.6** | <span style="color: #002818; font-weight: bold;">1.57</span> | <span style="color: #8B0000; font-weight: bold;">16.36</span> |
 | **2016/08** | **377.8** | <span style="color: #B22222; font-weight: bold;">+15.5</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **23.55** | <span style="color: #002818; font-weight: bold;">1.56</span> | <span style="color: #8B0000; font-weight: bold;">15.06</span> |
 | **2016/07** | **348.2** | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **24.75** | <span style="color: #002818; font-weight: bold;">1.56</span> | <span style="color: #8B0000; font-weight: bold;">15.85</span> |
 | **2016/06** | **402.1** | <span style="color: #DC143C; font-weight: bold;">+28.9</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **22.85** | <span style="color: #002818; font-weight: bold;">1.56</span> | <span style="color: #8B0000; font-weight: bold;">14.65</span> |
@@ -414,7 +414,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-13 13:08:32 CST
+- **產生時間**: 2026-01-14 22:41:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

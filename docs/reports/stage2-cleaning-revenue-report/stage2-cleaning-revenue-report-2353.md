@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 宏碁 (2353) - 自動產生
     **:building_construction: 公司名稱**: 宏碁  
     **:identification_card: 股票代號**: 2353  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-13 13:08:32 CST
+    **:clock3: 更新時間**: 2026-01-14 22:41:17 CST
 
 ## :bar_chart: 績效概覽
 
@@ -130,9 +130,9 @@ description: 月營收表 宏碁 (2353) - 自動產生
 | **2021/12** | **296.7** | <span style="color: #8B0000; font-weight: bold;">+4.52</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **30.45** | <span style="color: #B22222; font-weight: bold;">3.63</span> | <span style="color: #228B22; font-weight: bold;">8.39</span> |
 | **2021/11** | **288.5** | <span style="color: #8B0000; font-weight: bold;">+0.47</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **27.7** | <span style="color: #B22222; font-weight: bold;">3.5</span> | <span style="color: #228B22; font-weight: bold;">7.93</span> |
 | **2021/10** | **280.1** | <span style="color: #8B0000; font-weight: bold;">+9.76</span> | <span style="color: #B22222; font-weight: bold;">+18.4</span> | **26** | <span style="color: #B22222; font-weight: bold;">3.36</span> | <span style="color: #228B22; font-weight: bold;">7.74</span> |
-| **2021/09** | **279.3** | <span style="color: #002818; font-weight: bold;">-5.37</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **24.75** | <span style="color: #B22222; font-weight: bold;">3.22</span> | <span style="color: #228B22; font-weight: bold;">7.67</span> |
+| **2021/09** | **279.3** | <span style="color: #002818; font-weight: bold;">-5.37</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **24.75** | <span style="color: #B22222; font-weight: bold;">3.23</span> | <span style="color: #228B22; font-weight: bold;">7.67</span> |
 | **2021/08** | **271** | <span style="color: #002818; font-weight: bold;">-0.62</span> | <span style="color: #DC143C; font-weight: bold;">+24</span> | **25.2** | <span style="color: #B22222; font-weight: bold;">3.09</span> | <span style="color: #228B22; font-weight: bold;">8.16</span> |
-| **2021/07** | **261** | <span style="color: #B22222; font-weight: bold;">+12.3</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **27.2** | <span style="color: #B22222; font-weight: bold;">2.95</span> | <span style="color: #228B22; font-weight: bold;">9.2</span> |
+| **2021/07** | **261** | <span style="color: #B22222; font-weight: bold;">+12.3</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **27.2** | <span style="color: #B22222; font-weight: bold;">2.96</span> | <span style="color: #228B22; font-weight: bold;">9.2</span> |
 | **2021/06** | **300.2** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #FF4500; font-weight: bold;">+32.2</span> | **29.3** | <span style="color: #B22222; font-weight: bold;">2.82</span> | <span style="color: #006400; font-weight: bold;">10.39</span> |
 | **2021/05** | **248.1** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #FF4500; font-weight: bold;">+36.6</span> | **31.9** | <span style="color: #B22222; font-weight: bold;">2.68</span> | <span style="color: #006400; font-weight: bold;">11.88</span> |
 | **2021/04** | **249.5** | <span style="color: #DC143C; font-weight: bold;">+26.3</span> | <span style="color: #FF6347; font-weight: bold;">+40.7</span> | **34.3** | <span style="color: #8B0000; font-weight: bold;">2.55</span> | <span style="color: #006400; font-weight: bold;">13.45</span> |
@@ -414,7 +414,7 @@ description: 月營收表 宏碁 (2353) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-13 13:08:32 CST
+- **產生時間**: 2026-01-14 22:41:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

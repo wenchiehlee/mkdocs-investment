@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 奇偶 (3356) - 自動產生
 !!! info "公司基本資訊"
     **:building_construction: 公司名稱**: 奇偶  
     **:identification_card: 股票代號**: 3356  
-    **:calendar: 最新資料**: 2025/11  
-    **:clock3: 更新時間**: 2026-01-13 13:08:32 CST
+    **:calendar: 最新資料**: 2025/12  
+    **:clock3: 更新時間**: 2026-01-14 22:41:17 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #004225; font-weight: bold;">-19</span> | <span style="color: #004225; font-weight: bold;">-16.3</span> | **239** 個月 | 2006/01 至 2025/11 |
+| <span style="color: #8B0000; font-weight: bold;">+1.02</span> | <span style="color: #004225; font-weight: bold;">-15</span> | **240** 個月 | 2006/01 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -43,7 +43,7 @@ description: 月營收表 奇偶 (3356) - 自動產生
 
 | 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | -- | 94<br/><span style="color: #8B0000;">(+5.78%)</span> | 89<br/><span style="color: #004225;">(-10.90%)</span> | 99<br/><span style="color: #002818;">(-4.03%)</span> | 104<br/><span style="color: #B22222;">(+15.60%)</span> |
+| **12月** | 95<br/><span style="color: #8B0000;">(+1.02%)</span> | 94<br/><span style="color: #8B0000;">(+5.78%)</span> | 89<br/><span style="color: #004225;">(-10.90%)</span> | 99<br/><span style="color: #002818;">(-4.03%)</span> | 104<br/><span style="color: #B22222;">(+15.60%)</span> |
 | **11月** | 81<br/><span style="color: #004225;">(-19.00%)</span> | 101<br/><span style="color: #004225;">(-10.70%)</span> | 112<br/><span style="color: #002818;">(-9.10%)</span> | 124<br/><span style="color: #8B0000;">(+6.76%)</span> | 115<br/><span style="color: #B22222;">(+16.40%)</span> |
 | **10月** | 98<br/><span style="color: #006400;">(-21.90%)</span> | 126<br/><span style="color: #002818;">(-5.55%)</span> | 134<br/><span style="color: #8B0000;">(+1.14%)</span> | 132<br/><span style="color: #B22222;">(+19.10%)</span> | 111<br/><span style="color: #8B0000;">(+4.05%)</span> |
 | **9月** | 87<br/><span style="color: #002818;">(-2.29%)</span> | 89<br/><span style="color: #004225;">(-13.30%)</span> | 103<br/><span style="color: #002818;">(-8.83%)</span> | 112<br/><span style="color: #8B0000;">(+4.88%)</span> | 108<br/><span style="color: #8B0000;">(+1.25%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 奇偶 (3356) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2025/12** | **0.951** | <span style="color: #8B0000; font-weight: bold;">+1.02</span> | <span style="color: #004225; font-weight: bold;">-15</span> | **47** | <span style="color: #002818; font-weight: bold;">5.34</span> | <span style="color: #228B22; font-weight: bold;">8.8</span> |
 | **2025/11** | **0.818** | <span style="color: #004225; font-weight: bold;">-19</span> | <span style="color: #004225; font-weight: bold;">-16.3</span> | **48.2** | <span style="color: #002818; font-weight: bold;">5.5</span> | <span style="color: #228B22; font-weight: bold;">8.77</span> |
 | **2025/10** | **0.987** | <span style="color: #006400; font-weight: bold;">-21.9</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **46.3** | <span style="color: #002818; font-weight: bold;">5.65</span> | <span style="color: #228B22; font-weight: bold;">8.19</span> |
 | **2025/09** | **0.873** | <span style="color: #002818; font-weight: bold;">-2.29</span> | <span style="color: #004225; font-weight: bold;">-15.2</span> | **53.2** | <span style="color: #8B0000; font-weight: bold;">5.8</span> | <span style="color: #228B22; font-weight: bold;">9.16</span> |
@@ -125,7 +126,7 @@ description: 月營收表 奇偶 (3356) - 自動產生
 | **2022/04** | **1.01** | <span style="color: #002818; font-weight: bold;">-5.83</span> | <span style="color: #8B0000; font-weight: bold;">+1.37</span> | **30.05** | <span style="color: #004225; font-weight: bold;">1.71</span> | <span style="color: #004225; font-weight: bold;">17.57</span> |
 | **2022/03** | **1.13** | <span style="color: #8B0000; font-weight: bold;">+5.54</span> | <span style="color: #8B0000; font-weight: bold;">+4.29</span> | **28.9** | <span style="color: #004225; font-weight: bold;">1.78</span> | <span style="color: #004225; font-weight: bold;">16.28</span> |
 | **2022/02** | **0.795** | <span style="color: #8B0000; font-weight: bold;">+0.68</span> | <span style="color: #8B0000; font-weight: bold;">+3.44</span> | **29** | <span style="color: #004225; font-weight: bold;">1.84</span> | <span style="color: #004225; font-weight: bold;">15.76</span> |
-| **2022/01** | **0.832** | <span style="color: #8B0000; font-weight: bold;">+6.23</span> | <span style="color: #8B0000; font-weight: bold;">+6.23</span> | **28.35** | <span style="color: #004225; font-weight: bold;">1.9</span> | <span style="color: #004225; font-weight: bold;">14.88</span> |
+| **2022/01** | **0.832** | <span style="color: #8B0000; font-weight: bold;">+6.23</span> | <span style="color: #8B0000; font-weight: bold;">+6.23</span> | **28.35** | <span style="color: #004225; font-weight: bold;">1.91</span> | <span style="color: #004225; font-weight: bold;">14.88</span> |
 | **2021/12** | **1.04** | <span style="color: #B22222; font-weight: bold;">+15.6</span> | <span style="color: #8B0000; font-weight: bold;">+7.67</span> | **31.7** | <span style="color: #004225; font-weight: bold;">1.97</span> | <span style="color: #004225; font-weight: bold;">16.09</span> |
 | **2021/11** | **1.16** | <span style="color: #B22222; font-weight: bold;">+16.4</span> | <span style="color: #8B0000; font-weight: bold;">+7</span> | **30.3** | <span style="color: #004225; font-weight: bold;">1.95</span> | <span style="color: #004225; font-weight: bold;">15.51</span> |
 | **2021/10** | **1.11** | <span style="color: #8B0000; font-weight: bold;">+4.05</span> | <span style="color: #8B0000; font-weight: bold;">+6.03</span> | **31.45** | <span style="color: #004225; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">16.23</span> |
@@ -175,15 +176,15 @@ description: 月營收表 奇偶 (3356) - 自動產生
 | **2018/02** | **1.1** | <span style="color: #004225; font-weight: bold;">-14.8</span> | <span style="color: #002818; font-weight: bold;">-8.45</span> | **33.4** | <span style="color: #228B22; font-weight: bold;">-1.52</span> | N/A |
 | **2018/01** | **1.16** | <span style="color: #002818; font-weight: bold;">-1.49</span> | <span style="color: #002818; font-weight: bold;">-1.49</span> | **39.3** | <span style="color: #228B22; font-weight: bold;">-1.75</span> | N/A |
 | **2017/12** | **1.26** | <span style="color: #004225; font-weight: bold;">-12.2</span> | <span style="color: #004225; font-weight: bold;">-16.7</span> | **39.05** | <span style="color: #228B22; font-weight: bold;">-1.98</span> | N/A |
-| **2017/11** | **1.37** | <span style="color: #004225; font-weight: bold;">-13.8</span> | <span style="color: #004225; font-weight: bold;">-17</span> | **35.9** | <span style="color: #228B22; font-weight: bold;">-1.67</span> | N/A |
+| **2017/11** | **1.37** | <span style="color: #004225; font-weight: bold;">-13.8</span> | <span style="color: #004225; font-weight: bold;">-17</span> | **35.9** | <span style="color: #228B22; font-weight: bold;">-1.66</span> | N/A |
 | **2017/10** | **1.26** | <span style="color: #004225; font-weight: bold;">-12.1</span> | <span style="color: #004225; font-weight: bold;">-17.4</span> | **43** | <span style="color: #228B22; font-weight: bold;">-1.35</span> | N/A |
-| **2017/09** | **1.39** | <span style="color: #002818; font-weight: bold;">-9.21</span> | <span style="color: #004225; font-weight: bold;">-18</span> | **40.35** | <span style="color: #228B22; font-weight: bold;">-1.04</span> | N/A |
+| **2017/09** | **1.39** | <span style="color: #002818; font-weight: bold;">-9.21</span> | <span style="color: #004225; font-weight: bold;">-18</span> | **40.35** | <span style="color: #228B22; font-weight: bold;">-1.03</span> | N/A |
 | **2017/08** | **1.45** | <span style="color: #004225; font-weight: bold;">-13.9</span> | <span style="color: #004225; font-weight: bold;">-18.9</span> | **39.05** | <span style="color: #006400; font-weight: bold;">-0.72</span> | N/A |
 | **2017/07** | **1.26** | <span style="color: #004225; font-weight: bold;">-11.3</span> | <span style="color: #004225; font-weight: bold;">-19.6</span> | **40.6** | <span style="color: #006400; font-weight: bold;">-0.4</span> | N/A |
 | **2017/06** | **1.48** | <span style="color: #004225; font-weight: bold;">-15</span> | <span style="color: #006400; font-weight: bold;">-21</span> | **40.05** | <span style="color: #006400; font-weight: bold;">-0.09</span> | N/A |
 | **2017/05** | **1.27** | <span style="color: #006400; font-weight: bold;">-24.8</span> | <span style="color: #006400; font-weight: bold;">-22.3</span> | **38.15** | <span style="color: #006400; font-weight: bold;">0.22</span> | <span style="color: #FF6347; font-weight: bold;">169.6</span> |
 | **2017/04** | **1.15** | <span style="color: #006400; font-weight: bold;">-27.9</span> | <span style="color: #006400; font-weight: bold;">-21.7</span> | **41.2** | <span style="color: #006400; font-weight: bold;">0.54</span> | <span style="color: #B22222; font-weight: bold;">76.3</span> |
-| **2017/03** | **1.51** | <span style="color: #002818; font-weight: bold;">-8.21</span> | <span style="color: #004225; font-weight: bold;">-19.7</span> | **43.2** | <span style="color: #006400; font-weight: bold;">0.86</span> | <span style="color: #8B0000; font-weight: bold;">50.53</span> |
+| **2017/03** | **1.51** | <span style="color: #002818; font-weight: bold;">-8.21</span> | <span style="color: #004225; font-weight: bold;">-19.7</span> | **43.2** | <span style="color: #006400; font-weight: bold;">0.85</span> | <span style="color: #8B0000; font-weight: bold;">50.53</span> |
 | **2017/02** | **1.29** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #006400; font-weight: bold;">-25.4</span> | **43.5** | <span style="color: #006400; font-weight: bold;">1.17</span> | <span style="color: #8B0000; font-weight: bold;">37.18</span> |
 | **2017/01** | **1.18** | <span style="color: #006400; font-weight: bold;">-29.4</span> | <span style="color: #006400; font-weight: bold;">-29.4</span> | **43.05** | <span style="color: #004225; font-weight: bold;">1.48</span> | <span style="color: #8B0000; font-weight: bold;">28.99</span> |
 | **2016/12** | **1.43** | <span style="color: #004225; font-weight: bold;">-12</span> | <span style="color: #002818; font-weight: bold;">-9.88</span> | **48.2** | <span style="color: #004225; font-weight: bold;">1.8</span> | <span style="color: #8B0000; font-weight: bold;">26.78</span> |
@@ -413,7 +414,7 @@ description: 月營收表 奇偶 (3356) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-13 13:08:32 CST
+- **產生時間**: 2026-01-14 22:41:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

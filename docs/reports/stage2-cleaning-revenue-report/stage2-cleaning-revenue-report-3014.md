@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
     **:building_construction: 公司名稱**: 聯陽  
     **:identification_card: 股票代號**: 3014  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-13 13:08:32 CST
+    **:clock3: 更新時間**: 2026-01-14 22:41:17 CST
 
 ## :bar_chart: 績效概覽
 
@@ -69,7 +69,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 聯陽 歷史平均獲利能力 (σup=4.86, σlo=3.90)
+    - **EPSbase**: 聯陽 歷史平均獲利能力 (σup=4.85, σlo=3.90)
     - **P/Ebase**: 聯陽 歷史平均估值水準 (σup=54.51, σlo=5.84)
 
 
@@ -154,15 +154,15 @@ description: 月營收表 聯陽 (3014) - 自動產生
 | **2019/12** | **2.97** | <span style="color: #FF4500; font-weight: bold;">+30.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.97</span> | **44.15** | <span style="color: #002818; font-weight: bold;">3.38</span> | <span style="color: #004225; font-weight: bold;">13.06</span> |
 | **2019/11** | **3.5** | <span style="color: #FF6347; font-weight: bold;">+40</span> | <span style="color: #8B0000; font-weight: bold;">+7.39</span> | **41.7** | <span style="color: #002818; font-weight: bold;">3.36</span> | <span style="color: #006400; font-weight: bold;">12.43</span> |
 | **2019/10** | **3.34** | <span style="color: #B22222; font-weight: bold;">+18.5</span> | <span style="color: #8B0000; font-weight: bold;">+4.57</span> | **44.4** | <span style="color: #002818; font-weight: bold;">3.33</span> | <span style="color: #004225; font-weight: bold;">13.33</span> |
-| **2019/09** | **3.94** | <span style="color: #8B0000; font-weight: bold;">+7.4</span> | <span style="color: #8B0000; font-weight: bold;">+3.06</span> | **39.1** | <span style="color: #002818; font-weight: bold;">3.3</span> | <span style="color: #006400; font-weight: bold;">11.83</span> |
+| **2019/09** | **3.94** | <span style="color: #8B0000; font-weight: bold;">+7.4</span> | <span style="color: #8B0000; font-weight: bold;">+3.06</span> | **39.1** | <span style="color: #002818; font-weight: bold;">3.31</span> | <span style="color: #006400; font-weight: bold;">11.83</span> |
 | **2019/08** | **3.54** | <span style="color: #B22222; font-weight: bold;">+11.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.35</span> | **35.85** | <span style="color: #002818; font-weight: bold;">3.28</span> | <span style="color: #006400; font-weight: bold;">10.93</span> |
 | **2019/07** | **3.23** | <span style="color: #8B0000; font-weight: bold;">+8.27</span> | <span style="color: #8B0000; font-weight: bold;">+0.89</span> | **33.25** | <span style="color: #002818; font-weight: bold;">3.26</span> | <span style="color: #006400; font-weight: bold;">10.22</span> |
 | **2019/06** | **3.05** | <span style="color: #8B0000; font-weight: bold;">+8.36</span> | <span style="color: #002818; font-weight: bold;">-0.46</span> | **35.25** | <span style="color: #002818; font-weight: bold;">3.23</span> | <span style="color: #006400; font-weight: bold;">10.91</span> |
-| **2019/05** | **2.94** | <span style="color: #8B0000; font-weight: bold;">+9.77</span> | <span style="color: #002818; font-weight: bold;">-2.32</span> | **34.1** | <span style="color: #002818; font-weight: bold;">3.2</span> | <span style="color: #006400; font-weight: bold;">10.64</span> |
+| **2019/05** | **2.94** | <span style="color: #8B0000; font-weight: bold;">+9.77</span> | <span style="color: #002818; font-weight: bold;">-2.32</span> | **34.1** | <span style="color: #002818; font-weight: bold;">3.21</span> | <span style="color: #006400; font-weight: bold;">10.64</span> |
 | **2019/04** | **2.79** | <span style="color: #8B0000; font-weight: bold;">+2.72</span> | <span style="color: #002818; font-weight: bold;">-5.35</span> | **35.05** | <span style="color: #002818; font-weight: bold;">3.18</span> | <span style="color: #006400; font-weight: bold;">11.02</span> |
 | **2019/03** | **2.38** | <span style="color: #002818; font-weight: bold;">-6.94</span> | <span style="color: #002818; font-weight: bold;">-8.1</span> | **35.05** | <span style="color: #002818; font-weight: bold;">3.16</span> | <span style="color: #006400; font-weight: bold;">11.11</span> |
 | **2019/02** | **1.87** | <span style="color: #002818; font-weight: bold;">-5.15</span> | <span style="color: #002818; font-weight: bold;">-8.64</span> | **35.25** | <span style="color: #002818; font-weight: bold;">3.13</span> | <span style="color: #006400; font-weight: bold;">11.26</span> |
-| **2019/01** | **3.09** | <span style="color: #004225; font-weight: bold;">-10.6</span> | <span style="color: #004225; font-weight: bold;">-10.6</span> | **33.4** | <span style="color: #002818; font-weight: bold;">3.1</span> | <span style="color: #006400; font-weight: bold;">10.76</span> |
+| **2019/01** | **3.09** | <span style="color: #004225; font-weight: bold;">-10.6</span> | <span style="color: #004225; font-weight: bold;">-10.6</span> | **33.4** | <span style="color: #002818; font-weight: bold;">3.11</span> | <span style="color: #006400; font-weight: bold;">10.76</span> |
 | **2018/12** | **2.27** | <span style="color: #004225; font-weight: bold;">-10.8</span> | <span style="color: #8B0000; font-weight: bold;">+5.98</span> | **30.4** | <span style="color: #002818; font-weight: bold;">3.08</span> | <span style="color: #006400; font-weight: bold;">9.87</span> |
 | **2018/11** | **2.5** | <span style="color: #004225; font-weight: bold;">-12.5</span> | <span style="color: #8B0000; font-weight: bold;">+7.45</span> | **33.05** | <span style="color: #002818; font-weight: bold;">3.03</span> | <span style="color: #006400; font-weight: bold;">10.91</span> |
 | **2018/10** | **2.82** | <span style="color: #8B0000; font-weight: bold;">+2.61</span> | <span style="color: #8B0000; font-weight: bold;">+9.61</span> | **30.3** | <span style="color: #002818; font-weight: bold;">2.98</span> | <span style="color: #006400; font-weight: bold;">10.17</span> |
@@ -414,7 +414,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-13 13:08:32 CST
+- **產生時間**: 2026-01-14 22:41:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

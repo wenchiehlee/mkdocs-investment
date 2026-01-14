@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 訊連 (5203) - 自動產生
     **:building_construction: 公司名稱**: 訊連  
     **:identification_card: 股票代號**: 5203  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-13 13:08:32 CST
+    **:clock3: 更新時間**: 2026-01-14 22:41:17 CST
 
 ## :bar_chart: 績效概覽
 
@@ -121,7 +121,7 @@ description: 月營收表 訊連 (5203) - 自動產生
 | **2022/09** | **1.4** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #8B0000; font-weight: bold;">+7.16</span> | **87.9** | <span style="color: #006400; font-weight: bold;">-0.05</span> | N/A |
 | **2022/08** | **1.4** | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #8B0000; font-weight: bold;">+6.51</span> | **97.2** | <span style="color: #228B22; font-weight: bold;">-0.84</span> | N/A |
 | **2022/07** | **1.49** | <span style="color: #8B0000; font-weight: bold;">+9.79</span> | <span style="color: #8B0000; font-weight: bold;">+4.16</span> | **89.8** | <span style="color: #228B22; font-weight: bold;">-1.64</span> | N/A |
-| **2022/06** | **1.49** | <span style="color: #B22222; font-weight: bold;">+14.8</span> | <span style="color: #8B0000; font-weight: bold;">+3.21</span> | **85.7** | <span style="color: #228B22; font-weight: bold;">-2.43</span> | N/A |
+| **2022/06** | **1.49** | <span style="color: #B22222; font-weight: bold;">+14.8</span> | <span style="color: #8B0000; font-weight: bold;">+3.21</span> | **85.7** | <span style="color: #228B22; font-weight: bold;">-2.44</span> | N/A |
 | **2022/05** | **1.37** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #8B0000; font-weight: bold;">+0.95</span> | **86.5** | <span style="color: #32CD32; font-weight: bold;">-3.23</span> | N/A |
 | **2022/04** | **1.55** | <span style="color: #002818; font-weight: bold;">-7.58</span> | <span style="color: #002818; font-weight: bold;">-1.41</span> | **82.9** | <span style="color: #32CD32; font-weight: bold;">-4.03</span> | N/A |
 | **2022/03** | **1.28** | <span style="color: #8B0000; font-weight: bold;">+1.56</span> | <span style="color: #8B0000; font-weight: bold;">+1.34</span> | **90.2** | <span style="color: #32CD32; font-weight: bold;">-4.82</span> | N/A |
@@ -133,7 +133,7 @@ description: 月營收表 訊連 (5203) - 自動產生
 | **2021/09** | **1.24** | <span style="color: #8B0000; font-weight: bold;">+2.59</span> | <span style="color: #002818; font-weight: bold;">-2.93</span> | **83.5** | <span style="color: #32CD32; font-weight: bold;">-4.84</span> | N/A |
 | **2021/08** | **1.11** | <span style="color: #006400; font-weight: bold;">-25.4</span> | <span style="color: #002818; font-weight: bold;">-3.54</span> | **83.5** | <span style="color: #32CD32; font-weight: bold;">-4.05</span> | N/A |
 | **2021/07** | **1.36** | <span style="color: #004225; font-weight: bold;">-16.6</span> | <span style="color: #002818; font-weight: bold;">-0.08</span> | **77.8** | <span style="color: #32CD32; font-weight: bold;">-3.26</span> | N/A |
-| **2021/06** | **1.3** | <span style="color: #002818; font-weight: bold;">-5.05</span> | <span style="color: #8B0000; font-weight: bold;">+3.4</span> | **81.7** | <span style="color: #228B22; font-weight: bold;">-2.47</span> | N/A |
+| **2021/06** | **1.3** | <span style="color: #002818; font-weight: bold;">-5.05</span> | <span style="color: #8B0000; font-weight: bold;">+3.4</span> | **81.7** | <span style="color: #228B22; font-weight: bold;">-2.48</span> | N/A |
 | **2021/05** | **1.23** | <span style="color: #002818; font-weight: bold;">-6.02</span> | <span style="color: #8B0000; font-weight: bold;">+5.21</span> | **83.5** | <span style="color: #228B22; font-weight: bold;">-1.69</span> | N/A |
 | **2021/04** | **1.68** | <span style="color: #B22222; font-weight: bold;">+14.6</span> | <span style="color: #8B0000; font-weight: bold;">+8.14</span> | **89.7** | <span style="color: #228B22; font-weight: bold;">-0.9</span> | N/A |
 | **2021/03** | **1.27** | <span style="color: #B22222; font-weight: bold;">+14.5</span> | <span style="color: #8B0000; font-weight: bold;">+5.5</span> | **100.5** | <span style="color: #006400; font-weight: bold;">-0.11</span> | N/A |
@@ -414,7 +414,7 @@ description: 月營收表 訊連 (5203) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-13 13:08:32 CST
+- **產生時間**: 2026-01-14 22:41:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

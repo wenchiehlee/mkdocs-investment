@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 零壹 (3029) - 自動產生
     **:building_construction: 公司名稱**: 零壹  
     **:identification_card: 股票代號**: 3029  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-13 13:08:32 CST
+    **:clock3: 更新時間**: 2026-01-14 22:41:17 CST
 
 ## :bar_chart: 績效概覽
 
@@ -133,7 +133,7 @@ description: 月營收表 零壹 (3029) - 自動產生
 | **2021/09** | **16.06** | <span style="color: #FF7F7F; font-weight: bold;">+104.2</span> | <span style="color: #DC143C; font-weight: bold;">+29.5</span> | **46.6** | <span style="color: #B22222; font-weight: bold;">4.07</span> | <span style="color: #006400; font-weight: bold;">11.46</span> |
 | **2021/08** | **17.4** | <span style="color: #FF7F7F; font-weight: bold;">+106.1</span> | <span style="color: #DC143C; font-weight: bold;">+20.9</span> | **43.85** | <span style="color: #B22222; font-weight: bold;">4.01</span> | <span style="color: #006400; font-weight: bold;">10.94</span> |
 | **2021/07** | **9.26** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.81</span> | **43.55** | <span style="color: #B22222; font-weight: bold;">3.95</span> | <span style="color: #006400; font-weight: bold;">11.02</span> |
-| **2021/06** | **9.06** | <span style="color: #002818; font-weight: bold;">-4.45</span> | <span style="color: #8B0000; font-weight: bold;">+8.49</span> | **45.7** | <span style="color: #B22222; font-weight: bold;">3.9</span> | <span style="color: #006400; font-weight: bold;">11.73</span> |
+| **2021/06** | **9.06** | <span style="color: #002818; font-weight: bold;">-4.45</span> | <span style="color: #8B0000; font-weight: bold;">+8.49</span> | **45.7** | <span style="color: #B22222; font-weight: bold;">3.89</span> | <span style="color: #006400; font-weight: bold;">11.73</span> |
 | **2021/05** | **8.47** | <span style="color: #002818; font-weight: bold;">-8.36</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **46.8** | <span style="color: #B22222; font-weight: bold;">3.84</span> | <span style="color: #006400; font-weight: bold;">12.2</span> |
 | **2021/04** | **9.19** | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #B22222; font-weight: bold;">+17</span> | **49.05** | <span style="color: #B22222; font-weight: bold;">3.78</span> | <span style="color: #006400; font-weight: bold;">12.98</span> |
 | **2021/03** | **11.27** | <span style="color: #DC143C; font-weight: bold;">+23.8</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **46.4** | <span style="color: #B22222; font-weight: bold;">3.72</span> | <span style="color: #006400; font-weight: bold;">12.46</span> |
@@ -142,7 +142,7 @@ description: 月營收表 零壹 (3029) - 自動產生
 | **2020/12** | **7.46** | <span style="color: #002818; font-weight: bold;">-6.54</span> | <span style="color: #B22222; font-weight: bold;">+10.3</span> | **39.05** | <span style="color: #B22222; font-weight: bold;">3.55</span> | <span style="color: #006400; font-weight: bold;">11.0</span> |
 | **2020/11** | **6.76** | <span style="color: #8B0000; font-weight: bold;">+5.96</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **39.4** | <span style="color: #B22222; font-weight: bold;">3.49</span> | <span style="color: #006400; font-weight: bold;">11.28</span> |
 | **2020/10** | **8.13** | <span style="color: #004225; font-weight: bold;">-18.5</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **36.3** | <span style="color: #B22222; font-weight: bold;">3.43</span> | <span style="color: #006400; font-weight: bold;">10.57</span> |
-| **2020/09** | **7.87** | <span style="color: #002818; font-weight: bold;">-0.96</span> | <span style="color: #B22222; font-weight: bold;">+17.2</span> | **39.15** | <span style="color: #B22222; font-weight: bold;">3.38</span> | <span style="color: #006400; font-weight: bold;">11.6</span> |
+| **2020/09** | **7.87** | <span style="color: #002818; font-weight: bold;">-0.96</span> | <span style="color: #B22222; font-weight: bold;">+17.2</span> | **39.15** | <span style="color: #B22222; font-weight: bold;">3.37</span> | <span style="color: #006400; font-weight: bold;">11.6</span> |
 | **2020/08** | **8.45** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #B22222; font-weight: bold;">+19.8</span> | **42.95** | <span style="color: #B22222; font-weight: bold;">3.32</span> | <span style="color: #006400; font-weight: bold;">12.95</span> |
 | **2020/07** | **8.36** | <span style="color: #002818; font-weight: bold;">-0.26</span> | <span style="color: #DC143C; font-weight: bold;">+20.9</span> | **43.05** | <span style="color: #B22222; font-weight: bold;">3.26</span> | <span style="color: #006400; font-weight: bold;">13.21</span> |
 | **2020/06** | **9.48** | <span style="color: #FF6347; font-weight: bold;">+47.8</span> | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | **39.6** | <span style="color: #B22222; font-weight: bold;">3.2</span> | <span style="color: #006400; font-weight: bold;">12.38</span> |
@@ -414,7 +414,7 @@ description: 月營收表 零壹 (3029) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-13 13:08:32 CST
+- **產生時間**: 2026-01-14 22:41:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

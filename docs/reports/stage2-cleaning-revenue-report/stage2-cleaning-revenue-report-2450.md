@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-13
+date: 2026-01-14
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 神腦 (2450) - 自動產生
     **:building_construction: 公司名稱**: 神腦  
     **:identification_card: 股票代號**: 2450  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-13 13:08:32 CST
+    **:clock3: 更新時間**: 2026-01-14 22:41:17 CST
 
 ## :bar_chart: 績效概覽
 
@@ -136,7 +136,7 @@ description: 月營收表 神腦 (2450) - 自動產生
 | **2021/06** | **21.81** | <span style="color: #8B0000; font-weight: bold;">+8.17</span> | <span style="color: #B22222; font-weight: bold;">+11.8</span> | **31.9** | <span style="color: #004225; font-weight: bold;">2.0</span> | <span style="color: #002818; font-weight: bold;">15.95</span> |
 | **2021/05** | **22.3** | <span style="color: #8B0000; font-weight: bold;">+6.01</span> | <span style="color: #B22222; font-weight: bold;">+12.6</span> | **32.45** | <span style="color: #006400; font-weight: bold;">1.95</span> | <span style="color: #8B0000; font-weight: bold;">16.66</span> |
 | **2021/04** | **22.05** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #B22222; font-weight: bold;">+14.2</span> | **35.85** | <span style="color: #006400; font-weight: bold;">1.9</span> | <span style="color: #B22222; font-weight: bold;">18.9</span> |
-| **2021/03** | **23.77** | <span style="color: #B22222; font-weight: bold;">+17.6</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **34.05** | <span style="color: #006400; font-weight: bold;">1.84</span> | <span style="color: #B22222; font-weight: bold;">18.46</span> |
+| **2021/03** | **23.77** | <span style="color: #B22222; font-weight: bold;">+17.6</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **34.05** | <span style="color: #006400; font-weight: bold;">1.85</span> | <span style="color: #B22222; font-weight: bold;">18.46</span> |
 | **2021/02** | **24.54** | <span style="color: #8B0000; font-weight: bold;">+7.38</span> | <span style="color: #8B0000; font-weight: bold;">+9.75</span> | **32.1** | <span style="color: #006400; font-weight: bold;">1.79</span> | <span style="color: #8B0000; font-weight: bold;">17.9</span> |
 | **2021/01** | **27.13** | <span style="color: #B22222; font-weight: bold;">+12</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **30.6** | <span style="color: #006400; font-weight: bold;">1.74</span> | <span style="color: #8B0000; font-weight: bold;">17.57</span> |
 | **2020/12** | **25.08** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #002818; font-weight: bold;">-6.43</span> | **35.5** | <span style="color: #006400; font-weight: bold;">1.69</span> | <span style="color: #DC143C; font-weight: bold;">21.01</span> |
@@ -165,7 +165,7 @@ description: 月營收表 神腦 (2450) - 自動產生
 | **2019/01** | **27.65** | <span style="color: #002818; font-weight: bold;">-10</span> | <span style="color: #002818; font-weight: bold;">-10</span> | **34.7** | <span style="color: #006400; font-weight: bold;">1.59</span> | <span style="color: #DC143C; font-weight: bold;">21.82</span> |
 | **2018/12** | **27.09** | <span style="color: #004225; font-weight: bold;">-16</span> | <span style="color: #004225; font-weight: bold;">-12.6</span> | **35** | <span style="color: #006400; font-weight: bold;">1.59</span> | <span style="color: #FF4500; font-weight: bold;">22.01</span> |
 | **2018/11** | **26.81** | <span style="color: #004225; font-weight: bold;">-11.1</span> | <span style="color: #004225; font-weight: bold;">-12.2</span> | **35.3** | <span style="color: #006400; font-weight: bold;">1.73</span> | <span style="color: #DC143C; font-weight: bold;">20.38</span> |
-| **2018/10** | **25.11** | <span style="color: #004225; font-weight: bold;">-13.6</span> | <span style="color: #004225; font-weight: bold;">-12.4</span> | **34.4** | <span style="color: #006400; font-weight: bold;">1.88</span> | <span style="color: #B22222; font-weight: bold;">18.35</span> |
+| **2018/10** | **25.11** | <span style="color: #004225; font-weight: bold;">-13.6</span> | <span style="color: #004225; font-weight: bold;">-12.4</span> | **34.4** | <span style="color: #006400; font-weight: bold;">1.87</span> | <span style="color: #B22222; font-weight: bold;">18.35</span> |
 | **2018/09** | **24.75** | <span style="color: #004225; font-weight: bold;">-20</span> | <span style="color: #004225; font-weight: bold;">-12.2</span> | **40.6** | <span style="color: #004225; font-weight: bold;">2.02</span> | <span style="color: #DC143C; font-weight: bold;">20.12</span> |
 | **2018/08** | **24.98** | <span style="color: #004225; font-weight: bold;">-15.8</span> | <span style="color: #004225; font-weight: bold;">-11.2</span> | **41** | <span style="color: #004225; font-weight: bold;">2.16</span> | <span style="color: #B22222; font-weight: bold;">18.98</span> |
 | **2018/07** | **23.36** | <span style="color: #006400; font-weight: bold;">-20.8</span> | <span style="color: #004225; font-weight: bold;">-10.5</span> | **49.95** | <span style="color: #004225; font-weight: bold;">2.3</span> | <span style="color: #DC143C; font-weight: bold;">21.69</span> |
@@ -414,7 +414,7 @@ description: 月營收表 神腦 (2450) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-13 13:08:32 CST
+- **產生時間**: 2026-01-14 22:41:17 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
