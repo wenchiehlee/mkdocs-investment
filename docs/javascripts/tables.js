@@ -151,6 +151,10 @@ document$.subscribe(function() {
         var headerText = $table.find('thead').text();
         console.log('Table has', columnCount, 'columns');
 
+        // Robust detection for Dividend Report: Check header text OR column count
+        // The dividend report is distinctively 10 or 12 columns wide.
+        var isDividendReport = headerText.includes('現金股利') || columnCount === 10 || columnCount === 12;
+
         // Build columnDefs based on table type
         var columnDefs = [
             {
@@ -175,8 +179,6 @@ document$.subscribe(function() {
                 }
             }
         ];
-
-        var isDividendReport = headerText.includes('現金股利');
 
         if (headerText.includes('ROE') && headerText.includes('ROA')) {
             // ROA/ROE report
@@ -361,7 +363,9 @@ document$.subscribe(function() {
                     // Find the index of "殖利率@最低價" dynamically
                     var yieldColIndex = -1;
                     $table.find('thead th').each(function(i) {
-                        if ($(this).text().includes('殖利率@當年度最低價')) {
+                        var text = $(this).text();
+                        // Check for "Yield" and "Low" keywords
+                        if (text.includes('殖利率') && text.includes('最低')) {
                             yieldColIndex = i;
                         }
                     });
