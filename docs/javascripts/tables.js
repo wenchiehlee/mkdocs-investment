@@ -343,6 +343,50 @@ document$.subscribe(function() {
                         highlightSearchTerms($table, searchTerm);
                     }
                 });
+
+                // --- Custom Filter for Dividend Report (10 columns) ---
+                if (columnCount === 10) {
+                    var tableApi = this.api();
+                    var $wrapper = $table.closest('.dataTables_wrapper');
+                    
+                    // Create filter container
+                    var $filterContainer = $('<div class="yield-filter-container" style="margin-bottom: 10px; display: flex; align-items: center; background: var(--md-code-bg-color); padding: 8px; border-radius: 4px;"></div>');
+                    var $label = $('<label style="margin-right: 8px; font-weight: bold; color: var(--md-typeset-color);">🔍 篩選 殖利率@最低價 >= </label>');
+                    var $input = $('<input type="number" step="0.1" min="0" placeholder="0" style="padding: 4px 8px; border: 1px solid var(--md-typeset-table-color); border-radius: 4px; width: 80px;">');
+                    var $suffix = $('<span style="margin-left: 5px; color: var(--md-typeset-color);">%</span>');
+
+                    $filterContainer.append($label).append($input).append($suffix);
+                    
+                    // Insert before the table controls (length menu / search)
+                    $wrapper.prepend($filterContainer);
+
+                    // Custom DataTables filtering function
+                    $.fn.dataTable.ext.search.push(function(settings, data, dataIndex) {
+                        // Only apply this filter to the Dividend Report table
+                        // We check if the table node matches
+                        if (settings.nTable !== $table[0]) {
+                            return true;
+                        }
+
+                        var minYield = parseFloat($input.val());
+                        if (isNaN(minYield) || minYield <= 0) {
+                            return true; // No filter applied
+                        }
+
+                        // Column 5 is "殖利率@最低價"
+                        // Data comes in as string (e.g., "5.45%")
+                        var colValueStr = data[5] || "0";
+                        var colValue = parseFloat(colValueStr.replace('%', ''));
+
+                        return !isNaN(colValue) && colValue >= minYield;
+                    });
+
+                    // Trigger redraw on input change
+                    $input.on('keyup change input', function() {
+                        tableApi.draw();
+                    });
+                }
+                // -----------------------------------------------------
             },
 
             // Error handling
