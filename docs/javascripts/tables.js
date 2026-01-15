@@ -405,6 +405,55 @@ document$.subscribe(function() {
                         });
                     }
                 }
+                // --- Custom Filter for Margin Daily Report (8 columns) ---
+                else if (columnCount === 8) {
+                    var tableApi = this.api();
+                    var $wrapper = $table.closest('.dataTables_wrapper');
+                    
+                    // Find the index of "比率" dynamically (usually index 5)
+                    var ratioColIndex = -1;
+                    $table.find('thead th').each(function(i) {
+                        if ($(this).text().includes('比率')) {
+                            ratioColIndex = i;
+                        }
+                    });
+
+                    if (ratioColIndex !== -1) {
+                        // Create filter container
+                        var $filterContainer = $('<div class="margin-filter-container" style="margin-bottom: 10px; display: flex; align-items: center; background: var(--md-code-bg-color); padding: 8px; border-radius: 4px;"></div>');
+                        var $label = $('<label style="margin-right: 8px; font-weight: bold; color: var(--md-typeset-color);">🔍 篩選 比率 >= </label>');
+                        var $input = $('<input type="number" step="0.1" min="0" placeholder="0" style="padding: 4px 8px; border: 1px solid var(--md-typeset-table-color); border-radius: 4px; width: 80px;">');
+                        var $suffix = $('<span style="margin-left: 5px; color: var(--md-typeset-color);">%</span>');
+
+                        $filterContainer.append($label).append($input).append($suffix);
+                        
+                        // Insert before the table controls
+                        $wrapper.prepend($filterContainer);
+
+                        // Custom DataTables filtering function
+                        $.fn.dataTable.ext.search.push(function(settings, data, dataIndex) {
+                            if (settings.nTable !== $table[0]) {
+                                return true;
+                            }
+
+                            var minRatio = parseFloat($input.val());
+                            if (isNaN(minRatio) || minRatio <= 0) {
+                                return true;
+                            }
+
+                            // Parse percentage from "比率" column
+                            var colValueStr = data[ratioColIndex] || "0";
+                            var colValue = parseFloat(colValueStr.replace('%', ''));
+
+                            return !isNaN(colValue) && colValue >= minRatio;
+                        });
+
+                        // Trigger redraw on input change
+                        $input.on('keyup change input', function() {
+                            tableApi.draw();
+                        });
+                    }
+                }
                 // ------------------------------------------
             },
 
