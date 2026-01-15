@@ -176,6 +176,8 @@ document$.subscribe(function() {
             }
         ];
 
+        var isDividendReport = headerText.includes('現金股利');
+
         if (headerText.includes('ROE') && headerText.includes('ROA')) {
             // ROA/ROE report
             columnDefs.push({
@@ -190,99 +192,57 @@ document$.subscribe(function() {
                     return data;
                 }
             });
+        } else if (isDividendReport) {
+            // Dividend report: Supports both 10-column and 12-column formats
+            // Common targets: Code (0), Name (1), Cash Dividend (2)
+            var numericTargets = [2];
+            var percentageTargets = [];
+            var stabilityTarget = -1;
+            var timeTarget = -1;
+
+            if (columnCount === 10) {
+                // Legacy 10-column format
+                percentageTargets = [3, 5, 6, 7]; // Yield@Current, Yield@Low, Yield@High, Payout Ratio
+                timeTarget = 4;
+                stabilityTarget = 8;
+            } else if (columnCount === 12) {
+                // New 12-column format (adds 3 prediction columns)
+                numericTargets = [2, 3, 4, 5]; // Cash, Predict, TTM Predict, Factset Predict
+                percentageTargets = [6, 8, 9, 10]; // Yield@Current, Yield@Low, Yield@High, Payout Ratio
+                timeTarget = 7;
+                stabilityTarget = 11;
+            }
+
+            columnDefs.push({
+                targets: numericTargets.concat(percentageTargets),
+                type: 'num',
+                render: function(data, type, row) {
+                    if (type === 'sort' || type === 'type') {
+                        var num = parseNumeric(data);
+                        return num === null ? 0 : num;
+                    }
+                    return data;
+                }
+            });
+
+            if (timeTarget !== -1) {
+                columnDefs.push({ targets: [timeTarget], type: 'string' });
+            }
+
+            if (stabilityTarget !== -1) {
+                columnDefs.push({
+                    targets: [stabilityTarget],
+                    type: 'num',
+                    render: function(data, type, row) {
+                        if (type === 'sort' || type === 'type') {
+                            var num = parseNumeric(data);
+                            return num === null ? 0 : num;
+                        }
+                        return data;
+                    }
+                });
+            }
         } else if (columnCount === 6) {
-            // Revenue report: 6 columns
-            columnDefs.push({
-                targets: [2, 4],
-                type: 'num',
-                render: function(data, type, row) {
-                    if (type === 'sort' || type === 'type') {
-                        var num = parseNumeric(data);
-                        return num === null ? 0 : num;
-                    }
-                    return data;
-                }
-            });
-            columnDefs.push({
-                targets: [3],
-                type: 'num',
-                render: function(data, type, row) {
-                    if (type === 'sort' || type === 'type') {
-                        var ym = parseYearMonth(data);
-                        return ym !== null ? ym : 0;
-                    }
-                    return data;
-                }
-            });
-        } else if (columnCount === 8) {
-            // Margin Daily report: 8 columns (代號, 名稱, 融資餘額, 收盤價, 市值, 比率, 風險, 最新日期)
-            columnDefs.push({
-                // Numeric columns: 融資餘額 (col 2), 收盤價 (col 3), 比率 (col 5)
-                targets: [2, 3, 5],
-                type: 'num',
-                render: function(data, type, row) {
-                    if (type === 'sort' || type === 'type') {
-                        var num = parseNumeric(data);
-                        return num === null ? 0 : num;
-                    }
-                    return data;
-                }
-            });
-            columnDefs.push({
-                // Market Cap column: 市值 (col 4) - Use custom parser
-                targets: [4],
-                type: 'num',
-                render: function(data, type, row) {
-                    if (type === 'sort' || type === 'type') {
-                        return parseMarketCap(data);
-                    }
-                    return data;
-                }
-            });
-        } else if (columnCount === 10) {
-            // Dividend report: 10 columns (股票代號, 公司名稱, 現金股利, 殖利率@當日價, 當日價時間, 殖利率@最低價, 殖利率@最高價, 配發率, 穩定性, 資料區間)
-            columnDefs.push({
-                // Numeric/percentage columns: 現金股利 (col 2), 殖利率@最低價 (col 5), 殖利率@最高價 (col 6), 配發率 (col 7)
-                targets: [2, 5, 6, 7],
-                type: 'num',
-                render: function(data, type, row) {
-                    if (type === 'sort' || type === 'type') {
-                        var num = parseNumeric(data);
-                        return num === null ? 0 : num;
-                    }
-                    return data;
-                }
-            });
-            columnDefs.push({
-                // Percentage column: 殖利率@當日價 (col 3)
-                targets: [3],
-                type: 'num',
-                render: function(data, type, row) {
-                    if (type === 'sort' || type === 'type') {
-                        var num = parseNumeric(data);
-                        return num === null ? 0 : num;
-                    }
-                    return data;
-                }
-            });
-            columnDefs.push({
-                // Timestamp column: 當日價時間 (col 4) - sort as string (MM/DD HH:MM format)
-                targets: [4],
-                type: 'string'
-            });
-            columnDefs.push({
-                // Stability score column: 穩定性 (col 8) - extract numeric value from emoji prefix
-                targets: [8],
-                type: 'num',
-                render: function(data, type, row) {
-                    if (type === 'sort' || type === 'type') {
-                        var num = parseNumeric(data);
-                        return num === null ? 0 : num;
-                    }
-                    return data;
-                }
-            });
-        }
 
         // DataTables configuration
         $table.DataTable({
@@ -344,49 +304,55 @@ document$.subscribe(function() {
                     }
                 });
 
-                // --- Custom Filter for Dividend Report (10 columns) ---
-                if (columnCount === 10) {
+                // --- Custom Filter for Dividend Report ---
+                if (isDividendReport) {
                     var tableApi = this.api();
                     var $wrapper = $table.closest('.dataTables_wrapper');
                     
-                    // Create filter container
-                    var $filterContainer = $('<div class="yield-filter-container" style="margin-bottom: 10px; display: flex; align-items: center; background: var(--md-code-bg-color); padding: 8px; border-radius: 4px;"></div>');
-                    var $label = $('<label style="margin-right: 8px; font-weight: bold; color: var(--md-typeset-color);">🔍 篩選 殖利率@最低價 >= </label>');
-                    var $input = $('<input type="number" step="0.1" min="0" placeholder="0" style="padding: 4px 8px; border: 1px solid var(--md-typeset-table-color); border-radius: 4px; width: 80px;">');
-                    var $suffix = $('<span style="margin-left: 5px; color: var(--md-typeset-color);">%</span>');
-
-                    $filterContainer.append($label).append($input).append($suffix);
-                    
-                    // Insert before the table controls (length menu / search)
-                    $wrapper.prepend($filterContainer);
-
-                    // Custom DataTables filtering function
-                    $.fn.dataTable.ext.search.push(function(settings, data, dataIndex) {
-                        // Only apply this filter to the Dividend Report table
-                        // We check if the table node matches
-                        if (settings.nTable !== $table[0]) {
-                            return true;
+                    // Find the index of "殖利率@最低價" dynamically
+                    var yieldColIndex = -1;
+                    $table.find('thead th').each(function(i) {
+                        if ($(this).text().includes('殖利率@當年度最低價')) {
+                            yieldColIndex = i;
                         }
-
-                        var minYield = parseFloat($input.val());
-                        if (isNaN(minYield) || minYield <= 0) {
-                            return true; // No filter applied
-                        }
-
-                        // Column 5 is "殖利率@最低價"
-                        // Data comes in as string (e.g., "5.45%")
-                        var colValueStr = data[5] || "0";
-                        var colValue = parseFloat(colValueStr.replace('%', ''));
-
-                        return !isNaN(colValue) && colValue >= minYield;
                     });
 
-                    // Trigger redraw on input change
-                    $input.on('keyup change input', function() {
-                        tableApi.draw();
-                    });
+                    if (yieldColIndex !== -1) {
+                        // Create filter container
+                        var $filterContainer = $('<div class="yield-filter-container" style="margin-bottom: 10px; display: flex; align-items: center; background: var(--md-code-bg-color); padding: 8px; border-radius: 4px;"></div>');
+                        var $label = $('<label style="margin-right: 8px; font-weight: bold; color: var(--md-typeset-color);">🔍 篩選 殖利率@最低價 >= </label>');
+                        var $input = $('<input type="number" step="0.1" min="0" placeholder="0" style="padding: 4px 8px; border: 1px solid var(--md-typeset-table-color); border-radius: 4px; width: 80px;">');
+                        var $suffix = $('<span style="margin-left: 5px; color: var(--md-typeset-color);">%</span>');
+
+                        $filterContainer.append($label).append($input).append($suffix);
+                        
+                        // Insert before the table controls
+                        $wrapper.prepend($filterContainer);
+
+                        // Custom DataTables filtering function
+                        $.fn.dataTable.ext.search.push(function(settings, data, dataIndex) {
+                            if (settings.nTable !== $table[0]) {
+                                return true;
+                            }
+
+                            var minYield = parseFloat($input.val());
+                            if (isNaN(minYield) || minYield <= 0) {
+                                return true;
+                            }
+
+                            var colValueStr = data[yieldColIndex] || "0";
+                            var colValue = parseFloat(colValueStr.replace('%', ''));
+
+                            return !isNaN(colValue) && colValue >= minYield;
+                        });
+
+                        // Trigger redraw on input change
+                        $input.on('keyup change input', function() {
+                            tableApi.draw();
+                        });
+                    }
                 }
-                // -----------------------------------------------------
+                // ------------------------------------------
             },
 
             // Error handling
