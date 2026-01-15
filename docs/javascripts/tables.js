@@ -360,12 +360,12 @@ document$.subscribe(function() {
                     var tableApi = this.api();
                     var $wrapper = $table.closest('.dataTables_wrapper');
                     
-                    // Find the index of "殖利率@最低價" dynamically
+                    // Find the index of "殖利率@當日價" dynamically
                     var yieldColIndex = -1;
                     $table.find('thead th').each(function(i) {
                         var text = $(this).text();
-                        // Check for "Yield" and "Low" keywords
-                        if (text.includes('殖利率') && text.includes('最低')) {
+                        // Check for "Yield" and "Current" keywords
+                        if (text.includes('殖利率') && text.includes('當日')) {
                             yieldColIndex = i;
                         }
                     });
@@ -373,7 +373,7 @@ document$.subscribe(function() {
                     if (yieldColIndex !== -1) {
                         // Create filter container
                         var $filterContainer = $('<div class="yield-filter-container" style="margin-bottom: 10px; display: flex; align-items: center; background: var(--md-code-bg-color); padding: 8px; border-radius: 4px;"></div>');
-                        var $label = $('<label style="margin-right: 8px; font-weight: bold; color: var(--md-typeset-color);">🔍 篩選 殖利率@最低價 >= </label>');
+                        var $label = $('<label style="margin-right: 8px; font-weight: bold; color: var(--md-typeset-color);">🔍 篩選 殖利率@當日價 >= </label>');
                         var $input = $('<input type="number" step="0.1" min="0" placeholder="0" style="padding: 4px 8px; border: 1px solid var(--md-typeset-table-color); border-radius: 4px; width: 80px;">');
                         var $suffix = $('<span style="margin-left: 5px; color: var(--md-typeset-color);">%</span>');
 
