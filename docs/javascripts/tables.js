@@ -243,6 +243,55 @@ document$.subscribe(function() {
                 });
             }
         } else if (columnCount === 6) {
+            // Revenue report: 6 columns
+            columnDefs.push({
+                targets: [2, 4],
+                type: 'num',
+                render: function(data, type, row) {
+                    if (type === 'sort' || type === 'type') {
+                        var num = parseNumeric(data);
+                        return num === null ? 0 : num;
+                    }
+                    return data;
+                }
+            });
+            columnDefs.push({
+                targets: [3],
+                type: 'num',
+                render: function(data, type, row) {
+                    if (type === 'sort' || type === 'type') {
+                        var ym = parseYearMonth(data);
+                        return ym !== null ? ym : 0;
+                    }
+                    return data;
+                }
+            });
+        } else if (columnCount === 8) {
+            // Margin Daily report: 8 columns (代號, 名稱, 融資餘額, 收盤價, 市值, 比率, 風險, 最新日期)
+            columnDefs.push({
+                // Numeric columns: 融資餘額 (col 2), 收盤價 (col 3), 比率 (col 5)
+                targets: [2, 3, 5],
+                type: 'num',
+                render: function(data, type, row) {
+                    if (type === 'sort' || type === 'type') {
+                        var num = parseNumeric(data);
+                        return num === null ? 0 : num;
+                    }
+                    return data;
+                }
+            });
+            columnDefs.push({
+                // Market Cap column: 市值 (col 4) - Use custom parser
+                targets: [4],
+                type: 'num',
+                render: function(data, type, row) {
+                    if (type === 'sort' || type === 'type') {
+                        return parseMarketCap(data);
+                    }
+                    return data;
+                }
+            });
+        }
 
         // DataTables configuration
         $table.DataTable({
