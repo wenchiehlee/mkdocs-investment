@@ -19,6 +19,19 @@ document$.subscribe(function() {
     });
 
     function renderChart(elementId, data, title) {
+        // Handle data wrapping (if data is object like {margin_balance: [...]})
+        if (!Array.isArray(data)) {
+            // Try to find the array
+            if (data.margin_balance && Array.isArray(data.margin_balance)) {
+                data = data.margin_balance;
+            } else if (data.data && Array.isArray(data.data)) {
+                data = data.data;
+            } else {
+                console.error('Invalid chart data format:', data);
+                return;
+            }
+        }
+
         // Data is expected to be [[timestamp, value], ...]
         // Ensure data is sorted by date
         data.sort((a, b) => a[0] - b[0]);
