@@ -29,13 +29,19 @@ document$.subscribe(function() {
             return;
         }
 
+        console.log("charts.js: Rendering multi-series chart for", elementId);
+        console.log("charts.js: Data keys:", Object.keys(data));
+
         // Prepare Series
         var series = [];
         var yaxis = [];
-        var colors = ['#000000', '#FFD700', '#FF4560']; // Black, Gold, Red
+        var colors = [];
+        var strokeWidths = [];
+        var fillTypes = [];
 
-        // 1. Closing Price (Line)
-        if (data.closing_price) {
+        // 1. Closing Price (Line) - Black
+        if (data.closing_price && data.closing_price.length > 0) {
+            console.log("charts.js: Adding Closing Price series (" + data.closing_price.length + " points)");
             var priceData = data.closing_price.sort((a, b) => a[0] - b[0]);
             series.push({
                 name: '收盤價 (元)',
@@ -49,10 +55,14 @@ document$.subscribe(function() {
                 labels: { style: { colors: '#000000' }, formatter: (val) => val.toFixed(1) },
                 title: { text: "收盤價 (元)", style: { color: '#000000' } }
             });
+            colors.push('#000000');
+            strokeWidths.push(3);
+            fillTypes.push('solid');
         }
 
-        // 2. Margin Balance (Area)
-        if (data.margin_balance) {
+        // 2. Margin Balance (Area) - Gold
+        if (data.margin_balance && data.margin_balance.length > 0) {
+            console.log("charts.js: Adding Margin Balance series (" + data.margin_balance.length + " points)");
             var balanceData = data.margin_balance.sort((a, b) => a[0] - b[0]);
             series.push({
                 name: '融資餘額 (億)',
@@ -67,10 +77,14 @@ document$.subscribe(function() {
                 labels: { style: { colors: '#DAA520' }, formatter: (val) => val.toFixed(1) },
                 title: { text: "融資餘額 (億)", style: { color: '#DAA520' } }
             });
+            colors.push('#FFD700');
+            strokeWidths.push(0); // Area usually has no stroke or thin stroke
+            fillTypes.push('gradient');
         }
 
-        // 3. Margin Ratio (Line)
-        if (data.margin_ratio) {
+        // 3. Margin Ratio (Line) - Red
+        if (data.margin_ratio && data.margin_ratio.length > 0) {
+            console.log("charts.js: Adding Margin Ratio series (" + data.margin_ratio.length + " points)");
             var ratioData = data.margin_ratio.sort((a, b) => a[0] - b[0]);
             series.push({
                 name: '融資比率 (%)',
@@ -85,6 +99,14 @@ document$.subscribe(function() {
                 labels: { style: { colors: '#FF4560' }, formatter: (val) => val.toFixed(2) + '%' },
                 title: { text: "融資比率 (%)", style: { color: '#FF4560' } }
             });
+            colors.push('#FF4560');
+            strokeWidths.push(2);
+            fillTypes.push('solid');
+        }
+
+        if (series.length === 0) {
+            console.warn("charts.js: No valid series data found to render.");
+            return;
         }
 
         var options = {
@@ -97,10 +119,10 @@ document$.subscribe(function() {
                 zoom: { autoScaleYaxis: true },
                 toolbar: { show: true }
             },
-            stroke: { width: [3, 0, 2], curve: 'smooth' },
+            stroke: { width: strokeWidths, curve: 'smooth' },
             colors: colors,
             fill: {
-                type: ['solid', 'gradient', 'solid'],
+                type: fillTypes,
                 gradient: {
                     inverseColors: false,
                     shade: 'light',
