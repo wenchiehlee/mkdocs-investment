@@ -405,8 +405,9 @@ document$.subscribe(function() {
                         });
                     }
                 }
+                
                 // --- Custom Filter for Margin Daily Report (8 columns) ---
-                else if (headerText.includes('融資餘額') || columnCount === 8) {
+                if (headerText.includes('融資餘額') || columnCount === 8) {
                     console.log('Margin Daily Report detected.');
                     var tableApi = this.api();
                     var $wrapper = $table.closest('.dataTables_wrapper');
