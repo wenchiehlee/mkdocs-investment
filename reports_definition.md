@@ -104,13 +104,27 @@ For individual stock reports (`stage2-cleaning-margin_daily-report-XXXX.md`), re
 
 1.  **Data Generation:**
     *   Generate a JSON file: `margin_daily-{stock_id}.json`.
-    *   **Content:** JSON Array of Arrays `[[timestamp_ms, value], ...]`.
+    *   **Content:** A JSON object with three data series:
+        ```json
+        {
+          "margin_balance": [[timestamp_ms, value_billion], ...],
+          "closing_price": [[timestamp_ms, price], ...],
+          "margin_ratio": [[timestamp_ms, percent], ...]
+        }
+        ```
+    *   **Timestamps:** Unix timestamp in milliseconds.
+    *   **Sorting:** Data should be sorted by date ascending.
+
 2.  **Markdown Template:**
     *   Use a placeholder `div` instead of `![](.svg)`.
     *   **Syntax:**
         ```html
         <div class="margin-chart" data-url="../margin_daily-{stock_id}.json" data-title="融資餘額"></div>
         ```
+    *   **Rendering:** `charts.js` detects this `div` and renders a multi-axis ApexChart:
+        *   **Left Axis (Black):** Closing Price (Line).
+        *   **Right Axis 1 (Gold):** Margin Balance (Area).
+        *   **Right Axis 2 (Red):** Margin Ratio (Line).
 
 ### 2.4 ROA/ROE Report (`stage2-cleaning-roa-roe-report-all.md`)
 *   **Columns:** 6 Columns (Code, Name, Industry, ROE, ROA, Link/Range).
@@ -125,8 +139,8 @@ For individual stock reports (`stage2-cleaning-margin_daily-report-XXXX.md`), re
 
 ## 3. Implementation Checklist for Generator
 
-- [ ] **JSON Output:** Update analyzer to save `margin_daily-*.json`.
-- [ ] **Chart Template:** Update Margin Report template to output `<div class="margin-chart" ...>`.
+- [x] **JSON Output:** Updated analyzer to save `margin_daily-*.json` with 3-series data structure.
+- [x] **Chart Template:** Updated Margin Report template to output `<div class="margin-chart" ...>`.
 - [ ] **ROA/ROE Revamp:**
     - [ ] Add Frontmatter & Styles.
     - [ ] Add Summary Cards.
