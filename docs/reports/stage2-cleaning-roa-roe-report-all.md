@@ -24,7 +24,7 @@ description: ROA/ROE 報告總覽 - 所有股票 - 自動產生
 # :chart: ROA/ROE 報告總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-01-16 10:39:40 CST
+    **:calendar: 產生時間**: 2026-01-16 11:54:24 CST
     **:building_construction: 處理股票總數**: 130
     **:chart_with_upwards_trend: 報告類型**: 各股盈利能力分析
 
