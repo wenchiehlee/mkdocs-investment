@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-15
+date: 2026-01-16
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 金興精密 (7732) - 自動產生
     **:building_construction: 公司名稱**: 金興精密  
     **:identification_card: 股票代號**: 7732  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-15 22:30:05 CST
+    **:clock3: 更新時間**: 2026-01-16 10:44:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -199,7 +199,7 @@ description: 月營收表 金興精密 (7732) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-15 22:30:05 CST
+- **產生時間**: 2026-01-16 10:44:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
