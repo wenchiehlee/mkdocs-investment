@@ -407,6 +407,7 @@ document$.subscribe(function() {
                 }
                 // --- Custom Filter for Margin Daily Report (8 columns) ---
                 else if (headerText.includes('融資餘額') || columnCount === 8) {
+                    console.log('Margin Daily Report detected.');
                     var tableApi = this.api();
                     var $wrapper = $table.closest('.dataTables_wrapper');
                     
@@ -418,7 +419,14 @@ document$.subscribe(function() {
                         }
                     });
 
+                    // Fallback to index 5 if not found by text (standard position)
+                    if (ratioColIndex === -1 && columnCount === 8) {
+                        console.log('Ratio column not found by name, defaulting to index 5.');
+                        ratioColIndex = 5;
+                    }
+
                     if (ratioColIndex !== -1) {
+                        console.log('Injecting Margin Ratio filter for column index:', ratioColIndex);
                         // Create filter container
                         var $filterContainer = $('<div class="margin-filter-container" style="margin-bottom: 10px; display: flex; align-items: center; background: var(--md-code-bg-color); padding: 8px; border-radius: 4px;"></div>');
                         var $label = $('<label style="margin-right: 8px; font-weight: bold; color: var(--md-typeset-color);">🔍 篩選 比率 >= </label>');
