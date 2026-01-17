@@ -24,7 +24,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 # :bar_chart: 股利分配總覽報告 - 全部股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-01-17 12:05:23  
+    **:calendar: 產生時間**: 2026-01-17 20:42:17  
     **:building_construction: 分析股票總數**: 126 檔 (有效 103 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析
 
@@ -1537,7 +1537,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-01-17 12:05:24
+    - **報告產生時間**: 2026-01-17 20:42:17
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
