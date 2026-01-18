@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-17
+date: 2026-01-18
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
     **:building_construction: 公司名稱**: 宏碁資訊  
     **:identification_card: 股票代號**: 6811  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-17 22:24:56 CST
+    **:clock3: 更新時間**: 2026-01-18 12:15:13 CST
 
 ## :bar_chart: 績效概覽
 
@@ -237,7 +237,7 @@ description: 月營收表 宏碁資訊 (6811) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-17 22:24:56 CST
+- **產生時間**: 2026-01-18 12:15:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
