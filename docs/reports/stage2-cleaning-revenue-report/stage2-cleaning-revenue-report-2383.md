@@ -25,7 +25,7 @@ description: 月營收表 台光電 (2383) - 自動產生
     **:building_construction: 公司名稱**: 台光電  
     **:identification_card: 股票代號**: 2383  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-19 18:36:52 CST
+    **:clock3: 更新時間**: 2026-01-19 22:37:22 CST
 
 ## :bar_chart: 績效概覽
 
@@ -105,7 +105,7 @@ description: 月營收表 台光電 (2383) - 自動產生
 | **2024/01** | **44.85** | <span style="color: #FF7F7F; font-weight: bold;">+104.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+104.1</span> | **461** | <span style="color: #B22222; font-weight: bold;">17.3</span> | <span style="color: #FF4500; font-weight: bold;">26.64</span> |
 | **2023/12** | **43.08** | <span style="color: #FF7F7F; font-weight: bold;">+58.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.78</span> | **382** | <span style="color: #B22222; font-weight: bold;">16.35</span> | <span style="color: #DC143C; font-weight: bold;">23.36</span> |
 | **2023/11** | **42.25** | <span style="color: #FF4500; font-weight: bold;">+39.6</span> | <span style="color: #8B0000; font-weight: bold;">+2.86</span> | **380** | <span style="color: #B22222; font-weight: bold;">16.26</span> | <span style="color: #DC143C; font-weight: bold;">23.37</span> |
-| **2023/10** | **43.49** | <span style="color: #FF4500; font-weight: bold;">+38.3</span> | <span style="color: #002818; font-weight: bold;">-0.5</span> | **359** | <span style="color: #B22222; font-weight: bold;">16.16</span> | <span style="color: #DC143C; font-weight: bold;">22.21</span> |
+| **2023/10** | **43.49** | <span style="color: #FF4500; font-weight: bold;">+38.3</span> | <span style="color: #002818; font-weight: bold;">-0.5</span> | **359** | <span style="color: #B22222; font-weight: bold;">16.17</span> | <span style="color: #DC143C; font-weight: bold;">22.21</span> |
 | **2023/09** | **43.37** | <span style="color: #DC143C; font-weight: bold;">+29.3</span> | <span style="color: #002818; font-weight: bold;">-4.6</span> | **428** | <span style="color: #B22222; font-weight: bold;">16.07</span> | <span style="color: #FF4500; font-weight: bold;">26.63</span> |
 | **2023/08** | **38.91** | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | <span style="color: #002818; font-weight: bold;">-8.9</span> | **437.5** | <span style="color: #B22222; font-weight: bold;">15.98</span> | <span style="color: #FF4500; font-weight: bold;">27.38</span> |
 | **2023/07** | **36.46** | <span style="color: #B22222; font-weight: bold;">+10.6</span> | <span style="color: #004225; font-weight: bold;">-13</span> | **414** | <span style="color: #B22222; font-weight: bold;">15.89</span> | <span style="color: #FF4500; font-weight: bold;">26.06</span> |
@@ -414,7 +414,7 @@ description: 月營收表 台光電 (2383) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-19 18:36:52 CST
+- **產生時間**: 2026-01-19 22:37:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

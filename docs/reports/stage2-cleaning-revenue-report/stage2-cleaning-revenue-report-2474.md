@@ -25,7 +25,7 @@ description: 月營收表 可成 (2474) - 自動產生
     **:building_construction: 公司名稱**: 可成  
     **:identification_card: 股票代號**: 2474  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-19 18:36:52 CST
+    **:clock3: 更新時間**: 2026-01-19 22:37:22 CST
 
 ## :bar_chart: 績效概覽
 
@@ -121,7 +121,7 @@ description: 月營收表 可成 (2474) - 自動產生
 | **2022/09** | **29.85** | <span style="color: #002818; font-weight: bold;">-5.28</span> | <span style="color: #228B22; font-weight: bold;">-35.6</span> | **172.5** | <span style="color: #004225; font-weight: bold;">14.18</span> | <span style="color: #002818; font-weight: bold;">12.16</span> |
 | **2022/08** | **28.7** | <span style="color: #004225; font-weight: bold;">-11.6</span> | <span style="color: #228B22; font-weight: bold;">-38.8</span> | **185.5** | <span style="color: #004225; font-weight: bold;">13.86</span> | <span style="color: #8B0000; font-weight: bold;">13.38</span> |
 | **2022/07** | **28.21** | <span style="color: #004225; font-weight: bold;">-18.7</span> | <span style="color: #32CD32; font-weight: bold;">-42.2</span> | **170.5** | <span style="color: #004225; font-weight: bold;">13.54</span> | <span style="color: #8B0000; font-weight: bold;">12.59</span> |
-| **2022/06** | **22.03** | <span style="color: #228B22; font-weight: bold;">-33.9</span> | <span style="color: #32CD32; font-weight: bold;">-45.7</span> | **165.5** | <span style="color: #004225; font-weight: bold;">13.22</span> | <span style="color: #8B0000; font-weight: bold;">12.51</span> |
+| **2022/06** | **22.03** | <span style="color: #228B22; font-weight: bold;">-33.9</span> | <span style="color: #32CD32; font-weight: bold;">-45.7</span> | **165.5** | <span style="color: #004225; font-weight: bold;">13.23</span> | <span style="color: #8B0000; font-weight: bold;">12.51</span> |
 | **2022/05** | **19.5** | <span style="color: #32CD32; font-weight: bold;">-40.3</span> | <span style="color: #32CD32; font-weight: bold;">-47.7</span> | **164** | <span style="color: #004225; font-weight: bold;">12.91</span> | <span style="color: #8B0000; font-weight: bold;">12.71</span> |
 | **2022/04** | **11.18** | <span style="color: #90EE90; font-weight: bold;">-70.6</span> | <span style="color: #32CD32; font-weight: bold;">-49.2</span> | **145** | <span style="color: #004225; font-weight: bold;">12.59</span> | <span style="color: #002818; font-weight: bold;">11.52</span> |
 | **2022/03** | **26.83** | <span style="color: #32CD32; font-weight: bold;">-41</span> | <span style="color: #32CD32; font-weight: bold;">-42.8</span> | **144.5** | <span style="color: #004225; font-weight: bold;">12.27</span> | <span style="color: #002818; font-weight: bold;">11.78</span> |
@@ -414,7 +414,7 @@ description: 月營收表 可成 (2474) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-19 18:36:52 CST
+- **產生時間**: 2026-01-19 22:37:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

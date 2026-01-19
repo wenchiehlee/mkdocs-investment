@@ -25,7 +25,7 @@ description: 月營收表 日月光投控 (3711) - 自動產生
     **:building_construction: 公司名稱**: 日月光投控  
     **:identification_card: 股票代號**: 3711  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-19 18:36:52 CST
+    **:clock3: 更新時間**: 2026-01-19 22:37:22 CST
 
 ## :bar_chart: 績效概覽
 
@@ -110,7 +110,7 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 | **2023/08** | **522.8** | <span style="color: #004225; font-weight: bold;">-18.1</span> | <span style="color: #004225; font-weight: bold;">-13.8</span> | **118** | <span style="color: #8B0000; font-weight: bold;">9.77</span> | <span style="color: #002818; font-weight: bold;">12.08</span> |
 | **2023/07** | **483.5** | <span style="color: #004225; font-weight: bold;">-16.9</span> | <span style="color: #004225; font-weight: bold;">-13.1</span> | **114.5** | <span style="color: #8B0000; font-weight: bold;">10.36</span> | <span style="color: #004225; font-weight: bold;">11.05</span> |
 | **2023/06** | **467.2** | <span style="color: #004225; font-weight: bold;">-19.4</span> | <span style="color: #004225; font-weight: bold;">-12.4</span> | **110.5** | <span style="color: #B22222; font-weight: bold;">10.96</span> | <span style="color: #004225; font-weight: bold;">10.08</span> |
-| **2023/05** | **462.4** | <span style="color: #004225; font-weight: bold;">-14</span> | <span style="color: #004225; font-weight: bold;">-10.7</span> | **111.5** | <span style="color: #B22222; font-weight: bold;">11.55</span> | <span style="color: #004225; font-weight: bold;">9.65</span> |
+| **2023/05** | **462.4** | <span style="color: #004225; font-weight: bold;">-14</span> | <span style="color: #004225; font-weight: bold;">-10.7</span> | **111.5** | <span style="color: #B22222; font-weight: bold;">11.56</span> | <span style="color: #004225; font-weight: bold;">9.65</span> |
 | **2023/04** | **433.1** | <span style="color: #004225; font-weight: bold;">-11</span> | <span style="color: #002818; font-weight: bold;">-9.75</span> | **101** | <span style="color: #B22222; font-weight: bold;">12.15</span> | <span style="color: #006400; font-weight: bold;">8.31</span> |
 | **2023/03** | **457.8** | <span style="color: #004225; font-weight: bold;">-11.9</span> | <span style="color: #002818; font-weight: bold;">-9.34</span> | **112.5** | <span style="color: #B22222; font-weight: bold;">12.74</span> | <span style="color: #006400; font-weight: bold;">8.83</span> |
 | **2023/02** | **399.8** | <span style="color: #002818; font-weight: bold;">-8.77</span> | <span style="color: #002818; font-weight: bold;">-7.88</span> | **106** | <span style="color: #DC143C; font-weight: bold;">13.34</span> | <span style="color: #006400; font-weight: bold;">7.95</span> |
@@ -267,7 +267,7 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-19 18:36:52 CST
+- **產生時間**: 2026-01-19 22:37:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

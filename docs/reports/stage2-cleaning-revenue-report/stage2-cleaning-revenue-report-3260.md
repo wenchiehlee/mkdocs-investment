@@ -25,7 +25,7 @@ description: 月營收表 威剛 (3260) - 自動產生
     **:building_construction: 公司名稱**: 威剛  
     **:identification_card: 股票代號**: 3260  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-19 18:36:52 CST
+    **:clock3: 更新時間**: 2026-01-19 22:37:22 CST
 
 ## :bar_chart: 績效概覽
 
@@ -112,7 +112,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 | **2023/06** | **22.83** | <span style="color: #006400; font-weight: bold;">-23.9</span> | <span style="color: #006400; font-weight: bold;">-23.8</span> | **89** | <span style="color: #002818; font-weight: bold;">4.2</span> | <span style="color: #004225; font-weight: bold;">21.19</span> |
 | **2023/05** | **24.54** | <span style="color: #004225; font-weight: bold;">-12.5</span> | <span style="color: #006400; font-weight: bold;">-23.8</span> | **89.3** | <span style="color: #002818; font-weight: bold;">4.03</span> | <span style="color: #002818; font-weight: bold;">22.15</span> |
 | **2023/04** | **21.29** | <span style="color: #006400; font-weight: bold;">-26.8</span> | <span style="color: #006400; font-weight: bold;">-26.3</span> | **75** | <span style="color: #002818; font-weight: bold;">3.86</span> | <span style="color: #004225; font-weight: bold;">19.41</span> |
-| **2023/03** | **25.39** | <span style="color: #006400; font-weight: bold;">-22</span> | <span style="color: #006400; font-weight: bold;">-26.1</span> | **79.5** | <span style="color: #002818; font-weight: bold;">3.69</span> | <span style="color: #004225; font-weight: bold;">21.52</span> |
+| **2023/03** | **25.39** | <span style="color: #006400; font-weight: bold;">-22</span> | <span style="color: #006400; font-weight: bold;">-26.1</span> | **79.5** | <span style="color: #002818; font-weight: bold;">3.7</span> | <span style="color: #004225; font-weight: bold;">21.52</span> |
 | **2023/02** | **24.93** | <span style="color: #006400; font-weight: bold;">-21.7</span> | <span style="color: #006400; font-weight: bold;">-28.2</span> | **66.3** | <span style="color: #002818; font-weight: bold;">3.53</span> | <span style="color: #004225; font-weight: bold;">18.8</span> |
 | **2023/01** | **21.77** | <span style="color: #228B22; font-weight: bold;">-34.4</span> | <span style="color: #228B22; font-weight: bold;">-34.4</span> | **65.5** | <span style="color: #002818; font-weight: bold;">3.36</span> | <span style="color: #004225; font-weight: bold;">19.5</span> |
 | **2022/12** | **23.56** | <span style="color: #006400; font-weight: bold;">-27.9</span> | <span style="color: #004225; font-weight: bold;">-11.4</span> | **57** | <span style="color: #002818; font-weight: bold;">3.19</span> | <span style="color: #004225; font-weight: bold;">17.87</span> |
@@ -414,7 +414,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2026-01-19 18:36:52 CST
+- **產生時間**: 2026-01-19 22:37:22 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
