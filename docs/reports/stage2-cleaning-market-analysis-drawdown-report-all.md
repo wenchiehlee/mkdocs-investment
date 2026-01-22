@@ -1,6 +1,6 @@
 ---
 authors: [Stock Analysis System]
-date: 2026-01-14
+date: 2026-01-22
 categories:
   - 市場分析
   - 風險分析
@@ -12,7 +12,7 @@ tags:
 title: 市場分析回檔報告總覽 - 全部股票
 comments: false
 draft: false
-description: TWSE/TPEX 市場分析回檔報告總覽 - 全部 92 檔股票 - 自動產生
+description: TWSE/TPEX 市場分析回檔報告總覽 - 全部 93 檔股票 - 自動產生
 ---
 
 <style>
@@ -24,8 +24,8 @@ description: TWSE/TPEX 市場分析回檔報告總覽 - 全部 92 檔股票 - �
 # :bar_chart: 市場分析回檔報告總覽 - 全部股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-01-14 23:02:45 CST
-    **:building_construction: 分析股票總數**: 92 檔
+    **:calendar: 產生時間**: 2026-01-22 21:54:56 CST
+    **:building_construction: 分析股票總數**: 93 檔
     **:chart_with_upwards_trend: 報告類型**: 年度報酬與最大回檔分析
     **:file_folder: 資料來源**: Type 12 (ShowMonthlyK_ChartFlow) 月收盤價
 
@@ -35,10 +35,10 @@ description: TWSE/TPEX 市場分析回檔報告總覽 - 全部 92 檔股票 - �
 
 | :chart: 指標 | :bar_chart: 平均值 | :trophy: 最佳股票 | :warning: 最弱股票 |
 |:--------:|:-------------:|:-----------:|:------------:|
-| **平均年度報酬率** | +19.07% | [**2408**](stage2-cleaning-market-analysis-drawdown-report/market-analysis-drawdown-2408/): +144.7% | [**6902**](stage2-cleaning-market-analysis-drawdown-report/market-analysis-drawdown-6902/): -32.7% |
-| **平均年內最大回檔** | -23.99% | [**6763**](stage2-cleaning-market-analysis-drawdown-report/market-analysis-drawdown-6763/): -47.4% | - |
-| **平均年內最大漲幅** | +37.84% | [**2408**](stage2-cleaning-market-analysis-drawdown-report/market-analysis-drawdown-2408/): +153.7% | - |
-| **平均年內最大跌幅** | -15.05% | - | - |
+| **平均年度報酬率** | +18.93% | [**2408**](stage2-cleaning-market-analysis-drawdown-report/market-analysis-drawdown-2408/): +144.7% | [**6902**](stage2-cleaning-market-analysis-drawdown-report/market-analysis-drawdown-6902/): -32.7% |
+| **平均年內最大回檔** | -23.83% | [**6763**](stage2-cleaning-market-analysis-drawdown-report/market-analysis-drawdown-6763/): -47.4% | - |
+| **平均年內最大漲幅** | +37.44% | [**2408**](stage2-cleaning-market-analysis-drawdown-report/market-analysis-drawdown-2408/): +153.7% | - |
+| **平均年內最大跌幅** | -14.97% | - | - |
 
 ---
 
@@ -928,6 +928,16 @@ description: TWSE/TPEX 市場分析回檔報告總覽 - 全部 92 檔股票 - �
 <td>2</td>
 </tr>
 <tr>
+<td>[**7722**](stage2-cleaning-market-analysis-drawdown-report/market-analysis-drawdown-7722/)</td>
+<td>LINEPAY</td>
+<td>+5.44%</td>
+<td>-8.80%</td>
+<td>+1.17%</td>
+<td>-7.94%</td>
+<td>🟡 良好</td>
+<td>2</td>
+</tr>
+<tr>
 <td>[**8016**](stage2-cleaning-market-analysis-drawdown-report/market-analysis-drawdown-8016/)</td>
 <td>矽創</td>
 <td>+15.31%</td>
@@ -999,7 +1009,7 @@ description: TWSE/TPEX 市場分析回檔報告總覽 - 全部 92 檔股票 - �
     - **資料來源**: GoodInfo.tw Type 12 (ShowMonthlyK_ChartFlow)
     - **資料頻率**: 月度收盤價
     - **分析期間**: 最長可達 20 年月度數據
-    - **股票總數**: 92 檔
+    - **股票總數**: 93 檔
 
 !!! note "計算方法"
     - **年度報酬率**: (當年12月收盤價 - 前年12月收盤價) / 前年12月收盤價 × 100%
@@ -1010,4 +1020,4 @@ description: TWSE/TPEX 市場分析回檔報告總覽 - 全部 92 檔股票 - �
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-14 23:02:45 CST*
+*數據更新時間: 2026-01-22 21:54:56 CST*
