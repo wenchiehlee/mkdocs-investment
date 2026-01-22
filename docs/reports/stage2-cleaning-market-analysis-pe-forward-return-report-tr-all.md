@@ -2,7 +2,7 @@
 title: "本益比與未來報酬率分析 - 完整總覽 (總報酬含息)"
 authors:
   - Stock Analysis System
-date: 2026-01-13
+date: 2026-01-23
 categories:
   - 市場分析
   - 估值分析
@@ -21,7 +21,7 @@ description: "全市場本益比與未來報酬率分析 - 跨期間完整總覽
     - **涵蓋期間**: 3個月 至 10年 共10個投資期間
     - **分析方法**: 本益比與未來報酬率歷史回測分析
     - **資料來源**: Type 12 (ShowMonthlyK_ChartFlow) 月收盤價與本益比
-    - **報告生成時間**: 2026-01-13 14:07:48 CST
+    - **報告生成時間**: 2026-01-23 00:18:49 CST
 
 ---
 
@@ -31,9 +31,9 @@ description: "全市場本益比與未來報酬率分析 - 跨期間完整總覽
 
 | 投資期間 | 分析股票數 | 平均預期報酬率 | 平均R² | 最佳機會 | 最高預期報酬 | 📄 詳細報告 |
 |:---:|:---:|:---:|:---:|:---|:---:|:---|
-| **3個月** | 121 檔 | **+43.88%** | 0.1582 | 5269 祥碩 | **+589.69%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.25y-tr.md) |
-| **6個月** | 121 檔 | **+22.36%** | 0.2152 | 7728 光焱科技 | **+175.15%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.5y-tr.md) |
-| **1年** | 121 檔 | **+9.34%** | 0.1946 | 6425 易發 | **+84.44%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-1y-tr.md) |
+| **3個月** | 121 檔 | **+44.05%** | 0.1577 | 5269 祥碩 | **+589.69%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.25y-tr.md) |
+| **6個月** | 121 檔 | **+22.35%** | 0.2154 | 7728 光焱科技 | **+175.15%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.5y-tr.md) |
+| **1年** | 121 檔 | **+8.87%** | 0.2038 | 6425 易發 | **+84.44%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-1y-tr.md) |
 | **2年** | 121 檔 | **+10.48%** | 0.1900 | 6510 精測 | **+95.36%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-2y-tr.md) |
 | **3年** | 121 檔 | **+15.35%** | 0.2079 | 6425 易發 | **+60.13%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-3y-tr.md) |
 | **4年** | 121 檔 | **+11.90%** | 0.1733 | 2603 長榮 | **+34.98%** | [查看報告](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-4y-tr.md) |
@@ -50,9 +50,9 @@ description: "全市場本益比與未來報酬率分析 - 跨期間完整總覽
 
 適合波段操作、短線交易、技術分析搭配估值判斷
 
-- **[3個月報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.25y-tr.md)** - 121檔股票，平均預期報酬率 **+43.88%**
-- **[6個月報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.5y-tr.md)** - 121檔股票，平均預期報酬率 **+22.36%**
-- **[1年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-1y-tr.md)** - 121檔股票，平均預期報酬率 **+9.34%**
+- **[3個月報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.25y-tr.md)** - 121檔股票，平均預期報酬率 **+44.05%**
+- **[6個月報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.5y-tr.md)** - 121檔股票，平均預期報酬率 **+22.35%**
+- **[1年報酬分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-1y-tr.md)** - 121檔股票，平均預期報酬率 **+8.87%**
 
 ### 🚶 中期投資 (2年 - 5年)
 
@@ -174,20 +174,20 @@ description: "全市場本益比與未來報酬率分析 - 跨期間完整總覽
 
 - **[3個月期本益比與報酬率分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.25y-tr.md)**
   - 分析股票: 121檔
-  - 平均預期報酬率: **+43.88%**
-  - 平均R²值: 0.1582
+  - 平均預期報酬率: **+44.05%**
+  - 平均R²值: 0.1577
   - 最佳標的: 5269 祥碩 (+589.69%)
 
 - **[6個月期本益比與報酬率分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-0.5y-tr.md)**
   - 分析股票: 121檔
-  - 平均預期報酬率: **+22.36%**
-  - 平均R²值: 0.2152
+  - 平均預期報酬率: **+22.35%**
+  - 平均R²值: 0.2154
   - 最佳標的: 7728 光焱科技 (+175.15%)
 
 - **[1年期本益比與報酬率分析](stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-1y-tr.md)**
   - 分析股票: 121檔
-  - 平均預期報酬率: **+9.34%**
-  - 平均R²值: 0.1946
+  - 平均預期報酬率: **+8.87%**
+  - 平均R²值: 0.2038
   - 最佳標的: 6425 易發 (+84.44%)
 
 
@@ -242,5 +242,5 @@ description: "全市場本益比與未來報酬率分析 - 跨期間完整總覽
 ---
 
 *本總覽由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-13 14:07:48 CST*
+*數據更新時間: 2026-01-23 00:18:49 CST*
 *涵蓋期間: 10個投資期間 (3個月至10年)*

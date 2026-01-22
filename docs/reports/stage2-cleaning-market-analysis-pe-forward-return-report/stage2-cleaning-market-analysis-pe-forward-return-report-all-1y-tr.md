@@ -2,7 +2,7 @@
 title: "本益比與1未來報酬率分析 - 全股總覽 (含息)"
 authors:
   - Stock Analysis System
-date: 2026-01-13
+date: 2026-01-23
 categories:
   - 市場分析
   - 估值分析
@@ -27,7 +27,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
     - **報酬計算**: 總報酬 (含現金股利)
     - **分析方法**: 本益比與1未來報酬率回歸分析
     - **資料來源**: Type 12 (ShowMonthlyK_ChartFlow) 月收盤價與本益比
-    - **報告生成時間**: 2026-01-13 14:07:47 CST
+    - **報告生成時間**: 2026-01-23 00:18:48 CST
 
 ## 📊 全市場估值分析總覽
 
@@ -52,7 +52,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 </thead>
 <tbody>
 <tr>
-<td>[6425](market-analysis-pe-forward-return-6425-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6425-1y-tr.md">6425</a></td>
 <td>易發</td>
 <td>電機機械</td>
 <td>110.90</td>
@@ -63,7 +63,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>72</td>
 </tr>
 <tr>
-<td>[6442](market-analysis-pe-forward-return-6442-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6442-1y-tr.md">6442</a></td>
 <td>光聖</td>
 <td>通信網路業</td>
 <td>45.45</td>
@@ -74,7 +74,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>114</td>
 </tr>
 <tr>
-<td>[2603](market-analysis-pe-forward-return-2603-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2603-1y-tr.md">2603</a></td>
 <td>長榮</td>
 <td>航運業</td>
 <td>3.47</td>
@@ -85,7 +85,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[7703](market-analysis-pe-forward-return-7703-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-7703-1y-tr.md">7703</a></td>
 <td>銳澤</td>
 <td>其他電子業</td>
 <td>19.23</td>
@@ -96,7 +96,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>2</td>
 </tr>
 <tr>
-<td>[5269](market-analysis-pe-forward-return-5269-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-5269-1y-tr.md">5269</a></td>
 <td>祥碩</td>
 <td>半導體業</td>
 <td>38.49</td>
@@ -107,7 +107,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>145</td>
 </tr>
 <tr>
-<td>[2345](market-analysis-pe-forward-return-2345-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2345-1y-tr.md">2345</a></td>
 <td>智邦</td>
 <td>通信網路業</td>
 <td>35.97</td>
@@ -118,7 +118,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2383](market-analysis-pe-forward-return-2383-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2383-1y-tr.md">2383</a></td>
 <td>台光電</td>
 <td>電子零組件業</td>
 <td>22.22</td>
@@ -129,7 +129,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2458](market-analysis-pe-forward-return-2458-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2458-1y-tr.md">2458</a></td>
 <td>義隆</td>
 <td>半導體業</td>
 <td>15.78</td>
@@ -140,7 +140,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[5274](market-analysis-pe-forward-return-5274-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-5274-1y-tr.md">5274</a></td>
 <td>信驊</td>
 <td>半導體業</td>
 <td>48.87</td>
@@ -151,7 +151,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>141</td>
 </tr>
 <tr>
-<td>[3014](market-analysis-pe-forward-return-3014-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3014-1y-tr.md">3014</a></td>
 <td>聯陽</td>
 <td>半導體業</td>
 <td>14.85</td>
@@ -162,7 +162,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[3029](market-analysis-pe-forward-return-3029-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3029-1y-tr.md">3029</a></td>
 <td>零壹</td>
 <td>資訊服務業</td>
 <td>26.53</td>
@@ -173,7 +173,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2357](market-analysis-pe-forward-return-2357-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2357-1y-tr.md">2357</a></td>
 <td>華碩</td>
 <td>電腦及週邊設備業</td>
 <td>14.57</td>
@@ -184,7 +184,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[3022](market-analysis-pe-forward-return-3022-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3022-1y-tr.md">3022</a></td>
 <td>威強電</td>
 <td>電腦及週邊設備業</td>
 <td>9.05</td>
@@ -195,7 +195,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[8454](market-analysis-pe-forward-return-8454-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-8454-1y-tr.md">8454</a></td>
 <td>富邦媒</td>
 <td>數位雲端</td>
 <td>24.36</td>
@@ -206,7 +206,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>121</td>
 </tr>
 <tr>
-<td>[5904](market-analysis-pe-forward-return-5904-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-5904-1y-tr.md">5904</a></td>
 <td>寶雅</td>
 <td>居家生活</td>
 <td>18.57</td>
@@ -217,7 +217,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2359](market-analysis-pe-forward-return-2359-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2359-1y-tr.md">2359</a></td>
 <td>所羅門</td>
 <td>其他電子業</td>
 <td>200.00</td>
@@ -228,7 +228,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2376](market-analysis-pe-forward-return-2376-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2376-1y-tr.md">2376</a></td>
 <td>技嘉</td>
 <td>電腦及週邊設備業</td>
 <td>18.13</td>
@@ -239,7 +239,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[8299](market-analysis-pe-forward-return-8299-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-8299-1y-tr.md">8299</a></td>
 <td>群聯</td>
 <td>半導體業</td>
 <td>13.71</td>
@@ -250,7 +250,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2379](market-analysis-pe-forward-return-2379-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2379-1y-tr.md">2379</a></td>
 <td>瑞昱</td>
 <td>半導體業</td>
 <td>19.05</td>
@@ -261,7 +261,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[6231](market-analysis-pe-forward-return-6231-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6231-1y-tr.md">6231</a></td>
 <td>系微</td>
 <td>資訊服務業</td>
 <td>52.37</td>
@@ -272,7 +272,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2454](market-analysis-pe-forward-return-2454-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2454-1y-tr.md">2454</a></td>
 <td>聯發科</td>
 <td>半導體業</td>
 <td>21.14</td>
@@ -283,7 +283,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[6690](market-analysis-pe-forward-return-6690-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6690-1y-tr.md">6690</a></td>
 <td>安碁資訊</td>
 <td>數位雲端</td>
 <td>20.38</td>
@@ -294,7 +294,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>63</td>
 </tr>
 <tr>
-<td>[6669](market-analysis-pe-forward-return-6669-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6669-1y-tr.md">6669</a></td>
 <td>緯穎</td>
 <td>電腦及週邊設備業</td>
 <td>20.70</td>
@@ -305,7 +305,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>70</td>
 </tr>
 <tr>
-<td>[2449](market-analysis-pe-forward-return-2449-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2449-1y-tr.md">2449</a></td>
 <td>京元電子</td>
 <td>半導體業</td>
 <td>17.53</td>
@@ -316,7 +316,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[5536](market-analysis-pe-forward-return-5536-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-5536-1y-tr.md">5536</a></td>
 <td>聖暉</td>
 <td>其他電子業</td>
 <td>17.61</td>
@@ -327,7 +327,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>170</td>
 </tr>
 <tr>
-<td>[7794](market-analysis-pe-forward-return-7794-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-7794-1y-tr.md">7794</a></td>
 <td>宏碁智新</td>
 <td>居家生活</td>
 <td>38.56</td>
@@ -338,7 +338,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>2</td>
 </tr>
 <tr>
-<td>[2330](market-analysis-pe-forward-return-2330-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2330-1y-tr.md">2330</a></td>
 <td>台積電</td>
 <td>半導體業</td>
 <td>23.76</td>
@@ -349,7 +349,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2474](market-analysis-pe-forward-return-2474-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2474-1y-tr.md">2474</a></td>
 <td>可成</td>
 <td>其他電子業</td>
 <td>10.00</td>
@@ -360,7 +360,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[4953](market-analysis-pe-forward-return-4953-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-4953-1y-tr.md">4953</a></td>
 <td>緯軟</td>
 <td>資訊服務業</td>
 <td>18.16</td>
@@ -371,7 +371,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>132</td>
 </tr>
 <tr>
-<td>[2303](market-analysis-pe-forward-return-2303-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2303-1y-tr.md">2303</a></td>
 <td>聯電</td>
 <td>半導體業</td>
 <td>11.33</td>
@@ -382,7 +382,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[3653](market-analysis-pe-forward-return-3653-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3653-1y-tr.md">3653</a></td>
 <td>健策</td>
 <td>電子零組件業</td>
 <td>63.15</td>
@@ -393,7 +393,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>182</td>
 </tr>
 <tr>
-<td>[6510](market-analysis-pe-forward-return-6510-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6510-1y-tr.md">6510</a></td>
 <td>精測</td>
 <td>半導體業</td>
 <td>56.72</td>
@@ -404,7 +404,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>106</td>
 </tr>
 <tr>
-<td>[2881](market-analysis-pe-forward-return-2881-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2881-1y-tr.md">2881</a></td>
 <td>富邦金</td>
 <td>金融保險業</td>
 <td>8.38</td>
@@ -415,7 +415,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[3026](market-analysis-pe-forward-return-3026-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3026-1y-tr.md">3026</a></td>
 <td>禾伸堂</td>
 <td>電子零組件業</td>
 <td>14.58</td>
@@ -426,7 +426,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[3293](market-analysis-pe-forward-return-3293-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3293-1y-tr.md">3293</a></td>
 <td>鈊象</td>
 <td>文化創意業</td>
 <td>30.30</td>
@@ -437,7 +437,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>222</td>
 </tr>
 <tr>
-<td>[2347](market-analysis-pe-forward-return-2347-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2347-1y-tr.md">2347</a></td>
 <td>聯強</td>
 <td>電子通路業</td>
 <td>12.83</td>
@@ -448,7 +448,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2377](market-analysis-pe-forward-return-2377-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2377-1y-tr.md">2377</a></td>
 <td>微星</td>
 <td>電腦及週邊設備業</td>
 <td>22.82</td>
@@ -459,7 +459,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[6214](market-analysis-pe-forward-return-6214-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6214-1y-tr.md">6214</a></td>
 <td>精誠</td>
 <td>資訊服務業</td>
 <td>18.86</td>
@@ -470,7 +470,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[4938](market-analysis-pe-forward-return-4938-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-4938-1y-tr.md">4938</a></td>
 <td>和碩</td>
 <td>電腦及週邊設備業</td>
 <td>14.50</td>
@@ -481,7 +481,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>175</td>
 </tr>
 <tr>
-<td>[3034](market-analysis-pe-forward-return-3034-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3034-1y-tr.md">3034</a></td>
 <td>聯詠</td>
 <td>半導體業</td>
 <td>15.02</td>
@@ -492,7 +492,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[3231](market-analysis-pe-forward-return-3231-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3231-1y-tr.md">3231</a></td>
 <td>緯創</td>
 <td>電腦及週邊設備業</td>
 <td>17.02</td>
@@ -503,7 +503,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[3260](market-analysis-pe-forward-return-3260-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3260-1y-tr.md">3260</a></td>
 <td>威剛</td>
 <td>半導體業</td>
 <td>8.48</td>
@@ -514,7 +514,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[8016](market-analysis-pe-forward-return-8016-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-8016-1y-tr.md">8016</a></td>
 <td>矽創</td>
 <td>半導體業</td>
 <td>13.78</td>
@@ -525,7 +525,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[4114](market-analysis-pe-forward-return-4114-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-4114-1y-tr.md">4114</a></td>
 <td>健喬</td>
 <td>生技醫療業</td>
 <td>21.17</td>
@@ -536,7 +536,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[3711](market-analysis-pe-forward-return-3711-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3711-1y-tr.md">3711</a></td>
 <td>日月光投控</td>
 <td>半導體業</td>
 <td>21.54</td>
@@ -547,7 +547,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>81</td>
 </tr>
 <tr>
-<td>[2891](market-analysis-pe-forward-return-2891-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2891-1y-tr.md">2891</a></td>
 <td>中信金</td>
 <td>金融保險業</td>
 <td>10.74</td>
@@ -558,7 +558,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2353](market-analysis-pe-forward-return-2353-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2353-1y-tr.md">2353</a></td>
 <td>宏碁</td>
 <td>電腦及週邊設備業</td>
 <td>21.63</td>
@@ -569,7 +569,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[3356](market-analysis-pe-forward-return-3356-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3356-1y-tr.md">3356</a></td>
 <td>奇偶</td>
 <td>光電業</td>
 <td>7.69</td>
@@ -580,7 +580,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[7708](market-analysis-pe-forward-return-7708-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-7708-1y-tr.md">7708</a></td>
 <td>全家餐飲</td>
 <td>觀光餐旅</td>
 <td>17.07</td>
@@ -591,7 +591,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>2</td>
 </tr>
 <tr>
-<td>[9917](market-analysis-pe-forward-return-9917-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-9917-1y-tr.md">9917</a></td>
 <td>中保科</td>
 <td>其他業</td>
 <td>19.24</td>
@@ -602,7 +602,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2882](market-analysis-pe-forward-return-2882-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2882-1y-tr.md">2882</a></td>
 <td>國泰金</td>
 <td>金融保險業</td>
 <td>9.37</td>
@@ -613,7 +613,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2884](market-analysis-pe-forward-return-2884-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2884-1y-tr.md">2884</a></td>
 <td>玉山金</td>
 <td>金融保險業</td>
 <td>16.53</td>
@@ -624,7 +624,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2450](market-analysis-pe-forward-return-2450-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2450-1y-tr.md">2450</a></td>
 <td>神腦</td>
 <td>通信網路業</td>
 <td>17.43</td>
@@ -635,7 +635,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[6506](market-analysis-pe-forward-return-6506-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6506-1y-tr.md">6506</a></td>
 <td>雙邦</td>
 <td>紡織纖維</td>
 <td>22.27</td>
@@ -646,7 +646,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>164</td>
 </tr>
 <tr>
-<td>[5434](market-analysis-pe-forward-return-5434-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-5434-1y-tr.md">5434</a></td>
 <td>崇越</td>
 <td>電子通路業</td>
 <td>14.52</td>
@@ -657,7 +657,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[6613](market-analysis-pe-forward-return-6613-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6613-1y-tr.md">6613</a></td>
 <td>朋億</td>
 <td>其他電子業</td>
 <td>10.53</td>
@@ -668,7 +668,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>85</td>
 </tr>
 <tr>
-<td>[6561](market-analysis-pe-forward-return-6561-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6561-1y-tr.md">6561</a></td>
 <td>是方</td>
 <td>通信網路業</td>
 <td>34.66</td>
@@ -679,7 +679,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>79</td>
 </tr>
 <tr>
-<td>[2451](market-analysis-pe-forward-return-2451-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2451-1y-tr.md">2451</a></td>
 <td>創見</td>
 <td>半導體業</td>
 <td>16.07</td>
@@ -690,7 +690,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[5203](market-analysis-pe-forward-return-5203-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-5203-1y-tr.md">5203</a></td>
 <td>訊連</td>
 <td>資訊服務業</td>
 <td>24.45</td>
@@ -701,7 +701,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2324](market-analysis-pe-forward-return-2324-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2324-1y-tr.md">2324</a></td>
 <td>仁寶</td>
 <td>電腦及週邊設備業</td>
 <td>16.37</td>
@@ -712,7 +712,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[6123](market-analysis-pe-forward-return-6123-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6123-1y-tr.md">6123</a></td>
 <td>上奇</td>
 <td>資訊服務業</td>
 <td>15.29</td>
@@ -723,7 +723,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[6811](market-analysis-pe-forward-return-6811-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6811-1y-tr.md">6811</a></td>
 <td>宏碁資訊</td>
 <td>數位雲端</td>
 <td>22.12</td>
@@ -734,7 +734,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>29</td>
 </tr>
 <tr>
-<td>[2412](market-analysis-pe-forward-return-2412-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2412-1y-tr.md">2412</a></td>
 <td>中華電</td>
 <td>通信網路業</td>
 <td>25.73</td>
@@ -745,7 +745,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2395](market-analysis-pe-forward-return-2395-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2395-1y-tr.md">2395</a></td>
 <td>研華</td>
 <td>電腦及週邊設備業</td>
 <td>33.16</td>
@@ -756,7 +756,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2332](market-analysis-pe-forward-return-2332-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2332-1y-tr.md">2332</a></td>
 <td>友訊</td>
 <td>通信網路業</td>
 <td>424.20</td>
@@ -767,7 +767,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[3045](market-analysis-pe-forward-return-3045-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3045-1y-tr.md">3045</a></td>
 <td>台灣大</td>
 <td>通信網路業</td>
 <td>24.84</td>
@@ -778,7 +778,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2301](market-analysis-pe-forward-return-2301-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2301-1y-tr.md">2301</a></td>
 <td>光寶科</td>
 <td>電腦及週邊設備業</td>
 <td>19.10</td>
@@ -789,7 +789,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2405](market-analysis-pe-forward-return-2405-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2405-1y-tr.md">2405</a></td>
 <td>輔信</td>
 <td>電腦及週邊設備業</td>
 <td>696.70</td>
@@ -800,7 +800,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2382](market-analysis-pe-forward-return-2382-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2382-1y-tr.md">2382</a></td>
 <td>廣達</td>
 <td>電腦及週邊設備業</td>
 <td>18.53</td>
@@ -811,7 +811,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[6035](market-analysis-pe-forward-return-6035-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6035-1y-tr.md">6035</a></td>
 <td>悠遊卡</td>
 <td>金融保險業</td>
 <td>21.11</td>
@@ -822,7 +822,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>24</td>
 </tr>
 <tr>
-<td>[6757](market-analysis-pe-forward-return-6757-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6757-1y-tr.md">6757</a></td>
 <td>台灣虎航</td>
 <td>航運業</td>
 <td>12.65</td>
@@ -833,7 +833,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>17</td>
 </tr>
 <tr>
-<td>[2308](market-analysis-pe-forward-return-2308-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2308-1y-tr.md">2308</a></td>
 <td>台達電</td>
 <td>電子零組件業</td>
 <td>31.75</td>
@@ -844,7 +844,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2356](market-analysis-pe-forward-return-2356-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2356-1y-tr.md">2356</a></td>
 <td>英業達</td>
 <td>電腦及週邊設備業</td>
 <td>24.68</td>
@@ -855,7 +855,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[3035](market-analysis-pe-forward-return-3035-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3035-1y-tr.md">3035</a></td>
 <td>智原</td>
 <td>半導體業</td>
 <td>59.65</td>
@@ -866,7 +866,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[6285](market-analysis-pe-forward-return-6285-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6285-1y-tr.md">6285</a></td>
 <td>啟碁</td>
 <td>通信網路業</td>
 <td>18.94</td>
@@ -877,7 +877,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2360](market-analysis-pe-forward-return-2360-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2360-1y-tr.md">2360</a></td>
 <td>致茂</td>
 <td>其他電子業</td>
 <td>32.75</td>
@@ -888,7 +888,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2646](market-analysis-pe-forward-return-2646-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2646-1y-tr.md">2646</a></td>
 <td>星宇航空</td>
 <td>航運業</td>
 <td>52.08</td>
@@ -899,7 +899,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>3</td>
 </tr>
 <tr>
-<td>[2317](market-analysis-pe-forward-return-2317-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2317-1y-tr.md">2317</a></td>
 <td>鴻海</td>
 <td>其他電子業</td>
 <td>16.71</td>
@@ -910,7 +910,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[6182](market-analysis-pe-forward-return-6182-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6182-1y-tr.md">6182</a></td>
 <td>合晶</td>
 <td>半導體業</td>
 <td>2710.00</td>
@@ -921,7 +921,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[6850](market-analysis-pe-forward-return-6850-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6850-1y-tr.md">6850</a></td>
 <td>光鼎生技</td>
 <td>生技醫療業</td>
 <td>56.71</td>
@@ -932,7 +932,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>38</td>
 </tr>
 <tr>
-<td>[6526](market-analysis-pe-forward-return-6526-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6526-1y-tr.md">6526</a></td>
 <td>達發</td>
 <td>半導體業</td>
 <td>43.73</td>
@@ -943,7 +943,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>15</td>
 </tr>
 <tr>
-<td>[8272](market-analysis-pe-forward-return-8272-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-8272-1y-tr.md">8272</a></td>
 <td>全景軟體</td>
 <td>資訊服務業</td>
 <td>26.24</td>
@@ -954,7 +954,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>3</td>
 </tr>
 <tr>
-<td>[2354](market-analysis-pe-forward-return-2354-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2354-1y-tr.md">2354</a></td>
 <td>鴻準</td>
 <td>其他電子業</td>
 <td>29.41</td>
@@ -965,7 +965,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[2480](market-analysis-pe-forward-return-2480-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-2480-1y-tr.md">2480</a></td>
 <td>敦陽科</td>
 <td>資訊服務業</td>
 <td>18.40</td>
@@ -976,7 +976,18 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[7705](market-analysis-pe-forward-return-7705-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-7722-1y-tr.md">7722</a></td>
+<td>LINEPAY</td>
+<td>數位雲端</td>
+<td>70.82</td>
+<td>56.94</td>
+<td>🔴 相對高估</td>
+<td>**-33.19%**</td>
+<td>1.0000</td>
+<td>2</td>
+</tr>
+<tr>
+<td><a href="market-analysis-pe-forward-return-7705-1y-tr.md">7705</a></td>
 <td>三商餐飲</td>
 <td>觀光餐旅</td>
 <td>17.24</td>
@@ -987,7 +998,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>2</td>
 </tr>
 <tr>
-<td>[9921](market-analysis-pe-forward-return-9921-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-9921-1y-tr.md">9921</a></td>
 <td>巨大</td>
 <td>運動休閒</td>
 <td>43.94</td>
@@ -998,7 +1009,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>228</td>
 </tr>
 <tr>
-<td>[6763](market-analysis-pe-forward-return-6763-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6763-1y-tr.md">6763</a></td>
 <td>綠界科技</td>
 <td>數位雲端</td>
 <td>31.49</td>
@@ -1009,7 +1020,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>34</td>
 </tr>
 <tr>
-<td>[3558](market-analysis-pe-forward-return-3558-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-3558-1y-tr.md">3558</a></td>
 <td>神準</td>
 <td>通信網路業</td>
 <td>41.61</td>
@@ -1020,7 +1031,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 <td>133</td>
 </tr>
 <tr>
-<td>[6751](market-analysis-pe-forward-return-6751-1y-tr.md)</td>
+<td><a href="market-analysis-pe-forward-return-6751-1y-tr.md">6751</a></td>
 <td>智聯服務</td>
 <td>資訊服務業</td>
 <td>67.83</td>
@@ -1037,8 +1048,8 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 
 | 指標 | 數值 |
 |:---|:---:|
-| **平均預期報酬率** | +9.34% |
-| **平均R²值** | 0.1946 |
+| **平均預期報酬率** | +8.87% |
+| **平均R²值** | 0.2038 |
 | **最高預期報酬率** | +84.44% (6425 易發) |
 | **最低預期報酬率** | -144.02% (6751 智聯服務) |
 
@@ -1049,7 +1060,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 | 估值水準 | 股票數量 | 佔比 |
 |:---|:---:|:---:|
 | 🟢 低估區間 | 0 | 0.0% |
-| 🟡 合理範圍 | 42 | 43.8% |
+| 🟡 合理範圍 | 42 | 43.3% |
 | 🔴 高估區間 | 0 | 0.0% |
 
 ## 🏢 產業別分析
@@ -1072,8 +1083,8 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 | 金融保險業 | 5 | +8.32% |
 | 紡織纖維 | 1 | +7.14% |
 | 通信網路業 | 9 | +3.58% |
-| 數位雲端 | 4 | +2.16% |
 | 生技醫療業 | 2 | -2.18% |
+| 數位雲端 | 5 | -4.91% |
 | 資訊服務業 | 9 | -9.79% |
 | 觀光餐旅 | 2 | -14.41% |
 | 運動休閒 | 1 | -44.93% |
@@ -1084,9 +1095,9 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 
 | R²值範圍 | 解釋力 | 股票數 | 佔比 |
 |:---|:---|:---:|:---:|
-| R² ≥ 0.7 | 強相關 | 8 | 8.5% |
-| 0.4 ≤ R² < 0.7 | 中度相關 | 6 | 6.4% |
-| R² < 0.4 | 弱相關 | 80 | 85.1% |
+| R² ≥ 0.7 | 強相關 | 9 | 9.5% |
+| 0.4 ≤ R² < 0.7 | 中度相關 | 6 | 6.3% |
+| R² < 0.4 | 弱相關 | 80 | 84.2% |
 
 !!! note "R²值說明"
     R²值衡量本益比對未來報酬率的解釋能力。R²越高，表示本益比與報酬率的關係越強，
@@ -1133,21 +1144,21 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 | 3 | [6763](market-analysis-pe-forward-return-6763-1y-tr.md) | 綠界科技 | 數位雲端 | 31.49 | 🔴 相對高估 | **-46.75%** | 0.258 |
 | 4 | [9921](market-analysis-pe-forward-return-9921-1y-tr.md) | 巨大 | 運動休閒 | 43.94 | 🔴 相對高估 | **-44.93%** | 0.246 |
 | 5 | [7705](market-analysis-pe-forward-return-7705-1y-tr.md) | 三商餐飲 | 觀光餐旅 | 17.24 | 🟡 合理範圍 | **-38.07%** | 1.000 |
-| 6 | [2480](market-analysis-pe-forward-return-2480-1y-tr.md) | 敦陽科 | 資訊服務業 | 18.40 | 🔴 相對高估 | **-23.82%** | 0.311 |
-| 7 | [2354](market-analysis-pe-forward-return-2354-1y-tr.md) | 鴻準 | 其他電子業 | 29.41 | 🔴 相對高估 | **-20.93%** | 0.118 |
-| 8 | [8272](market-analysis-pe-forward-return-8272-1y-tr.md) | 全景軟體 | 資訊服務業 | 26.24 | 🟡 合理範圍 | **-20.91%** | 0.918 |
-| 9 | [6526](market-analysis-pe-forward-return-6526-1y-tr.md) | 達發 | 半導體業 | 43.73 | 🟢 相對低估 | **-19.82%** | 0.194 |
-| 10 | [6850](market-analysis-pe-forward-return-6850-1y-tr.md) | 光鼎生技 | 生技醫療業 | 56.71 | 🔴 相對高估 | **-16.63%** | 0.400 |
-| 11 | [6182](market-analysis-pe-forward-return-6182-1y-tr.md) | 合晶 | 半導體業 | 2710.00 | 🔴 相對高估 | **-16.35%** | 0.001 |
-| 12 | [2317](market-analysis-pe-forward-return-2317-1y-tr.md) | 鴻海 | 其他電子業 | 16.71 | 🔴 相對高估 | **-15.09%** | 0.259 |
-| 13 | [2646](market-analysis-pe-forward-return-2646-1y-tr.md) | 星宇航空 | 航運業 | 52.08 | 🟡 合理範圍 | **-14.78%** | 0.801 |
-| 14 | [2360](market-analysis-pe-forward-return-2360-1y-tr.md) | 致茂 | 其他電子業 | 32.75 | 🔴 相對高估 | **-10.52%** | 0.138 |
-| 15 | [6285](market-analysis-pe-forward-return-6285-1y-tr.md) | 啟碁 | 通信網路業 | 18.94 | 🔴 相對高估 | **-8.21%** | 0.154 |
-| 16 | [3035](market-analysis-pe-forward-return-3035-1y-tr.md) | 智原 | 半導體業 | 59.65 | 🔴 相對高估 | **-3.99%** | 0.032 |
-| 17 | [2356](market-analysis-pe-forward-return-2356-1y-tr.md) | 英業達 | 電腦及週邊設備業 | 24.68 | 🔴 相對高估 | **-3.73%** | 0.043 |
-| 18 | [2308](market-analysis-pe-forward-return-2308-1y-tr.md) | 台達電 | 電子零組件業 | 31.75 | 🔴 相對高估 | **-3.66%** | 0.053 |
-| 19 | [6757](market-analysis-pe-forward-return-6757-1y-tr.md) | 台灣虎航 | 航運業 | 12.65 | 🔴 相對高估 | **-3.27%** | 0.817 |
-| 20 | [6035](market-analysis-pe-forward-return-6035-1y-tr.md) | 悠遊卡 | 金融保險業 | 21.11 | 🟢 相對低估 | **-2.13%** | 0.495 |
+| 6 | [7722](market-analysis-pe-forward-return-7722-1y-tr.md) | LINEPAY | 數位雲端 | 70.82 | 🔴 相對高估 | **-33.19%** | 1.000 |
+| 7 | [2480](market-analysis-pe-forward-return-2480-1y-tr.md) | 敦陽科 | 資訊服務業 | 18.40 | 🔴 相對高估 | **-23.82%** | 0.311 |
+| 8 | [2354](market-analysis-pe-forward-return-2354-1y-tr.md) | 鴻準 | 其他電子業 | 29.41 | 🔴 相對高估 | **-20.93%** | 0.118 |
+| 9 | [8272](market-analysis-pe-forward-return-8272-1y-tr.md) | 全景軟體 | 資訊服務業 | 26.24 | 🟡 合理範圍 | **-20.91%** | 0.918 |
+| 10 | [6526](market-analysis-pe-forward-return-6526-1y-tr.md) | 達發 | 半導體業 | 43.73 | 🟢 相對低估 | **-19.82%** | 0.194 |
+| 11 | [6850](market-analysis-pe-forward-return-6850-1y-tr.md) | 光鼎生技 | 生技醫療業 | 56.71 | 🔴 相對高估 | **-16.63%** | 0.400 |
+| 12 | [6182](market-analysis-pe-forward-return-6182-1y-tr.md) | 合晶 | 半導體業 | 2710.00 | 🔴 相對高估 | **-16.35%** | 0.001 |
+| 13 | [2317](market-analysis-pe-forward-return-2317-1y-tr.md) | 鴻海 | 其他電子業 | 16.71 | 🔴 相對高估 | **-15.09%** | 0.259 |
+| 14 | [2646](market-analysis-pe-forward-return-2646-1y-tr.md) | 星宇航空 | 航運業 | 52.08 | 🟡 合理範圍 | **-14.78%** | 0.801 |
+| 15 | [2360](market-analysis-pe-forward-return-2360-1y-tr.md) | 致茂 | 其他電子業 | 32.75 | 🔴 相對高估 | **-10.52%** | 0.138 |
+| 16 | [6285](market-analysis-pe-forward-return-6285-1y-tr.md) | 啟碁 | 通信網路業 | 18.94 | 🔴 相對高估 | **-8.21%** | 0.154 |
+| 17 | [3035](market-analysis-pe-forward-return-3035-1y-tr.md) | 智原 | 半導體業 | 59.65 | 🔴 相對高估 | **-3.99%** | 0.032 |
+| 18 | [2356](market-analysis-pe-forward-return-2356-1y-tr.md) | 英業達 | 電腦及週邊設備業 | 24.68 | 🔴 相對高估 | **-3.73%** | 0.043 |
+| 19 | [2308](market-analysis-pe-forward-return-2308-1y-tr.md) | 台達電 | 電子零組件業 | 31.75 | 🔴 相對高估 | **-3.66%** | 0.053 |
+| 20 | [6757](market-analysis-pe-forward-return-6757-1y-tr.md) | 台灣虎航 | 航運業 | 12.65 | 🔴 相對高估 | **-3.27%** | 0.817 |
 
 ## 📚 分析方法說明
 
@@ -1250,7 +1261,7 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 - [6925 意藍](market-analysis-pe-forward-return-6925-1y-tr.md) - 預期報酬率: **N/A** 
 - [6997 博弘](market-analysis-pe-forward-return-6997-1y-tr.md) - 預期報酬率: **N/A** 
 - [7547 碩網](market-analysis-pe-forward-return-7547-1y-tr.md) - 預期報酬率: **N/A** 
-- [7722 LINEPAY](market-analysis-pe-forward-return-7722-1y-tr.md) - 預期報酬率: **N/A** 
+- [7722 LINEPAY](market-analysis-pe-forward-return-7722-1y-tr.md) - 預期報酬率: **-33.19%** (R²=1.000)
 - [7737 凱鈿](market-analysis-pe-forward-return-7737-1y-tr.md) - 預期報酬率: **N/A** 
 - [7747 昕奇雲端](market-analysis-pe-forward-return-7747-1y-tr.md) - 預期報酬率: **N/A** 
 - [7765 中華資安](market-analysis-pe-forward-return-7765-1y-tr.md) - 預期報酬率: **N/A** 
@@ -1366,5 +1377,5 @@ description: "全市場本益比與1未來報酬率分析總覽報告 (含息)"
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-13 14:07:47 CST*
+*數據更新時間: 2026-01-23 00:18:48 CST*
 *分析股票數量: 121 檔*
