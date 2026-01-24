@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "stock_code": "7737",
+    "company_name": "凱鈿",
+    "industry": "數位雲端",
+    "generated_at": "2026-01-24T21:31:41.769801",
+    "horizons": [
+      "0.25y",
+      "0.5y"
+    ]
+  },
+  "data": [
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-02-14",
+      "pe_ratio": NaN,
+      "forward_return": -86.11,
+      "start_price": 71.4,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-03-16",
+      "pe_ratio": NaN,
+      "forward_return": -38.44,
+      "start_price": 59.5,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-04-15",
+      "pe_ratio": NaN,
+      "forward_return": 40.38,
+      "start_price": 46.5,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-05-16",
+      "pe_ratio": NaN,
+      "forward_return": 20.9,
+      "start_price": 43.9,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-06-15",
+      "pe_ratio": NaN,
+      "forward_return": -48.25,
+      "start_price": 48.4,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-07-16",
+      "pe_ratio": NaN,
+      "forward_return": -28.5,
+      "start_price": 50.6,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-08-16",
+      "pe_ratio": NaN,
+      "forward_return": -43.74,
+      "start_price": 46.05,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-09-15",
+      "pe_ratio": NaN,
+      "forward_return": -26.29,
+      "start_price": 41.0,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.5y",
+      "horizon_label": "6個月",
+      "start_date": "2025-02-14",
+      "pe_ratio": NaN,
+      "forward_return": -58.53,
+      "start_price": 71.4,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.5y",
+      "horizon_label": "6個月",
+      "start_date": "2025-03-16",
+      "pe_ratio": NaN,
+      "forward_return": -34.35,
+      "start_price": 59.5,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.5y",
+      "horizon_label": "6個月",
+      "start_date": "2025-04-15",
+      "pe_ratio": NaN,
+      "forward_return": 0.0,
+      "start_price": 46.5,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.5y",
+      "horizon_label": "6個月",
+      "start_date": "2025-05-16",
+      "pe_ratio": NaN,
+      "forward_return": -21.83,
+      "start_price": 43.9,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.5y",
+      "horizon_label": "6個月",
+      "start_date": "2025-06-15",
+      "pe_ratio": NaN,
+      "forward_return": -38.3,
+      "start_price": 48.4,
+      "start_year": 2025
+    }
+  ],
+  "statistics": {
+    "0.25y": {
+      "horizon_label": "3個月",
+      "avg_pe": NaN,
+      "avg_return": -26.26,
+      "r_squared": 0.0,
+      "slope": 0.0,
+      "intercept": 0.0,
+      "data_points": 8,
+      "best_buy": {
+        "date": "2025-04",
+        "pe": NaN,
+        "return": 40.38
+      },
+      "worst_buy": {
+        "date": "2025-02",
+        "pe": NaN,
+        "return": -86.11
+      }
+    },
+    "0.5y": {
+      "horizon_label": "6個月",
+      "avg_pe": NaN,
+      "avg_return": -30.6,
+      "r_squared": 0.0,
+      "slope": 0.0,
+      "intercept": 0.0,
+      "data_points": 5,
+      "best_buy": {
+        "date": "2025-04",
+        "pe": NaN,
+        "return": 0.0
+      },
+      "worst_buy": {
+        "date": "2025-02",
+        "pe": NaN,
+        "return": -58.53
+      }
+    }
+  },
+  "pe_river": [],
+  "revenue_yoy": [
+    {
+      "date": "2025-01-16",
+      "revenue_yoy": -9.14
+    },
+    {
+      "date": "2025-02-14",
+      "revenue_yoy": 14.4
+    },
+    {
+      "date": "2025-03-16",
+      "revenue_yoy": -9.88
+    },
+    {
+      "date": "2025-04-15",
+      "revenue_yoy": -4.32
+    },
+    {
+      "date": "2025-05-16",
+      "revenue_yoy": -2.2
+    },
+    {
+      "date": "2025-06-15",
+      "revenue_yoy": 2.53
+    },
+    {
+      "date": "2025-07-16",
+      "revenue_yoy": -12.9
+    },
+    {
+      "date": "2025-08-16",
+      "revenue_yoy": -19.0
+    },
+    {
+      "date": "2025-09-15",
+      "revenue_yoy": -28.1
+    },
+    {
+      "date": "2025-10-16",
+      "revenue_yoy": -27.1
+    },
+    {
+      "date": "2025-11-15",
+      "revenue_yoy": -30.2
+    },
+    {
+      "date": "2025-12-16",
+      "revenue_yoy": -29.4
+    }
+  ]
+}

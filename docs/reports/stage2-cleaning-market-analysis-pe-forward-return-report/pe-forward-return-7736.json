@@ -1,0 +1,360 @@
+{
+  "meta": {
+    "stock_code": "7736",
+    "company_name": "虎山",
+    "industry": "汽車工業",
+    "generated_at": "2026-01-24T21:31:41.583263",
+    "horizons": [
+      "0.25y",
+      "0.5y"
+    ],
+    "pe_levels": [
+      16.72,
+      16.95,
+      17.77,
+      19.22,
+      20.16
+    ]
+  },
+  "data": [
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-03-16",
+      "pe_ratio": 20.4,
+      "forward_return": -18.69,
+      "start_price": 112.0,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-04-15",
+      "pe_ratio": 20.13,
+      "forward_return": -20.01,
+      "start_price": 110.5,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-05-16",
+      "pe_ratio": 19.49,
+      "forward_return": -29.1,
+      "start_price": 107.0,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-06-15",
+      "pe_ratio": 18.31,
+      "forward_return": -16.21,
+      "start_price": 100.5,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-07-16",
+      "pe_ratio": 18.4,
+      "forward_return": -23.85,
+      "start_price": 101.0,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-08-16",
+      "pe_ratio": 17.23,
+      "forward_return": -13.86,
+      "start_price": 94.6,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.25y",
+      "horizon_label": "3個月",
+      "start_date": "2025-09-15",
+      "pe_ratio": 16.87,
+      "forward_return": -10.8,
+      "start_price": 92.6,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.5y",
+      "horizon_label": "6個月",
+      "start_date": "2025-03-16",
+      "pe_ratio": 20.4,
+      "forward_return": -20.63,
+      "start_price": 112.0,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.5y",
+      "horizon_label": "6個月",
+      "start_date": "2025-04-15",
+      "pe_ratio": 20.13,
+      "forward_return": -21.59,
+      "start_price": 110.5,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.5y",
+      "horizon_label": "6個月",
+      "start_date": "2025-05-16",
+      "pe_ratio": 19.49,
+      "forward_return": -20.53,
+      "start_price": 107.0,
+      "start_year": 2025
+    },
+    {
+      "horizon": "0.5y",
+      "horizon_label": "6個月",
+      "start_date": "2025-06-15",
+      "pe_ratio": 18.31,
+      "forward_return": -13.38,
+      "start_price": 100.5,
+      "start_year": 2025
+    }
+  ],
+  "statistics": {
+    "0.25y": {
+      "horizon_label": "3個月",
+      "avg_pe": 18.69,
+      "avg_return": -18.93,
+      "r_squared": 0.3746,
+      "slope": -2.7487,
+      "intercept": 32.4393,
+      "data_points": 7,
+      "best_buy": {
+        "date": "2025-09",
+        "pe": 16.87,
+        "return": -10.8
+      },
+      "worst_buy": {
+        "date": "2025-05",
+        "pe": 19.49,
+        "return": -29.1
+      }
+    },
+    "0.5y": {
+      "horizon_label": "6個月",
+      "avg_pe": 19.58,
+      "avg_return": -19.03,
+      "r_squared": 0.8476,
+      "slope": -3.7594,
+      "intercept": 54.5841,
+      "data_points": 4,
+      "best_buy": {
+        "date": "2025-06",
+        "pe": 18.31,
+        "return": -13.38
+      },
+      "worst_buy": {
+        "date": "2025-04",
+        "pe": 20.13,
+        "return": -21.59
+      }
+    }
+  },
+  "pe_river": [
+    {
+      "date": "2025-03-16",
+      "price": 112.0,
+      "pe": 20.4,
+      "pe_10": 91.81,
+      "pe_25": 93.05,
+      "pe_50": 97.56,
+      "pe_75": 105.51,
+      "pe_90": 110.67
+    },
+    {
+      "date": "2025-04-15",
+      "price": 110.5,
+      "pe": 20.13,
+      "pe_10": 91.8,
+      "pe_25": 93.03,
+      "pe_50": 97.55,
+      "pe_75": 105.49,
+      "pe_90": 110.65
+    },
+    {
+      "date": "2025-05-16",
+      "price": 107.0,
+      "pe": 19.49,
+      "pe_10": 91.81,
+      "pe_25": 93.04,
+      "pe_50": 97.56,
+      "pe_75": 105.5,
+      "pe_90": 110.66
+    },
+    {
+      "date": "2025-06-15",
+      "price": 100.5,
+      "pe": 18.31,
+      "pe_10": 91.79,
+      "pe_25": 93.02,
+      "pe_50": 97.54,
+      "pe_75": 105.48,
+      "pe_90": 110.64
+    },
+    {
+      "date": "2025-07-16",
+      "price": 101.0,
+      "pe": 18.4,
+      "pe_10": 91.79,
+      "pe_25": 93.03,
+      "pe_50": 97.54,
+      "pe_75": 105.49,
+      "pe_90": 110.64
+    },
+    {
+      "date": "2025-08-16",
+      "price": 94.6,
+      "pe": 17.23,
+      "pe_10": 91.82,
+      "pe_25": 93.05,
+      "pe_50": 97.56,
+      "pe_75": 105.51,
+      "pe_90": 110.67
+    },
+    {
+      "date": "2025-09-15",
+      "price": 92.6,
+      "pe": 16.87,
+      "pe_10": 91.79,
+      "pe_25": 93.03,
+      "pe_50": 97.54,
+      "pe_75": 105.49,
+      "pe_90": 110.64
+    },
+    {
+      "date": "2025-10-16",
+      "price": 94.3,
+      "pe": 17.18,
+      "pe_10": 91.79,
+      "pe_25": 93.02,
+      "pe_50": 97.54,
+      "pe_75": 105.48,
+      "pe_90": 110.64
+    },
+    {
+      "date": "2025-11-15",
+      "price": 92.0,
+      "pe": 16.76,
+      "pe_10": 91.8,
+      "pe_25": 93.03,
+      "pe_50": 97.54,
+      "pe_75": 105.49,
+      "pe_90": 110.65
+    },
+    {
+      "date": "2025-12-16",
+      "price": 90.0,
+      "pe": 16.39,
+      "pe_10": 91.83,
+      "pe_25": 93.06,
+      "pe_50": 97.58,
+      "pe_75": 105.53,
+      "pe_90": 110.69
+    }
+  ],
+  "revenue_yoy": [
+    {
+      "date": "2024-01-16",
+      "revenue_yoy": 15.7
+    },
+    {
+      "date": "2024-02-15",
+      "revenue_yoy": 16.5
+    },
+    {
+      "date": "2024-03-16",
+      "revenue_yoy": -8.96
+    },
+    {
+      "date": "2024-04-15",
+      "revenue_yoy": -2.23
+    },
+    {
+      "date": "2024-05-16",
+      "revenue_yoy": -11.2
+    },
+    {
+      "date": "2024-06-15",
+      "revenue_yoy": 53.0
+    },
+    {
+      "date": "2024-07-16",
+      "revenue_yoy": 12.3
+    },
+    {
+      "date": "2024-08-16",
+      "revenue_yoy": 10.1
+    },
+    {
+      "date": "2024-09-15",
+      "revenue_yoy": 84.0
+    },
+    {
+      "date": "2024-10-16",
+      "revenue_yoy": 4.98
+    },
+    {
+      "date": "2024-11-15",
+      "revenue_yoy": 14.5
+    },
+    {
+      "date": "2024-12-16",
+      "revenue_yoy": 51.9
+    },
+    {
+      "date": "2025-01-16",
+      "revenue_yoy": 39.6
+    },
+    {
+      "date": "2025-02-14",
+      "revenue_yoy": 52.2
+    },
+    {
+      "date": "2025-03-16",
+      "revenue_yoy": 48.8
+    },
+    {
+      "date": "2025-04-15",
+      "revenue_yoy": 43.9
+    },
+    {
+      "date": "2025-05-16",
+      "revenue_yoy": 45.3
+    },
+    {
+      "date": "2025-06-15",
+      "revenue_yoy": 15.5
+    },
+    {
+      "date": "2025-07-16",
+      "revenue_yoy": 35.6
+    },
+    {
+      "date": "2025-08-16",
+      "revenue_yoy": 3.36
+    },
+    {
+      "date": "2025-09-15",
+      "revenue_yoy": 22.9
+    },
+    {
+      "date": "2025-10-16",
+      "revenue_yoy": 2.29
+    },
+    {
+      "date": "2025-11-15",
+      "revenue_yoy": 5.45
+    },
+    {
+      "date": "2025-12-16",
+      "revenue_yoy": -10.2
+    }
+  ]
+}

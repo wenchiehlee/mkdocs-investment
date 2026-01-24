@@ -1,0 +1,1457 @@
+---
+title: "8045 達運光電 - 本益比與未來報酬率分析 (互動式)"
+authors:
+  - Stock Analysis System
+date: "2026-01-24"
+categories:
+  - 市場分析
+  - 估值分析
+tags:
+  - 台股
+  - 本益比
+  - 未來報酬
+  - 互動式圖表
+  - 通信網路業
+description: "8045 達運光電 (通信網路業) 本益比與未來報酬率關係分析 - 互動式多期間版本"
+---
+
+# 8045 達運光電 - 本益比與未來報酬率分析
+
+!!! info "報告資訊"
+    - **股票代號**: 8045
+    - **公司名稱**: 達運光電
+    - **產業別**: 通信網路業
+    - **報告類型**: 互動式多期間分析
+    - **可選期間**: 3個月, 6個月
+    - **報告生成時間**: 2026-01-24 21:31:44 CST
+
+## 📈 互動式圖表
+
+使用下拉選單切換不同投資期間的回測結果。選擇「全部期間」可同時顯示所有期間的數據進行比較。
+
+```vegalite
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "8045 達運光電 - 本益比與未來報酬率分析",
+  "data": {
+    "values": [
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2024-12-16",
+        "pe_ratio": 30.61,
+        "forward_return": 608.41,
+        "start_price": 75.0,
+        "start_year": 2024
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-01-16",
+        "pe_ratio": 50.61,
+        "forward_return": -64.83,
+        "start_price": 117.0,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-02-14",
+        "pe_ratio": 63.73,
+        "forward_return": -87.48,
+        "start_price": 138.5,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-03-16",
+        "pe_ratio": 59.71,
+        "forward_return": -28.8,
+        "start_price": 121.5,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-04-15",
+        "pe_ratio": 47.45,
+        "forward_return": 111.52,
+        "start_price": 90.0,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-05-16",
+        "pe_ratio": 47.2,
+        "forward_return": 391.72,
+        "start_price": 83.0,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-06-15",
+        "pe_ratio": 40.99,
+        "forward_return": 252.03,
+        "start_price": 66.4,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-07-16",
+        "pe_ratio": 71.88,
+        "forward_return": -66.26,
+        "start_price": 106.5,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-08-16",
+        "pe_ratio": 90.82,
+        "forward_return": -75.37,
+        "start_price": 122.0,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-09-15",
+        "pe_ratio": 74.02,
+        "forward_return": -46.3,
+        "start_price": 89.2,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2024-12-16",
+        "pe_ratio": 30.61,
+        "forward_return": 88.83,
+        "start_price": 75.0,
+        "start_year": 2024
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-01-16",
+        "pe_ratio": 50.61,
+        "forward_return": -14.17,
+        "start_price": 117.0,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-02-14",
+        "pe_ratio": 63.73,
+        "forward_return": -19.94,
+        "start_price": 138.5,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-03-16",
+        "pe_ratio": 59.71,
+        "forward_return": -47.85,
+        "start_price": 121.5,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-04-15",
+        "pe_ratio": 47.45,
+        "forward_return": -14.99,
+        "start_price": 90.0,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-05-16",
+        "pe_ratio": 47.2,
+        "forward_return": -9.34,
+        "start_price": 83.0,
+        "start_year": 2025
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-06-15",
+        "pe_ratio": 40.99,
+        "forward_return": 39.2,
+        "start_price": 66.4,
+        "start_year": 2025
+      }
+    ]
+  },
+  "params": [
+    {
+      "name": "horizon_select",
+      "value": "0.25y",
+      "bind": {
+        "input": "select",
+        "options": [
+          "All",
+          "0.25y",
+          "0.5y"
+        ],
+        "labels": [
+          "全部期間",
+          "3個月",
+          "6個月"
+        ],
+        "name": "投資期間: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "horizon_select === 'All' || datum.horizon === horizon_select"
+    },
+    {
+      "calculate": "horizon_select === 'All' ? datum.horizon_label : toString(datum.start_year)",
+      "as": "color_field"
+    }
+  ],
+  "vconcat": [
+    {
+      "title": "報酬率時間軸",
+      "width": 600,
+      "height": 200,
+      "layer": [
+        {
+          "mark": {
+            "type": "line",
+            "opacity": 0.6,
+            "strokeWidth": 1.5
+          },
+          "encoding": {
+            "x": {
+              "field": "start_date",
+              "type": "temporal",
+              "title": "買入日期"
+            },
+            "y": {
+              "field": "forward_return",
+              "type": "quantitative",
+              "title": "年化報酬率 (%)"
+            },
+            "color": {
+              "field": "color_field",
+              "type": "nominal",
+              "title": "分類",
+              "scale": {
+                "scheme": "turbo"
+              }
+            }
+          }
+        },
+        {
+          "mark": {
+            "type": "circle",
+            "size": 40
+          },
+          "encoding": {
+            "x": {
+              "field": "start_date",
+              "type": "temporal"
+            },
+            "y": {
+              "field": "forward_return",
+              "type": "quantitative"
+            },
+            "color": {
+              "field": "color_field",
+              "type": "nominal",
+              "title": "分類",
+              "scale": {
+                "scheme": "turbo"
+              }
+            },
+            "tooltip": [
+              {
+                "field": "start_date",
+                "type": "temporal",
+                "title": "買入日期"
+              },
+              {
+                "field": "horizon_label",
+                "type": "nominal",
+                "title": "投資期間"
+              },
+              {
+                "field": "forward_return",
+                "type": "quantitative",
+                "title": "年化報酬率",
+                "format": "+.1f"
+              },
+              {
+                "field": "pe_ratio",
+                "type": "quantitative",
+                "title": "本益比",
+                "format": ".1f"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "本益比 vs 未來報酬率",
+      "width": 600,
+      "height": 350,
+      "mark": {
+        "type": "circle",
+        "opacity": 0.7,
+        "size": 60
+      },
+      "encoding": {
+        "x": {
+          "field": "pe_ratio",
+          "type": "quantitative",
+          "title": "本益比 (P/E)",
+          "scale": {
+            "zero": false
+          }
+        },
+        "y": {
+          "field": "forward_return",
+          "type": "quantitative",
+          "title": "年化報酬率 (%)"
+        },
+        "color": {
+          "field": "color_field",
+          "type": "nominal",
+          "title": "分類",
+          "scale": {
+            "scheme": "turbo"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "start_date",
+            "type": "temporal",
+            "title": "買入日期"
+          },
+          {
+            "field": "horizon_label",
+            "type": "nominal",
+            "title": "投資期間"
+          },
+          {
+            "field": "pe_ratio",
+            "type": "quantitative",
+            "title": "本益比",
+            "format": ".1f"
+          },
+          {
+            "field": "forward_return",
+            "type": "quantitative",
+            "title": "年化報酬率",
+            "format": "+.1f"
+          },
+          {
+            "field": "start_price",
+            "type": "quantitative",
+            "title": "買入價格",
+            "format": ".1f"
+          }
+        ]
+      }
+    }
+  ]
+}
+```
+
+
+## 🌊 本益比河流帶
+
+股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
+
+!!! note "本益比河流帶水位: 42.2倍、47.5倍、63.7倍、75.9倍、89.4倍"
+
+```vegalite
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "8045 達運光電 - 本益比河流帶",
+  "data": {
+    "values": [
+      {
+        "date": "2024-12-16",
+        "price": 75.0,
+        "pe": 30.61,
+        "pe_10": 103.48,
+        "pe_25": 116.26,
+        "pe_50": 156.15,
+        "pe_75": 186.07,
+        "pe_90": 219.14
+      },
+      {
+        "date": "2025-01-16",
+        "price": 117.0,
+        "pe": 50.61,
+        "pe_10": 97.63,
+        "pe_25": 109.69,
+        "pe_50": 147.33,
+        "pe_75": 175.56,
+        "pe_90": 206.76
+      },
+      {
+        "date": "2025-02-14",
+        "price": 138.5,
+        "pe": 63.73,
+        "pe_10": 91.78,
+        "pe_25": 103.12,
+        "pe_50": 138.5,
+        "pe_75": 165.04,
+        "pe_90": 194.37
+      },
+      {
+        "date": "2025-03-16",
+        "price": 121.5,
+        "pe": 59.71,
+        "pe_10": 85.94,
+        "pe_25": 96.55,
+        "pe_50": 129.68,
+        "pe_75": 154.53,
+        "pe_90": 181.99
+      },
+      {
+        "date": "2025-04-15",
+        "price": 90.0,
+        "pe": 47.45,
+        "pe_10": 80.1,
+        "pe_25": 90.0,
+        "pe_50": 120.88,
+        "pe_75": 144.04,
+        "pe_90": 169.64
+      },
+      {
+        "date": "2025-05-16",
+        "price": 83.0,
+        "pe": 47.2,
+        "pe_10": 74.26,
+        "pe_25": 83.44,
+        "pe_50": 112.07,
+        "pe_75": 133.54,
+        "pe_90": 157.27
+      },
+      {
+        "date": "2025-06-15",
+        "price": 66.4,
+        "pe": 40.99,
+        "pe_10": 68.41,
+        "pe_25": 76.86,
+        "pe_50": 103.24,
+        "pe_75": 123.02,
+        "pe_90": 144.88
+      },
+      {
+        "date": "2025-07-16",
+        "price": 106.5,
+        "pe": 71.88,
+        "pe_10": 62.57,
+        "pe_25": 70.3,
+        "pe_50": 94.42,
+        "pe_75": 112.52,
+        "pe_90": 132.51
+      },
+      {
+        "date": "2025-08-16",
+        "price": 122.0,
+        "pe": 90.82,
+        "pe_10": 56.73,
+        "pe_25": 63.74,
+        "pe_50": 85.61,
+        "pe_75": 102.01,
+        "pe_90": 120.14
+      },
+      {
+        "date": "2025-09-15",
+        "price": 89.2,
+        "pe": 74.02,
+        "pe_10": 50.89,
+        "pe_25": 57.18,
+        "pe_50": 76.8,
+        "pe_75": 91.51,
+        "pe_90": 107.78
+      },
+      {
+        "date": "2025-10-16",
+        "price": 81.0,
+        "pe": 75.94,
+        "pe_10": 45.05,
+        "pe_25": 50.61,
+        "pe_50": 67.98,
+        "pe_75": 81.0,
+        "pe_90": 95.4
+      },
+      {
+        "date": "2025-11-15",
+        "price": 77.9,
+        "pe": 83.91,
+        "pe_10": 39.21,
+        "pe_25": 44.05,
+        "pe_50": 59.17,
+        "pe_75": 70.5,
+        "pe_90": 83.03
+      },
+      {
+        "date": "2025-12-16",
+        "price": 76.4,
+        "pe": 96.71,
+        "pe_10": 33.36,
+        "pe_25": 37.49,
+        "pe_50": 50.35,
+        "pe_75": 59.99,
+        "pe_90": 70.66
+      }
+    ]
+  },
+  "width": 700,
+  "height": 350,
+  "layer": [
+    {
+      "mark": {
+        "type": "area",
+        "opacity": 0.15
+      },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "title": "日期"
+        },
+        "y": {
+          "field": "pe_10",
+          "type": "quantitative",
+          "title": "股價 (元)"
+        },
+        "y2": {
+          "field": "pe_25"
+        },
+        "color": {
+          "value": "#4CAF50"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "area",
+        "opacity": 0.15
+      },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "pe_25",
+          "type": "quantitative"
+        },
+        "y2": {
+          "field": "pe_50"
+        },
+        "color": {
+          "value": "#8BC34A"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "area",
+        "opacity": 0.15
+      },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "pe_50",
+          "type": "quantitative"
+        },
+        "y2": {
+          "field": "pe_75"
+        },
+        "color": {
+          "value": "#FFC107"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "area",
+        "opacity": 0.15
+      },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "pe_75",
+          "type": "quantitative"
+        },
+        "y2": {
+          "field": "pe_90"
+        },
+        "color": {
+          "value": "#F44336"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "color": "#1976D2",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "price",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "date",
+            "type": "temporal",
+            "title": "日期"
+          },
+          {
+            "field": "price",
+            "type": "quantitative",
+            "title": "股價",
+            "format": ".1f"
+          },
+          {
+            "field": "pe",
+            "type": "quantitative",
+            "title": "本益比",
+            "format": ".1f"
+          },
+          {
+            "field": "pe_10",
+            "type": "quantitative",
+            "title": "PE 10% (42.2倍)",
+            "format": ".1f"
+          },
+          {
+            "field": "pe_50",
+            "type": "quantitative",
+            "title": "PE 50% (63.7倍)",
+            "format": ".1f"
+          },
+          {
+            "field": "pe_90",
+            "type": "quantitative",
+            "title": "PE 90% (89.4倍)",
+            "format": ".1f"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "strokeDash": [
+          4,
+          4
+        ],
+        "opacity": 0.6,
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "pe_25",
+          "type": "quantitative"
+        },
+        "color": {
+          "value": "#4CAF50"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "strokeDash": [
+          4,
+          4
+        ],
+        "opacity": 0.6,
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "pe_50",
+          "type": "quantitative"
+        },
+        "color": {
+          "value": "#FFC107"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "strokeDash": [
+          4,
+          4
+        ],
+        "opacity": 0.6,
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal"
+        },
+        "y": {
+          "field": "pe_75",
+          "type": "quantitative"
+        },
+        "color": {
+          "value": "#F44336"
+        }
+      }
+    }
+  ]
+}
+```
+
+
+## 📊 月營收年增率
+
+月營收與去年同期相比的成長率。紅色柱狀代表正成長，綠色代表衰退。
+
+```vegalite
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "8045 達運光電 - 月營收年增率",
+  "data": {
+    "values": [
+      {
+        "date": "2009-01-16",
+        "revenue_yoy": -24.1
+      },
+      {
+        "date": "2013-01-16",
+        "revenue_yoy": 274.7
+      },
+      {
+        "date": "2013-02-14",
+        "revenue_yoy": 173.5
+      },
+      {
+        "date": "2013-03-16",
+        "revenue_yoy": 19.2
+      },
+      {
+        "date": "2013-04-15",
+        "revenue_yoy": 63.1
+      },
+      {
+        "date": "2013-05-16",
+        "revenue_yoy": 104.3
+      },
+      {
+        "date": "2013-06-15",
+        "revenue_yoy": 10.7
+      },
+      {
+        "date": "2013-07-16",
+        "revenue_yoy": 6.3
+      },
+      {
+        "date": "2013-08-16",
+        "revenue_yoy": -14.8
+      },
+      {
+        "date": "2013-09-15",
+        "revenue_yoy": 43.2
+      },
+      {
+        "date": "2013-10-16",
+        "revenue_yoy": 131.3
+      },
+      {
+        "date": "2013-11-15",
+        "revenue_yoy": 47.8
+      },
+      {
+        "date": "2013-12-16",
+        "revenue_yoy": -18.0
+      },
+      {
+        "date": "2014-01-16",
+        "revenue_yoy": 97.7
+      },
+      {
+        "date": "2014-02-14",
+        "revenue_yoy": 63.0
+      },
+      {
+        "date": "2014-03-16",
+        "revenue_yoy": 8.31
+      },
+      {
+        "date": "2014-04-15",
+        "revenue_yoy": -0.28
+      },
+      {
+        "date": "2014-05-16",
+        "revenue_yoy": -46.8
+      },
+      {
+        "date": "2014-06-15",
+        "revenue_yoy": -7.87
+      },
+      {
+        "date": "2014-07-16",
+        "revenue_yoy": -62.5
+      },
+      {
+        "date": "2014-08-16",
+        "revenue_yoy": 252.9
+      },
+      {
+        "date": "2014-09-15",
+        "revenue_yoy": 94.6
+      },
+      {
+        "date": "2014-10-16",
+        "revenue_yoy": -31.9
+      },
+      {
+        "date": "2015-01-16",
+        "revenue_yoy": 97.2
+      },
+      {
+        "date": "2015-02-14",
+        "revenue_yoy": 26.9
+      },
+      {
+        "date": "2015-03-16",
+        "revenue_yoy": -15.1
+      },
+      {
+        "date": "2015-04-15",
+        "revenue_yoy": 26.9
+      },
+      {
+        "date": "2015-05-16",
+        "revenue_yoy": 38.5
+      },
+      {
+        "date": "2015-06-15",
+        "revenue_yoy": 50.2
+      },
+      {
+        "date": "2015-07-16",
+        "revenue_yoy": 193.8
+      },
+      {
+        "date": "2015-08-16",
+        "revenue_yoy": -12.8
+      },
+      {
+        "date": "2015-09-15",
+        "revenue_yoy": 6.68
+      },
+      {
+        "date": "2015-10-16",
+        "revenue_yoy": -23.4
+      },
+      {
+        "date": "2015-11-15",
+        "revenue_yoy": -27.0
+      },
+      {
+        "date": "2015-12-16",
+        "revenue_yoy": -38.0
+      },
+      {
+        "date": "2016-01-16",
+        "revenue_yoy": -85.7
+      },
+      {
+        "date": "2016-02-15",
+        "revenue_yoy": -77.8
+      },
+      {
+        "date": "2016-03-16",
+        "revenue_yoy": 21.5
+      },
+      {
+        "date": "2016-04-15",
+        "revenue_yoy": 6.6
+      },
+      {
+        "date": "2016-05-16",
+        "revenue_yoy": -18.3
+      },
+      {
+        "date": "2016-06-15",
+        "revenue_yoy": 6.03
+      },
+      {
+        "date": "2016-07-16",
+        "revenue_yoy": -66.1
+      },
+      {
+        "date": "2016-08-16",
+        "revenue_yoy": -58.7
+      },
+      {
+        "date": "2016-09-15",
+        "revenue_yoy": -56.5
+      },
+      {
+        "date": "2016-10-16",
+        "revenue_yoy": -8.87
+      },
+      {
+        "date": "2016-11-15",
+        "revenue_yoy": -12.6
+      },
+      {
+        "date": "2016-12-16",
+        "revenue_yoy": -0.66
+      },
+      {
+        "date": "2017-01-16",
+        "revenue_yoy": -42.3
+      },
+      {
+        "date": "2017-02-14",
+        "revenue_yoy": 59.5
+      },
+      {
+        "date": "2017-03-16",
+        "revenue_yoy": -26.0
+      },
+      {
+        "date": "2017-04-15",
+        "revenue_yoy": -47.1
+      },
+      {
+        "date": "2017-05-16",
+        "revenue_yoy": 3.38
+      },
+      {
+        "date": "2017-06-15",
+        "revenue_yoy": 8.99
+      },
+      {
+        "date": "2017-07-16",
+        "revenue_yoy": 570.4
+      },
+      {
+        "date": "2017-08-16",
+        "revenue_yoy": 125.3
+      },
+      {
+        "date": "2017-09-15",
+        "revenue_yoy": 217.0
+      },
+      {
+        "date": "2017-10-16",
+        "revenue_yoy": 259.5
+      },
+      {
+        "date": "2017-11-15",
+        "revenue_yoy": 67.9
+      },
+      {
+        "date": "2017-12-16",
+        "revenue_yoy": -11.5
+      },
+      {
+        "date": "2018-01-16",
+        "revenue_yoy": 449.8
+      },
+      {
+        "date": "2018-02-14",
+        "revenue_yoy": 77.1
+      },
+      {
+        "date": "2018-03-16",
+        "revenue_yoy": 84.6
+      },
+      {
+        "date": "2018-04-15",
+        "revenue_yoy": 102.0
+      },
+      {
+        "date": "2018-05-16",
+        "revenue_yoy": 142.2
+      },
+      {
+        "date": "2018-06-15",
+        "revenue_yoy": -16.1
+      },
+      {
+        "date": "2018-07-16",
+        "revenue_yoy": -18.4
+      },
+      {
+        "date": "2018-08-16",
+        "revenue_yoy": -8.99
+      },
+      {
+        "date": "2018-09-15",
+        "revenue_yoy": -19.3
+      },
+      {
+        "date": "2018-10-16",
+        "revenue_yoy": -21.7
+      },
+      {
+        "date": "2018-11-15",
+        "revenue_yoy": -16.7
+      },
+      {
+        "date": "2018-12-16",
+        "revenue_yoy": -10.9
+      },
+      {
+        "date": "2019-01-16",
+        "revenue_yoy": -24.0
+      },
+      {
+        "date": "2019-02-14",
+        "revenue_yoy": 1.27
+      },
+      {
+        "date": "2019-03-16",
+        "revenue_yoy": 0.79
+      },
+      {
+        "date": "2019-04-15",
+        "revenue_yoy": -4.24
+      },
+      {
+        "date": "2019-05-16",
+        "revenue_yoy": -4.84
+      },
+      {
+        "date": "2019-06-15",
+        "revenue_yoy": 42.5
+      },
+      {
+        "date": "2019-07-16",
+        "revenue_yoy": -25.7
+      },
+      {
+        "date": "2019-08-16",
+        "revenue_yoy": -17.4
+      },
+      {
+        "date": "2019-09-15",
+        "revenue_yoy": -29.1
+      },
+      {
+        "date": "2019-10-16",
+        "revenue_yoy": -9.31
+      },
+      {
+        "date": "2019-11-15",
+        "revenue_yoy": 27.4
+      },
+      {
+        "date": "2019-12-16",
+        "revenue_yoy": 61.6
+      },
+      {
+        "date": "2020-01-16",
+        "revenue_yoy": -13.5
+      },
+      {
+        "date": "2020-02-15",
+        "revenue_yoy": -27.3
+      },
+      {
+        "date": "2020-03-16",
+        "revenue_yoy": -42.9
+      },
+      {
+        "date": "2020-04-15",
+        "revenue_yoy": -1.88
+      },
+      {
+        "date": "2020-05-16",
+        "revenue_yoy": -13.8
+      },
+      {
+        "date": "2020-06-15",
+        "revenue_yoy": -53.9
+      },
+      {
+        "date": "2020-07-16",
+        "revenue_yoy": -17.9
+      },
+      {
+        "date": "2020-08-16",
+        "revenue_yoy": 22.6
+      },
+      {
+        "date": "2020-09-15",
+        "revenue_yoy": 14.4
+      },
+      {
+        "date": "2020-10-16",
+        "revenue_yoy": 21.1
+      },
+      {
+        "date": "2020-11-15",
+        "revenue_yoy": -14.8
+      },
+      {
+        "date": "2020-12-16",
+        "revenue_yoy": -35.9
+      },
+      {
+        "date": "2021-01-16",
+        "revenue_yoy": 72.1
+      },
+      {
+        "date": "2021-02-14",
+        "revenue_yoy": 22.3
+      },
+      {
+        "date": "2021-03-16",
+        "revenue_yoy": 147.7
+      },
+      {
+        "date": "2021-04-15",
+        "revenue_yoy": -3.14
+      },
+      {
+        "date": "2021-05-16",
+        "revenue_yoy": -14.6
+      },
+      {
+        "date": "2021-06-15",
+        "revenue_yoy": 47.5
+      },
+      {
+        "date": "2021-07-16",
+        "revenue_yoy": 10.6
+      },
+      {
+        "date": "2021-08-16",
+        "revenue_yoy": -36.9
+      },
+      {
+        "date": "2021-09-15",
+        "revenue_yoy": 13.6
+      },
+      {
+        "date": "2021-10-16",
+        "revenue_yoy": -26.8
+      },
+      {
+        "date": "2021-11-15",
+        "revenue_yoy": -16.8
+      },
+      {
+        "date": "2021-12-16",
+        "revenue_yoy": 24.8
+      },
+      {
+        "date": "2022-01-16",
+        "revenue_yoy": -49.1
+      },
+      {
+        "date": "2022-02-14",
+        "revenue_yoy": 4.98
+      },
+      {
+        "date": "2022-03-16",
+        "revenue_yoy": -17.3
+      },
+      {
+        "date": "2022-04-15",
+        "revenue_yoy": -0.63
+      },
+      {
+        "date": "2022-05-16",
+        "revenue_yoy": 10.2
+      },
+      {
+        "date": "2022-06-15",
+        "revenue_yoy": -12.6
+      },
+      {
+        "date": "2022-07-16",
+        "revenue_yoy": -16.5
+      },
+      {
+        "date": "2022-08-16",
+        "revenue_yoy": -30.5
+      },
+      {
+        "date": "2022-09-15",
+        "revenue_yoy": 3.43
+      },
+      {
+        "date": "2022-10-16",
+        "revenue_yoy": -18.7
+      },
+      {
+        "date": "2022-11-15",
+        "revenue_yoy": 34.0
+      },
+      {
+        "date": "2022-12-16",
+        "revenue_yoy": -25.2
+      },
+      {
+        "date": "2023-01-16",
+        "revenue_yoy": -44.0
+      },
+      {
+        "date": "2023-02-14",
+        "revenue_yoy": -41.7
+      },
+      {
+        "date": "2023-03-16",
+        "revenue_yoy": -49.2
+      },
+      {
+        "date": "2023-04-15",
+        "revenue_yoy": 25.8
+      },
+      {
+        "date": "2023-05-16",
+        "revenue_yoy": 123.4
+      },
+      {
+        "date": "2023-06-15",
+        "revenue_yoy": 159.1
+      },
+      {
+        "date": "2023-07-16",
+        "revenue_yoy": 284.7
+      },
+      {
+        "date": "2023-08-16",
+        "revenue_yoy": 268.2
+      },
+      {
+        "date": "2023-09-15",
+        "revenue_yoy": 188.6
+      },
+      {
+        "date": "2023-10-16",
+        "revenue_yoy": 298.9
+      },
+      {
+        "date": "2023-11-15",
+        "revenue_yoy": 151.9
+      },
+      {
+        "date": "2023-12-16",
+        "revenue_yoy": 204.9
+      },
+      {
+        "date": "2024-01-16",
+        "revenue_yoy": 651.6
+      },
+      {
+        "date": "2024-02-15",
+        "revenue_yoy": 233.3
+      },
+      {
+        "date": "2024-03-16",
+        "revenue_yoy": 137.6
+      },
+      {
+        "date": "2024-04-15",
+        "revenue_yoy": 0.01
+      },
+      {
+        "date": "2024-05-16",
+        "revenue_yoy": -5.09
+      },
+      {
+        "date": "2024-06-15",
+        "revenue_yoy": -21.9
+      },
+      {
+        "date": "2024-07-16",
+        "revenue_yoy": -3.75
+      },
+      {
+        "date": "2024-08-16",
+        "revenue_yoy": -52.4
+      },
+      {
+        "date": "2024-09-15",
+        "revenue_yoy": -87.6
+      },
+      {
+        "date": "2024-10-16",
+        "revenue_yoy": -51.7
+      },
+      {
+        "date": "2024-11-15",
+        "revenue_yoy": -64.9
+      },
+      {
+        "date": "2024-12-16",
+        "revenue_yoy": -66.7
+      },
+      {
+        "date": "2025-01-16",
+        "revenue_yoy": -75.2
+      },
+      {
+        "date": "2025-02-14",
+        "revenue_yoy": -29.7
+      },
+      {
+        "date": "2025-03-16",
+        "revenue_yoy": 9.05
+      },
+      {
+        "date": "2025-04-15",
+        "revenue_yoy": 25.5
+      },
+      {
+        "date": "2025-05-16",
+        "revenue_yoy": -37.1
+      },
+      {
+        "date": "2025-06-15",
+        "revenue_yoy": -38.2
+      },
+      {
+        "date": "2025-07-16",
+        "revenue_yoy": -44.5
+      },
+      {
+        "date": "2025-08-16",
+        "revenue_yoy": 5.64
+      },
+      {
+        "date": "2025-09-15",
+        "revenue_yoy": 173.2
+      },
+      {
+        "date": "2025-10-16",
+        "revenue_yoy": -58.4
+      },
+      {
+        "date": "2025-11-15",
+        "revenue_yoy": -52.8
+      },
+      {
+        "date": "2025-12-16",
+        "revenue_yoy": -3.07
+      }
+    ]
+  },
+  "width": 700,
+  "height": 250,
+  "layer": [
+    {
+      "mark": {
+        "type": "rule",
+        "color": "#9E9E9E",
+        "strokeDash": [
+          2,
+          2
+        ]
+      },
+      "encoding": {
+        "y": {
+          "datum": 0
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "bar",
+        "opacity": 0.8
+      },
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "title": "日期"
+        },
+        "y": {
+          "field": "revenue_yoy",
+          "type": "quantitative",
+          "title": "營收年增率 (%)"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.revenue_yoy >= 0",
+            "value": "#E53935"
+          },
+          "value": "#43A047"
+        },
+        "tooltip": [
+          {
+            "field": "date",
+            "type": "temporal",
+            "title": "日期"
+          },
+          {
+            "field": "revenue_yoy",
+            "type": "quantitative",
+            "title": "營收年增率",
+            "format": "+.1f"
+          }
+        ]
+      }
+    }
+  ]
+}
+```
+
+## 📊 各期間統計摘要
+
+| 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
+|:---:|:---:|:---:|:---:|:---|:---|
+| 3個月 | 57.7 | +99.5% | 0.605 | 2024-12 (+608.4%) | 2025-02 (-87.5%) |
+| 6個月 | 48.6 | +3.1% | 0.799 | 2024-12 (+88.8%) | 2025-03 (-47.9%) |
+
+
+## 🎯 使用說明
+
+!!! tip "如何使用互動式圖表"
+    1. **選擇投資期間**: 使用圖表上方的下拉選單選擇想要分析的投資期間（3個月至10年）
+    2. **查看細節**: 將滑鼠移至圖表上的點，可查看該時點的詳細資訊（日期、本益比、報酬率）
+    3. **解讀趨勢**: 觀察本益比與報酬率的關係，負相關表示低PE有較高報酬機會
+    4. **對比期間**: 切換不同期間觀察短期與長期投資的差異
+
+!!! warning "風險提示"
+    - 過去表現不代表未來結果
+    - 本分析基於歷史數據統計，實際報酬率會受到公司基本面變化、產業趨勢、總體經濟等多重因素影響
+    - 應結合財報分析、產業研究、風險評估等多維度綜合判斷
+
+---
+
+*本報告由 Stock Analysis System v1.9.0 自動生成*
+*數據更新時間: 2026-01-24 21:31:44 CST*
