@@ -11,6 +11,8 @@ image:
 pin: true
 title: "Customized google search"
 visit:
+Purpose: 保留自訂 Google Search RSS 的參考連結
+Audience: 內部資料收集/工具使用者
 ---
 
 

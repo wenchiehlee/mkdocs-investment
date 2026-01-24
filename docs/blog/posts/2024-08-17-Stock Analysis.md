@@ -11,6 +11,8 @@ image:
 pin: true
 title: "估價的重要性，本益比位階法(標準差)之介紹"
 visit:
+Purpose: 估值重要性與股價驅動因素的概念導入
+Audience: 投資入門者、想建立基礎框架的讀者
 ---
 
 

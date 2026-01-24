@@ -11,6 +11,8 @@ title: 股票資訊分析堆疊架構（7-Level Stock Information Stack）
 comments: true
 draft: false
 description: 股票資訊分析堆疊架構（7-Level Stock Information Stack）
+Purpose: 建立 7 層股票資訊分析框架與分層指標
+Audience: 進階投資者、分析師、系統化投資者
 ---
 
 # 📊 股票資訊分析堆疊架構（7-Level Stock Information Stack）

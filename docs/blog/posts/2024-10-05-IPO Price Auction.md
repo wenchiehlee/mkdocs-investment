@@ -10,6 +10,8 @@ image:
 pin: true
 title: "IPO 競價拍賣(IPO Price Auction)"
 visit:
+Purpose: IPO 競價拍賣投標價預測的研究方向與方法盤點
+Audience: 研究者、量化/模型導向讀者
 ---
 
 

@@ -9,6 +9,8 @@ date: 2024-12-22
 description: 
 draft: true
 title: API
+Purpose: 股票檢視 SOP/提示詞規則的流程筆記
+Audience: 內部使用者、AI 輔助分析流程建立者
 ---
 
 
