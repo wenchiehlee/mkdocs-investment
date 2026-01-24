@@ -37,4 +37,4 @@ description: ROA/ROE 報告 凱鈿 (7737) - 資料不足
 
 ---
 *本報告由 Stock Analysis System 自動生成*
-*產生時間：2026-01-25 02:57:36 CST*
+*產生時間：2026-01-25 06:49:02 CST*
