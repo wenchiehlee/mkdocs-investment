@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-01-24
+date: 2026-01-25
 categories:
   - 股票
   - ROE/ROA
@@ -24,7 +24,7 @@ description: ROA/ROE 報告總覽 - 所有股票 - 自動產生
 # :chart: ROA/ROE 報告總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-01-24 21:12:29 CST
+    **:calendar: 產生時間**: 2026-01-25 02:57:23 CST
     **:building_construction: 處理股票總數**: 130
     **:chart_with_upwards_trend: 報告類型**: 各股盈利能力分析
 
