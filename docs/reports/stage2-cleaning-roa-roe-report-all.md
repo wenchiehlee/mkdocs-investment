@@ -9,10 +9,10 @@ tags:
   - ROE
   - ROA
   - 總覽
-title: 📊 ROA/ROE 報告總覽 - 所有股票
+title: 📊 ROA/ROE 總覽 - 所有股票
 comments: false
 draft: false
-description: ROA/ROE 報告總覽 - 所有股票 - 自動產生
+description: ROA/ROE 總覽 - 所有股票 - 自動產生
 ---
 
 <style>
@@ -21,10 +21,10 @@ description: ROA/ROE 報告總覽 - 所有股票 - 自動產生
 }
 </style>
 
-# :chart: ROA/ROE 報告總覽 - 所有股票
+# :chart: ROA/ROE 總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-01-25 12:11:01 CST
+    **:calendar: 產生時間**: 2026-01-25 20:23:09 CST
     **:building_construction: 處理股票總數**: 130
     **:chart_with_upwards_trend: 報告類型**: 各股盈利能力分析
 
@@ -185,6 +185,9 @@ description: ROA/ROE 報告總覽 - 所有股票 - 自動產生
 
 </div>
 
-!!! note "資料來源"
+!!! note "資料來源說明"
+    - `cleaned_performance1.csv`（單季 ROE/ROA）
+    - `raw_fin_ratio_quarter.csv`（稅前淨利率）
+    - `raw_companyinfo.csv`（產業分類）
     - `cleaned_performance1.csv`（單季 ROE/ROA）
     - `raw_companyinfo.csv`（產業分類）

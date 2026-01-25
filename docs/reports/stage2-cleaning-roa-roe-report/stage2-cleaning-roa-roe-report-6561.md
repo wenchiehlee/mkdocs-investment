@@ -110,9 +110,7 @@ description: ROA/ROE 報告 是方 (6561) - 自動產生
 - **ROE 前25%門檻**：6.61%
 - **ROA 前25%門檻**：3.17%
 
-!!! note "資料來源"
+!!! note "資料來源說明"
     - `cleaned_performance1.csv`（單季 ROE/ROA）
     - `raw_fin_ratio_quarter.csv`（稅前淨利率）
     - `raw_companyinfo.csv`（產業分類）
-
-**本報告僅供參考，投資決策請審慎評估**

@@ -9,10 +9,10 @@ tags:
   - 股利
   - 殖利率
   - 總覽
-title: 股利分配總覽報告 - 全部股票
+title: 股利分配總覽 - 所有股票
 comments: false
 draft: false
-description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 自動產生
+description: 股利分配總覽 - 所有 126 檔股票 (有效 103 檔) - 自動產生
 ---
 
 <style>
@@ -21,10 +21,10 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
 }
 </style>
 
-# :bar_chart: 股利分配總覽報告 - 全部股票
+# :bar_chart: 股利分配總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-01-25 12:23:52  
+    **:calendar: 產生時間**: 2026-01-25 20:26:48  
     **:building_construction: 分析股票總數**: 126 檔 (有效 103 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析
 
@@ -1544,7 +1544,7 @@ description: 股利分配總覽報告 - 全部 126 檔股票 (有效 103 檔) - 
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-01-25 12:23:52
+    - **報告產生時間**: 2026-01-25 20:26:48
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
