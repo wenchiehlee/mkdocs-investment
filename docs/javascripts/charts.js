@@ -141,7 +141,19 @@ document$.subscribe(function() {
                 x: { format: 'yyyy-MM-dd' }
             },
             legend: { horizontalAlign: 'left', offsetX: 40 },
-            title: { text: title, align: 'center' }
+            title: { text: title, align: 'center' },
+            responsive: [{
+                breakpoint: 768,
+                options: {
+                    yaxis: yaxis.map(axis => ({
+                        ...axis,
+                        title: { text: undefined },
+                        labels: { ...axis.labels, offsetX: axis.opposite ? -10 : 0 }
+                    })),
+                    legend: { position: 'bottom', horizontalAlign: 'center', offsetX: 0 },
+                    chart: { height: 350 }
+                }
+            }]
         };
 
         var container = document.querySelector("#" + elementId);
