@@ -135,6 +135,7 @@ plugins:
   - tags:
       tags_file: tags.md
   - macros
+  - charts
   - roamlinks
   - callouts
 
@@ -251,6 +252,9 @@ markdown_extensions: #詳見https://squidfunk.github.io/mkdocs-material/setup/ex
   - pymdownx.tilde
   - pymdownx.superfences:
       custom_fences:
+        - name: vegalite
+          class: vegalite
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
         - name: mermaid
           class: mermaid
           format:
@@ -287,6 +291,10 @@ extra_javascript:
   - javascripts/mathjax.js #Latex支援
   # Removed polyfill.io (service shut down) - MathJax 3 includes necessary polyfills
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js #Latex支援
+  # Vega/Vega-Lite for vegalite code fences
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
   # ApexCharts for interactive charts
   - https://cdn.jsdelivr.net/npm/apexcharts
   - javascripts/charts.js
