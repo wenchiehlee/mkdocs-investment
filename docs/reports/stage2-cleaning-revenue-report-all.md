@@ -23,7 +23,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 # :bar_chart: 月營收總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-01-28 12:06:04 CST  
+    **:calendar: 產生時間**: 2026-01-28 15:11:57 CST  
     **:building_construction: 分析股票總數**: 126 檔  
     **:chart_with_upwards_trend: 報告類型**: 各股完整歷史資料  
     **:file_folder: 資料來源**: Stage 2 cleaned_revenue.csv + cleaned_monthly_flow.csv
@@ -191,7 +191,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 | [**8299**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-8299/) | 群聯 | **240** | 2025/12 | <span style="color: #FF7F7F; font-weight: bold;">+92.7</span> | 2006/01 ~ 2025/12 |
 | [**8454**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-8454/) | 富邦媒 | **145** | 2025/12 | <span style="color: #002818; font-weight: bold;">-5.65</span> | 2013/12 ~ 2025/12 |
 | [**9914**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-9914/) | 美利達 | **240** | 2025/12 | <span style="color: #004225; font-weight: bold;">-11.2</span> | 2006/01 ~ 2025/12 |
-| [**9917**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-9917/) | 中保科 | **40** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+0.09</span> | 2022/09 ~ 2025/12 |
+| [**9917**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-9917/) | 中保科 | **240** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+0.09</span> | 2006/01 ~ 2025/12 |
 | [**9921**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-9921/) | 巨大 | **240** | 2025/12 | <span style="color: #004225; font-weight: bold;">-12.5</span> | 2006/01 ~ 2025/12 |
 
 </div>
@@ -262,7 +262,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-**產生時間**: 2026-01-28 12:06:04 CST  
+**產生時間**: 2026-01-28 15:11:57 CST  
 **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)  
 **報告版本**: Material for MkDocs 增強版 with EPS/P-E Integration (Asymmetric Statistics)  
 **處理模式**: 完整資料模式
