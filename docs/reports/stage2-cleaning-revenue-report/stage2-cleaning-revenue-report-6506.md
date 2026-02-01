@@ -25,7 +25,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
     **:building_construction: 公司名稱**: 雙邦  
     **:identification_card: 股票代號**: 6506  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 雙邦 (6506) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **0.60** | **1.16** | **1.96** |
-| **P/E倍數** | **15.23** | **31.54** | **360.84** |
+| **P/E倍數** | **15.23** | **31.45** | **360.78** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 雙邦 歷史平均獲利能力 (σup=0.79, σlo=0.57)
-    - **P/Ebase**: 雙邦 歷史平均估值水準 (σup=329.31, σlo=16.31)
+    - **EPSbase**: 雙邦 歷史平均獲利能力 (σup=0.79, σlo=0.56)
+    - **P/Ebase**: 雙邦 歷史平均估值水準 (σup=329.33, σlo=16.22)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -199,7 +199,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
 | **2016/03** | **2.29** | <span style="color: #8B0000; font-weight: bold;">+4.52</span> | <span style="color: #8B0000; font-weight: bold;">+0.53</span> | **20.7** | <span style="color: #B22222; font-weight: bold;">1.83</span> | <span style="color: #006400; font-weight: bold;">11.34</span> |
 | **2016/02** | **1.4** | <span style="color: #8B0000; font-weight: bold;">+3.16</span> | <span style="color: #002818; font-weight: bold;">-2.15</span> | **20.2** | <span style="color: #B22222; font-weight: bold;">1.74</span> | <span style="color: #006400; font-weight: bold;">11.63</span> |
 | **2016/01** | **1.77** | <span style="color: #002818; font-weight: bold;">-5.99</span> | <span style="color: #002818; font-weight: bold;">-5.99</span> | **18.55** | <span style="color: #B22222; font-weight: bold;">1.65</span> | <span style="color: #006400; font-weight: bold;">11.25</span> |
-| **2015/12** | **1.47** | <span style="color: #8B0000; font-weight: bold;">+3.76</span> | <span style="color: #8B0000; font-weight: bold;">+0.12</span> | **18.5** | <span style="color: #8B0000; font-weight: bold;">1.56</span> | <span style="color: #006400; font-weight: bold;">11.86</span> |
+| **2015/12** | **1.47** | <span style="color: #8B0000; font-weight: bold;">+3.76</span> | <span style="color: #8B0000; font-weight: bold;">+0.12</span> | **18.5** | <span style="color: #B22222; font-weight: bold;">1.56</span> | <span style="color: #006400; font-weight: bold;">11.86</span> |
 | **2015/11** | **1.25** | <span style="color: #8B0000; font-weight: bold;">+9.24</span> | <span style="color: #002818; font-weight: bold;">-0.15</span> | **17.2** | <span style="color: #8B0000; font-weight: bold;">1.52</span> | <span style="color: #006400; font-weight: bold;">11.32</span> |
 | **2015/10** | **1.35** | <span style="color: #8B0000; font-weight: bold;">+0.82</span> | <span style="color: #002818; font-weight: bold;">-0.79</span> | **23.75** | <span style="color: #8B0000; font-weight: bold;">1.48</span> | <span style="color: #004225; font-weight: bold;">16.05</span> |
 | **2015/09** | **1.4** | <span style="color: #8B0000; font-weight: bold;">+2.38</span> | <span style="color: #002818; font-weight: bold;">-1.03</span> | **21.45** | <span style="color: #8B0000; font-weight: bold;">1.44</span> | <span style="color: #006400; font-weight: bold;">14.9</span> |
@@ -414,7 +414,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

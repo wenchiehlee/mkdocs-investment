@@ -25,7 +25,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
     **:building_construction: 公司名稱**: 鈊象  
     **:identification_card: 股票代號**: 3293  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 鈊象 (3293) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **9.80** | **21.53** | **45.25** |
-| **P/E倍數** | **13.21** | **19.13** | **33.43** |
+| **EPS(元)** | **9.84** | **21.60** | **45.32** |
+| **P/E倍數** | **13.21** | **19.13** | **33.34** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 鈊象 歷史平均獲利能力 (σup=23.72, σlo=11.74)
-    - **P/Ebase**: 鈊象 歷史平均估值水準 (σup=14.30, σlo=5.93)
+    - **EPSbase**: 鈊象 歷史平均獲利能力 (σup=23.73, σlo=11.76)
+    - **P/Ebase**: 鈊象 歷史平均估值水準 (σup=14.21, σlo=5.93)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -156,7 +156,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 | **2019/10** | **5.54** | <span style="color: #FF7F7F; font-weight: bold;">+95.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+68.8</span> | **392** | <span style="color: #8B0000; font-weight: bold;">25.48</span> | <span style="color: #004225; font-weight: bold;">15.38</span> |
 | **2019/09** | **4.95** | <span style="color: #FF7F7F; font-weight: bold;">+115.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+65.3</span> | **389** | <span style="color: #8B0000; font-weight: bold;">24.19</span> | <span style="color: #004225; font-weight: bold;">16.08</span> |
 | **2019/08** | **4.89** | <span style="color: #FF7F7F; font-weight: bold;">+90</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.5</span> | **378** | <span style="color: #8B0000; font-weight: bold;">22.89</span> | <span style="color: #002818; font-weight: bold;">16.51</span> |
-| **2019/07** | **5.02** | <span style="color: #FF7F7F; font-weight: bold;">+108.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+54.8</span> | **309.5** | <span style="color: #8B0000; font-weight: bold;">21.59</span> | <span style="color: #004225; font-weight: bold;">14.33</span> |
+| **2019/07** | **5.02** | <span style="color: #FF7F7F; font-weight: bold;">+108.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+54.8</span> | **309.5** | <span style="color: #002818; font-weight: bold;">21.59</span> | <span style="color: #004225; font-weight: bold;">14.33</span> |
 | **2019/06** | **4.22** | <span style="color: #FF7F7F; font-weight: bold;">+68</span> | <span style="color: #FF6347; font-weight: bold;">+45.9</span> | **299** | <span style="color: #002818; font-weight: bold;">20.29</span> | <span style="color: #004225; font-weight: bold;">14.73</span> |
 | **2019/05** | **3.93** | <span style="color: #FF7F7F; font-weight: bold;">+54.1</span> | <span style="color: #FF6347; font-weight: bold;">+41.4</span> | **267** | <span style="color: #002818; font-weight: bold;">19.0</span> | <span style="color: #004225; font-weight: bold;">14.05</span> |
 | **2019/04** | **3.39** | <span style="color: #FF6347; font-weight: bold;">+47.1</span> | <span style="color: #FF4500; font-weight: bold;">+38</span> | **256** | <span style="color: #002818; font-weight: bold;">17.7</span> | <span style="color: #004225; font-weight: bold;">14.46</span> |
@@ -204,7 +204,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 | **2015/10** | **1.68** | <span style="color: #B22222; font-weight: bold;">+19.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.32</span> | **88** | <span style="color: #006400; font-weight: bold;">4.21</span> | <span style="color: #8B0000; font-weight: bold;">20.89</span> |
 | **2015/09** | **1.77** | <span style="color: #002818; font-weight: bold;">-0.56</span> | <span style="color: #8B0000; font-weight: bold;">+8.14</span> | **80.3** | <span style="color: #006400; font-weight: bold;">4.12</span> | <span style="color: #8B0000; font-weight: bold;">19.49</span> |
 | **2015/08** | **1.64** | <span style="color: #B22222; font-weight: bold;">+10.9</span> | <span style="color: #8B0000; font-weight: bold;">+9.59</span> | **65.9** | <span style="color: #006400; font-weight: bold;">4.03</span> | <span style="color: #002818; font-weight: bold;">16.37</span> |
-| **2015/07** | **1.63** | <span style="color: #B22222; font-weight: bold;">+12.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.38</span> | **103.5** | <span style="color: #006400; font-weight: bold;">3.93</span> | <span style="color: #B22222; font-weight: bold;">26.31</span> |
+| **2015/07** | **1.63** | <span style="color: #B22222; font-weight: bold;">+12.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.38</span> | **103.5** | <span style="color: #228B22; font-weight: bold;">3.93</span> | <span style="color: #B22222; font-weight: bold;">26.31</span> |
 | **2015/06** | **1.6** | <span style="color: #B22222; font-weight: bold;">+18.6</span> | <span style="color: #8B0000; font-weight: bold;">+8.74</span> | **105.5** | <span style="color: #228B22; font-weight: bold;">3.84</span> | <span style="color: #B22222; font-weight: bold;">27.47</span> |
 | **2015/05** | **1.55** | <span style="color: #8B0000; font-weight: bold;">+8.8</span> | <span style="color: #8B0000; font-weight: bold;">+6.67</span> | **110.5** | <span style="color: #228B22; font-weight: bold;">3.75</span> | <span style="color: #B22222; font-weight: bold;">29.49</span> |
 | **2015/04** | **1.62** | <span style="color: #B22222; font-weight: bold;">+13.4</span> | <span style="color: #8B0000; font-weight: bold;">+6.06</span> | **127** | <span style="color: #228B22; font-weight: bold;">3.65</span> | <span style="color: #DC143C; font-weight: bold;">34.76</span> |
@@ -414,7 +414,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

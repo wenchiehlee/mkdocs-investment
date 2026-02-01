@@ -25,7 +25,7 @@ description: 月營收表 威聯通 (7805) - 自動產生
     **:building_construction: 公司名稱**: 威聯通  
     **:identification_card: 股票代號**: 7805  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,14 +62,14 @@ description: 月營收表 威聯通 (7805) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-1.00** | **0.00** | **1.00** |
-| **P/E倍數** | **-1.00** | **0.00** | **1.00** |
+| **EPS(元)** | **39.76** | **40.76** | **40.76** |
+| **P/E倍數** | **15.04** | **16.04** | **17.04** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 威聯通 歷史平均獲利能力 (σup=1.00, σlo=1.00)
+    - **EPSbase**: 威聯通 歷史平均獲利能力 (σup=0.00, σlo=1.00)
     - **P/Ebase**: 威聯通 歷史平均估值水準 (σup=1.00, σlo=1.00)
 
 
@@ -79,7 +79,7 @@ description: 月營收表 威聯通 (7805) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/12** | **5.08** | <span style="color: #B22222; font-weight: bold;">+17.9</span> | <span style="color: #8B0000; font-weight: bold;">+5.79</span> | **760** | <span style="color: #FF7F7F; font-weight: bold;">40.76</span> | <span style="color: #FF7F7F; font-weight: bold;">18.65</span> |
+| **2025/12** | **5.08** | <span style="color: #B22222; font-weight: bold;">+17.9</span> | <span style="color: #8B0000; font-weight: bold;">+5.79</span> | **760** | <span style="color: #000000; font-weight: bold;">40.76</span> | <span style="color: #FF6347; font-weight: bold;">18.65</span> |
 | **2025/11** | **5.97** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #8B0000; font-weight: bold;">+4.84</span> | **-** | N/A | N/A |
 | **2025/10** | **5.47** | <span style="color: #002818; font-weight: bold;">-9.83</span> | <span style="color: #8B0000; font-weight: bold;">+4.12</span> | **-** | N/A | N/A |
 | **2025/09** | **5.22** | <span style="color: #B22222; font-weight: bold;">+11.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.08</span> | **-** | N/A | N/A |
@@ -188,7 +188,7 @@ description: 月營收表 威聯通 (7805) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

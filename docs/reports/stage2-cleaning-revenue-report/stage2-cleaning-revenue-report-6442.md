@@ -25,7 +25,7 @@ description: 月營收表 光聖 (6442) - 自動產生
     **:building_construction: 公司名稱**: 光聖  
     **:identification_card: 股票代號**: 6442  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 光聖 (6442) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.23** | **4.31** | **11.62** |
-| **P/E倍數** | **15.99** | **30.64** | **90.38** |
+| **EPS(元)** | **1.26** | **4.43** | **12.01** |
+| **P/E倍數** | **16.04** | **31.19** | **90.67** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 光聖 歷史平均獲利能力 (σup=7.31, σlo=3.08)
-    - **P/Ebase**: 光聖 歷史平均估值水準 (σup=59.74, σlo=14.65)
+    - **EPSbase**: 光聖 歷史平均獲利能力 (σup=7.58, σlo=3.17)
+    - **P/Ebase**: 光聖 歷史平均估值水準 (σup=59.48, σlo=15.15)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -80,7 +80,7 @@ description: 月營收表 光聖 (6442) - 自動產生
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2025/12** | **11.85** | <span style="color: #004225; font-weight: bold;">-12.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.2</span> | **1360** | <span style="color: #FF6347; font-weight: bold;">19.59</span> | <span style="color: #B22222; font-weight: bold;">69.42</span> |
-| **2025/11** | **8.1** | <span style="color: #FF6347; font-weight: bold;">+46</span> | <span style="color: #FF7F7F; font-weight: bold;">+85</span> | **1190** | <span style="color: #FF6347; font-weight: bold;">19.15</span> | <span style="color: #B22222; font-weight: bold;">62.14</span> |
+| **2025/11** | **8.1** | <span style="color: #FF6347; font-weight: bold;">+46</span> | <span style="color: #FF7F7F; font-weight: bold;">+85</span> | **1190** | <span style="color: #FF4500; font-weight: bold;">19.15</span> | <span style="color: #B22222; font-weight: bold;">62.14</span> |
 | **2025/10** | **10.06** | <span style="color: #FF7F7F; font-weight: bold;">+71.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+89.8</span> | **939** | <span style="color: #FF4500; font-weight: bold;">18.71</span> | <span style="color: #8B0000; font-weight: bold;">50.19</span> |
 | **2025/09** | **10.45** | <span style="color: #FF7F7F; font-weight: bold;">+86</span> | <span style="color: #FF7F7F; font-weight: bold;">+92.6</span> | **793** | <span style="color: #FF4500; font-weight: bold;">18.27</span> | <span style="color: #8B0000; font-weight: bold;">43.41</span> |
 | **2025/08** | **6.45** | <span style="color: #DC143C; font-weight: bold;">+21</span> | <span style="color: #FF7F7F; font-weight: bold;">+93.6</span> | **924** | <span style="color: #FF4500; font-weight: bold;">17.83</span> | <span style="color: #8B0000; font-weight: bold;">51.83</span> |
@@ -88,7 +88,7 @@ description: 月營收表 光聖 (6442) - 自動產生
 | **2025/06** | **10.52** | <span style="color: #FF7F7F; font-weight: bold;">+79</span> | <span style="color: #FF7F7F; font-weight: bold;">+121</span> | **464** | <span style="color: #FF4500; font-weight: bold;">16.94</span> | <span style="color: #002818; font-weight: bold;">27.38</span> |
 | **2025/05** | **7.99** | <span style="color: #FF7F7F; font-weight: bold;">+61.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+135.7</span> | **463** | <span style="color: #FF4500; font-weight: bold;">16.5</span> | <span style="color: #002818; font-weight: bold;">28.05</span> |
 | **2025/04** | **10.58** | <span style="color: #FF7F7F; font-weight: bold;">+194.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+166.8</span> | **355** | <span style="color: #FF4500; font-weight: bold;">16.06</span> | <span style="color: #004225; font-weight: bold;">22.1</span> |
-| **2025/03** | **5.77** | <span style="color: #FF7F7F; font-weight: bold;">+78.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+154.7</span> | **412.5** | <span style="color: #FF4500; font-weight: bold;">15.62</span> | <span style="color: #002818; font-weight: bold;">26.4</span> |
+| **2025/03** | **5.77** | <span style="color: #FF7F7F; font-weight: bold;">+78.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+154.7</span> | **412.5** | <span style="color: #DC143C; font-weight: bold;">15.62</span> | <span style="color: #002818; font-weight: bold;">26.4</span> |
 | **2025/02** | **5.13** | <span style="color: #FF7F7F; font-weight: bold;">+104.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+203.4</span> | **489** | <span style="color: #DC143C; font-weight: bold;">15.18</span> | <span style="color: #8B0000; font-weight: bold;">32.21</span> |
 | **2025/01** | **10.15** | <span style="color: #FF7F7F; font-weight: bold;">+301.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+301.8</span> | **629** | <span style="color: #DC143C; font-weight: bold;">14.74</span> | <span style="color: #8B0000; font-weight: bold;">42.67</span> |
 | **2024/12** | **13.59** | <span style="color: #FF7F7F; font-weight: bold;">+483.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+144.9</span> | **650** | <span style="color: #DC143C; font-weight: bold;">14.3</span> | <span style="color: #8B0000; font-weight: bold;">45.45</span> |
@@ -158,7 +158,7 @@ description: 月營收表 光聖 (6442) - 自動產生
 | **2019/08** | **2.26** | <span style="color: #004225; font-weight: bold;">-11.2</span> | <span style="color: #002818; font-weight: bold;">-4.21</span> | **37.25** | <span style="color: #006400; font-weight: bold;">0.59</span> | <span style="color: #B22222; font-weight: bold;">62.78</span> |
 | **2019/07** | **2.48** | <span style="color: #004225; font-weight: bold;">-12.6</span> | <span style="color: #002818; font-weight: bold;">-3.07</span> | **36.7** | <span style="color: #006400; font-weight: bold;">0.81</span> | <span style="color: #8B0000; font-weight: bold;">45.22</span> |
 | **2019/06** | **1.79** | <span style="color: #006400; font-weight: bold;">-21.7</span> | <span style="color: #002818; font-weight: bold;">-0.93</span> | **38.35** | <span style="color: #006400; font-weight: bold;">1.03</span> | <span style="color: #8B0000; font-weight: bold;">37.23</span> |
-| **2019/05** | **2.04** | <span style="color: #004225; font-weight: bold;">-13.4</span> | <span style="color: #8B0000; font-weight: bold;">+3.65</span> | **37.7** | <span style="color: #004225; font-weight: bold;">1.25</span> | <span style="color: #002818; font-weight: bold;">30.2</span> |
+| **2019/05** | **2.04** | <span style="color: #004225; font-weight: bold;">-13.4</span> | <span style="color: #8B0000; font-weight: bold;">+3.65</span> | **37.7** | <span style="color: #006400; font-weight: bold;">1.25</span> | <span style="color: #002818; font-weight: bold;">30.2</span> |
 | **2019/04** | **2.39** | <span style="color: #8B0000; font-weight: bold;">+8.73</span> | <span style="color: #8B0000; font-weight: bold;">+8.69</span> | **39.7** | <span style="color: #004225; font-weight: bold;">1.47</span> | <span style="color: #002818; font-weight: bold;">27.07</span> |
 | **2019/03** | **1.81** | <span style="color: #8B0000; font-weight: bold;">+6.61</span> | <span style="color: #8B0000; font-weight: bold;">+8.67</span> | **42.9** | <span style="color: #004225; font-weight: bold;">1.68</span> | <span style="color: #002818; font-weight: bold;">25.46</span> |
 | **2019/02** | **1.35** | <span style="color: #006400; font-weight: bold;">-21.7</span> | <span style="color: #8B0000; font-weight: bold;">+9.52</span> | **43** | <span style="color: #004225; font-weight: bold;">1.9</span> | <span style="color: #004225; font-weight: bold;">22.59</span> |
@@ -171,7 +171,7 @@ description: 月營收表 光聖 (6442) - 自動產生
 | **2018/07** | **2.83** | <span style="color: #B22222; font-weight: bold;">+10.5</span> | <span style="color: #004225; font-weight: bold;">-15.9</span> | **35.9** | <span style="color: #004225; font-weight: bold;">1.66</span> | <span style="color: #004225; font-weight: bold;">21.62</span> |
 | **2018/06** | **2.28** | <span style="color: #006400; font-weight: bold;">-20.1</span> | <span style="color: #006400; font-weight: bold;">-20.2</span> | **36.8** | <span style="color: #004225; font-weight: bold;">1.52</span> | <span style="color: #002818; font-weight: bold;">24.13</span> |
 | **2018/05** | **2.36** | <span style="color: #002818; font-weight: bold;">-6.94</span> | <span style="color: #006400; font-weight: bold;">-20.2</span> | **35.6** | <span style="color: #004225; font-weight: bold;">1.39</span> | <span style="color: #002818; font-weight: bold;">25.63</span> |
-| **2018/04** | **2.2** | <span style="color: #004225; font-weight: bold;">-13.4</span> | <span style="color: #006400; font-weight: bold;">-23.5</span> | **34** | <span style="color: #004225; font-weight: bold;">1.25</span> | <span style="color: #002818; font-weight: bold;">27.13</span> |
+| **2018/04** | **2.2** | <span style="color: #004225; font-weight: bold;">-13.4</span> | <span style="color: #006400; font-weight: bold;">-23.5</span> | **34** | <span style="color: #006400; font-weight: bold;">1.25</span> | <span style="color: #002818; font-weight: bold;">27.13</span> |
 | **2018/03** | **1.7** | <span style="color: #32CD32; font-weight: bold;">-47.1</span> | <span style="color: #006400; font-weight: bold;">-26.7</span> | **38.4** | <span style="color: #006400; font-weight: bold;">1.12</span> | <span style="color: #8B0000; font-weight: bold;">34.36</span> |
 | **2018/02** | **1.72** | <span style="color: #002818; font-weight: bold;">-9.77</span> | <span style="color: #004225; font-weight: bold;">-12.7</span> | **39.2** | <span style="color: #006400; font-weight: bold;">0.98</span> | <span style="color: #8B0000; font-weight: bold;">39.93</span> |
 | **2018/01** | **2.36** | <span style="color: #004225; font-weight: bold;">-14.8</span> | <span style="color: #004225; font-weight: bold;">-14.8</span> | **42.3** | <span style="color: #006400; font-weight: bold;">0.85</span> | <span style="color: #8B0000; font-weight: bold;">50.01</span> |
@@ -187,7 +187,7 @@ description: 月營收表 光聖 (6442) - 自動產生
 | **2017/03** | **3.21** | <span style="color: #004225; font-weight: bold;">-15.9</span> | <span style="color: #006400; font-weight: bold;">-29.1</span> | **48.5** | <span style="color: #002818; font-weight: bold;">3.47</span> | <span style="color: #006400; font-weight: bold;">13.98</span> |
 | **2017/02** | **1.91** | <span style="color: #228B22; font-weight: bold;">-36</span> | <span style="color: #228B22; font-weight: bold;">-36</span> | **46.3** | <span style="color: #002818; font-weight: bold;">3.78</span> | <span style="color: #006400; font-weight: bold;">12.26</span> |
 | **2017/01** | **2.77** | <span style="color: #228B22; font-weight: bold;">-36</span> | <span style="color: #228B22; font-weight: bold;">-36</span> | **45.45** | <span style="color: #002818; font-weight: bold;">4.08</span> | <span style="color: #006400; font-weight: bold;">11.13</span> |
-| **2016/12** | **3.13** | <span style="color: #004225; font-weight: bold;">-15.9</span> | <span style="color: #8B0000; font-weight: bold;">+0.87</span> | **47.2** | <span style="color: #8B0000; font-weight: bold;">4.39</span> | <span style="color: #006400; font-weight: bold;">10.75</span> |
+| **2016/12** | **3.13** | <span style="color: #004225; font-weight: bold;">-15.9</span> | <span style="color: #8B0000; font-weight: bold;">+0.87</span> | **47.2** | <span style="color: #002818; font-weight: bold;">4.39</span> | <span style="color: #006400; font-weight: bold;">10.75</span> |
 | **2016/11** | **3.78** | <span style="color: #002818; font-weight: bold;">-2.23</span> | <span style="color: #8B0000; font-weight: bold;">+2.46</span> | **46.35** | <span style="color: #8B0000; font-weight: bold;">4.44</span> | <span style="color: #006400; font-weight: bold;">10.43</span> |
 | **2016/10** | **2.52** | <span style="color: #228B22; font-weight: bold;">-37.7</span> | <span style="color: #8B0000; font-weight: bold;">+2.97</span> | **47.75** | <span style="color: #8B0000; font-weight: bold;">4.5</span> | <span style="color: #006400; font-weight: bold;">10.61</span> |
 | **2016/09** | **3.06** | <span style="color: #004225; font-weight: bold;">-12.5</span> | <span style="color: #8B0000; font-weight: bold;">+8.19</span> | **53** | <span style="color: #8B0000; font-weight: bold;">4.56</span> | <span style="color: #006400; font-weight: bold;">11.64</span> |
@@ -320,7 +320,7 @@ description: 月營收表 光聖 (6442) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

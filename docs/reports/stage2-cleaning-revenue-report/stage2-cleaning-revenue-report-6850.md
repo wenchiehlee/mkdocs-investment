@@ -25,7 +25,7 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
     **:building_construction: 公司名稱**: 光鼎生技  
     **:identification_card: 股票代號**: 6850  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.91** | **1.56** | **2.27** |
-| **P/E倍數** | **23.34** | **38.22** | **55.81** |
+| **EPS(元)** | **0.90** | **1.55** | **2.27** |
+| **P/E倍數** | **23.64** | **38.64** | **56.40** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 光鼎生技 歷史平均獲利能力 (σup=0.71, σlo=0.66)
-    - **P/Ebase**: 光鼎生技 歷史平均估值水準 (σup=17.59, σlo=14.88)
+    - **EPSbase**: 光鼎生技 歷史平均獲利能力 (σup=0.72, σlo=0.65)
+    - **P/Ebase**: 光鼎生技 歷史平均估值水準 (σup=17.76, σlo=15.00)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -80,7 +80,7 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2025/12** | **0.386** | <span style="color: #FF7F7F; font-weight: bold;">+103.3</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **39.8** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #B22222; font-weight: bold;">52.37</span> |
-| **2025/11** | **0.22** | <span style="color: #004225; font-weight: bold;">-13.3</span> | <span style="color: #8B0000; font-weight: bold;">+7.52</span> | **42.65** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #DC143C; font-weight: bold;">56.12</span> |
+| **2025/11** | **0.22** | <span style="color: #004225; font-weight: bold;">-13.3</span> | <span style="color: #8B0000; font-weight: bold;">+7.52</span> | **42.65** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #B22222; font-weight: bold;">56.12</span> |
 | **2025/10** | **0.229** | <span style="color: #FF4500; font-weight: bold;">+34.4</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **44** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #DC143C; font-weight: bold;">57.89</span> |
 | **2025/09** | **0.124** | <span style="color: #228B22; font-weight: bold;">-32.7</span> | <span style="color: #8B0000; font-weight: bold;">+8.01</span> | **48.8** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #DC143C; font-weight: bold;">64.21</span> |
 | **2025/08** | **0.209** | <span style="color: #002818; font-weight: bold;">-5.89</span> | <span style="color: #B22222; font-weight: bold;">+14.1</span> | **46.8** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #DC143C; font-weight: bold;">61.58</span> |
@@ -89,7 +89,7 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 | **2025/05** | **0.145** | <span style="color: #8B0000; font-weight: bold;">+4.92</span> | <span style="color: #FF6347; font-weight: bold;">+46.7</span> | **46.8** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #DC143C; font-weight: bold;">61.58</span> |
 | **2025/04** | **0.256** | <span style="color: #FF7F7F; font-weight: bold;">+274.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.6</span> | **46** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #DC143C; font-weight: bold;">60.53</span> |
 | **2025/03** | **0.18** | <span style="color: #B22222; font-weight: bold;">+16.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | **45.5** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #DC143C; font-weight: bold;">59.87</span> |
-| **2025/02** | **0.143** | <span style="color: #FF6347; font-weight: bold;">+41.9</span> | <span style="color: #DC143C; font-weight: bold;">+26.5</span> | **42.6** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #DC143C; font-weight: bold;">56.05</span> |
+| **2025/02** | **0.143** | <span style="color: #FF6347; font-weight: bold;">+41.9</span> | <span style="color: #DC143C; font-weight: bold;">+26.5</span> | **42.6** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #B22222; font-weight: bold;">56.05</span> |
 | **2025/01** | **0.186** | <span style="color: #B22222; font-weight: bold;">+16.7</span> | <span style="color: #B22222; font-weight: bold;">+16.7</span> | **40.15** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #B22222; font-weight: bold;">52.83</span> |
 | **2024/12** | **0.19** | <span style="color: #228B22; font-weight: bold;">-30.6</span> | <span style="color: #004225; font-weight: bold;">-11.2</span> | **43.1** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #DC143C; font-weight: bold;">56.71</span> |
 | **2024/11** | **0.254** | <span style="color: #FF4500; font-weight: bold;">+36.7</span> | <span style="color: #002818; font-weight: bold;">-8.55</span> | **46** | <span style="color: #006400; font-weight: bold;">0.82</span> | <span style="color: #DC143C; font-weight: bold;">56.44</span> |
@@ -101,7 +101,7 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 | **2024/05** | **0.138** | <span style="color: #228B22; font-weight: bold;">-37.5</span> | <span style="color: #006400; font-weight: bold;">-24.7</span> | **49.95** | <span style="color: #004225; font-weight: bold;">1.14</span> | <span style="color: #8B0000; font-weight: bold;">43.62</span> |
 | **2024/04** | **0.0683** | <span style="color: #90EE90; font-weight: bold;">-66.8</span> | <span style="color: #004225; font-weight: bold;">-20</span> | **49.5** | <span style="color: #004225; font-weight: bold;">1.2</span> | <span style="color: #8B0000; font-weight: bold;">41.25</span> |
 | **2024/03** | **0.154** | <span style="color: #006400; font-weight: bold;">-24.4</span> | <span style="color: #8B0000; font-weight: bold;">+4.18</span> | **49.5** | <span style="color: #002818; font-weight: bold;">1.25</span> | <span style="color: #8B0000; font-weight: bold;">39.44</span> |
-| **2024/02** | **0.101** | <span style="color: #004225; font-weight: bold;">-10.2</span> | <span style="color: #FF4500; font-weight: bold;">+34.3</span> | **50.5** | <span style="color: #002818; font-weight: bold;">1.31</span> | <span style="color: #8B0000; font-weight: bold;">38.55</span> |
+| **2024/02** | **0.101** | <span style="color: #004225; font-weight: bold;">-10.2</span> | <span style="color: #FF4500; font-weight: bold;">+34.3</span> | **50.5** | <span style="color: #002818; font-weight: bold;">1.31</span> | <span style="color: #002818; font-weight: bold;">38.55</span> |
 | **2024/01** | **0.159** | <span style="color: #FF7F7F; font-weight: bold;">+95.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+95.8</span> | **50.5** | <span style="color: #002818; font-weight: bold;">1.36</span> | <span style="color: #002818; font-weight: bold;">37.0</span> |
 | **2023/12** | **0.274** | <span style="color: #002818; font-weight: bold;">-7.17</span> | <span style="color: #002818; font-weight: bold;">-1.35</span> | **50** | <span style="color: #002818; font-weight: bold;">1.42</span> | <span style="color: #002818; font-weight: bold;">35.21</span> |
 | **2023/11** | **0.186** | <span style="color: #228B22; font-weight: bold;">-36</span> | <span style="color: #002818; font-weight: bold;">-0.5</span> | **50.5** | <span style="color: #002818; font-weight: bold;">1.51</span> | <span style="color: #002818; font-weight: bold;">33.39</span> |
@@ -109,7 +109,7 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 | **2023/09** | **0.22** | <span style="color: #FF4500; font-weight: bold;">+32.2</span> | <span style="color: #8B0000; font-weight: bold;">+7.8</span> | **54** | <span style="color: #8B0000; font-weight: bold;">1.7</span> | <span style="color: #002818; font-weight: bold;">31.81</span> |
 | **2023/08** | **0.175** | <span style="color: #006400; font-weight: bold;">-20.8</span> | <span style="color: #8B0000; font-weight: bold;">+4.68</span> | **48.5** | <span style="color: #8B0000; font-weight: bold;">1.79</span> | <span style="color: #004225; font-weight: bold;">27.09</span> |
 | **2023/07** | **0.159** | <span style="color: #004225; font-weight: bold;">-19.9</span> | <span style="color: #8B0000; font-weight: bold;">+9.89</span> | **54.1** | <span style="color: #8B0000; font-weight: bold;">1.88</span> | <span style="color: #004225; font-weight: bold;">28.74</span> |
-| **2023/06** | **0.203** | <span style="color: #FF4500; font-weight: bold;">+39.5</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **61.2** | <span style="color: #B22222; font-weight: bold;">1.98</span> | <span style="color: #002818; font-weight: bold;">30.99</span> |
+| **2023/06** | **0.203** | <span style="color: #FF4500; font-weight: bold;">+39.5</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **61.2** | <span style="color: #B22222; font-weight: bold;">1.98</span> | <span style="color: #004225; font-weight: bold;">30.99</span> |
 | **2023/05** | **0.221** | <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **50.7** | <span style="color: #B22222; font-weight: bold;">2.07</span> | <span style="color: #004225; font-weight: bold;">24.52</span> |
 | **2023/04** | **0.206** | <span style="color: #FF6347; font-weight: bold;">+42.7</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **51.9** | <span style="color: #B22222; font-weight: bold;">2.16</span> | <span style="color: #004225; font-weight: bold;">24.03</span> |
 | **2023/03** | **0.204** | <span style="color: #DC143C; font-weight: bold;">+27.7</span> | <span style="color: #B22222; font-weight: bold;">+18</span> | **50** | <span style="color: #B22222; font-weight: bold;">2.25</span> | <span style="color: #006400; font-weight: bold;">22.2</span> |
@@ -227,7 +227,7 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

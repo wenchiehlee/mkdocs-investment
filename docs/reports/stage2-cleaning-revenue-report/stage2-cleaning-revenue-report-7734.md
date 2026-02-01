@@ -25,7 +25,7 @@ description: 月營收表 印能科技 (7734) - 自動產生
     **:building_construction: 公司名稱**: 印能科技  
     **:identification_card: 股票代號**: 7734  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 印能科技 (7734) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **36.08** | **37.08** | **37.08** |
-| **P/E倍數** | **26.51** | **29.51** | **36.25** |
+| **P/E倍數** | **26.51** | **29.51** | **35.54** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 印能科技 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 印能科技 歷史平均估值水準 (σup=6.74, σlo=2.99)
+    - **P/Ebase**: 印能科技 歷史平均估值水準 (σup=6.03, σlo=3.00)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -89,7 +89,7 @@ description: 月營收表 印能科技 (7734) - 自動產生
 | **2025/05** | **1.22** | <span style="color: #002818; font-weight: bold;">-1.97</span> | <span style="color: #DC143C; font-weight: bold;">+26.2</span> | **1200** | <span style="color: #DC143C; font-weight: bold;">37.08</span> | <span style="color: #8B0000; font-weight: bold;">32.36</span> |
 | **2025/04** | **2.48** | <span style="color: #FF7F7F; font-weight: bold;">+67.8</span> | <span style="color: #FF4500; font-weight: bold;">+32.6</span> | **1025** | <span style="color: #DC143C; font-weight: bold;">37.08</span> | <span style="color: #004225; font-weight: bold;">27.64</span> |
 | **2025/03** | **1.76** | <span style="color: #002818; font-weight: bold;">-4.66</span> | <span style="color: #B22222; font-weight: bold;">+19.7</span> | **1135** | <span style="color: #DC143C; font-weight: bold;">37.08</span> | <span style="color: #8B0000; font-weight: bold;">30.61</span> |
-| **2025/02** | **1.8** | <span style="color: #FF7F7F; font-weight: bold;">+109.8</span> | <span style="color: #FF6347; font-weight: bold;">+40.4</span> | **1580** | <span style="color: #DC143C; font-weight: bold;">37.08</span> | <span style="color: #FF4500; font-weight: bold;">42.61</span> |
+| **2025/02** | **1.8** | <span style="color: #FF7F7F; font-weight: bold;">+109.8</span> | <span style="color: #FF6347; font-weight: bold;">+40.4</span> | **1580** | <span style="color: #DC143C; font-weight: bold;">37.08</span> | <span style="color: #FF6347; font-weight: bold;">42.61</span> |
 | **2025/01** | **1.26** | <span style="color: #002818; font-weight: bold;">-4.77</span> | <span style="color: #002818; font-weight: bold;">-4.77</span> | **-** | N/A | N/A |
 | **2024/12** | **1.85** | <span style="color: #8B0000; font-weight: bold;">+3.83</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.9</span> | **-** | N/A | N/A |
 | **2024/11** | **1.51** | <span style="color: #B22222; font-weight: bold;">+11.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+60.5</span> | **-** | N/A | N/A |
@@ -199,7 +199,7 @@ description: 月營收表 印能科技 (7734) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

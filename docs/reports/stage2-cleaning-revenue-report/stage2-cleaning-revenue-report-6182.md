@@ -25,7 +25,7 @@ description: 月營收表 合晶 (6182) - 自動產生
     **:building_construction: 公司名稱**: 合晶  
     **:identification_card: 股票代號**: 6182  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 合晶 (6182) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-1.05** | **1.22** | **3.62** |
-| **P/E倍數** | **24.24** | **90.61** | **2019.46** |
+| **EPS(元)** | **-1.06** | **1.20** | **3.60** |
+| **P/E倍數** | **24.39** | **91.15** | **2019.76** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 合晶 歷史平均獲利能力 (σup=2.40, σlo=2.27)
-    - **P/Ebase**: 合晶 歷史平均估值水準 (σup=1928.85, σlo=66.37)
+    - **EPSbase**: 合晶 歷史平均獲利能力 (σup=2.40, σlo=2.26)
+    - **P/Ebase**: 合晶 歷史平均估值水準 (σup=1928.62, σlo=66.76)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -151,7 +151,7 @@ description: 月營收表 合晶 (6182) - 自動產生
 | **2020/03** | **6.26** | <span style="color: #004225; font-weight: bold;">-16.1</span> | <span style="color: #004225; font-weight: bold;">-19.4</span> | **25.95** | <span style="color: #8B0000; font-weight: bold;">2.06</span> | <span style="color: #006400; font-weight: bold;">12.58</span> |
 | **2020/02** | **5.54** | <span style="color: #004225; font-weight: bold;">-19.7</span> | <span style="color: #006400; font-weight: bold;">-21.1</span> | **34.15** | <span style="color: #8B0000; font-weight: bold;">2.18</span> | <span style="color: #006400; font-weight: bold;">15.68</span> |
 | **2020/01** | **5.53** | <span style="color: #006400; font-weight: bold;">-22.4</span> | <span style="color: #006400; font-weight: bold;">-22.4</span> | **32.5** | <span style="color: #8B0000; font-weight: bold;">2.29</span> | <span style="color: #006400; font-weight: bold;">14.17</span> |
-| **2019/12** | **5.53** | <span style="color: #006400; font-weight: bold;">-20.1</span> | <span style="color: #004225; font-weight: bold;">-17</span> | **36.35** | <span style="color: #8B0000; font-weight: bold;">2.41</span> | <span style="color: #006400; font-weight: bold;">15.08</span> |
+| **2019/12** | **5.53** | <span style="color: #006400; font-weight: bold;">-20.1</span> | <span style="color: #004225; font-weight: bold;">-17</span> | **36.35** | <span style="color: #B22222; font-weight: bold;">2.41</span> | <span style="color: #006400; font-weight: bold;">15.08</span> |
 | **2019/11** | **5.66** | <span style="color: #006400; font-weight: bold;">-27.4</span> | <span style="color: #004225; font-weight: bold;">-16.7</span> | **33.45** | <span style="color: #B22222; font-weight: bold;">2.53</span> | <span style="color: #006400; font-weight: bold;">13.24</span> |
 | **2019/10** | **5.94** | <span style="color: #228B22; font-weight: bold;">-32.8</span> | <span style="color: #004225; font-weight: bold;">-15.6</span> | **35.05** | <span style="color: #B22222; font-weight: bold;">2.64</span> | <span style="color: #006400; font-weight: bold;">13.27</span> |
 | **2019/09** | **5.93** | <span style="color: #228B22; font-weight: bold;">-32</span> | <span style="color: #004225; font-weight: bold;">-13.4</span> | **33.65** | <span style="color: #B22222; font-weight: bold;">2.76</span> | <span style="color: #006400; font-weight: bold;">12.2</span> |
@@ -199,7 +199,7 @@ description: 月營收表 合晶 (6182) - 自動產生
 | **2016/03** | **4.67** | <span style="color: #8B0000; font-weight: bold;">+8.49</span> | <span style="color: #8B0000; font-weight: bold;">+7.01</span> | **10.85** | <span style="color: #004225; font-weight: bold;">-0.83</span> | N/A |
 | **2016/02** | **4.28** | <span style="color: #8B0000; font-weight: bold;">+2.57</span> | <span style="color: #8B0000; font-weight: bold;">+6.29</span> | **11.85** | <span style="color: #004225; font-weight: bold;">-0.53</span> | N/A |
 | **2016/01** | **5.1** | <span style="color: #8B0000; font-weight: bold;">+9.64</span> | <span style="color: #8B0000; font-weight: bold;">+9.64</span> | **11.85** | <span style="color: #004225; font-weight: bold;">-0.23</span> | N/A |
-| **2015/12** | **4.26** | <span style="color: #DC143C; font-weight: bold;">+28.1</span> | <span style="color: #002818; font-weight: bold;">-7.26</span> | **12.8** | <span style="color: #004225; font-weight: bold;">0.07</span> | <span style="color: #8B0000; font-weight: bold;">182.9</span> |
+| **2015/12** | **4.26** | <span style="color: #DC143C; font-weight: bold;">+28.1</span> | <span style="color: #002818; font-weight: bold;">-7.26</span> | **12.8** | <span style="color: #002818; font-weight: bold;">0.07</span> | <span style="color: #8B0000; font-weight: bold;">182.9</span> |
 | **2015/11** | **4.35** | <span style="color: #B22222; font-weight: bold;">+12</span> | <span style="color: #002818; font-weight: bold;">-9.43</span> | **11.75** | <span style="color: #004225; font-weight: bold;">-0.12</span> | N/A |
 | **2015/10** | **3.98** | <span style="color: #004225; font-weight: bold;">-18.8</span> | <span style="color: #004225; font-weight: bold;">-11.1</span> | **11.1** | <span style="color: #004225; font-weight: bold;">-0.3</span> | N/A |
 | **2015/09** | **4.71** | <span style="color: #004225; font-weight: bold;">-10.5</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **10.3** | <span style="color: #004225; font-weight: bold;">-0.49</span> | N/A |
@@ -246,13 +246,13 @@ description: 月營收表 合晶 (6182) - 自動產生
 | **2012/04** | **4.02** | <span style="color: #32CD32; font-weight: bold;">-47.1</span> | <span style="color: #90EE90; font-weight: bold;">-55.3</span> | **21.2** | <span style="color: #004225; font-weight: bold;">-0.58</span> | N/A |
 | **2012/03** | **3** | <span style="color: #90EE90; font-weight: bold;">-61.7</span> | <span style="color: #90EE90; font-weight: bold;">-58.4</span> | **23.4** | <span style="color: #004225; font-weight: bold;">-0.36</span> | N/A |
 | **2012/02** | **2.61** | <span style="color: #90EE90; font-weight: bold;">-59.3</span> | <span style="color: #90EE90; font-weight: bold;">-56.4</span> | **27** | <span style="color: #004225; font-weight: bold;">-0.14</span> | N/A |
-| **2012/01** | **2.75** | <span style="color: #90EE90; font-weight: bold;">-53.2</span> | <span style="color: #90EE90; font-weight: bold;">-53.2</span> | **21.5** | <span style="color: #004225; font-weight: bold;">0.08</span> | <span style="color: #8B0000; font-weight: bold;">265.0</span> |
+| **2012/01** | **2.75** | <span style="color: #90EE90; font-weight: bold;">-53.2</span> | <span style="color: #90EE90; font-weight: bold;">-53.2</span> | **21.5** | <span style="color: #002818; font-weight: bold;">0.08</span> | <span style="color: #8B0000; font-weight: bold;">265.0</span> |
 | **2011/12** | **3.05** | <span style="color: #32CD32; font-weight: bold;">-40.3</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **18.55** | <span style="color: #002818; font-weight: bold;">0.3</span> | <span style="color: #002818; font-weight: bold;">61.83</span> |
 | **2011/11** | **2.99** | <span style="color: #32CD32; font-weight: bold;">-43.4</span> | <span style="color: #DC143C; font-weight: bold;">+26.5</span> | **16.3** | <span style="color: #002818; font-weight: bold;">0.48</span> | <span style="color: #004225; font-weight: bold;">34.02</span> |
 | **2011/10** | **3.63** | <span style="color: #228B22; font-weight: bold;">-35.5</span> | <span style="color: #FF4500; font-weight: bold;">+34.7</span> | **22.3** | <span style="color: #002818; font-weight: bold;">0.66</span> | <span style="color: #004225; font-weight: bold;">33.87</span> |
 | **2011/09** | **4.51** | <span style="color: #006400; font-weight: bold;">-24.1</span> | <span style="color: #FF6347; font-weight: bold;">+44.7</span> | **26** | <span style="color: #002818; font-weight: bold;">0.84</span> | <span style="color: #004225; font-weight: bold;">31.04</span> |
 | **2011/08** | **5.38** | <span style="color: #002818; font-weight: bold;">-3.61</span> | <span style="color: #FF7F7F; font-weight: bold;">+56.9</span> | **27.4** | <span style="color: #002818; font-weight: bold;">1.02</span> | <span style="color: #004225; font-weight: bold;">26.95</span> |
-| **2011/07** | **5.37** | <span style="color: #8B0000; font-weight: bold;">+0.12</span> | <span style="color: #FF7F7F; font-weight: bold;">+70.8</span> | **39.6** | <span style="color: #002818; font-weight: bold;">1.2</span> | <span style="color: #004225; font-weight: bold;">33.11</span> |
+| **2011/07** | **5.37** | <span style="color: #8B0000; font-weight: bold;">+0.12</span> | <span style="color: #FF7F7F; font-weight: bold;">+70.8</span> | **39.6** | <span style="color: #8B0000; font-weight: bold;">1.2</span> | <span style="color: #004225; font-weight: bold;">33.11</span> |
 | **2011/06** | **-** | N/A | N/A | **44.55** | <span style="color: #8B0000; font-weight: bold;">1.38</span> | <span style="color: #004225; font-weight: bold;">32.4</span> |
 | **2011/05** | **-** | N/A | N/A | **42.7** | <span style="color: #8B0000; font-weight: bold;">1.55</span> | <span style="color: #004225; font-weight: bold;">27.47</span> |
 | **2011/04** | **-** | N/A | N/A | **46.2** | <span style="color: #8B0000; font-weight: bold;">1.73</span> | <span style="color: #004225; font-weight: bold;">26.65</span> |
@@ -318,7 +318,7 @@ description: 月營收表 合晶 (6182) - 自動產生
 | **2006/04** | **-** | N/A | N/A | **46.7** | <span style="color: #DC143C; font-weight: bold;">4.36</span> | <span style="color: #006400; font-weight: bold;">10.71</span> |
 | **2006/03** | **-** | N/A | N/A | **33** | <span style="color: #DC143C; font-weight: bold;">4.36</span> | <span style="color: #006400; font-weight: bold;">7.57</span> |
 | **2006/02** | **-** | N/A | N/A | **30.35** | <span style="color: #DC143C; font-weight: bold;">4.36</span> | <span style="color: #006400; font-weight: bold;">6.96</span> |
-| **2006/01** | **-** | N/A | N/A | **32.2** | <span style="color: #DC143C; font-weight: bold;">4.36</span> | <span style="color: #006400; font-weight: bold;">7.39</span> |
+| **2006/01** | **-** | N/A | N/A | **32.2** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 合晶 (6182) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

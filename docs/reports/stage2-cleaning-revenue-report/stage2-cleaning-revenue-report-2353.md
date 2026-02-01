@@ -25,7 +25,7 @@ description: 月營收表 宏碁 (2353) - 自動產生
     **:building_construction: 公司名稱**: 宏碁  
     **:identification_card: 股票代號**: 2353  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 宏碁 (2353) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-1.64** | **1.47** | **3.89** |
-| **P/E倍數** | **13.65** | **21.72** | **66.97** |
+| **EPS(元)** | **-1.63** | **1.45** | **3.88** |
+| **P/E倍數** | **13.66** | **21.73** | **66.97** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 宏碁 歷史平均獲利能力 (σup=2.43, σlo=3.11)
-    - **P/Ebase**: 宏碁 歷史平均估值水準 (σup=45.25, σlo=8.07)
+    - **EPSbase**: 宏碁 歷史平均獲利能力 (σup=2.43, σlo=3.08)
+    - **P/Ebase**: 宏碁 歷史平均估值水準 (σup=45.24, σlo=8.07)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -318,7 +318,7 @@ description: 月營收表 宏碁 (2353) - 自動產生
 | **2006/04** | **213** | <span style="color: #B22222; font-weight: bold;">+11.9</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **61.8** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #004225; font-weight: bold;">13.89</span> |
 | **2006/03** | **316** | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | **59.7** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #006400; font-weight: bold;">13.42</span> |
 | **2006/02** | **270.5** | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | **72** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #004225; font-weight: bold;">16.18</span> |
-| **2006/01** | **244** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **73** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #004225; font-weight: bold;">16.4</span> |
+| **2006/01** | **244** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **73** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 宏碁 (2353) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

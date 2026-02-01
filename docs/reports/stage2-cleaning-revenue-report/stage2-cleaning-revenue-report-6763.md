@@ -25,7 +25,7 @@ description: 月營收表 綠界科技 (6763) - 自動產生
     **:building_construction: 公司名稱**: 綠界科技  
     **:identification_card: 股票代號**: 6763  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **4.43** | **13.80** | **20.71** |
-| **P/E倍數** | **17.30** | **22.95** | **33.90** |
+| **EPS(元)** | **4.42** | **13.60** | **20.71** |
+| **P/E倍數** | **16.90** | **22.72** | **33.52** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 綠界科技 歷史平均獲利能力 (σup=6.91, σlo=9.37)
-    - **P/Ebase**: 綠界科技 歷史平均估值水準 (σup=10.94, σlo=5.66)
+    - **EPSbase**: 綠界科技 歷史平均獲利能力 (σup=7.11, σlo=9.18)
+    - **P/Ebase**: 綠界科技 歷史平均估值水準 (σup=10.80, σlo=5.83)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -80,10 +80,10 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2025/12** | **1.73** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.83</span> | **57.5** | <span style="color: #006400; font-weight: bold;">4.35</span> | <span style="color: #228B22; font-weight: bold;">13.22</span> |
-| **2025/11** | **1.55** | <span style="color: #B22222; font-weight: bold;">+10.4</span> | <span style="color: #8B0000; font-weight: bold;">+8.31</span> | **58.7** | <span style="color: #006400; font-weight: bold;">4.15</span> | <span style="color: #228B22; font-weight: bold;">14.15</span> |
+| **2025/11** | **1.55** | <span style="color: #B22222; font-weight: bold;">+10.4</span> | <span style="color: #8B0000; font-weight: bold;">+8.31</span> | **58.7** | <span style="color: #006400; font-weight: bold;">4.15</span> | <span style="color: #006400; font-weight: bold;">14.15</span> |
 | **2025/10** | **1.44** | <span style="color: #8B0000; font-weight: bold;">+5.06</span> | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | **59.6** | <span style="color: #006400; font-weight: bold;">3.95</span> | <span style="color: #006400; font-weight: bold;">15.09</span> |
 | **2025/09** | **1.7** | <span style="color: #B22222; font-weight: bold;">+19.9</span> | <span style="color: #8B0000; font-weight: bold;">+8.45</span> | **57.8** | <span style="color: #006400; font-weight: bold;">3.75</span> | <span style="color: #006400; font-weight: bold;">15.42</span> |
-| **2025/08** | **1.36** | <span style="color: #8B0000; font-weight: bold;">+3.67</span> | <span style="color: #8B0000; font-weight: bold;">+6.88</span> | **61.1** | <span style="color: #006400; font-weight: bold;">3.55</span> | <span style="color: #006400; font-weight: bold;">17.23</span> |
+| **2025/08** | **1.36** | <span style="color: #8B0000; font-weight: bold;">+3.67</span> | <span style="color: #8B0000; font-weight: bold;">+6.88</span> | **61.1** | <span style="color: #006400; font-weight: bold;">3.55</span> | <span style="color: #004225; font-weight: bold;">17.23</span> |
 | **2025/07** | **1.4** | <span style="color: #8B0000; font-weight: bold;">+1.15</span> | <span style="color: #8B0000; font-weight: bold;">+7.34</span> | **60.4** | <span style="color: #006400; font-weight: bold;">3.35</span> | <span style="color: #004225; font-weight: bold;">18.05</span> |
 | **2025/06** | **1.45** | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | <span style="color: #8B0000; font-weight: bold;">+8.47</span> | **65.9** | <span style="color: #006400; font-weight: bold;">3.14</span> | <span style="color: #002818; font-weight: bold;">20.95</span> |
 | **2025/05** | **1.38** | <span style="color: #8B0000; font-weight: bold;">+7.1</span> | <span style="color: #8B0000; font-weight: bold;">+6.25</span> | **53.6** | <span style="color: #006400; font-weight: bold;">2.94</span> | <span style="color: #004225; font-weight: bold;">18.21</span> |
@@ -113,7 +113,7 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 | **2023/05** | **1.38** | <span style="color: #8B0000; font-weight: bold;">+8.99</span> | <span style="color: #8B0000; font-weight: bold;">+6.51</span> | **516** | <span style="color: #DC143C; font-weight: bold;">21.19</span> | <span style="color: #8B0000; font-weight: bold;">24.35</span> |
 | **2023/04** | **1.16** | <span style="color: #8B0000; font-weight: bold;">+1.5</span> | <span style="color: #8B0000; font-weight: bold;">+5.84</span> | **485.5** | <span style="color: #DC143C; font-weight: bold;">21.13</span> | <span style="color: #8B0000; font-weight: bold;">22.98</span> |
 | **2023/03** | **1.47** | <span style="color: #B22222; font-weight: bold;">+14.8</span> | <span style="color: #8B0000; font-weight: bold;">+7.24</span> | **466.5** | <span style="color: #DC143C; font-weight: bold;">21.06</span> | <span style="color: #002818; font-weight: bold;">22.15</span> |
-| **2023/02** | **1.11** | <span style="color: #8B0000; font-weight: bold;">+9.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.99</span> | **478** | <span style="color: #DC143C; font-weight: bold;">20.99</span> | <span style="color: #002818; font-weight: bold;">22.77</span> |
+| **2023/02** | **1.11** | <span style="color: #8B0000; font-weight: bold;">+9.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.99</span> | **478** | <span style="color: #DC143C; font-weight: bold;">20.99</span> | <span style="color: #8B0000; font-weight: bold;">22.77</span> |
 | **2023/01** | **1.24** | <span style="color: #002818; font-weight: bold;">-1.89</span> | <span style="color: #002818; font-weight: bold;">-1.89</span> | **482.5** | <span style="color: #DC143C; font-weight: bold;">20.93</span> | <span style="color: #8B0000; font-weight: bold;">23.06</span> |
 | **2022/12** | **1.4** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #8B0000; font-weight: bold;">+6.48</span> | **387** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #004225; font-weight: bold;">18.55</span> |
 | **2022/11** | **1.39** | <span style="color: #8B0000; font-weight: bold;">+5.96</span> | <span style="color: #8B0000; font-weight: bold;">+6.06</span> | **399** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #004225; font-weight: bold;">19.13</span> |
@@ -124,7 +124,7 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 | **2022/06** | **1.16** | <span style="color: #004225; font-weight: bold;">-10.3</span> | <span style="color: #8B0000; font-weight: bold;">+7.63</span> | **429** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #002818; font-weight: bold;">20.57</span> |
 | **2022/05** | **1.26** | <span style="color: #8B0000; font-weight: bold;">+3.54</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **566** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #8B0000; font-weight: bold;">27.13</span> |
 | **2022/04** | **1.15** | <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **509** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #8B0000; font-weight: bold;">24.4</span> |
-| **2022/03** | **1.28** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **704** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #B22222; font-weight: bold;">33.75</span> |
+| **2022/03** | **1.28** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **704** | <span style="color: #DC143C; font-weight: bold;">20.86</span> | <span style="color: #DC143C; font-weight: bold;">33.75</span> |
 | **2022/02** | **1.01** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **-** | N/A | N/A |
 | **2022/01** | **1.27** | <span style="color: #B22222; font-weight: bold;">+16.2</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **-** | N/A | N/A |
 | **2021/12** | **1.26** | <span style="color: #FF4500; font-weight: bold;">+33.3</span> | <span style="color: #FF4500; font-weight: bold;">+37.8</span> | **-** | N/A | N/A |
@@ -250,7 +250,7 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

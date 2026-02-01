@@ -25,7 +25,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
     **:building_construction: 公司名稱**: 玉山金  
     **:identification_card: 股票代號**: 2884  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 玉山金 (2884) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.58** | **1.23** | **1.56** |
-| **P/E倍數** | **15.62** | **25.19** | **119.57** |
+| **EPS(元)** | **0.59** | **1.23** | **1.57** |
+| **P/E倍數** | **15.56** | **24.59** | **115.68** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 玉山金 歷史平均獲利能力 (σup=0.34, σlo=0.65)
-    - **P/Ebase**: 玉山金 歷史平均估值水準 (σup=94.38, σlo=9.57)
+    - **EPSbase**: 玉山金 歷史平均獲利能力 (σup=0.34, σlo=0.64)
+    - **P/Ebase**: 玉山金 歷史平均估值水準 (σup=91.09, σlo=9.03)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -108,9 +108,9 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **2023/10** | **61.27** | <span style="color: #FF4500; font-weight: bold;">+38.7</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **23.85** | <span style="color: #8B0000; font-weight: bold;">1.36</span> | <span style="color: #004225; font-weight: bold;">17.56</span> |
 | **2023/09** | **54.56** | <span style="color: #FF7F7F; font-weight: bold;">+56.9</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **24.25** | <span style="color: #8B0000; font-weight: bold;">1.33</span> | <span style="color: #004225; font-weight: bold;">18.2</span> |
 | **2023/08** | **58.24** | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | <span style="color: #B22222; font-weight: bold;">+16.9</span> | **24.45** | <span style="color: #8B0000; font-weight: bold;">1.31</span> | <span style="color: #004225; font-weight: bold;">18.71</span> |
-| **2023/07** | **55.98** | <span style="color: #002818; font-weight: bold;">-8.02</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **25.85** | <span style="color: #8B0000; font-weight: bold;">1.28</span> | <span style="color: #004225; font-weight: bold;">20.18</span> |
+| **2023/07** | **55.98** | <span style="color: #002818; font-weight: bold;">-8.02</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **25.85** | <span style="color: #8B0000; font-weight: bold;">1.28</span> | <span style="color: #002818; font-weight: bold;">20.18</span> |
 | **2023/06** | **52.16** | <span style="color: #FF7F7F; font-weight: bold;">+64.1</span> | <span style="color: #DC143C; font-weight: bold;">+21.9</span> | **26.05** | <span style="color: #8B0000; font-weight: bold;">1.25</span> | <span style="color: #002818; font-weight: bold;">20.76</span> |
-| **2023/05** | **48.48** | <span style="color: #002818; font-weight: bold;">-2.84</span> | <span style="color: #B22222; font-weight: bold;">+16</span> | **25.9** | <span style="color: #8B0000; font-weight: bold;">1.23</span> | <span style="color: #002818; font-weight: bold;">21.07</span> |
+| **2023/05** | **48.48** | <span style="color: #002818; font-weight: bold;">-2.84</span> | <span style="color: #B22222; font-weight: bold;">+16</span> | **25.9** | <span style="color: #002818; font-weight: bold;">1.23</span> | <span style="color: #002818; font-weight: bold;">21.07</span> |
 | **2023/04** | **54.43** | <span style="color: #FF4500; font-weight: bold;">+37.5</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **24.95** | <span style="color: #002818; font-weight: bold;">1.2</span> | <span style="color: #002818; font-weight: bold;">20.73</span> |
 | **2023/03** | **59.2** | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **25.3** | <span style="color: #002818; font-weight: bold;">1.18</span> | <span style="color: #002818; font-weight: bold;">21.49</span> |
 | **2023/02** | **36.14** | <span style="color: #002818; font-weight: bold;">-5.78</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **24.95** | <span style="color: #002818; font-weight: bold;">1.15</span> | <span style="color: #002818; font-weight: bold;">21.66</span> |
@@ -125,7 +125,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **2022/05** | **49.9** | <span style="color: #8B0000; font-weight: bold;">+9.4</span> | <span style="color: #002818; font-weight: bold;">-3.39</span> | **30.6** | <span style="color: #8B0000; font-weight: bold;">1.36</span> | <span style="color: #002818; font-weight: bold;">22.56</span> |
 | **2022/04** | **39.59** | <span style="color: #006400; font-weight: bold;">-21.5</span> | <span style="color: #002818; font-weight: bold;">-6.5</span> | **33.85** | <span style="color: #8B0000; font-weight: bold;">1.39</span> | <span style="color: #002818; font-weight: bold;">24.29</span> |
 | **2022/03** | **46.83** | <span style="color: #002818; font-weight: bold;">-4.02</span> | <span style="color: #002818; font-weight: bold;">-1</span> | **33.05** | <span style="color: #B22222; font-weight: bold;">1.43</span> | <span style="color: #002818; font-weight: bold;">23.11</span> |
-| **2022/02** | **38.36** | <span style="color: #002818; font-weight: bold;">-7.63</span> | <span style="color: #8B0000; font-weight: bold;">+0.67</span> | **29.45** | <span style="color: #B22222; font-weight: bold;">1.47</span> | <span style="color: #004225; font-weight: bold;">20.08</span> |
+| **2022/02** | **38.36** | <span style="color: #002818; font-weight: bold;">-7.63</span> | <span style="color: #8B0000; font-weight: bold;">+0.67</span> | **29.45** | <span style="color: #B22222; font-weight: bold;">1.47</span> | <span style="color: #002818; font-weight: bold;">20.08</span> |
 | **2022/01** | **50.37** | <span style="color: #8B0000; font-weight: bold;">+8.06</span> | <span style="color: #8B0000; font-weight: bold;">+8.06</span> | **29** | <span style="color: #B22222; font-weight: bold;">1.5</span> | <span style="color: #004225; font-weight: bold;">19.29</span> |
 | **2021/12** | **52.41** | <span style="color: #B22222; font-weight: bold;">+16</span> | <span style="color: #8B0000; font-weight: bold;">+2.89</span> | **28.05** | <span style="color: #B22222; font-weight: bold;">1.54</span> | <span style="color: #004225; font-weight: bold;">18.21</span> |
 | **2021/11** | **52.61** | <span style="color: #8B0000; font-weight: bold;">+7.29</span> | <span style="color: #8B0000; font-weight: bold;">+1.75</span> | **26.95** | <span style="color: #B22222; font-weight: bold;">1.53</span> | <span style="color: #004225; font-weight: bold;">17.6</span> |
@@ -156,7 +156,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **2019/10** | **46** | <span style="color: #B22222; font-weight: bold;">+19.8</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **27.55** | <span style="color: #DC143C; font-weight: bold;">1.7</span> | <span style="color: #004225; font-weight: bold;">16.16</span> |
 | **2019/09** | **43.47** | <span style="color: #FF4500; font-weight: bold;">+31.8</span> | <span style="color: #8B0000; font-weight: bold;">+9.78</span> | **26.25** | <span style="color: #DC143C; font-weight: bold;">1.69</span> | <span style="color: #006400; font-weight: bold;">15.51</span> |
 | **2019/08** | **48.38** | <span style="color: #8B0000; font-weight: bold;">+7.02</span> | <span style="color: #8B0000; font-weight: bold;">+7.64</span> | **25.25** | <span style="color: #DC143C; font-weight: bold;">1.68</span> | <span style="color: #006400; font-weight: bold;">15.03</span> |
-| **2019/07** | **49.18** | <span style="color: #8B0000; font-weight: bold;">+8.69</span> | <span style="color: #8B0000; font-weight: bold;">+7.74</span> | **26** | <span style="color: #DC143C; font-weight: bold;">1.67</span> | <span style="color: #006400; font-weight: bold;">15.59</span> |
+| **2019/07** | **49.18** | <span style="color: #8B0000; font-weight: bold;">+8.69</span> | <span style="color: #8B0000; font-weight: bold;">+7.74</span> | **26** | <span style="color: #DC143C; font-weight: bold;">1.67</span> | <span style="color: #004225; font-weight: bold;">15.59</span> |
 | **2019/06** | **44.52** | <span style="color: #8B0000; font-weight: bold;">+6.59</span> | <span style="color: #8B0000; font-weight: bold;">+7.56</span> | **26** | <span style="color: #DC143C; font-weight: bold;">1.66</span> | <span style="color: #004225; font-weight: bold;">15.71</span> |
 | **2019/05** | **44.47** | <span style="color: #8B0000; font-weight: bold;">+4.7</span> | <span style="color: #8B0000; font-weight: bold;">+7.75</span> | **27.4** | <span style="color: #DC143C; font-weight: bold;">1.64</span> | <span style="color: #004225; font-weight: bold;">16.68</span> |
 | **2019/04** | **43.35** | <span style="color: #8B0000; font-weight: bold;">+9.24</span> | <span style="color: #8B0000; font-weight: bold;">+8.54</span> | **25.35** | <span style="color: #DC143C; font-weight: bold;">1.63</span> | <span style="color: #006400; font-weight: bold;">15.55</span> |
@@ -198,7 +198,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **2016/04** | **31.94** | <span style="color: #002818; font-weight: bold;">-1.87</span> | <span style="color: #8B0000; font-weight: bold;">+1.98</span> | **17.9** | <span style="color: #DC143C; font-weight: bold;">1.59</span> | <span style="color: #006400; font-weight: bold;">11.28</span> |
 | **2016/03** | **33.2** | <span style="color: #8B0000; font-weight: bold;">+7.79</span> | <span style="color: #8B0000; font-weight: bold;">+3.34</span> | **18** | <span style="color: #DC143C; font-weight: bold;">1.6</span> | <span style="color: #006400; font-weight: bold;">11.27</span> |
 | **2016/02** | **26.82** | <span style="color: #002818; font-weight: bold;">-0.04</span> | <span style="color: #8B0000; font-weight: bold;">+1.11</span> | **17.2** | <span style="color: #DC143C; font-weight: bold;">1.61</span> | <span style="color: #228B22; font-weight: bold;">10.69</span> |
-| **2016/01** | **35.57** | <span style="color: #8B0000; font-weight: bold;">+2.01</span> | <span style="color: #8B0000; font-weight: bold;">+2.01</span> | **17.7** | <span style="color: #DC143C; font-weight: bold;">1.62</span> | <span style="color: #006400; font-weight: bold;">10.93</span> |
+| **2016/01** | **35.57** | <span style="color: #8B0000; font-weight: bold;">+2.01</span> | <span style="color: #8B0000; font-weight: bold;">+2.01</span> | **17.7** | <span style="color: #DC143C; font-weight: bold;">1.62</span> | <span style="color: #228B22; font-weight: bold;">10.93</span> |
 | **2015/12** | **30.86** | <span style="color: #8B0000; font-weight: bold;">+6.72</span> | <span style="color: #B22222; font-weight: bold;">+18.5</span> | **19.15** | <span style="color: #DC143C; font-weight: bold;">1.63</span> | <span style="color: #006400; font-weight: bold;">11.75</span> |
 | **2015/11** | **31.07** | <span style="color: #B22222; font-weight: bold;">+19.3</span> | <span style="color: #B22222; font-weight: bold;">+19.6</span> | **19.65** | <span style="color: #DC143C; font-weight: bold;">1.62</span> | <span style="color: #006400; font-weight: bold;">12.1</span> |
 | **2015/10** | **29.7** | <span style="color: #8B0000; font-weight: bold;">+9.05</span> | <span style="color: #B22222; font-weight: bold;">+19.7</span> | **19.55** | <span style="color: #DC143C; font-weight: bold;">1.62</span> | <span style="color: #006400; font-weight: bold;">12.08</span> |
@@ -236,8 +236,8 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **2013/02** | **19.81** | <span style="color: #8B0000; font-weight: bold;">+5.67</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **17.75** | <span style="color: #B22222; font-weight: bold;">1.47</span> | <span style="color: #006400; font-weight: bold;">12.08</span> |
 | **2013/01** | **24.34** | <span style="color: #FF4500; font-weight: bold;">+35.9</span> | <span style="color: #FF4500; font-weight: bold;">+35.9</span> | **16.9** | <span style="color: #B22222; font-weight: bold;">1.46</span> | <span style="color: #006400; font-weight: bold;">11.55</span> |
 | **2012/12** | **20.21** | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | <span style="color: #B22222; font-weight: bold;">+19.4</span> | **16.25** | <span style="color: #B22222; font-weight: bold;">1.46</span> | <span style="color: #006400; font-weight: bold;">11.15</span> |
-| **2012/11** | **18.51** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #B22222; font-weight: bold;">+18.8</span> | **16.05** | <span style="color: #B22222; font-weight: bold;">1.4</span> | <span style="color: #006400; font-weight: bold;">11.43</span> |
-| **2012/10** | **19.77** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #B22222; font-weight: bold;">+18.9</span> | **14.65** | <span style="color: #8B0000; font-weight: bold;">1.35</span> | <span style="color: #006400; font-weight: bold;">10.84</span> |
+| **2012/11** | **18.51** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #B22222; font-weight: bold;">+18.8</span> | **16.05** | <span style="color: #8B0000; font-weight: bold;">1.4</span> | <span style="color: #006400; font-weight: bold;">11.43</span> |
+| **2012/10** | **19.77** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #B22222; font-weight: bold;">+18.9</span> | **14.65** | <span style="color: #8B0000; font-weight: bold;">1.35</span> | <span style="color: #228B22; font-weight: bold;">10.84</span> |
 | **2012/09** | **19.47** | <span style="color: #DC143C; font-weight: bold;">+24.6</span> | <span style="color: #B22222; font-weight: bold;">+19</span> | **16.6** | <span style="color: #8B0000; font-weight: bold;">1.3</span> | <span style="color: #006400; font-weight: bold;">12.79</span> |
 | **2012/08** | **18.99** | <span style="color: #8B0000; font-weight: bold;">+4.57</span> | <span style="color: #B22222; font-weight: bold;">+18.4</span> | **16.7** | <span style="color: #8B0000; font-weight: bold;">1.24</span> | <span style="color: #006400; font-weight: bold;">13.42</span> |
 | **2012/07** | **19.19** | <span style="color: #B22222; font-weight: bold;">+11.7</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **16.45** | <span style="color: #002818; font-weight: bold;">1.19</span> | <span style="color: #006400; font-weight: bold;">13.8</span> |
@@ -252,7 +252,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **2011/10** | **16.74** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #B22222; font-weight: bold;">+16.8</span> | **15.05** | <span style="color: #004225; font-weight: bold;">0.86</span> | <span style="color: #004225; font-weight: bold;">17.57</span> |
 | **2011/09** | **15.62** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **15.1** | <span style="color: #004225; font-weight: bold;">0.88</span> | <span style="color: #004225; font-weight: bold;">17.26</span> |
 | **2011/08** | **18.16** | <span style="color: #DC143C; font-weight: bold;">+25.7</span> | <span style="color: #B22222; font-weight: bold;">+18.3</span> | **16.95** | <span style="color: #004225; font-weight: bold;">0.89</span> | <span style="color: #004225; font-weight: bold;">18.97</span> |
-| **2011/07** | **17.18** | <span style="color: #B22222; font-weight: bold;">+13.7</span> | <span style="color: #B22222; font-weight: bold;">+17.2</span> | **19.95** | <span style="color: #002818; font-weight: bold;">0.91</span> | <span style="color: #002818; font-weight: bold;">21.88</span> |
+| **2011/07** | **17.18** | <span style="color: #B22222; font-weight: bold;">+13.7</span> | <span style="color: #B22222; font-weight: bold;">+17.2</span> | **19.95** | <span style="color: #004225; font-weight: bold;">0.91</span> | <span style="color: #002818; font-weight: bold;">21.88</span> |
 | **2011/06** | **15.98** | <span style="color: #B22222; font-weight: bold;">+11.4</span> | <span style="color: #B22222; font-weight: bold;">+17.8</span> | **20.4** | <span style="color: #002818; font-weight: bold;">0.93</span> | <span style="color: #002818; font-weight: bold;">21.94</span> |
 | **2011/05** | **20.44** | <span style="color: #FF4500; font-weight: bold;">+35.9</span> | <span style="color: #B22222; font-weight: bold;">+19.1</span> | **21.1** | <span style="color: #002818; font-weight: bold;">0.95</span> | <span style="color: #002818; font-weight: bold;">22.25</span> |
 | **2011/04** | **17.23** | <span style="color: #B22222; font-weight: bold;">+18.7</span> | <span style="color: #B22222; font-weight: bold;">+14.7</span> | **20.3** | <span style="color: #002818; font-weight: bold;">0.97</span> | <span style="color: #002818; font-weight: bold;">21.0</span> |
@@ -262,7 +262,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **2010/12** | **13.63** | <span style="color: #002818; font-weight: bold;">-1.91</span> | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | **20.05** | <span style="color: #002818; font-weight: bold;">1.04</span> | <span style="color: #004225; font-weight: bold;">19.28</span> |
 | **2010/11** | **15.43** | <span style="color: #DC143C; font-weight: bold;">+23.3</span> | <span style="color: #FF4500; font-weight: bold;">+33.5</span> | **15.65** | <span style="color: #002818; font-weight: bold;">1.0</span> | <span style="color: #004225; font-weight: bold;">15.69</span> |
 | **2010/10** | **15.1** | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | <span style="color: #FF4500; font-weight: bold;">+34.7</span> | **15.75** | <span style="color: #002818; font-weight: bold;">0.96</span> | <span style="color: #004225; font-weight: bold;">16.49</span> |
-| **2010/09** | **14.03** | <span style="color: #FF4500; font-weight: bold;">+34.7</span> | <span style="color: #FF4500; font-weight: bold;">+36.3</span> | **16.2** | <span style="color: #002818; font-weight: bold;">0.91</span> | <span style="color: #004225; font-weight: bold;">17.75</span> |
+| **2010/09** | **14.03** | <span style="color: #FF4500; font-weight: bold;">+34.7</span> | <span style="color: #FF4500; font-weight: bold;">+36.3</span> | **16.2** | <span style="color: #004225; font-weight: bold;">0.91</span> | <span style="color: #004225; font-weight: bold;">17.75</span> |
 | **2010/08** | **14.44** | <span style="color: #FF6347; font-weight: bold;">+44.2</span> | <span style="color: #FF4500; font-weight: bold;">+36.5</span> | **14.35** | <span style="color: #004225; font-weight: bold;">0.87</span> | <span style="color: #004225; font-weight: bold;">16.49</span> |
 | **2010/07** | **15.12** | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | <span style="color: #FF4500; font-weight: bold;">+35.4</span> | **14.85** | <span style="color: #004225; font-weight: bold;">0.83</span> | <span style="color: #004225; font-weight: bold;">17.95</span> |
 | **2010/06** | **14.35** | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | <span style="color: #FF4500; font-weight: bold;">+38.3</span> | **13.15** | <span style="color: #004225; font-weight: bold;">0.78</span> | <span style="color: #004225; font-weight: bold;">16.75</span> |
@@ -272,7 +272,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **2010/02** | **12.74** | <span style="color: #B22222; font-weight: bold;">+15.9</span> | <span style="color: #8B0000; font-weight: bold;">+9.16</span> | **11.9** | <span style="color: #004225; font-weight: bold;">0.62</span> | <span style="color: #004225; font-weight: bold;">19.35</span> |
 | **2010/01** | **13.59** | <span style="color: #8B0000; font-weight: bold;">+3.49</span> | <span style="color: #8B0000; font-weight: bold;">+3.49</span> | **12** | <span style="color: #006400; font-weight: bold;">0.57</span> | <span style="color: #002818; font-weight: bold;">20.96</span> |
 | **2009/12** | **13.89** | <span style="color: #FF7F7F; font-weight: bold;">+87.4</span> | <span style="color: #002818; font-weight: bold;">-5.06</span> | **13.35** | <span style="color: #006400; font-weight: bold;">0.53</span> | <span style="color: #8B0000; font-weight: bold;">25.19</span> |
-| **2009/11** | **12.51** | <span style="color: #DC143C; font-weight: bold;">+28.6</span> | <span style="color: #004225; font-weight: bold;">-10.2</span> | **12.7** | <span style="color: #006400; font-weight: bold;">0.51</span> | <span style="color: #002818; font-weight: bold;">24.86</span> |
+| **2009/11** | **12.51** | <span style="color: #DC143C; font-weight: bold;">+28.6</span> | <span style="color: #004225; font-weight: bold;">-10.2</span> | **12.7** | <span style="color: #006400; font-weight: bold;">0.51</span> | <span style="color: #8B0000; font-weight: bold;">24.86</span> |
 | **2009/10** | **12.34** | <span style="color: #8B0000; font-weight: bold;">+2.68</span> | <span style="color: #004225; font-weight: bold;">-13.2</span> | **12.9** | <span style="color: #006400; font-weight: bold;">0.49</span> | <span style="color: #8B0000; font-weight: bold;">26.24</span> |
 | **2009/09** | **10.41** | <span style="color: #006400; font-weight: bold;">-27.9</span> | <span style="color: #004225; font-weight: bold;">-14.9</span> | **13.4** | <span style="color: #006400; font-weight: bold;">0.47</span> | <span style="color: #8B0000; font-weight: bold;">28.36</span> |
 | **2009/08** | **10.02** | <span style="color: #004225; font-weight: bold;">-17.3</span> | <span style="color: #004225; font-weight: bold;">-13</span> | **10.2** | <span style="color: #006400; font-weight: bold;">0.45</span> | <span style="color: #002818; font-weight: bold;">22.5</span> |
@@ -288,7 +288,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **2008/10** | **-** | N/A | N/A | **7.6** | <span style="color: #006400; font-weight: bold;">0.42</span> | <span style="color: #004225; font-weight: bold;">18.24</span> |
 | **2008/09** | **-** | N/A | N/A | **8.49** | <span style="color: #006400; font-weight: bold;">0.48</span> | <span style="color: #004225; font-weight: bold;">17.87</span> |
 | **2008/08** | **-** | N/A | N/A | **12.2** | <span style="color: #006400; font-weight: bold;">0.53</span> | <span style="color: #002818; font-weight: bold;">22.87</span> |
-| **2008/07** | **-** | N/A | N/A | **13.45** | <span style="color: #004225; font-weight: bold;">0.59</span> | <span style="color: #002818; font-weight: bold;">22.73</span> |
+| **2008/07** | **-** | N/A | N/A | **13.45** | <span style="color: #006400; font-weight: bold;">0.59</span> | <span style="color: #002818; font-weight: bold;">22.73</span> |
 | **2008/06** | **-** | N/A | N/A | **16.5** | <span style="color: #004225; font-weight: bold;">0.65</span> | <span style="color: #8B0000; font-weight: bold;">25.38</span> |
 | **2008/05** | **-** | N/A | N/A | **17.15** | <span style="color: #004225; font-weight: bold;">0.71</span> | <span style="color: #002818; font-weight: bold;">24.21</span> |
 | **2008/04** | **-** | N/A | N/A | **18.35** | <span style="color: #004225; font-weight: bold;">0.77</span> | <span style="color: #002818; font-weight: bold;">23.93</span> |
@@ -313,12 +313,12 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **2006/09** | **-** | N/A | N/A | **19.85** | <span style="color: #228B22; font-weight: bold;">0.13</span> | <span style="color: #DC143C; font-weight: bold;">152.7</span> |
 | **2006/08** | **-** | N/A | N/A | **19.6** | <span style="color: #228B22; font-weight: bold;">0.13</span> | <span style="color: #DC143C; font-weight: bold;">150.8</span> |
 | **2006/07** | **-** | N/A | N/A | **19.8** | <span style="color: #228B22; font-weight: bold;">0.13</span> | <span style="color: #DC143C; font-weight: bold;">152.3</span> |
-| **2006/06** | **-** | N/A | N/A | **21.6** | <span style="color: #228B22; font-weight: bold;">0.13</span> | <span style="color: #DC143C; font-weight: bold;">166.2</span> |
-| **2006/05** | **-** | N/A | N/A | **21.5** | <span style="color: #228B22; font-weight: bold;">0.13</span> | <span style="color: #DC143C; font-weight: bold;">165.4</span> |
+| **2006/06** | **-** | N/A | N/A | **21.6** | <span style="color: #228B22; font-weight: bold;">0.13</span> | <span style="color: #FF4500; font-weight: bold;">166.2</span> |
+| **2006/05** | **-** | N/A | N/A | **21.5** | <span style="color: #228B22; font-weight: bold;">0.13</span> | <span style="color: #FF4500; font-weight: bold;">165.4</span> |
 | **2006/04** | **-** | N/A | N/A | **23.1** | <span style="color: #228B22; font-weight: bold;">0.13</span> | <span style="color: #FF4500; font-weight: bold;">177.7</span> |
 | **2006/03** | **-** | N/A | N/A | **20.8** | <span style="color: #228B22; font-weight: bold;">0.13</span> | <span style="color: #DC143C; font-weight: bold;">160.0</span> |
 | **2006/02** | **-** | N/A | N/A | **21.85** | <span style="color: #228B22; font-weight: bold;">0.13</span> | <span style="color: #FF4500; font-weight: bold;">168.1</span> |
-| **2006/01** | **-** | N/A | N/A | **21** | <span style="color: #228B22; font-weight: bold;">0.13</span> | <span style="color: #DC143C; font-weight: bold;">161.5</span> |
+| **2006/01** | **-** | N/A | N/A | **21** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

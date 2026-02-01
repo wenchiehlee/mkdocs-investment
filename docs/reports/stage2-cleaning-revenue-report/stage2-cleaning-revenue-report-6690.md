@@ -25,7 +25,7 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
     **:building_construction: 公司名稱**: 安碁資訊  
     **:identification_card: 股票代號**: 6690  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **5.24** | **7.26** | **9.18** |
-| **P/E倍數** | **18.15** | **21.71** | **27.77** |
+| **EPS(元)** | **5.24** | **7.29** | **9.18** |
+| **P/E倍數** | **18.09** | **21.65** | **27.65** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 安碁資訊 歷史平均獲利能力 (σup=1.92, σlo=2.02)
-    - **P/Ebase**: 安碁資訊 歷史平均估值水準 (σup=6.06, σlo=3.55)
+    - **EPSbase**: 安碁資訊 歷史平均獲利能力 (σup=1.90, σlo=2.04)
+    - **P/Ebase**: 安碁資訊 歷史平均估值水準 (σup=6.00, σlo=3.56)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -110,7 +110,7 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
 | **2023/08** | **1.51** | <span style="color: #B22222; font-weight: bold;">+16.7</span> | <span style="color: #B22222; font-weight: bold;">+13.9</span> | **164** | <span style="color: #B22222; font-weight: bold;">8.41</span> | <span style="color: #004225; font-weight: bold;">19.49</span> |
 | **2023/07** | **1.42** | <span style="color: #B22222; font-weight: bold;">+16.1</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **178** | <span style="color: #B22222; font-weight: bold;">8.35</span> | <span style="color: #002818; font-weight: bold;">21.31</span> |
 | **2023/06** | **1.71** | <span style="color: #B22222; font-weight: bold;">+17.5</span> | <span style="color: #B22222; font-weight: bold;">+13.1</span> | **168.5** | <span style="color: #B22222; font-weight: bold;">8.29</span> | <span style="color: #002818; font-weight: bold;">20.33</span> |
-| **2023/05** | **1.39** | <span style="color: #8B0000; font-weight: bold;">+9.9</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **178** | <span style="color: #B22222; font-weight: bold;">8.23</span> | <span style="color: #002818; font-weight: bold;">21.63</span> |
+| **2023/05** | **1.39** | <span style="color: #8B0000; font-weight: bold;">+9.9</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **178** | <span style="color: #8B0000; font-weight: bold;">8.23</span> | <span style="color: #002818; font-weight: bold;">21.63</span> |
 | **2023/04** | **1.37** | <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #B22222; font-weight: bold;">+12.6</span> | **199** | <span style="color: #8B0000; font-weight: bold;">8.17</span> | <span style="color: #8B0000; font-weight: bold;">24.37</span> |
 | **2023/03** | **1.59** | <span style="color: #B22222; font-weight: bold;">+11.6</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **176.5** | <span style="color: #8B0000; font-weight: bold;">8.1</span> | <span style="color: #8B0000; font-weight: bold;">21.78</span> |
 | **2023/02** | **1.18** | <span style="color: #8B0000; font-weight: bold;">+6.72</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **166** | <span style="color: #8B0000; font-weight: bold;">8.04</span> | <span style="color: #002818; font-weight: bold;">20.64</span> |
@@ -125,7 +125,7 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
 | **2022/05** | **1.27** | <span style="color: #FF7F7F; font-weight: bold;">+113.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+106.1</span> | **105.5** | <span style="color: #002818; font-weight: bold;">6.28</span> | <span style="color: #006400; font-weight: bold;">16.8</span> |
 | **2022/04** | **1.19** | <span style="color: #FF7F7F; font-weight: bold;">+119.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+104.1</span> | **118** | <span style="color: #004225; font-weight: bold;">6.05</span> | <span style="color: #004225; font-weight: bold;">19.51</span> |
 | **2022/03** | **1.43** | <span style="color: #FF7F7F; font-weight: bold;">+82.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+99.5</span> | **116** | <span style="color: #004225; font-weight: bold;">5.81</span> | <span style="color: #002818; font-weight: bold;">19.96</span> |
-| **2022/02** | **1.11** | <span style="color: #FF7F7F; font-weight: bold;">+98</span> | <span style="color: #FF7F7F; font-weight: bold;">+112.8</span> | **121** | <span style="color: #004225; font-weight: bold;">5.58</span> | <span style="color: #002818; font-weight: bold;">21.69</span> |
+| **2022/02** | **1.11** | <span style="color: #FF7F7F; font-weight: bold;">+98</span> | <span style="color: #FF7F7F; font-weight: bold;">+112.8</span> | **121** | <span style="color: #004225; font-weight: bold;">5.58</span> | <span style="color: #8B0000; font-weight: bold;">21.69</span> |
 | **2022/01** | **1.05** | <span style="color: #FF7F7F; font-weight: bold;">+131</span> | <span style="color: #FF7F7F; font-weight: bold;">+131</span> | **124** | <span style="color: #004225; font-weight: bold;">5.34</span> | <span style="color: #8B0000; font-weight: bold;">23.2</span> |
 | **2021/12** | **1.25** | <span style="color: #002818; font-weight: bold;">-0.72</span> | <span style="color: #8B0000; font-weight: bold;">+6.1</span> | **129.5** | <span style="color: #006400; font-weight: bold;">5.11</span> | <span style="color: #B22222; font-weight: bold;">25.34</span> |
 | **2021/11** | **0.714** | <span style="color: #8B0000; font-weight: bold;">+4.76</span> | <span style="color: #8B0000; font-weight: bold;">+7.38</span> | **124** | <span style="color: #006400; font-weight: bold;">5.1</span> | <span style="color: #8B0000; font-weight: bold;">24.34</span> |
@@ -265,7 +265,7 @@ description: 月營收表 安碁資訊 (6690) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

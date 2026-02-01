@@ -25,7 +25,7 @@ description: 月營收表 易發 (6425) - 自動產生
     **:building_construction: 公司名稱**: 易發  
     **:identification_card: 股票代號**: 6425  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,14 +62,14 @@ description: 月營收表 易發 (6425) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-2.60** | **-1.34** | **-0.10** |
+| **EPS(元)** | **-2.60** | **-1.35** | **-0.10** |
 | **P/E倍數** | **51.95** | **140.98** | **387.04** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 易發 歷史平均獲利能力 (σup=1.24, σlo=1.26)
+    - **EPSbase**: 易發 歷史平均獲利能力 (σup=1.25, σlo=1.25)
     - **P/Ebase**: 易發 歷史平均估值水準 (σup=246.07, σlo=89.02)
 
 
@@ -144,7 +144,7 @@ description: 月營收表 易發 (6425) - 自動產生
 | **2020/10** | **1.19** | <span style="color: #FF7F7F; font-weight: bold;">+223.8</span> | <span style="color: #004225; font-weight: bold;">-11.1</span> | **42.7** | <span style="color: #002818; font-weight: bold;">-1.39</span> | N/A |
 | **2020/09** | **2.03** | <span style="color: #FF7F7F; font-weight: bold;">+570.2</span> | <span style="color: #004225; font-weight: bold;">-18.4</span> | **53** | <span style="color: #002818; font-weight: bold;">-1.58</span> | N/A |
 | **2020/08** | **1.28** | <span style="color: #002818; font-weight: bold;">-7.7</span> | <span style="color: #228B22; font-weight: bold;">-33.8</span> | **37** | <span style="color: #002818; font-weight: bold;">-1.78</span> | N/A |
-| **2020/07** | **0.499** | <span style="color: #228B22; font-weight: bold;">-31.7</span> | <span style="color: #228B22; font-weight: bold;">-37.3</span> | **24.85** | <span style="color: #004225; font-weight: bold;">-1.97</span> | N/A |
+| **2020/07** | **0.499** | <span style="color: #228B22; font-weight: bold;">-31.7</span> | <span style="color: #228B22; font-weight: bold;">-37.3</span> | **24.85** | <span style="color: #002818; font-weight: bold;">-1.97</span> | N/A |
 | **2020/06** | **1.17** | <span style="color: #004225; font-weight: bold;">-16.7</span> | <span style="color: #228B22; font-weight: bold;">-37.8</span> | **23.75** | <span style="color: #004225; font-weight: bold;">-2.16</span> | N/A |
 | **2020/05** | **1.01** | <span style="color: #004225; font-weight: bold;">-19.9</span> | <span style="color: #32CD32; font-weight: bold;">-41.4</span> | **25.55** | <span style="color: #004225; font-weight: bold;">-2.36</span> | N/A |
 | **2020/04** | **1.06** | <span style="color: #004225; font-weight: bold;">-13.1</span> | <span style="color: #32CD32; font-weight: bold;">-45.4</span> | **25.4** | <span style="color: #004225; font-weight: bold;">-2.55</span> | N/A |
@@ -326,7 +326,7 @@ description: 月營收表 易發 (6425) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

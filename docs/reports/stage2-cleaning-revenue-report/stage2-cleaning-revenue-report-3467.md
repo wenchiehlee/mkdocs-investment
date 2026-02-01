@@ -25,7 +25,7 @@ description: 月營收表 台灣精材 (3467) - 自動產生
     **:building_construction: 公司名稱**: 台灣精材  
     **:identification_card: 股票代號**: 3467  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **-0.28** | **0.72** | **0.72** |
-| **P/E倍數** | **60.25** | **70.17** | **82.29** |
+| **P/E倍數** | **58.92** | **69.07** | **80.84** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 台灣精材 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 台灣精材 歷史平均估值水準 (σup=12.12, σlo=9.92)
+    - **P/Ebase**: 台灣精材 歷史平均估值水準 (σup=11.78, σlo=10.15)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,16 +79,16 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/12** | **0.522** | <span style="color: #8B0000; font-weight: bold;">+4.15</span> | <span style="color: #002818; font-weight: bold;">-0.57</span> | **48.1** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #002818; font-weight: bold;">66.81</span> |
-| **2025/11** | **0.516** | <span style="color: #002818; font-weight: bold;">-2.93</span> | <span style="color: #002818; font-weight: bold;">-0.99</span> | **37.2** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #228B22; font-weight: bold;">51.67</span> |
-| **2025/10** | **0.501** | <span style="color: #002818; font-weight: bold;">-0.63</span> | <span style="color: #002818; font-weight: bold;">-0.79</span> | **41.1** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #006400; font-weight: bold;">57.08</span> |
-| **2025/09** | **0.492** | <span style="color: #002818; font-weight: bold;">-5.89</span> | <span style="color: #002818; font-weight: bold;">-0.8</span> | **45** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #004225; font-weight: bold;">62.5</span> |
-| **2025/08** | **0.507** | <span style="color: #002818; font-weight: bold;">-1.36</span> | <span style="color: #002818; font-weight: bold;">-0.16</span> | **50.4** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #002818; font-weight: bold;">70.0</span> |
-| **2025/07** | **0.516** | <span style="color: #002818; font-weight: bold;">-4.5</span> | <span style="color: #8B0000; font-weight: bold;">+0.01</span> | **58.2** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #B22222; font-weight: bold;">80.83</span> |
-| **2025/06** | **0.531** | <span style="color: #002818; font-weight: bold;">-5.05</span> | <span style="color: #8B0000; font-weight: bold;">+0.8</span> | **63.8** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #FF4500; font-weight: bold;">88.61</span> |
-| **2025/05** | **0.523** | <span style="color: #002818; font-weight: bold;">-7.92</span> | <span style="color: #8B0000; font-weight: bold;">+2.12</span> | **56** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #B22222; font-weight: bold;">77.78</span> |
-| **2025/04** | **0.497** | <span style="color: #002818; font-weight: bold;">-8.18</span> | <span style="color: #8B0000; font-weight: bold;">+5.07</span> | **48.6** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #002818; font-weight: bold;">67.5</span> |
-| **2025/03** | **0.495** | <span style="color: #002818; font-weight: bold;">-1.01</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **56.8** | <span style="color: #000000; font-weight: bold;">0.72</span> | <span style="color: #B22222; font-weight: bold;">78.89</span> |
+| **2025/12** | **0.522** | <span style="color: #8B0000; font-weight: bold;">+4.15</span> | <span style="color: #002818; font-weight: bold;">-0.57</span> | **48.1** | <span style="color: #DC143C; font-weight: bold;">0.72</span> | <span style="color: #002818; font-weight: bold;">66.81</span> |
+| **2025/11** | **0.516** | <span style="color: #002818; font-weight: bold;">-2.93</span> | <span style="color: #002818; font-weight: bold;">-0.99</span> | **37.2** | <span style="color: #DC143C; font-weight: bold;">0.72</span> | <span style="color: #228B22; font-weight: bold;">51.67</span> |
+| **2025/10** | **0.501** | <span style="color: #002818; font-weight: bold;">-0.63</span> | <span style="color: #002818; font-weight: bold;">-0.79</span> | **41.1** | <span style="color: #DC143C; font-weight: bold;">0.72</span> | <span style="color: #006400; font-weight: bold;">57.08</span> |
+| **2025/09** | **0.492** | <span style="color: #002818; font-weight: bold;">-5.89</span> | <span style="color: #002818; font-weight: bold;">-0.8</span> | **45** | <span style="color: #DC143C; font-weight: bold;">0.72</span> | <span style="color: #004225; font-weight: bold;">62.5</span> |
+| **2025/08** | **0.507** | <span style="color: #002818; font-weight: bold;">-1.36</span> | <span style="color: #002818; font-weight: bold;">-0.16</span> | **50.4** | <span style="color: #DC143C; font-weight: bold;">0.72</span> | <span style="color: #8B0000; font-weight: bold;">70.0</span> |
+| **2025/07** | **0.516** | <span style="color: #002818; font-weight: bold;">-4.5</span> | <span style="color: #8B0000; font-weight: bold;">+0.01</span> | **58.2** | <span style="color: #DC143C; font-weight: bold;">0.72</span> | <span style="color: #B22222; font-weight: bold;">80.83</span> |
+| **2025/06** | **0.531** | <span style="color: #002818; font-weight: bold;">-5.05</span> | <span style="color: #8B0000; font-weight: bold;">+0.8</span> | **63.8** | <span style="color: #DC143C; font-weight: bold;">0.72</span> | <span style="color: #FF4500; font-weight: bold;">88.61</span> |
+| **2025/05** | **0.523** | <span style="color: #002818; font-weight: bold;">-7.92</span> | <span style="color: #8B0000; font-weight: bold;">+2.12</span> | **56** | <span style="color: #DC143C; font-weight: bold;">0.72</span> | <span style="color: #B22222; font-weight: bold;">77.78</span> |
+| **2025/04** | **0.497** | <span style="color: #002818; font-weight: bold;">-8.18</span> | <span style="color: #8B0000; font-weight: bold;">+5.07</span> | **48.6** | <span style="color: #DC143C; font-weight: bold;">0.72</span> | <span style="color: #002818; font-weight: bold;">67.5</span> |
+| **2025/03** | **0.495** | <span style="color: #002818; font-weight: bold;">-1.01</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **56.8** | <span style="color: #DC143C; font-weight: bold;">0.72</span> | <span style="color: #B22222; font-weight: bold;">78.89</span> |
 | **2025/02** | **0.535** | <span style="color: #B22222; font-weight: bold;">+17.9</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **-** | N/A | N/A |
 | **2025/01** | **0.504** | <span style="color: #B22222; font-weight: bold;">+15.1</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **-** | N/A | N/A |
 | **2024/12** | **0.501** | <span style="color: #002818; font-weight: bold;">-4.03</span> | <span style="color: #8B0000; font-weight: bold;">+9.57</span> | **-** | N/A | N/A |
@@ -203,7 +203,7 @@ description: 月營收表 台灣精材 (3467) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

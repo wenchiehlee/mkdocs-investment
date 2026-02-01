@@ -25,7 +25,7 @@ description: 月營收表 可成 (2474) - 自動產生
     **:building_construction: 公司名稱**: 可成  
     **:identification_card: 股票代號**: 2474  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,14 +62,14 @@ description: 月營收表 可成 (2474) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **11.61** | **18.04** | **27.75** |
+| **EPS(元)** | **11.60** | **18.03** | **27.75** |
 | **P/E倍數** | **9.36** | **12.26** | **16.34** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 可成 歷史平均獲利能力 (σup=9.71, σlo=6.43)
+    - **EPSbase**: 可成 歷史平均獲利能力 (σup=9.72, σlo=6.43)
     - **P/Ebase**: 可成 歷史平均估值水準 (σup=4.07, σlo=2.90)
 
 
@@ -116,7 +116,7 @@ description: 月營收表 可成 (2474) - 自動產生
 | **2023/02** | **10.78** | <span style="color: #228B22; font-weight: bold;">-36.7</span> | <span style="color: #90EE90; font-weight: bold;">-50.3</span> | **184.5** | <span style="color: #002818; font-weight: bold;">14.84</span> | <span style="color: #8B0000; font-weight: bold;">12.43</span> |
 | **2023/01** | **11.81** | <span style="color: #90EE90; font-weight: bold;">-58.4</span> | <span style="color: #90EE90; font-weight: bold;">-58.4</span> | **178** | <span style="color: #002818; font-weight: bold;">14.99</span> | <span style="color: #002818; font-weight: bold;">11.88</span> |
 | **2022/12** | **16.24** | <span style="color: #228B22; font-weight: bold;">-38.3</span> | <span style="color: #228B22; font-weight: bold;">-32.3</span> | **169** | <span style="color: #002818; font-weight: bold;">15.14</span> | <span style="color: #002818; font-weight: bold;">11.16</span> |
-| **2022/11** | **22.5** | <span style="color: #004225; font-weight: bold;">-17.6</span> | <span style="color: #228B22; font-weight: bold;">-31.9</span> | **183** | <span style="color: #004225; font-weight: bold;">14.82</span> | <span style="color: #8B0000; font-weight: bold;">12.35</span> |
+| **2022/11** | **22.5** | <span style="color: #004225; font-weight: bold;">-17.6</span> | <span style="color: #228B22; font-weight: bold;">-31.9</span> | **183** | <span style="color: #002818; font-weight: bold;">14.82</span> | <span style="color: #8B0000; font-weight: bold;">12.35</span> |
 | **2022/10** | **27.83** | <span style="color: #002818; font-weight: bold;">-1.7</span> | <span style="color: #228B22; font-weight: bold;">-32.9</span> | **169.5** | <span style="color: #004225; font-weight: bold;">14.5</span> | <span style="color: #002818; font-weight: bold;">11.69</span> |
 | **2022/09** | **29.85** | <span style="color: #002818; font-weight: bold;">-5.28</span> | <span style="color: #228B22; font-weight: bold;">-35.6</span> | **172.5** | <span style="color: #004225; font-weight: bold;">14.18</span> | <span style="color: #002818; font-weight: bold;">12.16</span> |
 | **2022/08** | **28.7** | <span style="color: #004225; font-weight: bold;">-11.6</span> | <span style="color: #228B22; font-weight: bold;">-38.8</span> | **185.5** | <span style="color: #004225; font-weight: bold;">13.86</span> | <span style="color: #8B0000; font-weight: bold;">13.38</span> |
@@ -199,7 +199,7 @@ description: 月營收表 可成 (2474) - 自動產生
 | **2016/03** | **64.43** | <span style="color: #002818; font-weight: bold;">-7.06</span> | <span style="color: #002818; font-weight: bold;">-3.19</span> | **264** | <span style="color: #DC143C; font-weight: bold;">31.6</span> | <span style="color: #006400; font-weight: bold;">8.35</span> |
 | **2016/02** | **41.67** | <span style="color: #002818; font-weight: bold;">-7.5</span> | <span style="color: #002818; font-weight: bold;">-0.66</span> | **260** | <span style="color: #DC143C; font-weight: bold;">31.94</span> | <span style="color: #006400; font-weight: bold;">8.14</span> |
 | **2016/01** | **62.31** | <span style="color: #8B0000; font-weight: bold;">+4.48</span> | <span style="color: #8B0000; font-weight: bold;">+4.48</span> | **259** | <span style="color: #DC143C; font-weight: bold;">32.27</span> | <span style="color: #006400; font-weight: bold;">8.02</span> |
-| **2015/12** | **69.14** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #FF6347; font-weight: bold;">+49.1</span> | **276** | <span style="color: #FF4500; font-weight: bold;">32.61</span> | <span style="color: #006400; font-weight: bold;">8.46</span> |
+| **2015/12** | **69.14** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #FF6347; font-weight: bold;">+49.1</span> | **276** | <span style="color: #DC143C; font-weight: bold;">32.61</span> | <span style="color: #006400; font-weight: bold;">8.46</span> |
 | **2015/11** | **83.41** | <span style="color: #FF7F7F; font-weight: bold;">+50.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.4</span> | **316** | <span style="color: #DC143C; font-weight: bold;">31.85</span> | <span style="color: #004225; font-weight: bold;">9.92</span> |
 | **2015/10** | **82.25** | <span style="color: #FF7F7F; font-weight: bold;">+52</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.8</span> | **320** | <span style="color: #DC143C; font-weight: bold;">31.1</span> | <span style="color: #004225; font-weight: bold;">10.29</span> |
 | **2015/09** | **79.82** | <span style="color: #FF7F7F; font-weight: bold;">+63.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | **350.5** | <span style="color: #DC143C; font-weight: bold;">30.34</span> | <span style="color: #002818; font-weight: bold;">11.55</span> |
@@ -318,7 +318,7 @@ description: 月營收表 可成 (2474) - 自動產生
 | **2006/04** | **-** | N/A | N/A | **356** | <span style="color: #002818; font-weight: bold;">15.68</span> | <span style="color: #FF6347; font-weight: bold;">22.7</span> |
 | **2006/03** | **-** | N/A | N/A | **292** | <span style="color: #002818; font-weight: bold;">15.68</span> | <span style="color: #FF4500; font-weight: bold;">18.62</span> |
 | **2006/02** | **-** | N/A | N/A | **257** | <span style="color: #002818; font-weight: bold;">15.68</span> | <span style="color: #DC143C; font-weight: bold;">16.39</span> |
-| **2006/01** | **-** | N/A | N/A | **236** | <span style="color: #002818; font-weight: bold;">15.68</span> | <span style="color: #B22222; font-weight: bold;">15.05</span> |
+| **2006/01** | **-** | N/A | N/A | **236** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 可成 (2474) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -25,7 +25,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
     **:building_construction: 公司名稱**: 瑞昱  
     **:identification_card: 股票代號**: 2379  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **4.63** | **11.23** | **25.98** |
-| **P/E倍數** | **14.16** | **18.17** | **27.29** |
+| **EPS(元)** | **4.65** | **11.34** | **26.06** |
+| **P/E倍數** | **14.19** | **18.19** | **27.30** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 瑞昱 歷史平均獲利能力 (σup=14.75, σlo=6.60)
-    - **P/Ebase**: 瑞昱 歷史平均估值水準 (σup=9.12, σlo=4.01)
+    - **EPSbase**: 瑞昱 歷史平均獲利能力 (σup=14.71, σlo=6.70)
+    - **P/Ebase**: 瑞昱 歷史平均估值水準 (σup=9.11, σlo=4.00)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,7 +79,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/12** | **83.33** | <span style="color: #002818; font-weight: bold;">-3.94</span> | <span style="color: #8B0000; font-weight: bold;">+8.21</span> | **489** | <span style="color: #DC143C; font-weight: bold;">30.22</span> | <span style="color: #002818; font-weight: bold;">16.18</span> |
+| **2025/12** | **83.33** | <span style="color: #002818; font-weight: bold;">-3.94</span> | <span style="color: #8B0000; font-weight: bold;">+8.21</span> | **489** | <span style="color: #DC143C; font-weight: bold;">30.22</span> | <span style="color: #004225; font-weight: bold;">16.18</span> |
 | **2025/11** | **88.82** | <span style="color: #8B0000; font-weight: bold;">+1.83</span> | <span style="color: #8B0000; font-weight: bold;">+9.22</span> | **521** | <span style="color: #DC143C; font-weight: bold;">30.19</span> | <span style="color: #002818; font-weight: bold;">17.26</span> |
 | **2025/10** | **90.63** | <span style="color: #8B0000; font-weight: bold;">+1.29</span> | <span style="color: #8B0000; font-weight: bold;">+9.89</span> | **515** | <span style="color: #DC143C; font-weight: bold;">30.15</span> | <span style="color: #002818; font-weight: bold;">17.08</span> |
 | **2025/09** | **100.3** | <span style="color: #8B0000; font-weight: bold;">+2.08</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **550** | <span style="color: #DC143C; font-weight: bold;">30.12</span> | <span style="color: #8B0000; font-weight: bold;">18.26</span> |
@@ -167,7 +167,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 | **2018/11** | **40.51** | <span style="color: #8B0000; font-weight: bold;">+7.6</span> | <span style="color: #8B0000; font-weight: bold;">+9.25</span> | **141.5** | <span style="color: #002818; font-weight: bold;">8.42</span> | <span style="color: #002818; font-weight: bold;">16.82</span> |
 | **2018/10** | **39.64** | <span style="color: #8B0000; font-weight: bold;">+7.66</span> | <span style="color: #8B0000; font-weight: bold;">+9.43</span> | **124** | <span style="color: #002818; font-weight: bold;">8.26</span> | <span style="color: #004225; font-weight: bold;">15.01</span> |
 | **2018/09** | **41.44** | <span style="color: #8B0000; font-weight: bold;">+5.63</span> | <span style="color: #8B0000; font-weight: bold;">+9.64</span> | **136** | <span style="color: #002818; font-weight: bold;">8.1</span> | <span style="color: #002818; font-weight: bold;">16.78</span> |
-| **2018/08** | **40.82** | <span style="color: #B22222; font-weight: bold;">+13.5</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **149** | <span style="color: #002818; font-weight: bold;">7.95</span> | <span style="color: #8B0000; font-weight: bold;">18.74</span> |
+| **2018/08** | **40.82** | <span style="color: #B22222; font-weight: bold;">+13.5</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **149** | <span style="color: #004225; font-weight: bold;">7.95</span> | <span style="color: #8B0000; font-weight: bold;">18.74</span> |
 | **2018/07** | **38.59** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #8B0000; font-weight: bold;">+9.72</span> | **123** | <span style="color: #004225; font-weight: bold;">7.8</span> | <span style="color: #004225; font-weight: bold;">15.78</span> |
 | **2018/06** | **36.2** | <span style="color: #B22222; font-weight: bold;">+12.4</span> | <span style="color: #8B0000; font-weight: bold;">+9.24</span> | **111** | <span style="color: #004225; font-weight: bold;">7.64</span> | <span style="color: #004225; font-weight: bold;">14.53</span> |
 | **2018/05** | **37.79** | <span style="color: #B22222; font-weight: bold;">+14.5</span> | <span style="color: #8B0000; font-weight: bold;">+8.63</span> | **114.5** | <span style="color: #004225; font-weight: bold;">7.48</span> | <span style="color: #004225; font-weight: bold;">15.3</span> |
@@ -224,7 +224,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 | **2014/02** | **22.47** | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **90** | <span style="color: #004225; font-weight: bold;">6.3</span> | <span style="color: #004225; font-weight: bold;">14.28</span> |
 | **2014/01** | **25.87** | <span style="color: #8B0000; font-weight: bold;">+2.16</span> | <span style="color: #8B0000; font-weight: bold;">+2.16</span> | **83** | <span style="color: #004225; font-weight: bold;">6.16</span> | <span style="color: #006400; font-weight: bold;">13.47</span> |
 | **2013/12** | **25.4** | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **80** | <span style="color: #004225; font-weight: bold;">6.02</span> | <span style="color: #006400; font-weight: bold;">13.29</span> |
-| **2013/11** | **25.8** | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **71.7** | <span style="color: #004225; font-weight: bold;">5.89</span> | <span style="color: #006400; font-weight: bold;">12.17</span> |
+| **2013/11** | **25.8** | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **71.7** | <span style="color: #004225; font-weight: bold;">5.89</span> | <span style="color: #228B22; font-weight: bold;">12.17</span> |
 | **2013/10** | **21.83** | <span style="color: #8B0000; font-weight: bold;">+1.66</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **68.4** | <span style="color: #004225; font-weight: bold;">5.77</span> | <span style="color: #228B22; font-weight: bold;">11.86</span> |
 | **2013/09** | **25.41** | <span style="color: #8B0000; font-weight: bold;">+9.01</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **72.2** | <span style="color: #004225; font-weight: bold;">5.64</span> | <span style="color: #006400; font-weight: bold;">12.8</span> |
 | **2013/08** | **23.44** | <span style="color: #8B0000; font-weight: bold;">+8.39</span> | <span style="color: #B22222; font-weight: bold;">+13.8</span> | **66.4** | <span style="color: #004225; font-weight: bold;">5.51</span> | <span style="color: #228B22; font-weight: bold;">12.05</span> |
@@ -318,7 +318,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 | **2006/04** | **-** | N/A | N/A | **36.65** | <span style="color: #006400; font-weight: bold;">3.25</span> | <span style="color: #228B22; font-weight: bold;">11.28</span> |
 | **2006/03** | **-** | N/A | N/A | **36.3** | <span style="color: #006400; font-weight: bold;">3.25</span> | <span style="color: #228B22; font-weight: bold;">11.17</span> |
 | **2006/02** | **-** | N/A | N/A | **35.9** | <span style="color: #006400; font-weight: bold;">3.25</span> | <span style="color: #228B22; font-weight: bold;">11.05</span> |
-| **2006/01** | **-** | N/A | N/A | **38.1** | <span style="color: #006400; font-weight: bold;">3.25</span> | <span style="color: #228B22; font-weight: bold;">11.72</span> |
+| **2006/01** | **-** | N/A | N/A | **38.1** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -25,7 +25,7 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
     **:building_construction: 公司名稱**: 台灣虎航  
     **:identification_card: 股票代號**: 6757  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **4.54** | **5.20** | **5.75** |
-| **P/E倍數** | **8.28** | **11.51** | **14.75** |
+| **EPS(元)** | **4.55** | **5.19** | **5.74** |
+| **P/E倍數** | **8.29** | **11.59** | **14.70** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 台灣虎航 歷史平均獲利能力 (σup=0.55, σlo=0.66)
-    - **P/Ebase**: 台灣虎航 歷史平均估值水準 (σup=3.24, σlo=3.23)
+    - **EPSbase**: 台灣虎航 歷史平均獲利能力 (σup=0.56, σlo=0.63)
+    - **P/Ebase**: 台灣虎航 歷史平均估值水準 (σup=3.12, σlo=3.29)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -82,7 +82,7 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
 | **2025/12** | **14.86** | <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #8B0000; font-weight: bold;">+2.89</span> | **64.5** | <span style="color: #002818; font-weight: bold;">4.92</span> | <span style="color: #8B0000; font-weight: bold;">13.11</span> |
 | **2025/11** | **12.6** | <span style="color: #8B0000; font-weight: bold;">+6.38</span> | <span style="color: #8B0000; font-weight: bold;">+1.91</span> | **69** | <span style="color: #002818; font-weight: bold;">5.02</span> | <span style="color: #B22222; font-weight: bold;">13.74</span> |
 | **2025/10** | **15.66** | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | <span style="color: #8B0000; font-weight: bold;">+1.53</span> | **67.8** | <span style="color: #002818; font-weight: bold;">5.13</span> | <span style="color: #B22222; font-weight: bold;">13.22</span> |
-| **2025/09** | **12.77** | <span style="color: #8B0000; font-weight: bold;">+1</span> | <span style="color: #002818; font-weight: bold;">-0.39</span> | **77** | <span style="color: #8B0000; font-weight: bold;">5.23</span> | <span style="color: #B22222; font-weight: bold;">14.72</span> |
+| **2025/09** | **12.77** | <span style="color: #8B0000; font-weight: bold;">+1</span> | <span style="color: #002818; font-weight: bold;">-0.39</span> | **77** | <span style="color: #8B0000; font-weight: bold;">5.23</span> | <span style="color: #DC143C; font-weight: bold;">14.72</span> |
 | **2025/08** | **14.65** | <span style="color: #002818; font-weight: bold;">-4.32</span> | <span style="color: #002818; font-weight: bold;">-0.54</span> | **83.5** | <span style="color: #8B0000; font-weight: bold;">5.33</span> | <span style="color: #DC143C; font-weight: bold;">15.66</span> |
 | **2025/07** | **13.91** | <span style="color: #004225; font-weight: bold;">-14.5</span> | <span style="color: #8B0000; font-weight: bold;">+0.04</span> | **84.6** | <span style="color: #8B0000; font-weight: bold;">5.44</span> | <span style="color: #DC143C; font-weight: bold;">15.56</span> |
 | **2025/06** | **12.71** | <span style="color: #004225; font-weight: bold;">-10.5</span> | <span style="color: #8B0000; font-weight: bold;">+2.91</span> | **86.5** | <span style="color: #B22222; font-weight: bold;">5.54</span> | <span style="color: #DC143C; font-weight: bold;">15.61</span> |
@@ -250,7 +250,7 @@ description: 月營收表 台灣虎航 (6757) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

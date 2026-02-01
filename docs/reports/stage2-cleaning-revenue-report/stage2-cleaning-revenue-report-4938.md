@@ -25,7 +25,7 @@ description: 月營收表 和碩 (4938) - 自動產生
     **:building_construction: 公司名稱**: 和碩  
     **:identification_card: 股票代號**: 4938  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 和碩 (4938) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.77** | **5.53** | **7.21** |
-| **P/E倍數** | **11.29** | **18.23** | **184.25** |
+| **EPS(元)** | **2.79** | **5.52** | **7.21** |
+| **P/E倍數** | **11.30** | **18.21** | **184.24** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 和碩 歷史平均獲利能力 (σup=1.68, σlo=2.75)
-    - **P/Ebase**: 和碩 歷史平均估值水準 (σup=166.01, σlo=6.95)
+    - **EPSbase**: 和碩 歷史平均獲利能力 (σup=1.68, σlo=2.73)
+    - **P/Ebase**: 和碩 歷史平均估值水準 (σup=166.02, σlo=6.91)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -247,7 +247,7 @@ description: 月營收表 和碩 (4938) - 自動產生
 | **2012/03** | **-** | N/A | N/A | **46** | <span style="color: #228B22; font-weight: bold;">0.74</span> | <span style="color: #8B0000; font-weight: bold;">61.74</span> |
 | **2012/02** | **-** | N/A | N/A | **40** | <span style="color: #228B22; font-weight: bold;">0.51</span> | <span style="color: #8B0000; font-weight: bold;">77.92</span> |
 | **2012/01** | **-** | N/A | N/A | **35.8** | <span style="color: #228B22; font-weight: bold;">0.28</span> | <span style="color: #B22222; font-weight: bold;">127.1</span> |
-| **2011/12** | **-** | N/A | N/A | **32.95** | <span style="color: #228B22; font-weight: bold;">0.05</span> | <span style="color: #FF7F7F; font-weight: bold;">659.0</span> |
+| **2011/12** | **-** | N/A | N/A | **32.95** | <span style="color: #32CD32; font-weight: bold;">0.05</span> | <span style="color: #FF7F7F; font-weight: bold;">659.0</span> |
 | **2011/11** | **-** | N/A | N/A | **31.05** | <span style="color: #228B22; font-weight: bold;">0.27</span> | <span style="color: #B22222; font-weight: bold;">113.6</span> |
 | **2011/10** | **-** | N/A | N/A | **32.8** | <span style="color: #228B22; font-weight: bold;">0.5</span> | <span style="color: #8B0000; font-weight: bold;">66.04</span> |
 | **2011/09** | **-** | N/A | N/A | **28.6** | <span style="color: #228B22; font-weight: bold;">0.72</span> | <span style="color: #8B0000; font-weight: bold;">39.72</span> |
@@ -364,7 +364,7 @@ description: 月營收表 和碩 (4938) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

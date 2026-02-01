@@ -25,7 +25,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
     **:building_construction: 公司名稱**: 富邦金  
     **:identification_card: 股票代號**: 2881  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 富邦金 (2881) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.49** | **4.84** | **8.02** |
-| **P/E倍數** | **8.53** | **12.03** | **18.99** |
+| **EPS(元)** | **2.54** | **4.87** | **8.08** |
+| **P/E倍數** | **8.53** | **11.96** | **18.86** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 富邦金 歷史平均獲利能力 (σup=3.18, σlo=2.35)
-    - **P/Ebase**: 富邦金 歷史平均估值水準 (σup=6.97, σlo=3.50)
+    - **EPSbase**: 富邦金 歷史平均獲利能力 (σup=3.20, σlo=2.34)
+    - **P/Ebase**: 富邦金 歷史平均估值水準 (σup=6.90, σlo=3.43)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -121,7 +121,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 | **2022/09** | **232.6** | <span style="color: #004225; font-weight: bold;">-17.8</span> | <span style="color: #006400; font-weight: bold;">-23.4</span> | **49.9** | <span style="color: #8B0000; font-weight: bold;">5.78</span> | <span style="color: #004225; font-weight: bold;">8.64</span> |
 | **2022/08** | **179.3** | <span style="color: #90EE90; font-weight: bold;">-52.9</span> | <span style="color: #006400; font-weight: bold;">-23.8</span> | **57.4** | <span style="color: #B22222; font-weight: bold;">6.52</span> | <span style="color: #004225; font-weight: bold;">8.8</span> |
 | **2022/07** | **233.9** | <span style="color: #32CD32; font-weight: bold;">-46.3</span> | <span style="color: #006400; font-weight: bold;">-20.3</span> | **56.1** | <span style="color: #B22222; font-weight: bold;">7.27</span> | <span style="color: #006400; font-weight: bold;">7.72</span> |
-| **2022/06** | **343.6** | <span style="color: #004225; font-weight: bold;">-19.6</span> | <span style="color: #004225; font-weight: bold;">-16.1</span> | **59.8** | <span style="color: #DC143C; font-weight: bold;">8.02</span> | <span style="color: #006400; font-weight: bold;">7.46</span> |
+| **2022/06** | **343.6** | <span style="color: #004225; font-weight: bold;">-19.6</span> | <span style="color: #004225; font-weight: bold;">-16.1</span> | **59.8** | <span style="color: #B22222; font-weight: bold;">8.02</span> | <span style="color: #006400; font-weight: bold;">7.46</span> |
 | **2022/05** | **205.9** | <span style="color: #32CD32; font-weight: bold;">-44.1</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **64.1** | <span style="color: #DC143C; font-weight: bold;">8.76</span> | <span style="color: #006400; font-weight: bold;">7.32</span> |
 | **2022/04** | **361.1** | <span style="color: #004225; font-weight: bold;">-16.1</span> | <span style="color: #002818; font-weight: bold;">-9.83</span> | **74.4** | <span style="color: #DC143C; font-weight: bold;">9.51</span> | <span style="color: #006400; font-weight: bold;">7.83</span> |
 | **2022/03** | **314.8** | <span style="color: #228B22; font-weight: bold;">-32</span> | <span style="color: #002818; font-weight: bold;">-7.98</span> | **76.5** | <span style="color: #FF4500; font-weight: bold;">10.25</span> | <span style="color: #006400; font-weight: bold;">7.46</span> |
@@ -141,7 +141,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 | **2021/01** | **598.6** | <span style="color: #8B0000; font-weight: bold;">+4.18</span> | <span style="color: #8B0000; font-weight: bold;">+4.18</span> | **45.55** | <span style="color: #DC143C; font-weight: bold;">8.87</span> | <span style="color: #228B22; font-weight: bold;">5.14</span> |
 | **2020/12** | **421.3** | <span style="color: #8B0000; font-weight: bold;">+7.9</span> | <span style="color: #8B0000; font-weight: bold;">+6.32</span> | **46.75** | <span style="color: #DC143C; font-weight: bold;">8.54</span> | <span style="color: #228B22; font-weight: bold;">5.47</span> |
 | **2020/11** | **318.9** | <span style="color: #004225; font-weight: bold;">-12.4</span> | <span style="color: #8B0000; font-weight: bold;">+6.17</span> | **44.3** | <span style="color: #DC143C; font-weight: bold;">8.28</span> | <span style="color: #228B22; font-weight: bold;">5.35</span> |
-| **2020/10** | **323.5** | <span style="color: #8B0000; font-weight: bold;">+6.31</span> | <span style="color: #8B0000; font-weight: bold;">+7.98</span> | **40.7** | <span style="color: #DC143C; font-weight: bold;">8.03</span> | <span style="color: #228B22; font-weight: bold;">5.07</span> |
+| **2020/10** | **323.5** | <span style="color: #8B0000; font-weight: bold;">+6.31</span> | <span style="color: #8B0000; font-weight: bold;">+7.98</span> | **40.7** | <span style="color: #B22222; font-weight: bold;">8.03</span> | <span style="color: #32CD32; font-weight: bold;">5.07</span> |
 | **2020/09** | **212.1** | <span style="color: #32CD32; font-weight: bold;">-42.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.13</span> | **41.9** | <span style="color: #B22222; font-weight: bold;">7.77</span> | <span style="color: #228B22; font-weight: bold;">5.39</span> |
 | **2020/08** | **452.4** | <span style="color: #002818; font-weight: bold;">-8.94</span> | <span style="color: #B22222; font-weight: bold;">+14.3</span> | **42.8** | <span style="color: #B22222; font-weight: bold;">7.51</span> | <span style="color: #228B22; font-weight: bold;">5.7</span> |
 | **2020/07** | **589** | <span style="color: #002818; font-weight: bold;">-3.75</span> | <span style="color: #B22222; font-weight: bold;">+18.8</span> | **41.75** | <span style="color: #B22222; font-weight: bold;">7.26</span> | <span style="color: #228B22; font-weight: bold;">5.75</span> |
@@ -169,9 +169,9 @@ description: 月營收表 富邦金 (2881) - 自動產生
 | **2018/09** | **348.3** | <span style="color: #8B0000; font-weight: bold;">+8.9</span> | <span style="color: #8B0000; font-weight: bold;">+3.35</span> | **51.8** | <span style="color: #002818; font-weight: bold;">4.69</span> | <span style="color: #002818; font-weight: bold;">11.05</span> |
 | **2018/08** | **395.9** | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | <span style="color: #8B0000; font-weight: bold;">+2.73</span> | **50.9** | <span style="color: #002818; font-weight: bold;">4.74</span> | <span style="color: #002818; font-weight: bold;">10.73</span> |
 | **2018/07** | **463.2** | <span style="color: #8B0000; font-weight: bold;">+1.77</span> | <span style="color: #002818; font-weight: bold;">-0.08</span> | **50.7** | <span style="color: #002818; font-weight: bold;">4.8</span> | <span style="color: #002818; font-weight: bold;">10.56</span> |
-| **2018/06** | **249.1** | <span style="color: #006400; font-weight: bold;">-29.3</span> | <span style="color: #002818; font-weight: bold;">-0.49</span> | **51.1** | <span style="color: #8B0000; font-weight: bold;">4.86</span> | <span style="color: #002818; font-weight: bold;">10.53</span> |
+| **2018/06** | **249.1** | <span style="color: #006400; font-weight: bold;">-29.3</span> | <span style="color: #002818; font-weight: bold;">-0.49</span> | **51.1** | <span style="color: #002818; font-weight: bold;">4.86</span> | <span style="color: #002818; font-weight: bold;">10.53</span> |
 | **2018/05** | **347.8** | <span style="color: #B22222; font-weight: bold;">+17.9</span> | <span style="color: #8B0000; font-weight: bold;">+5.35</span> | **52.1** | <span style="color: #8B0000; font-weight: bold;">4.91</span> | <span style="color: #002818; font-weight: bold;">10.61</span> |
-| **2018/04** | **361.3** | <span style="color: #B22222; font-weight: bold;">+14.6</span> | <span style="color: #8B0000; font-weight: bold;">+2.79</span> | **51** | <span style="color: #8B0000; font-weight: bold;">4.97</span> | <span style="color: #004225; font-weight: bold;">10.27</span> |
+| **2018/04** | **361.3** | <span style="color: #B22222; font-weight: bold;">+14.6</span> | <span style="color: #8B0000; font-weight: bold;">+2.79</span> | **51** | <span style="color: #8B0000; font-weight: bold;">4.97</span> | <span style="color: #002818; font-weight: bold;">10.27</span> |
 | **2018/03** | **344.7** | <span style="color: #004225; font-weight: bold;">-17.7</span> | <span style="color: #002818; font-weight: bold;">-0.49</span> | **50.2** | <span style="color: #8B0000; font-weight: bold;">5.02</span> | <span style="color: #004225; font-weight: bold;">10.0</span> |
 | **2018/02** | **272.5** | <span style="color: #8B0000; font-weight: bold;">+6.71</span> | <span style="color: #8B0000; font-weight: bold;">+9.67</span> | **52.2** | <span style="color: #8B0000; font-weight: bold;">5.08</span> | <span style="color: #002818; font-weight: bold;">10.28</span> |
 | **2018/01** | **504.5** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **54.2** | <span style="color: #8B0000; font-weight: bold;">5.13</span> | <span style="color: #002818; font-weight: bold;">10.56</span> |
@@ -184,11 +184,11 @@ description: 月營收表 富邦金 (2881) - 自動產生
 | **2017/06** | **352.5** | <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #002818; font-weight: bold;">-8.24</span> | **48.45** | <span style="color: #8B0000; font-weight: bold;">4.96</span> | <span style="color: #004225; font-weight: bold;">9.77</span> |
 | **2017/05** | **295.1** | <span style="color: #006400; font-weight: bold;">-27</span> | <span style="color: #002818; font-weight: bold;">-7.16</span> | **45.85** | <span style="color: #8B0000; font-weight: bold;">4.92</span> | <span style="color: #004225; font-weight: bold;">9.32</span> |
 | **2017/04** | **315.3** | <span style="color: #004225; font-weight: bold;">-16.9</span> | <span style="color: #002818; font-weight: bold;">-1.71</span> | **47.3** | <span style="color: #8B0000; font-weight: bold;">4.88</span> | <span style="color: #004225; font-weight: bold;">9.69</span> |
-| **2017/03** | **418.9** | <span style="color: #DC143C; font-weight: bold;">+26.2</span> | <span style="color: #8B0000; font-weight: bold;">+3.58</span> | **49.5** | <span style="color: #8B0000; font-weight: bold;">4.85</span> | <span style="color: #004225; font-weight: bold;">10.22</span> |
+| **2017/03** | **418.9** | <span style="color: #DC143C; font-weight: bold;">+26.2</span> | <span style="color: #8B0000; font-weight: bold;">+3.58</span> | **49.5** | <span style="color: #002818; font-weight: bold;">4.85</span> | <span style="color: #004225; font-weight: bold;">10.22</span> |
 | **2017/02** | **255.3** | <span style="color: #004225; font-weight: bold;">-13.6</span> | <span style="color: #002818; font-weight: bold;">-6.33</span> | **49.75** | <span style="color: #002818; font-weight: bold;">4.81</span> | <span style="color: #002818; font-weight: bold;">10.35</span> |
 | **2017/01** | **453.1** | <span style="color: #002818; font-weight: bold;">-1.71</span> | <span style="color: #002818; font-weight: bold;">-1.71</span> | **50.6** | <span style="color: #002818; font-weight: bold;">4.77</span> | <span style="color: #002818; font-weight: bold;">10.61</span> |
 | **2016/12** | **372.2** | <span style="color: #002818; font-weight: bold;">-5.05</span> | <span style="color: #8B0000; font-weight: bold;">+1.94</span> | **51** | <span style="color: #002818; font-weight: bold;">4.73</span> | <span style="color: #002818; font-weight: bold;">10.78</span> |
-| **2016/11** | **306.8** | <span style="color: #004225; font-weight: bold;">-12.3</span> | <span style="color: #8B0000; font-weight: bold;">+2.64</span> | **49.45** | <span style="color: #8B0000; font-weight: bold;">4.85</span> | <span style="color: #004225; font-weight: bold;">10.19</span> |
+| **2016/11** | **306.8** | <span style="color: #004225; font-weight: bold;">-12.3</span> | <span style="color: #8B0000; font-weight: bold;">+2.64</span> | **49.45** | <span style="color: #002818; font-weight: bold;">4.85</span> | <span style="color: #004225; font-weight: bold;">10.19</span> |
 | **2016/10** | **309.9** | <span style="color: #004225; font-weight: bold;">-17.3</span> | <span style="color: #8B0000; font-weight: bold;">+4.11</span> | **44.8** | <span style="color: #8B0000; font-weight: bold;">4.98</span> | <span style="color: #004225; font-weight: bold;">9.0</span> |
 | **2016/09** | **328.4** | <span style="color: #006400; font-weight: bold;">-21.3</span> | <span style="color: #8B0000; font-weight: bold;">+6.64</span> | **46.3** | <span style="color: #8B0000; font-weight: bold;">5.1</span> | <span style="color: #004225; font-weight: bold;">9.08</span> |
 | **2016/08** | **376.3** | <span style="color: #002818; font-weight: bold;">-7.86</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **44.9** | <span style="color: #8B0000; font-weight: bold;">5.22</span> | <span style="color: #004225; font-weight: bold;">8.6</span> |
@@ -226,7 +226,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 | **2013/12** | **402.6** | <span style="color: #FF7F7F; font-weight: bold;">+61.6</span> | <span style="color: #8B0000; font-weight: bold;">+1.87</span> | **43.6** | <span style="color: #002818; font-weight: bold;">3.9</span> | <span style="color: #002818; font-weight: bold;">11.18</span> |
 | **2013/11** | **260.4** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #002818; font-weight: bold;">-2.45</span> | **42.3** | <span style="color: #002818; font-weight: bold;">3.83</span> | <span style="color: #002818; font-weight: bold;">11.04</span> |
 | **2013/10** | **269.4** | <span style="color: #DC143C; font-weight: bold;">+26.5</span> | <span style="color: #002818; font-weight: bold;">-3.71</span> | **43** | <span style="color: #002818; font-weight: bold;">3.76</span> | <span style="color: #002818; font-weight: bold;">11.43</span> |
-| **2013/09** | **270.6** | <span style="color: #FF7F7F; font-weight: bold;">+50.3</span> | <span style="color: #002818; font-weight: bold;">-5.82</span> | **40.9** | <span style="color: #002818; font-weight: bold;">3.69</span> | <span style="color: #002818; font-weight: bold;">11.08</span> |
+| **2013/09** | **270.6** | <span style="color: #FF7F7F; font-weight: bold;">+50.3</span> | <span style="color: #002818; font-weight: bold;">-5.82</span> | **40.9** | <span style="color: #004225; font-weight: bold;">3.69</span> | <span style="color: #002818; font-weight: bold;">11.08</span> |
 | **2013/08** | **293.1** | <span style="color: #B22222; font-weight: bold;">+18.4</span> | <span style="color: #002818; font-weight: bold;">-9.42</span> | **41** | <span style="color: #004225; font-weight: bold;">3.62</span> | <span style="color: #002818; font-weight: bold;">11.32</span> |
 | **2013/07** | **453** | <span style="color: #004225; font-weight: bold;">-15.6</span> | <span style="color: #004225; font-weight: bold;">-12.1</span> | **42.1** | <span style="color: #004225; font-weight: bold;">3.55</span> | <span style="color: #002818; font-weight: bold;">11.85</span> |
 | **2013/06** | **332.1** | <span style="color: #006400; font-weight: bold;">-23.8</span> | <span style="color: #004225; font-weight: bold;">-11.2</span> | **40.85** | <span style="color: #004225; font-weight: bold;">3.49</span> | <span style="color: #002818; font-weight: bold;">11.72</span> |
@@ -250,14 +250,14 @@ description: 月營收表 富邦金 (2881) - 自動產生
 | **2011/12** | **-** | N/A | N/A | **32.05** | <span style="color: #004225; font-weight: bold;">3.39</span> | <span style="color: #004225; font-weight: bold;">9.45</span> |
 | **2011/11** | **-** | N/A | N/A | **30.4** | <span style="color: #004225; font-weight: bold;">3.3</span> | <span style="color: #004225; font-weight: bold;">9.21</span> |
 | **2011/10** | **-** | N/A | N/A | **35.65** | <span style="color: #004225; font-weight: bold;">3.21</span> | <span style="color: #002818; font-weight: bold;">11.09</span> |
-| **2011/09** | **-** | N/A | N/A | **32.1** | <span style="color: #004225; font-weight: bold;">3.13</span> | <span style="color: #004225; font-weight: bold;">10.27</span> |
+| **2011/09** | **-** | N/A | N/A | **32.1** | <span style="color: #004225; font-weight: bold;">3.13</span> | <span style="color: #002818; font-weight: bold;">10.27</span> |
 | **2011/08** | **-** | N/A | N/A | **41.3** | <span style="color: #004225; font-weight: bold;">3.04</span> | <span style="color: #8B0000; font-weight: bold;">13.6</span> |
 | **2011/07** | **-** | N/A | N/A | **47** | <span style="color: #004225; font-weight: bold;">2.95</span> | <span style="color: #B22222; font-weight: bold;">15.94</span> |
-| **2011/06** | **-** | N/A | N/A | **44.15** | <span style="color: #004225; font-weight: bold;">2.86</span> | <span style="color: #8B0000; font-weight: bold;">15.44</span> |
+| **2011/06** | **-** | N/A | N/A | **44.15** | <span style="color: #004225; font-weight: bold;">2.86</span> | <span style="color: #B22222; font-weight: bold;">15.44</span> |
 | **2011/05** | **-** | N/A | N/A | **41.85** | <span style="color: #004225; font-weight: bold;">2.77</span> | <span style="color: #8B0000; font-weight: bold;">15.1</span> |
 | **2011/04** | **-** | N/A | N/A | **42** | <span style="color: #004225; font-weight: bold;">2.68</span> | <span style="color: #B22222; font-weight: bold;">15.65</span> |
 | **2011/03** | **-** | N/A | N/A | **39.05** | <span style="color: #004225; font-weight: bold;">2.6</span> | <span style="color: #8B0000; font-weight: bold;">15.05</span> |
-| **2011/02** | **-** | N/A | N/A | **37.55** | <span style="color: #004225; font-weight: bold;">2.51</span> | <span style="color: #8B0000; font-weight: bold;">14.98</span> |
+| **2011/02** | **-** | N/A | N/A | **37.55** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #8B0000; font-weight: bold;">14.98</span> |
 | **2011/01** | **-** | N/A | N/A | **40.6** | <span style="color: #006400; font-weight: bold;">2.42</span> | <span style="color: #B22222; font-weight: bold;">16.79</span> |
 | **2010/12** | **-** | N/A | N/A | **40** | <span style="color: #006400; font-weight: bold;">2.33</span> | <span style="color: #B22222; font-weight: bold;">17.17</span> |
 | **2010/11** | **-** | N/A | N/A | **37.2** | <span style="color: #006400; font-weight: bold;">2.34</span> | <span style="color: #B22222; font-weight: bold;">15.89</span> |
@@ -289,7 +289,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 | **2008/09** | **-** | N/A | N/A | **22.55** | <span style="color: #006400; font-weight: bold;">1.52</span> | <span style="color: #8B0000; font-weight: bold;">14.79</span> |
 | **2008/08** | **-** | N/A | N/A | **26.75** | <span style="color: #006400; font-weight: bold;">1.56</span> | <span style="color: #B22222; font-weight: bold;">17.11</span> |
 | **2008/07** | **-** | N/A | N/A | **27.35** | <span style="color: #006400; font-weight: bold;">1.6</span> | <span style="color: #B22222; font-weight: bold;">17.08</span> |
-| **2008/06** | **-** | N/A | N/A | **31** | <span style="color: #006400; font-weight: bold;">1.64</span> | <span style="color: #B22222; font-weight: bold;">18.9</span> |
+| **2008/06** | **-** | N/A | N/A | **31** | <span style="color: #006400; font-weight: bold;">1.64</span> | <span style="color: #DC143C; font-weight: bold;">18.9</span> |
 | **2008/05** | **-** | N/A | N/A | **36.2** | <span style="color: #006400; font-weight: bold;">1.68</span> | <span style="color: #DC143C; font-weight: bold;">21.57</span> |
 | **2008/04** | **-** | N/A | N/A | **36.3** | <span style="color: #006400; font-weight: bold;">1.72</span> | <span style="color: #DC143C; font-weight: bold;">21.15</span> |
 | **2008/03** | **-** | N/A | N/A | **34.5** | <span style="color: #006400; font-weight: bold;">1.76</span> | <span style="color: #DC143C; font-weight: bold;">19.66</span> |
@@ -303,7 +303,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 | **2007/07** | **-** | N/A | N/A | **30.5** | <span style="color: #006400; font-weight: bold;">1.55</span> | <span style="color: #DC143C; font-weight: bold;">19.74</span> |
 | **2007/06** | **-** | N/A | N/A | **30** | <span style="color: #006400; font-weight: bold;">1.48</span> | <span style="color: #DC143C; font-weight: bold;">20.27</span> |
 | **2007/05** | **-** | N/A | N/A | **28.85** | <span style="color: #006400; font-weight: bold;">1.42</span> | <span style="color: #DC143C; font-weight: bold;">20.39</span> |
-| **2007/04** | **-** | N/A | N/A | **29** | <span style="color: #006400; font-weight: bold;">1.35</span> | <span style="color: #DC143C; font-weight: bold;">21.48</span> |
+| **2007/04** | **-** | N/A | N/A | **29** | <span style="color: #228B22; font-weight: bold;">1.35</span> | <span style="color: #DC143C; font-weight: bold;">21.48</span> |
 | **2007/03** | **-** | N/A | N/A | **29.8** | <span style="color: #228B22; font-weight: bold;">1.28</span> | <span style="color: #FF4500; font-weight: bold;">23.19</span> |
 | **2007/02** | **-** | N/A | N/A | **30.4** | <span style="color: #228B22; font-weight: bold;">1.22</span> | <span style="color: #FF4500; font-weight: bold;">24.92</span> |
 | **2007/01** | **-** | N/A | N/A | **30.1** | <span style="color: #228B22; font-weight: bold;">1.16</span> | <span style="color: #FF6347; font-weight: bold;">26.06</span> |
@@ -318,7 +318,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 | **2006/04** | **-** | N/A | N/A | **30.9** | <span style="color: #228B22; font-weight: bold;">1.09</span> | <span style="color: #FF6347; font-weight: bold;">28.35</span> |
 | **2006/03** | **-** | N/A | N/A | **27.5** | <span style="color: #228B22; font-weight: bold;">1.09</span> | <span style="color: #FF4500; font-weight: bold;">25.23</span> |
 | **2006/02** | **-** | N/A | N/A | **29.1** | <span style="color: #228B22; font-weight: bold;">1.09</span> | <span style="color: #FF6347; font-weight: bold;">26.7</span> |
-| **2006/01** | **-** | N/A | N/A | **28** | <span style="color: #228B22; font-weight: bold;">1.09</span> | <span style="color: #FF4500; font-weight: bold;">25.69</span> |
+| **2006/01** | **-** | N/A | N/A | **28** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -25,7 +25,7 @@ description: 月營收表 聯強 (2347) - 自動產生
     **:building_construction: 公司名稱**: 聯強  
     **:identification_card: 股票代號**: 2347  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 聯強 (2347) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **3.18** | **4.31** | **7.23** |
-| **P/E倍數** | **9.27** | **13.55** | **18.27** |
+| **EPS(元)** | **3.18** | **4.32** | **7.22** |
+| **P/E倍數** | **9.28** | **13.54** | **18.28** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 聯強 歷史平均獲利能力 (σup=2.92, σlo=1.14)
-    - **P/Ebase**: 聯強 歷史平均估值水準 (σup=4.71, σlo=4.28)
+    - **EPSbase**: 聯強 歷史平均獲利能力 (σup=2.89, σlo=1.14)
+    - **P/Ebase**: 聯強 歷史平均估值水準 (σup=4.74, σlo=4.26)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -124,7 +124,7 @@ description: 月營收表 聯強 (2347) - 自動產生
 | **2022/06** | **416.9** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **53.2** | <span style="color: #FF4500; font-weight: bold;">9.9</span> | <span style="color: #228B22; font-weight: bold;">5.38</span> |
 | **2022/05** | **325.2** | <span style="color: #8B0000; font-weight: bold;">+3.52</span> | <span style="color: #8B0000; font-weight: bold;">+8.48</span> | **70.3** | <span style="color: #FF4500; font-weight: bold;">9.97</span> | <span style="color: #228B22; font-weight: bold;">7.05</span> |
 | **2022/04** | **291.4** | <span style="color: #002818; font-weight: bold;">-7.95</span> | <span style="color: #8B0000; font-weight: bold;">+9.8</span> | **77.5** | <span style="color: #FF4500; font-weight: bold;">10.05</span> | <span style="color: #006400; font-weight: bold;">7.71</span> |
-| **2022/03** | **408.3** | <span style="color: #DC143C; font-weight: bold;">+23</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **75.3** | <span style="color: #FF4500; font-weight: bold;">10.12</span> | <span style="color: #006400; font-weight: bold;">7.44</span> |
+| **2022/03** | **408.3** | <span style="color: #DC143C; font-weight: bold;">+23</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **75.3** | <span style="color: #FF6347; font-weight: bold;">10.12</span> | <span style="color: #006400; font-weight: bold;">7.44</span> |
 | **2022/02** | **264.8** | <span style="color: #B22222; font-weight: bold;">+19.4</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **71.9** | <span style="color: #FF6347; font-weight: bold;">10.2</span> | <span style="color: #228B22; font-weight: bold;">7.05</span> |
 | **2022/01** | **335.5** | <span style="color: #8B0000; font-weight: bold;">+7</span> | <span style="color: #8B0000; font-weight: bold;">+7</span> | **67.6** | <span style="color: #FF6347; font-weight: bold;">10.27</span> | <span style="color: #228B22; font-weight: bold;">6.58</span> |
 | **2021/12** | **499.8** | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | <span style="color: #DC143C; font-weight: bold;">+22.3</span> | **66.2** | <span style="color: #FF6347; font-weight: bold;">10.35</span> | <span style="color: #228B22; font-weight: bold;">6.4</span> |
@@ -145,7 +145,7 @@ description: 月營收表 聯強 (2347) - 自動產生
 | **2020/09** | **325.5** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #002818; font-weight: bold;">-5.04</span> | **41.3** | <span style="color: #8B0000; font-weight: bold;">4.69</span> | <span style="color: #006400; font-weight: bold;">8.81</span> |
 | **2020/08** | **280.3** | <span style="color: #002818; font-weight: bold;">-1.45</span> | <span style="color: #002818; font-weight: bold;">-7.17</span> | **43.7** | <span style="color: #8B0000; font-weight: bold;">4.62</span> | <span style="color: #004225; font-weight: bold;">9.45</span> |
 | **2020/07** | **290.4** | <span style="color: #002818; font-weight: bold;">-1.84</span> | <span style="color: #002818; font-weight: bold;">-8.03</span> | **43.8** | <span style="color: #8B0000; font-weight: bold;">4.56</span> | <span style="color: #004225; font-weight: bold;">9.61</span> |
-| **2020/06** | **288.1** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #002818; font-weight: bold;">-9.18</span> | **41.65** | <span style="color: #8B0000; font-weight: bold;">4.49</span> | <span style="color: #004225; font-weight: bold;">9.28</span> |
+| **2020/06** | **288.1** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #002818; font-weight: bold;">-9.18</span> | **41.65** | <span style="color: #8B0000; font-weight: bold;">4.49</span> | <span style="color: #006400; font-weight: bold;">9.28</span> |
 | **2020/05** | **240.4** | <span style="color: #004225; font-weight: bold;">-10.6</span> | <span style="color: #004225; font-weight: bold;">-13.4</span> | **44.4** | <span style="color: #8B0000; font-weight: bold;">4.42</span> | <span style="color: #004225; font-weight: bold;">10.04</span> |
 | **2020/04** | **231** | <span style="color: #002818; font-weight: bold;">-9.62</span> | <span style="color: #004225; font-weight: bold;">-14.1</span> | **39.9** | <span style="color: #8B0000; font-weight: bold;">4.36</span> | <span style="color: #006400; font-weight: bold;">9.16</span> |
 | **2020/03** | **274.4** | <span style="color: #002818; font-weight: bold;">-2.78</span> | <span style="color: #004225; font-weight: bold;">-15.5</span> | **37.15** | <span style="color: #002818; font-weight: bold;">4.29</span> | <span style="color: #006400; font-weight: bold;">8.66</span> |
@@ -160,7 +160,7 @@ description: 月營收表 聯強 (2347) - 自動產生
 | **2019/06** | **254.9** | <span style="color: #004225; font-weight: bold;">-19.2</span> | <span style="color: #004225; font-weight: bold;">-11.5</span> | **39** | <span style="color: #002818; font-weight: bold;">4.03</span> | <span style="color: #004225; font-weight: bold;">9.69</span> |
 | **2019/05** | **268.9** | <span style="color: #004225; font-weight: bold;">-15</span> | <span style="color: #002818; font-weight: bold;">-9.82</span> | **38.25** | <span style="color: #002818; font-weight: bold;">4.01</span> | <span style="color: #004225; font-weight: bold;">9.53</span> |
 | **2019/04** | **255.6** | <span style="color: #002818; font-weight: bold;">-6.67</span> | <span style="color: #002818; font-weight: bold;">-8.41</span> | **38.5** | <span style="color: #002818; font-weight: bold;">4.0</span> | <span style="color: #004225; font-weight: bold;">9.62</span> |
-| **2019/03** | **282.3** | <span style="color: #004225; font-weight: bold;">-15.5</span> | <span style="color: #002818; font-weight: bold;">-8.94</span> | **37** | <span style="color: #002818; font-weight: bold;">3.99</span> | <span style="color: #004225; font-weight: bold;">9.27</span> |
+| **2019/03** | **282.3** | <span style="color: #004225; font-weight: bold;">-15.5</span> | <span style="color: #002818; font-weight: bold;">-8.94</span> | **37** | <span style="color: #002818; font-weight: bold;">3.99</span> | <span style="color: #006400; font-weight: bold;">9.27</span> |
 | **2019/02** | **216** | <span style="color: #002818; font-weight: bold;">-1.58</span> | <span style="color: #002818; font-weight: bold;">-5.01</span> | **37.5** | <span style="color: #002818; font-weight: bold;">3.98</span> | <span style="color: #004225; font-weight: bold;">9.42</span> |
 | **2019/01** | **315** | <span style="color: #002818; font-weight: bold;">-7.24</span> | <span style="color: #002818; font-weight: bold;">-7.24</span> | **37.8** | <span style="color: #002818; font-weight: bold;">3.97</span> | <span style="color: #004225; font-weight: bold;">9.52</span> |
 | **2018/12** | **320.9** | <span style="color: #002818; font-weight: bold;">-9.39</span> | <span style="color: #8B0000; font-weight: bold;">+5.21</span> | **36.4** | <span style="color: #002818; font-weight: bold;">3.96</span> | <span style="color: #006400; font-weight: bold;">9.19</span> |
@@ -318,7 +318,7 @@ description: 月營收表 聯強 (2347) - 自動產生
 | **2006/04** | **112.3** | <span style="color: #8B0000; font-weight: bold;">+1.76</span> | <span style="color: #8B0000; font-weight: bold;">+7.89</span> | **39.45** | <span style="color: #006400; font-weight: bold;">2.65</span> | <span style="color: #8B0000; font-weight: bold;">14.89</span> |
 | **2006/03** | **144.3** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **36.05** | <span style="color: #006400; font-weight: bold;">2.65</span> | <span style="color: #8B0000; font-weight: bold;">13.6</span> |
 | **2006/02** | **102.4** | <span style="color: #B22222; font-weight: bold;">+18.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.12</span> | **40.25** | <span style="color: #006400; font-weight: bold;">2.65</span> | <span style="color: #8B0000; font-weight: bold;">15.19</span> |
-| **2006/01** | **110.2** | <span style="color: #002818; font-weight: bold;">-3.27</span> | <span style="color: #002818; font-weight: bold;">-3.27</span> | **40.6** | <span style="color: #006400; font-weight: bold;">2.65</span> | <span style="color: #8B0000; font-weight: bold;">15.32</span> |
+| **2006/01** | **110.2** | <span style="color: #002818; font-weight: bold;">-3.27</span> | <span style="color: #002818; font-weight: bold;">-3.27</span> | **40.6** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 聯強 (2347) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

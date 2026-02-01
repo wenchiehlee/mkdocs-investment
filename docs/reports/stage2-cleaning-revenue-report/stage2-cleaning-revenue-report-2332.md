@@ -25,7 +25,7 @@ description: 月營收表 友訊 (2332) - 自動產生
     **:building_construction: 公司名稱**: 友訊  
     **:identification_card: 股票代號**: 2332  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 友訊 (2332) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-0.64** | **0.85** | **2.68** |
-| **P/E倍數** | **20.24** | **65.65** | **1065.40** |
+| **EPS(元)** | **-0.65** | **0.83** | **2.67** |
+| **P/E倍數** | **20.33** | **65.97** | **1065.60** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 友訊 歷史平均獲利能力 (σup=1.83, σlo=1.50)
-    - **P/Ebase**: 友訊 歷史平均估值水準 (σup=999.75, σlo=45.40)
+    - **EPSbase**: 友訊 歷史平均獲利能力 (σup=1.83, σlo=1.48)
+    - **P/Ebase**: 友訊 歷史平均估值水準 (σup=999.63, σlo=45.64)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -211,7 +211,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 | **2015/03** | **24.52** | <span style="color: #002818; font-weight: bold;">-7.42</span> | <span style="color: #002818; font-weight: bold;">-6.7</span> | **16.9** | <span style="color: #006400; font-weight: bold;">-0.65</span> | N/A |
 | **2015/02** | **21.02** | <span style="color: #002818; font-weight: bold;">-8.41</span> | <span style="color: #002818; font-weight: bold;">-6.28</span> | **17.85** | <span style="color: #004225; font-weight: bold;">-0.4</span> | N/A |
 | **2015/01** | **21.62** | <span style="color: #002818; font-weight: bold;">-4.12</span> | <span style="color: #002818; font-weight: bold;">-4.12</span> | **17.75** | <span style="color: #004225; font-weight: bold;">-0.15</span> | N/A |
-| **2014/12** | **28.63** | <span style="color: #B22222; font-weight: bold;">+17.2</span> | <span style="color: #002818; font-weight: bold;">-0.92</span> | **18.6** | <span style="color: #004225; font-weight: bold;">0.1</span> | <span style="color: #8B0000; font-weight: bold;">186.0</span> |
+| **2014/12** | **28.63** | <span style="color: #B22222; font-weight: bold;">+17.2</span> | <span style="color: #002818; font-weight: bold;">-0.92</span> | **18.6** | <span style="color: #002818; font-weight: bold;">0.1</span> | <span style="color: #8B0000; font-weight: bold;">186.0</span> |
 | **2014/11** | **27.86** | <span style="color: #8B0000; font-weight: bold;">+1.91</span> | <span style="color: #002818; font-weight: bold;">-2.49</span> | **16.45** | <span style="color: #002818; font-weight: bold;">0.18</span> | <span style="color: #8B0000; font-weight: bold;">91.39</span> |
 | **2014/10** | **27.44** | <span style="color: #002818; font-weight: bold;">-2.84</span> | <span style="color: #002818; font-weight: bold;">-2.96</span> | **17** | <span style="color: #002818; font-weight: bold;">0.26</span> | <span style="color: #002818; font-weight: bold;">65.38</span> |
 | **2014/09** | **28.06** | <span style="color: #002818; font-weight: bold;">-8.48</span> | <span style="color: #002818; font-weight: bold;">-2.98</span> | **18.15** | <span style="color: #002818; font-weight: bold;">0.34</span> | <span style="color: #002818; font-weight: bold;">53.38</span> |
@@ -300,7 +300,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 | **2007/10** | **33.03** | <span style="color: #B22222; font-weight: bold;">+15.6</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **72.5** | <span style="color: #FF6347; font-weight: bold;">4.82</span> | <span style="color: #006400; font-weight: bold;">15.03</span> |
 | **2007/09** | **33.2** | <span style="color: #B22222; font-weight: bold;">+16.3</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **81.1** | <span style="color: #FF6347; font-weight: bold;">4.72</span> | <span style="color: #006400; font-weight: bold;">17.18</span> |
 | **2007/08** | **30.72** | <span style="color: #B22222; font-weight: bold;">+18.4</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **72.7** | <span style="color: #FF6347; font-weight: bold;">4.62</span> | <span style="color: #006400; font-weight: bold;">15.75</span> |
-| **2007/07** | **26.1** | <span style="color: #8B0000; font-weight: bold;">+6.08</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **81.8** | <span style="color: #FF4500; font-weight: bold;">4.51</span> | <span style="color: #006400; font-weight: bold;">18.12</span> |
+| **2007/07** | **26.1** | <span style="color: #8B0000; font-weight: bold;">+6.08</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **81.8** | <span style="color: #FF6347; font-weight: bold;">4.51</span> | <span style="color: #006400; font-weight: bold;">18.12</span> |
 | **2007/06** | **29** | <span style="color: #DC143C; font-weight: bold;">+20.9</span> | <span style="color: #B22222; font-weight: bold;">+11.8</span> | **78** | <span style="color: #FF4500; font-weight: bold;">4.41</span> | <span style="color: #006400; font-weight: bold;">17.69</span> |
 | **2007/05** | **24.8** | <span style="color: #8B0000; font-weight: bold;">+9.87</span> | <span style="color: #B22222; font-weight: bold;">+10.3</span> | **69.2** | <span style="color: #FF4500; font-weight: bold;">4.31</span> | <span style="color: #006400; font-weight: bold;">16.07</span> |
 | **2007/04** | **24.44** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **61.8** | <span style="color: #FF4500; font-weight: bold;">4.2</span> | <span style="color: #006400; font-weight: bold;">14.7</span> |
@@ -318,7 +318,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 | **2006/04** | **31.16** | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | <span style="color: #B22222; font-weight: bold;">+13.6</span> | **36.1** | <span style="color: #FF4500; font-weight: bold;">3.79</span> | <span style="color: #006400; font-weight: bold;">9.53</span> |
 | **2006/03** | **38.01** | <span style="color: #B22222; font-weight: bold;">+12.6</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **34.25** | <span style="color: #FF4500; font-weight: bold;">3.79</span> | <span style="color: #006400; font-weight: bold;">9.04</span> |
 | **2006/02** | **26.5** | <span style="color: #8B0000; font-weight: bold;">+4.01</span> | <span style="color: #B22222; font-weight: bold;">+10.6</span> | **37.2** | <span style="color: #FF4500; font-weight: bold;">3.79</span> | <span style="color: #006400; font-weight: bold;">9.82</span> |
-| **2006/01** | **30.76** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #B22222; font-weight: bold;">+16.9</span> | **37.8** | <span style="color: #FF4500; font-weight: bold;">3.79</span> | <span style="color: #006400; font-weight: bold;">9.97</span> |
+| **2006/01** | **30.76** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #B22222; font-weight: bold;">+16.9</span> | **37.8** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

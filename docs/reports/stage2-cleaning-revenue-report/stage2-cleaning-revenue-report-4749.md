@@ -25,7 +25,7 @@ description: 月營收表 新應材 (4749) - 自動產生
     **:building_construction: 公司名稱**: 新應材  
     **:identification_card: 股票代號**: 4749  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 新應材 (4749) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **10.37** | **10.37** | **11.37** |
-| **P/E倍數** | **53.83** | **68.70** | **81.74** |
+| **P/E倍數** | **54.04** | **69.80** | **82.03** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 新應材 歷史平均獲利能力 (σup=1.00, σlo=0.00)
-    - **P/Ebase**: 新應材 歷史平均估值水準 (σup=13.05, σlo=14.86)
+    - **P/Ebase**: 新應材 歷史平均估值水準 (σup=12.23, σlo=15.75)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -85,8 +85,8 @@ description: 月營收表 新應材 (4749) - 自動產生
 | **2025/09** | **3.85** | <span style="color: #FF4500; font-weight: bold;">+32.3</span> | <span style="color: #FF4500; font-weight: bold;">+32</span> | **890** | <span style="color: #004225; font-weight: bold;">10.37</span> | <span style="color: #DC143C; font-weight: bold;">85.82</span> |
 | **2025/08** | **3.42** | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | <span style="color: #FF4500; font-weight: bold;">+32</span> | **800** | <span style="color: #004225; font-weight: bold;">10.37</span> | <span style="color: #B22222; font-weight: bold;">77.15</span> |
 | **2025/07** | **3.39** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #FF4500; font-weight: bold;">+33.4</span> | **660** | <span style="color: #004225; font-weight: bold;">10.37</span> | <span style="color: #002818; font-weight: bold;">63.65</span> |
-| **2025/06** | **3.65** | <span style="color: #B22222; font-weight: bold;">+18.6</span> | <span style="color: #FF4500; font-weight: bold;">+36.3</span> | **640** | <span style="color: #004225; font-weight: bold;">10.37</span> | <span style="color: #002818; font-weight: bold;">61.72</span> |
-| **2025/05** | **3.85** | <span style="color: #FF6347; font-weight: bold;">+49.6</span> | <span style="color: #FF6347; font-weight: bold;">+40.7</span> | **637** | <span style="color: #004225; font-weight: bold;">10.37</span> | <span style="color: #002818; font-weight: bold;">61.43</span> |
+| **2025/06** | **3.65** | <span style="color: #B22222; font-weight: bold;">+18.6</span> | <span style="color: #FF4500; font-weight: bold;">+36.3</span> | **640** | <span style="color: #004225; font-weight: bold;">10.37</span> | <span style="color: #004225; font-weight: bold;">61.72</span> |
+| **2025/05** | **3.85** | <span style="color: #FF6347; font-weight: bold;">+49.6</span> | <span style="color: #FF6347; font-weight: bold;">+40.7</span> | **637** | <span style="color: #004225; font-weight: bold;">10.37</span> | <span style="color: #004225; font-weight: bold;">61.43</span> |
 | **2025/04** | **4.03** | <span style="color: #FF4500; font-weight: bold;">+37.5</span> | <span style="color: #FF4500; font-weight: bold;">+38.3</span> | **436.5** | <span style="color: #004225; font-weight: bold;">10.37</span> | <span style="color: #228B22; font-weight: bold;">42.09</span> |
 | **2025/03** | **3.26** | <span style="color: #FF6347; font-weight: bold;">+41</span> | <span style="color: #FF4500; font-weight: bold;">+38.7</span> | **485** | <span style="color: #004225; font-weight: bold;">10.37</span> | <span style="color: #006400; font-weight: bold;">46.77</span> |
 | **2025/02** | **3.17** | <span style="color: #FF7F7F; font-weight: bold;">+58.8</span> | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | **680** | <span style="color: #004225; font-weight: bold;">10.37</span> | <span style="color: #002818; font-weight: bold;">65.57</span> |
@@ -309,7 +309,7 @@ description: 月營收表 新應材 (4749) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

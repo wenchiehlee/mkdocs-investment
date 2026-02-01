@@ -25,7 +25,7 @@ description: 月營收表 威剛 (3260) - 自動產生
     **:building_construction: 公司名稱**: 威剛  
     **:identification_card: 股票代號**: 3260  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 威剛 (3260) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-0.84** | **4.30** | **8.30** |
-| **P/E倍數** | **12.92** | **30.53** | **234.76** |
+| **EPS(元)** | **-0.85** | **4.30** | **8.29** |
+| **P/E倍數** | **12.94** | **30.64** | **231.61** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 威剛 歷史平均獲利能力 (σup=4.00, σlo=5.15)
-    - **P/Ebase**: 威剛 歷史平均估值水準 (σup=204.23, σlo=17.61)
+    - **EPSbase**: 威剛 歷史平均獲利能力 (σup=3.99, σlo=5.14)
+    - **P/Ebase**: 威剛 歷史平均估值水準 (σup=200.96, σlo=17.70)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -84,7 +84,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 | **2025/10** | **44.63** | <span style="color: #FF4500; font-weight: bold;">+30.9</span> | <span style="color: #DC143C; font-weight: bold;">+23.7</span> | **198** | <span style="color: #FF4500; font-weight: bold;">10.75</span> | <span style="color: #004225; font-weight: bold;">18.42</span> |
 | **2025/09** | **52.44** | <span style="color: #FF7F7F; font-weight: bold;">+61.2</span> | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | **157** | <span style="color: #FF4500; font-weight: bold;">10.6</span> | <span style="color: #004225; font-weight: bold;">14.81</span> |
 | **2025/08** | **49.83** | <span style="color: #FF7F7F; font-weight: bold;">+64.5</span> | <span style="color: #B22222; font-weight: bold;">+18.3</span> | **102.5** | <span style="color: #FF4500; font-weight: bold;">10.45</span> | <span style="color: #006400; font-weight: bold;">9.81</span> |
-| **2025/07** | **42.61** | <span style="color: #FF4500; font-weight: bold;">+39.5</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **91.3** | <span style="color: #DC143C; font-weight: bold;">10.3</span> | <span style="color: #006400; font-weight: bold;">8.86</span> |
+| **2025/07** | **42.61** | <span style="color: #FF4500; font-weight: bold;">+39.5</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **91.3** | <span style="color: #FF4500; font-weight: bold;">10.3</span> | <span style="color: #006400; font-weight: bold;">8.86</span> |
 | **2025/06** | **46.98** | <span style="color: #FF7F7F; font-weight: bold;">+59</span> | <span style="color: #8B0000; font-weight: bold;">+8.48</span> | **93.6** | <span style="color: #DC143C; font-weight: bold;">10.15</span> | <span style="color: #006400; font-weight: bold;">9.22</span> |
 | **2025/05** | **41.69** | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | <span style="color: #8B0000; font-weight: bold;">+0.16</span> | **92.8** | <span style="color: #DC143C; font-weight: bold;">10.0</span> | <span style="color: #006400; font-weight: bold;">9.28</span> |
 | **2025/04** | **39.17** | <span style="color: #8B0000; font-weight: bold;">+1.78</span> | <span style="color: #002818; font-weight: bold;">-6.19</span> | **83.7** | <span style="color: #DC143C; font-weight: bold;">9.85</span> | <span style="color: #006400; font-weight: bold;">8.5</span> |
@@ -217,7 +217,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 | **2014/09** | **24.48** | <span style="color: #004225; font-weight: bold;">-10.2</span> | <span style="color: #004225; font-weight: bold;">-11.1</span> | **63.4** | <span style="color: #8B0000; font-weight: bold;">4.91</span> | <span style="color: #006400; font-weight: bold;">12.91</span> |
 | **2014/08** | **23.26** | <span style="color: #004225; font-weight: bold;">-12.9</span> | <span style="color: #004225; font-weight: bold;">-11.2</span> | **69.3** | <span style="color: #8B0000; font-weight: bold;">5.37</span> | <span style="color: #006400; font-weight: bold;">12.9</span> |
 | **2014/07** | **26.67** | <span style="color: #002818; font-weight: bold;">-7.31</span> | <span style="color: #004225; font-weight: bold;">-11</span> | **71.7** | <span style="color: #8B0000; font-weight: bold;">5.84</span> | <span style="color: #006400; font-weight: bold;">12.28</span> |
-| **2014/06** | **26.47** | <span style="color: #004225; font-weight: bold;">-20</span> | <span style="color: #004225; font-weight: bold;">-11.6</span> | **80.3** | <span style="color: #8B0000; font-weight: bold;">6.3</span> | <span style="color: #006400; font-weight: bold;">12.75</span> |
+| **2014/06** | **26.47** | <span style="color: #004225; font-weight: bold;">-20</span> | <span style="color: #004225; font-weight: bold;">-11.6</span> | **80.3** | <span style="color: #B22222; font-weight: bold;">6.3</span> | <span style="color: #006400; font-weight: bold;">12.75</span> |
 | **2014/05** | **24.12** | <span style="color: #228B22; font-weight: bold;">-32</span> | <span style="color: #002818; font-weight: bold;">-9.58</span> | **77** | <span style="color: #B22222; font-weight: bold;">6.76</span> | <span style="color: #006400; font-weight: bold;">11.38</span> |
 | **2014/04** | **25.13** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #002818; font-weight: bold;">-1.55</span> | **71.8** | <span style="color: #B22222; font-weight: bold;">7.23</span> | <span style="color: #006400; font-weight: bold;">9.94</span> |
 | **2014/03** | **23.81** | <span style="color: #006400; font-weight: bold;">-27.9</span> | <span style="color: #002818; font-weight: bold;">-5.33</span> | **77.2** | <span style="color: #B22222; font-weight: bold;">7.69</span> | <span style="color: #006400; font-weight: bold;">10.04</span> |
@@ -318,7 +318,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 | **2006/04** | **-** | N/A | N/A | **104** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">8.8</span> |
 | **2006/03** | **-** | N/A | N/A | **93.7** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">7.93</span> |
 | **2006/02** | **-** | N/A | N/A | **94.1** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">7.96</span> |
-| **2006/01** | **-** | N/A | N/A | **109** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">9.22</span> |
+| **2006/01** | **-** | N/A | N/A | **109** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

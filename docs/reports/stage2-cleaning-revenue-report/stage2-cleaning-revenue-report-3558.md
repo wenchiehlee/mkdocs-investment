@@ -25,7 +25,7 @@ description: 月營收表 神準 (3558) - 自動產生
     **:building_construction: 公司名稱**: 神準  
     **:identification_card: 股票代號**: 3558  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 神準 (3558) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **8.24** | **11.38** | **16.40** |
-| **P/E倍數** | **12.16** | **15.14** | **26.22** |
+| **EPS(元)** | **8.21** | **11.34** | **16.40** |
+| **P/E倍數** | **12.16** | **15.17** | **26.13** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 神準 歷史平均獲利能力 (σup=5.02, σlo=3.14)
-    - **P/Ebase**: 神準 歷史平均估值水準 (σup=11.09, σlo=2.98)
+    - **EPSbase**: 神準 歷史平均獲利能力 (σup=5.05, σlo=3.13)
+    - **P/Ebase**: 神準 歷史平均估值水準 (σup=10.96, σlo=3.01)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -89,14 +89,14 @@ description: 月營收表 神準 (3558) - 自動產生
 | **2025/05** | **13.21** | <span style="color: #FF7F7F; font-weight: bold;">+55</span> | <span style="color: #FF6347; font-weight: bold;">+46.5</span> | **175.5** | <span style="color: #228B22; font-weight: bold;">5.5</span> | <span style="color: #FF4500; font-weight: bold;">31.9</span> |
 | **2025/04** | **14.01** | <span style="color: #FF7F7F; font-weight: bold;">+60.2</span> | <span style="color: #FF6347; font-weight: bold;">+44.6</span> | **175** | <span style="color: #228B22; font-weight: bold;">5.34</span> | <span style="color: #FF4500; font-weight: bold;">32.75</span> |
 | **2025/03** | **14.23** | <span style="color: #FF7F7F; font-weight: bold;">+69.9</span> | <span style="color: #FF4500; font-weight: bold;">+39.8</span> | **197** | <span style="color: #228B22; font-weight: bold;">5.18</span> | <span style="color: #FF6347; font-weight: bold;">37.99</span> |
-| **2025/02** | **13.54** | <span style="color: #FF7F7F; font-weight: bold;">+63.8</span> | <span style="color: #DC143C; font-weight: bold;">+27.3</span> | **242** | <span style="color: #32CD32; font-weight: bold;">5.03</span> | <span style="color: #FF6347; font-weight: bold;">48.14</span> |
-| **2025/01** | **12.17** | <span style="color: #8B0000; font-weight: bold;">+1.98</span> | <span style="color: #8B0000; font-weight: bold;">+1.98</span> | **181.5** | <span style="color: #32CD32; font-weight: bold;">4.87</span> | <span style="color: #FF4500; font-weight: bold;">37.28</span> |
+| **2025/02** | **13.54** | <span style="color: #FF7F7F; font-weight: bold;">+63.8</span> | <span style="color: #DC143C; font-weight: bold;">+27.3</span> | **242** | <span style="color: #32CD32; font-weight: bold;">5.03</span> | <span style="color: #FF7F7F; font-weight: bold;">48.14</span> |
+| **2025/01** | **12.17** | <span style="color: #8B0000; font-weight: bold;">+1.98</span> | <span style="color: #8B0000; font-weight: bold;">+1.98</span> | **181.5** | <span style="color: #32CD32; font-weight: bold;">4.87</span> | <span style="color: #FF6347; font-weight: bold;">37.28</span> |
 | **2024/12** | **12.66** | <span style="color: #DC143C; font-weight: bold;">+24.4</span> | <span style="color: #006400; font-weight: bold;">-27.8</span> | **196** | <span style="color: #32CD32; font-weight: bold;">4.71</span> | <span style="color: #FF6347; font-weight: bold;">41.61</span> |
 | **2024/11** | **11.97** | <span style="color: #004225; font-weight: bold;">-12.5</span> | <span style="color: #228B22; font-weight: bold;">-31.2</span> | **206.5** | <span style="color: #228B22; font-weight: bold;">5.72</span> | <span style="color: #FF4500; font-weight: bold;">36.08</span> |
 | **2024/10** | **11.94** | <span style="color: #004225; font-weight: bold;">-13.1</span> | <span style="color: #228B22; font-weight: bold;">-33</span> | **142** | <span style="color: #006400; font-weight: bold;">6.74</span> | <span style="color: #B22222; font-weight: bold;">21.07</span> |
 | **2024/09** | **10.07** | <span style="color: #006400; font-weight: bold;">-21.4</span> | <span style="color: #228B22; font-weight: bold;">-35.2</span> | **165.5** | <span style="color: #006400; font-weight: bold;">7.75</span> | <span style="color: #B22222; font-weight: bold;">21.35</span> |
 | **2024/08** | **10.08** | <span style="color: #228B22; font-weight: bold;">-30.4</span> | <span style="color: #228B22; font-weight: bold;">-36.7</span> | **160** | <span style="color: #004225; font-weight: bold;">8.77</span> | <span style="color: #8B0000; font-weight: bold;">18.25</span> |
-| **2024/07** | **9.37** | <span style="color: #228B22; font-weight: bold;">-35.6</span> | <span style="color: #228B22; font-weight: bold;">-37.6</span> | **159.5** | <span style="color: #004225; font-weight: bold;">9.78</span> | <span style="color: #8B0000; font-weight: bold;">16.31</span> |
+| **2024/07** | **9.37** | <span style="color: #228B22; font-weight: bold;">-35.6</span> | <span style="color: #228B22; font-weight: bold;">-37.6</span> | **159.5** | <span style="color: #002818; font-weight: bold;">9.78</span> | <span style="color: #8B0000; font-weight: bold;">16.31</span> |
 | **2024/06** | **7.91** | <span style="color: #90EE90; font-weight: bold;">-50.6</span> | <span style="color: #228B22; font-weight: bold;">-38</span> | **188** | <span style="color: #002818; font-weight: bold;">10.8</span> | <span style="color: #8B0000; font-weight: bold;">17.42</span> |
 | **2024/05** | **8.52** | <span style="color: #006400; font-weight: bold;">-23.6</span> | <span style="color: #228B22; font-weight: bold;">-35.1</span> | **173** | <span style="color: #8B0000; font-weight: bold;">11.81</span> | <span style="color: #002818; font-weight: bold;">14.65</span> |
 | **2024/04** | **8.75** | <span style="color: #228B22; font-weight: bold;">-39.1</span> | <span style="color: #228B22; font-weight: bold;">-37.2</span> | **181** | <span style="color: #8B0000; font-weight: bold;">12.82</span> | <span style="color: #002818; font-weight: bold;">14.11</span> |
@@ -115,10 +115,10 @@ description: 月營收表 神準 (3558) - 自動產生
 | **2023/03** | **16.72** | <span style="color: #FF6347; font-weight: bold;">+41.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | **342** | <span style="color: #FF4500; font-weight: bold;">20.49</span> | <span style="color: #8B0000; font-weight: bold;">16.69</span> |
 | **2023/02** | **14.69** | <span style="color: #FF7F7F; font-weight: bold;">+96.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+68.5</span> | **297** | <span style="color: #FF4500; font-weight: bold;">20.9</span> | <span style="color: #002818; font-weight: bold;">14.21</span> |
 | **2023/01** | **13.67** | <span style="color: #FF6347; font-weight: bold;">+46.1</span> | <span style="color: #FF6347; font-weight: bold;">+46.1</span> | **219.5** | <span style="color: #FF4500; font-weight: bold;">21.3</span> | <span style="color: #228B22; font-weight: bold;">10.31</span> |
-| **2022/12** | **18.55** | <span style="color: #FF7F7F; font-weight: bold;">+94.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+77.8</span> | **199** | <span style="color: #FF6347; font-weight: bold;">21.7</span> | <span style="color: #32CD32; font-weight: bold;">9.17</span> |
+| **2022/12** | **18.55** | <span style="color: #FF7F7F; font-weight: bold;">+94.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+77.8</span> | **199** | <span style="color: #FF6347; font-weight: bold;">21.7</span> | <span style="color: #228B22; font-weight: bold;">9.17</span> |
 | **2022/11** | **18.92** | <span style="color: #FF7F7F; font-weight: bold;">+150</span> | <span style="color: #FF7F7F; font-weight: bold;">+75.8</span> | **221** | <span style="color: #FF4500; font-weight: bold;">20.66</span> | <span style="color: #006400; font-weight: bold;">10.7</span> |
 | **2022/10** | **16.29** | <span style="color: #FF7F7F; font-weight: bold;">+116.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+68.3</span> | **181** | <span style="color: #FF4500; font-weight: bold;">19.61</span> | <span style="color: #228B22; font-weight: bold;">9.23</span> |
-| **2022/09** | **15.89** | <span style="color: #FF7F7F; font-weight: bold;">+104.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+63</span> | **170** | <span style="color: #DC143C; font-weight: bold;">18.56</span> | <span style="color: #32CD32; font-weight: bold;">9.16</span> |
+| **2022/09** | **15.89** | <span style="color: #FF7F7F; font-weight: bold;">+104.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+63</span> | **170** | <span style="color: #DC143C; font-weight: bold;">18.56</span> | <span style="color: #228B22; font-weight: bold;">9.16</span> |
 | **2022/08** | **14.8** | <span style="color: #FF7F7F; font-weight: bold;">+69.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+57.6</span> | **229.5** | <span style="color: #DC143C; font-weight: bold;">17.52</span> | <span style="color: #004225; font-weight: bold;">13.1</span> |
 | **2022/07** | **15.24** | <span style="color: #FF7F7F; font-weight: bold;">+75.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+55.5</span> | **218.5** | <span style="color: #DC143C; font-weight: bold;">16.48</span> | <span style="color: #004225; font-weight: bold;">13.26</span> |
 | **2022/06** | **14.1** | <span style="color: #FF7F7F; font-weight: bold;">+75.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.4</span> | **174.5** | <span style="color: #B22222; font-weight: bold;">15.43</span> | <span style="color: #006400; font-weight: bold;">11.31</span> |
@@ -196,7 +196,7 @@ description: 月營收表 神準 (3558) - 自動產生
 | **2016/06** | **6.07** | <span style="color: #002818; font-weight: bold;">-8.86</span> | <span style="color: #002818; font-weight: bold;">-6.17</span> | **159** | <span style="color: #B22222; font-weight: bold;">14.01</span> | <span style="color: #006400; font-weight: bold;">11.35</span> |
 | **2016/05** | **6.25** | <span style="color: #002818; font-weight: bold;">-8.59</span> | <span style="color: #002818; font-weight: bold;">-5.58</span> | **168.5** | <span style="color: #B22222; font-weight: bold;">14.44</span> | <span style="color: #006400; font-weight: bold;">11.67</span> |
 | **2016/04** | **5.39** | <span style="color: #002818; font-weight: bold;">-9.99</span> | <span style="color: #002818; font-weight: bold;">-4.7</span> | **171.5** | <span style="color: #B22222; font-weight: bold;">14.87</span> | <span style="color: #006400; font-weight: bold;">11.53</span> |
-| **2016/03** | **6.6** | <span style="color: #002818; font-weight: bold;">-0.5</span> | <span style="color: #002818; font-weight: bold;">-2.87</span> | **209** | <span style="color: #B22222; font-weight: bold;">15.31</span> | <span style="color: #002818; font-weight: bold;">13.66</span> |
+| **2016/03** | **6.6** | <span style="color: #002818; font-weight: bold;">-0.5</span> | <span style="color: #002818; font-weight: bold;">-2.87</span> | **209** | <span style="color: #B22222; font-weight: bold;">15.31</span> | <span style="color: #004225; font-weight: bold;">13.66</span> |
 | **2016/02** | **5.24** | <span style="color: #002818; font-weight: bold;">-1.81</span> | <span style="color: #002818; font-weight: bold;">-4.34</span> | **219.5** | <span style="color: #B22222; font-weight: bold;">15.74</span> | <span style="color: #002818; font-weight: bold;">13.95</span> |
 | **2016/01** | **5.04** | <span style="color: #002818; font-weight: bold;">-6.82</span> | <span style="color: #002818; font-weight: bold;">-6.82</span> | **236.5** | <span style="color: #B22222; font-weight: bold;">16.17</span> | <span style="color: #002818; font-weight: bold;">14.63</span> |
 | **2015/12** | **5.34** | <span style="color: #002818; font-weight: bold;">-9.73</span> | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | **214.5** | <span style="color: #DC143C; font-weight: bold;">16.6</span> | <span style="color: #004225; font-weight: bold;">12.92</span> |
@@ -399,7 +399,7 @@ description: 月營收表 神準 (3558) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -25,7 +25,7 @@ description: 月營收表 聯詠 (3034) - 自動產生
     **:building_construction: 公司名稱**: 聯詠  
     **:identification_card: 股票代號**: 3034  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 聯詠 (3034) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **9.17** | **17.63** | **42.46** |
-| **P/E倍數** | **9.10** | **12.99** | **15.57** |
+| **EPS(元)** | **9.16** | **17.70** | **42.32** |
+| **P/E倍數** | **9.10** | **12.97** | **15.56** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 聯詠 歷史平均獲利能力 (σup=24.84, σlo=8.45)
-    - **P/Ebase**: 聯詠 歷史平均估值水準 (σup=2.59, σlo=3.89)
+    - **EPSbase**: 聯詠 歷史平均獲利能力 (σup=24.62, σlo=8.53)
+    - **P/Ebase**: 聯詠 歷史平均估值水準 (σup=2.58, σlo=3.88)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -82,7 +82,7 @@ description: 月營收表 聯詠 (3034) - 自動產生
 | **2025/12** | **73.2** | <span style="color: #004225; font-weight: bold;">-14.2</span> | <span style="color: #002818; font-weight: bold;">-2.06</span> | **374** | <span style="color: #8B0000; font-weight: bold;">28.69</span> | <span style="color: #8B0000; font-weight: bold;">13.04</span> |
 | **2025/11** | **76.19** | <span style="color: #002818; font-weight: bold;">-7.23</span> | <span style="color: #002818; font-weight: bold;">-0.97</span> | **389.5** | <span style="color: #8B0000; font-weight: bold;">29.08</span> | <span style="color: #8B0000; font-weight: bold;">13.39</span> |
 | **2025/10** | **78.79** | <span style="color: #002818; font-weight: bold;">-7.55</span> | <span style="color: #002818; font-weight: bold;">-0.37</span> | **393** | <span style="color: #8B0000; font-weight: bold;">29.48</span> | <span style="color: #8B0000; font-weight: bold;">13.33</span> |
-| **2025/09** | **82.78** | <span style="color: #002818; font-weight: bold;">-7.17</span> | <span style="color: #8B0000; font-weight: bold;">+0.41</span> | **426.5** | <span style="color: #8B0000; font-weight: bold;">29.88</span> | <span style="color: #8B0000; font-weight: bold;">14.28</span> |
+| **2025/09** | **82.78** | <span style="color: #002818; font-weight: bold;">-7.17</span> | <span style="color: #8B0000; font-weight: bold;">+0.41</span> | **426.5** | <span style="color: #8B0000; font-weight: bold;">29.88</span> | <span style="color: #B22222; font-weight: bold;">14.28</span> |
 | **2025/08** | **81.75** | <span style="color: #004225; font-weight: bold;">-15.5</span> | <span style="color: #8B0000; font-weight: bold;">+1.4</span> | **435** | <span style="color: #B22222; font-weight: bold;">30.27</span> | <span style="color: #B22222; font-weight: bold;">14.37</span> |
 | **2025/07** | **81.2** | <span style="color: #004225; font-weight: bold;">-12.4</span> | <span style="color: #8B0000; font-weight: bold;">+4.18</span> | **475** | <span style="color: #B22222; font-weight: bold;">30.66</span> | <span style="color: #B22222; font-weight: bold;">15.49</span> |
 | **2025/06** | **84.25** | <span style="color: #002818; font-weight: bold;">-0.44</span> | <span style="color: #8B0000; font-weight: bold;">+7.27</span> | **545** | <span style="color: #B22222; font-weight: bold;">31.06</span> | <span style="color: #FF4500; font-weight: bold;">17.55</span> |
@@ -184,7 +184,7 @@ description: 月營收表 聯詠 (3034) - 自動產生
 | **2017/06** | **38.8** | <span style="color: #8B0000; font-weight: bold;">+3.81</span> | <span style="color: #8B0000; font-weight: bold;">+1.4</span> | **123** | <span style="color: #006400; font-weight: bold;">8.24</span> | <span style="color: #B22222; font-weight: bold;">14.93</span> |
 | **2017/05** | **40.16** | <span style="color: #8B0000; font-weight: bold;">+3.7</span> | <span style="color: #8B0000; font-weight: bold;">+0.92</span> | **119.5** | <span style="color: #006400; font-weight: bold;">8.24</span> | <span style="color: #B22222; font-weight: bold;">14.51</span> |
 | **2017/04** | **39.1** | <span style="color: #8B0000; font-weight: bold;">+2.09</span> | <span style="color: #8B0000; font-weight: bold;">+0.19</span> | **116** | <span style="color: #006400; font-weight: bold;">8.23</span> | <span style="color: #8B0000; font-weight: bold;">14.09</span> |
-| **2017/03** | **39.06** | <span style="color: #8B0000; font-weight: bold;">+2.24</span> | <span style="color: #002818; font-weight: bold;">-0.46</span> | **117.5** | <span style="color: #006400; font-weight: bold;">8.23</span> | <span style="color: #8B0000; font-weight: bold;">14.28</span> |
+| **2017/03** | **39.06** | <span style="color: #8B0000; font-weight: bold;">+2.24</span> | <span style="color: #002818; font-weight: bold;">-0.46</span> | **117.5** | <span style="color: #006400; font-weight: bold;">8.23</span> | <span style="color: #B22222; font-weight: bold;">14.28</span> |
 | **2017/02** | **33.6** | <span style="color: #8B0000; font-weight: bold;">+8</span> | <span style="color: #002818; font-weight: bold;">-1.91</span> | **115** | <span style="color: #006400; font-weight: bold;">8.23</span> | <span style="color: #8B0000; font-weight: bold;">13.98</span> |
 | **2017/01** | **36.52** | <span style="color: #002818; font-weight: bold;">-9.56</span> | <span style="color: #002818; font-weight: bold;">-9.56</span> | **110.5** | <span style="color: #006400; font-weight: bold;">8.22</span> | <span style="color: #8B0000; font-weight: bold;">13.44</span> |
 | **2016/12** | **37.25** | <span style="color: #002818; font-weight: bold;">-7.05</span> | <span style="color: #004225; font-weight: bold;">-10.2</span> | **106.5** | <span style="color: #006400; font-weight: bold;">8.22</span> | <span style="color: #002818; font-weight: bold;">12.96</span> |
@@ -318,7 +318,7 @@ description: 月營收表 聯詠 (3034) - 自動產生
 | **2006/04** | **-** | N/A | N/A | **190** | <span style="color: #004225; font-weight: bold;">12.07</span> | <span style="color: #DC143C; font-weight: bold;">15.74</span> |
 | **2006/03** | **-** | N/A | N/A | **230.5** | <span style="color: #004225; font-weight: bold;">12.07</span> | <span style="color: #FF6347; font-weight: bold;">19.1</span> |
 | **2006/02** | **-** | N/A | N/A | **226** | <span style="color: #004225; font-weight: bold;">12.07</span> | <span style="color: #FF6347; font-weight: bold;">18.72</span> |
-| **2006/01** | **-** | N/A | N/A | **195.5** | <span style="color: #004225; font-weight: bold;">12.07</span> | <span style="color: #DC143C; font-weight: bold;">16.2</span> |
+| **2006/01** | **-** | N/A | N/A | **195.5** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 聯詠 (3034) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

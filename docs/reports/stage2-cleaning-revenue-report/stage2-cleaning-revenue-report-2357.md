@@ -25,7 +25,7 @@ description: 月營收表 華碩 (2357) - 自動產生
     **:building_construction: 公司名稱**: 華碩  
     **:identification_card: 股票代號**: 2357  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 華碩 (2357) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **8.57** | **21.67** | **35.70** |
-| **P/E倍數** | **10.27** | **14.21** | **23.48** |
+| **EPS(元)** | **8.68** | **21.84** | **35.92** |
+| **P/E倍數** | **10.26** | **14.17** | **23.46** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 華碩 歷史平均獲利能力 (σup=14.03, σlo=13.10)
-    - **P/Ebase**: 華碩 歷史平均估值水準 (σup=9.28, σlo=3.93)
+    - **EPSbase**: 華碩 歷史平均獲利能力 (σup=14.08, σlo=13.16)
+    - **P/Ebase**: 華碩 歷史平均估值水準 (σup=9.29, σlo=3.91)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -124,7 +124,7 @@ description: 月營收表 華碩 (2357) - 自動產生
 | **2022/06** | **554.5** | <span style="color: #B22222; font-weight: bold;">+15.7</span> | <span style="color: #8B0000; font-weight: bold;">+8.64</span> | **310.5** | <span style="color: #DC143C; font-weight: bold;">39.88</span> | <span style="color: #228B22; font-weight: bold;">7.79</span> |
 | **2022/05** | **380.8** | <span style="color: #002818; font-weight: bold;">-7.1</span> | <span style="color: #8B0000; font-weight: bold;">+6.92</span> | **341.5** | <span style="color: #FF4500; font-weight: bold;">43.23</span> | <span style="color: #228B22; font-weight: bold;">7.9</span> |
 | **2022/04** | **333.9** | <span style="color: #004225; font-weight: bold;">-14.7</span> | <span style="color: #B22222; font-weight: bold;">+10.6</span> | **357** | <span style="color: #FF4500; font-weight: bold;">46.58</span> | <span style="color: #228B22; font-weight: bold;">7.66</span> |
-| **2022/03** | **550.3** | <span style="color: #B22222; font-weight: bold;">+19.9</span> | <span style="color: #B22222; font-weight: bold;">+19.2</span> | **373.5** | <span style="color: #FF6347; font-weight: bold;">49.93</span> | <span style="color: #228B22; font-weight: bold;">7.48</span> |
+| **2022/03** | **550.3** | <span style="color: #B22222; font-weight: bold;">+19.9</span> | <span style="color: #B22222; font-weight: bold;">+19.2</span> | **373.5** | <span style="color: #FF4500; font-weight: bold;">49.93</span> | <span style="color: #228B22; font-weight: bold;">7.48</span> |
 | **2022/02** | **402.3** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #B22222; font-weight: bold;">+18.7</span> | **371.5** | <span style="color: #FF6347; font-weight: bold;">53.28</span> | <span style="color: #228B22; font-weight: bold;">6.97</span> |
 | **2022/01** | **431.6** | <span style="color: #B22222; font-weight: bold;">+17.5</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **359.5** | <span style="color: #FF6347; font-weight: bold;">56.63</span> | <span style="color: #228B22; font-weight: bold;">6.35</span> |
 | **2021/12** | **517.4** | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #DC143C; font-weight: bold;">+29.7</span> | **376** | <span style="color: #FF6347; font-weight: bold;">59.98</span> | <span style="color: #32CD32; font-weight: bold;">6.27</span> |
@@ -132,14 +132,14 @@ description: 月營收表 華碩 (2357) - 自動產生
 | **2021/10** | **449.9** | <span style="color: #B22222; font-weight: bold;">+13.6</span> | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | **353** | <span style="color: #FF6347; font-weight: bold;">55.94</span> | <span style="color: #32CD32; font-weight: bold;">6.31</span> |
 | **2021/09** | **560.5** | <span style="color: #B22222; font-weight: bold;">+19.1</span> | <span style="color: #FF4500; font-weight: bold;">+32</span> | **325.5** | <span style="color: #FF6347; font-weight: bold;">53.92</span> | <span style="color: #32CD32; font-weight: bold;">6.04</span> |
 | **2021/08** | **454.7** | <span style="color: #8B0000; font-weight: bold;">+5.15</span> | <span style="color: #FF4500; font-weight: bold;">+34.4</span> | **324** | <span style="color: #FF6347; font-weight: bold;">51.91</span> | <span style="color: #32CD32; font-weight: bold;">6.24</span> |
-| **2021/07** | **375.7** | <span style="color: #8B0000; font-weight: bold;">+1.16</span> | <span style="color: #FF6347; font-weight: bold;">+40.8</span> | **351** | <span style="color: #FF6347; font-weight: bold;">49.89</span> | <span style="color: #228B22; font-weight: bold;">7.04</span> |
+| **2021/07** | **375.7** | <span style="color: #8B0000; font-weight: bold;">+1.16</span> | <span style="color: #FF6347; font-weight: bold;">+40.8</span> | **351** | <span style="color: #FF4500; font-weight: bold;">49.89</span> | <span style="color: #228B22; font-weight: bold;">7.04</span> |
 | **2021/06** | **479.5** | <span style="color: #DC143C; font-weight: bold;">+21.8</span> | <span style="color: #FF6347; font-weight: bold;">+49.8</span> | **371.5** | <span style="color: #FF4500; font-weight: bold;">47.87</span> | <span style="color: #228B22; font-weight: bold;">7.76</span> |
 | **2021/05** | **410** | <span style="color: #FF4500; font-weight: bold;">+35.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.7</span> | **395** | <span style="color: #FF4500; font-weight: bold;">45.85</span> | <span style="color: #006400; font-weight: bold;">8.61</span> |
 | **2021/04** | **391.4** | <span style="color: #FF7F7F; font-weight: bold;">+72.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+66.1</span> | **376** | <span style="color: #FF4500; font-weight: bold;">43.83</span> | <span style="color: #006400; font-weight: bold;">8.58</span> |
 | **2021/03** | **459** | <span style="color: #FF7F7F; font-weight: bold;">+74.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.2</span> | **372.5** | <span style="color: #DC143C; font-weight: bold;">41.82</span> | <span style="color: #006400; font-weight: bold;">8.91</span> |
 | **2021/02** | **335.4** | <span style="color: #FF7F7F; font-weight: bold;">+57.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+57.9</span> | **304** | <span style="color: #DC143C; font-weight: bold;">39.8</span> | <span style="color: #228B22; font-weight: bold;">7.64</span> |
 | **2021/01** | **367.2** | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | **286.5** | <span style="color: #DC143C; font-weight: bold;">37.78</span> | <span style="color: #228B22; font-weight: bold;">7.58</span> |
-| **2020/12** | **429.7** | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **250.5** | <span style="color: #DC143C; font-weight: bold;">35.76</span> | <span style="color: #228B22; font-weight: bold;">7.01</span> |
+| **2020/12** | **429.7** | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **250.5** | <span style="color: #B22222; font-weight: bold;">35.76</span> | <span style="color: #228B22; font-weight: bold;">7.01</span> |
 | **2020/11** | **397.5** | <span style="color: #B22222; font-weight: bold;">+14.9</span> | <span style="color: #B22222; font-weight: bold;">+16.1</span> | **249** | <span style="color: #B22222; font-weight: bold;">34.14</span> | <span style="color: #228B22; font-weight: bold;">7.29</span> |
 | **2020/10** | **396** | <span style="color: #FF4500; font-weight: bold;">+32.3</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **242.5** | <span style="color: #B22222; font-weight: bold;">32.52</span> | <span style="color: #228B22; font-weight: bold;">7.46</span> |
 | **2020/09** | **470.4** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #B22222; font-weight: bold;">+14.3</span> | **253.5** | <span style="color: #B22222; font-weight: bold;">30.9</span> | <span style="color: #228B22; font-weight: bold;">8.2</span> |
@@ -153,7 +153,7 @@ description: 月營收表 華碩 (2357) - 自動產生
 | **2020/01** | **232** | <span style="color: #004225; font-weight: bold;">-11.3</span> | <span style="color: #004225; font-weight: bold;">-11.3</span> | **224** | <span style="color: #002818; font-weight: bold;">17.96</span> | <span style="color: #002818; font-weight: bold;">12.47</span> |
 | **2019/12** | **327.6** | <span style="color: #8B0000; font-weight: bold;">+5.93</span> | <span style="color: #002818; font-weight: bold;">-0.81</span> | **231.5** | <span style="color: #002818; font-weight: bold;">16.34</span> | <span style="color: #002818; font-weight: bold;">14.17</span> |
 | **2019/11** | **346.1** | <span style="color: #8B0000; font-weight: bold;">+7.77</span> | <span style="color: #002818; font-weight: bold;">-1.45</span> | **230.5** | <span style="color: #002818; font-weight: bold;">15.45</span> | <span style="color: #8B0000; font-weight: bold;">14.92</span> |
-| **2019/10** | **299.3** | <span style="color: #8B0000; font-weight: bold;">+7.79</span> | <span style="color: #002818; font-weight: bold;">-2.46</span> | **206.5** | <span style="color: #004225; font-weight: bold;">14.57</span> | <span style="color: #002818; font-weight: bold;">14.18</span> |
+| **2019/10** | **299.3** | <span style="color: #8B0000; font-weight: bold;">+7.79</span> | <span style="color: #002818; font-weight: bold;">-2.46</span> | **206.5** | <span style="color: #004225; font-weight: bold;">14.57</span> | <span style="color: #8B0000; font-weight: bold;">14.18</span> |
 | **2019/09** | **377.8** | <span style="color: #8B0000; font-weight: bold;">+4.39</span> | <span style="color: #002818; font-weight: bold;">-3.55</span> | **206.5** | <span style="color: #004225; font-weight: bold;">13.68</span> | <span style="color: #8B0000; font-weight: bold;">15.1</span> |
 | **2019/08** | **306.4** | <span style="color: #8B0000; font-weight: bold;">+5.07</span> | <span style="color: #002818; font-weight: bold;">-4.81</span> | **204** | <span style="color: #004225; font-weight: bold;">12.79</span> | <span style="color: #8B0000; font-weight: bold;">15.95</span> |
 | **2019/07** | **255.3** | <span style="color: #8B0000; font-weight: bold;">+5.87</span> | <span style="color: #002818; font-weight: bold;">-6.27</span> | **222** | <span style="color: #004225; font-weight: bold;">11.91</span> | <span style="color: #8B0000; font-weight: bold;">18.65</span> |
@@ -177,10 +177,10 @@ description: 月營收表 華碩 (2357) - 自動產生
 | **2018/01** | **286.5** | <span style="color: #002818; font-weight: bold;">-8.62</span> | <span style="color: #002818; font-weight: bold;">-8.62</span> | **281** | <span style="color: #002818; font-weight: bold;">19.66</span> | <span style="color: #8B0000; font-weight: bold;">14.29</span> |
 | **2017/12** | **371.7** | <span style="color: #002818; font-weight: bold;">-5.59</span> | <span style="color: #002818; font-weight: bold;">-7.03</span> | **279.5** | <span style="color: #002818; font-weight: bold;">20.93</span> | <span style="color: #002818; font-weight: bold;">13.35</span> |
 | **2017/11** | **421.3** | <span style="color: #004225; font-weight: bold;">-13.5</span> | <span style="color: #002818; font-weight: bold;">-7.16</span> | **276** | <span style="color: #002818; font-weight: bold;">21.34</span> | <span style="color: #002818; font-weight: bold;">12.93</span> |
-| **2017/10** | **346.6** | <span style="color: #002818; font-weight: bold;">-9.51</span> | <span style="color: #002818; font-weight: bold;">-6.34</span> | **261** | <span style="color: #8B0000; font-weight: bold;">21.75</span> | <span style="color: #004225; font-weight: bold;">12.0</span> |
+| **2017/10** | **346.6** | <span style="color: #002818; font-weight: bold;">-9.51</span> | <span style="color: #002818; font-weight: bold;">-6.34</span> | **261** | <span style="color: #002818; font-weight: bold;">21.75</span> | <span style="color: #004225; font-weight: bold;">12.0</span> |
 | **2017/09** | **451** | <span style="color: #8B0000; font-weight: bold;">+1.1</span> | <span style="color: #002818; font-weight: bold;">-5.99</span> | **248** | <span style="color: #8B0000; font-weight: bold;">22.16</span> | <span style="color: #004225; font-weight: bold;">11.19</span> |
 | **2017/08** | **378.1** | <span style="color: #002818; font-weight: bold;">-5.13</span> | <span style="color: #002818; font-weight: bold;">-7.06</span> | **250** | <span style="color: #8B0000; font-weight: bold;">22.57</span> | <span style="color: #004225; font-weight: bold;">11.08</span> |
-| **2017/07** | **315.6** | <span style="color: #002818; font-weight: bold;">-5.33</span> | <span style="color: #002818; font-weight: bold;">-7.35</span> | **281** | <span style="color: #8B0000; font-weight: bold;">22.98</span> | <span style="color: #004225; font-weight: bold;">12.23</span> |
+| **2017/07** | **315.6** | <span style="color: #002818; font-weight: bold;">-5.33</span> | <span style="color: #002818; font-weight: bold;">-7.35</span> | **281** | <span style="color: #8B0000; font-weight: bold;">22.98</span> | <span style="color: #002818; font-weight: bold;">12.23</span> |
 | **2017/06** | **388.6** | <span style="color: #002818; font-weight: bold;">-8.31</span> | <span style="color: #002818; font-weight: bold;">-7.66</span> | **287.5** | <span style="color: #8B0000; font-weight: bold;">23.39</span> | <span style="color: #002818; font-weight: bold;">12.29</span> |
 | **2017/05** | **313.4** | <span style="color: #002818; font-weight: bold;">-1.6</span> | <span style="color: #002818; font-weight: bold;">-7.51</span> | **285** | <span style="color: #8B0000; font-weight: bold;">23.8</span> | <span style="color: #004225; font-weight: bold;">11.97</span> |
 | **2017/04** | **271.1** | <span style="color: #002818; font-weight: bold;">-6.84</span> | <span style="color: #002818; font-weight: bold;">-8.77</span> | **296.5** | <span style="color: #8B0000; font-weight: bold;">24.21</span> | <span style="color: #002818; font-weight: bold;">12.25</span> |
@@ -224,8 +224,8 @@ description: 月營收表 華碩 (2357) - 自動產生
 | **2014/02** | **366.1** | <span style="color: #B22222; font-weight: bold;">+13.3</span> | <span style="color: #002818; font-weight: bold;">-0.99</span> | **291.5** | <span style="color: #8B0000; font-weight: bold;">28.25</span> | <span style="color: #004225; font-weight: bold;">10.32</span> |
 | **2014/01** | **350.9** | <span style="color: #004225; font-weight: bold;">-12.5</span> | <span style="color: #004225; font-weight: bold;">-12.5</span> | **282** | <span style="color: #8B0000; font-weight: bold;">28.46</span> | <span style="color: #006400; font-weight: bold;">9.91</span> |
 | **2013/12** | **398.8** | <span style="color: #8B0000; font-weight: bold;">+6.24</span> | <span style="color: #8B0000; font-weight: bold;">+3.25</span> | **268** | <span style="color: #8B0000; font-weight: bold;">28.66</span> | <span style="color: #006400; font-weight: bold;">9.35</span> |
-| **2013/11** | **493** | <span style="color: #8B0000; font-weight: bold;">+2.45</span> | <span style="color: #8B0000; font-weight: bold;">+2.98</span> | **260.5** | <span style="color: #B22222; font-weight: bold;">28.76</span> | <span style="color: #006400; font-weight: bold;">9.06</span> |
-| **2013/10** | **415.2** | <span style="color: #8B0000; font-weight: bold;">+5.3</span> | <span style="color: #8B0000; font-weight: bold;">+3.05</span> | **225** | <span style="color: #B22222; font-weight: bold;">28.86</span> | <span style="color: #228B22; font-weight: bold;">7.8</span> |
+| **2013/11** | **493** | <span style="color: #8B0000; font-weight: bold;">+2.45</span> | <span style="color: #8B0000; font-weight: bold;">+2.98</span> | **260.5** | <span style="color: #8B0000; font-weight: bold;">28.76</span> | <span style="color: #006400; font-weight: bold;">9.06</span> |
+| **2013/10** | **415.2** | <span style="color: #8B0000; font-weight: bold;">+5.3</span> | <span style="color: #8B0000; font-weight: bold;">+3.05</span> | **225** | <span style="color: #8B0000; font-weight: bold;">28.86</span> | <span style="color: #228B22; font-weight: bold;">7.8</span> |
 | **2013/09** | **421.1** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #8B0000; font-weight: bold;">+2.77</span> | **235.5** | <span style="color: #B22222; font-weight: bold;">28.96</span> | <span style="color: #228B22; font-weight: bold;">8.13</span> |
 | **2013/08** | **409** | <span style="color: #002818; font-weight: bold;">-8.54</span> | <span style="color: #8B0000; font-weight: bold;">+1.44</span> | **238.5** | <span style="color: #B22222; font-weight: bold;">29.05</span> | <span style="color: #228B22; font-weight: bold;">8.21</span> |
 | **2013/07** | **357.9** | <span style="color: #002818; font-weight: bold;">-8.95</span> | <span style="color: #8B0000; font-weight: bold;">+3.28</span> | **262** | <span style="color: #B22222; font-weight: bold;">29.15</span> | <span style="color: #006400; font-weight: bold;">8.99</span> |
@@ -318,7 +318,7 @@ description: 月營收表 華碩 (2357) - 自動產生
 | **2006/04** | **-** | N/A | N/A | **88.3** | <span style="color: #006400; font-weight: bold;">5.65</span> | <span style="color: #8B0000; font-weight: bold;">15.63</span> |
 | **2006/03** | **-** | N/A | N/A | **88** | <span style="color: #006400; font-weight: bold;">5.65</span> | <span style="color: #8B0000; font-weight: bold;">15.58</span> |
 | **2006/02** | **-** | N/A | N/A | **92.1** | <span style="color: #006400; font-weight: bold;">5.65</span> | <span style="color: #8B0000; font-weight: bold;">16.3</span> |
-| **2006/01** | **-** | N/A | N/A | **104.5** | <span style="color: #006400; font-weight: bold;">5.65</span> | <span style="color: #8B0000; font-weight: bold;">18.5</span> |
+| **2006/01** | **-** | N/A | N/A | **104.5** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 華碩 (2357) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

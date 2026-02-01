@@ -25,7 +25,7 @@ description: 月營收表 緯穎 (6669) - 自動產生
     **:building_construction: 公司名稱**: 緯穎  
     **:identification_card: 股票代號**: 6669  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 緯穎 (6669) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **50.92** | **80.72** | **163.26** |
-| **P/E倍數** | **12.43** | **17.00** | **22.25** |
+| **EPS(元)** | **51.43** | **82.63** | **169.94** |
+| **P/E倍數** | **12.42** | **16.98** | **22.18** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 緯穎 歷史平均獲利能力 (σup=82.54, σlo=29.80)
-    - **P/Ebase**: 緯穎 歷史平均估值水準 (σup=5.24, σlo=4.57)
+    - **EPSbase**: 緯穎 歷史平均獲利能力 (σup=87.32, σlo=31.20)
+    - **P/Ebase**: 緯穎 歷史平均估值水準 (σup=5.20, σlo=4.56)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -82,12 +82,12 @@ description: 月營收表 緯穎 (6669) - 自動產生
 | **2025/12** | **1043** | <span style="color: #FF7F7F; font-weight: bold;">+143.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+163.7</span> | **4485** | <span style="color: #FF4500; font-weight: bold;">238.77</span> | <span style="color: #8B0000; font-weight: bold;">18.78</span> |
 | **2025/11** | **968.9** | <span style="color: #FF7F7F; font-weight: bold;">+158.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+166.3</span> | **4570** | <span style="color: #FF4500; font-weight: bold;">229.42</span> | <span style="color: #B22222; font-weight: bold;">19.92</span> |
 | **2025/10** | **912.6** | <span style="color: #FF7F7F; font-weight: bold;">+157.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+167.4</span> | **4365** | <span style="color: #FF4500; font-weight: bold;">220.07</span> | <span style="color: #B22222; font-weight: bold;">19.83</span> |
-| **2025/09** | **863.2** | <span style="color: #FF7F7F; font-weight: bold;">+150.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+168.7</span> | **3315** | <span style="color: #FF4500; font-weight: bold;">210.72</span> | <span style="color: #002818; font-weight: bold;">15.73</span> |
+| **2025/09** | **863.2** | <span style="color: #FF7F7F; font-weight: bold;">+150.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+168.7</span> | **3315** | <span style="color: #DC143C; font-weight: bold;">210.72</span> | <span style="color: #002818; font-weight: bold;">15.73</span> |
 | **2025/08** | **959.8** | <span style="color: #FF7F7F; font-weight: bold;">+198.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+171.8</span> | **2965** | <span style="color: #DC143C; font-weight: bold;">201.37</span> | <span style="color: #002818; font-weight: bold;">14.72</span> |
 | **2025/07** | **845.3** | <span style="color: #FF7F7F; font-weight: bold;">+171.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+167</span> | **2765** | <span style="color: #DC143C; font-weight: bold;">192.02</span> | <span style="color: #004225; font-weight: bold;">14.4</span> |
 | **2025/06** | **858.1** | <span style="color: #FF7F7F; font-weight: bold;">+179</span> | <span style="color: #FF7F7F; font-weight: bold;">+166.1</span> | **2530** | <span style="color: #DC143C; font-weight: bold;">182.67</span> | <span style="color: #004225; font-weight: bold;">13.85</span> |
 | **2025/05** | **711.3** | <span style="color: #FF7F7F; font-weight: bold;">+187.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+162.6</span> | **2420** | <span style="color: #DC143C; font-weight: bold;">173.32</span> | <span style="color: #004225; font-weight: bold;">13.96</span> |
-| **2025/04** | **638** | <span style="color: #FF7F7F; font-weight: bold;">+190.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+156</span> | **1910** | <span style="color: #DC143C; font-weight: bold;">163.97</span> | <span style="color: #006400; font-weight: bold;">11.65</span> |
+| **2025/04** | **638** | <span style="color: #FF7F7F; font-weight: bold;">+190.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+156</span> | **1910** | <span style="color: #B22222; font-weight: bold;">163.97</span> | <span style="color: #006400; font-weight: bold;">11.65</span> |
 | **2025/03** | **866.3** | <span style="color: #FF7F7F; font-weight: bold;">+226.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+145.1</span> | **1635** | <span style="color: #B22222; font-weight: bold;">154.62</span> | <span style="color: #006400; font-weight: bold;">10.57</span> |
 | **2025/02** | **465.2** | <span style="color: #FF7F7F; font-weight: bold;">+91.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+94.9</span> | **1965** | <span style="color: #B22222; font-weight: bold;">145.27</span> | <span style="color: #004225; font-weight: bold;">13.53</span> |
 | **2025/01** | **375.1** | <span style="color: #FF7F7F; font-weight: bold;">+99.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+99.6</span> | **2240** | <span style="color: #B22222; font-weight: bold;">135.92</span> | <span style="color: #002818; font-weight: bold;">16.48</span> |
@@ -115,7 +115,7 @@ description: 月營收表 緯穎 (6669) - 自動產生
 | **2023/03** | **348.1** | <span style="color: #FF6347; font-weight: bold;">+43.4</span> | <span style="color: #FF6347; font-weight: bold;">+46.4</span> | **1125** | <span style="color: #002818; font-weight: bold;">78.02</span> | <span style="color: #004225; font-weight: bold;">14.42</span> |
 | **2023/02** | **229.9** | <span style="color: #FF7F7F; font-weight: bold;">+67.6</span> | <span style="color: #FF6347; font-weight: bold;">+49.2</span> | **969** | <span style="color: #002818; font-weight: bold;">79.04</span> | <span style="color: #006400; font-weight: bold;">12.26</span> |
 | **2023/01** | **164.2** | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | **750** | <span style="color: #002818; font-weight: bold;">80.05</span> | <span style="color: #228B22; font-weight: bold;">9.37</span> |
-| **2022/12** | **305.2** | <span style="color: #FF6347; font-weight: bold;">+41.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+52</span> | **797** | <span style="color: #8B0000; font-weight: bold;">81.07</span> | <span style="color: #228B22; font-weight: bold;">9.83</span> |
+| **2022/12** | **305.2** | <span style="color: #FF6347; font-weight: bold;">+41.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+52</span> | **797** | <span style="color: #002818; font-weight: bold;">81.07</span> | <span style="color: #228B22; font-weight: bold;">9.83</span> |
 | **2022/11** | **334.6** | <span style="color: #FF7F7F; font-weight: bold;">+62.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.4</span> | **880** | <span style="color: #002818; font-weight: bold;">78.44</span> | <span style="color: #006400; font-weight: bold;">11.22</span> |
 | **2022/10** | **234.7** | <span style="color: #FF7F7F; font-weight: bold;">+59.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+52.1</span> | **724** | <span style="color: #002818; font-weight: bold;">75.8</span> | <span style="color: #228B22; font-weight: bold;">9.55</span> |
 | **2022/09** | **314.8** | <span style="color: #FF7F7F; font-weight: bold;">+88</span> | <span style="color: #FF7F7F; font-weight: bold;">+51.3</span> | **808** | <span style="color: #002818; font-weight: bold;">73.17</span> | <span style="color: #006400; font-weight: bold;">11.04</span> |
@@ -123,7 +123,7 @@ description: 月營收表 緯穎 (6669) - 自動產生
 | **2022/07** | **218.2** | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | <span style="color: #FF6347; font-weight: bold;">+41</span> | **736** | <span style="color: #002818; font-weight: bold;">67.9</span> | <span style="color: #006400; font-weight: bold;">10.84</span> |
 | **2022/06** | **349** | <span style="color: #FF7F7F; font-weight: bold;">+92.1</span> | <span style="color: #FF4500; font-weight: bold;">+39</span> | **697** | <span style="color: #004225; font-weight: bold;">65.26</span> | <span style="color: #006400; font-weight: bold;">10.68</span> |
 | **2022/05** | **202.4** | <span style="color: #DC143C; font-weight: bold;">+23.3</span> | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | **923** | <span style="color: #004225; font-weight: bold;">62.63</span> | <span style="color: #002818; font-weight: bold;">14.74</span> |
-| **2022/04** | **199.1** | <span style="color: #B22222; font-weight: bold;">+19.8</span> | <span style="color: #DC143C; font-weight: bold;">+26.3</span> | **1020** | <span style="color: #004225; font-weight: bold;">60.0</span> | <span style="color: #002818; font-weight: bold;">17.0</span> |
+| **2022/04** | **199.1** | <span style="color: #B22222; font-weight: bold;">+19.8</span> | <span style="color: #DC143C; font-weight: bold;">+26.3</span> | **1020** | <span style="color: #004225; font-weight: bold;">60.0</span> | <span style="color: #8B0000; font-weight: bold;">17.0</span> |
 | **2022/03** | **242.8** | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | <span style="color: #DC143C; font-weight: bold;">+29.1</span> | **1020** | <span style="color: #004225; font-weight: bold;">57.36</span> | <span style="color: #8B0000; font-weight: bold;">17.78</span> |
 | **2022/02** | **137.2** | <span style="color: #B22222; font-weight: bold;">+18</span> | <span style="color: #B22222; font-weight: bold;">+10.3</span> | **987** | <span style="color: #004225; font-weight: bold;">54.73</span> | <span style="color: #8B0000; font-weight: bold;">18.03</span> |
 | **2022/01** | **127** | <span style="color: #8B0000; font-weight: bold;">+3.08</span> | <span style="color: #8B0000; font-weight: bold;">+3.08</span> | **996** | <span style="color: #004225; font-weight: bold;">52.09</span> | <span style="color: #8B0000; font-weight: bold;">19.12</span> |
@@ -273,7 +273,7 @@ description: 月營收表 緯穎 (6669) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

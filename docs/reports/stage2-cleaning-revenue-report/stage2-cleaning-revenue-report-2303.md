@@ -25,7 +25,7 @@ description: 月營收表 聯電 (2303) - 自動產生
     **:building_construction: 公司名稱**: 聯電  
     **:identification_card: 股票代號**: 2303  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 聯電 (2303) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.55** | **1.80** | **4.50** |
-| **P/E倍數** | **10.93** | **15.71** | **32.66** |
+| **EPS(元)** | **0.55** | **1.81** | **4.50** |
+| **P/E倍數** | **10.99** | **15.76** | **32.90** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 聯電 歷史平均獲利能力 (σup=2.70, σlo=1.26)
-    - **P/Ebase**: 聯電 歷史平均估值水準 (σup=16.95, σlo=4.78)
+    - **P/Ebase**: 聯電 歷史平均估值水準 (σup=17.14, σlo=4.76)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -132,7 +132,7 @@ description: 月營收表 聯電 (2303) - 自動產生
 | **2021/10** | **191.6** | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | <span style="color: #B22222; font-weight: bold;">+17.9</span> | **58** | <span style="color: #B22222; font-weight: bold;">4.21</span> | <span style="color: #002818; font-weight: bold;">13.77</span> |
 | **2021/09** | **187.5** | <span style="color: #DC143C; font-weight: bold;">+29</span> | <span style="color: #B22222; font-weight: bold;">+17</span> | **64** | <span style="color: #B22222; font-weight: bold;">4.03</span> | <span style="color: #8B0000; font-weight: bold;">15.87</span> |
 | **2021/08** | **187.9** | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | <span style="color: #B22222; font-weight: bold;">+15.5</span> | **63.1** | <span style="color: #B22222; font-weight: bold;">3.85</span> | <span style="color: #8B0000; font-weight: bold;">16.38</span> |
-| **2021/07** | **183.7** | <span style="color: #B22222; font-weight: bold;">+18.5</span> | <span style="color: #B22222; font-weight: bold;">+13.9</span> | **57.8** | <span style="color: #B22222; font-weight: bold;">3.67</span> | <span style="color: #8B0000; font-weight: bold;">15.73</span> |
+| **2021/07** | **183.7** | <span style="color: #B22222; font-weight: bold;">+18.5</span> | <span style="color: #B22222; font-weight: bold;">+13.9</span> | **57.8** | <span style="color: #B22222; font-weight: bold;">3.67</span> | <span style="color: #002818; font-weight: bold;">15.73</span> |
 | **2021/06** | **173.4** | <span style="color: #B22222; font-weight: bold;">+18.9</span> | <span style="color: #B22222; font-weight: bold;">+13.1</span> | **53.1** | <span style="color: #B22222; font-weight: bold;">3.5</span> | <span style="color: #002818; font-weight: bold;">15.19</span> |
 | **2021/05** | **171.9** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **53** | <span style="color: #B22222; font-weight: bold;">3.32</span> | <span style="color: #8B0000; font-weight: bold;">15.98</span> |
 | **2021/04** | **163.8** | <span style="color: #8B0000; font-weight: bold;">+8.78</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **56.7** | <span style="color: #8B0000; font-weight: bold;">3.14</span> | <span style="color: #8B0000; font-weight: bold;">18.08</span> |
@@ -189,12 +189,12 @@ description: 月營收表 聯電 (2303) - 自動產生
 | **2017/01** | **126.5** | <span style="color: #8B0000; font-weight: bold;">+5.37</span> | <span style="color: #8B0000; font-weight: bold;">+5.37</span> | **11.35** | <span style="color: #004225; font-weight: bold;">0.69</span> | <span style="color: #8B0000; font-weight: bold;">16.47</span> |
 | **2016/12** | **125.6** | <span style="color: #B22222; font-weight: bold;">+17.6</span> | <span style="color: #8B0000; font-weight: bold;">+2.09</span> | **11.4** | <span style="color: #004225; font-weight: bold;">0.68</span> | <span style="color: #8B0000; font-weight: bold;">16.76</span> |
 | **2016/11** | **129.1** | <span style="color: #B22222; font-weight: bold;">+16.2</span> | <span style="color: #8B0000; font-weight: bold;">+0.86</span> | **11.25** | <span style="color: #004225; font-weight: bold;">0.71</span> | <span style="color: #8B0000; font-weight: bold;">15.77</span> |
-| **2016/10** | **128.3** | <span style="color: #8B0000; font-weight: bold;">+6.42</span> | <span style="color: #002818; font-weight: bold;">-0.52</span> | **11.75** | <span style="color: #004225; font-weight: bold;">0.75</span> | <span style="color: #8B0000; font-weight: bold;">15.74</span> |
+| **2016/10** | **128.3** | <span style="color: #8B0000; font-weight: bold;">+6.42</span> | <span style="color: #002818; font-weight: bold;">-0.52</span> | **11.75** | <span style="color: #004225; font-weight: bold;">0.75</span> | <span style="color: #002818; font-weight: bold;">15.74</span> |
 | **2016/09** | **127.4** | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | <span style="color: #002818; font-weight: bold;">-1.27</span> | **11.55** | <span style="color: #004225; font-weight: bold;">0.78</span> | <span style="color: #002818; font-weight: bold;">14.81</span> |
 | **2016/08** | **129.3** | <span style="color: #8B0000; font-weight: bold;">+6.08</span> | <span style="color: #002818; font-weight: bold;">-3.7</span> | **11.5** | <span style="color: #004225; font-weight: bold;">0.81</span> | <span style="color: #002818; font-weight: bold;">14.14</span> |
 | **2016/07** | **125** | <span style="color: #002818; font-weight: bold;">-1.64</span> | <span style="color: #002818; font-weight: bold;">-5.05</span> | **11.9** | <span style="color: #004225; font-weight: bold;">0.85</span> | <span style="color: #002818; font-weight: bold;">14.06</span> |
 | **2016/06** | **135.3** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #002818; font-weight: bold;">-5.63</span> | **12.6** | <span style="color: #004225; font-weight: bold;">0.88</span> | <span style="color: #002818; font-weight: bold;">14.32</span> |
-| **2016/05** | **127.1** | <span style="color: #002818; font-weight: bold;">-1.74</span> | <span style="color: #002818; font-weight: bold;">-9</span> | **12.2** | <span style="color: #004225; font-weight: bold;">0.91</span> | <span style="color: #002818; font-weight: bold;">13.36</span> |
+| **2016/05** | **127.1** | <span style="color: #002818; font-weight: bold;">-1.74</span> | <span style="color: #002818; font-weight: bold;">-9</span> | **12.2** | <span style="color: #004225; font-weight: bold;">0.91</span> | <span style="color: #004225; font-weight: bold;">13.36</span> |
 | **2016/04** | **107.6** | <span style="color: #004225; font-weight: bold;">-17.3</span> | <span style="color: #004225; font-weight: bold;">-10.8</span> | **12** | <span style="color: #004225; font-weight: bold;">0.95</span> | <span style="color: #004225; font-weight: bold;">12.68</span> |
 | **2016/03** | **129.2** | <span style="color: #8B0000; font-weight: bold;">+1.64</span> | <span style="color: #002818; font-weight: bold;">-8.62</span> | **13.3** | <span style="color: #004225; font-weight: bold;">0.98</span> | <span style="color: #002818; font-weight: bold;">13.57</span> |
 | **2016/02** | **94.78** | <span style="color: #006400; font-weight: bold;">-21.4</span> | <span style="color: #004225; font-weight: bold;">-13.8</span> | **13.35** | <span style="color: #004225; font-weight: bold;">1.01</span> | <span style="color: #004225; font-weight: bold;">13.17</span> |
@@ -210,7 +210,7 @@ description: 月營收表 聯電 (2303) - 自動產生
 | **2015/04** | **130.2** | <span style="color: #B22222; font-weight: bold;">+12.9</span> | <span style="color: #B22222; font-weight: bold;">+17.2</span> | **14.6** | <span style="color: #004225; font-weight: bold;">1.01</span> | <span style="color: #002818; font-weight: bold;">14.5</span> |
 | **2015/03** | **127.1** | <span style="color: #B22222; font-weight: bold;">+12.6</span> | <span style="color: #B22222; font-weight: bold;">+18.8</span> | **15.5** | <span style="color: #004225; font-weight: bold;">1.0</span> | <span style="color: #002818; font-weight: bold;">15.54</span> |
 | **2015/02** | **120.6** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **16** | <span style="color: #004225; font-weight: bold;">0.99</span> | <span style="color: #8B0000; font-weight: bold;">16.19</span> |
-| **2015/01** | **128.8** | <span style="color: #DC143C; font-weight: bold;">+28</span> | <span style="color: #DC143C; font-weight: bold;">+28</span> | **15.4** | <span style="color: #004225; font-weight: bold;">0.98</span> | <span style="color: #8B0000; font-weight: bold;">15.73</span> |
+| **2015/01** | **128.8** | <span style="color: #DC143C; font-weight: bold;">+28</span> | <span style="color: #DC143C; font-weight: bold;">+28</span> | **15.4** | <span style="color: #004225; font-weight: bold;">0.98</span> | <span style="color: #002818; font-weight: bold;">15.73</span> |
 | **2014/12** | **122** | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | <span style="color: #B22222; font-weight: bold;">+13.1</span> | **14.75** | <span style="color: #004225; font-weight: bold;">0.97</span> | <span style="color: #002818; font-weight: bold;">15.21</span> |
 | **2014/11** | **115.4** | <span style="color: #B22222; font-weight: bold;">+11.5</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **13.75** | <span style="color: #004225; font-weight: bold;">0.97</span> | <span style="color: #002818; font-weight: bold;">14.13</span> |
 | **2014/10** | **135** | <span style="color: #DC143C; font-weight: bold;">+28.9</span> | <span style="color: #B22222; font-weight: bold;">+12.3</span> | **13.4** | <span style="color: #004225; font-weight: bold;">0.98</span> | <span style="color: #002818; font-weight: bold;">13.72</span> |
@@ -318,7 +318,7 @@ description: 月營收表 聯電 (2303) - 自動產生
 | **2006/04** | **-** | N/A | N/A | **22.2** | <span style="color: #8B0000; font-weight: bold;">1.81</span> | <span style="color: #004225; font-weight: bold;">12.27</span> |
 | **2006/03** | **-** | N/A | N/A | **20.5** | <span style="color: #8B0000; font-weight: bold;">1.81</span> | <span style="color: #004225; font-weight: bold;">11.33</span> |
 | **2006/02** | **-** | N/A | N/A | **19.15** | <span style="color: #8B0000; font-weight: bold;">1.81</span> | <span style="color: #006400; font-weight: bold;">10.58</span> |
-| **2006/01** | **-** | N/A | N/A | **18.15** | <span style="color: #8B0000; font-weight: bold;">1.81</span> | <span style="color: #006400; font-weight: bold;">10.03</span> |
+| **2006/01** | **-** | N/A | N/A | **18.15** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 聯電 (2303) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

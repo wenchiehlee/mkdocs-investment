@@ -25,7 +25,7 @@ description: 月營收表 全景軟體 (8272) - 自動產生
     **:building_construction: 公司名稱**: 全景軟體  
     **:identification_card: 股票代號**: 8272  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **4.10** | **4.28** | **4.47** |
-| **P/E倍數** | **18.78** | **21.44** | **27.35** |
+| **EPS(元)** | **4.11** | **4.30** | **4.49** |
+| **P/E倍數** | **18.54** | **21.17** | **27.30** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 全景軟體 歷史平均獲利能力 (σup=0.20, σlo=0.17)
-    - **P/Ebase**: 全景軟體 歷史平均估值水準 (σup=5.91, σlo=2.67)
+    - **EPSbase**: 全景軟體 歷史平均獲利能力 (σup=0.20, σlo=0.19)
+    - **P/Ebase**: 全景軟體 歷史平均估值水準 (σup=6.13, σlo=2.63)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,12 +79,12 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2025/12** | **0.759** | <span style="color: #8B0000; font-weight: bold;">+5.98</span> | <span style="color: #B22222; font-weight: bold;">+15.8</span> | **79.4** | <span style="color: #FF4500; font-weight: bold;">4.59</span> | <span style="color: #228B22; font-weight: bold;">17.3</span> |
+| **2025/12** | **0.759** | <span style="color: #8B0000; font-weight: bold;">+5.98</span> | <span style="color: #B22222; font-weight: bold;">+15.8</span> | **79.4** | <span style="color: #DC143C; font-weight: bold;">4.59</span> | <span style="color: #006400; font-weight: bold;">17.3</span> |
 | **2025/11** | **0.503** | <span style="color: #8B0000; font-weight: bold;">+2.74</span> | <span style="color: #B22222; font-weight: bold;">+17.9</span> | **82.3** | <span style="color: #DC143C; font-weight: bold;">4.54</span> | <span style="color: #006400; font-weight: bold;">18.11</span> |
 | **2025/10** | **0.35** | <span style="color: #8B0000; font-weight: bold;">+0.12</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **89.1** | <span style="color: #DC143C; font-weight: bold;">4.5</span> | <span style="color: #004225; font-weight: bold;">19.81</span> |
 | **2025/09** | **0.503** | <span style="color: #DC143C; font-weight: bold;">+29.5</span> | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | **92.3** | <span style="color: #B22222; font-weight: bold;">4.45</span> | <span style="color: #002818; font-weight: bold;">20.73</span> |
 | **2025/08** | **0.371** | <span style="color: #B22222; font-weight: bold;">+13.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.1</span> | **93** | <span style="color: #B22222; font-weight: bold;">4.41</span> | <span style="color: #002818; font-weight: bold;">21.1</span> |
-| **2025/07** | **0.315** | <span style="color: #FF4500; font-weight: bold;">+36.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | **81.2** | <span style="color: #8B0000; font-weight: bold;">4.36</span> | <span style="color: #006400; font-weight: bold;">18.62</span> |
+| **2025/07** | **0.315** | <span style="color: #FF4500; font-weight: bold;">+36.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | **81.2** | <span style="color: #8B0000; font-weight: bold;">4.36</span> | <span style="color: #004225; font-weight: bold;">18.62</span> |
 | **2025/06** | **0.593** | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | <span style="color: #DC143C; font-weight: bold;">+21.8</span> | **78.3** | <span style="color: #8B0000; font-weight: bold;">4.31</span> | <span style="color: #006400; font-weight: bold;">18.15</span> |
 | **2025/05** | **0.352** | <span style="color: #FF7F7F; font-weight: bold;">+56.7</span> | <span style="color: #B22222; font-weight: bold;">+17.3</span> | **74.8** | <span style="color: #002818; font-weight: bold;">4.27</span> | <span style="color: #006400; font-weight: bold;">17.52</span> |
 | **2025/04** | **0.268** | <span style="color: #002818; font-weight: bold;">-5.2</span> | <span style="color: #8B0000; font-weight: bold;">+8.04</span> | **82.4** | <span style="color: #002818; font-weight: bold;">4.22</span> | <span style="color: #004225; font-weight: bold;">19.51</span> |
@@ -231,7 +231,7 @@ description: 月營收表 全景軟體 (8272) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

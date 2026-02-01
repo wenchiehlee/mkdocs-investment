@@ -25,7 +25,7 @@ description: 月營收表 健喬 (4114) - 自動產生
     **:building_construction: 公司名稱**: 健喬  
     **:identification_card: 股票代號**: 4114  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 健喬 (4114) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **0.19** | **0.86** | **1.68** |
-| **P/E倍數** | **31.95** | **90.95** | **980.78** |
+| **P/E倍數** | **31.85** | **90.87** | **980.73** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 健喬 歷史平均獲利能力 (σup=0.82, σlo=0.66)
-    - **P/Ebase**: 健喬 歷史平均估值水準 (σup=889.83, σlo=59.00)
+    - **EPSbase**: 健喬 歷史平均獲利能力 (σup=0.82, σlo=0.67)
+    - **P/Ebase**: 健喬 歷史平均估值水準 (σup=889.86, σlo=59.02)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -104,7 +104,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 | **2024/02** | **2.88** | <span style="color: #004225; font-weight: bold;">-17.1</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **39** | <span style="color: #B22222; font-weight: bold;">1.61</span> | <span style="color: #006400; font-weight: bold;">24.17</span> |
 | **2024/01** | **5.81** | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | **37.55** | <span style="color: #B22222; font-weight: bold;">1.61</span> | <span style="color: #006400; font-weight: bold;">23.3</span> |
 | **2023/12** | **4.34** | <span style="color: #002818; font-weight: bold;">-6.25</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **38.65** | <span style="color: #B22222; font-weight: bold;">1.61</span> | <span style="color: #006400; font-weight: bold;">24.01</span> |
-| **2023/11** | **4.44** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #B22222; font-weight: bold;">+19.1</span> | **40.2** | <span style="color: #DC143C; font-weight: bold;">1.68</span> | <span style="color: #006400; font-weight: bold;">23.92</span> |
+| **2023/11** | **4.44** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #B22222; font-weight: bold;">+19.1</span> | **40.2** | <span style="color: #B22222; font-weight: bold;">1.68</span> | <span style="color: #006400; font-weight: bold;">23.92</span> |
 | **2023/10** | **4.52** | <span style="color: #B22222; font-weight: bold;">+12.8</span> | <span style="color: #DC143C; font-weight: bold;">+20.1</span> | **37.55** | <span style="color: #DC143C; font-weight: bold;">1.75</span> | <span style="color: #006400; font-weight: bold;">21.44</span> |
 | **2023/09** | **3.88** | <span style="color: #8B0000; font-weight: bold;">+2.61</span> | <span style="color: #DC143C; font-weight: bold;">+21</span> | **37.95** | <span style="color: #DC143C; font-weight: bold;">1.82</span> | <span style="color: #006400; font-weight: bold;">20.82</span> |
 | **2023/08** | **4.2** | <span style="color: #B22222; font-weight: bold;">+12.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | **36.65** | <span style="color: #DC143C; font-weight: bold;">1.89</span> | <span style="color: #006400; font-weight: bold;">19.36</span> |
@@ -228,7 +228,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 | **2013/10** | **1.16** | <span style="color: #8B0000; font-weight: bold;">+7.88</span> | <span style="color: #B22222; font-weight: bold;">+17.4</span> | **43.4** | <span style="color: #002818; font-weight: bold;">0.73</span> | <span style="color: #004225; font-weight: bold;">59.25</span> |
 | **2013/09** | **0.992** | <span style="color: #8B0000; font-weight: bold;">+5.97</span> | <span style="color: #B22222; font-weight: bold;">+18.8</span> | **43.05** | <span style="color: #002818; font-weight: bold;">0.77</span> | <span style="color: #004225; font-weight: bold;">55.64</span> |
 | **2013/08** | **1.02** | <span style="color: #FF4500; font-weight: bold;">+38.6</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **40.35** | <span style="color: #002818; font-weight: bold;">0.81</span> | <span style="color: #004225; font-weight: bold;">49.51</span> |
-| **2013/07** | **1.02** | <span style="color: #002818; font-weight: bold;">-2.03</span> | <span style="color: #B22222; font-weight: bold;">+18.3</span> | **40.3** | <span style="color: #8B0000; font-weight: bold;">0.86</span> | <span style="color: #004225; font-weight: bold;">47.07</span> |
+| **2013/07** | **1.02** | <span style="color: #002818; font-weight: bold;">-2.03</span> | <span style="color: #B22222; font-weight: bold;">+18.3</span> | **40.3** | <span style="color: #002818; font-weight: bold;">0.86</span> | <span style="color: #004225; font-weight: bold;">47.07</span> |
 | **2013/06** | **1.08** | <span style="color: #FF4500; font-weight: bold;">+30</span> | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | **34.8** | <span style="color: #8B0000; font-weight: bold;">0.9</span> | <span style="color: #004225; font-weight: bold;">38.78</span> |
 | **2013/05** | **1.05** | <span style="color: #DC143C; font-weight: bold;">+24.9</span> | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | **35** | <span style="color: #8B0000; font-weight: bold;">0.94</span> | <span style="color: #004225; font-weight: bold;">37.29</span> |
 | **2013/04** | **1.02** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | **34.6** | <span style="color: #8B0000; font-weight: bold;">0.98</span> | <span style="color: #004225; font-weight: bold;">35.31</span> |
@@ -318,7 +318,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 | **2006/04** | **-** | N/A | N/A | **13.5** | <span style="color: #004225; font-weight: bold;">0.38</span> | <span style="color: #004225; font-weight: bold;">35.53</span> |
 | **2006/03** | **-** | N/A | N/A | **13.7** | <span style="color: #004225; font-weight: bold;">0.38</span> | <span style="color: #004225; font-weight: bold;">36.05</span> |
 | **2006/02** | **-** | N/A | N/A | **14.6** | <span style="color: #004225; font-weight: bold;">0.38</span> | <span style="color: #004225; font-weight: bold;">38.42</span> |
-| **2006/01** | **-** | N/A | N/A | **14.15** | <span style="color: #004225; font-weight: bold;">0.38</span> | <span style="color: #004225; font-weight: bold;">37.24</span> |
+| **2006/01** | **-** | N/A | N/A | **14.15** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 健喬 (4114) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

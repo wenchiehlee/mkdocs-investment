@@ -25,7 +25,7 @@ description: 月營收表 義隆 (2458) - 自動產生
     **:building_construction: 公司名稱**: 義隆  
     **:identification_card: 股票代號**: 2458  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 義隆 (2458) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.85** | **4.73** | **10.61** |
-| **P/E倍數** | **14.27** | **21.20** | **38.33** |
+| **EPS(元)** | **1.86** | **4.76** | **10.59** |
+| **P/E倍數** | **14.23** | **21.19** | **38.22** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 義隆 歷史平均獲利能力 (σup=5.87, σlo=2.88)
-    - **P/Ebase**: 義隆 歷史平均估值水準 (σup=17.13, σlo=6.93)
+    - **EPSbase**: 義隆 歷史平均獲利能力 (σup=5.83, σlo=2.90)
+    - **P/Ebase**: 義隆 歷史平均估值水準 (σup=17.03, σlo=6.95)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -106,7 +106,7 @@ description: 月營收表 義隆 (2458) - 自動產生
 | **2023/12** | **9.57** | <span style="color: #FF7F7F; font-weight: bold;">+61.5</span> | <span style="color: #002818; font-weight: bold;">-7.45</span> | **162.5** | <span style="color: #8B0000; font-weight: bold;">7.53</span> | <span style="color: #8B0000; font-weight: bold;">21.58</span> |
 | **2023/11** | **10.77** | <span style="color: #FF7F7F; font-weight: bold;">+58.4</span> | <span style="color: #004225; font-weight: bold;">-10.7</span> | **151.5** | <span style="color: #8B0000; font-weight: bold;">7.53</span> | <span style="color: #002818; font-weight: bold;">20.11</span> |
 | **2023/10** | **10.76** | <span style="color: #FF7F7F; font-weight: bold;">+55.6</span> | <span style="color: #004225; font-weight: bold;">-14.7</span> | **144** | <span style="color: #8B0000; font-weight: bold;">7.54</span> | <span style="color: #002818; font-weight: bold;">19.11</span> |
-| **2023/09** | **12.07** | <span style="color: #FF4500; font-weight: bold;">+34.3</span> | <span style="color: #004225; font-weight: bold;">-19.1</span> | **133.5** | <span style="color: #8B0000; font-weight: bold;">7.54</span> | <span style="color: #004225; font-weight: bold;">17.71</span> |
+| **2023/09** | **12.07** | <span style="color: #FF4500; font-weight: bold;">+34.3</span> | <span style="color: #004225; font-weight: bold;">-19.1</span> | **133.5** | <span style="color: #8B0000; font-weight: bold;">7.54</span> | <span style="color: #002818; font-weight: bold;">17.71</span> |
 | **2023/08** | **11.92** | <span style="color: #FF6347; font-weight: bold;">+41.3</span> | <span style="color: #006400; font-weight: bold;">-23.9</span> | **120** | <span style="color: #8B0000; font-weight: bold;">7.54</span> | <span style="color: #004225; font-weight: bold;">15.92</span> |
 | **2023/07** | **11.03** | <span style="color: #8B0000; font-weight: bold;">+2.44</span> | <span style="color: #006400; font-weight: bold;">-29.8</span> | **116.5** | <span style="color: #8B0000; font-weight: bold;">7.54</span> | <span style="color: #004225; font-weight: bold;">15.45</span> |
 | **2023/06** | **9.94** | <span style="color: #228B22; font-weight: bold;">-31.3</span> | <span style="color: #228B22; font-weight: bold;">-34</span> | **101.5** | <span style="color: #8B0000; font-weight: bold;">7.54</span> | <span style="color: #006400; font-weight: bold;">13.45</span> |
@@ -180,7 +180,7 @@ description: 月營收表 義隆 (2458) - 自動產生
 | **2017/10** | **6.48** | <span style="color: #B22222; font-weight: bold;">+18.1</span> | <span style="color: #B22222; font-weight: bold;">+14.7</span> | **46.25** | <span style="color: #004225; font-weight: bold;">2.41</span> | <span style="color: #002818; font-weight: bold;">19.18</span> |
 | **2017/09** | **7.5** | <span style="color: #B22222; font-weight: bold;">+12.6</span> | <span style="color: #B22222; font-weight: bold;">+14.3</span> | **42.3** | <span style="color: #004225; font-weight: bold;">2.33</span> | <span style="color: #002818; font-weight: bold;">18.17</span> |
 | **2017/08** | **7.4** | <span style="color: #8B0000; font-weight: bold;">+6.96</span> | <span style="color: #B22222; font-weight: bold;">+14.6</span> | **43.15** | <span style="color: #004225; font-weight: bold;">2.24</span> | <span style="color: #002818; font-weight: bold;">19.23</span> |
-| **2017/07** | **6.69** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #B22222; font-weight: bold;">+16.1</span> | **45.75** | <span style="color: #004225; font-weight: bold;">2.16</span> | <span style="color: #002818; font-weight: bold;">21.19</span> |
+| **2017/07** | **6.69** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #B22222; font-weight: bold;">+16.1</span> | **45.75** | <span style="color: #004225; font-weight: bold;">2.16</span> | <span style="color: #8B0000; font-weight: bold;">21.19</span> |
 | **2017/06** | **6.57** | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | <span style="color: #B22222; font-weight: bold;">+17.1</span> | **42.3** | <span style="color: #004225; font-weight: bold;">2.08</span> | <span style="color: #002818; font-weight: bold;">20.39</span> |
 | **2017/05** | **6.07** | <span style="color: #B22222; font-weight: bold;">+17.3</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **43.5** | <span style="color: #004225; font-weight: bold;">1.99</span> | <span style="color: #8B0000; font-weight: bold;">21.85</span> |
 | **2017/04** | **6.03** | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | <span style="color: #B22222; font-weight: bold;">+15.9</span> | **42.75** | <span style="color: #004225; font-weight: bold;">1.91</span> | <span style="color: #8B0000; font-weight: bold;">22.42</span> |
@@ -202,7 +202,7 @@ description: 月營收表 義隆 (2458) - 自動產生
 | **2015/12** | **5.05** | <span style="color: #006400; font-weight: bold;">-21.6</span> | <span style="color: #004225; font-weight: bold;">-14.1</span> | **45.8** | <span style="color: #004225; font-weight: bold;">1.98</span> | <span style="color: #8B0000; font-weight: bold;">23.13</span> |
 | **2015/11** | **5.99** | <span style="color: #8B0000; font-weight: bold;">+2.21</span> | <span style="color: #004225; font-weight: bold;">-13.4</span> | **36.7** | <span style="color: #004225; font-weight: bold;">2.12</span> | <span style="color: #004225; font-weight: bold;">17.35</span> |
 | **2015/10** | **6.15** | <span style="color: #002818; font-weight: bold;">-3.21</span> | <span style="color: #004225; font-weight: bold;">-14.8</span> | **36** | <span style="color: #004225; font-weight: bold;">2.25</span> | <span style="color: #004225; font-weight: bold;">15.99</span> |
-| **2015/09** | **6.32** | <span style="color: #002818; font-weight: bold;">-5.63</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **34** | <span style="color: #004225; font-weight: bold;">2.39</span> | <span style="color: #006400; font-weight: bold;">14.24</span> |
+| **2015/09** | **6.32** | <span style="color: #002818; font-weight: bold;">-5.63</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **34** | <span style="color: #004225; font-weight: bold;">2.39</span> | <span style="color: #004225; font-weight: bold;">14.24</span> |
 | **2015/08** | **5.33** | <span style="color: #006400; font-weight: bold;">-20.3</span> | <span style="color: #004225; font-weight: bold;">-17.4</span> | **32.55** | <span style="color: #004225; font-weight: bold;">2.52</span> | <span style="color: #006400; font-weight: bold;">12.9</span> |
 | **2015/07** | **5.18** | <span style="color: #006400; font-weight: bold;">-21.9</span> | <span style="color: #004225; font-weight: bold;">-17</span> | **32.9** | <span style="color: #004225; font-weight: bold;">2.66</span> | <span style="color: #006400; font-weight: bold;">12.37</span> |
 | **2015/06** | **4.9** | <span style="color: #006400; font-weight: bold;">-23.9</span> | <span style="color: #004225; font-weight: bold;">-16.1</span> | **43** | <span style="color: #004225; font-weight: bold;">2.8</span> | <span style="color: #004225; font-weight: bold;">15.38</span> |
@@ -230,7 +230,7 @@ description: 月營收表 義隆 (2458) - 自動產生
 | **2013/08** | **6.26** | <span style="color: #002818; font-weight: bold;">-0.23</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **50.6** | <span style="color: #002818; font-weight: bold;">3.52</span> | <span style="color: #004225; font-weight: bold;">14.38</span> |
 | **2013/07** | **6.21** | <span style="color: #002818; font-weight: bold;">-9.76</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **56.3** | <span style="color: #002818; font-weight: bold;">3.45</span> | <span style="color: #004225; font-weight: bold;">16.33</span> |
 | **2013/06** | **7.37** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **67.5** | <span style="color: #002818; font-weight: bold;">3.38</span> | <span style="color: #002818; font-weight: bold;">19.98</span> |
-| **2013/05** | **7.29** | <span style="color: #8B0000; font-weight: bold;">+9.32</span> | <span style="color: #B22222; font-weight: bold;">+18.9</span> | **77** | <span style="color: #002818; font-weight: bold;">3.31</span> | <span style="color: #8B0000; font-weight: bold;">23.28</span> |
+| **2013/05** | **7.29** | <span style="color: #8B0000; font-weight: bold;">+9.32</span> | <span style="color: #B22222; font-weight: bold;">+18.9</span> | **77** | <span style="color: #004225; font-weight: bold;">3.31</span> | <span style="color: #8B0000; font-weight: bold;">23.28</span> |
 | **2013/04** | **6.95** | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #DC143C; font-weight: bold;">+22</span> | **78.5** | <span style="color: #004225; font-weight: bold;">3.24</span> | <span style="color: #8B0000; font-weight: bold;">24.25</span> |
 | **2013/03** | **6.5** | <span style="color: #DC143C; font-weight: bold;">+20.1</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **66.9** | <span style="color: #004225; font-weight: bold;">3.17</span> | <span style="color: #002818; font-weight: bold;">21.12</span> |
 | **2013/02** | **5.29** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **62.5** | <span style="color: #004225; font-weight: bold;">3.1</span> | <span style="color: #002818; font-weight: bold;">20.18</span> |
@@ -318,7 +318,7 @@ description: 月營收表 義隆 (2458) - 自動產生
 | **2006/04** | **-** | N/A | N/A | **19.7** | <span style="color: #006400; font-weight: bold;">0.85</span> | <span style="color: #8B0000; font-weight: bold;">23.18</span> |
 | **2006/03** | **-** | N/A | N/A | **16.65** | <span style="color: #006400; font-weight: bold;">0.85</span> | <span style="color: #002818; font-weight: bold;">19.59</span> |
 | **2006/02** | **-** | N/A | N/A | **15.15** | <span style="color: #006400; font-weight: bold;">0.85</span> | <span style="color: #002818; font-weight: bold;">17.82</span> |
-| **2006/01** | **-** | N/A | N/A | **15.65** | <span style="color: #006400; font-weight: bold;">0.85</span> | <span style="color: #002818; font-weight: bold;">18.41</span> |
+| **2006/01** | **-** | N/A | N/A | **15.65** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 義隆 (2458) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

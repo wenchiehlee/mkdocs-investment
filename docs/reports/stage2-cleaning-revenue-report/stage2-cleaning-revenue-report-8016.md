@@ -25,7 +25,7 @@ description: 月營收表 矽創 (8016) - 自動產生
     **:building_construction: 公司名稱**: 矽創  
     **:identification_card: 股票代號**: 8016  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 矽創 (8016) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **5.53** | **10.85** | **27.81** |
-| **P/E倍數** | **9.51** | **12.92** | **15.41** |
+| **EPS(元)** | **5.52** | **10.87** | **27.70** |
+| **P/E倍數** | **9.53** | **12.92** | **15.42** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 矽創 歷史平均獲利能力 (σup=16.97, σlo=5.32)
-    - **P/Ebase**: 矽創 歷史平均估值水準 (σup=2.49, σlo=3.41)
+    - **EPSbase**: 矽創 歷史平均獲利能力 (σup=16.83, σlo=5.35)
+    - **P/Ebase**: 矽創 歷史平均估值水準 (σup=2.50, σlo=3.39)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -129,7 +129,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **2022/01** | **18.84** | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | **282.5** | <span style="color: #FF6347; font-weight: bold;">48.37</span> | <span style="color: #32CD32; font-weight: bold;">5.84</span> |
 | **2021/12** | **19.51** | <span style="color: #FF4500; font-weight: bold;">+32.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+61.2</span> | **320** | <span style="color: #FF6347; font-weight: bold;">50.03</span> | <span style="color: #228B22; font-weight: bold;">6.4</span> |
 | **2021/11** | **20.09** | <span style="color: #FF7F7F; font-weight: bold;">+50</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.6</span> | **280.5** | <span style="color: #FF6347; font-weight: bold;">46.82</span> | <span style="color: #32CD32; font-weight: bold;">5.99</span> |
-| **2021/10** | **21.32** | <span style="color: #FF7F7F; font-weight: bold;">+61.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+66.4</span> | **266.5** | <span style="color: #FF4500; font-weight: bold;">43.61</span> | <span style="color: #228B22; font-weight: bold;">6.11</span> |
+| **2021/10** | **21.32** | <span style="color: #FF7F7F; font-weight: bold;">+61.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+66.4</span> | **266.5** | <span style="color: #FF4500; font-weight: bold;">43.61</span> | <span style="color: #32CD32; font-weight: bold;">6.11</span> |
 | **2021/09** | **21.53** | <span style="color: #FF7F7F; font-weight: bold;">+66.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+67.1</span> | **244** | <span style="color: #FF4500; font-weight: bold;">40.4</span> | <span style="color: #32CD32; font-weight: bold;">6.04</span> |
 | **2021/08** | **22.07** | <span style="color: #FF7F7F; font-weight: bold;">+65.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+67.2</span> | **295** | <span style="color: #FF4500; font-weight: bold;">37.2</span> | <span style="color: #006400; font-weight: bold;">7.93</span> |
 | **2021/07** | **22.26** | <span style="color: #FF7F7F; font-weight: bold;">+76.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+67.6</span> | **384** | <span style="color: #DC143C; font-weight: bold;">33.99</span> | <span style="color: #002818; font-weight: bold;">11.3</span> |
@@ -220,7 +220,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **2014/06** | **5.75** | <span style="color: #FF4500; font-weight: bold;">+31.8</span> | <span style="color: #B22222; font-weight: bold;">+17.8</span> | **62.8** | <span style="color: #006400; font-weight: bold;">4.82</span> | <span style="color: #8B0000; font-weight: bold;">13.02</span> |
 | **2014/05** | **6.11** | <span style="color: #DC143C; font-weight: bold;">+29.7</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **59** | <span style="color: #006400; font-weight: bold;">4.63</span> | <span style="color: #002818; font-weight: bold;">12.75</span> |
 | **2014/04** | **6.13** | <span style="color: #B22222; font-weight: bold;">+19</span> | <span style="color: #B22222; font-weight: bold;">+11.6</span> | **59.8** | <span style="color: #006400; font-weight: bold;">4.43</span> | <span style="color: #8B0000; font-weight: bold;">13.51</span> |
-| **2014/03** | **5.61** | <span style="color: #002818; font-weight: bold;">-0.35</span> | <span style="color: #8B0000; font-weight: bold;">+8.94</span> | **54.6** | <span style="color: #006400; font-weight: bold;">4.23</span> | <span style="color: #8B0000; font-weight: bold;">12.92</span> |
+| **2014/03** | **5.61** | <span style="color: #002818; font-weight: bold;">-0.35</span> | <span style="color: #8B0000; font-weight: bold;">+8.94</span> | **54.6** | <span style="color: #006400; font-weight: bold;">4.23</span> | <span style="color: #002818; font-weight: bold;">12.92</span> |
 | **2014/02** | **4.16** | <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **53.3** | <span style="color: #006400; font-weight: bold;">4.03</span> | <span style="color: #8B0000; font-weight: bold;">13.23</span> |
 | **2014/01** | **5.53** | <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **52** | <span style="color: #006400; font-weight: bold;">3.83</span> | <span style="color: #8B0000; font-weight: bold;">13.58</span> |
 | **2013/12** | **6.09** | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **46** | <span style="color: #006400; font-weight: bold;">3.63</span> | <span style="color: #002818; font-weight: bold;">12.67</span> |
@@ -238,7 +238,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **2012/12** | **4.47** | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | <span style="color: #B22222; font-weight: bold;">+13.4</span> | **38.75** | <span style="color: #006400; font-weight: bold;">2.99</span> | <span style="color: #8B0000; font-weight: bold;">12.97</span> |
 | **2012/11** | **4.81** | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **37.95** | <span style="color: #006400; font-weight: bold;">2.95</span> | <span style="color: #002818; font-weight: bold;">12.88</span> |
 | **2012/10** | **4.48** | <span style="color: #B22222; font-weight: bold;">+17.1</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **36.65** | <span style="color: #006400; font-weight: bold;">2.9</span> | <span style="color: #002818; font-weight: bold;">12.62</span> |
-| **2012/09** | **4.83** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **42.1** | <span style="color: #228B22; font-weight: bold;">2.86</span> | <span style="color: #B22222; font-weight: bold;">14.72</span> |
+| **2012/09** | **4.83** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **42.1** | <span style="color: #006400; font-weight: bold;">2.86</span> | <span style="color: #B22222; font-weight: bold;">14.72</span> |
 | **2012/08** | **4.98** | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | <span style="color: #8B0000; font-weight: bold;">+8.91</span> | **42.35** | <span style="color: #228B22; font-weight: bold;">2.82</span> | <span style="color: #B22222; font-weight: bold;">15.03</span> |
 | **2012/07** | **4.69** | <span style="color: #B22222; font-weight: bold;">+19.4</span> | <span style="color: #8B0000; font-weight: bold;">+6.72</span> | **35.3** | <span style="color: #228B22; font-weight: bold;">2.78</span> | <span style="color: #002818; font-weight: bold;">12.71</span> |
 | **2012/06** | **4.7** | <span style="color: #B22222; font-weight: bold;">+19.5</span> | <span style="color: #8B0000; font-weight: bold;">+4.52</span> | **34.85** | <span style="color: #228B22; font-weight: bold;">2.73</span> | <span style="color: #002818; font-weight: bold;">12.75</span> |
@@ -308,7 +308,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **2007/02** | **-** | N/A | N/A | **108.5** | <span style="color: #004225; font-weight: bold;">7.91</span> | <span style="color: #8B0000; font-weight: bold;">13.72</span> |
 | **2007/01** | **-** | N/A | N/A | **106** | <span style="color: #004225; font-weight: bold;">7.97</span> | <span style="color: #8B0000; font-weight: bold;">13.29</span> |
 | **2006/12** | **-** | N/A | N/A | **88.8** | <span style="color: #004225; font-weight: bold;">8.04</span> | <span style="color: #004225; font-weight: bold;">11.04</span> |
-| **2006/11** | **-** | N/A | N/A | **90.2** | <span style="color: #004225; font-weight: bold;">8.04</span> | <span style="color: #002818; font-weight: bold;">11.22</span> |
+| **2006/11** | **-** | N/A | N/A | **90.2** | <span style="color: #004225; font-weight: bold;">8.04</span> | <span style="color: #004225; font-weight: bold;">11.22</span> |
 | **2006/10** | **-** | N/A | N/A | **92.8** | <span style="color: #004225; font-weight: bold;">8.04</span> | <span style="color: #002818; font-weight: bold;">11.54</span> |
 | **2006/09** | **-** | N/A | N/A | **96** | <span style="color: #004225; font-weight: bold;">8.04</span> | <span style="color: #002818; font-weight: bold;">11.94</span> |
 | **2006/08** | **-** | N/A | N/A | **97.3** | <span style="color: #004225; font-weight: bold;">8.04</span> | <span style="color: #002818; font-weight: bold;">12.1</span> |
@@ -318,7 +318,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 | **2006/04** | **-** | N/A | N/A | **131** | <span style="color: #004225; font-weight: bold;">8.04</span> | <span style="color: #DC143C; font-weight: bold;">16.29</span> |
 | **2006/03** | **-** | N/A | N/A | **135** | <span style="color: #004225; font-weight: bold;">8.04</span> | <span style="color: #FF4500; font-weight: bold;">16.79</span> |
 | **2006/02** | **-** | N/A | N/A | **106.5** | <span style="color: #004225; font-weight: bold;">8.04</span> | <span style="color: #8B0000; font-weight: bold;">13.25</span> |
-| **2006/01** | **-** | N/A | N/A | **110** | <span style="color: #004225; font-weight: bold;">8.04</span> | <span style="color: #8B0000; font-weight: bold;">13.68</span> |
+| **2006/01** | **-** | N/A | N/A | **110** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

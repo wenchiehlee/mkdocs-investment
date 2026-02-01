@@ -25,7 +25,7 @@ description: 月營收表 益登 (3048) - 自動產生
     **:building_construction: 公司名稱**: 益登  
     **:identification_card: 股票代號**: 3048  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 益登 (3048) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.33** | **1.43** | **2.76** |
-| **P/E倍數** | **11.26** | **21.09** | **352.67** |
+| **EPS(元)** | **0.33** | **1.44** | **2.76** |
+| **P/E倍數** | **11.23** | **21.15** | **342.20** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 益登 歷史平均獲利能力 (σup=1.33, σlo=1.11)
-    - **P/Ebase**: 益登 歷史平均估值水準 (σup=331.59, σlo=9.83)
+    - **P/Ebase**: 益登 歷史平均估值水準 (σup=321.05, σlo=9.91)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -141,7 +141,7 @@ description: 月營收表 益登 (3048) - 自動產生
 | **2021/01** | **95.78** | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | **22.45** | <span style="color: #DC143C; font-weight: bold;">3.26</span> | <span style="color: #006400; font-weight: bold;">6.9</span> |
 | **2020/12** | **108.8** | <span style="color: #FF4500; font-weight: bold;">+34.1</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **23.45** | <span style="color: #DC143C; font-weight: bold;">3.13</span> | <span style="color: #006400; font-weight: bold;">7.49</span> |
 | **2020/11** | **121.5** | <span style="color: #FF4500; font-weight: bold;">+34.3</span> | <span style="color: #8B0000; font-weight: bold;">+9.99</span> | **22.95** | <span style="color: #DC143C; font-weight: bold;">3.01</span> | <span style="color: #006400; font-weight: bold;">7.63</span> |
-| **2020/10** | **105.4** | <span style="color: #8B0000; font-weight: bold;">+4.48</span> | <span style="color: #8B0000; font-weight: bold;">+7.23</span> | **18.2** | <span style="color: #DC143C; font-weight: bold;">2.88</span> | <span style="color: #228B22; font-weight: bold;">6.31</span> |
+| **2020/10** | **105.4** | <span style="color: #8B0000; font-weight: bold;">+4.48</span> | <span style="color: #8B0000; font-weight: bold;">+7.23</span> | **18.2** | <span style="color: #DC143C; font-weight: bold;">2.88</span> | <span style="color: #006400; font-weight: bold;">6.31</span> |
 | **2020/09** | **101.9** | <span style="color: #002818; font-weight: bold;">-5.24</span> | <span style="color: #8B0000; font-weight: bold;">+7.61</span> | **17.15** | <span style="color: #B22222; font-weight: bold;">2.76</span> | <span style="color: #228B22; font-weight: bold;">6.21</span> |
 | **2020/08** | **103.1** | <span style="color: #002818; font-weight: bold;">-1.27</span> | <span style="color: #8B0000; font-weight: bold;">+9.98</span> | **18.45** | <span style="color: #B22222; font-weight: bold;">2.64</span> | <span style="color: #006400; font-weight: bold;">7.0</span> |
 | **2020/07** | **97.27** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **16.7** | <span style="color: #B22222; font-weight: bold;">2.51</span> | <span style="color: #006400; font-weight: bold;">6.64</span> |
@@ -318,7 +318,7 @@ description: 月營收表 益登 (3048) - 自動產生
 | **2006/04** | **-** | N/A | N/A | **20.8** | <span style="color: #002818; font-weight: bold;">1.02</span> | <span style="color: #002818; font-weight: bold;">20.39</span> |
 | **2006/03** | **-** | N/A | N/A | **19.45** | <span style="color: #002818; font-weight: bold;">1.02</span> | <span style="color: #002818; font-weight: bold;">19.07</span> |
 | **2006/02** | **-** | N/A | N/A | **18.4** | <span style="color: #002818; font-weight: bold;">1.02</span> | <span style="color: #002818; font-weight: bold;">18.04</span> |
-| **2006/01** | **-** | N/A | N/A | **19.9** | <span style="color: #002818; font-weight: bold;">1.02</span> | <span style="color: #002818; font-weight: bold;">19.51</span> |
+| **2006/01** | **-** | N/A | N/A | **19.9** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 益登 (3048) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

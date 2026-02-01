@@ -25,7 +25,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
     **:building_construction: 公司名稱**: 世芯-KY  
     **:identification_card: 股票代號**: 3661  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **4.92** | **21.79** | **58.52** |
-| **P/E倍數** | **25.15** | **41.15** | **126.17** |
+| **EPS(元)** | **5.04** | **22.17** | **59.36** |
+| **P/E倍數** | **25.15** | **41.16** | **125.11** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 世芯-KY 歷史平均獲利能力 (σup=36.74, σlo=16.87)
-    - **P/Ebase**: 世芯-KY 歷史平均估值水準 (σup=85.03, σlo=16.00)
+    - **EPSbase**: 世芯-KY 歷史平均獲利能力 (σup=37.20, σlo=17.13)
+    - **P/Ebase**: 世芯-KY 歷史平均估值水準 (σup=83.95, σlo=16.01)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -85,7 +85,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 | **2025/09** | **16.74** | <span style="color: #90EE90; font-weight: bold;">-68.4</span> | <span style="color: #228B22; font-weight: bold;">-32.7</span> | **3465** | <span style="color: #DC143C; font-weight: bold;">75.53</span> | <span style="color: #8B0000; font-weight: bold;">45.88</span> |
 | **2025/08** | **23.49** | <span style="color: #32CD32; font-weight: bold;">-49.7</span> | <span style="color: #006400; font-weight: bold;">-26.9</span> | **4055** | <span style="color: #DC143C; font-weight: bold;">76.17</span> | <span style="color: #8B0000; font-weight: bold;">53.23</span> |
 | **2025/07** | **26.38** | <span style="color: #32CD32; font-weight: bold;">-45.9</span> | <span style="color: #006400; font-weight: bold;">-23.2</span> | **3885** | <span style="color: #DC143C; font-weight: bold;">76.82</span> | <span style="color: #8B0000; font-weight: bold;">50.57</span> |
-| **2025/06** | **30.96** | <span style="color: #32CD32; font-weight: bold;">-40.9</span> | <span style="color: #004225; font-weight: bold;">-18.5</span> | **3095** | <span style="color: #FF4500; font-weight: bold;">77.46</span> | <span style="color: #002818; font-weight: bold;">39.95</span> |
+| **2025/06** | **30.96** | <span style="color: #32CD32; font-weight: bold;">-40.9</span> | <span style="color: #004225; font-weight: bold;">-18.5</span> | **3095** | <span style="color: #DC143C; font-weight: bold;">77.46</span> | <span style="color: #002818; font-weight: bold;">39.95</span> |
 | **2025/05** | **29.08** | <span style="color: #228B22; font-weight: bold;">-33.5</span> | <span style="color: #004225; font-weight: bold;">-12.4</span> | **2810** | <span style="color: #FF4500; font-weight: bold;">78.11</span> | <span style="color: #002818; font-weight: bold;">35.97</span> |
 | **2025/04** | **31.51** | <span style="color: #006400; font-weight: bold;">-21.5</span> | <span style="color: #002818; font-weight: bold;">-5.93</span> | **2125** | <span style="color: #FF4500; font-weight: bold;">78.76</span> | <span style="color: #004225; font-weight: bold;">26.98</span> |
 | **2025/03** | **36.19** | <span style="color: #002818; font-weight: bold;">-6.63</span> | <span style="color: #002818; font-weight: bold;">-0.03</span> | **2740** | <span style="color: #FF4500; font-weight: bold;">79.4</span> | <span style="color: #002818; font-weight: bold;">34.51</span> |
@@ -106,7 +106,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 | **2023/12** | **35.1** | <span style="color: #FF7F7F; font-weight: bold;">+114.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+122.4</span> | **3275** | <span style="color: #B22222; font-weight: bold;">45.47</span> | <span style="color: #8B0000; font-weight: bold;">72.03</span> |
 | **2023/11** | **29.12** | <span style="color: #FF7F7F; font-weight: bold;">+65</span> | <span style="color: #FF7F7F; font-weight: bold;">+123.2</span> | **3110** | <span style="color: #B22222; font-weight: bold;">43.82</span> | <span style="color: #8B0000; font-weight: bold;">70.97</span> |
 | **2023/10** | **28.37** | <span style="color: #FF7F7F; font-weight: bold;">+130.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+132.4</span> | **2625** | <span style="color: #B22222; font-weight: bold;">42.17</span> | <span style="color: #8B0000; font-weight: bold;">62.24</span> |
-| **2023/09** | **29.03** | <span style="color: #FF7F7F; font-weight: bold;">+98.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+132.6</span> | **2690** | <span style="color: #B22222; font-weight: bold;">40.52</span> | <span style="color: #8B0000; font-weight: bold;">66.38</span> |
+| **2023/09** | **29.03** | <span style="color: #FF7F7F; font-weight: bold;">+98.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+132.6</span> | **2690** | <span style="color: #8B0000; font-weight: bold;">40.52</span> | <span style="color: #8B0000; font-weight: bold;">66.38</span> |
 | **2023/08** | **24.65** | <span style="color: #FF7F7F; font-weight: bold;">+111.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+138.6</span> | **2470** | <span style="color: #8B0000; font-weight: bold;">38.88</span> | <span style="color: #8B0000; font-weight: bold;">63.53</span> |
 | **2023/07** | **22.55** | <span style="color: #FF7F7F; font-weight: bold;">+137.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+143.2</span> | **1990** | <span style="color: #8B0000; font-weight: bold;">37.23</span> | <span style="color: #8B0000; font-weight: bold;">53.45</span> |
 | **2023/06** | **26.1** | <span style="color: #FF7F7F; font-weight: bold;">+147</span> | <span style="color: #FF7F7F; font-weight: bold;">+144.2</span> | **1795** | <span style="color: #8B0000; font-weight: bold;">35.58</span> | <span style="color: #8B0000; font-weight: bold;">50.45</span> |
@@ -125,7 +125,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 | **2022/05** | **10.06** | <span style="color: #8B0000; font-weight: bold;">+9.35</span> | <span style="color: #002818; font-weight: bold;">-1.18</span> | **935** | <span style="color: #8B0000; font-weight: bold;">23.15</span> | <span style="color: #002818; font-weight: bold;">40.38</span> |
 | **2022/04** | **9.13** | <span style="color: #002818; font-weight: bold;">-9.42</span> | <span style="color: #002818; font-weight: bold;">-3.74</span> | **886** | <span style="color: #8B0000; font-weight: bold;">22.79</span> | <span style="color: #002818; font-weight: bold;">38.88</span> |
 | **2022/03** | **8.55** | <span style="color: #004225; font-weight: bold;">-17.2</span> | <span style="color: #002818; font-weight: bold;">-1.56</span> | **1100** | <span style="color: #8B0000; font-weight: bold;">22.43</span> | <span style="color: #8B0000; font-weight: bold;">49.05</span> |
-| **2022/02** | **8.87** | <span style="color: #8B0000; font-weight: bold;">+1.12</span> | <span style="color: #8B0000; font-weight: bold;">+8.34</span> | **1075** | <span style="color: #8B0000; font-weight: bold;">22.06</span> | <span style="color: #8B0000; font-weight: bold;">48.72</span> |
+| **2022/02** | **8.87** | <span style="color: #8B0000; font-weight: bold;">+1.12</span> | <span style="color: #8B0000; font-weight: bold;">+8.34</span> | **1075** | <span style="color: #002818; font-weight: bold;">22.06</span> | <span style="color: #8B0000; font-weight: bold;">48.72</span> |
 | **2022/01** | **8.75** | <span style="color: #B22222; font-weight: bold;">+16.8</span> | <span style="color: #B22222; font-weight: bold;">+16.8</span> | **935** | <span style="color: #002818; font-weight: bold;">21.7</span> | <span style="color: #8B0000; font-weight: bold;">43.08</span> |
 | **2021/12** | **7.93** | <span style="color: #B22222; font-weight: bold;">+18.3</span> | <span style="color: #FF6347; font-weight: bold;">+47.3</span> | **1020** | <span style="color: #002818; font-weight: bold;">21.34</span> | <span style="color: #8B0000; font-weight: bold;">47.8</span> |
 | **2021/11** | **8.48** | <span style="color: #DC143C; font-weight: bold;">+28</span> | <span style="color: #FF7F7F; font-weight: bold;">+50.4</span> | **1020** | <span style="color: #002818; font-weight: bold;">20.7</span> | <span style="color: #8B0000; font-weight: bold;">49.29</span> |
@@ -160,7 +160,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 | **2019/06** | **2.22** | <span style="color: #228B22; font-weight: bold;">-30.4</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **92.6** | <span style="color: #004225; font-weight: bold;">5.71</span> | <span style="color: #228B22; font-weight: bold;">16.22</span> |
 | **2019/05** | **3.03** | <span style="color: #002818; font-weight: bold;">-6.42</span> | <span style="color: #B22222; font-weight: bold;">+19.7</span> | **86.3** | <span style="color: #004225; font-weight: bold;">5.46</span> | <span style="color: #228B22; font-weight: bold;">15.8</span> |
 | **2019/04** | **3.37** | <span style="color: #8B0000; font-weight: bold;">+1.33</span> | <span style="color: #DC143C; font-weight: bold;">+27</span> | **81.1** | <span style="color: #004225; font-weight: bold;">5.21</span> | <span style="color: #228B22; font-weight: bold;">15.56</span> |
-| **2019/03** | **5** | <span style="color: #FF7F7F; font-weight: bold;">+51.9</span> | <span style="color: #FF4500; font-weight: bold;">+37.5</span> | **74.4** | <span style="color: #004225; font-weight: bold;">4.96</span> | <span style="color: #228B22; font-weight: bold;">14.98</span> |
+| **2019/03** | **5** | <span style="color: #FF7F7F; font-weight: bold;">+51.9</span> | <span style="color: #FF4500; font-weight: bold;">+37.5</span> | **74.4** | <span style="color: #006400; font-weight: bold;">4.96</span> | <span style="color: #228B22; font-weight: bold;">14.98</span> |
 | **2019/02** | **2.86** | <span style="color: #002818; font-weight: bold;">-2.59</span> | <span style="color: #DC143C; font-weight: bold;">+27.8</span> | **86.5** | <span style="color: #006400; font-weight: bold;">4.72</span> | <span style="color: #006400; font-weight: bold;">18.34</span> |
 | **2019/01** | **3.31** | <span style="color: #FF7F7F; font-weight: bold;">+75</span> | <span style="color: #FF7F7F; font-weight: bold;">+75</span> | **76.9** | <span style="color: #006400; font-weight: bold;">4.47</span> | <span style="color: #006400; font-weight: bold;">17.21</span> |
 | **2018/12** | **3.26** | <span style="color: #8B0000; font-weight: bold;">+1.55</span> | <span style="color: #004225; font-weight: bold;">-19.1</span> | **69** | <span style="color: #006400; font-weight: bold;">4.22</span> | <span style="color: #228B22; font-weight: bold;">16.35</span> |
@@ -173,8 +173,8 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 | **2018/05** | **3.24** | <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #002818; font-weight: bold;">-4.52</span> | **133** | <span style="color: #006400; font-weight: bold;">4.72</span> | <span style="color: #004225; font-weight: bold;">28.17</span> |
 | **2018/04** | **3.33** | <span style="color: #004225; font-weight: bold;">-15.6</span> | <span style="color: #002818; font-weight: bold;">-1.56</span> | **137** | <span style="color: #006400; font-weight: bold;">4.79</span> | <span style="color: #004225; font-weight: bold;">28.58</span> |
 | **2018/03** | **3.29** | <span style="color: #006400; font-weight: bold;">-27</span> | <span style="color: #8B0000; font-weight: bold;">+5.97</span> | **119** | <span style="color: #006400; font-weight: bold;">4.86</span> | <span style="color: #006400; font-weight: bold;">24.46</span> |
-| **2018/02** | **2.93** | <span style="color: #FF7F7F; font-weight: bold;">+129.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+55</span> | **115.5** | <span style="color: #004225; font-weight: bold;">4.94</span> | <span style="color: #006400; font-weight: bold;">23.4</span> |
-| **2018/01** | **1.89** | <span style="color: #8B0000; font-weight: bold;">+2.64</span> | <span style="color: #8B0000; font-weight: bold;">+2.64</span> | **118** | <span style="color: #004225; font-weight: bold;">5.01</span> | <span style="color: #006400; font-weight: bold;">23.56</span> |
+| **2018/02** | **2.93** | <span style="color: #FF7F7F; font-weight: bold;">+129.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+55</span> | **115.5** | <span style="color: #006400; font-weight: bold;">4.94</span> | <span style="color: #006400; font-weight: bold;">23.4</span> |
+| **2018/01** | **1.89** | <span style="color: #8B0000; font-weight: bold;">+2.64</span> | <span style="color: #8B0000; font-weight: bold;">+2.64</span> | **118** | <span style="color: #006400; font-weight: bold;">5.01</span> | <span style="color: #006400; font-weight: bold;">23.56</span> |
 | **2017/12** | **3.21** | <span style="color: #32CD32; font-weight: bold;">-43.2</span> | <span style="color: #B22222; font-weight: bold;">+15.6</span> | **90.5** | <span style="color: #004225; font-weight: bold;">5.08</span> | <span style="color: #006400; font-weight: bold;">17.81</span> |
 | **2017/11** | **2.18** | <span style="color: #006400; font-weight: bold;">-21</span> | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | **84.2** | <span style="color: #006400; font-weight: bold;">4.37</span> | <span style="color: #006400; font-weight: bold;">19.27</span> |
 | **2017/10** | **1.9** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | **117** | <span style="color: #006400; font-weight: bold;">3.66</span> | <span style="color: #004225; font-weight: bold;">31.98</span> |
@@ -355,7 +355,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

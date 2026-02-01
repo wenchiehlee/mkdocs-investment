@@ -25,7 +25,7 @@ description: 月營收表 GOGOLOOK (6902) - 自動產生
     **:building_construction: 公司名稱**: GOGOLOOK  
     **:identification_card: 股票代號**: 6902  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 GOGOLOOK (6902) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-0.88** | **-0.41** | **0.03** |
-| **P/E倍數** | **1016.00** | **2583.39** | **9410.62** |
+| **EPS(元)** | **-0.88** | **-0.39** | **0.04** |
+| **P/E倍數** | **965.31** | **2391.30** | **9372.43** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: GOGOLOOK 歷史平均獲利能力 (σup=0.44, σlo=0.47)
-    - **P/Ebase**: GOGOLOOK 歷史平均估值水準 (σup=6827.23, σlo=1567.39)
+    - **EPSbase**: GOGOLOOK 歷史平均獲利能力 (σup=0.43, σlo=0.49)
+    - **P/Ebase**: GOGOLOOK 歷史平均估值水準 (σup=6981.13, σlo=1425.99)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -92,7 +92,7 @@ description: 月營收表 GOGOLOOK (6902) - 自動產生
 | **2025/02** | **0.78** | <span style="color: #B22222; font-weight: bold;">+17.7</span> | <span style="color: #8B0000; font-weight: bold;">+8.48</span> | **137.5** | <span style="color: #006400; font-weight: bold;">-1.01</span> | N/A |
 | **2025/01** | **0.76** | <span style="color: #8B0000; font-weight: bold;">+0.44</span> | <span style="color: #8B0000; font-weight: bold;">+0.44</span> | **117** | <span style="color: #228B22; font-weight: bold;">-1.13</span> | N/A |
 | **2024/12** | **0.857** | <span style="color: #B22222; font-weight: bold;">+10.5</span> | <span style="color: #B22222; font-weight: bold;">+12.5</span> | **118.5** | <span style="color: #228B22; font-weight: bold;">-1.24</span> | N/A |
-| **2024/11** | **0.908** | <span style="color: #FF4500; font-weight: bold;">+34.1</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **147** | <span style="color: #228B22; font-weight: bold;">-1.12</span> | N/A |
+| **2024/11** | **0.908** | <span style="color: #FF4500; font-weight: bold;">+34.1</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **147** | <span style="color: #006400; font-weight: bold;">-1.12</span> | N/A |
 | **2024/10** | **0.71** | <span style="color: #8B0000; font-weight: bold;">+6.22</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **150** | <span style="color: #006400; font-weight: bold;">-1.01</span> | N/A |
 | **2024/09** | **0.841** | <span style="color: #DC143C; font-weight: bold;">+23.7</span> | <span style="color: #B22222; font-weight: bold;">+10.9</span> | **152.5** | <span style="color: #006400; font-weight: bold;">-0.89</span> | N/A |
 | **2024/08** | **0.705** | <span style="color: #B22222; font-weight: bold;">+13.7</span> | <span style="color: #8B0000; font-weight: bold;">+9.1</span> | **144.5** | <span style="color: #004225; font-weight: bold;">-0.77</span> | N/A |
@@ -106,7 +106,7 @@ description: 月營收表 GOGOLOOK (6902) - 自動產生
 | **2023/12** | **0.775** | <span style="color: #FF7F7F; font-weight: bold;">+60</span> | <span style="color: #FF7F7F; font-weight: bold;">+83.4</span> | **170** | <span style="color: #DC143C; font-weight: bold;">0.16</span> | <span style="color: #004225; font-weight: bold;">1062.0</span> |
 | **2023/11** | **0.677** | <span style="color: #FF6347; font-weight: bold;">+43.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+86.5</span> | **189** | <span style="color: #DC143C; font-weight: bold;">0.16</span> | <span style="color: #004225; font-weight: bold;">1181.0</span> |
 | **2023/10** | **0.668** | <span style="color: #FF7F7F; font-weight: bold;">+77</span> | <span style="color: #FF7F7F; font-weight: bold;">+92.8</span> | **143** | <span style="color: #DC143C; font-weight: bold;">0.16</span> | <span style="color: #006400; font-weight: bold;">893.8</span> |
-| **2023/09** | **0.68** | <span style="color: #FF7F7F; font-weight: bold;">+92.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+94.8</span> | **160.5** | <span style="color: #DC143C; font-weight: bold;">0.16</span> | <span style="color: #006400; font-weight: bold;">1003.0</span> |
+| **2023/09** | **0.68** | <span style="color: #FF7F7F; font-weight: bold;">+92.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+94.8</span> | **160.5** | <span style="color: #DC143C; font-weight: bold;">0.16</span> | <span style="color: #004225; font-weight: bold;">1003.0</span> |
 | **2023/08** | **0.62** | <span style="color: #FF7F7F; font-weight: bold;">+81.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+95.1</span> | **169** | <span style="color: #DC143C; font-weight: bold;">0.16</span> | <span style="color: #004225; font-weight: bold;">1056.0</span> |
 | **2023/07** | **0.566** | <span style="color: #FF7F7F; font-weight: bold;">+82.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+97.3</span> | **220** | <span style="color: #DC143C; font-weight: bold;">0.16</span> | <span style="color: #004225; font-weight: bold;">1375.0</span> |
 | **2023/06** | **0.591** | <span style="color: #FF7F7F; font-weight: bold;">+74.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+99.7</span> | **-** | N/A | N/A |
@@ -207,7 +207,7 @@ description: 月營收表 GOGOLOOK (6902) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

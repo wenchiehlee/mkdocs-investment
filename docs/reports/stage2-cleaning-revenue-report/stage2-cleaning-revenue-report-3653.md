@@ -25,7 +25,7 @@ description: 月營收表 健策 (3653) - 自動產生
     **:building_construction: 公司名稱**: 健策  
     **:identification_card: 股票代號**: 3653  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 健策 (3653) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **3.83** | **8.60** | **21.04** |
-| **P/E倍數** | **21.36** | **30.05** | **47.55** |
+| **EPS(元)** | **3.86** | **8.73** | **21.52** |
+| **P/E倍數** | **21.39** | **30.31** | **48.52** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 健策 歷史平均獲利能力 (σup=12.44, σlo=4.76)
-    - **P/Ebase**: 健策 歷史平均估值水準 (σup=17.50, σlo=8.69)
+    - **EPSbase**: 健策 歷史平均獲利能力 (σup=12.79, σlo=4.87)
+    - **P/Ebase**: 健策 歷史平均估值水準 (σup=18.20, σlo=8.93)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -80,14 +80,14 @@ description: 月營收表 健策 (3653) - 自動產生
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2025/12** | **18.7** | <span style="color: #B22222; font-weight: bold;">+13.3</span> | <span style="color: #FF6347; font-weight: bold;">+42</span> | **2745** | <span style="color: #FF6347; font-weight: bold;">34.58</span> | <span style="color: #FF6347; font-weight: bold;">79.38</span> |
-| **2025/11** | **17.01** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #FF6347; font-weight: bold;">+45.8</span> | **2905** | <span style="color: #FF6347; font-weight: bold;">33.71</span> | <span style="color: #FF7F7F; font-weight: bold;">86.17</span> |
+| **2025/11** | **17.01** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #FF6347; font-weight: bold;">+45.8</span> | **2905** | <span style="color: #FF4500; font-weight: bold;">33.71</span> | <span style="color: #FF7F7F; font-weight: bold;">86.17</span> |
 | **2025/10** | **17.01** | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | <span style="color: #FF6347; font-weight: bold;">+49.6</span> | **2130** | <span style="color: #FF4500; font-weight: bold;">32.84</span> | <span style="color: #FF4500; font-weight: bold;">64.86</span> |
 | **2025/09** | **16.97** | <span style="color: #FF6347; font-weight: bold;">+40.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+52.2</span> | **2410** | <span style="color: #FF4500; font-weight: bold;">31.97</span> | <span style="color: #FF6347; font-weight: bold;">75.38</span> |
 | **2025/08** | **16.9** | <span style="color: #FF6347; font-weight: bold;">+40.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.8</span> | **2095** | <span style="color: #FF4500; font-weight: bold;">31.1</span> | <span style="color: #FF6347; font-weight: bold;">67.36</span> |
-| **2025/07** | **16.83** | <span style="color: #FF6347; font-weight: bold;">+41.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+55.9</span> | **1440** | <span style="color: #FF4500; font-weight: bold;">30.23</span> | <span style="color: #DC143C; font-weight: bold;">47.63</span> |
+| **2025/07** | **16.83** | <span style="color: #FF6347; font-weight: bold;">+41.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+55.9</span> | **1440** | <span style="color: #FF4500; font-weight: bold;">30.23</span> | <span style="color: #B22222; font-weight: bold;">47.63</span> |
 | **2025/06** | **16.81** | <span style="color: #FF6347; font-weight: bold;">+45.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.5</span> | **1510** | <span style="color: #FF4500; font-weight: bold;">29.36</span> | <span style="color: #DC143C; font-weight: bold;">51.42</span> |
 | **2025/05** | **16.79** | <span style="color: #FF6347; font-weight: bold;">+46.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+61.4</span> | **1355** | <span style="color: #FF4500; font-weight: bold;">28.5</span> | <span style="color: #B22222; font-weight: bold;">47.55</span> |
-| **2025/04** | **18.21** | <span style="color: #FF7F7F; font-weight: bold;">+65.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+65.8</span> | **1000** | <span style="color: #FF4500; font-weight: bold;">27.63</span> | <span style="color: #8B0000; font-weight: bold;">36.2</span> |
+| **2025/04** | **18.21** | <span style="color: #FF7F7F; font-weight: bold;">+65.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+65.8</span> | **1000** | <span style="color: #DC143C; font-weight: bold;">27.63</span> | <span style="color: #8B0000; font-weight: bold;">36.2</span> |
 | **2025/03** | **18.2** | <span style="color: #FF7F7F; font-weight: bold;">+66.4</span> | <span style="color: #FF7F7F; font-weight: bold;">+65.9</span> | **976** | <span style="color: #DC143C; font-weight: bold;">26.76</span> | <span style="color: #8B0000; font-weight: bold;">36.48</span> |
 | **2025/02** | **14.85** | <span style="color: #FF7F7F; font-weight: bold;">+88.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+65.6</span> | **1340** | <span style="color: #DC143C; font-weight: bold;">25.89</span> | <span style="color: #DC143C; font-weight: bold;">51.76</span> |
 | **2025/01** | **14.47** | <span style="color: #FF6347; font-weight: bold;">+47.4</span> | <span style="color: #FF6347; font-weight: bold;">+47.4</span> | **1385** | <span style="color: #DC143C; font-weight: bold;">25.02</span> | <span style="color: #DC143C; font-weight: bold;">55.36</span> |
@@ -136,7 +136,7 @@ description: 月營收表 健策 (3653) - 自動產生
 | **2021/06** | **7.56** | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **302** | <span style="color: #8B0000; font-weight: bold;">9.07</span> | <span style="color: #8B0000; font-weight: bold;">33.28</span> |
 | **2021/05** | **7.29** | <span style="color: #DC143C; font-weight: bold;">+25</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **285.5** | <span style="color: #8B0000; font-weight: bold;">8.94</span> | <span style="color: #8B0000; font-weight: bold;">31.94</span> |
 | **2021/04** | **6.85** | <span style="color: #B22222; font-weight: bold;">+10.6</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **256.5** | <span style="color: #8B0000; font-weight: bold;">8.8</span> | <span style="color: #002818; font-weight: bold;">29.13</span> |
-| **2021/03** | **6.71** | <span style="color: #8B0000; font-weight: bold;">+2.61</span> | <span style="color: #B22222; font-weight: bold;">+10.9</span> | **287** | <span style="color: #8B0000; font-weight: bold;">8.67</span> | <span style="color: #8B0000; font-weight: bold;">33.1</span> |
+| **2021/03** | **6.71** | <span style="color: #8B0000; font-weight: bold;">+2.61</span> | <span style="color: #B22222; font-weight: bold;">+10.9</span> | **287** | <span style="color: #002818; font-weight: bold;">8.67</span> | <span style="color: #8B0000; font-weight: bold;">33.1</span> |
 | **2021/02** | **5.56** | <span style="color: #B22222; font-weight: bold;">+19.5</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **321** | <span style="color: #002818; font-weight: bold;">8.54</span> | <span style="color: #8B0000; font-weight: bold;">37.61</span> |
 | **2021/01** | **6.27** | <span style="color: #B22222; font-weight: bold;">+13.4</span> | <span style="color: #B22222; font-weight: bold;">+13.4</span> | **293.5** | <span style="color: #002818; font-weight: bold;">8.4</span> | <span style="color: #8B0000; font-weight: bold;">34.93</span> |
 | **2020/12** | **6.49** | <span style="color: #DC143C; font-weight: bold;">+29</span> | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | **247.5** | <span style="color: #002818; font-weight: bold;">8.27</span> | <span style="color: #002818; font-weight: bold;">29.94</span> |
@@ -153,7 +153,7 @@ description: 月營收表 健策 (3653) - 自動產生
 | **2020/01** | **5.52** | <span style="color: #8B0000; font-weight: bold;">+9.3</span> | <span style="color: #8B0000; font-weight: bold;">+9.3</span> | **209** | <span style="color: #002818; font-weight: bold;">6.69</span> | <span style="color: #8B0000; font-weight: bold;">31.23</span> |
 | **2019/12** | **5.03** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #B22222; font-weight: bold;">+17.2</span> | **234.5** | <span style="color: #002818; font-weight: bold;">6.55</span> | <span style="color: #8B0000; font-weight: bold;">35.8</span> |
 | **2019/11** | **5.06** | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **195** | <span style="color: #002818; font-weight: bold;">6.39</span> | <span style="color: #8B0000; font-weight: bold;">30.52</span> |
-| **2019/10** | **5.18** | <span style="color: #FF4500; font-weight: bold;">+38.6</span> | <span style="color: #B22222; font-weight: bold;">+16.8</span> | **170** | <span style="color: #002818; font-weight: bold;">6.23</span> | <span style="color: #002818; font-weight: bold;">27.3</span> |
+| **2019/10** | **5.18** | <span style="color: #FF4500; font-weight: bold;">+38.6</span> | <span style="color: #B22222; font-weight: bold;">+16.8</span> | **170** | <span style="color: #004225; font-weight: bold;">6.23</span> | <span style="color: #002818; font-weight: bold;">27.3</span> |
 | **2019/09** | **4.9** | <span style="color: #B22222; font-weight: bold;">+16.5</span> | <span style="color: #B22222; font-weight: bold;">+14.5</span> | **127.5** | <span style="color: #004225; font-weight: bold;">6.06</span> | <span style="color: #006400; font-weight: bold;">21.02</span> |
 | **2019/08** | **4.54** | <span style="color: #8B0000; font-weight: bold;">+6.94</span> | <span style="color: #B22222; font-weight: bold;">+14.2</span> | **147** | <span style="color: #004225; font-weight: bold;">5.9</span> | <span style="color: #004225; font-weight: bold;">24.9</span> |
 | **2019/07** | **4.41** | <span style="color: #B22222; font-weight: bold;">+16.2</span> | <span style="color: #B22222; font-weight: bold;">+15.4</span> | **128** | <span style="color: #004225; font-weight: bold;">5.74</span> | <span style="color: #004225; font-weight: bold;">22.29</span> |
@@ -163,7 +163,7 @@ description: 月營收表 健策 (3653) - 自動產生
 | **2019/03** | **4.16** | <span style="color: #8B0000; font-weight: bold;">+7.01</span> | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | **115** | <span style="color: #004225; font-weight: bold;">5.1</span> | <span style="color: #004225; font-weight: bold;">22.57</span> |
 | **2019/02** | **3.5** | <span style="color: #B22222; font-weight: bold;">+15.1</span> | <span style="color: #DC143C; font-weight: bold;">+27.8</span> | **94.6** | <span style="color: #004225; font-weight: bold;">4.93</span> | <span style="color: #006400; font-weight: bold;">19.18</span> |
 | **2019/01** | **5.05** | <span style="color: #FF4500; font-weight: bold;">+38.4</span> | <span style="color: #FF4500; font-weight: bold;">+38.4</span> | **83.8** | <span style="color: #004225; font-weight: bold;">4.77</span> | <span style="color: #006400; font-weight: bold;">17.56</span> |
-| **2018/12** | **4.39** | <span style="color: #FF6347; font-weight: bold;">+47</span> | <span style="color: #DC143C; font-weight: bold;">+27.8</span> | **78.2** | <span style="color: #004225; font-weight: bold;">4.61</span> | <span style="color: #228B22; font-weight: bold;">16.96</span> |
+| **2018/12** | **4.39** | <span style="color: #FF6347; font-weight: bold;">+47</span> | <span style="color: #DC143C; font-weight: bold;">+27.8</span> | **78.2** | <span style="color: #004225; font-weight: bold;">4.61</span> | <span style="color: #006400; font-weight: bold;">16.96</span> |
 | **2018/11** | **4.09** | <span style="color: #DC143C; font-weight: bold;">+27.2</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **74.6** | <span style="color: #004225; font-weight: bold;">4.41</span> | <span style="color: #228B22; font-weight: bold;">16.92</span> |
 | **2018/10** | **3.74** | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | <span style="color: #DC143C; font-weight: bold;">+26</span> | **57.4** | <span style="color: #004225; font-weight: bold;">4.21</span> | <span style="color: #228B22; font-weight: bold;">13.65</span> |
 | **2018/09** | **4.21** | <span style="color: #DC143C; font-weight: bold;">+23.7</span> | <span style="color: #DC143C; font-weight: bold;">+26.2</span> | **81** | <span style="color: #004225; font-weight: bold;">4.01</span> | <span style="color: #006400; font-weight: bold;">20.22</span> |
@@ -186,7 +186,7 @@ description: 月營收表 健策 (3653) - 自動產生
 | **2017/04** | **3.05** | <span style="color: #8B0000; font-weight: bold;">+4.47</span> | <span style="color: #8B0000; font-weight: bold;">+9.02</span> | **70** | <span style="color: #006400; font-weight: bold;">2.28</span> | <span style="color: #8B0000; font-weight: bold;">30.75</span> |
 | **2017/03** | **3.29** | <span style="color: #B22222; font-weight: bold;">+14.5</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **63.7** | <span style="color: #006400; font-weight: bold;">2.29</span> | <span style="color: #002818; font-weight: bold;">27.85</span> |
 | **2017/02** | **2.55** | <span style="color: #8B0000; font-weight: bold;">+6.68</span> | <span style="color: #8B0000; font-weight: bold;">+8.57</span> | **57.8** | <span style="color: #006400; font-weight: bold;">2.3</span> | <span style="color: #004225; font-weight: bold;">25.15</span> |
-| **2017/01** | **3.09** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **49.35** | <span style="color: #006400; font-weight: bold;">2.31</span> | <span style="color: #004225; font-weight: bold;">21.37</span> |
+| **2017/01** | **3.09** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **49.35** | <span style="color: #006400; font-weight: bold;">2.31</span> | <span style="color: #006400; font-weight: bold;">21.37</span> |
 | **2016/12** | **3.06** | <span style="color: #B22222; font-weight: bold;">+11.1</span> | <span style="color: #8B0000; font-weight: bold;">+1.79</span> | **47.5** | <span style="color: #006400; font-weight: bold;">2.32</span> | <span style="color: #006400; font-weight: bold;">20.47</span> |
 | **2016/11** | **2.85** | <span style="color: #8B0000; font-weight: bold;">+8.84</span> | <span style="color: #8B0000; font-weight: bold;">+0.95</span> | **47.9** | <span style="color: #006400; font-weight: bold;">2.3</span> | <span style="color: #006400; font-weight: bold;">20.78</span> |
 | **2016/10** | **2.77** | <span style="color: #002818; font-weight: bold;">-0.91</span> | <span style="color: #8B0000; font-weight: bold;">+0.21</span> | **49.4** | <span style="color: #006400; font-weight: bold;">2.29</span> | <span style="color: #004225; font-weight: bold;">21.57</span> |
@@ -242,7 +242,7 @@ description: 月營收表 健策 (3653) - 自動產生
 | **2012/08** | **-** | N/A | N/A | **88.4** | <span style="color: #006400; font-weight: bold;">3.17</span> | <span style="color: #002818; font-weight: bold;">27.86</span> |
 | **2012/07** | **-** | N/A | N/A | **81.6** | <span style="color: #006400; font-weight: bold;">3.4</span> | <span style="color: #004225; font-weight: bold;">23.99</span> |
 | **2012/06** | **-** | N/A | N/A | **86.1** | <span style="color: #006400; font-weight: bold;">3.63</span> | <span style="color: #004225; font-weight: bold;">23.72</span> |
-| **2012/05** | **-** | N/A | N/A | **82.9** | <span style="color: #004225; font-weight: bold;">3.86</span> | <span style="color: #004225; font-weight: bold;">21.49</span> |
+| **2012/05** | **-** | N/A | N/A | **82.9** | <span style="color: #006400; font-weight: bold;">3.86</span> | <span style="color: #004225; font-weight: bold;">21.49</span> |
 | **2012/04** | **-** | N/A | N/A | **80.1** | <span style="color: #004225; font-weight: bold;">4.09</span> | <span style="color: #006400; font-weight: bold;">19.6</span> |
 | **2012/03** | **-** | N/A | N/A | **97** | <span style="color: #004225; font-weight: bold;">4.31</span> | <span style="color: #004225; font-weight: bold;">22.48</span> |
 | **2012/02** | **-** | N/A | N/A | **104.5** | <span style="color: #004225; font-weight: bold;">4.54</span> | <span style="color: #004225; font-weight: bold;">23.0</span> |
@@ -256,7 +256,7 @@ description: 月營收表 健策 (3653) - 自動產生
 | **2011/06** | **-** | N/A | N/A | **126** | <span style="color: #004225; font-weight: bold;">5.83</span> | <span style="color: #004225; font-weight: bold;">21.61</span> |
 | **2011/05** | **-** | N/A | N/A | **140** | <span style="color: #004225; font-weight: bold;">5.97</span> | <span style="color: #004225; font-weight: bold;">23.46</span> |
 | **2011/04** | **-** | N/A | N/A | **124** | <span style="color: #004225; font-weight: bold;">6.11</span> | <span style="color: #006400; font-weight: bold;">20.31</span> |
-| **2011/03** | **-** | N/A | N/A | **123.5** | <span style="color: #002818; font-weight: bold;">6.25</span> | <span style="color: #006400; font-weight: bold;">19.78</span> |
+| **2011/03** | **-** | N/A | N/A | **123.5** | <span style="color: #004225; font-weight: bold;">6.25</span> | <span style="color: #006400; font-weight: bold;">19.78</span> |
 | **2011/02** | **-** | N/A | N/A | **131.5** | <span style="color: #002818; font-weight: bold;">6.38</span> | <span style="color: #006400; font-weight: bold;">20.6</span> |
 | **2011/01** | **-** | N/A | N/A | **158.5** | <span style="color: #002818; font-weight: bold;">6.52</span> | <span style="color: #004225; font-weight: bold;">24.3</span> |
 | **2010/12** | **-** | N/A | N/A | **158** | <span style="color: #002818; font-weight: bold;">6.66</span> | <span style="color: #004225; font-weight: bold;">23.72</span> |
@@ -264,7 +264,7 @@ description: 月營收表 健策 (3653) - 自動產生
 | **2010/10** | **-** | N/A | N/A | **175** | <span style="color: #002818; font-weight: bold;">6.49</span> | <span style="color: #002818; font-weight: bold;">26.97</span> |
 | **2010/09** | **-** | N/A | N/A | **183** | <span style="color: #002818; font-weight: bold;">6.4</span> | <span style="color: #002818; font-weight: bold;">28.58</span> |
 | **2010/08** | **-** | N/A | N/A | **182.5** | <span style="color: #002818; font-weight: bold;">6.32</span> | <span style="color: #002818; font-weight: bold;">28.89</span> |
-| **2010/07** | **-** | N/A | N/A | **238** | <span style="color: #002818; font-weight: bold;">6.23</span> | <span style="color: #8B0000; font-weight: bold;">38.2</span> |
+| **2010/07** | **-** | N/A | N/A | **238** | <span style="color: #004225; font-weight: bold;">6.23</span> | <span style="color: #8B0000; font-weight: bold;">38.2</span> |
 | **2010/06** | **-** | N/A | N/A | **221** | <span style="color: #004225; font-weight: bold;">6.14</span> | <span style="color: #8B0000; font-weight: bold;">35.96</span> |
 | **2010/05** | **-** | N/A | N/A | **226** | <span style="color: #004225; font-weight: bold;">6.06</span> | <span style="color: #8B0000; font-weight: bold;">37.3</span> |
 | **2010/04** | **-** | N/A | N/A | **188** | <span style="color: #004225; font-weight: bold;">5.97</span> | <span style="color: #8B0000; font-weight: bold;">31.47</span> |
@@ -376,7 +376,7 @@ description: 月營收表 健策 (3653) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
