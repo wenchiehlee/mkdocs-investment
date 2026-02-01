@@ -25,13 +25,13 @@ description: 月營收表 聯強 (2347) - 自動產生
     **:building_construction: 公司名稱**: 聯強  
     **:identification_card: 股票代號**: 2347  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
+    **:clock3: 更新時間**: 2026-02-02 04:59:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #002818; font-weight: bold;">-3.59</span> | **240** 個月 | 2006/01 至 2025/12 |
+| <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #002818; font-weight: bold;">-3.59</span> | **239** 個月 | 2006/02 至 2025/12 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 聯強 (2347) - 自動產生
 | **2006/04** | **112.3** | <span style="color: #8B0000; font-weight: bold;">+1.76</span> | <span style="color: #8B0000; font-weight: bold;">+7.89</span> | **39.45** | <span style="color: #006400; font-weight: bold;">2.65</span> | <span style="color: #8B0000; font-weight: bold;">14.89</span> |
 | **2006/03** | **144.3** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **36.05** | <span style="color: #006400; font-weight: bold;">2.65</span> | <span style="color: #8B0000; font-weight: bold;">13.6</span> |
 | **2006/02** | **102.4** | <span style="color: #B22222; font-weight: bold;">+18.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.12</span> | **40.25** | <span style="color: #006400; font-weight: bold;">2.65</span> | <span style="color: #8B0000; font-weight: bold;">15.19</span> |
-| **2006/01** | **110.2** | <span style="color: #002818; font-weight: bold;">-3.27</span> | <span style="color: #002818; font-weight: bold;">-3.27</span> | **40.6** | N/A | N/A |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 聯強 (2347) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 03:10:52 CST
+- **產生時間**: 2026-02-02 04:59:06 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
