@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-05
+date: 2026-02-06
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
     **:building_construction: 公司名稱**: 瑞昱  
     **:identification_card: 股票代號**: 2379  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-05 21:53:23 CST
+    **:clock3: 更新時間**: 2026-02-06 01:20:13 CST
 
 ## :bar_chart: 績效概覽
 
@@ -413,7 +413,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-05 21:53:23 CST
+- **產生時間**: 2026-02-06 01:20:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
