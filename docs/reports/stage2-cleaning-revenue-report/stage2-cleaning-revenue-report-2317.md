@@ -24,14 +24,14 @@ description: 月營收表 鴻海 (2317) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 鴻海  
     **:identification_card: 股票代號**: 2317  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-07 03:24:36 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-07 05:08:14 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+31.8</span> | <span style="color: #B22222; font-weight: bold;">+18.1</span> | **228** 個月 | 2007/01 至 2025/12 |
+| <span style="color: #FF4500; font-weight: bold;">+35.5</span> | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | **229** 個月 | 2007/01 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 鴻海 (2317) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 862,900<br/><span style="color: #FF4500;">(+31.80%)</span> | 654,800<br/><span style="color: #FF6347;">(+42.30%)</span> | 460,100<br/><span style="color: #006400;">(-26.90%)</span> | 629,300<br/><span style="color: #004225;">(-12.30%)</span> | 717,600<br/><span style="color: #8B0000;">(+0.53%)</span> |
-| **11月** | 844,300<br/><span style="color: #DC143C;">(+25.50%)</span> | 672,600<br/><span style="color: #8B0000;">(+3.47%)</span> | 650,000<br/><span style="color: #B22222;">(+18.00%)</span> | 551,100<br/><span style="color: #004225;">(-11.40%)</span> | 621,700<br/><span style="color: #002818;">(-8.75%)</span> |
-| **10月** | 895,700<br/><span style="color: #B22222;">(+11.30%)</span> | 804,800<br/><span style="color: #8B0000;">(+8.58%)</span> | 741,200<br/><span style="color: #002818;">(-4.55%)</span> | 776,600<br/><span style="color: #FF6347;">(+41.00%)</span> | 550,900<br/><span style="color: #004225;">(-10.10%)</span> |
-| **9月** | 837,100<br/><span style="color: #B22222;">(+14.20%)</span> | 733,000<br/><span style="color: #B22222;">(+10.90%)</span> | 660,700<br/><span style="color: #004225;">(-19.60%)</span> | 822,300<br/><span style="color: #FF6347;">(+40.40%)</span> | 585,700<br/><span style="color: #DC143C;">(+25.60%)</span> |
-| **8月** | 606,500<br/><span style="color: #B22222;">(+10.60%)</span> | 548,300<br/><span style="color: #FF4500;">(+32.80%)</span> | 412,800<br/><span style="color: #002818;">(-8.03%)</span> | 448,900<br/><span style="color: #B22222;">(+12.20%)</span> | 400,000<br/><span style="color: #002818;">(-4.87%)</span> |
-| **7月** | 613,900<br/><span style="color: #8B0000;">(+7.25%)</span> | 572,400<br/><span style="color: #DC143C;">(+22.00%)</span> | 469,200<br/><span style="color: #002818;">(-1.23%)</span> | 475,100<br/><span style="color: #B22222;">(+13.60%)</span> | 418,000<br/><span style="color: #8B0000;">(+3.64%)</span> |
-| **6月** | 540,200<br/><span style="color: #B22222;">(+10.10%)</span> | 490,700<br/><span style="color: #B22222;">(+16.10%)</span> | 422,800<br/><span style="color: #004225;">(-19.60%)</span> | 526,200<br/><span style="color: #FF4500;">(+31.00%)</span> | 401,600<br/><span style="color: #B22222;">(+11.40%)</span> |
-| **5月** | 615,700<br/><span style="color: #B22222;">(+11.90%)</span> | 550,200<br/><span style="color: #DC143C;">(+22.10%)</span> | 450,700<br/><span style="color: #002818;">(-9.45%)</span> | 497,800<br/><span style="color: #8B0000;">(+9.39%)</span> | 455,000<br/><span style="color: #B22222;">(+17.60%)</span> |
-| **4月** | 641,400<br/><span style="color: #DC143C;">(+25.50%)</span> | 510,900<br/><span style="color: #B22222;">(+19.00%)</span> | 429,200<br/><span style="color: #004225;">(-11.80%)</span> | 486,500<br/><span style="color: #002818;">(-2.80%)</span> | 500,500<br/><span style="color: #FF4500;">(+31.40%)</span> |
-| **3月** | 552,100<br/><span style="color: #DC143C;">(+23.40%)</span> | 447,500<br/><span style="color: #B22222;">(+11.80%)</span> | 400,300<br/><span style="color: #006400;">(-21.10%)</span> | 507,400<br/><span style="color: #B22222;">(+15.00%)</span> | 441,200<br/><span style="color: #DC143C;">(+26.90%)</span> |
-| **2月** | 551,400<br/><span style="color: #FF7F7F;">(+56.40%)</span> | 352,500<br/><span style="color: #004225;">(-12.30%)</span> | 402,000<br/><span style="color: #004225;">(-11.60%)</span> | 455,000<br/><span style="color: #B22222;">(+13.20%)</span> | 401,900<br/><span style="color: #FF7F7F;">(+84.80%)</span> |
-| **1月** | 538,700<br/><span style="color: #8B0000;">(+3.16%)</span> | 522,100<br/><span style="color: #006400;">(-20.90%)</span> | 660,400<br/><span style="color: #FF6347;">(+48.10%)</span> | 445,800<br/><span style="color: #004225;">(-10.90%)</span> | 500,200<br/><span style="color: #FF4500;">(+37.20%)</span> |
+| **12月** | -- | 862,900<br/><span style="color: #FF4500;">(+31.80%)</span> | 654,800<br/><span style="color: #FF6347;">(+42.30%)</span> | 460,100<br/><span style="color: #006400;">(-26.90%)</span> | 629,300<br/><span style="color: #004225;">(-12.30%)</span> |
+| **11月** | -- | 844,300<br/><span style="color: #DC143C;">(+25.50%)</span> | 672,600<br/><span style="color: #8B0000;">(+3.47%)</span> | 650,000<br/><span style="color: #B22222;">(+18.00%)</span> | 551,100<br/><span style="color: #004225;">(-11.40%)</span> |
+| **10月** | -- | 895,700<br/><span style="color: #B22222;">(+11.30%)</span> | 804,800<br/><span style="color: #8B0000;">(+8.58%)</span> | 741,200<br/><span style="color: #002818;">(-4.55%)</span> | 776,600<br/><span style="color: #FF6347;">(+41.00%)</span> |
+| **9月** | -- | 837,100<br/><span style="color: #B22222;">(+14.20%)</span> | 733,000<br/><span style="color: #B22222;">(+10.90%)</span> | 660,700<br/><span style="color: #004225;">(-19.60%)</span> | 822,300<br/><span style="color: #FF6347;">(+40.40%)</span> |
+| **8月** | -- | 606,500<br/><span style="color: #B22222;">(+10.60%)</span> | 548,300<br/><span style="color: #FF4500;">(+32.80%)</span> | 412,800<br/><span style="color: #002818;">(-8.03%)</span> | 448,900<br/><span style="color: #B22222;">(+12.20%)</span> |
+| **7月** | -- | 613,900<br/><span style="color: #8B0000;">(+7.25%)</span> | 572,400<br/><span style="color: #DC143C;">(+22.00%)</span> | 469,200<br/><span style="color: #002818;">(-1.23%)</span> | 475,100<br/><span style="color: #B22222;">(+13.60%)</span> |
+| **6月** | -- | 540,200<br/><span style="color: #B22222;">(+10.10%)</span> | 490,700<br/><span style="color: #B22222;">(+16.10%)</span> | 422,800<br/><span style="color: #004225;">(-19.60%)</span> | 526,200<br/><span style="color: #FF4500;">(+31.00%)</span> |
+| **5月** | -- | 615,700<br/><span style="color: #B22222;">(+11.90%)</span> | 550,200<br/><span style="color: #DC143C;">(+22.10%)</span> | 450,700<br/><span style="color: #002818;">(-9.45%)</span> | 497,800<br/><span style="color: #8B0000;">(+9.39%)</span> |
+| **4月** | -- | 641,400<br/><span style="color: #DC143C;">(+25.50%)</span> | 510,900<br/><span style="color: #B22222;">(+19.00%)</span> | 429,200<br/><span style="color: #004225;">(-11.80%)</span> | 486,500<br/><span style="color: #002818;">(-2.80%)</span> |
+| **3月** | -- | 552,100<br/><span style="color: #DC143C;">(+23.40%)</span> | 447,500<br/><span style="color: #B22222;">(+11.80%)</span> | 400,300<br/><span style="color: #006400;">(-21.10%)</span> | 507,400<br/><span style="color: #B22222;">(+15.00%)</span> |
+| **2月** | -- | 551,400<br/><span style="color: #FF7F7F;">(+56.40%)</span> | 352,500<br/><span style="color: #004225;">(-12.30%)</span> | 402,000<br/><span style="color: #004225;">(-11.60%)</span> | 455,000<br/><span style="color: #B22222;">(+13.20%)</span> |
+| **1月** | 730,000<br/><span style="color: #FF4500;">(+35.50%)</span> | 538,700<br/><span style="color: #8B0000;">(+3.16%)</span> | 522,100<br/><span style="color: #006400;">(-20.90%)</span> | 660,400<br/><span style="color: #FF6347;">(+48.10%)</span> | 445,800<br/><span style="color: #004225;">(-10.90%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **7300** | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | **220.5** | <span style="color: #FF6347; font-weight: bold;">13.72</span> | <span style="color: #B22222; font-weight: bold;">16.07</span> |
 | **2025/12** | **8629** | <span style="color: #FF4500; font-weight: bold;">+31.8</span> | <span style="color: #B22222; font-weight: bold;">+18.1</span> | **230.5** | <span style="color: #FF6347; font-weight: bold;">13.72</span> | <span style="color: #DC143C; font-weight: bold;">16.8</span> |
 | **2025/11** | **8443** | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **225.5** | <span style="color: #FF6347; font-weight: bold;">13.49</span> | <span style="color: #B22222; font-weight: bold;">16.71</span> |
 | **2025/10** | **8957** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #B22222; font-weight: bold;">+15.5</span> | **257.5** | <span style="color: #FF4500; font-weight: bold;">13.27</span> | <span style="color: #FF4500; font-weight: bold;">19.41</span> |
@@ -402,7 +403,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-07 03:24:36 CST
+- **產生時間**: 2026-02-07 05:08:14 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

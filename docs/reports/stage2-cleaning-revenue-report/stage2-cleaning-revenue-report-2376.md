@@ -24,14 +24,14 @@ description: 月營收表 技嘉 (2376) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 技嘉  
     **:identification_card: 股票代號**: 2376  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-07 03:24:36 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-07 05:08:14 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+72.2</span> | <span style="color: #DC143C; font-weight: bold;">+27.1</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #FF7F7F; font-weight: bold;">+57</span> | <span style="color: #FF7F7F; font-weight: bold;">+57</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 技嘉 (2376) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 30,310<br/><span style="color: #FF7F7F;">(+72.20%)</span> | 17,600<br/><span style="color: #FF4500;">(+37.00%)</span> | 12,850<br/><span style="color: #FF6347;">(+46.40%)</span> | 8,772<br/><span style="color: #B22222;">(+14.00%)</span> | 7,691<br/><span style="color: #B22222;">(+14.70%)</span> |
-| **11月** | 30,730<br/><span style="color: #FF4500;">(+38.20%)</span> | 22,240<br/><span style="color: #FF4500;">(+39.80%)</span> | 15,919<br/><span style="color: #FF6347;">(+46.50%)</span> | 10,860<br/><span style="color: #002818;">(-8.27%)</span> | 11,840<br/><span style="color: #DC143C;">(+26.00%)</span> |
-| **10月** | 28,320<br/><span style="color: #8B0000;">(+9.88%)</span> | 25,770<br/><span style="color: #FF7F7F;">(+53.70%)</span> | 16,760<br/><span style="color: #FF7F7F;">(+104.10%)</span> | 8,215<br/><span style="color: #006400;">(-24.80%)</span> | 10,920<br/><span style="color: #FF6347;">(+48.40%)</span> |
-| **9月** | 27,989<br/><span style="color: #8B0000;">(+4.68%)</span> | 26,739<br/><span style="color: #FF7F7F;">(+64.30%)</span> | 16,269<br/><span style="color: #FF7F7F;">(+85.60%)</span> | 8,768<br/><span style="color: #228B22;">(-31.20%)</span> | 12,740<br/><span style="color: #FF7F7F;">(+60.50%)</span> |
-| **8月** | 23,890<br/><span style="color: #002818;">(-3.14%)</span> | 24,660<br/><span style="color: #FF7F7F;">(+106.60%)</span> | 11,940<br/><span style="color: #FF7F7F;">(+51.20%)</span> | 7,897<br/><span style="color: #006400;">(-23.60%)</span> | 10,340<br/><span style="color: #FF6347;">(+48.40%)</span> |
-| **7月** | 27,689<br/><span style="color: #FF6347;">(+45.50%)</span> | 19,040<br/><span style="color: #FF7F7F;">(+119.00%)</span> | 8,692<br/><span style="color: #B22222;">(+16.90%)</span> | 7,434<br/><span style="color: #002818;">(-9.52%)</span> | 8,218<br/><span style="color: #8B0000;">(+1.47%)</span> |
-| **6月** | 25,450<br/><span style="color: #B22222;">(+11.00%)</span> | 22,930<br/><span style="color: #FF7F7F;">(+137.80%)</span> | 9,645<br/><span style="color: #B22222;">(+17.60%)</span> | 8,203<br/><span style="color: #004225;">(-10.30%)</span> | 9,139<br/><span style="color: #DC143C;">(+28.60%)</span> |
-| **5月** | 46,730<br/><span style="color: #FF7F7F;">(+107.90%)</span> | 22,480<br/><span style="color: #FF7F7F;">(+137.20%)</span> | 9,478<br/><span style="color: #FF4500;">(+38.50%)</span> | 6,841<br/><span style="color: #32CD32;">(-41.00%)</span> | 11,600<br/><span style="color: #FF7F7F;">(+52.00%)</span> |
-| **4月** | 30,100<br/><span style="color: #8B0000;">(+5.51%)</span> | 28,520<br/><span style="color: #FF7F7F;">(+290.50%)</span> | 7,304<br/><span style="color: #002818;">(-4.23%)</span> | 7,626<br/><span style="color: #228B22;">(-31.00%)</span> | 11,050<br/><span style="color: #FF7F7F;">(+79.20%)</span> |
-| **3月** | 22,320<br/><span style="color: #002818;">(-7.95%)</span> | 24,250<br/><span style="color: #FF7F7F;">(+149.20%)</span> | 9,734<br/><span style="color: #8B0000;">(+2.36%)</span> | 9,509<br/><span style="color: #004225;">(-13.60%)</span> | 11,010<br/><span style="color: #FF7F7F;">(+74.50%)</span> |
-| **2月** | 22,330<br/><span style="color: #FF7F7F;">(+59.80%)</span> | 13,969<br/><span style="color: #FF4500;">(+38.40%)</span> | 10,090<br/><span style="color: #B22222;">(+13.40%)</span> | 8,896<br/><span style="color: #DC143C;">(+27.60%)</span> | 6,969<br/><span style="color: #FF6347;">(+49.30%)</span> |
-| **1月** | 21,090<br/><span style="color: #DC143C;">(+24.60%)</span> | 16,930<br/><span style="color: #FF7F7F;">(+106.00%)</span> | 8,220<br/><span style="color: #32CD32;">(-42.10%)</span> | 14,210<br/><span style="color: #FF4500;">(+36.80%)</span> | 10,390<br/><span style="color: #FF7F7F;">(+66.00%)</span> |
+| **12月** | -- | 30,310<br/><span style="color: #FF7F7F;">(+72.20%)</span> | 17,600<br/><span style="color: #FF4500;">(+37.00%)</span> | 12,850<br/><span style="color: #FF6347;">(+46.40%)</span> | 8,772<br/><span style="color: #B22222;">(+14.00%)</span> |
+| **11月** | -- | 30,730<br/><span style="color: #FF4500;">(+38.20%)</span> | 22,240<br/><span style="color: #FF4500;">(+39.80%)</span> | 15,919<br/><span style="color: #FF6347;">(+46.50%)</span> | 10,860<br/><span style="color: #002818;">(-8.27%)</span> |
+| **10月** | -- | 28,320<br/><span style="color: #8B0000;">(+9.88%)</span> | 25,770<br/><span style="color: #FF7F7F;">(+53.70%)</span> | 16,760<br/><span style="color: #FF7F7F;">(+104.10%)</span> | 8,215<br/><span style="color: #006400;">(-24.80%)</span> |
+| **9月** | -- | 27,989<br/><span style="color: #8B0000;">(+4.68%)</span> | 26,739<br/><span style="color: #FF7F7F;">(+64.30%)</span> | 16,269<br/><span style="color: #FF7F7F;">(+85.60%)</span> | 8,768<br/><span style="color: #228B22;">(-31.20%)</span> |
+| **8月** | -- | 23,890<br/><span style="color: #002818;">(-3.14%)</span> | 24,660<br/><span style="color: #FF7F7F;">(+106.60%)</span> | 11,940<br/><span style="color: #FF7F7F;">(+51.20%)</span> | 7,897<br/><span style="color: #006400;">(-23.60%)</span> |
+| **7月** | -- | 27,689<br/><span style="color: #FF6347;">(+45.50%)</span> | 19,040<br/><span style="color: #FF7F7F;">(+119.00%)</span> | 8,692<br/><span style="color: #B22222;">(+16.90%)</span> | 7,434<br/><span style="color: #002818;">(-9.52%)</span> |
+| **6月** | -- | 25,450<br/><span style="color: #B22222;">(+11.00%)</span> | 22,930<br/><span style="color: #FF7F7F;">(+137.80%)</span> | 9,645<br/><span style="color: #B22222;">(+17.60%)</span> | 8,203<br/><span style="color: #004225;">(-10.30%)</span> |
+| **5月** | -- | 46,730<br/><span style="color: #FF7F7F;">(+107.90%)</span> | 22,480<br/><span style="color: #FF7F7F;">(+137.20%)</span> | 9,478<br/><span style="color: #FF4500;">(+38.50%)</span> | 6,841<br/><span style="color: #32CD32;">(-41.00%)</span> |
+| **4月** | -- | 30,100<br/><span style="color: #8B0000;">(+5.51%)</span> | 28,520<br/><span style="color: #FF7F7F;">(+290.50%)</span> | 7,304<br/><span style="color: #002818;">(-4.23%)</span> | 7,626<br/><span style="color: #228B22;">(-31.00%)</span> |
+| **3月** | -- | 22,320<br/><span style="color: #002818;">(-7.95%)</span> | 24,250<br/><span style="color: #FF7F7F;">(+149.20%)</span> | 9,734<br/><span style="color: #8B0000;">(+2.36%)</span> | 9,509<br/><span style="color: #004225;">(-13.60%)</span> |
+| **2月** | -- | 22,330<br/><span style="color: #FF7F7F;">(+59.80%)</span> | 13,969<br/><span style="color: #FF4500;">(+38.40%)</span> | 10,090<br/><span style="color: #B22222;">(+13.40%)</span> | 8,896<br/><span style="color: #DC143C;">(+27.60%)</span> |
+| **1月** | 33,120<br/><span style="color: #FF7F7F;">(+57.00%)</span> | 21,090<br/><span style="color: #DC143C;">(+24.60%)</span> | 16,930<br/><span style="color: #FF7F7F;">(+106.00%)</span> | 8,220<br/><span style="color: #32CD32;">(-42.10%)</span> | 14,210<br/><span style="color: #FF4500;">(+36.80%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 技嘉 (2376) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **331.2** | <span style="color: #FF7F7F; font-weight: bold;">+57</span> | <span style="color: #FF7F7F; font-weight: bold;">+57</span> | **233** | <span style="color: #DC143C; font-weight: bold;">18.06</span> | <span style="color: #004225; font-weight: bold;">12.9</span> |
 | **2025/12** | **303.1** | <span style="color: #FF7F7F; font-weight: bold;">+72.2</span> | <span style="color: #DC143C; font-weight: bold;">+27.1</span> | **249.5** | <span style="color: #DC143C; font-weight: bold;">18.06</span> | <span style="color: #002818; font-weight: bold;">13.82</span> |
 | **2025/11** | **307.3** | <span style="color: #FF4500; font-weight: bold;">+38.2</span> | <span style="color: #DC143C; font-weight: bold;">+23.9</span> | **243.5** | <span style="color: #DC143C; font-weight: bold;">17.81</span> | <span style="color: #002818; font-weight: bold;">13.67</span> |
 | **2025/10** | **283.2** | <span style="color: #8B0000; font-weight: bold;">+9.88</span> | <span style="color: #DC143C; font-weight: bold;">+22.5</span> | **280.5** | <span style="color: #DC143C; font-weight: bold;">17.56</span> | <span style="color: #002818; font-weight: bold;">15.98</span> |
@@ -413,7 +414,7 @@ description: 月營收表 技嘉 (2376) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-07 03:24:36 CST
+- **產生時間**: 2026-02-07 05:08:14 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 鴻準 (2354) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 鴻準  
     **:identification_card: 股票代號**: 2354  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-07 03:24:36 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-07 05:08:14 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-8.56</span> | <span style="color: #FF7F7F; font-weight: bold;">+106.2</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 鴻準 (2354) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 13,850<br/><span style="color: #002818;">(-8.56%)</span> | 15,150<br/><span style="color: #FF7F7F;">(+382.00%)</span> | 3,143<br/><span style="color: #90EE90;">(-71.90%)</span> | 11,200<br/><span style="color: #FF4500;">(+39.70%)</span> | 8,015<br/><span style="color: #006400;">(-21.50%)</span> |
-| **11月** | 13,830<br/><span style="color: #DC143C;">(+20.80%)</span> | 11,450<br/><span style="color: #FF7F7F;">(+223.20%)</span> | 3,544<br/><span style="color: #90EE90;">(-65.60%)</span> | 10,300<br/><span style="color: #DC143C;">(+24.90%)</span> | 8,248<br/><span style="color: #228B22;">(-32.20%)</span> |
-| **10月** | 14,919<br/><span style="color: #FF7F7F;">(+127.00%)</span> | 6,570<br/><span style="color: #DC143C;">(+21.80%)</span> | 5,397<br/><span style="color: #228B22;">(-37.70%)</span> | 8,669<br/><span style="color: #006400;">(-25.60%)</span> | 11,650<br/><span style="color: #002818;">(-2.65%)</span> |
-| **9月** | 12,960<br/><span style="color: #FF7F7F;">(+131.20%)</span> | 5,606<br/><span style="color: #004225;">(-18.50%)</span> | 6,880<br/><span style="color: #8B0000;">(+1.77%)</span> | 6,759<br/><span style="color: #32CD32;">(-45.90%)</span> | 12,500<br/><span style="color: #002818;">(-8.01%)</span> |
-| **8月** | 13,800<br/><span style="color: #FF7F7F;">(+103.50%)</span> | 6,784<br/><span style="color: #004225;">(-14.00%)</span> | 7,893<br/><span style="color: #FF6347;">(+42.10%)</span> | 5,554<br/><span style="color: #90EE90;">(-51.00%)</span> | 11,340<br/><span style="color: #8B0000;">(+1.97%)</span> |
-| **7月** | 15,580<br/><span style="color: #FF7F7F;">(+99.20%)</span> | 7,826<br/><span style="color: #8B0000;">(+3.51%)</span> | 7,559<br/><span style="color: #FF4500;">(+38.80%)</span> | 5,448<br/><span style="color: #32CD32;">(-42.50%)</span> | 9,483<br/><span style="color: #004225;">(-16.30%)</span> |
-| **6月** | 13,600<br/><span style="color: #FF7F7F;">(+127.50%)</span> | 5,979<br/><span style="color: #002818;">(-1.38%)</span> | 6,063<br/><span style="color: #8B0000;">(+7.60%)</span> | 5,635<br/><span style="color: #006400;">(-23.90%)</span> | 7,404<br/><span style="color: #006400;">(-20.40%)</span> |
-| **5月** | 14,750<br/><span style="color: #FF7F7F;">(+249.60%)</span> | 4,220<br/><span style="color: #004225;">(-19.50%)</span> | 5,240<br/><span style="color: #006400;">(-28.70%)</span> | 7,350<br/><span style="color: #004225;">(-11.10%)</span> | 8,265<br/><span style="color: #DC143C;">(+28.60%)</span> |
-| **4月** | 12,890<br/><span style="color: #FF7F7F;">(+290.20%)</span> | 3,303<br/><span style="color: #228B22;">(-34.20%)</span> | 5,020<br/><span style="color: #004225;">(-17.10%)</span> | 6,057<br/><span style="color: #004225;">(-11.40%)</span> | 6,834<br/><span style="color: #002818;">(-5.41%)</span> |
-| **3月** | 12,050<br/><span style="color: #FF7F7F;">(+280.80%)</span> | 3,165<br/><span style="color: #90EE90;">(-61.30%)</span> | 8,173<br/><span style="color: #002818;">(-6.82%)</span> | 8,772<br/><span style="color: #FF6347;">(+42.80%)</span> | 6,144<br/><span style="color: #DC143C;">(+22.60%)</span> |
-| **2月** | 9,419<br/><span style="color: #FF7F7F;">(+322.80%)</span> | 2,228<br/><span style="color: #90EE90;">(-64.90%)</span> | 6,355<br/><span style="color: #B22222;">(+11.30%)</span> | 5,710<br/><span style="color: #DC143C;">(+23.90%)</span> | 4,609<br/><span style="color: #FF7F7F;">(+246.00%)</span> |
-| **1月** | 8,503<br/><span style="color: #FF7F7F;">(+146.60%)</span> | 3,447<br/><span style="color: #90EE90;">(-62.60%)</span> | 9,220<br/><span style="color: #8B0000;">(+1.70%)</span> | 9,065<br/><span style="color: #002818;">(-3.26%)</span> | 9,371<br/><span style="color: #FF7F7F;">(+93.20%)</span> |
+| **12月** | -- | 13,850<br/><span style="color: #002818;">(-8.56%)</span> | 15,150<br/><span style="color: #FF7F7F;">(+382.00%)</span> | 3,143<br/><span style="color: #90EE90;">(-71.90%)</span> | 11,200<br/><span style="color: #FF4500;">(+39.70%)</span> |
+| **11月** | -- | 13,830<br/><span style="color: #DC143C;">(+20.80%)</span> | 11,450<br/><span style="color: #FF7F7F;">(+223.20%)</span> | 3,544<br/><span style="color: #90EE90;">(-65.60%)</span> | 10,300<br/><span style="color: #DC143C;">(+24.90%)</span> |
+| **10月** | -- | 14,919<br/><span style="color: #FF7F7F;">(+127.00%)</span> | 6,570<br/><span style="color: #DC143C;">(+21.80%)</span> | 5,397<br/><span style="color: #228B22;">(-37.70%)</span> | 8,669<br/><span style="color: #006400;">(-25.60%)</span> |
+| **9月** | -- | 12,960<br/><span style="color: #FF7F7F;">(+131.20%)</span> | 5,606<br/><span style="color: #004225;">(-18.50%)</span> | 6,880<br/><span style="color: #8B0000;">(+1.77%)</span> | 6,759<br/><span style="color: #32CD32;">(-45.90%)</span> |
+| **8月** | -- | 13,800<br/><span style="color: #FF7F7F;">(+103.50%)</span> | 6,784<br/><span style="color: #004225;">(-14.00%)</span> | 7,893<br/><span style="color: #FF6347;">(+42.10%)</span> | 5,554<br/><span style="color: #90EE90;">(-51.00%)</span> |
+| **7月** | -- | 15,580<br/><span style="color: #FF7F7F;">(+99.20%)</span> | 7,826<br/><span style="color: #8B0000;">(+3.51%)</span> | 7,559<br/><span style="color: #FF4500;">(+38.80%)</span> | 5,448<br/><span style="color: #32CD32;">(-42.50%)</span> |
+| **6月** | -- | 13,600<br/><span style="color: #FF7F7F;">(+127.50%)</span> | 5,979<br/><span style="color: #002818;">(-1.38%)</span> | 6,063<br/><span style="color: #8B0000;">(+7.60%)</span> | 5,635<br/><span style="color: #006400;">(-23.90%)</span> |
+| **5月** | -- | 14,750<br/><span style="color: #FF7F7F;">(+249.60%)</span> | 4,220<br/><span style="color: #004225;">(-19.50%)</span> | 5,240<br/><span style="color: #006400;">(-28.70%)</span> | 7,350<br/><span style="color: #004225;">(-11.10%)</span> |
+| **4月** | -- | 12,890<br/><span style="color: #FF7F7F;">(+290.20%)</span> | 3,303<br/><span style="color: #228B22;">(-34.20%)</span> | 5,020<br/><span style="color: #004225;">(-17.10%)</span> | 6,057<br/><span style="color: #004225;">(-11.40%)</span> |
+| **3月** | -- | 12,050<br/><span style="color: #FF7F7F;">(+280.80%)</span> | 3,165<br/><span style="color: #90EE90;">(-61.30%)</span> | 8,173<br/><span style="color: #002818;">(-6.82%)</span> | 8,772<br/><span style="color: #FF6347;">(+42.80%)</span> |
+| **2月** | -- | 9,419<br/><span style="color: #FF7F7F;">(+322.80%)</span> | 2,228<br/><span style="color: #90EE90;">(-64.90%)</span> | 6,355<br/><span style="color: #B22222;">(+11.30%)</span> | 5,710<br/><span style="color: #DC143C;">(+23.90%)</span> |
+| **1月** | 13,390<br/><span style="color: #FF7F7F;">(+57.50%)</span> | 8,503<br/><span style="color: #FF7F7F;">(+146.60%)</span> | 3,447<br/><span style="color: #90EE90;">(-62.60%)</span> | 9,220<br/><span style="color: #8B0000;">(+1.70%)</span> | 9,065<br/><span style="color: #002818;">(-3.26%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 鴻準 (2354) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **133.9** | <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | **57.4** | <span style="color: #006400; font-weight: bold;">2.32</span> | <span style="color: #B22222; font-weight: bold;">24.74</span> |
 | **2025/12** | **138.5** | <span style="color: #002818; font-weight: bold;">-8.56</span> | <span style="color: #FF7F7F; font-weight: bold;">+106.2</span> | **61.7** | <span style="color: #006400; font-weight: bold;">2.32</span> | <span style="color: #DC143C; font-weight: bold;">26.59</span> |
 | **2025/11** | **138.3** | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | **65.2** | <span style="color: #006400; font-weight: bold;">2.34</span> | <span style="color: #DC143C; font-weight: bold;">27.89</span> |
 | **2025/10** | **149.2** | <span style="color: #FF7F7F; font-weight: bold;">+127</span> | <span style="color: #FF7F7F; font-weight: bold;">+161.5</span> | **71.5** | <span style="color: #006400; font-weight: bold;">2.36</span> | <span style="color: #DC143C; font-weight: bold;">30.36</span> |
@@ -413,7 +414,7 @@ description: 月營收表 鴻準 (2354) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-07 03:24:36 CST
+- **產生時間**: 2026-02-07 05:08:14 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 信驊 (5274) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 信驊  
     **:identification_card: 股票代號**: 5274  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-07 03:24:36 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-07 05:08:14 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+18.4</span> | <span style="color: #FF6347; font-weight: bold;">+40.6</span> | **168** 個月 | 2012/01 至 2025/12 |
+| <span style="color: #DC143C; font-weight: bold;">+28.5</span> | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | **169** 個月 | 2012/01 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 信驊 (5274) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 872<br/><span style="color: #B22222;">(+18.40%)</span> | 737<br/><span style="color: #FF7F7F;">(+131.30%)</span> | 319<br/><span style="color: #004225;">(-18.50%)</span> | 391<br/><span style="color: #8B0000;">(+5.43%)</span> | 371<br/><span style="color: #FF4500;">(+32.10%)</span> |
-| **11月** | 840<br/><span style="color: #DC143C;">(+23.40%)</span> | 681<br/><span style="color: #FF7F7F;">(+99.10%)</span> | 342<br/><span style="color: #004225;">(-18.40%)</span> | 419<br/><span style="color: #FF4500;">(+37.60%)</span> | 305<br/><span style="color: #FF4500;">(+33.60%)</span> |
-| **10月** | 731<br/><span style="color: #8B0000;">(+6.53%)</span> | 686<br/><span style="color: #FF7F7F;">(+111.90%)</span> | 324<br/><span style="color: #228B22;">(-37.30%)</span> | 517<br/><span style="color: #FF6347;">(+45.10%)</span> | 356<br/><span style="color: #FF7F7F;">(+88.60%)</span> |
-| **9月** | 814<br/><span style="color: #B22222;">(+15.00%)</span> | 708<br/><span style="color: #FF7F7F;">(+120.20%)</span> | 322<br/><span style="color: #228B22;">(-32.50%)</span> | 476<br/><span style="color: #FF7F7F;">(+55.60%)</span> | 306<br/><span style="color: #FF6347;">(+47.70%)</span> |
-| **8月** | 744<br/><span style="color: #8B0000;">(+9.94%)</span> | 677<br/><span style="color: #FF7F7F;">(+178.10%)</span> | 243<br/><span style="color: #228B22;">(-39.50%)</span> | 403<br/><span style="color: #FF4500;">(+32.60%)</span> | 304<br/><span style="color: #FF6347;">(+49.50%)</span> |
-| **7月** | 771<br/><span style="color: #DC143C;">(+28.30%)</span> | 601<br/><span style="color: #FF7F7F;">(+159.40%)</span> | 231<br/><span style="color: #32CD32;">(-45.80%)</span> | 426<br/><span style="color: #DC143C;">(+29.70%)</span> | 329<br/><span style="color: #8B0000;">(+2.26%)</span> |
-| **6月** | 782<br/><span style="color: #FF7F7F;">(+55.00%)</span> | 505<br/><span style="color: #FF7F7F;">(+123.00%)</span> | 225<br/><span style="color: #90EE90;">(-55.20%)</span> | 505<br/><span style="color: #FF7F7F;">(+53.70%)</span> | 329<br/><span style="color: #8B0000;">(+1.08%)</span> |
-| **5月** | 760<br/><span style="color: #FF7F7F;">(+74.50%)</span> | 434<br/><span style="color: #FF7F7F;">(+92.90%)</span> | 225<br/><span style="color: #90EE90;">(-51.50%)</span> | 466<br/><span style="color: #FF7F7F;">(+52.70%)</span> | 305<br/><span style="color: #8B0000;">(+0.83%)</span> |
-| **4月** | 704<br/><span style="color: #FF7F7F;">(+69.40%)</span> | 416<br/><span style="color: #FF7F7F;">(+82.40%)</span> | 227<br/><span style="color: #32CD32;">(-49.80%)</span> | 454<br/><span style="color: #FF7F7F;">(+60.70%)</span> | 283<br/><span style="color: #8B0000;">(+3.29%)</span> |
-| **3月** | 755<br/><span style="color: #FF7F7F;">(+110.30%)</span> | 359<br/><span style="color: #FF7F7F;">(+59.00%)</span> | 225<br/><span style="color: #32CD32;">(-47.80%)</span> | 433<br/><span style="color: #FF7F7F;">(+66.30%)</span> | 260<br/><span style="color: #8B0000;">(+1.03%)</span> |
-| **2月** | 609<br/><span style="color: #FF7F7F;">(+108.60%)</span> | 292<br/><span style="color: #FF4500;">(+30.90%)</span> | 223<br/><span style="color: #228B22;">(-33.20%)</span> | 334<br/><span style="color: #FF4500;">(+32.50%)</span> | 252<br/><span style="color: #8B0000;">(+3.73%)</span> |
-| **1月** | 701<br/><span style="color: #FF7F7F;">(+93.40%)</span> | 362<br/><span style="color: #FF7F7F;">(+64.30%)</span> | 220<br/><span style="color: #32CD32;">(-42.70%)</span> | 385<br/><span style="color: #FF7F7F;">(+61.50%)</span> | 238<br/><span style="color: #8B0000;">(+2.76%)</span> |
+| **12月** | -- | 872<br/><span style="color: #B22222;">(+18.40%)</span> | 737<br/><span style="color: #FF7F7F;">(+131.30%)</span> | 319<br/><span style="color: #004225;">(-18.50%)</span> | 391<br/><span style="color: #8B0000;">(+5.43%)</span> |
+| **11月** | -- | 840<br/><span style="color: #DC143C;">(+23.40%)</span> | 681<br/><span style="color: #FF7F7F;">(+99.10%)</span> | 342<br/><span style="color: #004225;">(-18.40%)</span> | 419<br/><span style="color: #FF4500;">(+37.60%)</span> |
+| **10月** | -- | 731<br/><span style="color: #8B0000;">(+6.53%)</span> | 686<br/><span style="color: #FF7F7F;">(+111.90%)</span> | 324<br/><span style="color: #228B22;">(-37.30%)</span> | 517<br/><span style="color: #FF6347;">(+45.10%)</span> |
+| **9月** | -- | 814<br/><span style="color: #B22222;">(+15.00%)</span> | 708<br/><span style="color: #FF7F7F;">(+120.20%)</span> | 322<br/><span style="color: #228B22;">(-32.50%)</span> | 476<br/><span style="color: #FF7F7F;">(+55.60%)</span> |
+| **8月** | -- | 744<br/><span style="color: #8B0000;">(+9.94%)</span> | 677<br/><span style="color: #FF7F7F;">(+178.10%)</span> | 243<br/><span style="color: #228B22;">(-39.50%)</span> | 403<br/><span style="color: #FF4500;">(+32.60%)</span> |
+| **7月** | -- | 771<br/><span style="color: #DC143C;">(+28.30%)</span> | 601<br/><span style="color: #FF7F7F;">(+159.40%)</span> | 231<br/><span style="color: #32CD32;">(-45.80%)</span> | 426<br/><span style="color: #DC143C;">(+29.70%)</span> |
+| **6月** | -- | 782<br/><span style="color: #FF7F7F;">(+55.00%)</span> | 505<br/><span style="color: #FF7F7F;">(+123.00%)</span> | 225<br/><span style="color: #90EE90;">(-55.20%)</span> | 505<br/><span style="color: #FF7F7F;">(+53.70%)</span> |
+| **5月** | -- | 760<br/><span style="color: #FF7F7F;">(+74.50%)</span> | 434<br/><span style="color: #FF7F7F;">(+92.90%)</span> | 225<br/><span style="color: #90EE90;">(-51.50%)</span> | 466<br/><span style="color: #FF7F7F;">(+52.70%)</span> |
+| **4月** | -- | 704<br/><span style="color: #FF7F7F;">(+69.40%)</span> | 416<br/><span style="color: #FF7F7F;">(+82.40%)</span> | 227<br/><span style="color: #32CD32;">(-49.80%)</span> | 454<br/><span style="color: #FF7F7F;">(+60.70%)</span> |
+| **3月** | -- | 755<br/><span style="color: #FF7F7F;">(+110.30%)</span> | 359<br/><span style="color: #FF7F7F;">(+59.00%)</span> | 225<br/><span style="color: #32CD32;">(-47.80%)</span> | 433<br/><span style="color: #FF7F7F;">(+66.30%)</span> |
+| **2月** | -- | 609<br/><span style="color: #FF7F7F;">(+108.60%)</span> | 292<br/><span style="color: #FF4500;">(+30.90%)</span> | 223<br/><span style="color: #228B22;">(-33.20%)</span> | 334<br/><span style="color: #FF4500;">(+32.50%)</span> |
+| **1月** | 900<br/><span style="color: #DC143C;">(+28.50%)</span> | 701<br/><span style="color: #FF7F7F;">(+93.40%)</span> | 362<br/><span style="color: #FF7F7F;">(+64.30%)</span> | 220<br/><span style="color: #32CD32;">(-42.70%)</span> | 385<br/><span style="color: #FF7F7F;">(+61.50%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 信驊 (5274) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **9** | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | **8880** | <span style="color: #FF6347; font-weight: bold;">97.17</span> | <span style="color: #FF4500; font-weight: bold;">91.39</span> |
 | **2025/12** | **8.72** | <span style="color: #B22222; font-weight: bold;">+18.4</span> | <span style="color: #FF6347; font-weight: bold;">+40.6</span> | **7260** | <span style="color: #FF6347; font-weight: bold;">97.17</span> | <span style="color: #DC143C; font-weight: bold;">74.71</span> |
 | **2025/11** | **8.4** | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #FF6347; font-weight: bold;">+43.5</span> | **7315** | <span style="color: #FF6347; font-weight: bold;">94.74</span> | <span style="color: #DC143C; font-weight: bold;">77.21</span> |
 | **2025/10** | **7.31** | <span style="color: #8B0000; font-weight: bold;">+6.53</span> | <span style="color: #FF6347; font-weight: bold;">+46.2</span> | **5470** | <span style="color: #FF6347; font-weight: bold;">92.32</span> | <span style="color: #8B0000; font-weight: bold;">59.25</span> |
@@ -342,7 +343,7 @@ description: 月營收表 信驊 (5274) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-07 03:24:36 CST
+- **產生時間**: 2026-02-07 05:08:14 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

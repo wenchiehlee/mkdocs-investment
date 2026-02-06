@@ -24,14 +24,14 @@ description: 月營收表 緯創 (3231) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 緯創  
     **:identification_card: 股票代號**: 3231  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-07 03:24:36 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-07 05:08:14 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+141.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+108.4</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #FF7F7F; font-weight: bold;">+151.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+151.5</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 緯創 (3231) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 255,300<br/><span style="color: #FF7F7F;">(+141.60%)</span> | 105,700<br/><span style="color: #FF6347;">(+41.40%)</span> | 74,700<br/><span style="color: #006400;">(-22.50%)</span> | 96,430<br/><span style="color: #8B0000;">(+0.36%)</span> | 96,080<br/><span style="color: #FF4500;">(+30.70%)</span> |
-| **11月** | 280,600<br/><span style="color: #FF7F7F;">(+194.60%)</span> | 95,240<br/><span style="color: #DC143C;">(+24.60%)</span> | 76,440<br/><span style="color: #004225;">(-13.70%)</span> | 88,600<br/><span style="color: #8B0000;">(+2.78%)</span> | 86,200<br/><span style="color: #002818;">(-0.70%)</span> |
-| **10月** | 185,100<br/><span style="color: #FF7F7F;">(+92.20%)</span> | 96,280<br/><span style="color: #DC143C;">(+22.80%)</span> | 78,400<br/><span style="color: #002818;">(-0.25%)</span> | 78,600<br/><span style="color: #002818;">(-2.04%)</span> | 80,240<br/><span style="color: #B22222;">(+11.10%)</span> |
-| **9月** | 203,400<br/><span style="color: #FF7F7F;">(+109.90%)</span> | 96,900<br/><span style="color: #DC143C;">(+24.40%)</span> | 77,880<br/><span style="color: #004225;">(-16.70%)</span> | 93,540<br/><span style="color: #B22222;">(+13.20%)</span> | 82,590<br/><span style="color: #B22222;">(+19.50%)</span> |
-| **8月** | 172,600<br/><span style="color: #FF7F7F;">(+92.20%)</span> | 89,820<br/><span style="color: #DC143C;">(+23.20%)</span> | 72,890<br/><span style="color: #002818;">(-5.18%)</span> | 76,880<br/><span style="color: #8B0000;">(+9.38%)</span> | 70,280<br/><span style="color: #8B0000;">(+0.38%)</span> |
-| **7月** | 191,700<br/><span style="color: #FF7F7F;">(+122.40%)</span> | 86,190<br/><span style="color: #DC143C;">(+27.30%)</span> | 67,720<br/><span style="color: #004225;">(-15.00%)</span> | 79,680<br/><span style="color: #B22222;">(+18.00%)</span> | 67,520<br/><span style="color: #004225;">(-13.90%)</span> |
-| **6月** | 209,200<br/><span style="color: #FF7F7F;">(+135.60%)</span> | 88,790<br/><span style="color: #8B0000;">(+9.48%)</span> | 81,100<br/><span style="color: #006400;">(-20.10%)</span> | 101,500<br/><span style="color: #FF6347;">(+41.20%)</span> | 71,900<br/><span style="color: #002818;">(-8.98%)</span> |
-| **5月** | 208,400<br/><span style="color: #FF7F7F;">(+162.10%)</span> | 79,500<br/><span style="color: #DC143C;">(+25.50%)</span> | 63,329<br/><span style="color: #004225;">(-14.80%)</span> | 74,340<br/><span style="color: #DC143C;">(+21.90%)</span> | 60,970<br/><span style="color: #004225;">(-19.00%)</span> |
-| **4月** | 133,700<br/><span style="color: #FF7F7F;">(+84.00%)</span> | 72,640<br/><span style="color: #B22222;">(+16.90%)</span> | 62,129<br/><span style="color: #002818;">(-9.10%)</span> | 68,350<br/><span style="color: #8B0000;">(+0.19%)</span> | 68,220<br/><span style="color: #8B0000;">(+2.01%)</span> |
-| **3月** | 153,000<br/><span style="color: #FF7F7F;">(+70.30%)</span> | 89,830<br/><span style="color: #002818;">(-5.40%)</span> | 94,970<br/><span style="color: #8B0000;">(+0.11%)</span> | 94,860<br/><span style="color: #FF4500;">(+37.30%)</span> | 69,090<br/><span style="color: #8B0000;">(+1.11%)</span> |
-| **2月** | 102,700<br/><span style="color: #DC143C;">(+26.60%)</span> | 81,100<br/><span style="color: #FF4500;">(+30.70%)</span> | 62,070<br/><span style="color: #002818;">(-3.96%)</span> | 64,629<br/><span style="color: #FF4500;">(+30.60%)</span> | 49,480<br/><span style="color: #B22222;">(+10.30%)</span> |
-| **1月** | 90,790<br/><span style="color: #FF4500;">(+34.90%)</span> | 67,300<br/><span style="color: #DC143C;">(+22.40%)</span> | 54,970<br/><span style="color: #004225;">(-17.90%)</span> | 66,960<br/><span style="color: #B22222;">(+14.30%)</span> | 58,570<br/><span style="color: #002818;">(-3.17%)</span> |
+| **12月** | -- | 255,300<br/><span style="color: #FF7F7F;">(+141.60%)</span> | 105,700<br/><span style="color: #FF6347;">(+41.40%)</span> | 74,700<br/><span style="color: #006400;">(-22.50%)</span> | 96,430<br/><span style="color: #8B0000;">(+0.36%)</span> |
+| **11月** | -- | 280,600<br/><span style="color: #FF7F7F;">(+194.60%)</span> | 95,240<br/><span style="color: #DC143C;">(+24.60%)</span> | 76,440<br/><span style="color: #004225;">(-13.70%)</span> | 88,600<br/><span style="color: #8B0000;">(+2.78%)</span> |
+| **10月** | -- | 185,100<br/><span style="color: #FF7F7F;">(+92.20%)</span> | 96,280<br/><span style="color: #DC143C;">(+22.80%)</span> | 78,400<br/><span style="color: #002818;">(-0.25%)</span> | 78,600<br/><span style="color: #002818;">(-2.04%)</span> |
+| **9月** | -- | 203,400<br/><span style="color: #FF7F7F;">(+109.90%)</span> | 96,900<br/><span style="color: #DC143C;">(+24.40%)</span> | 77,880<br/><span style="color: #004225;">(-16.70%)</span> | 93,540<br/><span style="color: #B22222;">(+13.20%)</span> |
+| **8月** | -- | 172,600<br/><span style="color: #FF7F7F;">(+92.20%)</span> | 89,820<br/><span style="color: #DC143C;">(+23.20%)</span> | 72,890<br/><span style="color: #002818;">(-5.18%)</span> | 76,880<br/><span style="color: #8B0000;">(+9.38%)</span> |
+| **7月** | -- | 191,700<br/><span style="color: #FF7F7F;">(+122.40%)</span> | 86,190<br/><span style="color: #DC143C;">(+27.30%)</span> | 67,720<br/><span style="color: #004225;">(-15.00%)</span> | 79,680<br/><span style="color: #B22222;">(+18.00%)</span> |
+| **6月** | -- | 209,200<br/><span style="color: #FF7F7F;">(+135.60%)</span> | 88,790<br/><span style="color: #8B0000;">(+9.48%)</span> | 81,100<br/><span style="color: #006400;">(-20.10%)</span> | 101,500<br/><span style="color: #FF6347;">(+41.20%)</span> |
+| **5月** | -- | 208,400<br/><span style="color: #FF7F7F;">(+162.10%)</span> | 79,500<br/><span style="color: #DC143C;">(+25.50%)</span> | 63,329<br/><span style="color: #004225;">(-14.80%)</span> | 74,340<br/><span style="color: #DC143C;">(+21.90%)</span> |
+| **4月** | -- | 133,700<br/><span style="color: #FF7F7F;">(+84.00%)</span> | 72,640<br/><span style="color: #B22222;">(+16.90%)</span> | 62,129<br/><span style="color: #002818;">(-9.10%)</span> | 68,350<br/><span style="color: #8B0000;">(+0.19%)</span> |
+| **3月** | -- | 153,000<br/><span style="color: #FF7F7F;">(+70.30%)</span> | 89,830<br/><span style="color: #002818;">(-5.40%)</span> | 94,970<br/><span style="color: #8B0000;">(+0.11%)</span> | 94,860<br/><span style="color: #FF4500;">(+37.30%)</span> |
+| **2月** | -- | 102,700<br/><span style="color: #DC143C;">(+26.60%)</span> | 81,100<br/><span style="color: #FF4500;">(+30.70%)</span> | 62,070<br/><span style="color: #002818;">(-3.96%)</span> | 64,629<br/><span style="color: #FF4500;">(+30.60%)</span> |
+| **1月** | 228,400<br/><span style="color: #FF7F7F;">(+151.50%)</span> | 90,790<br/><span style="color: #FF4500;">(+34.90%)</span> | 67,300<br/><span style="color: #DC143C;">(+22.40%)</span> | 54,970<br/><span style="color: #004225;">(-17.90%)</span> | 66,960<br/><span style="color: #B22222;">(+14.30%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 緯創 (3231) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **2284** | <span style="color: #FF7F7F; font-weight: bold;">+151.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+151.5</span> | **130.5** | <span style="color: #FF6347; font-weight: bold;">8.2</span> | <span style="color: #8B0000; font-weight: bold;">15.91</span> |
 | **2025/12** | **2553** | <span style="color: #FF7F7F; font-weight: bold;">+141.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+108.4</span> | **150.5** | <span style="color: #FF6347; font-weight: bold;">8.2</span> | <span style="color: #B22222; font-weight: bold;">18.35</span> |
 | **2025/11** | **2806** | <span style="color: #FF7F7F; font-weight: bold;">+194.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+104.7</span> | **144.5** | <span style="color: #FF6347; font-weight: bold;">8.03</span> | <span style="color: #B22222; font-weight: bold;">18.0</span> |
 | **2025/10** | **1851** | <span style="color: #FF7F7F; font-weight: bold;">+92.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+94.6</span> | **150.5** | <span style="color: #FF6347; font-weight: bold;">7.85</span> | <span style="color: #B22222; font-weight: bold;">19.17</span> |
@@ -413,7 +414,7 @@ description: 月營收表 緯創 (3231) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-07 03:24:36 CST
+- **產生時間**: 2026-02-07 05:08:14 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

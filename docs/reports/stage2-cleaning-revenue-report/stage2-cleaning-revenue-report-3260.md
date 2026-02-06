@@ -24,14 +24,14 @@ description: 月營收表 威剛 (3260) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 威剛  
     **:identification_card: 股票代號**: 3260  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-07 03:24:36 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-07 05:08:14 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+101.2</span> | <span style="color: #FF4500; font-weight: bold;">+32.5</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #FF7F7F; font-weight: bold;">+198.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+198.9</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 威剛 (3260) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 5,810<br/><span style="color: #FF7F7F;">(+101.20%)</span> | 2,887<br/><span style="color: #002818;">(-8.20%)</span> | 3,145<br/><span style="color: #FF4500;">(+33.50%)</span> | 2,356<br/><span style="color: #006400;">(-27.90%)</span> | 3,267<br/><span style="color: #B22222;">(+16.80%)</span> |
-| **11月** | 5,598<br/><span style="color: #FF7F7F;">(+60.20%)</span> | 3,494<br/><span style="color: #004225;">(-14.70%)</span> | 4,095<br/><span style="color: #FF7F7F;">(+56.20%)</span> | 2,621<br/><span style="color: #006400;">(-26.70%)</span> | 3,576<br/><span style="color: #B22222;">(+14.50%)</span> |
-| **10月** | 4,463<br/><span style="color: #FF4500;">(+30.90%)</span> | 3,410<br/><span style="color: #004225;">(-10.00%)</span> | 3,790<br/><span style="color: #FF4500;">(+39.60%)</span> | 2,716<br/><span style="color: #004225;">(-18.20%)</span> | 3,322<br/><span style="color: #B22222;">(+14.90%)</span> |
-| **9月** | 5,244<br/><span style="color: #FF7F7F;">(+61.20%)</span> | 3,254<br/><span style="color: #002818;">(-2.65%)</span> | 3,342<br/><span style="color: #8B0000;">(+3.95%)</span> | 3,215<br/><span style="color: #8B0000;">(+0.37%)</span> | 3,203<br/><span style="color: #8B0000;">(+0.09%)</span> |
-| **8月** | 4,983<br/><span style="color: #FF7F7F;">(+64.50%)</span> | 3,029<br/><span style="color: #8B0000;">(+1.93%)</span> | 2,971<br/><span style="color: #002818;">(-1.12%)</span> | 3,005<br/><span style="color: #002818;">(-6.62%)</span> | 3,218<br/><span style="color: #DC143C;">(+20.00%)</span> |
-| **7月** | 4,261<br/><span style="color: #FF4500;">(+39.50%)</span> | 3,054<br/><span style="color: #FF4500;">(+34.00%)</span> | 2,278<br/><span style="color: #004225;">(-14.60%)</span> | 2,667<br/><span style="color: #004225;">(-18.40%)</span> | 3,268<br/><span style="color: #DC143C;">(+20.30%)</span> |
-| **6月** | 4,698<br/><span style="color: #FF7F7F;">(+59.00%)</span> | 2,954<br/><span style="color: #DC143C;">(+29.40%)</span> | 2,283<br/><span style="color: #006400;">(-23.90%)</span> | 2,999<br/><span style="color: #004225;">(-11.40%)</span> | 3,385<br/><span style="color: #DC143C;">(+23.00%)</span> |
-| **5月** | 4,169<br/><span style="color: #DC143C;">(+29.20%)</span> | 3,227<br/><span style="color: #FF4500;">(+31.50%)</span> | 2,454<br/><span style="color: #004225;">(-12.50%)</span> | 2,806<br/><span style="color: #006400;">(-22.80%)</span> | 3,634<br/><span style="color: #FF4500;">(+39.20%)</span> |
-| **4月** | 3,917<br/><span style="color: #8B0000;">(+1.78%)</span> | 3,847<br/><span style="color: #FF7F7F;">(+80.80%)</span> | 2,129<br/><span style="color: #006400;">(-26.80%)</span> | 2,907<br/><span style="color: #004225;">(-19.30%)</span> | 3,602<br/><span style="color: #FF7F7F;">(+74.00%)</span> |
-| **3月** | 3,743<br/><span style="color: #002818;">(-5.83%)</span> | 3,975<br/><span style="color: #FF7F7F;">(+56.60%)</span> | 2,539<br/><span style="color: #006400;">(-22.00%)</span> | 3,254<br/><span style="color: #002818;">(-2.94%)</span> | 3,353<br/><span style="color: #B22222;">(+15.80%)</span> |
-| **2月** | 3,343<br/><span style="color: #8B0000;">(+0.07%)</span> | 3,340<br/><span style="color: #FF4500;">(+34.00%)</span> | 2,493<br/><span style="color: #006400;">(-21.70%)</span> | 3,186<br/><span style="color: #B22222;">(+13.30%)</span> | 2,812<br/><span style="color: #B22222;">(+12.30%)</span> |
-| **1月** | 2,814<br/><span style="color: #006400;">(-21.10%)</span> | 3,565<br/><span style="color: #FF7F7F;">(+63.80%)</span> | 2,177<br/><span style="color: #228B22;">(-34.40%)</span> | 3,321<br/><span style="color: #B22222;">(+13.30%)</span> | 2,931<br/><span style="color: #FF7F7F;">(+59.50%)</span> |
+| **12月** | -- | 5,810<br/><span style="color: #FF7F7F;">(+101.20%)</span> | 2,887<br/><span style="color: #002818;">(-8.20%)</span> | 3,145<br/><span style="color: #FF4500;">(+33.50%)</span> | 2,356<br/><span style="color: #006400;">(-27.90%)</span> |
+| **11月** | -- | 5,598<br/><span style="color: #FF7F7F;">(+60.20%)</span> | 3,494<br/><span style="color: #004225;">(-14.70%)</span> | 4,095<br/><span style="color: #FF7F7F;">(+56.20%)</span> | 2,621<br/><span style="color: #006400;">(-26.70%)</span> |
+| **10月** | -- | 4,463<br/><span style="color: #FF4500;">(+30.90%)</span> | 3,410<br/><span style="color: #004225;">(-10.00%)</span> | 3,790<br/><span style="color: #FF4500;">(+39.60%)</span> | 2,716<br/><span style="color: #004225;">(-18.20%)</span> |
+| **9月** | -- | 5,244<br/><span style="color: #FF7F7F;">(+61.20%)</span> | 3,254<br/><span style="color: #002818;">(-2.65%)</span> | 3,342<br/><span style="color: #8B0000;">(+3.95%)</span> | 3,215<br/><span style="color: #8B0000;">(+0.37%)</span> |
+| **8月** | -- | 4,983<br/><span style="color: #FF7F7F;">(+64.50%)</span> | 3,029<br/><span style="color: #8B0000;">(+1.93%)</span> | 2,971<br/><span style="color: #002818;">(-1.12%)</span> | 3,005<br/><span style="color: #002818;">(-6.62%)</span> |
+| **7月** | -- | 4,261<br/><span style="color: #FF4500;">(+39.50%)</span> | 3,054<br/><span style="color: #FF4500;">(+34.00%)</span> | 2,278<br/><span style="color: #004225;">(-14.60%)</span> | 2,667<br/><span style="color: #004225;">(-18.40%)</span> |
+| **6月** | -- | 4,698<br/><span style="color: #FF7F7F;">(+59.00%)</span> | 2,954<br/><span style="color: #DC143C;">(+29.40%)</span> | 2,283<br/><span style="color: #006400;">(-23.90%)</span> | 2,999<br/><span style="color: #004225;">(-11.40%)</span> |
+| **5月** | -- | 4,169<br/><span style="color: #DC143C;">(+29.20%)</span> | 3,227<br/><span style="color: #FF4500;">(+31.50%)</span> | 2,454<br/><span style="color: #004225;">(-12.50%)</span> | 2,806<br/><span style="color: #006400;">(-22.80%)</span> |
+| **4月** | -- | 3,917<br/><span style="color: #8B0000;">(+1.78%)</span> | 3,847<br/><span style="color: #FF7F7F;">(+80.80%)</span> | 2,129<br/><span style="color: #006400;">(-26.80%)</span> | 2,907<br/><span style="color: #004225;">(-19.30%)</span> |
+| **3月** | -- | 3,743<br/><span style="color: #002818;">(-5.83%)</span> | 3,975<br/><span style="color: #FF7F7F;">(+56.60%)</span> | 2,539<br/><span style="color: #006400;">(-22.00%)</span> | 3,254<br/><span style="color: #002818;">(-2.94%)</span> |
+| **2月** | -- | 3,343<br/><span style="color: #8B0000;">(+0.07%)</span> | 3,340<br/><span style="color: #FF4500;">(+34.00%)</span> | 2,493<br/><span style="color: #006400;">(-21.70%)</span> | 3,186<br/><span style="color: #B22222;">(+13.30%)</span> |
+| **1月** | 8,412<br/><span style="color: #FF7F7F;">(+198.90%)</span> | 2,814<br/><span style="color: #006400;">(-21.10%)</span> | 3,565<br/><span style="color: #FF7F7F;">(+63.80%)</span> | 2,177<br/><span style="color: #228B22;">(-34.40%)</span> | 3,321<br/><span style="color: #B22222;">(+13.30%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **84.12** | <span style="color: #FF7F7F; font-weight: bold;">+198.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+198.9</span> | **363.5** | <span style="color: #FF4500; font-weight: bold;">11.05</span> | <span style="color: #8B0000; font-weight: bold;">32.9</span> |
 | **2025/12** | **58.1** | <span style="color: #FF7F7F; font-weight: bold;">+101.2</span> | <span style="color: #FF4500; font-weight: bold;">+32.5</span> | **279.5** | <span style="color: #FF4500; font-weight: bold;">11.05</span> | <span style="color: #002818; font-weight: bold;">25.29</span> |
 | **2025/11** | **55.98** | <span style="color: #FF7F7F; font-weight: bold;">+60.2</span> | <span style="color: #DC143C; font-weight: bold;">+27.1</span> | **177.5** | <span style="color: #FF4500; font-weight: bold;">10.9</span> | <span style="color: #004225; font-weight: bold;">16.28</span> |
 | **2025/10** | **44.63** | <span style="color: #FF4500; font-weight: bold;">+30.9</span> | <span style="color: #DC143C; font-weight: bold;">+23.7</span> | **198** | <span style="color: #FF4500; font-weight: bold;">10.75</span> | <span style="color: #004225; font-weight: bold;">18.42</span> |
@@ -413,7 +414,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-07 03:24:36 CST
+- **產生時間**: 2026-02-07 05:08:14 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 貿聯-KY  
     **:identification_card: 股票代號**: 3665  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-07 03:24:36 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-07 05:08:14 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF6347; font-weight: bold;">+43</span> | <span style="color: #FF4500; font-weight: bold;">+31.7</span> | **178** 個月 | 2011/03 至 2025/12 |
+| <span style="color: #FF4500; font-weight: bold;">+34.2</span> | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | **179** 個月 | 2011/03 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 6,641<br/><span style="color: #FF6347;">(+43.00%)</span> | 4,642<br/><span style="color: #FF4500;">(+33.10%)</span> | 3,488<br/><span style="color: #004225;">(-13.00%)</span> | 4,011<br/><span style="color: #FF4500;">(+39.30%)</span> | 2,879<br/><span style="color: #FF6347;">(+44.10%)</span> |
-| **11月** | 6,539<br/><span style="color: #FF4500;">(+33.20%)</span> | 4,911<br/><span style="color: #B22222;">(+18.50%)</span> | 4,143<br/><span style="color: #004225;">(-13.50%)</span> | 4,788<br/><span style="color: #FF7F7F;">(+77.20%)</span> | 2,701<br/><span style="color: #DC143C;">(+26.60%)</span> |
-| **10月** | 6,581<br/><span style="color: #FF4500;">(+34.00%)</span> | 4,911<br/><span style="color: #8B0000;">(+9.46%)</span> | 4,487<br/><span style="color: #002818;">(-5.00%)</span> | 4,723<br/><span style="color: #FF7F7F;">(+89.70%)</span> | 2,490<br/><span style="color: #B22222;">(+15.00%)</span> |
-| **9月** | 6,706<br/><span style="color: #FF6347;">(+46.10%)</span> | 4,590<br/><span style="color: #8B0000;">(+6.61%)</span> | 4,305<br/><span style="color: #004225;">(-12.90%)</span> | 4,944<br/><span style="color: #FF7F7F;">(+85.60%)</span> | 2,663<br/><span style="color: #FF4500;">(+30.30%)</span> |
-| **8月** | 5,774<br/><span style="color: #DC143C;">(+26.70%)</span> | 4,559<br/><span style="color: #8B0000;">(+4.73%)</span> | 4,353<br/><span style="color: #002818;">(-4.69%)</span> | 4,567<br/><span style="color: #FF7F7F;">(+84.30%)</span> | 2,478<br/><span style="color: #DC143C;">(+23.60%)</span> |
-| **7月** | 6,034<br/><span style="color: #DC143C;">(+20.40%)</span> | 5,011<br/><span style="color: #B22222;">(+12.40%)</span> | 4,458<br/><span style="color: #002818;">(-9.99%)</span> | 4,953<br/><span style="color: #FF7F7F;">(+115.70%)</span> | 2,296<br/><span style="color: #B22222;">(+13.90%)</span> |
-| **6月** | 5,201<br/><span style="color: #DC143C;">(+21.80%)</span> | 4,271<br/><span style="color: #002818;">(-0.10%)</span> | 4,275<br/><span style="color: #004225;">(-15.60%)</span> | 5,068<br/><span style="color: #FF7F7F;">(+110.50%)</span> | 2,408<br/><span style="color: #FF4500;">(+36.80%)</span> |
-| **5月** | 5,201<br/><span style="color: #DC143C;">(+20.40%)</span> | 4,320<br/><span style="color: #002818;">(-2.29%)</span> | 4,421<br/><span style="color: #002818;">(-4.97%)</span> | 4,652<br/><span style="color: #FF7F7F;">(+100.80%)</span> | 2,317<br/><span style="color: #FF4500;">(+34.60%)</span> |
-| **4月** | 6,228<br/><span style="color: #FF4500;">(+38.30%)</span> | 4,502<br/><span style="color: #8B0000;">(+4.48%)</span> | 4,308<br/><span style="color: #002818;">(-0.03%)</span> | 4,310<br/><span style="color: #FF7F7F;">(+86.00%)</span> | 2,317<br/><span style="color: #DC143C;">(+29.60%)</span> |
-| **3月** | 5,739<br/><span style="color: #FF4500;">(+34.40%)</span> | 4,271<br/><span style="color: #002818;">(-6.75%)</span> | 4,580<br/><span style="color: #8B0000;">(+4.93%)</span> | 4,365<br/><span style="color: #FF7F7F;">(+100.40%)</span> | 2,179<br/><span style="color: #FF4500;">(+31.50%)</span> |
-| **2月** | 5,002<br/><span style="color: #FF4500;">(+30.40%)</span> | 3,836<br/><span style="color: #002818;">(-4.28%)</span> | 4,008<br/><span style="color: #002818;">(-1.47%)</span> | 4,068<br/><span style="color: #FF7F7F;">(+121.00%)</span> | 1,841<br/><span style="color: #8B0000;">(+6.41%)</span> |
-| **1月** | 5,556<br/><span style="color: #FF4500;">(+30.50%)</span> | 4,256<br/><span style="color: #8B0000;">(+4.41%)</span> | 4,076<br/><span style="color: #DC143C;">(+26.90%)</span> | 3,211<br/><span style="color: #FF7F7F;">(+51.90%)</span> | 2,115<br/><span style="color: #FF4500;">(+35.40%)</span> |
+| **12月** | -- | 6,641<br/><span style="color: #FF6347;">(+43.00%)</span> | 4,642<br/><span style="color: #FF4500;">(+33.10%)</span> | 3,488<br/><span style="color: #004225;">(-13.00%)</span> | 4,011<br/><span style="color: #FF4500;">(+39.30%)</span> |
+| **11月** | -- | 6,539<br/><span style="color: #FF4500;">(+33.20%)</span> | 4,911<br/><span style="color: #B22222;">(+18.50%)</span> | 4,143<br/><span style="color: #004225;">(-13.50%)</span> | 4,788<br/><span style="color: #FF7F7F;">(+77.20%)</span> |
+| **10月** | -- | 6,581<br/><span style="color: #FF4500;">(+34.00%)</span> | 4,911<br/><span style="color: #8B0000;">(+9.46%)</span> | 4,487<br/><span style="color: #002818;">(-5.00%)</span> | 4,723<br/><span style="color: #FF7F7F;">(+89.70%)</span> |
+| **9月** | -- | 6,706<br/><span style="color: #FF6347;">(+46.10%)</span> | 4,590<br/><span style="color: #8B0000;">(+6.61%)</span> | 4,305<br/><span style="color: #004225;">(-12.90%)</span> | 4,944<br/><span style="color: #FF7F7F;">(+85.60%)</span> |
+| **8月** | -- | 5,774<br/><span style="color: #DC143C;">(+26.70%)</span> | 4,559<br/><span style="color: #8B0000;">(+4.73%)</span> | 4,353<br/><span style="color: #002818;">(-4.69%)</span> | 4,567<br/><span style="color: #FF7F7F;">(+84.30%)</span> |
+| **7月** | -- | 6,034<br/><span style="color: #DC143C;">(+20.40%)</span> | 5,011<br/><span style="color: #B22222;">(+12.40%)</span> | 4,458<br/><span style="color: #002818;">(-9.99%)</span> | 4,953<br/><span style="color: #FF7F7F;">(+115.70%)</span> |
+| **6月** | -- | 5,201<br/><span style="color: #DC143C;">(+21.80%)</span> | 4,271<br/><span style="color: #002818;">(-0.10%)</span> | 4,275<br/><span style="color: #004225;">(-15.60%)</span> | 5,068<br/><span style="color: #FF7F7F;">(+110.50%)</span> |
+| **5月** | -- | 5,201<br/><span style="color: #DC143C;">(+20.40%)</span> | 4,320<br/><span style="color: #002818;">(-2.29%)</span> | 4,421<br/><span style="color: #002818;">(-4.97%)</span> | 4,652<br/><span style="color: #FF7F7F;">(+100.80%)</span> |
+| **4月** | -- | 6,228<br/><span style="color: #FF4500;">(+38.30%)</span> | 4,502<br/><span style="color: #8B0000;">(+4.48%)</span> | 4,308<br/><span style="color: #002818;">(-0.03%)</span> | 4,310<br/><span style="color: #FF7F7F;">(+86.00%)</span> |
+| **3月** | -- | 5,739<br/><span style="color: #FF4500;">(+34.40%)</span> | 4,271<br/><span style="color: #002818;">(-6.75%)</span> | 4,580<br/><span style="color: #8B0000;">(+4.93%)</span> | 4,365<br/><span style="color: #FF7F7F;">(+100.40%)</span> |
+| **2月** | -- | 5,002<br/><span style="color: #FF4500;">(+30.40%)</span> | 3,836<br/><span style="color: #002818;">(-4.28%)</span> | 4,008<br/><span style="color: #002818;">(-1.47%)</span> | 4,068<br/><span style="color: #FF7F7F;">(+121.00%)</span> |
+| **1月** | 7,456<br/><span style="color: #FF4500;">(+34.20%)</span> | 5,556<br/><span style="color: #FF4500;">(+30.50%)</span> | 4,256<br/><span style="color: #8B0000;">(+4.41%)</span> | 4,076<br/><span style="color: #DC143C;">(+26.90%)</span> | 3,211<br/><span style="color: #FF7F7F;">(+51.90%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **74.56** | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | **1300** | <span style="color: #FF6347; font-weight: bold;">40.56</span> | <span style="color: #FF6347; font-weight: bold;">32.05</span> |
 | **2025/12** | **66.41** | <span style="color: #FF6347; font-weight: bold;">+43</span> | <span style="color: #FF4500; font-weight: bold;">+31.7</span> | **1520** | <span style="color: #FF6347; font-weight: bold;">40.56</span> | <span style="color: #FF6347; font-weight: bold;">37.48</span> |
 | **2025/11** | **65.39** | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | **1610** | <span style="color: #FF6347; font-weight: bold;">39.3</span> | <span style="color: #FF7F7F; font-weight: bold;">40.97</span> |
 | **2025/10** | **65.81** | <span style="color: #FF4500; font-weight: bold;">+34</span> | <span style="color: #FF4500; font-weight: bold;">+30.3</span> | **1395** | <span style="color: #FF6347; font-weight: bold;">38.04</span> | <span style="color: #FF6347; font-weight: bold;">36.68</span> |
@@ -352,7 +353,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-07 03:24:36 CST
+- **產生時間**: 2026-02-07 05:08:14 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
