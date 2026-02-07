@@ -2,7 +2,7 @@
 title: "3014 聯陽 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-01-25"
+date: "2026-02-07"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
     - **產業別**: 半導體業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-01-25 20:37:42 CST
+    - **報告生成時間**: 2026-02-07 12:40:35 CST
 
 ## 📈 互動式圖表
 
@@ -35,15 +35,6 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
   "title": "3014 聯陽 - 本益比與未來報酬率分析",
   "data": {
     "values": [
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 11.4,
-        "forward_return": -0.58,
-        "start_price": 26.1,
-        "start_year": 2006
-      },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
@@ -583,195 +574,6 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -46.31,
         "start_price": 60.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -20.67,
-        "start_price": 52.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -40.65,
-        "start_price": 48.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.03,
-        "start_price": 42.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -50.88,
-        "start_price": 49.4,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -53.09,
-        "start_price": 42.05,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -59.08,
-        "start_price": 38.95,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -79.35,
-        "start_price": 39.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -75.17,
-        "start_price": 33.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -38.64,
-        "start_price": 31.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 72.64,
-        "start_price": 23.2,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 96.3,
-        "start_price": 23.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -23.18,
-        "start_price": 27.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -65.07,
-        "start_price": 32.75,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -36.0,
-        "start_price": 27.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -13.76,
-        "start_price": 24.85,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.15,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.72,
-        "start_price": 26.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -42.32,
-        "start_price": 23.95,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -14.89,
-        "start_price": 24.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -33.87,
-        "start_price": 26.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 70.52,
-        "start_price": 20.85,
-        "start_year": 2012
       },
       {
         "horizon": "0.25y",
@@ -2169,13 +1971,13 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2025
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 11.4,
-        "forward_return": 3.41,
-        "start_price": 26.1,
-        "start_year": 2006
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-10-16",
+        "pe_ratio": 13.4,
+        "forward_return": -28.32,
+        "start_price": 130.5,
+        "start_year": 2025
       },
       {
         "horizon": "0.5y",
@@ -2716,195 +2518,6 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -55.77,
         "start_price": 60.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -37.74,
-        "start_price": 52.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -48.61,
-        "start_price": 48.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -40.4,
-        "start_price": 42.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -68.73,
-        "start_price": 49.4,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -64.58,
-        "start_price": 42.05,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -49.89,
-        "start_price": 38.95,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -45.95,
-        "start_price": 39.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -30.18,
-        "start_price": 33.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -30.28,
-        "start_price": 31.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 18.05,
-        "start_price": 23.2,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.31,
-        "start_price": 23.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -24.22,
-        "start_price": 27.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -42.59,
-        "start_price": 32.75,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -38.8,
-        "start_price": 27.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -29.55,
-        "start_price": 24.85,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.24,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -20.12,
-        "start_price": 26.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.83,
-        "start_price": 23.95,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.76,
-        "start_price": 24.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.16,
-        "start_price": 26.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 60.11,
-        "start_price": 20.85,
-        "start_year": 2012
       },
       {
         "horizon": "0.5y",
@@ -4275,13 +3888,13 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2025
       },
       {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 11.4,
-        "forward_return": 100.43,
-        "start_price": 26.1,
-        "start_year": 2006
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-07-16",
+        "pe_ratio": 13.4,
+        "forward_return": -17.24,
+        "start_price": 132.0,
+        "start_year": 2025
       },
       {
         "horizon": "1y",
@@ -4822,195 +4435,6 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -52.17,
         "start_price": 60.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -34.53,
-        "start_price": 52.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -39.09,
-        "start_price": 48.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -37.57,
-        "start_price": 42.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -45.88,
-        "start_price": 49.4,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -33.83,
-        "start_price": 42.05,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -38.45,
-        "start_price": 38.95,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -37.63,
-        "start_price": 39.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -21.61,
-        "start_price": 33.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -32.9,
-        "start_price": 31.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.43,
-        "start_price": 23.2,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.0,
-        "start_price": 23.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -13.25,
-        "start_price": 27.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -19.51,
-        "start_price": 32.75,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.84,
-        "start_price": 27.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.63,
-        "start_price": 24.85,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.74,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.37,
-        "start_price": 26.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.52,
-        "start_price": 23.95,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.86,
-        "start_price": 24.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -15.54,
-        "start_price": 26.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.98,
-        "start_price": 20.85,
-        "start_year": 2012
       },
       {
         "horizon": "1y",
@@ -6327,13 +5751,13 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2024
       },
       {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 11.4,
-        "forward_return": 75.89,
-        "start_price": 26.1,
-        "start_year": 2006
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2025-01-16",
+        "pe_ratio": 14.11,
+        "forward_return": -9.16,
+        "start_price": 142.0,
+        "start_year": 2025
       },
       {
         "horizon": "2y",
@@ -6874,195 +6298,6 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -35.3,
         "start_price": 60.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -28.87,
-        "start_price": 52.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -24.55,
-        "start_price": 48.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -19.31,
-        "start_price": 42.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -23.5,
-        "start_price": 49.4,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -21.96,
-        "start_price": 42.05,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -20.59,
-        "start_price": 38.95,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -24.62,
-        "start_price": 39.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -18.64,
-        "start_price": 33.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.47,
-        "start_price": 31.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.97,
-        "start_price": 23.2,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.79,
-        "start_price": 23.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.91,
-        "start_price": 27.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.04,
-        "start_price": 32.75,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.85,
-        "start_price": 27.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.51,
-        "start_price": 24.85,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.2,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.42,
-        "start_price": 26.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 26.06,
-        "start_price": 23.95,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.06,
-        "start_price": 24.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 19.99,
-        "start_price": 26.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.9,
-        "start_price": 20.85,
-        "start_year": 2012
       },
       {
         "horizon": "2y",
@@ -8271,13 +7506,13 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2023
       },
       {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 11.4,
-        "forward_return": 22.24,
-        "start_price": 26.1,
-        "start_year": 2006
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-01-16",
+        "pe_ratio": 15.38,
+        "forward_return": -5.06,
+        "start_price": 152.0,
+        "start_year": 2024
       },
       {
         "horizon": "3y",
@@ -8818,195 +8053,6 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -22.23,
         "start_price": 60.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -16.26,
-        "start_price": 52.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.53,
-        "start_price": 48.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.37,
-        "start_price": 42.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.64,
-        "start_price": 49.4,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.12,
-        "start_price": 42.05,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.78,
-        "start_price": 38.95,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.24,
-        "start_price": 39.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.09,
-        "start_price": 33.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.11,
-        "start_price": 31.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.46,
-        "start_price": 23.2,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 19.98,
-        "start_price": 23.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.44,
-        "start_price": 27.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.24,
-        "start_price": 32.75,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.57,
-        "start_price": 27.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 18.46,
-        "start_price": 24.85,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.98,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.52,
-        "start_price": 26.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.38,
-        "start_price": 23.95,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.63,
-        "start_price": 24.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.58,
-        "start_price": 26.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.6,
-        "start_price": 20.85,
-        "start_year": 2012
       },
       {
         "horizon": "3y",
@@ -10107,13 +9153,13 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2022
       },
       {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 11.4,
-        "forward_return": 26.66,
-        "start_price": 26.1,
-        "start_year": 2006
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2023-01-16",
+        "pe_ratio": 10.19,
+        "forward_return": 21.87,
+        "start_price": 79.0,
+        "start_year": 2023
       },
       {
         "horizon": "4y",
@@ -10654,195 +9700,6 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -8.95,
         "start_price": 60.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -5.25,
-        "start_price": 52.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.62,
-        "start_price": 48.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.32,
-        "start_price": 42.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.26,
-        "start_price": 49.4,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.15,
-        "start_price": 42.05,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.6,
-        "start_price": 38.95,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.75,
-        "start_price": 39.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.7,
-        "start_price": 33.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.87,
-        "start_price": 31.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.5,
-        "start_price": 23.2,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.98,
-        "start_price": 23.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.9,
-        "start_price": 27.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.2,
-        "start_price": 32.75,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.46,
-        "start_price": 27.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.61,
-        "start_price": 24.85,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.85,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.11,
-        "start_price": 26.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.8,
-        "start_price": 23.95,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.91,
-        "start_price": 24.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.46,
-        "start_price": 26.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.39,
-        "start_price": 20.85,
-        "start_year": 2012
       },
       {
         "horizon": "4y",
@@ -11835,13 +10692,13 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2021
       },
       {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 11.4,
-        "forward_return": 21.91,
-        "start_price": 26.1,
-        "start_year": 2006
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2022-01-16",
+        "pe_ratio": 9.15,
+        "forward_return": 11.09,
+        "start_price": 99.8,
+        "start_year": 2022
       },
       {
         "horizon": "5y",
@@ -12382,195 +11239,6 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -11.16,
         "start_price": 60.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -7.28,
-        "start_price": 52.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.39,
-        "start_price": 48.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.48,
-        "start_price": 42.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.01,
-        "start_price": 49.4,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.69,
-        "start_price": 42.05,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.51,
-        "start_price": 38.95,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.88,
-        "start_price": 39.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.38,
-        "start_price": 33.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.79,
-        "start_price": 31.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.66,
-        "start_price": 23.2,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.23,
-        "start_price": 23.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.53,
-        "start_price": 27.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.89,
-        "start_price": 32.75,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.47,
-        "start_price": 27.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.91,
-        "start_price": 24.85,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.05,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.84,
-        "start_price": 26.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.91,
-        "start_price": 23.95,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.71,
-        "start_price": 24.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.48,
-        "start_price": 26.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.83,
-        "start_price": 20.85,
-        "start_year": 2012
       },
       {
         "horizon": "5y",
@@ -13455,13 +12123,13 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2020
       },
       {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-01-16",
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2021-01-16",
         "pe_ratio": 11.4,
-        "forward_return": 6.78,
-        "start_price": 26.1,
-        "start_year": 2006
+        "forward_return": 17.15,
+        "start_price": 71.6,
+        "start_year": 2021
       },
       {
         "horizon": "6y",
@@ -14002,195 +12670,6 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -7.69,
         "start_price": 60.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -4.43,
-        "start_price": 52.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.77,
-        "start_price": 48.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.37,
-        "start_price": 42.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.18,
-        "start_price": 49.4,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.32,
-        "start_price": 42.05,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.28,
-        "start_price": 38.95,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.35,
-        "start_price": 39.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.33,
-        "start_price": 33.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.5,
-        "start_price": 31.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.89,
-        "start_price": 23.2,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.38,
-        "start_price": 23.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.26,
-        "start_price": 27.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.54,
-        "start_price": 32.75,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.58,
-        "start_price": 27.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.07,
-        "start_price": 24.85,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.4,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.98,
-        "start_price": 26.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.89,
-        "start_price": 23.95,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.22,
-        "start_price": 24.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.8,
-        "start_price": 26.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.44,
-        "start_price": 20.85,
-        "start_year": 2012
       },
       {
         "horizon": "6y",
@@ -14967,13 +13446,13 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2019
       },
       {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 11.4,
-        "forward_return": 4.87,
-        "start_price": 26.1,
-        "start_year": 2006
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2020-01-16",
+        "pe_ratio": 11.41,
+        "forward_return": 25.69,
+        "start_price": 40.9,
+        "start_year": 2020
       },
       {
         "horizon": "8y",
@@ -15514,195 +13993,6 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -3.2,
         "start_price": 60.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -0.92,
-        "start_price": 52.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.06,
-        "start_price": 48.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.71,
-        "start_price": 42.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.51,
-        "start_price": 49.4,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.82,
-        "start_price": 42.05,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.59,
-        "start_price": 38.95,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.99,
-        "start_price": 39.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.16,
-        "start_price": 33.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.32,
-        "start_price": 31.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.7,
-        "start_price": 23.2,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.12,
-        "start_price": 23.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.16,
-        "start_price": 27.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.55,
-        "start_price": 32.75,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.57,
-        "start_price": 27.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.04,
-        "start_price": 24.85,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.32,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.21,
-        "start_price": 26.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.82,
-        "start_price": 23.95,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.91,
-        "start_price": 24.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.31,
-        "start_price": 26.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 19.5,
-        "start_price": 20.85,
-        "start_year": 2012
       },
       {
         "horizon": "8y",
@@ -16263,13 +14553,13 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2017
       },
       {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 11.4,
-        "forward_return": 5.17,
-        "start_price": 26.1,
-        "start_year": 2006
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2018-01-16",
+        "pe_ratio": 14.86,
+        "forward_return": 20.5,
+        "start_price": 37.45,
+        "start_year": 2018
       },
       {
         "horizon": "10y",
@@ -16814,195 +15104,6 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
       {
         "horizon": "10y",
         "horizon_label": "10年",
-        "start_date": "2011-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 7.72,
-        "start_price": 52.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.25,
-        "start_price": 48.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.75,
-        "start_price": 42.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.88,
-        "start_price": 49.4,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.85,
-        "start_price": 42.05,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.42,
-        "start_price": 38.95,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.14,
-        "start_price": 39.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.0,
-        "start_price": 33.25,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.18,
-        "start_price": 31.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 18.65,
-        "start_price": 23.2,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.86,
-        "start_price": 23.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.22,
-        "start_price": 27.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 15.16,
-        "start_price": 32.75,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.19,
-        "start_price": 27.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.08,
-        "start_price": 24.85,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.36,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.69,
-        "start_price": 26.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.47,
-        "start_price": 23.95,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.31,
-        "start_price": 24.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.38,
-        "start_price": 26.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.05,
-        "start_price": 20.85,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
         "start_date": "2012-11-15",
         "pe_ratio": 420.0,
         "forward_return": 16.29,
@@ -17341,6 +15442,15 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": 19.19,
         "start_price": 28.75,
         "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2016-01-16",
+        "pe_ratio": 12.48,
+        "forward_return": 20.01,
+        "start_price": 27.65,
+        "start_year": 2016
       }
     ]
   },
@@ -17544,7 +15654,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 10.4倍、12.3倍、14.3倍、19.2倍、24.3倍"
+!!! note "本益比河流帶水位: 10.4倍、12.4倍、14.3倍、19.2倍、24.3倍"
 
 ```vegalite
 {
@@ -17553,21 +15663,11 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
   "data": {
     "values": [
       {
-        "date": "2006-01-16",
-        "price": 26.1,
-        "pe": 11.4,
-        "pe_10": 23.82,
-        "pe_25": 28.23,
-        "pe_50": 32.65,
-        "pe_75": 43.97,
-        "pe_90": 55.59
-      },
-      {
         "date": "2006-02-14",
         "price": 23.7,
         "pe": 10.35,
         "pe_10": 23.83,
-        "pe_25": 28.23,
+        "pe_25": 28.41,
         "pe_50": 32.65,
         "pe_75": 43.98,
         "pe_90": 55.6
@@ -17577,7 +15677,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 25.9,
         "pe": 11.31,
         "pe_10": 23.83,
-        "pe_25": 28.24,
+        "pe_25": 28.41,
         "pe_50": 32.66,
         "pe_75": 43.98,
         "pe_90": 55.61
@@ -17587,7 +15687,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 26.9,
         "pe": 11.75,
         "pe_10": 23.82,
-        "pe_25": 28.23,
+        "pe_25": 28.4,
         "pe_50": 32.65,
         "pe_75": 43.97,
         "pe_90": 55.59
@@ -17597,7 +15697,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 26.05,
         "pe": 11.38,
         "pe_10": 23.82,
-        "pe_25": 28.22,
+        "pe_25": 28.4,
         "pe_50": 32.64,
         "pe_75": 43.96,
         "pe_90": 55.58
@@ -17607,7 +15707,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 21.1,
         "pe": 9.21,
         "pe_10": 23.84,
-        "pe_25": 28.25,
+        "pe_25": 28.42,
         "pe_50": 32.67,
         "pe_75": 44.0,
         "pe_90": 55.63
@@ -17617,7 +15717,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 24.85,
         "pe": 10.85,
         "pe_10": 23.83,
-        "pe_25": 28.24,
+        "pe_25": 28.41,
         "pe_50": 32.66,
         "pe_75": 43.99,
         "pe_90": 55.61
@@ -17627,7 +15727,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 28.6,
         "pe": 12.49,
         "pe_10": 23.83,
-        "pe_25": 28.23,
+        "pe_25": 28.41,
         "pe_50": 32.65,
         "pe_75": 43.98,
         "pe_90": 55.6
@@ -17637,7 +15737,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 29.2,
         "pe": 12.75,
         "pe_10": 23.83,
-        "pe_25": 28.24,
+        "pe_25": 28.41,
         "pe_50": 32.66,
         "pe_75": 43.98,
         "pe_90": 55.61
@@ -17647,7 +15747,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 31.7,
         "pe": 13.84,
         "pe_10": 23.83,
-        "pe_25": 28.24,
+        "pe_25": 28.41,
         "pe_50": 32.66,
         "pe_75": 43.99,
         "pe_90": 55.62
@@ -17657,7 +15757,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 37.7,
         "pe": 16.46,
         "pe_10": 23.83,
-        "pe_25": 28.24,
+        "pe_25": 28.41,
         "pe_50": 32.66,
         "pe_75": 43.99,
         "pe_90": 55.62
@@ -17667,7 +15767,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 37.0,
         "pe": 16.16,
         "pe_10": 23.83,
-        "pe_25": 28.23,
+        "pe_25": 28.4,
         "pe_50": 32.65,
         "pe_75": 43.97,
         "pe_90": 55.6
@@ -17677,7 +15777,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 50.6,
         "pe": 20.23,
         "pe_10": 26.03,
-        "pe_25": 30.84,
+        "pe_25": 31.03,
         "pe_50": 35.67,
         "pe_75": 48.04,
         "pe_90": 60.74
@@ -17687,7 +15787,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 60.3,
         "pe": 22.24,
         "pe_10": 28.21,
-        "pe_25": 33.43,
+        "pe_25": 33.63,
         "pe_50": 38.66,
         "pe_75": 52.07,
         "pe_90": 65.84
@@ -17697,7 +15797,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 66.2,
         "pe": 22.65,
         "pe_10": 30.41,
-        "pe_25": 36.04,
+        "pe_25": 36.26,
         "pe_50": 41.68,
         "pe_75": 56.13,
         "pe_90": 70.97
@@ -17707,7 +15807,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 59.6,
         "pe": 19.02,
         "pe_10": 32.61,
-        "pe_25": 38.64,
+        "pe_25": 38.87,
         "pe_50": 44.68,
         "pe_75": 60.18,
         "pe_90": 76.09
@@ -17717,7 +15817,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 78.3,
         "pe": 23.41,
         "pe_10": 34.81,
-        "pe_25": 41.24,
+        "pe_25": 41.49,
         "pe_50": 47.7,
         "pe_75": 64.24,
         "pe_90": 81.22
@@ -17727,7 +15827,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 85.0,
         "pe": 23.91,
         "pe_10": 36.99,
-        "pe_25": 43.83,
+        "pe_25": 44.1,
         "pe_50": 50.69,
         "pe_75": 68.27,
         "pe_90": 86.32
@@ -17737,7 +15837,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 162.5,
         "pe": 43.15,
         "pe_10": 39.19,
-        "pe_25": 46.43,
+        "pe_25": 46.72,
         "pe_50": 53.7,
         "pe_75": 72.32,
         "pe_90": 91.44
@@ -17747,7 +15847,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 113.0,
         "pe": 28.42,
         "pe_10": 41.38,
-        "pe_25": 49.02,
+        "pe_25": 49.32,
         "pe_50": 56.7,
         "pe_75": 76.36,
         "pe_90": 96.55
@@ -17757,7 +15857,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 129.0,
         "pe": 30.81,
         "pe_10": 43.57,
-        "pe_25": 51.63,
+        "pe_25": 51.94,
         "pe_50": 59.71,
         "pe_75": 80.41,
         "pe_90": 101.67
@@ -17767,7 +15867,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 103.5,
         "pe": 23.53,
         "pe_10": 45.77,
-        "pe_25": 54.24,
+        "pe_25": 54.57,
         "pe_50": 62.72,
         "pe_75": 84.48,
         "pe_90": 106.81
@@ -17777,7 +15877,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 92.2,
         "pe": 20.0,
         "pe_10": 47.97,
-        "pe_25": 56.84,
+        "pe_25": 57.19,
         "pe_50": 65.74,
         "pe_75": 88.54,
         "pe_90": 111.94
@@ -17787,7 +15887,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 97.0,
         "pe": 20.12,
         "pe_10": 50.17,
-        "pe_25": 59.44,
+        "pe_25": 59.81,
         "pe_50": 68.75,
         "pe_75": 92.59,
         "pe_90": 117.07
@@ -17797,7 +15897,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 77.0,
         "pe": 16.38,
         "pe_10": 48.92,
-        "pe_25": 57.96,
+        "pe_25": 58.31,
         "pe_50": 67.03,
         "pe_75": 90.28,
         "pe_90": 114.15
@@ -17807,7 +15907,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 85.0,
         "pe": 18.56,
         "pe_10": 47.66,
-        "pe_25": 56.47,
+        "pe_25": 56.81,
         "pe_50": 65.31,
         "pe_75": 87.95,
         "pe_90": 111.21
@@ -17817,7 +15917,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 93.2,
         "pe": 20.9,
         "pe_10": 46.4,
-        "pe_25": 54.98,
+        "pe_25": 55.32,
         "pe_50": 63.59,
         "pe_75": 85.64,
         "pe_90": 108.28
@@ -17827,7 +15927,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 115.0,
         "pe": 26.5,
         "pe_10": 45.16,
-        "pe_25": 53.51,
+        "pe_25": 53.83,
         "pe_50": 61.88,
         "pe_75": 83.34,
         "pe_90": 105.37
@@ -17837,7 +15937,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 103.0,
         "pe": 24.41,
         "pe_10": 43.91,
-        "pe_25": 52.03,
+        "pe_25": 52.34,
         "pe_50": 60.17,
         "pe_75": 81.04,
         "pe_90": 102.46
@@ -17847,7 +15947,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 68.2,
         "pe": 16.63,
         "pe_10": 42.68,
-        "pe_25": 50.57,
+        "pe_25": 50.87,
         "pe_50": 58.48,
         "pe_75": 78.76,
         "pe_90": 99.58
@@ -17857,7 +15957,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 80.9,
         "pe": 20.33,
         "pe_10": 41.41,
-        "pe_25": 49.07,
+        "pe_25": 49.36,
         "pe_50": 56.75,
         "pe_75": 76.42,
         "pe_90": 96.63
@@ -17867,7 +15967,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 75.0,
         "pe": 19.43,
         "pe_10": 40.17,
-        "pe_25": 47.59,
+        "pe_25": 47.88,
         "pe_50": 55.04,
         "pe_75": 74.13,
         "pe_90": 93.73
@@ -17877,7 +15977,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 46.5,
         "pe": 12.43,
         "pe_10": 38.93,
-        "pe_25": 46.13,
+        "pe_25": 46.41,
         "pe_50": 53.35,
         "pe_75": 71.84,
         "pe_90": 90.84
@@ -17887,7 +15987,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 56.0,
         "pe": 15.47,
         "pe_10": 37.67,
-        "pe_25": 44.63,
+        "pe_25": 44.9,
         "pe_50": 51.62,
         "pe_75": 69.52,
         "pe_90": 87.9
@@ -17897,7 +15997,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 40.3,
         "pe": 11.51,
         "pe_10": 36.43,
-        "pe_25": 43.17,
+        "pe_25": 43.43,
         "pe_50": 49.93,
         "pe_75": 67.24,
         "pe_90": 85.02
@@ -17907,7 +16007,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 41.0,
         "pe": 12.13,
         "pe_10": 35.17,
-        "pe_25": 41.68,
+        "pe_25": 41.93,
         "pe_50": 48.2,
         "pe_75": 64.91,
         "pe_90": 82.07
@@ -17917,7 +16017,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 41.0,
         "pe": 12.42,
         "pe_10": 34.35,
-        "pe_25": 40.7,
+        "pe_25": 40.95,
         "pe_50": 47.07,
         "pe_75": 63.4,
         "pe_90": 80.16
@@ -17927,7 +16027,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 50.9,
         "pe": 15.79,
         "pe_10": 33.54,
-        "pe_25": 39.75,
+        "pe_25": 39.99,
         "pe_50": 45.97,
         "pe_75": 61.91,
         "pe_90": 78.27
@@ -17937,7 +16037,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 49.5,
         "pe": 15.74,
         "pe_10": 32.73,
-        "pe_25": 38.78,
+        "pe_25": 39.01,
         "pe_50": 44.85,
         "pe_75": 60.4,
         "pe_90": 76.36
@@ -17947,7 +16047,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 57.5,
         "pe": 18.75,
         "pe_10": 31.91,
-        "pe_25": 37.81,
+        "pe_25": 38.04,
         "pe_50": 43.73,
         "pe_75": 58.9,
         "pe_90": 74.46
@@ -17957,7 +16057,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 71.0,
         "pe": 23.76,
         "pe_10": 31.1,
-        "pe_25": 36.84,
+        "pe_25": 37.07,
         "pe_50": 42.61,
         "pe_75": 57.39,
         "pe_90": 72.56
@@ -17967,7 +16067,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 54.7,
         "pe": 18.8,
         "pe_10": 30.28,
-        "pe_25": 35.88,
+        "pe_25": 36.09,
         "pe_50": 41.49,
         "pe_75": 55.88,
         "pe_90": 70.65
@@ -17977,7 +16077,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 67.7,
         "pe": 23.91,
         "pe_10": 29.46,
-        "pe_25": 34.91,
+        "pe_25": 35.12,
         "pe_50": 40.38,
         "pe_75": 54.38,
         "pe_90": 68.75
@@ -17987,7 +16087,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 63.1,
         "pe": 22.92,
         "pe_10": 28.65,
-        "pe_25": 33.95,
+        "pe_25": 34.15,
         "pe_50": 39.26,
         "pe_75": 52.87,
         "pe_90": 66.85
@@ -17997,7 +16097,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 66.1,
         "pe": 24.71,
         "pe_10": 27.84,
-        "pe_25": 32.98,
+        "pe_25": 33.18,
         "pe_50": 38.15,
         "pe_75": 51.37,
         "pe_90": 64.96
@@ -18007,7 +16107,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 62.0,
         "pe": 23.88,
         "pe_10": 27.02,
-        "pe_25": 32.01,
+        "pe_25": 32.21,
         "pe_50": 37.02,
         "pe_75": 49.86,
         "pe_90": 63.04
@@ -18017,7 +16117,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 67.4,
         "pe": 26.76,
         "pe_10": 26.21,
-        "pe_25": 31.06,
+        "pe_25": 31.24,
         "pe_50": 35.92,
         "pe_75": 48.37,
         "pe_90": 61.16
@@ -18027,7 +16127,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 72.5,
         "pe": 29.71,
         "pe_10": 25.39,
-        "pe_25": 30.09,
+        "pe_25": 30.27,
         "pe_50": 34.8,
         "pe_75": 46.87,
         "pe_90": 59.25
@@ -18037,7 +16137,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 59.5,
         "pe": 25.19,
         "pe_10": 24.58,
-        "pe_25": 29.12,
+        "pe_25": 29.3,
         "pe_50": 33.68,
         "pe_75": 45.36,
         "pe_90": 57.36
@@ -18047,7 +16147,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 57.8,
         "pe": 25.3,
         "pe_10": 23.77,
-        "pe_25": 28.17,
+        "pe_25": 28.34,
         "pe_50": 32.58,
         "pe_75": 43.88,
         "pe_90": 55.47
@@ -18057,7 +16157,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 61.0,
         "pe": 27.63,
         "pe_10": 22.97,
-        "pe_25": 27.22,
+        "pe_25": 27.39,
         "pe_50": 31.48,
         "pe_75": 42.4,
         "pe_90": 53.61
@@ -18067,7 +16167,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 56.1,
         "pe": 26.34,
         "pe_10": 22.16,
-        "pe_25": 26.26,
+        "pe_25": 26.42,
         "pe_50": 30.37,
         "pe_75": 40.9,
         "pe_90": 51.72
@@ -18077,7 +16177,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 50.1,
         "pe": 24.41,
         "pe_10": 21.36,
-        "pe_25": 25.31,
+        "pe_25": 25.46,
         "pe_50": 29.27,
         "pe_75": 39.42,
         "pe_90": 49.84
@@ -18087,7 +16187,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 50.0,
         "pe": 25.32,
         "pe_10": 20.55,
-        "pe_25": 24.35,
+        "pe_25": 24.5,
         "pe_50": 28.16,
         "pe_75": 37.92,
         "pe_90": 47.95
@@ -18097,7 +16197,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 55.0,
         "pe": 28.99,
         "pe_10": 19.74,
-        "pe_25": 23.39,
+        "pe_25": 23.53,
         "pe_50": 27.05,
         "pe_75": 36.44,
         "pe_90": 46.07
@@ -18107,7 +16207,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 50.0,
         "pe": 27.47,
         "pe_10": 18.94,
-        "pe_25": 22.44,
+        "pe_25": 22.58,
         "pe_50": 25.96,
         "pe_75": 34.96,
         "pe_90": 44.2
@@ -18117,7 +16217,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 63.0,
         "pe": 36.15,
         "pe_10": 18.13,
-        "pe_25": 21.49,
+        "pe_25": 21.62,
         "pe_50": 24.85,
         "pe_75": 33.47,
         "pe_90": 42.32
@@ -18127,7 +16227,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 53.6,
         "pe": 32.19,
         "pe_10": 17.33,
-        "pe_25": 20.53,
+        "pe_25": 20.66,
         "pe_50": 23.74,
         "pe_75": 31.98,
         "pe_90": 40.43
@@ -18137,7 +16237,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 54.7,
         "pe": 34.46,
         "pe_10": 16.52,
-        "pe_25": 19.57,
+        "pe_25": 19.69,
         "pe_50": 22.64,
         "pe_75": 30.49,
         "pe_90": 38.54
@@ -18147,7 +16247,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 61.9,
         "pe": 40.99,
         "pe_10": 15.71,
-        "pe_25": 18.62,
+        "pe_25": 18.73,
         "pe_50": 21.53,
         "pe_75": 29.0,
         "pe_90": 36.67
@@ -18157,7 +16257,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 60.6,
         "pe": 134.9,
         "pe_10": 4.67,
-        "pe_25": 5.54,
+        "pe_25": 5.57,
         "pe_50": 6.41,
         "pe_75": 8.63,
         "pe_90": 10.91
@@ -18177,7 +16277,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 23.5,
         "pe": 21.76,
         "pe_10": 11.24,
-        "pe_25": 13.32,
+        "pe_25": 13.4,
         "pe_50": 15.4,
         "pe_75": 20.74,
         "pe_90": 26.22
@@ -18187,7 +16287,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 23.85,
         "pe": 21.85,
         "pe_10": 11.36,
-        "pe_25": 13.46,
+        "pe_25": 13.54,
         "pe_50": 15.57,
         "pe_75": 20.96,
         "pe_90": 26.5
@@ -18197,7 +16297,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 24.95,
         "pe": 22.61,
         "pe_10": 11.48,
-        "pe_25": 13.61,
+        "pe_25": 13.69,
         "pe_50": 15.74,
         "pe_75": 21.19,
         "pe_90": 26.8
@@ -18207,7 +16307,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 25.9,
         "pe": 23.23,
         "pe_10": 11.6,
-        "pe_25": 13.75,
+        "pe_25": 13.83,
         "pe_50": 15.9,
         "pe_75": 21.41,
         "pe_90": 27.07
@@ -18217,7 +16317,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 26.0,
         "pe": 23.08,
         "pe_10": 11.72,
-        "pe_25": 13.89,
+        "pe_25": 13.97,
         "pe_50": 16.06,
         "pe_75": 21.63,
         "pe_90": 27.35
@@ -18227,7 +16327,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 27.4,
         "pe": 24.07,
         "pe_10": 11.85,
-        "pe_25": 14.04,
+        "pe_25": 14.12,
         "pe_50": 16.23,
         "pe_75": 21.86,
         "pe_90": 27.64
@@ -18237,7 +16337,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 24.1,
         "pe": 20.96,
         "pe_10": 11.96,
-        "pe_25": 14.18,
+        "pe_25": 14.26,
         "pe_50": 16.4,
         "pe_75": 22.08,
         "pe_90": 27.92
@@ -18247,7 +16347,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 23.35,
         "pe": 20.1,
         "pe_10": 12.09,
-        "pe_25": 14.32,
+        "pe_25": 14.41,
         "pe_50": 16.57,
         "pe_75": 22.31,
         "pe_90": 28.21
@@ -18257,7 +16357,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 21.4,
         "pe": 18.24,
         "pe_10": 12.21,
-        "pe_25": 14.47,
+        "pe_25": 14.55,
         "pe_50": 16.73,
         "pe_75": 22.53,
         "pe_90": 28.49
@@ -18267,7 +16367,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 20.8,
         "pe": 17.55,
         "pe_10": 12.33,
-        "pe_25": 14.61,
+        "pe_25": 14.7,
         "pe_50": 16.9,
         "pe_75": 22.76,
         "pe_90": 28.78
@@ -18277,7 +16377,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 24.85,
         "pe": 20.77,
         "pe_10": 12.45,
-        "pe_25": 14.75,
+        "pe_25": 14.84,
         "pe_50": 17.06,
         "pe_75": 22.98,
         "pe_90": 29.05
@@ -18287,7 +16387,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 24.85,
         "pe": 20.57,
         "pe_10": 12.57,
-        "pe_25": 14.9,
+        "pe_25": 14.99,
         "pe_50": 17.23,
         "pe_75": 23.2,
         "pe_90": 29.33
@@ -18297,7 +16397,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 25.6,
         "pe": 20.98,
         "pe_10": 12.7,
-        "pe_25": 15.05,
+        "pe_25": 15.14,
         "pe_50": 17.4,
         "pe_75": 23.43,
         "pe_90": 29.63
@@ -18307,7 +16407,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 25.8,
         "pe": 19.57,
         "pe_10": 13.72,
-        "pe_25": 16.26,
+        "pe_25": 16.35,
         "pe_50": 18.8,
         "pe_75": 25.32,
         "pe_90": 32.01
@@ -18317,7 +16417,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 28.0,
         "pe": 19.76,
         "pe_10": 14.75,
-        "pe_25": 17.47,
+        "pe_25": 17.58,
         "pe_50": 20.21,
         "pe_75": 27.21,
         "pe_90": 34.41
@@ -18327,7 +16427,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 32.95,
         "pe": 21.75,
         "pe_10": 15.76,
-        "pe_25": 18.68,
+        "pe_25": 18.79,
         "pe_50": 21.6,
         "pe_75": 29.09,
         "pe_90": 36.79
@@ -18337,7 +16437,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 33.1,
         "pe": 20.52,
         "pe_10": 16.79,
-        "pe_25": 19.89,
+        "pe_25": 20.01,
         "pe_50": 23.0,
         "pe_75": 30.98,
         "pe_90": 39.17
@@ -18347,7 +16447,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 41.5,
         "pe": 24.25,
         "pe_10": 17.81,
-        "pe_25": 21.1,
+        "pe_25": 21.23,
         "pe_50": 24.4,
         "pe_75": 32.87,
         "pe_90": 41.55
@@ -18357,7 +16457,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 39.5,
         "pe": 21.82,
         "pe_10": 18.84,
-        "pe_25": 22.32,
+        "pe_25": 22.46,
         "pe_50": 25.81,
         "pe_75": 34.77,
         "pe_90": 43.96
@@ -18367,7 +16467,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.65,
         "pe": 18.68,
         "pe_10": 19.86,
-        "pe_25": 23.53,
+        "pe_25": 23.67,
         "pe_50": 27.21,
         "pe_75": 36.65,
         "pe_90": 46.34
@@ -18377,7 +16477,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 38.9,
         "pe": 19.39,
         "pe_10": 20.88,
-        "pe_25": 24.74,
+        "pe_25": 24.89,
         "pe_50": 28.61,
         "pe_75": 38.53,
         "pe_90": 48.71
@@ -18387,7 +16487,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.1,
         "pe": 16.67,
         "pe_10": 21.91,
-        "pe_25": 25.96,
+        "pe_25": 26.12,
         "pe_50": 30.03,
         "pe_75": 40.44,
         "pe_90": 51.13
@@ -18397,7 +16497,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 31.7,
         "pe": 14.39,
         "pe_10": 22.92,
-        "pe_25": 27.16,
+        "pe_25": 27.33,
         "pe_50": 31.41,
         "pe_75": 42.31,
         "pe_90": 53.49
@@ -18407,7 +16507,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 34.25,
         "pe": 14.88,
         "pe_10": 23.95,
-        "pe_25": 28.38,
+        "pe_25": 28.55,
         "pe_50": 32.82,
         "pe_75": 44.21,
         "pe_90": 55.89
@@ -18417,7 +16517,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 38.2,
         "pe": 15.92,
         "pe_10": 24.97,
-        "pe_25": 29.59,
+        "pe_25": 29.77,
         "pe_50": 34.22,
         "pe_75": 46.08,
         "pe_90": 58.26
@@ -18427,7 +16527,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 37.75,
         "pe": 15.84,
         "pe_10": 24.8,
-        "pe_25": 29.38,
+        "pe_25": 29.56,
         "pe_50": 33.98,
         "pe_75": 45.77,
         "pe_90": 57.87
@@ -18437,7 +16537,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 38.25,
         "pe": 16.16,
         "pe_10": 24.63,
-        "pe_25": 29.18,
+        "pe_25": 29.36,
         "pe_50": 33.75,
         "pe_75": 45.46,
         "pe_90": 57.47
@@ -18447,7 +16547,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 39.4,
         "pe": 16.77,
         "pe_10": 24.45,
-        "pe_25": 28.97,
+        "pe_25": 29.14,
         "pe_50": 33.5,
         "pe_75": 45.12,
         "pe_90": 57.05
@@ -18457,7 +16557,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 38.9,
         "pe": 16.67,
         "pe_10": 24.28,
-        "pe_25": 28.77,
+        "pe_25": 28.95,
         "pe_50": 33.28,
         "pe_75": 44.82,
         "pe_90": 56.66
@@ -18467,7 +16567,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.9,
         "pe": 15.5,
         "pe_10": 24.1,
-        "pe_25": 28.56,
+        "pe_25": 28.73,
         "pe_50": 33.03,
         "pe_75": 44.48,
         "pe_90": 56.24
@@ -18477,7 +16577,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 33.1,
         "pe": 14.39,
         "pe_10": 23.94,
-        "pe_25": 28.36,
+        "pe_25": 28.53,
         "pe_50": 32.8,
         "pe_75": 44.18,
         "pe_90": 55.85
@@ -18487,7 +16587,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 25.25,
         "pe": 11.06,
         "pe_10": 23.76,
-        "pe_25": 28.15,
+        "pe_25": 28.32,
         "pe_50": 32.56,
         "pe_75": 43.85,
         "pe_90": 55.44
@@ -18497,7 +16597,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 23.2,
         "pe": 10.24,
         "pe_10": 23.58,
-        "pe_25": 27.94,
+        "pe_25": 28.11,
         "pe_50": 32.31,
         "pe_75": 43.51,
         "pe_90": 55.01
@@ -18507,7 +16607,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 25.4,
         "pe": 11.29,
         "pe_10": 23.41,
-        "pe_25": 27.74,
+        "pe_25": 27.91,
         "pe_50": 32.08,
         "pe_75": 43.21,
         "pe_90": 54.63
@@ -18517,7 +16617,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 27.8,
         "pe": 12.45,
         "pe_10": 23.24,
-        "pe_25": 27.53,
+        "pe_25": 27.7,
         "pe_50": 31.84,
         "pe_75": 42.88,
         "pe_90": 54.22
@@ -18527,7 +16627,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 27.75,
         "pe": 12.52,
         "pe_10": 23.06,
-        "pe_25": 27.33,
+        "pe_25": 27.5,
         "pe_50": 31.61,
         "pe_75": 42.57,
         "pe_90": 53.82
@@ -18537,7 +16637,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 28.75,
         "pe": 13.07,
         "pe_10": 22.89,
-        "pe_25": 27.12,
+        "pe_25": 27.29,
         "pe_50": 31.37,
         "pe_75": 42.25,
         "pe_90": 53.41
@@ -18547,7 +16647,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 27.65,
         "pe": 12.48,
         "pe_10": 23.05,
-        "pe_25": 27.32,
+        "pe_25": 27.48,
         "pe_50": 31.59,
         "pe_75": 42.55,
         "pe_90": 53.8
@@ -18557,7 +16657,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 29.95,
         "pe": 13.43,
         "pe_10": 23.21,
-        "pe_25": 27.5,
+        "pe_25": 27.66,
         "pe_50": 31.8,
         "pe_75": 42.83,
         "pe_90": 54.15
@@ -18567,7 +16667,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 28.7,
         "pe": 12.78,
         "pe_10": 23.37,
-        "pe_25": 27.69,
+        "pe_25": 27.86,
         "pe_50": 32.02,
         "pe_75": 43.13,
         "pe_90": 54.53
@@ -18577,7 +16677,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 27.7,
         "pe": 12.26,
         "pe_10": 23.51,
-        "pe_25": 27.86,
+        "pe_25": 28.03,
         "pe_50": 32.22,
         "pe_75": 43.39,
         "pe_90": 54.86
@@ -18587,7 +16687,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 28.45,
         "pe": 12.51,
         "pe_10": 23.67,
-        "pe_25": 28.04,
+        "pe_25": 28.21,
         "pe_50": 32.43,
         "pe_75": 43.68,
         "pe_90": 55.22
@@ -18597,7 +16697,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 28.95,
         "pe": 12.64,
         "pe_10": 23.83,
-        "pe_25": 28.24,
+        "pe_25": 28.41,
         "pe_50": 32.66,
         "pe_75": 43.99,
         "pe_90": 55.61
@@ -18607,7 +16707,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 29.7,
         "pe": 12.89,
         "pe_10": 23.98,
-        "pe_25": 28.41,
+        "pe_25": 28.58,
         "pe_50": 32.86,
         "pe_75": 44.25,
         "pe_90": 55.95
@@ -18617,7 +16717,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 29.8,
         "pe": 12.84,
         "pe_10": 24.15,
-        "pe_25": 28.62,
+        "pe_25": 28.79,
         "pe_50": 33.1,
         "pe_75": 44.57,
         "pe_90": 56.36
@@ -18627,7 +16727,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 31.0,
         "pe": 13.28,
         "pe_10": 24.29,
-        "pe_25": 28.78,
+        "pe_25": 28.96,
         "pe_50": 33.29,
         "pe_75": 44.83,
         "pe_90": 56.68
@@ -18637,7 +16737,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 29.3,
         "pe": 12.47,
         "pe_10": 24.45,
-        "pe_25": 28.97,
+        "pe_25": 29.15,
         "pe_50": 33.51,
         "pe_75": 45.12,
         "pe_90": 57.05
@@ -18647,7 +16747,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 30.4,
         "pe": 12.85,
         "pe_10": 24.62,
-        "pe_25": 29.17,
+        "pe_25": 29.35,
         "pe_50": 33.74,
         "pe_75": 45.43,
         "pe_90": 57.45
@@ -18657,7 +16757,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 30.15,
         "pe": 12.67,
         "pe_10": 24.76,
-        "pe_25": 29.34,
+        "pe_25": 29.52,
         "pe_50": 33.93,
         "pe_75": 45.7,
         "pe_90": 57.78
@@ -18667,7 +16767,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 29.6,
         "pe": 12.4,
         "pe_10": 24.84,
-        "pe_25": 29.43,
+        "pe_25": 29.61,
         "pe_50": 34.04,
         "pe_75": 45.84,
         "pe_90": 57.96
@@ -18677,7 +16777,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 31.95,
         "pe": 13.34,
         "pe_10": 24.92,
-        "pe_25": 29.53,
+        "pe_25": 29.71,
         "pe_50": 34.15,
         "pe_75": 46.0,
         "pe_90": 58.16
@@ -18687,7 +16787,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.35,
         "pe": 14.71,
         "pe_10": 25.01,
-        "pe_25": 29.63,
+        "pe_25": 29.81,
         "pe_50": 34.27,
         "pe_75": 46.15,
         "pe_90": 58.35
@@ -18697,7 +16797,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.3,
         "pe": 14.65,
         "pe_10": 25.07,
-        "pe_25": 29.71,
+        "pe_25": 29.89,
         "pe_50": 34.36,
         "pe_75": 46.28,
         "pe_90": 58.51
@@ -18707,7 +16807,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 38.1,
         "pe": 15.76,
         "pe_10": 25.16,
-        "pe_25": 29.81,
+        "pe_25": 29.99,
         "pe_50": 34.47,
         "pe_75": 46.43,
         "pe_90": 58.7
@@ -18717,7 +16817,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 37.6,
         "pe": 15.51,
         "pe_10": 25.23,
-        "pe_25": 29.89,
+        "pe_25": 30.07,
         "pe_50": 34.57,
         "pe_75": 46.56,
         "pe_90": 58.87
@@ -18727,7 +16827,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 32.7,
         "pe": 13.44,
         "pe_10": 25.32,
-        "pe_25": 30.0,
+        "pe_25": 30.18,
         "pe_50": 34.7,
         "pe_75": 46.73,
         "pe_90": 59.08
@@ -18737,7 +16837,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 33.8,
         "pe": 13.85,
         "pe_10": 25.4,
-        "pe_25": 30.09,
+        "pe_25": 30.27,
         "pe_50": 34.8,
         "pe_75": 46.87,
         "pe_90": 59.26
@@ -18747,7 +16847,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 33.55,
         "pe": 13.71,
         "pe_10": 25.46,
-        "pe_25": 30.17,
+        "pe_25": 30.36,
         "pe_50": 34.9,
         "pe_75": 47.0,
         "pe_90": 59.42
@@ -18757,7 +16857,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 36.05,
         "pe": 14.68,
         "pe_10": 25.55,
-        "pe_25": 30.28,
+        "pe_25": 30.46,
         "pe_50": 35.02,
         "pe_75": 47.16,
         "pe_90": 59.63
@@ -18767,7 +16867,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 36.2,
         "pe": 14.7,
         "pe_10": 25.63,
-        "pe_25": 30.36,
+        "pe_25": 30.55,
         "pe_50": 35.12,
         "pe_75": 47.29,
         "pe_90": 59.8
@@ -18777,7 +16877,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.55,
         "pe": 14.39,
         "pe_10": 25.71,
-        "pe_25": 30.46,
+        "pe_25": 30.65,
         "pe_50": 35.23,
         "pe_75": 47.45,
         "pe_90": 59.99
@@ -18787,7 +16887,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 37.45,
         "pe": 14.86,
         "pe_10": 26.23,
-        "pe_25": 31.07,
+        "pe_25": 31.26,
         "pe_50": 35.94,
         "pe_75": 48.4,
         "pe_90": 61.2
@@ -18797,7 +16897,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.9,
         "pe": 13.96,
         "pe_10": 26.76,
-        "pe_25": 31.71,
+        "pe_25": 31.9,
         "pe_50": 36.67,
         "pe_75": 49.39,
         "pe_90": 62.44
@@ -18807,7 +16907,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 38.8,
         "pe": 14.8,
         "pe_10": 27.28,
-        "pe_25": 32.32,
+        "pe_25": 32.52,
         "pe_50": 37.38,
         "pe_75": 50.35,
         "pe_90": 63.66
@@ -18817,7 +16917,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 34.85,
         "pe": 13.04,
         "pe_10": 27.81,
-        "pe_25": 32.95,
+        "pe_25": 33.15,
         "pe_50": 38.11,
         "pe_75": 51.33,
         "pe_90": 64.89
@@ -18827,7 +16927,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 36.3,
         "pe": 13.33,
         "pe_10": 28.34,
-        "pe_25": 33.58,
+        "pe_25": 33.78,
         "pe_50": 38.83,
         "pe_75": 52.3,
         "pe_90": 66.12
@@ -18837,7 +16937,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 37.2,
         "pe": 13.41,
         "pe_10": 28.87,
-        "pe_25": 34.2,
+        "pe_25": 34.41,
         "pe_50": 39.56,
         "pe_75": 53.28,
         "pe_90": 67.36
@@ -18847,7 +16947,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.15,
         "pe": 12.44,
         "pe_10": 29.4,
-        "pe_25": 34.84,
+        "pe_25": 35.05,
         "pe_50": 40.29,
         "pe_75": 54.26,
         "pe_90": 68.61
@@ -18857,7 +16957,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.1,
         "pe": 12.2,
         "pe_10": 29.94,
-        "pe_25": 35.47,
+        "pe_25": 35.69,
         "pe_50": 41.03,
         "pe_75": 55.25,
         "pe_90": 69.86
@@ -18867,7 +16967,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 33.8,
         "pe": 11.55,
         "pe_10": 30.45,
-        "pe_25": 36.08,
+        "pe_25": 36.3,
         "pe_50": 41.73,
         "pe_75": 56.2,
         "pe_90": 71.06
@@ -18877,7 +16977,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 30.3,
         "pe": 10.17,
         "pe_10": 31.0,
-        "pe_25": 36.74,
+        "pe_25": 36.96,
         "pe_50": 42.49,
         "pe_75": 57.22,
         "pe_90": 72.34
@@ -18887,7 +16987,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 33.05,
         "pe": 10.91,
         "pe_10": 31.52,
-        "pe_25": 37.35,
+        "pe_25": 37.58,
         "pe_50": 43.2,
         "pe_75": 58.18,
         "pe_90": 73.56
@@ -18897,7 +16997,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 30.4,
         "pe": 9.87,
         "pe_10": 32.05,
-        "pe_25": 37.98,
+        "pe_25": 38.21,
         "pe_50": 43.92,
         "pe_75": 59.15,
         "pe_90": 74.79
@@ -18907,7 +17007,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 33.4,
         "pe": 10.76,
         "pe_10": 32.3,
-        "pe_25": 38.27,
+        "pe_25": 38.51,
         "pe_50": 44.26,
         "pe_75": 59.61,
         "pe_90": 75.37
@@ -18917,7 +17017,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.25,
         "pe": 11.26,
         "pe_10": 32.58,
-        "pe_25": 38.6,
+        "pe_25": 38.83,
         "pe_50": 44.64,
         "pe_75": 60.12,
         "pe_90": 76.02
@@ -18927,7 +17027,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.05,
         "pe": 11.11,
         "pe_10": 32.83,
-        "pe_25": 38.9,
+        "pe_25": 39.14,
         "pe_50": 44.99,
         "pe_75": 60.59,
         "pe_90": 76.61
@@ -18937,7 +17037,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.05,
         "pe": 11.02,
         "pe_10": 33.1,
-        "pe_25": 39.22,
+        "pe_25": 39.46,
         "pe_50": 45.36,
         "pe_75": 61.08,
         "pe_90": 77.23
@@ -18947,7 +17047,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 34.1,
         "pe": 10.64,
         "pe_10": 33.35,
-        "pe_25": 39.52,
+        "pe_25": 39.76,
         "pe_50": 45.7,
         "pe_75": 61.55,
         "pe_90": 77.82
@@ -18957,7 +17057,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.25,
         "pe": 10.91,
         "pe_10": 33.62,
-        "pe_25": 39.84,
+        "pe_25": 40.08,
         "pe_50": 46.07,
         "pe_75": 62.05,
         "pe_90": 78.45
@@ -18967,7 +17067,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 33.25,
         "pe": 10.22,
         "pe_10": 33.86,
-        "pe_25": 40.11,
+        "pe_25": 40.36,
         "pe_50": 46.39,
         "pe_75": 62.48,
         "pe_90": 79.0
@@ -18977,7 +17077,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.85,
         "pe": 10.93,
         "pe_10": 34.13,
-        "pe_25": 40.44,
+        "pe_25": 40.69,
         "pe_50": 46.77,
         "pe_75": 62.99,
         "pe_90": 79.64
@@ -18987,7 +17087,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 39.1,
         "pe": 11.83,
         "pe_10": 34.39,
-        "pe_25": 40.75,
+        "pe_25": 41.0,
         "pe_50": 47.13,
         "pe_75": 63.48,
         "pe_90": 80.26
@@ -18997,7 +17097,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 44.4,
         "pe": 13.33,
         "pe_10": 34.66,
-        "pe_25": 41.07,
+        "pe_25": 41.32,
         "pe_50": 47.5,
         "pe_75": 63.97,
         "pe_90": 80.88
@@ -19007,7 +17107,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 41.7,
         "pe": 12.43,
         "pe_10": 34.91,
-        "pe_25": 41.36,
+        "pe_25": 41.62,
         "pe_50": 47.84,
         "pe_75": 64.43,
         "pe_90": 81.46
@@ -19017,7 +17117,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 44.15,
         "pe": 13.06,
         "pe_10": 35.18,
-        "pe_25": 41.68,
+        "pe_25": 41.94,
         "pe_50": 48.21,
         "pe_75": 64.92,
         "pe_90": 82.09
@@ -19027,7 +17127,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 40.9,
         "pe": 11.41,
         "pe_10": 37.3,
-        "pe_25": 44.2,
+        "pe_25": 44.47,
         "pe_50": 51.12,
         "pe_75": 68.84,
         "pe_90": 87.04
@@ -19037,7 +17137,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 44.1,
         "pe": 11.64,
         "pe_10": 39.42,
-        "pe_25": 46.71,
+        "pe_25": 47.0,
         "pe_50": 54.03,
         "pe_75": 72.76,
         "pe_90": 92.0
@@ -19047,7 +17147,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 39.15,
         "pe": 9.81,
         "pe_10": 41.53,
-        "pe_25": 49.21,
+        "pe_25": 49.51,
         "pe_50": 56.91,
         "pe_75": 76.64,
         "pe_90": 96.91
@@ -19057,7 +17157,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 47.15,
         "pe": 11.24,
         "pe_10": 43.65,
-        "pe_25": 51.72,
+        "pe_25": 52.04,
         "pe_50": 59.82,
         "pe_75": 80.56,
         "pe_90": 101.86
@@ -19067,7 +17167,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 59.0,
         "pe": 13.41,
         "pe_10": 45.78,
-        "pe_25": 54.25,
+        "pe_25": 54.58,
         "pe_50": 62.74,
         "pe_75": 84.5,
         "pe_90": 106.83
@@ -19077,7 +17177,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 61.6,
         "pe": 13.38,
         "pe_10": 47.91,
-        "pe_25": 56.77,
+        "pe_25": 57.11,
         "pe_50": 65.65,
         "pe_75": 88.42,
         "pe_90": 111.79
@@ -19087,7 +17187,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 71.1,
         "pe": 14.78,
         "pe_10": 50.06,
-        "pe_25": 59.31,
+        "pe_25": 59.67,
         "pe_50": 68.6,
         "pe_75": 92.39,
         "pe_90": 116.81
@@ -19097,7 +17197,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 74.8,
         "pe": 14.92,
         "pe_10": 52.17,
-        "pe_25": 61.82,
+        "pe_25": 62.19,
         "pe_50": 71.49,
         "pe_75": 96.28,
         "pe_90": 121.74
@@ -19107,7 +17207,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 69.4,
         "pe": 13.3,
         "pe_10": 54.3,
-        "pe_25": 64.34,
+        "pe_25": 64.73,
         "pe_50": 74.41,
         "pe_75": 100.21,
         "pe_90": 126.7
@@ -19117,7 +17217,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 68.9,
         "pe": 12.71,
         "pe_10": 56.41,
-        "pe_25": 66.84,
+        "pe_25": 67.25,
         "pe_50": 77.3,
         "pe_75": 104.11,
         "pe_90": 131.63
@@ -19127,7 +17227,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 70.6,
         "pe": 12.55,
         "pe_10": 58.54,
-        "pe_25": 69.36,
+        "pe_25": 69.78,
         "pe_50": 80.22,
         "pe_75": 108.04,
         "pe_90": 136.6
@@ -19137,7 +17237,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 68.1,
         "pe": 11.68,
         "pe_10": 60.67,
-        "pe_25": 71.89,
+        "pe_25": 72.33,
         "pe_50": 83.14,
         "pe_75": 111.97,
         "pe_90": 141.58
@@ -19147,7 +17247,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 71.6,
         "pe": 11.4,
         "pe_10": 65.36,
-        "pe_25": 77.44,
+        "pe_25": 77.91,
         "pe_50": 89.56,
         "pe_75": 120.62,
         "pe_90": 152.51
@@ -19157,7 +17257,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 90.7,
         "pe": 13.48,
         "pe_10": 70.02,
-        "pe_25": 82.96,
+        "pe_25": 83.47,
         "pe_50": 95.95,
         "pe_75": 129.22,
         "pe_90": 163.38
@@ -19167,7 +17267,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 97.3,
         "pe": 13.56,
         "pe_10": 74.67,
-        "pe_25": 88.47,
+        "pe_25": 89.01,
         "pe_50": 102.32,
         "pe_75": 137.81,
         "pe_90": 174.24
@@ -19177,7 +17277,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 121.0,
         "pe": 15.87,
         "pe_10": 79.34,
-        "pe_25": 94.01,
+        "pe_25": 94.58,
         "pe_50": 108.72,
         "pe_75": 146.43,
         "pe_90": 185.14
@@ -19187,7 +17287,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 119.5,
         "pe": 14.8,
         "pe_10": 84.02,
-        "pe_25": 99.56,
+        "pe_25": 100.16,
         "pe_50": 115.14,
         "pe_75": 155.07,
         "pe_90": 196.06
@@ -19197,7 +17297,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 121.5,
         "pe": 14.26,
         "pe_10": 88.66,
-        "pe_25": 105.06,
+        "pe_25": 105.69,
         "pe_50": 121.5,
         "pe_75": 163.63,
         "pe_90": 206.89
@@ -19207,7 +17307,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 126.0,
         "pe": 14.05,
         "pe_10": 93.32,
-        "pe_25": 110.58,
+        "pe_25": 111.25,
         "pe_50": 127.88,
         "pe_75": 172.23,
         "pe_90": 217.76
@@ -19217,7 +17317,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 113.0,
         "pe": 12.0,
         "pe_10": 97.99,
-        "pe_25": 116.11,
+        "pe_25": 116.81,
         "pe_50": 134.28,
         "pe_75": 180.85,
         "pe_90": 228.66
@@ -19227,7 +17327,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 99.5,
         "pe": 10.09,
         "pe_10": 102.62,
-        "pe_25": 121.59,
+        "pe_25": 122.33,
         "pe_50": 140.62,
         "pe_75": 189.39,
         "pe_90": 239.45
@@ -19237,7 +17337,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 104.0,
         "pe": 10.08,
         "pe_10": 107.36,
-        "pe_25": 127.21,
+        "pe_25": 127.99,
         "pe_50": 147.13,
         "pe_75": 198.15,
         "pe_90": 250.53
@@ -19247,7 +17347,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 104.5,
         "pe": 9.71,
         "pe_10": 111.99,
-        "pe_25": 132.7,
+        "pe_25": 133.5,
         "pe_50": 153.47,
         "pe_75": 206.69,
         "pe_90": 261.33
@@ -19257,7 +17357,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 108.5,
         "pe": 9.68,
         "pe_10": 116.64,
-        "pe_25": 138.2,
+        "pe_25": 139.04,
         "pe_50": 159.84,
         "pe_75": 215.26,
         "pe_90": 272.17
@@ -19267,7 +17367,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 99.8,
         "pe": 9.15,
         "pe_10": 113.5,
-        "pe_25": 134.48,
+        "pe_25": 135.3,
         "pe_50": 155.54,
         "pe_75": 209.47,
         "pe_90": 264.85
@@ -19277,7 +17377,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 108.0,
         "pe": 10.19,
         "pe_10": 110.29,
-        "pe_25": 130.68,
+        "pe_25": 131.48,
         "pe_50": 151.14,
         "pe_75": 203.55,
         "pe_90": 257.36
@@ -19287,7 +17387,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 112.0,
         "pe": 10.88,
         "pe_10": 107.12,
-        "pe_25": 126.93,
+        "pe_25": 127.7,
         "pe_50": 146.79,
         "pe_75": 197.7,
         "pe_90": 249.96
@@ -19297,7 +17397,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 96.4,
         "pe": 9.65,
         "pe_10": 103.95,
-        "pe_25": 123.17,
+        "pe_25": 123.92,
         "pe_50": 142.45,
         "pe_75": 191.85,
         "pe_90": 242.57
@@ -19307,7 +17407,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 101.0,
         "pe": 10.42,
         "pe_10": 100.86,
-        "pe_25": 119.51,
+        "pe_25": 120.24,
         "pe_50": 138.22,
         "pe_75": 186.15,
         "pe_90": 235.36
@@ -19317,7 +17417,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 79.7,
         "pe": 8.49,
         "pe_10": 97.69,
-        "pe_25": 115.75,
+        "pe_25": 116.45,
         "pe_50": 133.87,
         "pe_75": 180.29,
         "pe_90": 227.95
@@ -19327,7 +17427,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 68.1,
         "pe": 7.5,
         "pe_10": 94.49,
-        "pe_25": 111.96,
+        "pe_25": 112.64,
         "pe_50": 129.48,
         "pe_75": 174.38,
         "pe_90": 220.48
@@ -19337,7 +17437,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 70.2,
         "pe": 8.0,
         "pe_10": 91.31,
-        "pe_25": 108.2,
+        "pe_25": 108.85,
         "pe_50": 125.13,
         "pe_75": 168.52,
         "pe_90": 213.07
@@ -19347,7 +17447,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 58.6,
         "pe": 6.92,
         "pe_10": 88.12,
-        "pe_25": 104.41,
+        "pe_25": 105.05,
         "pe_50": 120.76,
         "pe_75": 162.63,
         "pe_90": 205.63
@@ -19357,7 +17457,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 59.5,
         "pe": 7.28,
         "pe_10": 85.05,
-        "pe_25": 100.77,
+        "pe_25": 101.39,
         "pe_50": 116.55,
         "pe_75": 156.96,
         "pe_90": 198.46
@@ -19367,7 +17467,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 71.6,
         "pe": 9.1,
         "pe_10": 81.88,
-        "pe_25": 97.01,
+        "pe_25": 97.6,
         "pe_50": 112.2,
         "pe_75": 151.11,
         "pe_90": 191.05
@@ -19377,7 +17477,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 73.3,
         "pe": 9.7,
         "pe_10": 78.64,
-        "pe_25": 93.17,
+        "pe_25": 93.74,
         "pe_50": 107.76,
         "pe_75": 145.13,
         "pe_90": 183.49
@@ -19387,7 +17487,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 79.0,
         "pe": 10.19,
         "pe_10": 80.67,
-        "pe_25": 95.59,
+        "pe_25": 96.17,
         "pe_50": 110.55,
         "pe_75": 148.89,
         "pe_90": 188.25
@@ -19397,7 +17497,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 88.9,
         "pe": 11.19,
         "pe_10": 82.67,
-        "pe_25": 97.96,
+        "pe_25": 98.55,
         "pe_50": 113.29,
         "pe_75": 152.58,
         "pe_90": 192.91
@@ -19407,7 +17507,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 89.8,
         "pe": 11.04,
         "pe_10": 84.64,
-        "pe_25": 100.29,
+        "pe_25": 100.9,
         "pe_50": 115.99,
         "pe_75": 156.21,
         "pe_90": 197.51
@@ -19417,7 +17517,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 88.5,
         "pe": 10.63,
         "pe_10": 86.64,
-        "pe_25": 102.65,
+        "pe_25": 103.28,
         "pe_50": 118.72,
         "pe_75": 159.89,
         "pe_90": 202.16
@@ -19427,7 +17527,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 112.0,
         "pe": 13.15,
         "pe_10": 88.63,
-        "pe_25": 105.02,
+        "pe_25": 105.65,
         "pe_50": 121.45,
         "pe_75": 163.57,
         "pe_90": 206.81
@@ -19437,7 +17537,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 112.5,
         "pe": 12.92,
         "pe_10": 90.61,
-        "pe_25": 107.36,
+        "pe_25": 108.02,
         "pe_50": 124.17,
         "pe_75": 167.23,
         "pe_90": 211.43
@@ -19447,7 +17547,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 154.5,
         "pe": 17.36,
         "pe_10": 92.61,
-        "pe_25": 109.73,
+        "pe_25": 110.4,
         "pe_50": 126.91,
         "pe_75": 170.92,
         "pe_90": 216.1
@@ -19457,7 +17557,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 143.5,
         "pe": 15.78,
         "pe_10": 94.63,
-        "pe_25": 112.13,
+        "pe_25": 112.81,
         "pe_50": 129.68,
         "pe_75": 174.65,
         "pe_90": 220.82
@@ -19467,7 +17567,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 157.0,
         "pe": 16.91,
         "pe_10": 96.61,
-        "pe_25": 114.48,
+        "pe_25": 115.17,
         "pe_50": 132.4,
         "pe_75": 178.31,
         "pe_90": 225.44
@@ -19477,7 +17577,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 162.5,
         "pe": 17.15,
         "pe_10": 98.6,
-        "pe_25": 116.83,
+        "pe_25": 117.54,
         "pe_50": 135.12,
         "pe_75": 181.97,
         "pe_90": 230.08
@@ -19487,7 +17587,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 156.5,
         "pe": 16.19,
         "pe_10": 100.59,
-        "pe_25": 119.19,
+        "pe_25": 119.91,
         "pe_50": 137.84,
         "pe_75": 185.64,
         "pe_90": 234.72
@@ -19497,7 +17597,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 150.5,
         "pe": 15.26,
         "pe_10": 102.63,
-        "pe_25": 121.6,
+        "pe_25": 122.34,
         "pe_50": 140.64,
         "pe_75": 189.41,
         "pe_90": 239.48
@@ -19507,7 +17607,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 152.0,
         "pe": 15.38,
         "pe_10": 102.84,
-        "pe_25": 121.86,
+        "pe_25": 122.6,
         "pe_50": 140.93,
         "pe_75": 189.8,
         "pe_90": 239.98
@@ -19517,7 +17617,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 165.0,
         "pe": 16.67,
         "pe_10": 103.0,
-        "pe_25": 122.04,
+        "pe_25": 122.78,
         "pe_50": 141.15,
         "pe_75": 190.09,
         "pe_90": 240.34
@@ -19527,7 +17627,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 175.5,
         "pe": 17.69,
         "pe_10": 103.24,
-        "pe_25": 122.32,
+        "pe_25": 123.07,
         "pe_50": 141.47,
         "pe_75": 190.53,
         "pe_90": 240.9
@@ -19537,7 +17637,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 167.0,
         "pe": 16.8,
         "pe_10": 103.44,
-        "pe_25": 122.57,
+        "pe_25": 123.31,
         "pe_50": 141.75,
         "pe_75": 190.91,
         "pe_90": 241.37
@@ -19547,7 +17647,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 175.0,
         "pe": 17.57,
         "pe_10": 103.65,
-        "pe_25": 122.81,
+        "pe_25": 123.56,
         "pe_50": 142.03,
         "pe_75": 191.28,
         "pe_90": 241.85
@@ -19557,7 +17657,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 170.5,
         "pe": 17.08,
         "pe_10": 103.88,
-        "pe_25": 123.08,
+        "pe_25": 123.83,
         "pe_50": 142.35,
         "pe_75": 191.71,
         "pe_90": 242.39
@@ -19567,7 +17667,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 150.0,
         "pe": 15.0,
         "pe_10": 104.06,
-        "pe_25": 123.3,
+        "pe_25": 124.05,
         "pe_50": 142.6,
         "pe_75": 192.05,
         "pe_90": 242.82
@@ -19577,7 +17677,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 145.0,
         "pe": 14.47,
         "pe_10": 104.28,
-        "pe_25": 123.56,
+        "pe_25": 124.31,
         "pe_50": 142.9,
         "pe_75": 192.45,
         "pe_90": 243.32
@@ -19587,7 +17687,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 141.0,
         "pe": 14.04,
         "pe_10": 104.5,
-        "pe_25": 123.83,
+        "pe_25": 124.58,
         "pe_50": 143.21,
         "pe_75": 192.87,
         "pe_90": 243.86
@@ -19597,7 +17697,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 135.5,
         "pe": 13.47,
         "pe_10": 104.68,
-        "pe_25": 124.03,
+        "pe_25": 124.79,
         "pe_50": 143.45,
         "pe_75": 193.19,
         "pe_90": 244.26
@@ -19607,7 +17707,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 140.5,
         "pe": 13.94,
         "pe_10": 104.88,
-        "pe_25": 124.27,
+        "pe_25": 125.03,
         "pe_50": 143.73,
         "pe_75": 193.57,
         "pe_90": 244.74
@@ -19617,7 +17717,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 150.0,
         "pe": 14.85,
         "pe_10": 105.11,
-        "pe_25": 124.55,
+        "pe_25": 125.3,
         "pe_50": 144.04,
         "pe_75": 193.99,
         "pe_90": 245.27
@@ -19627,7 +17727,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 142.0,
         "pe": 14.11,
         "pe_10": 104.72,
-        "pe_25": 124.09,
+        "pe_25": 124.84,
         "pe_50": 143.51,
         "pe_75": 193.27,
         "pe_90": 244.37
@@ -19637,7 +17737,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 155.5,
         "pe": 15.51,
         "pe_10": 104.33,
-        "pe_25": 123.62,
+        "pe_25": 124.37,
         "pe_50": 142.97,
         "pe_75": 192.55,
         "pe_90": 243.45
@@ -19647,7 +17747,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 139.5,
         "pe": 13.96,
         "pe_10": 103.99,
-        "pe_25": 123.21,
+        "pe_25": 123.96,
         "pe_50": 142.5,
         "pe_75": 191.91,
         "pe_90": 242.65
@@ -19657,7 +17757,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 129.5,
         "pe": 13.01,
         "pe_10": 103.58,
-        "pe_25": 122.73,
+        "pe_25": 123.48,
         "pe_50": 141.94,
         "pe_75": 191.16,
         "pe_90": 241.7
@@ -19667,7 +17767,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 135.0,
         "pe": 13.61,
         "pe_10": 103.22,
-        "pe_25": 122.3,
+        "pe_25": 123.05,
         "pe_50": 141.45,
         "pe_75": 190.5,
         "pe_90": 240.86
@@ -19677,7 +17777,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 141.0,
         "pe": 14.26,
         "pe_10": 102.89,
-        "pe_25": 121.92,
+        "pe_25": 122.66,
         "pe_50": 141.0,
         "pe_75": 189.9,
         "pe_90": 240.1
@@ -19687,7 +17787,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 132.0,
         "pe": 13.4,
         "pe_10": 102.51,
-        "pe_25": 121.46,
+        "pe_25": 122.2,
         "pe_50": 140.47,
         "pe_75": 189.18,
         "pe_90": 239.2
@@ -19697,7 +17797,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 134.0,
         "pe": 13.65,
         "pe_10": 102.15,
-        "pe_25": 121.04,
+        "pe_25": 121.78,
         "pe_50": 139.99,
         "pe_75": 188.53,
         "pe_90": 238.37
@@ -19707,7 +17807,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 133.5,
         "pe": 13.65,
         "pe_10": 101.77,
-        "pe_25": 120.59,
+        "pe_25": 121.32,
         "pe_50": 139.47,
         "pe_75": 187.83,
         "pe_90": 237.48
@@ -19717,7 +17817,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 130.5,
         "pe": 13.4,
         "pe_10": 101.34,
-        "pe_25": 120.08,
+        "pe_25": 120.81,
         "pe_50": 138.88,
         "pe_75": 187.03,
         "pe_90": 236.48
@@ -19727,7 +17827,7 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 120.5,
         "pe": 12.42,
         "pe_10": 100.96,
-        "pe_25": 119.63,
+        "pe_25": 120.35,
         "pe_50": 138.35,
         "pe_75": 186.33,
         "pe_90": 235.59
@@ -19737,10 +17837,20 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
         "price": 115.0,
         "pe": 11.89,
         "pe_10": 100.65,
-        "pe_25": 119.26,
+        "pe_25": 119.98,
         "pe_50": 137.92,
         "pe_75": 185.75,
         "pe_90": 234.86
+      },
+      {
+        "date": "2026-01-16",
+        "price": 120.0,
+        "pe": 12.41,
+        "pe_10": 100.62,
+        "pe_25": 119.95,
+        "pe_50": 137.89,
+        "pe_75": 185.71,
+        "pe_90": 234.8
       }
     ]
   },
@@ -20668,16 +18778,16 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 18.5 | +85.1% | 0.000 | 2007-04 (+5784.9%) | 2008-08 (-83.6%) |
-| 6個月 | 18.6 | +44.2% | 0.003 | 2006-12 (+1207.3%) | 2007-07 (-77.3%) |
-| 1年 | 18.7 | +27.9% | 0.016 | 2006-07 (+562.8%) | 2007-09 (-61.6%) |
-| 2年 | 18.9 | +15.4% | 0.026 | 2006-04 (+109.9%) | 2009-12 (-39.0%) |
+| 3個月 | 18.5 | +85.0% | 0.000 | 2007-04 (+5784.9%) | 2008-08 (-83.6%) |
+| 6個月 | 18.6 | +44.1% | 0.003 | 2006-12 (+1207.3%) | 2007-07 (-77.3%) |
+| 1年 | 18.7 | +27.4% | 0.015 | 2006-07 (+562.8%) | 2007-09 (-61.6%) |
+| 2年 | 18.9 | +15.1% | 0.025 | 2006-04 (+109.9%) | 2009-12 (-39.0%) |
 | 3年 | 19.2 | +12.5% | 0.035 | 2018-12 (+58.2%) | 2009-12 (-28.1%) |
-| 4年 | 19.9 | +11.3% | 0.024 | 2019-07 (+52.3%) | 2008-04 (-27.2%) |
+| 4年 | 19.9 | +11.2% | 0.023 | 2019-07 (+52.3%) | 2008-04 (-27.2%) |
 | 5年 | 20.5 | +11.0% | 0.024 | 2018-10 (+44.3%) | 2007-07 (-28.0%) |
-| 6年 | 21.1 | +10.4% | 0.023 | 2018-12 (+35.1%) | 2007-07 (-23.7%) |
-| 8年 | 22.9 | +9.6% | 0.004 | 2015-08 (+29.0%) | 2007-07 (-16.9%) |
-| 10年 | 25.2 | +8.7% | 0.001 | 2013-09 (+25.1%) | 2007-07 (-11.2%) |
+| 6年 | 21.1 | +10.5% | 0.024 | 2018-12 (+35.1%) | 2007-07 (-23.7%) |
+| 8年 | 23.0 | +9.7% | 0.004 | 2015-08 (+29.0%) | 2007-07 (-16.9%) |
+| 10年 | 25.2 | +8.8% | 0.000 | 2013-09 (+25.1%) | 2007-07 (-11.2%) |
 
 
 ## 🎯 使用說明
@@ -20696,4 +18806,4 @@ description: "3014 聯陽 (半導體業) 本益比與未來報酬率關係分析
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-25 20:37:42 CST*
+*數據更新時間: 2026-02-07 12:40:35 CST*

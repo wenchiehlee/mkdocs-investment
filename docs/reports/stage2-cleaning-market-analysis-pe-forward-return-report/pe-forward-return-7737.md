@@ -2,7 +2,7 @@
 title: "7737 凱鈿 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-01-25"
+date: "2026-02-07"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "7737 凱鈿 (數位雲端) 本益比與未來報酬率關係分析
     - **產業別**: 數位雲端
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月
-    - **報告生成時間**: 2026-01-25 20:41:46 CST
+    - **報告生成時間**: 2026-02-07 12:44:43 CST
 
 ## 📈 互動式圖表
 
@@ -34,125 +34,11 @@ description: "7737 凱鈿 (數位雲端) 本益比與未來報酬率關係分析
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "7737 凱鈿 - 本益比與未來報酬率分析",
   "data": {
-    "values": [
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -86.11,
-        "start_price": 71.4,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -38.44,
-        "start_price": 59.5,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 40.38,
-        "start_price": 46.5,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.9,
-        "start_price": 43.9,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -48.25,
-        "start_price": 48.4,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -28.5,
-        "start_price": 50.6,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -43.74,
-        "start_price": 46.05,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -26.29,
-        "start_price": 41.0,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -58.53,
-        "start_price": 71.4,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -34.35,
-        "start_price": 59.5,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.0,
-        "start_price": 46.5,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -21.83,
-        "start_price": 43.9,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -38.3,
-        "start_price": 48.4,
-        "start_year": 2025
-      }
-    ]
+    "url": "../pe-forward-return-7737.json",
+    "format": {
+      "type": "json",
+      "property": "data"
+    }
   },
   "params": [
     {
@@ -458,8 +344,8 @@ description: "7737 凱鈿 (數位雲端) 本益比與未來報酬率關係分析
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | nan | -26.3% | 0.000 | 2025-04 (+40.4%) | 2025-02 (-86.1%) |
-| 6個月 | nan | -30.6% | 0.000 | 2025-04 (+0.0%) | 2025-02 (-58.5%) |
+| 3個月 | N/A | -29.2% | 0.000 | 2025-04 (+40.4%) | 2025-02 (-86.1%) |
+| 6個月 | N/A | -32.5% | 0.000 | 2025-04 (+0.0%) | 2025-02 (-58.5%) |
 
 
 ## 🎯 使用說明
@@ -478,4 +364,4 @@ description: "7737 凱鈿 (數位雲端) 本益比與未來報酬率關係分析
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-25 20:41:46 CST*
+*數據更新時間: 2026-02-07 12:44:43 CST*

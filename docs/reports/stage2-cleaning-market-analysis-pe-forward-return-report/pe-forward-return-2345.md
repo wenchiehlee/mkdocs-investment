@@ -2,7 +2,7 @@
 title: "2345 智邦 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-01-25"
+date: "2026-02-07"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
     - **產業別**: 通信網路業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-01-25 20:34:10 CST
+    - **報告生成時間**: 2026-02-07 12:37:03 CST
 
 ## 📈 互動式圖表
 
@@ -35,15 +35,6 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
   "title": "2345 智邦 - 本益比與未來報酬率分析",
   "data": {
     "values": [
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 450.0,
-        "forward_return": 39.92,
-        "start_price": 18.0,
-        "start_year": 2006
-      },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
@@ -142,150 +133,6 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "forward_return": 33.92,
         "start_price": 20.1,
         "start_year": 2006
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -46.39,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -57.25,
-        "start_price": 21.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -14.49,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 54.31,
-        "start_price": 18.4,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -28.04,
-        "start_price": 17.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -54.67,
-        "start_price": 20.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -51.32,
-        "start_price": 20.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.52,
-        "start_price": 16.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.37,
-        "start_price": 16.55,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -80.01,
-        "start_price": 17.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -67.68,
-        "start_price": 17.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -76.11,
-        "start_price": 17.0,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2008-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 81.94,
-        "start_price": 11.4,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2008-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 45.97,
-        "start_price": 12.65,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2008-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -56.67,
-        "start_price": 11.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2008-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -75.29,
-        "start_price": 12.75,
-        "start_year": 2008
       },
       {
         "horizon": "0.25y",
@@ -2169,13 +2016,13 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "start_year": 2025
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 450.0,
-        "forward_return": -23.62,
-        "start_price": 18.0,
-        "start_year": 2006
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-10-16",
+        "pe_ratio": 29.07,
+        "forward_return": 13.5,
+        "start_price": 1080.0,
+        "start_year": 2025
       },
       {
         "horizon": "0.5y",
@@ -2275,150 +2122,6 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "forward_return": 3.45,
         "start_price": 20.1,
         "start_year": 2006
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.01,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -44.38,
-        "start_price": 21.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -32.88,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -13.61,
-        "start_price": 18.4,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.75,
-        "start_price": 17.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -29.12,
-        "start_price": 20.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -68.8,
-        "start_price": 20.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -41.08,
-        "start_price": 16.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -48.42,
-        "start_price": 16.55,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -29.9,
-        "start_price": 17.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -35.54,
-        "start_price": 17.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -66.4,
-        "start_price": 17.0,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2008-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -37.77,
-        "start_price": 11.4,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2008-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -37.45,
-        "start_price": 12.65,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2008-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -72.04,
-        "start_price": 11.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2008-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -80.37,
-        "start_price": 12.75,
-        "start_year": 2008
       },
       {
         "horizon": "0.5y",
@@ -4275,13 +3978,13 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "start_year": 2025
       },
       {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 450.0,
-        "forward_return": 20.01,
-        "start_price": 18.0,
-        "start_year": 2006
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-07-16",
+        "pe_ratio": 27.49,
+        "forward_return": 55.73,
+        "start_price": 892.0,
+        "start_year": 2025
       },
       {
         "horizon": "1y",
@@ -4381,150 +4084,6 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "forward_return": -15.43,
         "start_price": 20.1,
         "start_year": 2006
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -47.25,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -41.73,
-        "start_price": 21.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -44.84,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -30.65,
-        "start_price": 18.4,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -20.98,
-        "start_price": 17.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -48.69,
-        "start_price": 20.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -56.02,
-        "start_price": 20.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -38.21,
-        "start_price": 16.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -57.99,
-        "start_price": 16.55,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -66.94,
-        "start_price": 17.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -62.93,
-        "start_price": 17.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -48.69,
-        "start_price": 17.0,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2008-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -37.13,
-        "start_price": 11.4,
-        "start_year": 2008
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2008-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -19.98,
-        "start_price": 12.65,
-        "start_year": 2008
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2008-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -16.48,
-        "start_price": 11.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2008-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -18.84,
-        "start_price": 12.75,
-        "start_year": 2008
       },
       {
         "horizon": "1y",
@@ -6327,13 +5886,13 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "start_year": 2024
       },
       {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 450.0,
-        "forward_return": -20.43,
-        "start_price": 18.0,
-        "start_year": 2006
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2025-01-16",
+        "pe_ratio": 33.09,
+        "forward_return": 47.61,
+        "start_price": 763.0,
+        "start_year": 2025
       },
       {
         "horizon": "2y",
@@ -6433,150 +5992,6 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "forward_return": -34.15,
         "start_price": 20.1,
         "start_year": 2006
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -42.4,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -39.49,
-        "start_price": 21.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -32.15,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -24.99,
-        "start_price": 18.4,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.68,
-        "start_price": 17.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -27.37,
-        "start_price": 20.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -24.4,
-        "start_price": 20.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -16.99,
-        "start_price": 16.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -14.27,
-        "start_price": 16.55,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.76,
-        "start_price": 17.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -12.61,
-        "start_price": 17.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.35,
-        "start_price": 17.0,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2008-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.16,
-        "start_price": 11.4,
-        "start_year": 2008
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2008-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.95,
-        "start_price": 12.65,
-        "start_year": 2008
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2008-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.81,
-        "start_price": 11.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2008-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.37,
-        "start_price": 12.75,
-        "start_year": 2008
       },
       {
         "horizon": "2y",
@@ -8271,13 +7686,13 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "start_year": 2023
       },
       {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 450.0,
-        "forward_return": -26.45,
-        "start_price": 18.0,
-        "start_year": 2006
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-01-16",
+        "pe_ratio": 32.16,
+        "forward_return": 46.5,
+        "start_price": 529.0,
+        "start_year": 2024
       },
       {
         "horizon": "3y",
@@ -8377,150 +7792,6 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "forward_return": -6.92,
         "start_price": 20.1,
         "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.72,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -12.25,
-        "start_price": 21.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.64,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.11,
-        "start_price": 18.4,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.9,
-        "start_price": 17.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.12,
-        "start_price": 20.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.76,
-        "start_price": 20.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.59,
-        "start_price": 16.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.33,
-        "start_price": 16.55,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.58,
-        "start_price": 17.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.76,
-        "start_price": 17.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.23,
-        "start_price": 17.0,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2008-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 26.09,
-        "start_price": 11.4,
-        "start_year": 2008
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2008-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.44,
-        "start_price": 12.65,
-        "start_year": 2008
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2008-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.39,
-        "start_price": 11.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2008-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.46,
-        "start_price": 12.75,
-        "start_year": 2008
       },
       {
         "horizon": "3y",
@@ -10107,13 +9378,13 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "start_year": 2022
       },
       {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 450.0,
-        "forward_return": -4.68,
-        "start_price": 18.0,
-        "start_year": 2006
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2023-01-16",
+        "pe_ratio": 16.51,
+        "forward_return": 67.44,
+        "start_price": 243.5,
+        "start_year": 2023
       },
       {
         "horizon": "4y",
@@ -10213,150 +9484,6 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "forward_return": 2.47,
         "start_price": 20.1,
         "start_year": 2006
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.42,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -2.13,
-        "start_price": 21.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.99,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.93,
-        "start_price": 18.4,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.26,
-        "start_price": 17.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.12,
-        "start_price": 20.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.69,
-        "start_price": 20.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.32,
-        "start_price": 16.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.26,
-        "start_price": 16.55,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.9,
-        "start_price": 17.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.63,
-        "start_price": 17.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.12,
-        "start_price": 17.0,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2008-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.28,
-        "start_price": 11.4,
-        "start_year": 2008
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2008-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.54,
-        "start_price": 12.65,
-        "start_year": 2008
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2008-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.29,
-        "start_price": 11.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2008-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.36,
-        "start_price": 12.75,
-        "start_year": 2008
       },
       {
         "horizon": "4y",
@@ -11835,13 +10962,13 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "start_year": 2021
       },
       {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 450.0,
-        "forward_return": 4.89,
-        "start_price": 18.0,
-        "start_year": 2006
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2022-01-16",
+        "pe_ratio": 29.59,
+        "forward_return": 44.32,
+        "start_price": 265.0,
+        "start_year": 2022
       },
       {
         "horizon": "5y",
@@ -11941,150 +11068,6 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "forward_return": -3.39,
         "start_price": 20.1,
         "start_year": 2006
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.77,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 0.07,
-        "start_price": 21.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.54,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.01,
-        "start_price": 18.4,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.27,
-        "start_price": 17.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.13,
-        "start_price": 20.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.19,
-        "start_price": 20.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.45,
-        "start_price": 16.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.32,
-        "start_price": 16.55,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.28,
-        "start_price": 17.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.68,
-        "start_price": 17.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.11,
-        "start_price": 17.0,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2008-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.61,
-        "start_price": 11.4,
-        "start_year": 2008
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2008-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.5,
-        "start_price": 12.65,
-        "start_year": 2008
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2008-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.07,
-        "start_price": 11.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2008-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.08,
-        "start_price": 12.75,
-        "start_year": 2008
       },
       {
         "horizon": "5y",
@@ -13455,13 +12438,13 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "start_year": 2020
       },
       {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 450.0,
-        "forward_return": 0.7,
-        "start_price": 18.0,
-        "start_year": 2006
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2021-01-16",
+        "pe_ratio": 29.89,
+        "forward_return": 33.81,
+        "start_price": 269.5,
+        "start_year": 2021
       },
       {
         "horizon": "6y",
@@ -13561,150 +12544,6 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "forward_return": 0.57,
         "start_price": 20.1,
         "start_year": 2006
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.75,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -1.03,
-        "start_price": 21.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.3,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.44,
-        "start_price": 18.4,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.21,
-        "start_price": 17.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.37,
-        "start_price": 20.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.29,
-        "start_price": 20.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.7,
-        "start_price": 16.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.05,
-        "start_price": 16.55,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.44,
-        "start_price": 17.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.64,
-        "start_price": 17.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.3,
-        "start_price": 17.0,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2008-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.99,
-        "start_price": 11.4,
-        "start_year": 2008
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2008-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.44,
-        "start_price": 12.65,
-        "start_year": 2008
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2008-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.72,
-        "start_price": 11.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2008-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.19,
-        "start_price": 12.75,
-        "start_year": 2008
       },
       {
         "horizon": "6y",
@@ -14967,13 +13806,13 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "start_year": 2019
       },
       {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 450.0,
-        "forward_return": 2.82,
-        "start_price": 18.0,
-        "start_year": 2006
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2020-01-16",
+        "pe_ratio": 18.27,
+        "forward_return": 38.72,
+        "start_price": 163.0,
+        "start_year": 2020
       },
       {
         "horizon": "8y",
@@ -15073,150 +13912,6 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "forward_return": 1.73,
         "start_price": 20.1,
         "start_year": 2006
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.62,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 0.89,
-        "start_price": 21.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.95,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.83,
-        "start_price": 18.4,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.12,
-        "start_price": 17.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.93,
-        "start_price": 20.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.41,
-        "start_price": 20.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.83,
-        "start_price": 16.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.52,
-        "start_price": 16.55,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.61,
-        "start_price": 17.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.35,
-        "start_price": 17.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.32,
-        "start_price": 17.0,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2008-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.7,
-        "start_price": 11.4,
-        "start_year": 2008
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2008-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 15.65,
-        "start_price": 12.65,
-        "start_year": 2008
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2008-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.53,
-        "start_price": 11.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2008-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.77,
-        "start_price": 12.75,
-        "start_year": 2008
       },
       {
         "horizon": "8y",
@@ -16263,13 +14958,13 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "start_year": 2017
       },
       {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 450.0,
-        "forward_return": 8.84,
-        "start_price": 18.0,
-        "start_year": 2006
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2018-01-16",
+        "pe_ratio": 24.71,
+        "forward_return": 33.36,
+        "start_price": 117.0,
+        "start_year": 2018
       },
       {
         "horizon": "10y",
@@ -16369,150 +15064,6 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "forward_return": 11.74,
         "start_price": 20.1,
         "start_year": 2006
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.92,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 11.86,
-        "start_price": 21.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.55,
-        "start_price": 21.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 15.62,
-        "start_price": 18.4,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.93,
-        "start_price": 17.6,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 15.81,
-        "start_price": 20.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.41,
-        "start_price": 20.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.99,
-        "start_price": 16.2,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.02,
-        "start_price": 16.55,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.5,
-        "start_price": 17.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.69,
-        "start_price": 17.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.5,
-        "start_price": 17.0,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2008-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.57,
-        "start_price": 11.4,
-        "start_year": 2008
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2008-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 23.91,
-        "start_price": 12.65,
-        "start_year": 2008
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2008-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.89,
-        "start_price": 11.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2008-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 20.4,
-        "start_price": 12.75,
-        "start_year": 2008
       },
       {
         "horizon": "10y",
@@ -17341,6 +15892,15 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "forward_return": 44.23,
         "start_price": 31.95,
         "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2016-01-16",
+        "pe_ratio": 14.72,
+        "forward_return": 42.57,
+        "start_price": 33.85,
+        "start_year": 2016
       }
     ]
   },
@@ -17544,7 +16104,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 9.8倍、11.5倍、17.9倍、26.1倍、33.4倍"
+!!! note "本益比河流帶水位: 9.8倍、11.5倍、17.9倍、26.1倍、33.0倍"
 
 ```vegalite
 {
@@ -17553,16 +16113,6 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
   "data": {
     "values": [
       {
-        "date": "2006-01-16",
-        "price": 18.0,
-        "pe": 450.0,
-        "pe_10": 0.39,
-        "pe_25": 0.46,
-        "pe_50": 0.72,
-        "pe_75": 1.04,
-        "pe_90": 1.34
-      },
-      {
         "date": "2006-02-14",
         "price": 17.15,
         "pe": 428.8,
@@ -17570,7 +16120,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 0.46,
         "pe_50": 0.72,
         "pe_75": 1.04,
-        "pe_90": 1.34
+        "pe_90": 1.32
       },
       {
         "date": "2006-03-16",
@@ -17580,7 +16130,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 0.46,
         "pe_50": 0.72,
         "pe_75": 1.04,
-        "pe_90": 1.34
+        "pe_90": 1.32
       },
       {
         "date": "2006-04-15",
@@ -17590,7 +16140,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 0.46,
         "pe_50": 0.72,
         "pe_75": 1.04,
-        "pe_90": 1.34
+        "pe_90": 1.32
       },
       {
         "date": "2006-05-16",
@@ -17600,7 +16150,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 0.46,
         "pe_50": 0.72,
         "pe_75": 1.04,
-        "pe_90": 1.34
+        "pe_90": 1.32
       },
       {
         "date": "2006-06-15",
@@ -17610,7 +16160,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 0.46,
         "pe_50": 0.72,
         "pe_75": 1.04,
-        "pe_90": 1.34
+        "pe_90": 1.32
       },
       {
         "date": "2006-07-16",
@@ -17620,7 +16170,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 0.46,
         "pe_50": 0.72,
         "pe_75": 1.04,
-        "pe_90": 1.34
+        "pe_90": 1.32
       },
       {
         "date": "2006-08-16",
@@ -17630,7 +16180,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 0.46,
         "pe_50": 0.72,
         "pe_75": 1.04,
-        "pe_90": 1.34
+        "pe_90": 1.32
       },
       {
         "date": "2006-09-15",
@@ -17640,7 +16190,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 0.46,
         "pe_50": 0.72,
         "pe_75": 1.04,
-        "pe_90": 1.34
+        "pe_90": 1.32
       },
       {
         "date": "2006-10-16",
@@ -17650,7 +16200,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 0.46,
         "pe_50": 0.72,
         "pe_75": 1.04,
-        "pe_90": 1.34
+        "pe_90": 1.32
       },
       {
         "date": "2006-11-15",
@@ -17660,7 +16210,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 0.46,
         "pe_50": 0.72,
         "pe_75": 1.04,
-        "pe_90": 1.34
+        "pe_90": 1.32
       },
       {
         "date": "2006-12-16",
@@ -17670,7 +16220,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 0.46,
         "pe_50": 0.72,
         "pe_75": 1.04,
-        "pe_90": 1.34
+        "pe_90": 1.32
       },
       {
         "date": "2008-05-16",
@@ -17680,7 +16230,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 0.37,
         "pe_50": 0.58,
         "pe_75": 0.85,
-        "pe_90": 1.09
+        "pe_90": 1.07
       },
       {
         "date": "2008-06-15",
@@ -17690,7 +16240,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 1.55,
         "pe_50": 2.42,
         "pe_75": 3.52,
-        "pe_90": 4.51
+        "pe_90": 4.45
       },
       {
         "date": "2008-07-16",
@@ -17700,7 +16250,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 2.73,
         "pe_50": 4.25,
         "pe_75": 6.19,
-        "pe_90": 7.94
+        "pe_90": 7.83
       },
       {
         "date": "2008-08-16",
@@ -17710,7 +16260,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 3.9,
         "pe_50": 6.09,
         "pe_75": 8.86,
-        "pe_90": 11.37
+        "pe_90": 11.21
       },
       {
         "date": "2008-09-15",
@@ -17720,7 +16270,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 5.08,
         "pe_50": 7.93,
         "pe_75": 11.53,
-        "pe_90": 14.79
+        "pe_90": 14.6
       },
       {
         "date": "2008-10-16",
@@ -17730,7 +16280,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 6.26,
         "pe_50": 9.76,
         "pe_75": 14.2,
-        "pe_90": 18.21
+        "pe_90": 17.97
       },
       {
         "date": "2008-11-15",
@@ -17740,7 +16290,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 7.44,
         "pe_50": 11.6,
         "pe_75": 16.88,
-        "pe_90": 21.65
+        "pe_90": 21.36
       },
       {
         "date": "2008-12-16",
@@ -17750,7 +16300,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 8.61,
         "pe_50": 13.44,
         "pe_75": 19.55,
-        "pe_90": 25.08
+        "pe_90": 24.74
       },
       {
         "date": "2009-01-16",
@@ -17760,7 +16310,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 9.07,
         "pe_50": 14.15,
         "pe_75": 20.59,
-        "pe_90": 26.42
+        "pe_90": 26.06
       },
       {
         "date": "2009-02-14",
@@ -17770,7 +16320,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 9.53,
         "pe_50": 14.86,
         "pe_75": 21.62,
-        "pe_90": 27.73
+        "pe_90": 27.36
       },
       {
         "date": "2009-03-16",
@@ -17780,7 +16330,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 9.99,
         "pe_50": 15.58,
         "pe_75": 22.66,
-        "pe_90": 29.07
+        "pe_90": 28.68
       },
       {
         "date": "2009-04-15",
@@ -17790,7 +16340,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 10.45,
         "pe_50": 16.3,
         "pe_75": 23.72,
-        "pe_90": 30.43
+        "pe_90": 30.02
       },
       {
         "date": "2009-05-16",
@@ -17800,7 +16350,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 10.91,
         "pe_50": 17.01,
         "pe_75": 24.75,
-        "pe_90": 31.75
+        "pe_90": 31.32
       },
       {
         "date": "2009-06-15",
@@ -17810,7 +16360,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 11.37,
         "pe_50": 17.73,
         "pe_75": 25.79,
-        "pe_90": 33.08
+        "pe_90": 32.64
       },
       {
         "date": "2009-07-16",
@@ -17820,7 +16370,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 11.82,
         "pe_50": 18.44,
         "pe_75": 26.84,
-        "pe_90": 34.42
+        "pe_90": 33.96
       },
       {
         "date": "2009-08-16",
@@ -17830,7 +16380,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 12.29,
         "pe_50": 19.17,
         "pe_75": 27.89,
-        "pe_90": 35.78
+        "pe_90": 35.3
       },
       {
         "date": "2009-09-15",
@@ -17840,7 +16390,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 12.75,
         "pe_50": 19.88,
         "pe_75": 28.93,
-        "pe_90": 37.1
+        "pe_90": 36.6
       },
       {
         "date": "2009-10-16",
@@ -17850,7 +16400,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 13.2,
         "pe_50": 20.59,
         "pe_75": 29.97,
-        "pe_90": 38.44
+        "pe_90": 37.92
       },
       {
         "date": "2009-11-15",
@@ -17860,7 +16410,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 13.66,
         "pe_50": 21.31,
         "pe_75": 31.0,
-        "pe_90": 39.76
+        "pe_90": 39.23
       },
       {
         "date": "2009-12-16",
@@ -17870,7 +16420,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 14.13,
         "pe_50": 22.03,
         "pe_75": 32.06,
-        "pe_90": 41.12
+        "pe_90": 40.57
       },
       {
         "date": "2010-01-16",
@@ -17880,7 +16430,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 14.88,
         "pe_50": 23.2,
         "pe_75": 33.76,
-        "pe_90": 43.31
+        "pe_90": 42.72
       },
       {
         "date": "2010-02-14",
@@ -17890,7 +16440,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 15.64,
         "pe_50": 24.39,
         "pe_75": 35.49,
-        "pe_90": 45.52
+        "pe_90": 44.91
       },
       {
         "date": "2010-03-16",
@@ -17900,7 +16450,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 16.4,
         "pe_50": 25.57,
         "pe_75": 37.21,
-        "pe_90": 47.73
+        "pe_90": 47.09
       },
       {
         "date": "2010-04-15",
@@ -17910,7 +16460,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 17.14,
         "pe_50": 26.74,
         "pe_75": 38.9,
-        "pe_90": 49.9
+        "pe_90": 49.23
       },
       {
         "date": "2010-05-16",
@@ -17920,7 +16470,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 17.9,
         "pe_50": 27.92,
         "pe_75": 40.63,
-        "pe_90": 52.11
+        "pe_90": 51.41
       },
       {
         "date": "2010-06-15",
@@ -17930,7 +16480,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 18.65,
         "pe_50": 29.09,
         "pe_75": 42.33,
-        "pe_90": 54.3
+        "pe_90": 53.57
       },
       {
         "date": "2010-07-16",
@@ -17940,7 +16490,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 19.42,
         "pe_50": 30.29,
         "pe_75": 44.08,
-        "pe_90": 56.54
+        "pe_90": 55.78
       },
       {
         "date": "2010-08-16",
@@ -17950,7 +16500,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 20.17,
         "pe_50": 31.46,
         "pe_75": 45.78,
-        "pe_90": 58.72
+        "pe_90": 57.93
       },
       {
         "date": "2010-09-15",
@@ -17960,7 +16510,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 20.92,
         "pe_50": 32.63,
         "pe_75": 47.48,
-        "pe_90": 60.9
+        "pe_90": 60.08
       },
       {
         "date": "2010-10-16",
@@ -17970,7 +16520,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 21.68,
         "pe_50": 33.82,
         "pe_75": 49.21,
-        "pe_90": 63.12
+        "pe_90": 62.27
       },
       {
         "date": "2010-11-15",
@@ -17980,7 +16530,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 22.44,
         "pe_50": 35.0,
         "pe_75": 50.93,
-        "pe_90": 65.32
+        "pe_90": 64.44
       },
       {
         "date": "2010-12-16",
@@ -17990,7 +16540,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 23.19,
         "pe_50": 36.17,
         "pe_75": 52.64,
-        "pe_90": 67.51
+        "pe_90": 66.6
       },
       {
         "date": "2011-01-16",
@@ -18000,7 +16550,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 22.86,
         "pe_50": 35.65,
         "pe_75": 51.87,
-        "pe_90": 66.54
+        "pe_90": 65.64
       },
       {
         "date": "2011-02-14",
@@ -18010,7 +16560,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 22.51,
         "pe_50": 35.1,
         "pe_75": 51.08,
-        "pe_90": 65.52
+        "pe_90": 64.63
       },
       {
         "date": "2011-03-16",
@@ -18020,7 +16570,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 22.17,
         "pe_50": 34.58,
         "pe_75": 50.32,
-        "pe_90": 64.54
+        "pe_90": 63.67
       },
       {
         "date": "2011-04-15",
@@ -18030,7 +16580,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 21.81,
         "pe_50": 34.02,
         "pe_75": 49.5,
-        "pe_90": 63.49
+        "pe_90": 62.64
       },
       {
         "date": "2011-05-16",
@@ -18040,7 +16590,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 21.48,
         "pe_50": 33.51,
         "pe_75": 48.76,
-        "pe_90": 62.54
+        "pe_90": 61.69
       },
       {
         "date": "2011-06-15",
@@ -18050,7 +16600,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 21.13,
         "pe_50": 32.96,
         "pe_75": 47.96,
-        "pe_90": 61.52
+        "pe_90": 60.69
       },
       {
         "date": "2011-07-16",
@@ -18060,7 +16610,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 20.78,
         "pe_50": 32.42,
         "pe_75": 47.17,
-        "pe_90": 60.5
+        "pe_90": 59.68
       },
       {
         "date": "2011-08-16",
@@ -18070,7 +16620,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 20.44,
         "pe_50": 31.88,
         "pe_75": 46.38,
-        "pe_90": 59.49
+        "pe_90": 58.69
       },
       {
         "date": "2011-09-15",
@@ -18080,7 +16630,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 20.1,
         "pe_50": 31.35,
         "pe_75": 45.62,
-        "pe_90": 58.52
+        "pe_90": 57.73
       },
       {
         "date": "2011-10-16",
@@ -18090,7 +16640,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 19.75,
         "pe_50": 30.81,
         "pe_75": 44.83,
-        "pe_90": 57.51
+        "pe_90": 56.73
       },
       {
         "date": "2011-11-15",
@@ -18100,7 +16650,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 19.4,
         "pe_50": 30.25,
         "pe_75": 44.02,
-        "pe_90": 56.47
+        "pe_90": 55.71
       },
       {
         "date": "2011-12-16",
@@ -18110,7 +16660,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 19.07,
         "pe_50": 29.74,
         "pe_75": 43.28,
-        "pe_90": 55.51
+        "pe_90": 54.76
       },
       {
         "date": "2012-01-16",
@@ -18120,7 +16670,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 19.06,
         "pe_50": 29.72,
         "pe_75": 43.25,
-        "pe_90": 55.47
+        "pe_90": 54.73
       },
       {
         "date": "2012-02-15",
@@ -18130,7 +16680,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 19.04,
         "pe_50": 29.69,
         "pe_75": 43.2,
-        "pe_90": 55.41
+        "pe_90": 54.67
       },
       {
         "date": "2012-03-16",
@@ -18140,7 +16690,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 19.03,
         "pe_50": 29.68,
         "pe_75": 43.19,
-        "pe_90": 55.4
+        "pe_90": 54.65
       },
       {
         "date": "2012-04-15",
@@ -18150,7 +16700,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 19.03,
         "pe_50": 29.68,
         "pe_75": 43.18,
-        "pe_90": 55.39
+        "pe_90": 54.64
       },
       {
         "date": "2012-05-16",
@@ -18160,7 +16710,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 19.01,
         "pe_50": 29.65,
         "pe_75": 43.15,
-        "pe_90": 55.34
+        "pe_90": 54.6
       },
       {
         "date": "2012-06-15",
@@ -18170,7 +16720,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 19.01,
         "pe_50": 29.65,
         "pe_75": 43.14,
-        "pe_90": 55.33
+        "pe_90": 54.58
       },
       {
         "date": "2012-07-16",
@@ -18180,7 +16730,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 19.0,
         "pe_50": 29.63,
         "pe_75": 43.12,
-        "pe_90": 55.31
+        "pe_90": 54.56
       },
       {
         "date": "2012-08-16",
@@ -18190,7 +16740,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 18.97,
         "pe_50": 29.6,
         "pe_75": 43.06,
-        "pe_90": 55.23
+        "pe_90": 54.49
       },
       {
         "date": "2012-09-15",
@@ -18200,7 +16750,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 18.98,
         "pe_50": 29.6,
         "pe_75": 43.07,
-        "pe_90": 55.24
+        "pe_90": 54.5
       },
       {
         "date": "2012-10-16",
@@ -18210,7 +16760,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 18.96,
         "pe_50": 29.58,
         "pe_75": 43.04,
-        "pe_90": 55.2
+        "pe_90": 54.46
       },
       {
         "date": "2012-11-15",
@@ -18220,7 +16770,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 18.95,
         "pe_50": 29.56,
         "pe_75": 43.01,
-        "pe_90": 55.16
+        "pe_90": 54.42
       },
       {
         "date": "2012-12-16",
@@ -18230,7 +16780,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 18.94,
         "pe_50": 29.55,
         "pe_75": 42.99,
-        "pe_90": 55.14
+        "pe_90": 54.4
       },
       {
         "date": "2013-01-16",
@@ -18240,7 +16790,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 18.39,
         "pe_50": 28.68,
         "pe_75": 41.74,
-        "pe_90": 53.54
+        "pe_90": 52.81
       },
       {
         "date": "2013-02-14",
@@ -18250,7 +16800,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 17.82,
         "pe_50": 27.79,
         "pe_75": 40.44,
-        "pe_90": 51.87
+        "pe_90": 51.17
       },
       {
         "date": "2013-03-16",
@@ -18260,7 +16810,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 17.25,
         "pe_50": 26.9,
         "pe_75": 39.15,
-        "pe_90": 50.21
+        "pe_90": 49.54
       },
       {
         "date": "2013-04-15",
@@ -18270,7 +16820,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 16.68,
         "pe_50": 26.02,
         "pe_75": 37.86,
-        "pe_90": 48.57
+        "pe_90": 47.91
       },
       {
         "date": "2013-05-16",
@@ -18280,7 +16830,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 16.12,
         "pe_50": 25.14,
         "pe_75": 36.59,
-        "pe_90": 46.93
+        "pe_90": 46.3
       },
       {
         "date": "2013-06-15",
@@ -18290,7 +16840,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 15.56,
         "pe_50": 24.26,
         "pe_75": 35.3,
-        "pe_90": 45.28
+        "pe_90": 44.67
       },
       {
         "date": "2013-07-16",
@@ -18300,7 +16850,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 14.99,
         "pe_50": 23.38,
         "pe_75": 34.02,
-        "pe_90": 43.64
+        "pe_90": 43.05
       },
       {
         "date": "2013-08-16",
@@ -18310,7 +16860,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 14.43,
         "pe_50": 22.51,
         "pe_75": 32.75,
-        "pe_90": 42.01
+        "pe_90": 41.44
       },
       {
         "date": "2013-09-15",
@@ -18320,7 +16870,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 13.87,
         "pe_50": 21.63,
         "pe_75": 31.48,
-        "pe_90": 40.37
+        "pe_90": 39.83
       },
       {
         "date": "2013-10-16",
@@ -18330,7 +16880,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 13.3,
         "pe_50": 20.74,
         "pe_75": 30.18,
-        "pe_90": 38.71
+        "pe_90": 38.19
       },
       {
         "date": "2013-11-15",
@@ -18340,7 +16890,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 12.74,
         "pe_50": 19.87,
         "pe_75": 28.91,
-        "pe_90": 37.09
+        "pe_90": 36.59
       },
       {
         "date": "2013-12-16",
@@ -18350,7 +16900,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 12.17,
         "pe_50": 18.98,
         "pe_75": 27.62,
-        "pe_90": 35.43
+        "pe_90": 34.95
       },
       {
         "date": "2014-01-16",
@@ -18360,7 +16910,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 12.32,
         "pe_50": 19.21,
         "pe_75": 27.96,
-        "pe_90": 35.86
+        "pe_90": 35.38
       },
       {
         "date": "2014-02-14",
@@ -18370,7 +16920,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 12.46,
         "pe_50": 19.43,
         "pe_75": 28.27,
-        "pe_90": 36.26
+        "pe_90": 35.77
       },
       {
         "date": "2014-03-16",
@@ -18380,7 +16930,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 12.6,
         "pe_50": 19.66,
         "pe_75": 28.6,
-        "pe_90": 36.68
+        "pe_90": 36.19
       },
       {
         "date": "2014-04-15",
@@ -18390,7 +16940,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 12.75,
         "pe_50": 19.88,
         "pe_75": 28.93,
-        "pe_90": 37.11
+        "pe_90": 36.61
       },
       {
         "date": "2014-05-16",
@@ -18400,7 +16950,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 12.89,
         "pe_50": 20.11,
         "pe_75": 29.26,
-        "pe_90": 37.53
+        "pe_90": 37.02
       },
       {
         "date": "2014-06-15",
@@ -18410,7 +16960,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 13.03,
         "pe_50": 20.33,
         "pe_75": 29.58,
-        "pe_90": 37.94
+        "pe_90": 37.43
       },
       {
         "date": "2014-07-16",
@@ -18420,7 +16970,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 13.18,
         "pe_50": 20.55,
         "pe_75": 29.9,
-        "pe_90": 38.36
+        "pe_90": 37.84
       },
       {
         "date": "2014-08-16",
@@ -18430,7 +16980,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 13.32,
         "pe_50": 20.78,
         "pe_75": 30.23,
-        "pe_90": 38.77
+        "pe_90": 38.25
       },
       {
         "date": "2014-09-15",
@@ -18440,7 +16990,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 13.46,
         "pe_50": 21.0,
         "pe_75": 30.55,
-        "pe_90": 39.19
+        "pe_90": 38.66
       },
       {
         "date": "2014-10-16",
@@ -18450,7 +17000,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 13.61,
         "pe_50": 21.22,
         "pe_75": 30.88,
-        "pe_90": 39.61
+        "pe_90": 39.08
       },
       {
         "date": "2014-11-15",
@@ -18460,7 +17010,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 13.74,
         "pe_50": 21.44,
         "pe_75": 31.19,
-        "pe_90": 40.01
+        "pe_90": 39.47
       },
       {
         "date": "2014-12-16",
@@ -18470,7 +17020,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 13.9,
         "pe_50": 21.68,
         "pe_75": 31.54,
-        "pe_90": 40.46
+        "pe_90": 39.91
       },
       {
         "date": "2015-01-16",
@@ -18480,7 +17030,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 14.83,
         "pe_50": 23.13,
         "pe_75": 33.65,
-        "pe_90": 43.16
+        "pe_90": 42.58
       },
       {
         "date": "2015-02-14",
@@ -18490,7 +17040,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 15.77,
         "pe_50": 24.6,
         "pe_75": 35.8,
-        "pe_90": 45.91
+        "pe_90": 45.3
       },
       {
         "date": "2015-03-16",
@@ -18500,7 +17050,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 16.7,
         "pe_50": 26.06,
         "pe_75": 37.91,
-        "pe_90": 48.63
+        "pe_90": 47.97
       },
       {
         "date": "2015-04-15",
@@ -18510,7 +17060,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 17.64,
         "pe_50": 27.52,
         "pe_75": 40.04,
-        "pe_90": 51.36
+        "pe_90": 50.67
       },
       {
         "date": "2015-05-16",
@@ -18520,7 +17070,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 18.58,
         "pe_50": 28.97,
         "pe_75": 42.16,
-        "pe_90": 54.08
+        "pe_90": 53.35
       },
       {
         "date": "2015-06-15",
@@ -18530,7 +17080,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 19.51,
         "pe_50": 30.44,
         "pe_75": 44.29,
-        "pe_90": 56.8
+        "pe_90": 56.04
       },
       {
         "date": "2015-07-16",
@@ -18540,7 +17090,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 20.47,
         "pe_50": 31.93,
         "pe_75": 46.46,
-        "pe_90": 59.59
+        "pe_90": 58.79
       },
       {
         "date": "2015-08-16",
@@ -18550,7 +17100,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 21.39,
         "pe_50": 33.37,
         "pe_75": 48.55,
-        "pe_90": 62.28
+        "pe_90": 61.44
       },
       {
         "date": "2015-09-15",
@@ -18560,7 +17110,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 22.34,
         "pe_50": 34.85,
         "pe_75": 50.71,
-        "pe_90": 65.04
+        "pe_90": 64.17
       },
       {
         "date": "2015-10-16",
@@ -18570,7 +17120,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 23.26,
         "pe_50": 36.28,
         "pe_75": 52.79,
-        "pe_90": 67.72
+        "pe_90": 66.8
       },
       {
         "date": "2015-11-15",
@@ -18580,7 +17130,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 24.22,
         "pe_50": 37.77,
         "pe_75": 54.96,
-        "pe_90": 70.5
+        "pe_90": 69.55
       },
       {
         "date": "2015-12-16",
@@ -18590,7 +17140,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 25.15,
         "pe_50": 39.22,
         "pe_75": 57.07,
-        "pe_90": 73.2
+        "pe_90": 72.21
       },
       {
         "date": "2016-01-16",
@@ -18600,7 +17150,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 26.41,
         "pe_50": 41.19,
         "pe_75": 59.93,
-        "pe_90": 76.87
+        "pe_90": 75.83
       },
       {
         "date": "2016-02-15",
@@ -18610,7 +17160,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 27.68,
         "pe_50": 43.17,
         "pe_75": 62.82,
-        "pe_90": 80.58
+        "pe_90": 79.49
       },
       {
         "date": "2016-03-16",
@@ -18620,7 +17170,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 28.93,
         "pe_50": 45.13,
         "pe_75": 65.66,
-        "pe_90": 84.22
+        "pe_90": 83.09
       },
       {
         "date": "2016-04-15",
@@ -18630,7 +17180,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 30.2,
         "pe_50": 47.11,
         "pe_75": 68.55,
-        "pe_90": 87.92
+        "pe_90": 86.74
       },
       {
         "date": "2016-05-16",
@@ -18640,7 +17190,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 31.47,
         "pe_50": 49.08,
         "pe_75": 71.42,
-        "pe_90": 91.61
+        "pe_90": 90.37
       },
       {
         "date": "2016-06-15",
@@ -18650,7 +17200,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 32.72,
         "pe_50": 51.04,
         "pe_75": 74.26,
-        "pe_90": 95.25
+        "pe_90": 93.97
       },
       {
         "date": "2016-07-16",
@@ -18660,7 +17210,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 33.99,
         "pe_50": 53.02,
         "pe_75": 77.15,
-        "pe_90": 98.95
+        "pe_90": 97.62
       },
       {
         "date": "2016-08-16",
@@ -18670,7 +17220,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 35.26,
         "pe_50": 55.0,
         "pe_75": 80.02,
-        "pe_90": 102.64
+        "pe_90": 101.26
       },
       {
         "date": "2016-09-15",
@@ -18680,7 +17230,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 36.5,
         "pe_50": 56.94,
         "pe_75": 82.85,
-        "pe_90": 106.27
+        "pe_90": 104.84
       },
       {
         "date": "2016-10-16",
@@ -18690,7 +17240,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 37.78,
         "pe_50": 58.92,
         "pe_75": 85.73,
-        "pe_90": 109.97
+        "pe_90": 108.49
       },
       {
         "date": "2016-11-15",
@@ -18700,7 +17250,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 39.05,
         "pe_50": 60.91,
         "pe_75": 88.63,
-        "pe_90": 113.68
+        "pe_90": 112.15
       },
       {
         "date": "2016-12-16",
@@ -18710,7 +17260,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 40.31,
         "pe_50": 62.87,
         "pe_75": 91.48,
-        "pe_90": 117.34
+        "pe_90": 115.76
       },
       {
         "date": "2017-01-16",
@@ -18720,7 +17270,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 41.43,
         "pe_50": 64.62,
         "pe_75": 94.02,
-        "pe_90": 120.6
+        "pe_90": 118.97
       },
       {
         "date": "2017-02-14",
@@ -18730,7 +17280,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 42.54,
         "pe_50": 66.36,
         "pe_75": 96.55,
-        "pe_90": 123.84
+        "pe_90": 122.17
       },
       {
         "date": "2017-03-16",
@@ -18740,7 +17290,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 43.67,
         "pe_50": 68.12,
         "pe_75": 99.11,
-        "pe_90": 127.13
+        "pe_90": 125.42
       },
       {
         "date": "2017-04-15",
@@ -18750,7 +17300,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 44.79,
         "pe_50": 69.87,
         "pe_75": 101.66,
-        "pe_90": 130.39
+        "pe_90": 128.64
       },
       {
         "date": "2017-05-16",
@@ -18760,7 +17310,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 45.89,
         "pe_50": 71.58,
         "pe_75": 104.15,
-        "pe_90": 133.58
+        "pe_90": 131.79
       },
       {
         "date": "2017-06-15",
@@ -18770,7 +17320,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 47.02,
         "pe_50": 73.34,
         "pe_75": 106.72,
-        "pe_90": 136.88
+        "pe_90": 135.04
       },
       {
         "date": "2017-07-16",
@@ -18780,7 +17330,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 48.14,
         "pe_50": 75.09,
         "pe_75": 109.26,
-        "pe_90": 140.15
+        "pe_90": 138.26
       },
       {
         "date": "2017-08-16",
@@ -18790,7 +17340,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 49.27,
         "pe_50": 76.85,
         "pe_75": 111.83,
-        "pe_90": 143.44
+        "pe_90": 141.5
       },
       {
         "date": "2017-09-15",
@@ -18800,7 +17350,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 50.37,
         "pe_50": 78.57,
         "pe_75": 114.32,
-        "pe_90": 146.64
+        "pe_90": 144.67
       },
       {
         "date": "2017-10-16",
@@ -18810,7 +17360,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 51.5,
         "pe_50": 80.33,
         "pe_75": 116.89,
-        "pe_90": 149.93
+        "pe_90": 147.91
       },
       {
         "date": "2017-11-15",
@@ -18820,7 +17370,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 52.63,
         "pe_50": 82.09,
         "pe_75": 119.44,
-        "pe_90": 153.2
+        "pe_90": 151.14
       },
       {
         "date": "2017-12-16",
@@ -18830,7 +17380,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 53.74,
         "pe_50": 83.82,
         "pe_75": 121.96,
-        "pe_90": 156.43
+        "pe_90": 154.32
       },
       {
         "date": "2018-01-16",
@@ -18840,7 +17390,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 54.37,
         "pe_50": 84.8,
         "pe_75": 123.39,
-        "pe_90": 158.27
+        "pe_90": 156.14
       },
       {
         "date": "2018-02-14",
@@ -18850,7 +17400,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 54.98,
         "pe_50": 85.76,
         "pe_75": 124.78,
-        "pe_90": 160.06
+        "pe_90": 157.9
       },
       {
         "date": "2018-03-16",
@@ -18860,7 +17410,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 55.6,
         "pe_50": 86.72,
         "pe_75": 126.19,
-        "pe_90": 161.85
+        "pe_90": 159.67
       },
       {
         "date": "2018-04-15",
@@ -18870,7 +17420,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 56.22,
         "pe_50": 87.69,
         "pe_75": 127.6,
-        "pe_90": 163.66
+        "pe_90": 161.46
       },
       {
         "date": "2018-05-16",
@@ -18880,7 +17430,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 56.85,
         "pe_50": 88.68,
         "pe_75": 129.03,
-        "pe_90": 165.5
+        "pe_90": 163.27
       },
       {
         "date": "2018-06-15",
@@ -18890,7 +17440,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 57.48,
         "pe_50": 89.65,
         "pe_75": 130.45,
-        "pe_90": 167.32
+        "pe_90": 165.07
       },
       {
         "date": "2018-07-16",
@@ -18900,7 +17450,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 58.1,
         "pe_50": 90.62,
         "pe_75": 131.85,
-        "pe_90": 169.12
+        "pe_90": 166.84
       },
       {
         "date": "2018-08-16",
@@ -18910,7 +17460,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 58.73,
         "pe_50": 91.6,
         "pe_75": 133.28,
-        "pe_90": 170.96
+        "pe_90": 168.65
       },
       {
         "date": "2018-09-15",
@@ -18920,7 +17470,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 59.33,
         "pe_50": 92.54,
         "pe_75": 134.66,
-        "pe_90": 172.72
+        "pe_90": 170.39
       },
       {
         "date": "2018-10-16",
@@ -18930,7 +17480,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 59.95,
         "pe_50": 93.5,
         "pe_75": 136.05,
-        "pe_90": 174.5
+        "pe_90": 172.15
       },
       {
         "date": "2018-11-15",
@@ -18940,7 +17490,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 60.58,
         "pe_50": 94.49,
         "pe_75": 137.49,
-        "pe_90": 176.35
+        "pe_90": 173.98
       },
       {
         "date": "2018-12-16",
@@ -18950,7 +17500,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 61.2,
         "pe_50": 95.46,
         "pe_75": 138.89,
-        "pe_90": 178.15
+        "pe_90": 175.75
       },
       {
         "date": "2019-01-16",
@@ -18960,7 +17510,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 64.63,
         "pe_50": 100.8,
         "pe_75": 146.67,
-        "pe_90": 188.13
+        "pe_90": 185.6
       },
       {
         "date": "2019-02-14",
@@ -18970,7 +17520,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 68.04,
         "pe_50": 106.13,
         "pe_75": 154.42,
-        "pe_90": 198.07
+        "pe_90": 195.41
       },
       {
         "date": "2019-03-16",
@@ -18980,7 +17530,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 71.48,
         "pe_50": 111.49,
         "pe_75": 162.22,
-        "pe_90": 208.08
+        "pe_90": 205.28
       },
       {
         "date": "2019-04-15",
@@ -18990,7 +17540,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 74.91,
         "pe_50": 116.84,
         "pe_75": 170.01,
-        "pe_90": 218.07
+        "pe_90": 215.13
       },
       {
         "date": "2019-05-16",
@@ -19000,7 +17550,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 78.32,
         "pe_50": 122.16,
         "pe_75": 177.75,
-        "pe_90": 227.99
+        "pe_90": 224.92
       },
       {
         "date": "2019-06-15",
@@ -19010,7 +17560,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 81.75,
         "pe_50": 127.51,
         "pe_75": 185.54,
-        "pe_90": 237.98
+        "pe_90": 234.78
       },
       {
         "date": "2019-07-16",
@@ -19020,7 +17570,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 85.2,
         "pe_50": 132.89,
         "pe_75": 193.36,
-        "pe_90": 248.01
+        "pe_90": 244.67
       },
       {
         "date": "2019-08-16",
@@ -19030,7 +17580,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 88.59,
         "pe_50": 138.19,
         "pe_75": 201.07,
-        "pe_90": 257.9
+        "pe_90": 254.43
       },
       {
         "date": "2019-09-15",
@@ -19040,7 +17590,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 92.03,
         "pe_50": 143.54,
         "pe_75": 208.86,
-        "pe_90": 267.9
+        "pe_90": 264.29
       },
       {
         "date": "2019-10-16",
@@ -19050,7 +17600,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 95.47,
         "pe_50": 148.91,
         "pe_75": 216.67,
-        "pe_90": 277.91
+        "pe_90": 274.17
       },
       {
         "date": "2019-11-15",
@@ -19060,7 +17610,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 98.9,
         "pe_50": 154.26,
         "pe_75": 224.46,
-        "pe_90": 287.91
+        "pe_90": 284.03
       },
       {
         "date": "2019-12-16",
@@ -19070,7 +17620,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 102.28,
         "pe_50": 159.54,
         "pe_75": 232.14,
-        "pe_90": 297.75
+        "pe_90": 293.74
       },
       {
         "date": "2020-01-16",
@@ -19080,7 +17630,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 102.44,
         "pe_50": 159.79,
         "pe_75": 232.5,
-        "pe_90": 298.22
+        "pe_90": 294.2
       },
       {
         "date": "2020-02-15",
@@ -19090,7 +17640,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 102.59,
         "pe_50": 160.02,
         "pe_75": 232.83,
-        "pe_90": 298.64
+        "pe_90": 294.62
       },
       {
         "date": "2020-03-16",
@@ -19100,7 +17650,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 102.78,
         "pe_50": 160.31,
         "pe_75": 233.27,
-        "pe_90": 299.2
+        "pe_90": 295.17
       },
       {
         "date": "2020-04-15",
@@ -19110,7 +17660,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 102.9,
         "pe_50": 160.5,
         "pe_75": 233.54,
-        "pe_90": 299.55
+        "pe_90": 295.52
       },
       {
         "date": "2020-05-16",
@@ -19120,7 +17670,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 103.09,
         "pe_50": 160.79,
         "pe_75": 233.96,
-        "pe_90": 300.09
+        "pe_90": 296.05
       },
       {
         "date": "2020-06-15",
@@ -19130,7 +17680,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 103.23,
         "pe_50": 161.02,
         "pe_75": 234.29,
-        "pe_90": 300.52
+        "pe_90": 296.47
       },
       {
         "date": "2020-07-16",
@@ -19140,7 +17690,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 103.38,
         "pe_50": 161.25,
         "pe_75": 234.63,
-        "pe_90": 300.95
+        "pe_90": 296.9
       },
       {
         "date": "2020-08-16",
@@ -19150,7 +17700,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 103.54,
         "pe_50": 161.5,
         "pe_75": 234.99,
-        "pe_90": 301.41
+        "pe_90": 297.36
       },
       {
         "date": "2020-09-15",
@@ -19160,7 +17710,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 103.69,
         "pe_50": 161.73,
         "pe_75": 235.32,
-        "pe_90": 301.84
+        "pe_90": 297.77
       },
       {
         "date": "2020-10-16",
@@ -19170,7 +17720,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 103.82,
         "pe_50": 161.93,
         "pe_75": 235.62,
-        "pe_90": 302.22
+        "pe_90": 298.15
       },
       {
         "date": "2020-11-15",
@@ -19180,7 +17730,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 103.99,
         "pe_50": 162.2,
         "pe_75": 236.01,
-        "pe_90": 302.72
+        "pe_90": 298.65
       },
       {
         "date": "2020-12-16",
@@ -19190,7 +17740,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 104.15,
         "pe_50": 162.44,
         "pe_75": 236.37,
-        "pe_90": 303.17
+        "pe_90": 299.09
       },
       {
         "date": "2021-01-16",
@@ -19200,7 +17750,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 103.53,
         "pe_50": 161.48,
         "pe_75": 234.97,
-        "pe_90": 301.38
+        "pe_90": 297.32
       },
       {
         "date": "2021-02-14",
@@ -19210,7 +17760,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 102.94,
         "pe_50": 160.57,
         "pe_75": 233.63,
-        "pe_90": 299.67
+        "pe_90": 295.64
       },
       {
         "date": "2021-03-16",
@@ -19220,7 +17770,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 102.33,
         "pe_50": 159.61,
         "pe_75": 232.24,
-        "pe_90": 297.89
+        "pe_90": 293.88
       },
       {
         "date": "2021-04-15",
@@ -19230,7 +17780,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 101.74,
         "pe_50": 158.69,
         "pe_75": 230.9,
-        "pe_90": 296.17
+        "pe_90": 292.18
       },
       {
         "date": "2021-05-16",
@@ -19240,7 +17790,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 101.14,
         "pe_50": 157.76,
         "pe_75": 229.55,
-        "pe_90": 294.43
+        "pe_90": 290.46
       },
       {
         "date": "2021-06-15",
@@ -19250,7 +17800,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 100.53,
         "pe_50": 156.8,
         "pe_75": 228.15,
-        "pe_90": 292.64
+        "pe_90": 288.7
       },
       {
         "date": "2021-07-16",
@@ -19260,7 +17810,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 99.93,
         "pe_50": 155.86,
         "pe_75": 226.79,
-        "pe_90": 290.89
+        "pe_90": 286.98
       },
       {
         "date": "2021-08-16",
@@ -19270,7 +17820,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 99.32,
         "pe_50": 154.91,
         "pe_75": 225.4,
-        "pe_90": 289.11
+        "pe_90": 285.22
       },
       {
         "date": "2021-09-15",
@@ -19280,7 +17830,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 98.72,
         "pe_50": 153.98,
         "pe_75": 224.05,
-        "pe_90": 287.38
+        "pe_90": 283.51
       },
       {
         "date": "2021-10-16",
@@ -19290,7 +17840,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 98.1,
         "pe_50": 153.02,
         "pe_75": 222.65,
-        "pe_90": 285.59
+        "pe_90": 281.74
       },
       {
         "date": "2021-11-15",
@@ -19300,7 +17850,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 97.52,
         "pe_50": 152.11,
         "pe_75": 221.32,
-        "pe_90": 283.88
+        "pe_90": 280.06
       },
       {
         "date": "2021-12-16",
@@ -19310,7 +17860,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 96.9,
         "pe_50": 151.14,
         "pe_75": 219.92,
-        "pe_90": 282.08
+        "pe_90": 278.28
       },
       {
         "date": "2022-01-16",
@@ -19320,7 +17870,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 102.83,
         "pe_50": 160.4,
         "pe_75": 233.39,
-        "pe_90": 299.35
+        "pe_90": 295.32
       },
       {
         "date": "2022-02-14",
@@ -19330,7 +17880,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 108.78,
         "pe_50": 169.67,
         "pe_75": 246.88,
-        "pe_90": 316.67
+        "pe_90": 312.4
       },
       {
         "date": "2022-03-16",
@@ -19340,7 +17890,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 114.72,
         "pe_50": 178.94,
         "pe_75": 260.37,
-        "pe_90": 333.96
+        "pe_90": 329.46
       },
       {
         "date": "2022-04-15",
@@ -19350,7 +17900,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 120.62,
         "pe_50": 188.14,
         "pe_75": 273.76,
-        "pe_90": 351.14
+        "pe_90": 346.41
       },
       {
         "date": "2022-05-16",
@@ -19360,7 +17910,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 126.55,
         "pe_50": 197.39,
         "pe_75": 287.22,
-        "pe_90": 368.4
+        "pe_90": 363.44
       },
       {
         "date": "2022-06-15",
@@ -19370,7 +17920,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 132.49,
         "pe_50": 206.65,
         "pe_75": 300.69,
-        "pe_90": 385.68
+        "pe_90": 380.49
       },
       {
         "date": "2022-07-16",
@@ -19380,7 +17930,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 138.44,
         "pe_50": 215.93,
         "pe_75": 314.19,
-        "pe_90": 403.0
+        "pe_90": 397.57
       },
       {
         "date": "2022-08-16",
@@ -19390,7 +17940,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 144.36,
         "pe_50": 225.17,
         "pe_75": 327.63,
-        "pe_90": 420.23
+        "pe_90": 414.58
       },
       {
         "date": "2022-09-15",
@@ -19400,7 +17950,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 150.29,
         "pe_50": 234.41,
         "pe_75": 341.08,
-        "pe_90": 437.49
+        "pe_90": 431.6
       },
       {
         "date": "2022-10-16",
@@ -19410,7 +17960,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 156.23,
         "pe_50": 243.68,
         "pe_75": 354.57,
-        "pe_90": 454.79
+        "pe_90": 448.67
       },
       {
         "date": "2022-11-15",
@@ -19420,7 +17970,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 162.2,
         "pe_50": 253.0,
         "pe_75": 368.12,
-        "pe_90": 472.17
+        "pe_90": 465.82
       },
       {
         "date": "2022-12-16",
@@ -19430,7 +17980,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 168.08,
         "pe_50": 262.17,
         "pe_75": 381.47,
-        "pe_90": 489.29
+        "pe_90": 482.7
       },
       {
         "date": "2023-01-16",
@@ -19440,7 +17990,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 169.35,
         "pe_50": 264.15,
         "pe_75": 384.35,
-        "pe_90": 492.99
+        "pe_90": 486.35
       },
       {
         "date": "2023-02-14",
@@ -19450,7 +18000,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 170.67,
         "pe_50": 266.2,
         "pe_75": 387.34,
-        "pe_90": 496.83
+        "pe_90": 490.14
       },
       {
         "date": "2023-03-16",
@@ -19460,7 +18010,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 171.97,
         "pe_50": 268.23,
         "pe_75": 390.29,
-        "pe_90": 500.61
+        "pe_90": 493.87
       },
       {
         "date": "2023-04-15",
@@ -19470,7 +18020,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 173.31,
         "pe_50": 270.32,
         "pe_75": 393.33,
-        "pe_90": 504.51
+        "pe_90": 497.72
       },
       {
         "date": "2023-05-16",
@@ -19480,7 +18030,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 174.56,
         "pe_50": 272.28,
         "pe_75": 396.17,
-        "pe_90": 508.16
+        "pe_90": 501.31
       },
       {
         "date": "2023-06-15",
@@ -19490,7 +18040,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 175.84,
         "pe_50": 274.27,
         "pe_75": 399.08,
-        "pe_90": 511.88
+        "pe_90": 504.99
       },
       {
         "date": "2023-07-16",
@@ -19500,7 +18050,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 177.15,
         "pe_50": 276.32,
         "pe_75": 402.06,
-        "pe_90": 515.7
+        "pe_90": 508.76
       },
       {
         "date": "2023-08-16",
@@ -19510,7 +18060,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 178.43,
         "pe_50": 278.32,
         "pe_75": 404.96,
-        "pe_90": 519.43
+        "pe_90": 512.44
       },
       {
         "date": "2023-09-15",
@@ -19520,7 +18070,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 179.71,
         "pe_50": 280.31,
         "pe_75": 407.86,
-        "pe_90": 523.14
+        "pe_90": 516.1
       },
       {
         "date": "2023-10-16",
@@ -19530,7 +18080,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 181.03,
         "pe_50": 282.36,
         "pe_75": 410.84,
-        "pe_90": 526.97
+        "pe_90": 519.88
       },
       {
         "date": "2023-11-15",
@@ -19540,7 +18090,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 182.31,
         "pe_50": 284.36,
         "pe_75": 413.76,
-        "pe_90": 530.71
+        "pe_90": 523.57
       },
       {
         "date": "2023-12-16",
@@ -19550,7 +18100,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 183.59,
         "pe_50": 286.36,
         "pe_75": 416.67,
-        "pe_90": 534.45
+        "pe_90": 527.25
       },
       {
         "date": "2024-01-16",
@@ -19560,7 +18110,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 188.88,
         "pe_50": 294.6,
         "pe_75": 428.66,
-        "pe_90": 549.82
+        "pe_90": 542.42
       },
       {
         "date": "2024-02-15",
@@ -19570,7 +18120,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 194.12,
         "pe_50": 302.78,
         "pe_75": 440.56,
-        "pe_90": 565.08
+        "pe_90": 557.48
       },
       {
         "date": "2024-03-16",
@@ -19580,7 +18130,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 199.41,
         "pe_50": 311.04,
         "pe_75": 452.58,
-        "pe_90": 580.5
+        "pe_90": 572.69
       },
       {
         "date": "2024-04-15",
@@ -19590,7 +18140,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 204.68,
         "pe_50": 319.25,
         "pe_75": 464.53,
-        "pe_90": 595.83
+        "pe_90": 587.81
       },
       {
         "date": "2024-05-16",
@@ -19600,7 +18150,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 209.91,
         "pe_50": 327.41,
         "pe_75": 476.4,
-        "pe_90": 611.05
+        "pe_90": 602.83
       },
       {
         "date": "2024-06-15",
@@ -19610,7 +18160,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 215.15,
         "pe_50": 335.59,
         "pe_75": 488.3,
-        "pe_90": 626.31
+        "pe_90": 617.88
       },
       {
         "date": "2024-07-16",
@@ -19620,7 +18170,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 220.43,
         "pe_50": 343.82,
         "pe_75": 500.28,
-        "pe_90": 641.69
+        "pe_90": 633.05
       },
       {
         "date": "2024-08-16",
@@ -19630,7 +18180,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 225.74,
         "pe_50": 352.1,
         "pe_75": 512.33,
-        "pe_90": 657.14
+        "pe_90": 648.29
       },
       {
         "date": "2024-09-15",
@@ -19640,7 +18190,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 230.95,
         "pe_50": 360.23,
         "pe_75": 524.16,
-        "pe_90": 672.31
+        "pe_90": 663.26
       },
       {
         "date": "2024-10-16",
@@ -19650,7 +18200,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 236.24,
         "pe_50": 368.48,
         "pe_75": 536.16,
-        "pe_90": 687.71
+        "pe_90": 678.45
       },
       {
         "date": "2024-11-15",
@@ -19660,7 +18210,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 241.49,
         "pe_50": 376.66,
         "pe_75": 548.06,
-        "pe_90": 702.97
+        "pe_90": 693.51
       },
       {
         "date": "2024-12-16",
@@ -19670,7 +18220,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 246.76,
         "pe_50": 384.89,
         "pe_75": 560.03,
-        "pe_90": 718.33
+        "pe_90": 708.66
       },
       {
         "date": "2025-01-16",
@@ -19680,7 +18230,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 264.77,
         "pe_50": 412.97,
         "pe_75": 600.9,
-        "pe_90": 770.75
+        "pe_90": 760.37
       },
       {
         "date": "2025-02-14",
@@ -19690,7 +18240,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 282.76,
         "pe_50": 441.03,
         "pe_75": 641.73,
-        "pe_90": 823.11
+        "pe_90": 812.03
       },
       {
         "date": "2025-03-16",
@@ -19700,7 +18250,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 300.63,
         "pe_50": 468.92,
         "pe_75": 682.3,
-        "pe_90": 875.15
+        "pe_90": 863.37
       },
       {
         "date": "2025-04-15",
@@ -19710,7 +18260,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 318.72,
         "pe_50": 497.13,
         "pe_75": 723.35,
-        "pe_90": 927.81
+        "pe_90": 915.32
       },
       {
         "date": "2025-05-16",
@@ -19720,7 +18270,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 336.66,
         "pe_50": 525.11,
         "pe_75": 764.06,
-        "pe_90": 980.02
+        "pe_90": 966.83
       },
       {
         "date": "2025-06-15",
@@ -19730,7 +18280,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 354.58,
         "pe_50": 553.06,
         "pe_75": 804.73,
-        "pe_90": 1032.19
+        "pe_90": 1018.29
       },
       {
         "date": "2025-07-16",
@@ -19740,7 +18290,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 372.59,
         "pe_50": 581.15,
         "pe_75": 845.6,
-        "pe_90": 1084.61
+        "pe_90": 1070.01
       },
       {
         "date": "2025-08-16",
@@ -19750,7 +18300,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 390.57,
         "pe_50": 609.2,
         "pe_75": 886.42,
-        "pe_90": 1136.98
+        "pe_90": 1121.67
       },
       {
         "date": "2025-09-15",
@@ -19760,7 +18310,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 408.55,
         "pe_50": 637.25,
         "pe_75": 927.23,
-        "pe_90": 1189.31
+        "pe_90": 1173.3
       },
       {
         "date": "2025-10-16",
@@ -19770,7 +18320,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 426.59,
         "pe_50": 665.39,
         "pe_75": 968.17,
-        "pe_90": 1241.83
+        "pe_90": 1225.11
       },
       {
         "date": "2025-11-15",
@@ -19780,7 +18330,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 444.47,
         "pe_50": 693.27,
         "pe_75": 1008.74,
-        "pe_90": 1293.87
+        "pe_90": 1276.45
       },
       {
         "date": "2025-12-16",
@@ -19790,7 +18340,17 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
         "pe_25": 462.5,
         "pe_50": 721.39,
         "pe_75": 1049.66,
-        "pe_90": 1346.36
+        "pe_90": 1328.23
+      },
+      {
+        "date": "2026-01-16",
+        "price": 1115.0,
+        "pe": 27.68,
+        "pe_10": 395.53,
+        "pe_25": 462.54,
+        "pe_50": 721.45,
+        "pe_75": 1049.74,
+        "pe_90": 1328.33
       }
     ]
   },
@@ -19935,7 +18495,7 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (33.4倍)",
+            "title": "PE 90% (33.0倍)",
             "format": ".1f"
           }
         ]
@@ -20791,6 +19351,10 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
       {
         "date": "2025-12-16",
         "revenue_yoy": 67.6
+      },
+      {
+        "date": "2026-01-16",
+        "revenue_yoy": 71.9
       }
     ]
   },
@@ -20858,16 +19422,16 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 43.8 | +78.6% | 0.010 | 2015-09 (+1747.2%) | 2008-07 (-84.4%) |
-| 6個月 | 44.0 | +48.5% | 0.027 | 2015-07 (+563.3%) | 2008-04 (-80.4%) |
-| 1年 | 44.5 | +37.2% | 0.046 | 2015-07 (+337.5%) | 2007-10 (-66.9%) |
-| 2年 | 45.4 | +31.4% | 0.197 | 2015-09 (+158.6%) | 2006-11 (-45.5%) |
-| 3年 | 46.7 | +30.6% | 0.225 | 2015-08 (+105.1%) | 2006-01 (-26.4%) |
-| 4年 | 48.4 | +30.1% | 0.186 | 2015-08 (+89.9%) | 2006-05 (-5.4%) |
-| 5年 | 49.5 | +30.2% | 0.239 | 2015-07 (+80.3%) | 2006-11 (-4.8%) |
-| 6年 | 51.5 | +30.4% | 0.335 | 2015-07 (+73.1%) | 2006-11 (-1.4%) |
-| 8年 | 57.6 | +30.7% | 0.645 | 2015-08 (+57.4%) | 2006-11 (-0.1%) |
-| 10年 | 67.0 | +31.2% | 0.617 | 2015-08 (+54.6%) | 2006-04 (+7.1%) |
+| 3個月 | 41.9 | +78.5% | 0.009 | 2015-09 (+1747.2%) | 2008-07 (-84.4%) |
+| 6個月 | 42.0 | +48.8% | 0.023 | 2015-07 (+563.3%) | 2008-04 (-80.4%) |
+| 1年 | 42.5 | +37.3% | 0.046 | 2015-07 (+337.5%) | 2007-10 (-66.9%) |
+| 2年 | 43.3 | +31.7% | 0.187 | 2015-09 (+158.6%) | 2006-11 (-45.5%) |
+| 3年 | 44.4 | +31.1% | 0.204 | 2015-08 (+105.1%) | 2006-02 (-22.6%) |
+| 4年 | 46.0 | +30.4% | 0.171 | 2015-08 (+89.9%) | 2006-05 (-5.4%) |
+| 5年 | 47.0 | +30.4% | 0.229 | 2015-07 (+80.3%) | 2006-11 (-4.8%) |
+| 6年 | 48.7 | +30.6% | 0.317 | 2015-07 (+73.1%) | 2006-11 (-1.4%) |
+| 8年 | 54.3 | +30.9% | 0.626 | 2015-08 (+57.4%) | 2006-11 (-0.1%) |
+| 10年 | 62.8 | +31.5% | 0.595 | 2015-08 (+54.6%) | 2006-04 (+7.1%) |
 
 
 ## 🎯 使用說明
@@ -20886,4 +19450,4 @@ description: "2345 智邦 (通信網路業) 本益比與未來報酬率關係分
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-25 20:34:10 CST*
+*數據更新時間: 2026-02-07 12:37:03 CST*

@@ -2,7 +2,7 @@
 title: "2353 宏碁 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-01-25"
+date: "2026-02-07"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
     - **產業別**: 電腦及週邊設備業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-01-25 20:34:25 CST
+    - **報告生成時間**: 2026-02-07 12:37:18 CST
 
 ## 📈 互動式圖表
 
@@ -35,15 +35,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
   "title": "2353 宏碁 - 本益比與未來報酬率分析",
   "data": {
     "values": [
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 16.4,
-        "forward_return": -63.55,
-        "start_price": 73.0,
-        "start_year": 2006
-      },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
@@ -650,357 +641,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -24.94,
-        "start_price": 37.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 100.59,
-        "start_price": 34.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 60.07,
-        "start_price": 33.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 55.01,
-        "start_price": 35.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -59.9,
-        "start_price": 41.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -78.87,
-        "start_price": 45.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -64.89,
-        "start_price": 39.15,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -54.05,
-        "start_price": 33.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -43.57,
-        "start_price": 30.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -23.4,
-        "start_price": 30.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -54.77,
-        "start_price": 27.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -13.49,
-        "start_price": 26.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -41.49,
-        "start_price": 28.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 75.77,
-        "start_price": 22.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.3,
-        "start_price": 25.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.41,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -20.09,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -30.29,
-        "start_price": 26.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -38.46,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -25.68,
-        "start_price": 23.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -53.55,
-        "start_price": 24.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.42,
-        "start_price": 21.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -43.3,
-        "start_price": 22.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -22.78,
-        "start_price": 19.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -37.21,
-        "start_price": 20.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -23.45,
-        "start_price": 19.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 40.57,
-        "start_price": 16.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.54,
-        "start_price": 18.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 28.67,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 36.83,
-        "start_price": 18.05,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 138.6,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 175.19,
-        "start_price": 18.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 157.67,
-        "start_price": 19.5,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.93,
-        "start_price": 21.35,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -42.8,
-        "start_price": 24.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -35.75,
-        "start_price": 24.75,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.93,
-        "start_price": 21.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.75,
-        "start_price": 20.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.77,
-        "start_price": 19.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2014-12-16",
         "pe_ratio": 32.35,
         "forward_return": -20.12,
@@ -1123,168 +763,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "forward_return": 40.0,
         "start_price": 11.45,
         "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 36.28,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 105.14,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 248.87,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 75.59,
-        "start_price": 12.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.31,
-        "start_price": 15.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -17.07,
-        "start_price": 15.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -22.27,
-        "start_price": 14.25,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -34.38,
-        "start_price": 14.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.71,
-        "start_price": 14.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.71,
-        "start_price": 13.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 46.81,
-        "start_price": 13.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 51.34,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 57.62,
-        "start_price": 14.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.08,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 34.78,
-        "start_price": 14.25,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -17.91,
-        "start_price": 16.5,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.08,
-        "start_price": 15.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.61,
-        "start_price": 14.85,
-        "start_year": 2017
       },
       {
         "horizon": "0.25y",
@@ -2169,13 +1647,13 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "start_year": 2025
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 16.4,
-        "forward_return": -55.73,
-        "start_price": 73.0,
-        "start_year": 2006
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-10-16",
+        "pe_ratio": 20.75,
+        "forward_return": -51.06,
+        "start_price": 30.05,
+        "start_year": 2025
       },
       {
         "horizon": "0.5y",
@@ -2783,357 +2261,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.87,
-        "start_price": 37.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.62,
-        "start_price": 34.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.89,
-        "start_price": 33.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -33.78,
-        "start_price": 35.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -55.57,
-        "start_price": 41.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -65.38,
-        "start_price": 45.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -60.85,
-        "start_price": 39.15,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -54.41,
-        "start_price": 33.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -28.01,
-        "start_price": 30.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -33.0,
-        "start_price": 30.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.84,
-        "start_price": 27.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.59,
-        "start_price": 26.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -18.33,
-        "start_price": 28.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.51,
-        "start_price": 22.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.58,
-        "start_price": 25.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.93,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -27.91,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -43.22,
-        "start_price": 26.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -40.59,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -35.13,
-        "start_price": 23.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -37.93,
-        "start_price": 24.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -27.5,
-        "start_price": 21.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -34.12,
-        "start_price": 22.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -16.64,
-        "start_price": 19.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -23.89,
-        "start_price": 20.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.71,
-        "start_price": 19.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 48.13,
-        "start_price": 16.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 59.55,
-        "start_price": 18.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 79.7,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 88.42,
-        "start_price": 18.05,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.13,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.93,
-        "start_price": 18.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.73,
-        "start_price": 19.5,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.0,
-        "start_price": 21.35,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -25.8,
-        "start_price": 24.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -29.53,
-        "start_price": 24.75,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -10.99,
-        "start_price": 21.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.75,
-        "start_price": 20.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -12.9,
-        "start_price": 19.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
         "start_date": "2014-12-16",
         "pe_ratio": 32.35,
         "forward_return": -56.89,
@@ -3256,168 +2383,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "forward_return": 88.42,
         "start_price": 11.45,
         "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 54.8,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 39.35,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 69.95,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.9,
-        "start_price": 12.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -18.85,
-        "start_price": 15.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.18,
-        "start_price": 15.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.82,
-        "start_price": 14.25,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.07,
-        "start_price": 14.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.93,
-        "start_price": 14.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 49.92,
-        "start_price": 13.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 31.4,
-        "start_price": 13.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.76,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 13.34,
-        "start_price": 14.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.98,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 27.59,
-        "start_price": 14.25,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 98.4,
-        "start_price": 16.5,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 138.42,
-        "start_price": 15.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 243.48,
-        "start_price": 14.85,
-        "start_year": 2017
       },
       {
         "horizon": "0.5y",
@@ -4275,13 +3240,13 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "start_year": 2025
       },
       {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 16.4,
-        "forward_return": -10.97,
-        "start_price": 73.0,
-        "start_year": 2006
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-07-16",
+        "pe_ratio": 20.53,
+        "forward_return": -38.82,
+        "start_price": 32.15,
+        "start_year": 2025
       },
       {
         "horizon": "1y",
@@ -4889,357 +3854,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -23.57,
-        "start_price": 37.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -34.81,
-        "start_price": 34.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -24.43,
-        "start_price": 33.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -28.16,
-        "start_price": 35.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -36.94,
-        "start_price": 41.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -39.68,
-        "start_price": 45.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -33.48,
-        "start_price": 39.15,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -28.82,
-        "start_price": 33.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -20.8,
-        "start_price": 30.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -30.21,
-        "start_price": 30.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.76,
-        "start_price": 27.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -24.59,
-        "start_price": 26.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -28.66,
-        "start_price": 28.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -15.05,
-        "start_price": 22.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -36.58,
-        "start_price": 25.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -27.4,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -31.11,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -31.78,
-        "start_price": 26.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -31.11,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -21.82,
-        "start_price": 23.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.43,
-        "start_price": 24.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.7,
-        "start_price": 21.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.36,
-        "start_price": 22.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.08,
-        "start_price": 19.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.14,
-        "start_price": 20.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.6,
-        "start_price": 19.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 22.45,
-        "start_price": 16.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.68,
-        "start_price": 18.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.05,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 13.86,
-        "start_price": 18.05,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.54,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.78,
-        "start_price": 18.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.9,
-        "start_price": 19.5,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -29.99,
-        "start_price": 21.35,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -45.44,
-        "start_price": 24.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -51.54,
-        "start_price": 24.75,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -39.74,
-        "start_price": 21.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -33.83,
-        "start_price": 20.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -38.44,
-        "start_price": 19.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
         "start_date": "2014-12-16",
         "pe_ratio": 32.35,
         "forward_return": -43.35,
@@ -5362,168 +3976,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "forward_return": 30.06,
         "start_price": 11.45,
         "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 23.59,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.66,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 28.28,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 32.84,
-        "start_price": 12.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.95,
-        "start_price": 15.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.99,
-        "start_price": 15.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.18,
-        "start_price": 14.25,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.91,
-        "start_price": 14.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.04,
-        "start_price": 14.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 55.6,
-        "start_price": 13.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 88.25,
-        "start_price": 13.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 95.58,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 70.23,
-        "start_price": 14.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 75.07,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 63.56,
-        "start_price": 14.25,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 51.86,
-        "start_price": 16.5,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 59.3,
-        "start_price": 15.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 73.13,
-        "start_price": 14.85,
-        "start_year": 2017
       },
       {
         "horizon": "1y",
@@ -6327,13 +4779,13 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "start_year": 2024
       },
       {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 16.4,
-        "forward_return": -12.19,
-        "start_price": 73.0,
-        "start_year": 2006
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2025-01-16",
+        "pe_ratio": 20.66,
+        "forward_return": -27.97,
+        "start_price": 37.2,
+        "start_year": 2025
       },
       {
         "horizon": "2y",
@@ -6941,357 +5393,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -26.15,
-        "start_price": 37.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -25.6,
-        "start_price": 34.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -30.77,
-        "start_price": 33.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -27.78,
-        "start_price": 35.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -34.09,
-        "start_price": 41.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -35.71,
-        "start_price": 45.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -32.31,
-        "start_price": 39.15,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -25.4,
-        "start_price": 33.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -20.12,
-        "start_price": 30.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.75,
-        "start_price": 30.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.75,
-        "start_price": 27.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.27,
-        "start_price": 26.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -13.81,
-        "start_price": 28.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.95,
-        "start_price": 22.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.88,
-        "start_price": 25.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.96,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.97,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -11.86,
-        "start_price": 26.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.95,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.2,
-        "start_price": 23.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.93,
-        "start_price": 24.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.62,
-        "start_price": 21.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -23.11,
-        "start_price": 22.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -22.46,
-        "start_price": 19.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -20.78,
-        "start_price": 20.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -15.23,
-        "start_price": 19.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -13.18,
-        "start_price": 16.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -18.7,
-        "start_price": 18.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -20.14,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -18.99,
-        "start_price": 18.05,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -17.04,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -21.46,
-        "start_price": 18.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -18.97,
-        "start_price": 19.5,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -15.89,
-        "start_price": 21.35,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.11,
-        "start_price": 24.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -22.79,
-        "start_price": 24.75,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.13,
-        "start_price": 21.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -15.17,
-        "start_price": 20.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -15.58,
-        "start_price": 19.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
         "start_date": "2014-12-16",
         "pe_ratio": 32.35,
         "forward_return": -20.18,
@@ -7414,168 +5515,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "forward_return": 58.13,
         "start_price": 11.45,
         "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 45.07,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 44.29,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 43.9,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 41.32,
-        "start_price": 12.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 30.99,
-        "start_price": 15.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 31.31,
-        "start_price": 15.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 37.42,
-        "start_price": 14.25,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 34.86,
-        "start_price": 14.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.69,
-        "start_price": 14.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 25.04,
-        "start_price": 13.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.57,
-        "start_price": 13.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 19.91,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 20.89,
-        "start_price": 14.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.63,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.69,
-        "start_price": 14.25,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.79,
-        "start_price": 16.5,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.24,
-        "start_price": 15.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.28,
-        "start_price": 14.85,
-        "start_year": 2017
       },
       {
         "horizon": "2y",
@@ -8271,13 +6210,13 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "start_year": 2023
       },
       {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 16.4,
-        "forward_return": -10.57,
-        "start_price": 73.0,
-        "start_year": 2006
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-01-16",
+        "pe_ratio": 27.8,
+        "forward_return": -21.46,
+        "start_price": 46.05,
+        "start_year": 2024
       },
       {
         "horizon": "3y",
@@ -8885,357 +6824,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -17.2,
-        "start_price": 37.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -15.61,
-        "start_price": 34.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.29,
-        "start_price": 33.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -15.27,
-        "start_price": 35.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -20.66,
-        "start_price": 41.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -22.9,
-        "start_price": 45.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.81,
-        "start_price": 39.15,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -15.67,
-        "start_price": 33.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -15.64,
-        "start_price": 30.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -21.42,
-        "start_price": 30.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -22.01,
-        "start_price": 27.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -23.17,
-        "start_price": 26.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -23.5,
-        "start_price": 28.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -15.17,
-        "start_price": 22.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -21.81,
-        "start_price": 25.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -21.71,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -23.98,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -23.5,
-        "start_price": 26.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -22.02,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -21.58,
-        "start_price": 23.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.12,
-        "start_price": 24.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.11,
-        "start_price": 21.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.84,
-        "start_price": 22.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.57,
-        "start_price": 19.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -9.86,
-        "start_price": 20.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.9,
-        "start_price": 19.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.45,
-        "start_price": 16.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.42,
-        "start_price": 18.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.02,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -5.46,
-        "start_price": 18.05,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.02,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -7.52,
-        "start_price": 18.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.47,
-        "start_price": 19.5,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.32,
-        "start_price": 21.35,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.91,
-        "start_price": 24.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -13.17,
-        "start_price": 24.75,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.86,
-        "start_price": 21.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.32,
-        "start_price": 20.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.04,
-        "start_price": 19.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
         "start_date": "2014-12-16",
         "pe_ratio": 32.35,
         "forward_return": 5.61,
@@ -9358,168 +6946,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "forward_return": 22.79,
         "start_price": 11.45,
         "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.25,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.22,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 25.37,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.49,
-        "start_price": 12.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.54,
-        "start_price": 15.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.24,
-        "start_price": 15.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.4,
-        "start_price": 14.25,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.77,
-        "start_price": 14.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.89,
-        "start_price": 14.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.86,
-        "start_price": 13.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.81,
-        "start_price": 13.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.44,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 7.5,
-        "start_price": 14.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.86,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.32,
-        "start_price": 14.25,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.55,
-        "start_price": 16.5,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.6,
-        "start_price": 15.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.93,
-        "start_price": 14.85,
-        "start_year": 2017
       },
       {
         "horizon": "3y",
@@ -10107,13 +7533,13 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "start_year": 2022
       },
       {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 16.4,
-        "forward_return": 8.76,
-        "start_price": 73.0,
-        "start_year": 2006
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2023-01-16",
+        "pe_ratio": 14.96,
+        "forward_return": 6.22,
+        "start_price": 24.95,
+        "start_year": 2023
       },
       {
         "horizon": "4y",
@@ -10721,357 +8147,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -23.52,
-        "start_price": 37.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -20.59,
-        "start_price": 34.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -22.48,
-        "start_price": 33.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -23.38,
-        "start_price": 35.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -27.46,
-        "start_price": 41.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -28.36,
-        "start_price": 45.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -25.06,
-        "start_price": 39.15,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -23.46,
-        "start_price": 33.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.55,
-        "start_price": 30.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.32,
-        "start_price": 30.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -13.15,
-        "start_price": 27.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -13.58,
-        "start_price": 26.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -14.98,
-        "start_price": 28.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.74,
-        "start_price": 22.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -13.75,
-        "start_price": 25.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -14.29,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -13.03,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -12.86,
-        "start_price": 26.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -13.03,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.32,
-        "start_price": 23.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.45,
-        "start_price": 24.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.47,
-        "start_price": 21.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.03,
-        "start_price": 22.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.07,
-        "start_price": 19.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.77,
-        "start_price": 20.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.57,
-        "start_price": 19.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.58,
-        "start_price": 16.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.27,
-        "start_price": 18.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.4,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 9.13,
-        "start_price": 18.05,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.39,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.29,
-        "start_price": 18.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.99,
-        "start_price": 19.5,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.95,
-        "start_price": 21.35,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.7,
-        "start_price": 24.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.58,
-        "start_price": 24.75,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.93,
-        "start_price": 21.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.93,
-        "start_price": 20.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.39,
-        "start_price": 19.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
         "start_date": "2014-12-16",
         "pe_ratio": 32.35,
         "forward_return": -0.24,
@@ -11194,168 +8269,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "forward_return": 14.05,
         "start_price": 11.45,
         "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.26,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.98,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.55,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.12,
-        "start_price": 12.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.77,
-        "start_price": 15.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.97,
-        "start_price": 15.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.33,
-        "start_price": 14.25,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.3,
-        "start_price": 14.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.38,
-        "start_price": 14.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.69,
-        "start_price": 13.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 19.14,
-        "start_price": 13.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 19.94,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 19.02,
-        "start_price": 14.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.14,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 26.98,
-        "start_price": 14.25,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.38,
-        "start_price": 16.5,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 19.06,
-        "start_price": 15.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.15,
-        "start_price": 14.85,
-        "start_year": 2017
       },
       {
         "horizon": "4y",
@@ -11835,13 +8748,13 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "start_year": 2021
       },
       {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 16.4,
-        "forward_return": 5.38,
-        "start_price": 73.0,
-        "start_year": 2006
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2022-01-16",
+        "pe_ratio": 8.18,
+        "forward_return": 3.22,
+        "start_price": 28.35,
+        "start_year": 2022
       },
       {
         "horizon": "5y",
@@ -12449,357 +9362,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.77,
-        "start_price": 37.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -15.44,
-        "start_price": 34.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.01,
-        "start_price": 33.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -17.27,
-        "start_price": 35.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -18.46,
-        "start_price": 41.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -19.55,
-        "start_price": 45.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -17.57,
-        "start_price": 39.15,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -15.13,
-        "start_price": 33.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.06,
-        "start_price": 30.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.79,
-        "start_price": 30.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.5,
-        "start_price": 27.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.34,
-        "start_price": 26.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -10.87,
-        "start_price": 28.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.99,
-        "start_price": 22.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.2,
-        "start_price": 25.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.04,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.92,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -0.65,
-        "start_price": 26.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.27,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.04,
-        "start_price": 23.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.09,
-        "start_price": 24.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.79,
-        "start_price": 21.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.81,
-        "start_price": 22.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.55,
-        "start_price": 19.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.57,
-        "start_price": 20.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.04,
-        "start_price": 19.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.12,
-        "start_price": 16.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.94,
-        "start_price": 18.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.38,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 4.09,
-        "start_price": 18.05,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.63,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.96,
-        "start_price": 18.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.25,
-        "start_price": 19.5,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.38,
-        "start_price": 21.35,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.25,
-        "start_price": 24.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.49,
-        "start_price": 24.75,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.08,
-        "start_price": 21.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.56,
-        "start_price": 20.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.77,
-        "start_price": 19.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
         "start_date": "2014-12-16",
         "pe_ratio": 32.35,
         "forward_return": -0.98,
@@ -12922,168 +9484,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "forward_return": 21.47,
         "start_price": 11.45,
         "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 23.54,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 22.95,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 26.7,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 22.39,
-        "start_price": 12.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.6,
-        "start_price": 15.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.65,
-        "start_price": 15.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.63,
-        "start_price": 14.25,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.79,
-        "start_price": 14.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.84,
-        "start_price": 14.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 18.8,
-        "start_price": 13.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.51,
-        "start_price": 13.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.75,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 17.51,
-        "start_price": 14.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.89,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.45,
-        "start_price": 14.25,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.11,
-        "start_price": 16.5,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.22,
-        "start_price": 15.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.03,
-        "start_price": 14.85,
-        "start_year": 2017
       },
       {
         "horizon": "5y",
@@ -13455,13 +9855,13 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "start_year": 2020
       },
       {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 16.4,
-        "forward_return": -3.07,
-        "start_price": 73.0,
-        "start_year": 2006
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2021-01-16",
+        "pe_ratio": 12.61,
+        "forward_return": 4.48,
+        "start_price": 27.05,
+        "start_year": 2021
       },
       {
         "horizon": "6y",
@@ -14069,357 +10469,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -13.13,
-        "start_price": 37.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.56,
-        "start_price": 34.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -7.12,
-        "start_price": 33.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.4,
-        "start_price": 35.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.93,
-        "start_price": 41.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.8,
-        "start_price": 45.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.78,
-        "start_price": 39.15,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.54,
-        "start_price": 33.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.94,
-        "start_price": 30.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.85,
-        "start_price": 30.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.55,
-        "start_price": 27.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.59,
-        "start_price": 26.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.1,
-        "start_price": 28.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.58,
-        "start_price": 22.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.6,
-        "start_price": 25.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.88,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.38,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -2.99,
-        "start_price": 26.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.19,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.86,
-        "start_price": 23.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.53,
-        "start_price": 24.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.43,
-        "start_price": 21.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.56,
-        "start_price": 22.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.24,
-        "start_price": 19.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.23,
-        "start_price": 20.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.91,
-        "start_price": 19.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.1,
-        "start_price": 16.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.76,
-        "start_price": 18.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.28,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 0.7,
-        "start_price": 18.05,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.11,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.42,
-        "start_price": 18.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.59,
-        "start_price": 19.5,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.78,
-        "start_price": 21.35,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.32,
-        "start_price": 24.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.21,
-        "start_price": 24.75,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.61,
-        "start_price": 21.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.46,
-        "start_price": 20.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.04,
-        "start_price": 19.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
         "start_date": "2014-12-16",
         "pe_ratio": 32.35,
         "forward_return": 3.92,
@@ -14542,168 +10591,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "forward_return": 19.35,
         "start_price": 11.45,
         "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 19.32,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.79,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 18.82,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.6,
-        "start_price": 12.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.79,
-        "start_price": 15.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.45,
-        "start_price": 15.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.27,
-        "start_price": 14.25,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.81,
-        "start_price": 14.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.01,
-        "start_price": 14.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.94,
-        "start_price": 13.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.86,
-        "start_price": 13.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.92,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 13.71,
-        "start_price": 14.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.78,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.12,
-        "start_price": 14.25,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.6,
-        "start_price": 16.5,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 15.51,
-        "start_price": 15.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 19.17,
-        "start_price": 14.85,
-        "start_year": 2017
       },
       {
         "horizon": "6y",
@@ -14967,13 +10854,13 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "start_year": 2019
       },
       {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 16.4,
-        "forward_return": -8.1,
-        "start_price": 73.0,
-        "start_year": 2006
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2020-01-16",
+        "pe_ratio": 17.51,
+        "forward_return": 12.6,
+        "start_price": 16.9,
+        "start_year": 2020
       },
       {
         "horizon": "8y",
@@ -15581,357 +11468,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -7.46,
-        "start_price": 37.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.5,
-        "start_price": 34.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.0,
-        "start_price": 33.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.6,
-        "start_price": 35.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.04,
-        "start_price": 41.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -10.32,
-        "start_price": 45.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.21,
-        "start_price": 39.15,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.77,
-        "start_price": 33.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.88,
-        "start_price": 30.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.04,
-        "start_price": 30.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.97,
-        "start_price": 27.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.07,
-        "start_price": 26.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.33,
-        "start_price": 28.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.29,
-        "start_price": 22.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.53,
-        "start_price": 25.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.82,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.91,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 1.63,
-        "start_price": 26.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.65,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.84,
-        "start_price": 23.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.78,
-        "start_price": 24.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.32,
-        "start_price": 21.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.68,
-        "start_price": 22.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.21,
-        "start_price": 19.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.62,
-        "start_price": 20.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.06,
-        "start_price": 19.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.2,
-        "start_price": 16.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.52,
-        "start_price": 18.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.95,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 8.06,
-        "start_price": 18.05,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.59,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.13,
-        "start_price": 18.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.14,
-        "start_price": 19.5,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.71,
-        "start_price": 21.35,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.67,
-        "start_price": 24.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.01,
-        "start_price": 24.75,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.84,
-        "start_price": 21.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.27,
-        "start_price": 20.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.13,
-        "start_price": 19.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
         "start_date": "2014-12-16",
         "pe_ratio": 32.35,
         "forward_return": 4.59,
@@ -16058,168 +11594,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 20.78,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.62,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.24,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.66,
-        "start_price": 12.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.64,
-        "start_price": 15.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.03,
-        "start_price": 15.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.95,
-        "start_price": 14.25,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.81,
-        "start_price": 14.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.76,
-        "start_price": 14.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.02,
-        "start_price": 13.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.06,
-        "start_price": 13.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.88,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 16.13,
-        "start_price": 14.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.33,
-        "start_price": 14.4,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 15.31,
-        "start_price": 14.25,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.15,
-        "start_price": 16.5,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.15,
-        "start_price": 15.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.21,
-        "start_price": 14.85,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
         "start_date": "2017-08-16",
         "pe_ratio": 190.0,
         "forward_return": 12.99,
@@ -16263,13 +11637,13 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "start_year": 2017
       },
       {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 16.4,
-        "forward_return": -8.31,
-        "start_price": 73.0,
-        "start_year": 2006
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2018-01-16",
+        "pe_ratio": 29.52,
+        "forward_return": 3.33,
+        "start_price": 27.65,
+        "start_year": 2018
       },
       {
         "horizon": "10y",
@@ -16877,357 +12251,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "horizon": "10y",
         "horizon_label": "10年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.42,
-        "start_price": 37.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.2,
-        "start_price": 34.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.32,
-        "start_price": 33.5,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.03,
-        "start_price": 35.1,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.2,
-        "start_price": 41.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.55,
-        "start_price": 45.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.2,
-        "start_price": 39.15,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.35,
-        "start_price": 33.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.03,
-        "start_price": 30.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.51,
-        "start_price": 30.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.71,
-        "start_price": 27.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.93,
-        "start_price": 26.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.04,
-        "start_price": 28.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.57,
-        "start_price": 22.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.26,
-        "start_price": 25.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.95,
-        "start_price": 25.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.07,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 2.04,
-        "start_price": 26.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.05,
-        "start_price": 26.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.57,
-        "start_price": 23.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.58,
-        "start_price": 24.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.97,
-        "start_price": 21.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.99,
-        "start_price": 22.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.51,
-        "start_price": 19.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.11,
-        "start_price": 20.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.3,
-        "start_price": 19.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.54,
-        "start_price": 16.05,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.04,
-        "start_price": 18.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.76,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 11.52,
-        "start_price": 18.05,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.91,
-        "start_price": 17.95,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.15,
-        "start_price": 18.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.16,
-        "start_price": 19.5,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.0,
-        "start_price": 21.35,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.44,
-        "start_price": 24.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.09,
-        "start_price": 24.75,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.06,
-        "start_price": 21.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.26,
-        "start_price": 20.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.34,
-        "start_price": 19.65,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
         "start_date": "2014-12-16",
         "pe_ratio": 32.35,
         "forward_return": 8.87,
@@ -17341,6 +12364,15 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "forward_return": 12.19,
         "start_price": 12.1,
         "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2016-01-16",
+        "pe_ratio": 236.9,
+        "forward_return": 12.42,
+        "start_price": 11.45,
+        "start_year": 2016
       }
     ]
   },
@@ -17553,22 +12585,12 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
   "data": {
     "values": [
       {
-        "date": "2006-01-16",
-        "price": 73.0,
-        "pe": 16.4,
-        "pe_10": 44.53,
-        "pe_25": 56.17,
-        "pe_50": 75.09,
-        "pe_75": 98.39,
-        "pe_90": 143.11
-      },
-      {
         "date": "2006-02-14",
         "price": 72.0,
         "pe": 16.18,
         "pe_10": 44.52,
         "pe_25": 56.16,
-        "pe_50": 75.07,
+        "pe_50": 75.34,
         "pe_75": 98.37,
         "pe_90": 143.07
       },
@@ -17578,7 +12600,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.42,
         "pe_10": 44.5,
         "pe_25": 56.14,
-        "pe_50": 75.05,
+        "pe_50": 75.31,
         "pe_75": 98.34,
         "pe_90": 143.02
       },
@@ -17588,7 +12610,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.89,
         "pe_10": 44.51,
         "pe_25": 56.15,
-        "pe_50": 75.06,
+        "pe_50": 75.33,
         "pe_75": 98.35,
         "pe_90": 143.04
       },
@@ -17598,7 +12620,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 11.78,
         "pe_10": 44.5,
         "pe_25": 56.14,
-        "pe_50": 75.04,
+        "pe_50": 75.31,
         "pe_75": 98.33,
         "pe_90": 143.01
       },
@@ -17608,7 +12630,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.79,
         "pe_10": 44.51,
         "pe_25": 56.14,
-        "pe_50": 75.05,
+        "pe_50": 75.32,
         "pe_75": 98.34,
         "pe_90": 143.03
       },
@@ -17618,7 +12640,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 10.28,
         "pe_10": 44.52,
         "pe_25": 56.16,
-        "pe_50": 75.08,
+        "pe_50": 75.35,
         "pe_75": 98.38,
         "pe_90": 143.08
       },
@@ -17628,7 +12650,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 11.42,
         "pe_10": 44.5,
         "pe_25": 56.14,
-        "pe_50": 75.04,
+        "pe_50": 75.31,
         "pe_75": 98.33,
         "pe_90": 143.01
       },
@@ -17638,7 +12660,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.61,
         "pe_10": 44.51,
         "pe_25": 56.14,
-        "pe_50": 75.05,
+        "pe_50": 75.32,
         "pe_75": 98.34,
         "pe_90": 143.03
       },
@@ -17648,7 +12670,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.55,
         "pe_10": 44.52,
         "pe_25": 56.16,
-        "pe_50": 75.07,
+        "pe_50": 75.34,
         "pe_75": 98.37,
         "pe_90": 143.07
       },
@@ -17658,7 +12680,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 15.69,
         "pe_10": 44.5,
         "pe_25": 56.14,
-        "pe_50": 75.05,
+        "pe_50": 75.32,
         "pe_75": 98.34,
         "pe_90": 143.03
       },
@@ -17668,7 +12690,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 15.28,
         "pe_10": 44.52,
         "pe_25": 56.16,
-        "pe_50": 75.08,
+        "pe_50": 75.34,
         "pe_75": 98.37,
         "pe_90": 143.08
       },
@@ -17678,7 +12700,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.67,
         "pe_10": 45.37,
         "pe_25": 57.24,
-        "pe_50": 76.51,
+        "pe_50": 76.79,
         "pe_75": 100.26,
         "pe_90": 145.82
       },
@@ -17688,7 +12710,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.63,
         "pe_10": 46.24,
         "pe_25": 58.33,
-        "pe_50": 77.98,
+        "pe_50": 78.25,
         "pe_75": 102.17,
         "pe_90": 148.6
       },
@@ -17698,7 +12720,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.49,
         "pe_10": 47.09,
         "pe_25": 59.4,
-        "pe_50": 79.41,
+        "pe_50": 79.69,
         "pe_75": 104.05,
         "pe_90": 151.34
       },
@@ -17708,7 +12730,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.27,
         "pe_10": 47.95,
         "pe_25": 60.48,
-        "pe_50": 80.85,
+        "pe_50": 81.14,
         "pe_75": 105.94,
         "pe_90": 154.09
       },
@@ -17718,7 +12740,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.5,
         "pe_10": 48.82,
         "pe_25": 61.59,
-        "pe_50": 82.33,
+        "pe_50": 82.62,
         "pe_75": 107.87,
         "pe_90": 156.89
       },
@@ -17728,7 +12750,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.49,
         "pe_10": 49.69,
         "pe_25": 62.68,
-        "pe_50": 83.79,
+        "pe_50": 84.09,
         "pe_75": 109.79,
         "pe_90": 159.68
       },
@@ -17738,7 +12760,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 14.35,
         "pe_10": 50.54,
         "pe_25": 63.76,
-        "pe_50": 85.23,
+        "pe_50": 85.53,
         "pe_75": 111.68,
         "pe_90": 162.43
       },
@@ -17748,7 +12770,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 11.27,
         "pe_10": 51.4,
         "pe_25": 64.84,
-        "pe_50": 86.67,
+        "pe_50": 86.98,
         "pe_75": 113.57,
         "pe_90": 165.17
       },
@@ -17758,7 +12780,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 11.14,
         "pe_10": 52.27,
         "pe_25": 65.93,
-        "pe_50": 88.14,
+        "pe_50": 88.45,
         "pe_75": 115.49,
         "pe_90": 167.96
       },
@@ -17768,7 +12790,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 14.37,
         "pe_10": 53.12,
         "pe_25": 67.01,
-        "pe_50": 89.57,
+        "pe_50": 89.89,
         "pe_75": 117.37,
         "pe_90": 170.71
       },
@@ -17778,7 +12800,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.61,
         "pe_10": 53.95,
         "pe_25": 68.05,
-        "pe_50": 90.97,
+        "pe_50": 91.3,
         "pe_75": 119.2,
         "pe_90": 173.37
       },
@@ -17788,7 +12810,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 11.59,
         "pe_10": 54.81,
         "pe_25": 69.14,
-        "pe_50": 92.43,
+        "pe_50": 92.76,
         "pe_75": 121.11,
         "pe_90": 176.15
       },
@@ -17798,7 +12820,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 9.13,
         "pe_10": 54.18,
         "pe_25": 68.35,
-        "pe_50": 91.37,
+        "pe_50": 91.7,
         "pe_75": 119.73,
         "pe_90": 174.13
       },
@@ -17808,7 +12830,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 10.78,
         "pe_10": 53.55,
         "pe_25": 67.55,
-        "pe_50": 90.3,
+        "pe_50": 90.62,
         "pe_75": 118.32,
         "pe_90": 172.08
       },
@@ -17818,7 +12840,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 10.28,
         "pe_10": 52.94,
         "pe_25": 66.78,
-        "pe_50": 89.27,
+        "pe_50": 89.59,
         "pe_75": 116.98,
         "pe_90": 170.13
       },
@@ -17828,7 +12850,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.63,
         "pe_10": 52.28,
         "pe_25": 65.95,
-        "pe_50": 88.16,
+        "pe_50": 88.47,
         "pe_75": 115.51,
         "pe_90": 168.0
       },
@@ -17838,7 +12860,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.22,
         "pe_10": 51.66,
         "pe_25": 65.17,
-        "pe_50": 87.11,
+        "pe_50": 87.42,
         "pe_75": 114.14,
         "pe_90": 166.01
       },
@@ -17848,7 +12870,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 11.73,
         "pe_10": 51.0,
         "pe_25": 64.34,
-        "pe_50": 86.0,
+        "pe_50": 86.31,
         "pe_75": 112.69,
         "pe_90": 163.9
       },
@@ -17858,7 +12880,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.57,
         "pe_10": 50.38,
         "pe_25": 63.55,
-        "pe_50": 84.95,
+        "pe_50": 85.26,
         "pe_75": 111.32,
         "pe_90": 161.9
       },
@@ -17868,7 +12890,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.77,
         "pe_10": 49.75,
         "pe_25": 62.75,
-        "pe_50": 83.89,
+        "pe_50": 84.19,
         "pe_75": 109.92,
         "pe_90": 159.87
       },
@@ -17878,7 +12900,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 10.84,
         "pe_10": 49.1,
         "pe_25": 61.94,
-        "pe_50": 82.79,
+        "pe_50": 83.09,
         "pe_75": 108.49,
         "pe_90": 157.78
       },
@@ -17888,7 +12910,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 8.86,
         "pe_10": 48.5,
         "pe_25": 61.18,
-        "pe_50": 81.78,
+        "pe_50": 82.07,
         "pe_75": 107.16,
         "pe_90": 155.85
       },
@@ -17898,7 +12920,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 8.82,
         "pe_10": 47.86,
         "pe_25": 60.38,
-        "pe_50": 80.72,
+        "pe_50": 81.0,
         "pe_75": 105.76,
         "pe_90": 153.82
       },
@@ -17908,7 +12930,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 9.03,
         "pe_10": 47.19,
         "pe_25": 59.54,
-        "pe_50": 79.59,
+        "pe_50": 79.87,
         "pe_75": 104.28,
         "pe_90": 151.67
       },
@@ -17918,7 +12940,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 8.91,
         "pe_10": 46.88,
         "pe_25": 59.13,
-        "pe_50": 79.05,
+        "pe_50": 79.33,
         "pe_75": 103.58,
         "pe_90": 150.65
       },
@@ -17928,7 +12950,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 9.97,
         "pe_10": 46.56,
         "pe_25": 58.73,
-        "pe_50": 78.51,
+        "pe_50": 78.79,
         "pe_75": 102.88,
         "pe_90": 149.62
       },
@@ -17938,7 +12960,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 11.04,
         "pe_10": 46.21,
         "pe_25": 58.3,
-        "pe_50": 77.93,
+        "pe_50": 78.21,
         "pe_75": 102.12,
         "pe_90": 148.52
       },
@@ -17948,7 +12970,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.81,
         "pe_10": 45.85,
         "pe_25": 57.85,
-        "pe_50": 77.33,
+        "pe_50": 77.6,
         "pe_75": 101.32,
         "pe_90": 147.36
       },
@@ -17958,7 +12980,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.93,
         "pe_10": 45.49,
         "pe_25": 57.39,
-        "pe_50": 76.72,
+        "pe_50": 76.99,
         "pe_75": 100.52,
         "pe_90": 146.2
       },
@@ -17968,7 +12990,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.65,
         "pe_10": 45.16,
         "pe_25": 56.96,
-        "pe_50": 76.15,
+        "pe_50": 76.42,
         "pe_75": 99.78,
         "pe_90": 145.12
       },
@@ -17978,7 +13000,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 15.44,
         "pe_10": 44.84,
         "pe_25": 56.56,
-        "pe_50": 75.61,
+        "pe_50": 75.88,
         "pe_75": 99.07,
         "pe_90": 144.09
       },
@@ -17988,7 +13010,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 16.87,
         "pe_10": 44.48,
         "pe_25": 56.11,
-        "pe_50": 75.0,
+        "pe_50": 75.27,
         "pe_75": 98.27,
         "pe_90": 142.93
       },
@@ -17998,7 +13020,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 18.58,
         "pe_10": 44.15,
         "pe_25": 55.7,
-        "pe_50": 74.45,
+        "pe_50": 74.72,
         "pe_75": 97.56,
         "pe_90": 141.89
       },
@@ -18008,7 +13030,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 17.81,
         "pe_10": 43.81,
         "pe_25": 55.27,
-        "pe_50": 73.88,
+        "pe_50": 74.15,
         "pe_75": 96.81,
         "pe_90": 140.8
       },
@@ -18018,7 +13040,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 18.44,
         "pe_10": 43.46,
         "pe_25": 54.82,
-        "pe_50": 73.28,
+        "pe_50": 73.54,
         "pe_75": 96.02,
         "pe_90": 139.65
       },
@@ -18028,7 +13050,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 22.32,
         "pe_10": 43.12,
         "pe_25": 54.39,
-        "pe_50": 72.71,
+        "pe_50": 72.97,
         "pe_75": 95.27,
         "pe_90": 138.57
       },
@@ -18038,7 +13060,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.26,
         "pe_10": 44.29,
         "pe_25": 55.87,
-        "pe_50": 74.69,
+        "pe_50": 74.96,
         "pe_75": 97.87,
         "pe_90": 142.34
       },
@@ -18048,7 +13070,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 19.81,
         "pe_10": 45.45,
         "pe_25": 57.33,
-        "pe_50": 76.64,
+        "pe_50": 76.92,
         "pe_75": 100.43,
         "pe_90": 146.06
       },
@@ -18058,7 +13080,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.13,
         "pe_10": 46.62,
         "pe_25": 58.81,
-        "pe_50": 78.61,
+        "pe_50": 78.89,
         "pe_75": 103.0,
         "pe_90": 149.81
       },
@@ -18068,7 +13090,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 18.05,
         "pe_10": 47.78,
         "pe_25": 60.27,
-        "pe_50": 80.56,
+        "pe_50": 80.85,
         "pe_75": 105.57,
         "pe_90": 153.54
       },
@@ -18078,7 +13100,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 16.37,
         "pe_10": 48.95,
         "pe_25": 61.75,
-        "pe_50": 82.55,
+        "pe_50": 82.84,
         "pe_75": 108.16,
         "pe_90": 157.31
       },
@@ -18088,7 +13110,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 15.01,
         "pe_10": 50.12,
         "pe_25": 63.23,
-        "pe_50": 84.52,
+        "pe_50": 84.82,
         "pe_75": 110.75,
         "pe_90": 161.07
       },
@@ -18098,7 +13120,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 16.74,
         "pe_10": 51.27,
         "pe_25": 64.68,
-        "pe_50": 86.47,
+        "pe_50": 86.77,
         "pe_75": 113.3,
         "pe_90": 164.78
       },
@@ -18108,7 +13130,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 14.32,
         "pe_10": 52.47,
         "pe_25": 66.18,
-        "pe_50": 88.47,
+        "pe_50": 88.79,
         "pe_75": 115.93,
         "pe_90": 168.61
       },
@@ -18118,7 +13140,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 14.81,
         "pe_10": 53.63,
         "pe_25": 67.66,
-        "pe_50": 90.44,
+        "pe_50": 90.77,
         "pe_75": 118.51,
         "pe_90": 172.36
       },
@@ -18128,7 +13150,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 16.23,
         "pe_10": 54.8,
         "pe_25": 69.13,
-        "pe_50": 92.41,
+        "pe_50": 92.73,
         "pe_75": 121.08,
         "pe_90": 176.1
       },
@@ -18138,7 +13160,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 16.09,
         "pe_10": 55.96,
         "pe_25": 70.59,
-        "pe_50": 94.36,
+        "pe_50": 94.7,
         "pe_75": 123.65,
         "pe_90": 179.83
       },
@@ -18148,7 +13170,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 15.78,
         "pe_10": 57.12,
         "pe_25": 72.06,
-        "pe_50": 96.32,
+        "pe_50": 96.67,
         "pe_75": 126.21,
         "pe_90": 183.57
       },
@@ -18158,7 +13180,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 15.78,
         "pe_10": 50.27,
         "pe_25": 63.42,
-        "pe_50": 84.78,
+        "pe_50": 85.08,
         "pe_75": 111.09,
         "pe_90": 161.56
       },
@@ -18168,7 +13190,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 16.55,
         "pe_10": 43.4,
         "pe_25": 54.75,
-        "pe_50": 73.19,
+        "pe_50": 73.45,
         "pe_75": 95.9,
         "pe_90": 139.48
       },
@@ -18178,7 +13200,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 16.43,
         "pe_10": 36.53,
         "pe_25": 46.09,
-        "pe_50": 61.61,
+        "pe_50": 61.83,
         "pe_75": 80.72,
         "pe_90": 117.41
       },
@@ -18188,7 +13210,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 18.07,
         "pe_10": 29.67,
         "pe_25": 37.43,
-        "pe_50": 50.04,
+        "pe_50": 50.22,
         "pe_75": 65.57,
         "pe_90": 95.36
       },
@@ -18198,7 +13220,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 24.6,
         "pe_10": 22.81,
         "pe_25": 28.78,
-        "pe_50": 38.47,
+        "pe_50": 38.61,
         "pe_75": 50.41,
         "pe_90": 73.32
       },
@@ -18208,7 +13230,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 31.35,
         "pe_10": 15.96,
         "pe_25": 20.13,
-        "pe_50": 26.91,
+        "pe_50": 27.0,
         "pe_75": 35.26,
         "pe_90": 51.28
       },
@@ -18218,7 +13240,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 43.94,
         "pe_10": 9.1,
         "pe_25": 11.47,
-        "pe_50": 15.34,
+        "pe_50": 15.39,
         "pe_75": 20.1,
         "pe_90": 29.23
       },
@@ -18228,7 +13250,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 156.7,
         "pe_10": 2.23,
         "pe_25": 2.82,
-        "pe_50": 3.77,
+        "pe_50": 3.78,
         "pe_75": 4.94,
         "pe_90": 7.18
       },
@@ -18238,7 +13260,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 32.35,
         "pe_10": 6.6,
         "pe_25": 8.33,
-        "pe_50": 11.13,
+        "pe_50": 11.17,
         "pe_75": 14.59,
         "pe_90": 21.22
       },
@@ -18248,7 +13270,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 33.22,
         "pe_10": 6.22,
         "pe_25": 7.84,
-        "pe_50": 10.49,
+        "pe_50": 10.52,
         "pe_75": 13.74,
         "pe_90": 19.98
       },
@@ -18258,7 +13280,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 35.23,
         "pe_10": 5.84,
         "pe_25": 7.36,
-        "pe_50": 9.84,
+        "pe_50": 9.88,
         "pe_75": 12.89,
         "pe_90": 18.75
       },
@@ -18268,7 +13290,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 37.06,
         "pe_10": 5.45,
         "pe_25": 6.88,
-        "pe_50": 9.2,
+        "pe_50": 9.23,
         "pe_75": 12.05,
         "pe_90": 17.52
       },
@@ -18278,7 +13300,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 39.67,
         "pe_10": 5.07,
         "pe_25": 6.39,
-        "pe_50": 8.55,
+        "pe_50": 8.58,
         "pe_75": 11.2,
         "pe_90": 16.29
       },
@@ -18288,7 +13310,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 39.18,
         "pe_10": 4.69,
         "pe_25": 5.91,
-        "pe_50": 7.9,
+        "pe_50": 7.93,
         "pe_75": 10.35,
         "pe_90": 15.06
       },
@@ -18298,7 +13320,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 34.77,
         "pe_10": 4.3,
         "pe_25": 5.43,
-        "pe_50": 7.25,
+        "pe_50": 7.28,
         "pe_75": 9.5,
         "pe_90": 13.82
       },
@@ -18308,7 +13330,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 33.45,
         "pe_10": 3.92,
         "pe_25": 4.94,
-        "pe_50": 6.61,
+        "pe_50": 6.63,
         "pe_75": 8.66,
         "pe_90": 12.59
       },
@@ -18318,7 +13340,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 33.96,
         "pe_10": 3.53,
         "pe_25": 4.46,
-        "pe_50": 5.96,
+        "pe_50": 5.98,
         "pe_75": 7.81,
         "pe_90": 11.36
       },
@@ -18328,7 +13350,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 40.95,
         "pe_10": 3.15,
         "pe_25": 3.98,
-        "pe_50": 5.31,
+        "pe_50": 5.33,
         "pe_75": 6.96,
         "pe_90": 10.13
       },
@@ -18338,7 +13360,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 49.88,
         "pe_10": 2.77,
         "pe_25": 3.49,
-        "pe_50": 4.67,
+        "pe_50": 4.68,
         "pe_75": 6.12,
         "pe_90": 8.89
       },
@@ -18348,7 +13370,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 50.77,
         "pe_10": 2.38,
         "pe_25": 3.01,
-        "pe_50": 4.02,
+        "pe_50": 4.03,
         "pe_75": 5.27,
         "pe_90": 7.66
       },
@@ -18358,7 +13380,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 60.5,
         "pe_10": 2.0,
         "pe_25": 2.52,
-        "pe_50": 3.37,
+        "pe_50": 3.39,
         "pe_75": 4.42,
         "pe_90": 6.43
       },
@@ -18388,7 +13410,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 51.97,
         "pe_10": 2.93,
         "pe_25": 3.69,
-        "pe_50": 4.93,
+        "pe_50": 4.95,
         "pe_75": 6.47,
         "pe_90": 9.4
       },
@@ -18398,7 +13420,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 30.89,
         "pe_10": 5.05,
         "pe_25": 6.37,
-        "pe_50": 8.52,
+        "pe_50": 8.55,
         "pe_75": 11.16,
         "pe_90": 16.24
       },
@@ -18408,7 +13430,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 28.57,
         "pe_10": 7.18,
         "pe_25": 9.06,
-        "pe_50": 12.1,
+        "pe_50": 12.15,
         "pe_75": 15.86,
         "pe_90": 23.07
       },
@@ -18418,7 +13440,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 25.97,
         "pe_10": 9.3,
         "pe_25": 11.74,
-        "pe_50": 15.69,
+        "pe_50": 15.74,
         "pe_75": 20.56,
         "pe_90": 29.9
       },
@@ -18428,7 +13450,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 29.52,
         "pe_10": 9.37,
         "pe_25": 11.82,
-        "pe_50": 15.8,
+        "pe_50": 15.86,
         "pe_75": 20.7,
         "pe_90": 30.11
       },
@@ -18438,7 +13460,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 26.08,
         "pe_10": 9.44,
         "pe_25": 11.9,
-        "pe_50": 15.91,
+        "pe_50": 15.97,
         "pe_75": 20.85,
         "pe_90": 30.33
       },
@@ -18448,7 +13470,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 26.0,
         "pe_10": 9.5,
         "pe_25": 11.99,
-        "pe_50": 16.03,
+        "pe_50": 16.08,
         "pe_75": 21.0,
         "pe_90": 30.54
       },
@@ -18458,7 +13480,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 23.83,
         "pe_10": 9.57,
         "pe_25": 12.07,
-        "pe_50": 16.14,
+        "pe_50": 16.2,
         "pe_75": 21.15,
         "pe_90": 30.76
       },
@@ -18468,7 +13490,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 25.48,
         "pe_10": 9.64,
         "pe_25": 12.16,
-        "pe_50": 16.25,
+        "pe_50": 16.31,
         "pe_75": 21.3,
         "pe_90": 30.98
       },
@@ -18478,7 +13500,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 25.67,
         "pe_10": 9.7,
         "pe_25": 12.24,
-        "pe_50": 16.36,
+        "pe_50": 16.42,
         "pe_75": 21.44,
         "pe_90": 31.19
       },
@@ -18488,7 +13510,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 25.6,
         "pe_10": 9.77,
         "pe_25": 12.32,
-        "pe_50": 16.47,
+        "pe_50": 16.53,
         "pe_75": 21.59,
         "pe_90": 31.4
       },
@@ -18498,7 +13520,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 26.14,
         "pe_10": 9.84,
         "pe_25": 12.41,
-        "pe_50": 16.59,
+        "pe_50": 16.65,
         "pe_75": 21.73,
         "pe_90": 31.61
       },
@@ -18508,7 +13530,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 25.51,
         "pe_10": 9.9,
         "pe_25": 12.49,
-        "pe_50": 16.7,
+        "pe_50": 16.76,
         "pe_75": 21.88,
         "pe_90": 31.82
       },
@@ -18518,7 +13540,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 21.77,
         "pe_10": 9.97,
         "pe_25": 12.58,
-        "pe_50": 16.82,
+        "pe_50": 16.88,
         "pe_75": 22.03,
         "pe_90": 32.05
       },
@@ -18528,7 +13550,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 19.83,
         "pe_10": 10.04,
         "pe_25": 12.66,
-        "pe_50": 16.93,
+        "pe_50": 16.99,
         "pe_75": 22.18,
         "pe_90": 32.26
       },
@@ -18538,7 +13560,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 19.26,
         "pe_10": 10.1,
         "pe_25": 12.74,
-        "pe_50": 17.04,
+        "pe_50": 17.1,
         "pe_75": 22.32,
         "pe_90": 32.47
       },
@@ -18548,7 +13570,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 19.53,
         "pe_10": 9.99,
         "pe_25": 12.6,
-        "pe_50": 16.84,
+        "pe_50": 16.9,
         "pe_75": 22.07,
         "pe_90": 32.1
       },
@@ -18558,7 +13580,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.62,
         "pe_10": 9.87,
         "pe_25": 12.45,
-        "pe_50": 16.65,
+        "pe_50": 16.71,
         "pe_75": 21.82,
         "pe_90": 31.73
       },
@@ -18568,7 +13590,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.26,
         "pe_10": 9.75,
         "pe_25": 12.3,
-        "pe_50": 16.45,
+        "pe_50": 16.5,
         "pe_75": 21.55,
         "pe_90": 31.34
       },
@@ -18578,7 +13600,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 21.75,
         "pe_10": 9.64,
         "pe_25": 12.16,
-        "pe_50": 16.25,
+        "pe_50": 16.31,
         "pe_75": 21.29,
         "pe_90": 30.97
       },
@@ -18588,7 +13610,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.02,
         "pe_10": 9.52,
         "pe_25": 12.01,
-        "pe_50": 16.05,
+        "pe_50": 16.11,
         "pe_75": 21.03,
         "pe_90": 30.59
       },
@@ -18598,7 +13620,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.48,
         "pe_10": 9.4,
         "pe_25": 11.86,
-        "pe_50": 15.86,
+        "pe_50": 15.91,
         "pe_75": 20.78,
         "pe_90": 30.22
       },
@@ -18608,7 +13630,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.41,
         "pe_10": 9.29,
         "pe_25": 11.72,
-        "pe_50": 15.66,
+        "pe_50": 15.72,
         "pe_75": 20.52,
         "pe_90": 29.85
       },
@@ -18618,7 +13640,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 18.76,
         "pe_10": 9.17,
         "pe_25": 11.57,
-        "pe_50": 15.47,
+        "pe_50": 15.52,
         "pe_75": 20.27,
         "pe_90": 29.48
       },
@@ -18628,7 +13650,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 19.67,
         "pe_10": 9.05,
         "pe_25": 11.42,
-        "pe_50": 15.27,
+        "pe_50": 15.32,
         "pe_75": 20.0,
         "pe_90": 29.09
       },
@@ -18638,7 +13660,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 19.93,
         "pe_10": 8.93,
         "pe_25": 11.27,
-        "pe_50": 15.07,
+        "pe_50": 15.12,
         "pe_75": 19.74,
         "pe_90": 28.71
       },
@@ -18648,7 +13670,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.36,
         "pe_10": 8.82,
         "pe_25": 11.13,
-        "pe_50": 14.87,
+        "pe_50": 14.93,
         "pe_75": 19.49,
         "pe_90": 28.34
       },
@@ -18658,7 +13680,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.52,
         "pe_10": 8.7,
         "pe_25": 10.98,
-        "pe_50": 14.67,
+        "pe_50": 14.73,
         "pe_75": 19.23,
         "pe_90": 27.97
       },
@@ -18668,7 +13690,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 17.51,
         "pe_10": 9.66,
         "pe_25": 12.18,
-        "pe_50": 16.28,
+        "pe_50": 16.34,
         "pe_75": 21.33,
         "pe_90": 31.03
       },
@@ -18678,7 +13700,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 15.42,
         "pe_10": 10.61,
         "pe_25": 13.38,
-        "pe_50": 17.89,
+        "pe_50": 17.95,
         "pe_75": 23.44,
         "pe_90": 34.09
       },
@@ -18688,7 +13710,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.51,
         "pe_10": 11.55,
         "pe_25": 14.57,
-        "pe_50": 19.48,
+        "pe_50": 19.55,
         "pe_75": 25.52,
         "pe_90": 37.12
       },
@@ -18698,7 +13720,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.32,
         "pe_10": 12.5,
         "pe_25": 15.77,
-        "pe_50": 21.09,
+        "pe_50": 21.16,
         "pe_75": 27.63,
         "pe_90": 40.19
       },
@@ -18708,7 +13730,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.16,
         "pe_10": 13.45,
         "pe_25": 16.97,
-        "pe_50": 22.68,
+        "pe_50": 22.76,
         "pe_75": 29.72,
         "pe_90": 43.23
       },
@@ -18718,7 +13740,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.43,
         "pe_10": 14.41,
         "pe_25": 18.17,
-        "pe_50": 24.29,
+        "pe_50": 24.38,
         "pe_75": 31.83,
         "pe_90": 46.3
       },
@@ -18728,7 +13750,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.22,
         "pe_10": 15.36,
         "pe_25": 19.38,
-        "pe_50": 25.9,
+        "pe_50": 26.0,
         "pe_75": 33.94,
         "pe_90": 49.37
       },
@@ -18738,7 +13760,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 14.33,
         "pe_10": 16.3,
         "pe_25": 20.56,
-        "pe_50": 27.49,
+        "pe_50": 27.59,
         "pe_75": 36.02,
         "pe_90": 52.39
       },
@@ -18748,7 +13770,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 14.38,
         "pe_10": 17.25,
         "pe_25": 21.76,
-        "pe_50": 29.09,
+        "pe_50": 29.2,
         "pe_75": 38.12,
         "pe_90": 55.45
       },
@@ -18758,7 +13780,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.1,
         "pe_10": 18.21,
         "pe_25": 22.98,
-        "pe_50": 30.71,
+        "pe_50": 30.82,
         "pe_75": 40.24,
         "pe_90": 58.53
       },
@@ -18768,7 +13790,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.09,
         "pe_10": 19.16,
         "pe_25": 24.16,
-        "pe_50": 32.3,
+        "pe_50": 32.42,
         "pe_75": 42.33,
         "pe_90": 61.56
       },
@@ -18778,7 +13800,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 11.77,
         "pe_10": 20.1,
         "pe_25": 25.36,
-        "pe_50": 33.9,
+        "pe_50": 34.02,
         "pe_75": 44.42,
         "pe_90": 64.6
       },
@@ -18788,7 +13810,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 12.61,
         "pe_10": 21.46,
         "pe_25": 27.07,
-        "pe_50": 36.19,
+        "pe_50": 36.32,
         "pe_75": 47.42,
         "pe_90": 68.97
       },
@@ -18798,7 +13820,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 11.78,
         "pe_10": 22.8,
         "pe_25": 28.76,
-        "pe_50": 38.45,
+        "pe_50": 38.59,
         "pe_75": 50.38,
         "pe_90": 73.28
       },
@@ -18808,7 +13830,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.02,
         "pe_10": 24.16,
         "pe_25": 30.48,
-        "pe_50": 40.75,
+        "pe_50": 40.89,
         "pe_75": 53.39,
         "pe_90": 77.66
       },
@@ -18818,7 +13840,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.45,
         "pe_10": 25.51,
         "pe_25": 32.18,
-        "pe_50": 43.02,
+        "pe_50": 43.17,
         "pe_75": 56.37,
         "pe_90": 81.99
       },
@@ -18828,7 +13850,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 11.88,
         "pe_10": 26.86,
         "pe_25": 33.89,
-        "pe_50": 45.3,
+        "pe_50": 45.46,
         "pe_75": 59.36,
         "pe_90": 86.33
       },
@@ -18838,7 +13860,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 10.39,
         "pe_10": 28.21,
         "pe_25": 35.59,
-        "pe_50": 47.57,
+        "pe_50": 47.74,
         "pe_75": 62.34,
         "pe_90": 90.66
       },
@@ -18848,7 +13870,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 9.2,
         "pe_10": 29.58,
         "pe_25": 37.31,
-        "pe_50": 49.88,
+        "pe_50": 50.05,
         "pe_75": 65.35,
         "pe_90": 95.05
       },
@@ -18858,7 +13880,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 8.16,
         "pe_10": 30.89,
         "pe_25": 38.97,
-        "pe_50": 52.1,
+        "pe_50": 52.28,
         "pe_75": 68.27,
         "pe_90": 99.29
       },
@@ -18868,7 +13890,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 7.67,
         "pe_10": 32.28,
         "pe_25": 40.72,
-        "pe_50": 54.44,
+        "pe_50": 54.63,
         "pe_75": 71.33,
         "pe_90": 103.74
       },
@@ -18878,7 +13900,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 7.74,
         "pe_10": 33.61,
         "pe_25": 42.39,
-        "pe_50": 56.67,
+        "pe_50": 56.87,
         "pe_75": 74.25,
         "pe_90": 108.0
       },
@@ -18888,7 +13910,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 7.93,
         "pe_10": 34.94,
         "pe_25": 44.08,
-        "pe_50": 58.93,
+        "pe_50": 59.14,
         "pe_75": 77.21,
         "pe_90": 112.3
       },
@@ -18898,7 +13920,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 8.39,
         "pe_10": 36.31,
         "pe_25": 45.8,
-        "pe_50": 61.23,
+        "pe_50": 61.44,
         "pe_75": 80.23,
         "pe_90": 116.68
       },
@@ -18908,7 +13930,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 8.18,
         "pe_10": 34.67,
         "pe_25": 43.74,
-        "pe_50": 58.47,
+        "pe_50": 58.68,
         "pe_75": 76.61,
         "pe_90": 111.42
       },
@@ -18918,7 +13940,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 8.72,
         "pe_10": 33.04,
         "pe_25": 41.68,
-        "pe_50": 55.72,
+        "pe_50": 55.92,
         "pe_75": 73.01,
         "pe_90": 106.18
       },
@@ -18928,7 +13950,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 9.54,
         "pe_10": 31.41,
         "pe_25": 39.62,
-        "pe_50": 52.96,
+        "pe_50": 53.15,
         "pe_75": 69.4,
         "pe_90": 100.93
       },
@@ -18938,7 +13960,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 9.27,
         "pe_10": 29.79,
         "pe_25": 37.57,
-        "pe_50": 50.23,
+        "pe_50": 50.41,
         "pe_75": 65.81,
         "pe_90": 95.72
       },
@@ -18948,7 +13970,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 10.34,
         "pe_10": 28.15,
         "pe_25": 35.52,
-        "pe_50": 47.48,
+        "pe_50": 47.65,
         "pe_75": 62.21,
         "pe_90": 90.48
       },
@@ -18958,7 +13980,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 8.19,
         "pe_10": 26.51,
         "pe_25": 33.44,
-        "pe_50": 44.7,
+        "pe_50": 44.86,
         "pe_75": 58.57,
         "pe_90": 85.18
       },
@@ -18968,7 +13990,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 9.09,
         "pe_10": 24.87,
         "pe_25": 31.38,
-        "pe_50": 41.94,
+        "pe_50": 42.09,
         "pe_75": 54.96,
         "pe_90": 79.93
       },
@@ -18978,7 +14000,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 9.47,
         "pe_10": 23.24,
         "pe_25": 29.32,
-        "pe_50": 39.19,
+        "pe_50": 39.33,
         "pe_75": 51.35,
         "pe_90": 74.69
       },
@@ -18988,7 +14010,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 10.14,
         "pe_10": 21.61,
         "pe_25": 27.26,
-        "pe_50": 36.44,
+        "pe_50": 36.56,
         "pe_75": 47.74,
         "pe_90": 69.44
       },
@@ -18998,7 +14020,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 11.07,
         "pe_10": 19.97,
         "pe_25": 25.19,
-        "pe_50": 33.68,
+        "pe_50": 33.8,
         "pe_75": 44.13,
         "pe_90": 64.18
       },
@@ -19008,7 +14030,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 13.42,
         "pe_10": 18.34,
         "pe_25": 23.13,
-        "pe_50": 30.92,
+        "pe_50": 31.03,
         "pe_75": 40.52,
         "pe_90": 58.93
       },
@@ -19018,7 +14040,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 14.1,
         "pe_10": 16.71,
         "pe_25": 21.08,
-        "pe_50": 28.18,
+        "pe_50": 28.28,
         "pe_75": 36.92,
         "pe_90": 53.7
       },
@@ -19028,7 +14050,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 14.96,
         "pe_10": 16.68,
         "pe_25": 21.05,
-        "pe_50": 28.14,
+        "pe_50": 28.24,
         "pe_75": 36.87,
         "pe_90": 53.62
       },
@@ -19038,7 +14060,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 15.23,
         "pe_10": 16.65,
         "pe_25": 21.01,
-        "pe_50": 28.08,
+        "pe_50": 28.18,
         "pe_75": 36.79,
         "pe_90": 53.51
       },
@@ -19048,7 +14070,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 16.93,
         "pe_10": 16.63,
         "pe_25": 20.98,
-        "pe_50": 28.05,
+        "pe_50": 28.15,
         "pe_75": 36.75,
         "pe_90": 53.46
       },
@@ -19058,7 +14080,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 18.22,
         "pe_10": 16.61,
         "pe_25": 20.95,
-        "pe_50": 28.01,
+        "pe_50": 28.11,
         "pe_75": 36.7,
         "pe_90": 53.38
       },
@@ -19068,7 +14090,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 18.61,
         "pe_10": 16.58,
         "pe_25": 20.92,
-        "pe_50": 27.97,
+        "pe_50": 28.07,
         "pe_75": 36.64,
         "pe_90": 53.3
       },
@@ -19078,7 +14100,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 18.94,
         "pe_10": 16.56,
         "pe_25": 20.89,
-        "pe_50": 27.92,
+        "pe_50": 28.02,
         "pe_75": 36.59,
         "pe_90": 53.22
       },
@@ -19088,7 +14110,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 21.18,
         "pe_10": 16.53,
         "pe_25": 20.85,
-        "pe_50": 27.88,
+        "pe_50": 27.98,
         "pe_75": 36.53,
         "pe_90": 53.13
       },
@@ -19098,7 +14120,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 22.18,
         "pe_10": 16.51,
         "pe_25": 20.82,
-        "pe_50": 27.84,
+        "pe_50": 27.94,
         "pe_75": 36.48,
         "pe_90": 53.05
       },
@@ -19108,7 +14130,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 22.03,
         "pe_10": 16.48,
         "pe_25": 20.79,
-        "pe_50": 27.8,
+        "pe_50": 27.9,
         "pe_75": 36.42,
         "pe_90": 52.98
       },
@@ -19118,7 +14140,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.73,
         "pe_10": 16.46,
         "pe_25": 20.76,
-        "pe_50": 27.75,
+        "pe_50": 27.85,
         "pe_75": 36.36,
         "pe_90": 52.89
       },
@@ -19128,7 +14150,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 21.43,
         "pe_10": 16.43,
         "pe_25": 20.73,
-        "pe_50": 27.71,
+        "pe_50": 27.81,
         "pe_75": 36.31,
         "pe_90": 52.81
       },
@@ -19138,7 +14160,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 32.8,
         "pe_10": 16.41,
         "pe_25": 20.7,
-        "pe_50": 27.67,
+        "pe_50": 27.77,
         "pe_75": 36.26,
         "pe_90": 52.73
       },
@@ -19148,7 +14170,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 27.8,
         "pe_10": 16.57,
         "pe_25": 20.9,
-        "pe_50": 27.94,
+        "pe_50": 28.04,
         "pe_75": 36.62,
         "pe_90": 53.26
       },
@@ -19158,7 +14180,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 26.98,
         "pe_10": 16.74,
         "pe_25": 21.12,
-        "pe_50": 28.23,
+        "pe_50": 28.33,
         "pe_75": 36.99,
         "pe_90": 53.8
       },
@@ -19168,7 +14190,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 27.69,
         "pe_10": 16.91,
         "pe_25": 21.33,
-        "pe_50": 28.51,
+        "pe_50": 28.61,
         "pe_75": 37.36,
         "pe_90": 54.34
       },
@@ -19178,7 +14200,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 26.46,
         "pe_10": 17.07,
         "pe_25": 21.53,
-        "pe_50": 28.79,
+        "pe_50": 28.89,
         "pe_75": 37.72,
         "pe_90": 54.86
       },
@@ -19188,7 +14210,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 30.7,
         "pe_10": 17.24,
         "pe_25": 21.75,
-        "pe_50": 29.07,
+        "pe_50": 29.17,
         "pe_75": 38.09,
         "pe_90": 55.4
       },
@@ -19198,7 +14220,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 26.93,
         "pe_10": 17.4,
         "pe_25": 21.95,
-        "pe_50": 29.35,
+        "pe_50": 29.45,
         "pe_75": 38.46,
         "pe_90": 55.93
       },
@@ -19208,7 +14230,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 24.96,
         "pe_10": 17.58,
         "pe_25": 22.17,
-        "pe_50": 29.64,
+        "pe_50": 29.74,
         "pe_75": 38.83,
         "pe_90": 56.48
       },
@@ -19218,7 +14240,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 24.67,
         "pe_10": 17.74,
         "pe_25": 22.38,
-        "pe_50": 29.92,
+        "pe_50": 30.02,
         "pe_75": 39.2,
         "pe_90": 57.02
       },
@@ -19228,7 +14250,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 22.79,
         "pe_10": 17.91,
         "pe_25": 22.59,
-        "pe_50": 30.2,
+        "pe_50": 30.31,
         "pe_75": 39.57,
         "pe_90": 57.56
       },
@@ -19238,7 +14260,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 22.39,
         "pe_10": 18.07,
         "pe_25": 22.8,
-        "pe_50": 30.48,
+        "pe_50": 30.59,
         "pe_75": 39.94,
         "pe_90": 58.08
       },
@@ -19248,7 +14270,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.76,
         "pe_10": 18.24,
         "pe_25": 23.01,
-        "pe_50": 30.76,
+        "pe_50": 30.87,
         "pe_75": 40.3,
         "pe_90": 58.62
       },
@@ -19258,7 +14280,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 21.63,
         "pe_10": 18.41,
         "pe_25": 23.22,
-        "pe_50": 31.04,
+        "pe_50": 31.15,
         "pe_75": 40.67,
         "pe_90": 59.16
       },
@@ -19268,7 +14290,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.66,
         "pe_10": 18.01,
         "pe_25": 22.72,
-        "pe_50": 30.38,
+        "pe_50": 30.48,
         "pe_75": 39.8,
         "pe_90": 57.89
       },
@@ -19278,7 +14300,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 22.22,
         "pe_10": 17.63,
         "pe_25": 22.24,
-        "pe_50": 29.72,
+        "pe_50": 29.83,
         "pe_75": 38.95,
         "pe_90": 56.65
       },
@@ -19288,7 +14310,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.58,
         "pe_10": 17.23,
         "pe_25": 21.74,
-        "pe_50": 29.06,
+        "pe_50": 29.16,
         "pe_75": 38.08,
         "pe_90": 55.38
       },
@@ -19298,7 +14320,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.73,
         "pe_10": 16.84,
         "pe_25": 21.25,
-        "pe_50": 28.4,
+        "pe_50": 28.5,
         "pe_75": 37.21,
         "pe_90": 54.13
       },
@@ -19308,7 +14330,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 21.1,
         "pe_10": 16.45,
         "pe_25": 20.75,
-        "pe_50": 27.74,
+        "pe_50": 27.84,
         "pe_75": 36.35,
         "pe_90": 52.87
       },
@@ -19318,7 +14340,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 18.88,
         "pe_10": 16.06,
         "pe_25": 20.25,
-        "pe_50": 27.07,
+        "pe_50": 27.17,
         "pe_75": 35.48,
         "pe_90": 51.6
       },
@@ -19328,7 +14350,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.53,
         "pe_10": 15.67,
         "pe_25": 19.76,
-        "pe_50": 26.42,
+        "pe_50": 26.51,
         "pe_75": 34.62,
         "pe_90": 50.35
       },
@@ -19338,7 +14360,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 19.36,
         "pe_10": 15.27,
         "pe_25": 19.26,
-        "pe_50": 25.75,
+        "pe_50": 25.84,
         "pe_75": 33.74,
         "pe_90": 49.07
       },
@@ -19348,7 +14370,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.81,
         "pe_10": 14.88,
         "pe_25": 18.77,
-        "pe_50": 25.09,
+        "pe_50": 25.18,
         "pe_75": 32.88,
         "pe_90": 47.82
       },
@@ -19358,7 +14380,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 20.75,
         "pe_10": 14.49,
         "pe_25": 18.28,
-        "pe_50": 24.43,
+        "pe_50": 24.52,
         "pe_75": 32.01,
         "pe_90": 46.56
       },
@@ -19368,7 +14390,7 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 19.34,
         "pe_10": 14.1,
         "pe_25": 17.78,
-        "pe_50": 23.77,
+        "pe_50": 23.85,
         "pe_75": 31.15,
         "pe_90": 45.3
       },
@@ -19378,8 +14400,18 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
         "pe": 19.27,
         "pe_10": 13.71,
         "pe_25": 17.29,
-        "pe_50": 23.11,
+        "pe_50": 23.19,
         "pe_75": 30.28,
+        "pe_90": 44.05
+      },
+      {
+        "date": "2026-01-16",
+        "price": 25.1,
+        "pe": 18.32,
+        "pe_10": 13.71,
+        "pe_25": 17.29,
+        "pe_50": 23.2,
+        "pe_75": 30.29,
         "pe_90": 44.05
       }
     ]
@@ -19618,10 +14650,6 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
   "title": "2353 宏碁 - 月營收年增率",
   "data": {
     "values": [
-      {
-        "date": "2006-01-16",
-        "revenue_yoy": 12.2
-      },
       {
         "date": "2006-02-14",
         "revenue_yoy": 35.6
@@ -20358,14 +15386,14 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
 |:---:|:---:|:---:|:---:|:---|:---|
 | 3個月 | 21.8 | +27.9% | 0.004 | 2017-10 (+870.2%) | 2007-10 (-82.1%) |
 | 6個月 | 21.8 | +14.2% | 0.004 | 2017-07 (+243.5%) | 2010-12 (-71.4%) |
-| 1年 | 21.8 | +7.3% | 0.002 | 2022-12 (+135.0%) | 2010-11 (-58.7%) |
+| 1年 | 21.8 | +7.2% | 0.002 | 2022-12 (+135.0%) | 2010-11 (-58.7%) |
 | 2年 | 21.6 | +3.9% | 0.000 | 2016-01 (+58.1%) | 2010-10 (-45.6%) |
-| 3年 | 21.7 | +2.5% | 0.004 | 2020-12 (+35.7%) | 2010-11 (-39.7%) |
-| 4年 | 22.7 | +1.3% | 0.003 | 2020-05 (+37.8%) | 2010-11 (-28.7%) |
+| 3年 | 21.6 | +2.5% | 0.003 | 2020-12 (+35.7%) | 2010-11 (-39.7%) |
+| 4年 | 22.6 | +1.3% | 0.003 | 2020-05 (+37.8%) | 2010-11 (-28.7%) |
 | 5年 | 23.9 | +0.4% | 0.034 | 2016-04 (+26.7%) | 2010-12 (-29.4%) |
-| 6年 | 25.0 | -0.2% | 0.105 | 2015-12 (+19.5%) | 2010-12 (-24.1%) |
-| 8年 | 25.7 | -0.4% | 0.288 | 2015-12 (+22.7%) | 2010-12 (-14.9%) |
-| 10年 | 20.7 | -1.1% | 0.228 | 2015-08 (+13.2%) | 2010-03 (-12.4%) |
+| 6年 | 25.0 | -0.1% | 0.103 | 2015-12 (+19.5%) | 2010-12 (-24.1%) |
+| 8年 | 25.9 | -0.3% | 0.286 | 2015-12 (+22.7%) | 2010-12 (-14.9%) |
+| 10年 | 23.4 | -0.9% | 0.234 | 2015-08 (+13.2%) | 2010-03 (-12.4%) |
 
 
 ## 🎯 使用說明
@@ -20384,4 +15412,4 @@ description: "2353 宏碁 (電腦及週邊設備業) 本益比與未來報酬率
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-25 20:34:25 CST*
+*數據更新時間: 2026-02-07 12:37:18 CST*

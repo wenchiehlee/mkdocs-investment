@@ -2,7 +2,7 @@
 title: "2603 長榮 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-01-25"
+date: "2026-02-07"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
     - **產業別**: 航運業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-01-25 20:37:05 CST
+    - **報告生成時間**: 2026-02-07 12:39:59 CST
 
 ## 📈 互動式圖表
 
@@ -35,15 +35,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
   "title": "2603 長榮 - 本益比與未來報酬率分析",
   "data": {
     "values": [
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 146.8,
-        "forward_return": 23.06,
-        "start_price": 20.55,
-        "start_year": 2006
-      },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
@@ -362,150 +353,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 189.45,
-        "start_price": 13.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 325.25,
-        "start_price": 13.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 175.89,
-        "start_price": 14.25,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 116.44,
-        "start_price": 16.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.17,
-        "start_price": 19.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 63.31,
-        "start_price": 16.35,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -51.7,
-        "start_price": 20.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -27.78,
-        "start_price": 19.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -13.37,
-        "start_price": 18.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 51.94,
-        "start_price": 16.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 45.03,
-        "start_price": 16.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.78,
-        "start_price": 17.85,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2010-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.06,
-        "start_price": 18.5,
-        "start_year": 2010
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2010-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -18.61,
-        "start_price": 19.2,
-        "start_year": 2010
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2010-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 105.86,
-        "start_price": 18.7,
-        "start_year": 2010
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2010-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 95.07,
-        "start_price": 20.15,
-        "start_year": 2010
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2010-05-16",
         "pe_ratio": 101.4,
         "forward_return": 82.98,
@@ -668,114 +515,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 173.27,
-        "start_price": 14.55,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 211.1,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -30.8,
-        "start_price": 16.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -74.54,
-        "start_price": 20.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -46.23,
-        "start_price": 20.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -15.36,
-        "start_price": 17.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 41.9,
-        "start_price": 14.65,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -15.09,
-        "start_price": 16.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -30.59,
-        "start_price": 16.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.44,
-        "start_price": 16.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 59.29,
-        "start_price": 15.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 129.36,
-        "start_price": 15.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2012-11-15",
         "pe_ratio": 1140.0,
         "forward_return": 14.93,
@@ -808,150 +547,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -39.4,
         "start_price": 18.95,
         "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -17.29,
-        "start_price": 17.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -10.07,
-        "start_price": 17.25,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.6,
-        "start_price": 16.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 29.4,
-        "start_price": 16.4,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.35,
-        "start_price": 16.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.84,
-        "start_price": 16.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.05,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.98,
-        "start_price": 17.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.31,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.62,
-        "start_price": 18.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.91,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -16.85,
-        "start_price": 18.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.38,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.76,
-        "start_price": 17.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 26.52,
-        "start_price": 17.2,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 43.42,
-        "start_price": 16.3,
-        "start_year": 2014
       },
       {
         "horizon": "0.25y",
@@ -1024,249 +619,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -66.15,
         "start_price": 23.05,
         "start_year": 2015
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2015-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -71.71,
-        "start_price": 23.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2015-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -71.5,
-        "start_price": 20.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2015-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -56.03,
-        "start_price": 17.65,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2015-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -41.98,
-        "start_price": 16.0,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2015-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -15.98,
-        "start_price": 15.15,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2015-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.57,
-        "start_price": 14.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2015-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.29,
-        "start_price": 13.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2015-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -49.63,
-        "start_price": 14.5,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2015-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -21.54,
-        "start_price": 12.95,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2015-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -33.93,
-        "start_price": 13.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -16.34,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -15.7,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.36,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.07,
-        "start_price": 11.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.41,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.08,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -16.55,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -20.82,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -29.26,
-        "start_price": 12.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 42.45,
-        "start_price": 11.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 64.83,
-        "start_price": 12.05,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 171.71,
-        "start_price": 11.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 61.49,
-        "start_price": 12.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 16.25,
-        "start_price": 14.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 58.17,
-        "start_price": 14.2,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 140.49,
-        "start_price": 13.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 431.55,
-        "start_price": 15.1,
-        "start_year": 2017
       },
       {
         "horizon": "0.25y",
@@ -2169,13 +1521,13 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "start_year": 2025
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 146.8,
-        "forward_return": 36.78,
-        "start_price": 20.55,
-        "start_year": 2006
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-10-16",
+        "pe_ratio": 4.23,
+        "forward_return": -14.52,
+        "start_price": 193.5,
+        "start_year": 2025
       },
       {
         "horizon": "0.5y",
@@ -2495,150 +1847,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 124.37,
-        "start_price": 13.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 124.49,
-        "start_price": 13.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.43,
-        "start_price": 14.25,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.82,
-        "start_price": 16.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.11,
-        "start_price": 19.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 19.15,
-        "start_price": 16.35,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -14.34,
-        "start_price": 20.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.16,
-        "start_price": 19.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.19,
-        "start_price": 18.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.13,
-        "start_price": 16.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.81,
-        "start_price": 16.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 64.16,
-        "start_price": 17.85,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2010-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 66.26,
-        "start_price": 18.5,
-        "start_year": 2010
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2010-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 22.58,
-        "start_price": 19.2,
-        "start_year": 2010
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2010-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 69.79,
-        "start_price": 18.7,
-        "start_year": 2010
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2010-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 60.0,
-        "start_price": 20.15,
-        "start_year": 2010
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
         "start_date": "2010-05-16",
         "pe_ratio": 101.4,
         "forward_return": 137.57,
@@ -2801,114 +2009,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.38,
-        "start_price": 14.55,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.82,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.61,
-        "start_price": 16.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -39.61,
-        "start_price": 20.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -39.99,
-        "start_price": 20.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -23.4,
-        "start_price": 17.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.47,
-        "start_price": 14.65,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.1,
-        "start_price": 16.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 26.17,
-        "start_price": 16.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.33,
-        "start_price": 16.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 34.59,
-        "start_price": 15.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.25,
-        "start_price": 15.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
         "start_date": "2012-11-15",
         "pe_ratio": 1140.0,
         "forward_return": -4.09,
@@ -2941,150 +2041,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -20.53,
         "start_price": 18.95,
         "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.65,
-        "start_price": 17.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.58,
-        "start_price": 17.25,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.22,
-        "start_price": 16.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 23.1,
-        "start_price": 16.4,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.16,
-        "start_price": 16.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.35,
-        "start_price": 16.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.49,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.99,
-        "start_price": 17.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.43,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.91,
-        "start_price": 18.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.04,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 2.81,
-        "start_price": 18.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.44,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.53,
-        "start_price": 17.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 56.96,
-        "start_price": 17.2,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 88.61,
-        "start_price": 16.3,
-        "start_year": 2014
       },
       {
         "horizon": "0.5y",
@@ -3157,249 +2113,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -61.37,
         "start_price": 23.05,
         "start_year": 2015
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2015-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -54.8,
-        "start_price": 23.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2015-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -50.89,
-        "start_price": 20.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2015-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -37.91,
-        "start_price": 17.65,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2015-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -30.33,
-        "start_price": 16.0,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2015-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -34.94,
-        "start_price": 15.15,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2015-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -26.05,
-        "start_price": 14.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2015-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -25.63,
-        "start_price": 13.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2015-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -32.8,
-        "start_price": 14.5,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2015-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -21.2,
-        "start_price": 12.95,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2015-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.36,
-        "start_price": 13.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.48,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.0,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.13,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.67,
-        "start_price": 11.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.86,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -13.69,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.03,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.65,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 38.12,
-        "start_price": 12.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 52.94,
-        "start_price": 11.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 57.67,
-        "start_price": 12.05,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 99.01,
-        "start_price": 11.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 65.33,
-        "start_price": 12.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 150.67,
-        "start_price": 14.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 50.6,
-        "start_price": 14.2,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 83.95,
-        "start_price": 13.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.54,
-        "start_price": 15.1,
-        "start_year": 2017
       },
       {
         "horizon": "0.5y",
@@ -4275,13 +2988,13 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "start_year": 2025
       },
       {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 146.8,
-        "forward_return": -2.19,
-        "start_price": 20.55,
-        "start_year": 2006
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-07-16",
+        "pe_ratio": 3.85,
+        "forward_return": -11.67,
+        "start_price": 198.0,
+        "start_year": 2025
       },
       {
         "horizon": "1y",
@@ -4601,150 +3314,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 38.09,
-        "start_price": 13.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 44.4,
-        "start_price": 13.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 31.25,
-        "start_price": 14.25,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 22.14,
-        "start_price": 16.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.95,
-        "start_price": 19.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 25.1,
-        "start_price": 16.35,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 19.01,
-        "start_price": 20.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.79,
-        "start_price": 19.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 19.47,
-        "start_price": 18.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 53.2,
-        "start_price": 16.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 55.03,
-        "start_price": 16.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 69.81,
-        "start_price": 17.85,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2010-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 64.92,
-        "start_price": 18.5,
-        "start_year": 2010
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2010-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 36.49,
-        "start_price": 19.2,
-        "start_year": 2010
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2010-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.77,
-        "start_price": 18.7,
-        "start_year": 2010
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2010-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 31.54,
-        "start_price": 20.15,
-        "start_year": 2010
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
         "start_date": "2010-05-16",
         "pe_ratio": 101.4,
         "forward_return": 46.61,
@@ -4907,114 +3476,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.49,
-        "start_price": 14.55,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.37,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.06,
-        "start_price": 16.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -12.18,
-        "start_price": 20.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.83,
-        "start_price": 20.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.29,
-        "start_price": 17.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.34,
-        "start_price": 14.65,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.86,
-        "start_price": 16.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.82,
-        "start_price": 16.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.63,
-        "start_price": 16.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.28,
-        "start_price": 15.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.96,
-        "start_price": 15.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
         "start_date": "2012-11-15",
         "pe_ratio": 1140.0,
         "forward_return": 2.34,
@@ -5047,150 +3508,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -5.02,
         "start_price": 18.95,
         "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.56,
-        "start_price": 17.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.58,
-        "start_price": 17.25,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.69,
-        "start_price": 16.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.61,
-        "start_price": 16.4,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.28,
-        "start_price": 16.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.99,
-        "start_price": 16.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.0,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.76,
-        "start_price": 17.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.86,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 23.09,
-        "start_price": 18.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.86,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 28.08,
-        "start_price": 18.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.64,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.59,
-        "start_price": 17.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.62,
-        "start_price": 17.2,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.84,
-        "start_price": 16.3,
-        "start_year": 2014
       },
       {
         "horizon": "1y",
@@ -5263,249 +3580,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -47.53,
         "start_price": 23.05,
         "start_year": 2015
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2015-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -48.1,
-        "start_price": 23.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2015-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -42.38,
-        "start_price": 20.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2015-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -34.22,
-        "start_price": 17.65,
-        "start_year": 2015
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2015-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -24.64,
-        "start_price": 16.0,
-        "start_year": 2015
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2015-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -18.45,
-        "start_price": 15.15,
-        "start_year": 2015
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2015-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -15.76,
-        "start_price": 14.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2015-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -12.61,
-        "start_price": 13.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2015-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -18.59,
-        "start_price": 14.5,
-        "start_year": 2015
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2015-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.94,
-        "start_price": 12.95,
-        "start_year": 2015
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2015-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -16.2,
-        "start_price": 13.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.73,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.84,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.84,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.77,
-        "start_price": 11.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 31.33,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 29.31,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 34.03,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 91.75,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 50.87,
-        "start_price": 12.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 53.01,
-        "start_price": 11.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 39.87,
-        "start_price": 12.05,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 47.34,
-        "start_price": 11.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.75,
-        "start_price": 12.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 6.19,
-        "start_price": 14.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.69,
-        "start_price": 14.2,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.54,
-        "start_price": 13.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.66,
-        "start_price": 15.1,
-        "start_year": 2017
       },
       {
         "horizon": "1y",
@@ -6327,13 +4401,13 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "start_year": 2024
       },
       {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 146.8,
-        "forward_return": 12.27,
-        "start_price": 20.55,
-        "start_year": 2006
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2025-01-16",
+        "pe_ratio": 3.25,
+        "forward_return": 6.85,
+        "start_price": 204.5,
+        "start_year": 2025
       },
       {
         "horizon": "2y",
@@ -6653,150 +4727,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 50.91,
-        "start_price": 13.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 40.39,
-        "start_price": 13.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 31.01,
-        "start_price": 14.25,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 26.75,
-        "start_price": 16.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.67,
-        "start_price": 19.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 18.88,
-        "start_price": 16.35,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.86,
-        "start_price": 20.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.76,
-        "start_price": 19.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.28,
-        "start_price": 18.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.82,
-        "start_price": 16.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.07,
-        "start_price": 16.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.44,
-        "start_price": 17.85,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2010-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.6,
-        "start_price": 18.5,
-        "start_year": 2010
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2010-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 6.07,
-        "start_price": 19.2,
-        "start_year": 2010
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2010-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.72,
-        "start_price": 18.7,
-        "start_year": 2010
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2010-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.96,
-        "start_price": 20.15,
-        "start_year": 2010
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
         "start_date": "2010-05-16",
         "pe_ratio": 101.4,
         "forward_return": -7.39,
@@ -6959,114 +4889,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.66,
-        "start_price": 14.55,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.06,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.71,
-        "start_price": 16.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.78,
-        "start_price": 20.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.36,
-        "start_price": 20.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.15,
-        "start_price": 17.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.36,
-        "start_price": 14.65,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.62,
-        "start_price": 16.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.55,
-        "start_price": 16.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.8,
-        "start_price": 16.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.49,
-        "start_price": 15.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.22,
-        "start_price": 15.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
         "start_date": "2012-11-15",
         "pe_ratio": 1140.0,
         "forward_return": 3.59,
@@ -7099,150 +4921,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": 10.3,
         "start_price": 18.95,
         "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.98,
-        "start_price": 17.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.95,
-        "start_price": 17.25,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.65,
-        "start_price": 16.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.23,
-        "start_price": 16.4,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.73,
-        "start_price": 16.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.86,
-        "start_price": 16.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -10.72,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.14,
-        "start_price": 17.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -13.65,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -14.36,
-        "start_price": 18.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -16.88,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -18.02,
-        "start_price": 18.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -17.71,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.34,
-        "start_price": 17.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -17.87,
-        "start_price": 17.2,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -14.01,
-        "start_price": 16.3,
-        "start_year": 2014
       },
       {
         "horizon": "2y",
@@ -7315,249 +4993,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -20.26,
         "start_price": 23.05,
         "start_year": 2015
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2015-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -21.56,
-        "start_price": 23.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2015-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -19.82,
-        "start_price": 20.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2015-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.19,
-        "start_price": 17.65,
-        "start_year": 2015
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2015-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.42,
-        "start_price": 16.0,
-        "start_year": 2015
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2015-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.52,
-        "start_price": 15.15,
-        "start_year": 2015
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2015-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.02,
-        "start_price": 14.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2015-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.78,
-        "start_price": 13.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2015-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.56,
-        "start_price": 14.5,
-        "start_year": 2015
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2015-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.06,
-        "start_price": 12.95,
-        "start_year": 2015
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2015-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.08,
-        "start_price": 13.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.89,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.85,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.6,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.65,
-        "start_price": 11.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.65,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.3,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.67,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.08,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.65,
-        "start_price": 12.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.85,
-        "start_price": 11.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.83,
-        "start_price": 12.05,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.41,
-        "start_price": 11.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.95,
-        "start_price": 12.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -6.76,
-        "start_price": 14.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.5,
-        "start_price": 14.2,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.68,
-        "start_price": 13.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.75,
-        "start_price": 15.1,
-        "start_year": 2017
       },
       {
         "horizon": "2y",
@@ -8271,13 +5706,13 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "start_year": 2023
       },
       {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 146.8,
-        "forward_return": -5.76,
-        "start_price": 20.55,
-        "start_year": 2006
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-01-16",
+        "pe_ratio": 7.27,
+        "forward_return": 23.19,
+        "start_price": 150.5,
+        "start_year": 2024
       },
       {
         "horizon": "3y",
@@ -8597,150 +6032,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.42,
-        "start_price": 13.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 17.56,
-        "start_price": 13.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.33,
-        "start_price": 14.25,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.32,
-        "start_price": 16.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.26,
-        "start_price": 19.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.51,
-        "start_price": 16.35,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.35,
-        "start_price": 20.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.11,
-        "start_price": 19.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.84,
-        "start_price": 18.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.22,
-        "start_price": 16.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.03,
-        "start_price": 16.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.92,
-        "start_price": 17.85,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2010-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.86,
-        "start_price": 18.5,
-        "start_year": 2010
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2010-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 1.29,
-        "start_price": 19.2,
-        "start_year": 2010
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2010-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.36,
-        "start_price": 18.7,
-        "start_year": 2010
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2010-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.25,
-        "start_price": 20.15,
-        "start_year": 2010
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
         "start_date": "2010-05-16",
         "pe_ratio": 101.4,
         "forward_return": -0.92,
@@ -8903,114 +6194,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.04,
-        "start_price": 14.55,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.55,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.61,
-        "start_price": 16.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.01,
-        "start_price": 20.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.63,
-        "start_price": 20.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.63,
-        "start_price": 17.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.41,
-        "start_price": 14.65,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.21,
-        "start_price": 16.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.59,
-        "start_price": 16.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.57,
-        "start_price": 16.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.35,
-        "start_price": 15.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.01,
-        "start_price": 15.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
         "start_date": "2012-11-15",
         "pe_ratio": 1140.0,
         "forward_return": -8.62,
@@ -9043,150 +6226,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -13.9,
         "start_price": 18.95,
         "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.36,
-        "start_price": 17.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.39,
-        "start_price": 17.25,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.52,
-        "start_price": 16.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -9.76,
-        "start_price": 16.4,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.5,
-        "start_price": 16.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.54,
-        "start_price": 16.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.33,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.72,
-        "start_price": 17.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.45,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -14.94,
-        "start_price": 18.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.94,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -6.63,
-        "start_price": 18.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.04,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -7.89,
-        "start_price": 17.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.04,
-        "start_price": 17.2,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.56,
-        "start_price": 16.3,
-        "start_year": 2014
       },
       {
         "horizon": "3y",
@@ -9259,249 +6298,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -12.29,
         "start_price": 23.05,
         "start_year": 2015
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2015-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -13.11,
-        "start_price": 23.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2015-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -10.0,
-        "start_price": 20.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2015-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.38,
-        "start_price": 17.65,
-        "start_year": 2015
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2015-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.45,
-        "start_price": 16.0,
-        "start_year": 2015
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2015-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.48,
-        "start_price": 15.15,
-        "start_year": 2015
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2015-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.4,
-        "start_price": 14.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2015-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.09,
-        "start_price": 13.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2015-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.17,
-        "start_price": 14.5,
-        "start_year": 2015
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2015-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.91,
-        "start_price": 12.95,
-        "start_year": 2015
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2015-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.98,
-        "start_price": 13.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.14,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.4,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.56,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.94,
-        "start_price": 11.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.27,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.92,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.74,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.84,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.94,
-        "start_price": 12.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.48,
-        "start_price": 11.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.5,
-        "start_price": 12.05,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.32,
-        "start_price": 11.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.52,
-        "start_price": 12.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -6.88,
-        "start_price": 14.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.69,
-        "start_price": 14.2,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.29,
-        "start_price": 13.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.75,
-        "start_price": 15.1,
-        "start_year": 2017
       },
       {
         "horizon": "3y",
@@ -10107,13 +6903,13 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "start_year": 2022
       },
       {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 146.8,
-        "forward_return": 2.06,
-        "start_price": 20.55,
-        "start_year": 2006
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2023-01-16",
+        "pe_ratio": 1.87,
+        "forward_return": 25.22,
+        "start_price": 152.0,
+        "start_year": 2023
       },
       {
         "horizon": "4y",
@@ -10433,150 +7229,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.9,
-        "start_price": 13.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 10.67,
-        "start_price": 13.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.32,
-        "start_price": 14.25,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.55,
-        "start_price": 16.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.69,
-        "start_price": 19.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.57,
-        "start_price": 16.35,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.87,
-        "start_price": 20.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.61,
-        "start_price": 19.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.0,
-        "start_price": 18.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.39,
-        "start_price": 16.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.82,
-        "start_price": 16.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.84,
-        "start_price": 17.85,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2010-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.4,
-        "start_price": 18.5,
-        "start_year": 2010
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2010-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -0.26,
-        "start_price": 19.2,
-        "start_year": 2010
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2010-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.13,
-        "start_price": 18.7,
-        "start_year": 2010
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2010-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.58,
-        "start_price": 20.15,
-        "start_year": 2010
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
         "start_date": "2010-05-16",
         "pe_ratio": 101.4,
         "forward_return": -0.07,
@@ -10739,114 +7391,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.68,
-        "start_price": 14.55,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.35,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.15,
-        "start_price": 16.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -12.46,
-        "start_price": 20.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.22,
-        "start_price": 20.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.61,
-        "start_price": 17.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.67,
-        "start_price": 14.65,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.99,
-        "start_price": 16.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.8,
-        "start_price": 16.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.75,
-        "start_price": 16.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.73,
-        "start_price": 15.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.7,
-        "start_price": 15.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
         "start_date": "2012-11-15",
         "pe_ratio": 1140.0,
         "forward_return": -8.19,
@@ -10879,150 +7423,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -6.23,
         "start_price": 18.95,
         "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.46,
-        "start_price": 17.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.12,
-        "start_price": 17.25,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.4,
-        "start_price": 16.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.32,
-        "start_price": 16.4,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.22,
-        "start_price": 16.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.13,
-        "start_price": 16.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.19,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.21,
-        "start_price": 17.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.8,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.5,
-        "start_price": 18.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.64,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -3.59,
-        "start_price": 18.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.79,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.97,
-        "start_price": 17.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.44,
-        "start_price": 17.2,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.32,
-        "start_price": 16.3,
-        "start_year": 2014
       },
       {
         "horizon": "4y",
@@ -11095,249 +7495,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -13.76,
         "start_price": 23.05,
         "start_year": 2015
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2015-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -14.8,
-        "start_price": 23.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2015-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -9.72,
-        "start_price": 20.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2015-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.45,
-        "start_price": 17.65,
-        "start_year": 2015
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2015-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.52,
-        "start_price": 16.0,
-        "start_year": 2015
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2015-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.92,
-        "start_price": 15.15,
-        "start_year": 2015
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2015-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.18,
-        "start_price": 14.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2015-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.19,
-        "start_price": 13.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2015-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.26,
-        "start_price": 14.5,
-        "start_year": 2015
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2015-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.68,
-        "start_price": 12.95,
-        "start_year": 2015
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2015-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.25,
-        "start_price": 13.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.52,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.52,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.7,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.29,
-        "start_price": 11.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.88,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.16,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.41,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.05,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.32,
-        "start_price": 12.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.79,
-        "start_price": 11.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 19.9,
-        "start_price": 12.05,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 38.55,
-        "start_price": 11.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.91,
-        "start_price": 12.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 27.25,
-        "start_price": 14.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.94,
-        "start_price": 14.2,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 56.21,
-        "start_price": 13.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 59.94,
-        "start_price": 15.1,
-        "start_year": 2017
       },
       {
         "horizon": "4y",
@@ -11835,13 +7992,13 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "start_year": 2021
       },
       {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 146.8,
-        "forward_return": 10.79,
-        "start_price": 20.55,
-        "start_year": 2006
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2022-01-16",
+        "pe_ratio": 2.3,
+        "forward_return": 29.36,
+        "start_price": 113.0,
+        "start_year": 2022
       },
       {
         "horizon": "5y",
@@ -12161,150 +8318,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.01,
-        "start_price": 13.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 7.4,
-        "start_price": 13.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.7,
-        "start_price": 14.25,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.92,
-        "start_price": 16.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.86,
-        "start_price": 19.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.14,
-        "start_price": 16.35,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.71,
-        "start_price": 20.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.66,
-        "start_price": 19.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.38,
-        "start_price": 18.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.62,
-        "start_price": 16.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.18,
-        "start_price": 16.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.56,
-        "start_price": 17.85,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2010-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.81,
-        "start_price": 18.5,
-        "start_year": 2010
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2010-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 4.61,
-        "start_price": 19.2,
-        "start_year": 2010
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2010-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.34,
-        "start_price": 18.7,
-        "start_year": 2010
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2010-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.63,
-        "start_price": 20.15,
-        "start_year": 2010
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
         "start_date": "2010-05-16",
         "pe_ratio": 101.4,
         "forward_return": 0.43,
@@ -12467,114 +8480,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.54,
-        "start_price": 14.55,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.05,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.71,
-        "start_price": 16.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.93,
-        "start_price": 20.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.77,
-        "start_price": 20.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.87,
-        "start_price": 17.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.74,
-        "start_price": 14.65,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.69,
-        "start_price": 16.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.18,
-        "start_price": 16.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.62,
-        "start_price": 16.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.5,
-        "start_price": 15.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.82,
-        "start_price": 15.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
         "start_date": "2012-11-15",
         "pe_ratio": 1140.0,
         "forward_return": -0.18,
@@ -12607,150 +8512,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -3.88,
         "start_price": 18.95,
         "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.15,
-        "start_price": 17.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.5,
-        "start_price": 17.25,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.25,
-        "start_price": 16.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.39,
-        "start_price": 16.4,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.38,
-        "start_price": 16.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.61,
-        "start_price": 16.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.63,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.53,
-        "start_price": 17.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -7.35,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.69,
-        "start_price": 18.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.2,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -6.67,
-        "start_price": 18.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.2,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.18,
-        "start_price": 17.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.34,
-        "start_price": 17.2,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.79,
-        "start_price": 16.3,
-        "start_year": 2014
       },
       {
         "horizon": "5y",
@@ -12823,249 +8584,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -12.46,
         "start_price": 23.05,
         "start_year": 2015
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2015-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -16.3,
-        "start_price": 23.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2015-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.37,
-        "start_price": 20.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2015-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.69,
-        "start_price": 17.65,
-        "start_year": 2015
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2015-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -7.13,
-        "start_price": 16.0,
-        "start_year": 2015
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2015-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.86,
-        "start_price": 15.15,
-        "start_year": 2015
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2015-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.31,
-        "start_price": 14.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2015-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.99,
-        "start_price": 13.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2015-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.66,
-        "start_price": 14.5,
-        "start_year": 2015
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2015-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.96,
-        "start_price": 12.95,
-        "start_year": 2015
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2015-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.27,
-        "start_price": 13.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.8,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 30.1,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.78,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 46.1,
-        "start_price": 11.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 53.76,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 75.2,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 61.27,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 63.15,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 60.46,
-        "start_price": 12.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 54.0,
-        "start_price": 11.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 60.22,
-        "start_price": 12.05,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 67.24,
-        "start_price": 11.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 55.08,
-        "start_price": 12.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 58.65,
-        "start_price": 14.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 57.52,
-        "start_price": 14.2,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 61.86,
-        "start_price": 13.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 56.82,
-        "start_price": 15.1,
-        "start_year": 2017
       },
       {
         "horizon": "5y",
@@ -13455,13 +8973,13 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "start_year": 2020
       },
       {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 146.8,
-        "forward_return": 0.64,
-        "start_price": 20.55,
-        "start_year": 2006
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2021-01-16",
+        "pe_ratio": 3.7,
+        "forward_return": 59.2,
+        "start_price": 31.2,
+        "start_year": 2021
       },
       {
         "horizon": "6y",
@@ -13781,150 +9299,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.74,
-        "start_price": 13.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 10.38,
-        "start_price": 13.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.27,
-        "start_price": 14.25,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.79,
-        "start_price": 16.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.31,
-        "start_price": 19.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.65,
-        "start_price": 16.35,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.4,
-        "start_price": 20.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.24,
-        "start_price": 19.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.49,
-        "start_price": 18.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.08,
-        "start_price": 16.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.69,
-        "start_price": 16.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.57,
-        "start_price": 17.85,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2010-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.35,
-        "start_price": 18.5,
-        "start_year": 2010
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2010-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -6.17,
-        "start_price": 19.2,
-        "start_year": 2010
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2010-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.82,
-        "start_price": 18.7,
-        "start_year": 2010
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2010-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -7.04,
-        "start_price": 20.15,
-        "start_year": 2010
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
         "start_date": "2010-05-16",
         "pe_ratio": 101.4,
         "forward_return": -5.99,
@@ -14087,114 +9461,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.58,
-        "start_price": 14.55,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.21,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.79,
-        "start_price": 16.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.83,
-        "start_price": 20.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.66,
-        "start_price": 20.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.04,
-        "start_price": 17.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.34,
-        "start_price": 14.65,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.38,
-        "start_price": 16.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.53,
-        "start_price": 16.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.97,
-        "start_price": 16.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.71,
-        "start_price": 15.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.11,
-        "start_price": 15.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
         "start_date": "2012-11-15",
         "pe_ratio": 1140.0,
         "forward_return": -5.8,
@@ -14227,150 +9493,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": -6.39,
         "start_price": 18.95,
         "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.13,
-        "start_price": 17.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.59,
-        "start_price": 17.25,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.89,
-        "start_price": 16.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.11,
-        "start_price": 16.4,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.2,
-        "start_price": 16.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.1,
-        "start_price": 16.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.47,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.9,
-        "start_price": 17.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.2,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.82,
-        "start_price": 18.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.3,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -6.73,
-        "start_price": 18.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.86,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.58,
-        "start_price": 17.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.9,
-        "start_price": 17.2,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.27,
-        "start_price": 16.3,
-        "start_year": 2014
       },
       {
         "horizon": "6y",
@@ -14443,249 +9565,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": 8.81,
         "start_price": 23.05,
         "start_year": 2015
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2015-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.96,
-        "start_price": 23.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2015-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.93,
-        "start_price": 20.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2015-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.26,
-        "start_price": 17.65,
-        "start_year": 2015
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2015-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 51.98,
-        "start_price": 16.0,
-        "start_year": 2015
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2015-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 43.92,
-        "start_price": 15.15,
-        "start_year": 2015
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2015-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 46.11,
-        "start_price": 14.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2015-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 44.98,
-        "start_price": 13.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2015-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 38.45,
-        "start_price": 14.5,
-        "start_year": 2015
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2015-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 46.33,
-        "start_price": 12.95,
-        "start_year": 2015
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2015-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 49.02,
-        "start_price": 13.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 45.47,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 49.37,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 50.3,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 52.17,
-        "start_price": 11.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 52.26,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 39.3,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 45.31,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 44.46,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 54.84,
-        "start_price": 12.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 54.14,
-        "start_price": 11.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 57.48,
-        "start_price": 12.05,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 59.65,
-        "start_price": 11.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 54.11,
-        "start_price": 12.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 51.77,
-        "start_price": 14.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 52.6,
-        "start_price": 14.2,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 54.7,
-        "start_price": 13.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 50.26,
-        "start_price": 15.1,
-        "start_year": 2017
       },
       {
         "horizon": "6y",
@@ -14967,13 +9846,13 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "start_year": 2019
       },
       {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 146.8,
-        "forward_return": 1.2,
-        "start_price": 20.55,
-        "start_year": 2006
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2020-01-16",
+        "pe_ratio": 26.7,
+        "forward_return": 73.34,
+        "start_price": 11.75,
+        "start_year": 2020
       },
       {
         "horizon": "8y",
@@ -15293,150 +10172,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.55,
-        "start_price": 13.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 2.05,
-        "start_price": 13.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.89,
-        "start_price": 14.25,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.69,
-        "start_price": 16.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.97,
-        "start_price": 19.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.15,
-        "start_price": 16.35,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.55,
-        "start_price": 20.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.42,
-        "start_price": 19.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.56,
-        "start_price": 18.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.76,
-        "start_price": 16.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.02,
-        "start_price": 16.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.28,
-        "start_price": 17.85,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2010-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.1,
-        "start_price": 18.5,
-        "start_year": 2010
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2010-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -1.84,
-        "start_price": 19.2,
-        "start_year": 2010
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2010-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.74,
-        "start_price": 18.7,
-        "start_year": 2010
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2010-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.69,
-        "start_price": 20.15,
-        "start_year": 2010
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
         "start_date": "2010-05-16",
         "pe_ratio": 101.4,
         "forward_return": -1.67,
@@ -15599,114 +10334,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.69,
-        "start_price": 14.55,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.3,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.89,
-        "start_price": 16.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.68,
-        "start_price": 20.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.0,
-        "start_price": 20.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.01,
-        "start_price": 17.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.3,
-        "start_price": 14.65,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.6,
-        "start_price": 16.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.62,
-        "start_price": 16.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.27,
-        "start_price": 16.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.56,
-        "start_price": 15.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.09,
-        "start_price": 15.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
         "start_date": "2012-11-15",
         "pe_ratio": 1140.0,
         "forward_return": 4.86,
@@ -15739,150 +10366,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": 9.18,
         "start_price": 18.95,
         "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.46,
-        "start_price": 17.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.01,
-        "start_price": 17.25,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.85,
-        "start_price": 16.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 36.47,
-        "start_price": 16.4,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.73,
-        "start_price": 16.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.11,
-        "start_price": 16.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 28.34,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.87,
-        "start_price": 17.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 28.15,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.65,
-        "start_price": 18.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 26.37,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 29.94,
-        "start_price": 18.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.15,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 30.89,
-        "start_price": 17.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.34,
-        "start_price": 17.2,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 23.36,
-        "start_price": 16.3,
-        "start_year": 2014
       },
       {
         "horizon": "8y",
@@ -15959,249 +10442,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2015-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.09,
-        "start_price": 23.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2015-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 31.13,
-        "start_price": 20.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2015-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.09,
-        "start_price": 17.65,
-        "start_year": 2015
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2015-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 27.86,
-        "start_price": 16.0,
-        "start_year": 2015
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2015-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 37.6,
-        "start_price": 15.15,
-        "start_year": 2015
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2015-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 38.88,
-        "start_price": 14.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2015-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 40.2,
-        "start_price": 13.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2015-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 38.66,
-        "start_price": 14.5,
-        "start_year": 2015
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2015-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 41.03,
-        "start_price": 12.95,
-        "start_year": 2015
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2015-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 43.19,
-        "start_price": 13.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 45.21,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 46.61,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 47.15,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 48.42,
-        "start_price": 11.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 50.41,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 48.57,
-        "start_price": 11.95,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 47.13,
-        "start_price": 12.35,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 48.82,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 49.48,
-        "start_price": 12.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 50.23,
-        "start_price": 11.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 50.53,
-        "start_price": 12.05,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 52.56,
-        "start_price": 11.1,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 48.5,
-        "start_price": 12.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 46.97,
-        "start_price": 14.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 47.67,
-        "start_price": 14.2,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 48.06,
-        "start_price": 13.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 47.87,
-        "start_price": 15.1,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
         "start_date": "2017-06-15",
         "pe_ratio": 343.3,
         "forward_return": 44.86,
@@ -16263,13 +10503,13 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "start_year": 2017
       },
       {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 146.8,
-        "forward_return": -1.82,
-        "start_price": 20.55,
-        "start_year": 2006
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2018-01-16",
+        "pe_ratio": 9.52,
+        "forward_return": 44.01,
+        "start_price": 17.25,
+        "start_year": 2018
       },
       {
         "horizon": "10y",
@@ -16589,150 +10829,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "10y",
         "horizon_label": "10年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.11,
-        "start_price": 13.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 0.33,
-        "start_price": 13.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.73,
-        "start_price": 14.25,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.05,
-        "start_price": 16.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.43,
-        "start_price": 19.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.72,
-        "start_price": 16.35,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.39,
-        "start_price": 20.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.35,
-        "start_price": 19.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.54,
-        "start_price": 18.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.86,
-        "start_price": 16.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.87,
-        "start_price": 16.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.61,
-        "start_price": 17.85,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2010-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.43,
-        "start_price": 18.5,
-        "start_year": 2010
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2010-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -3.94,
-        "start_price": 19.2,
-        "start_year": 2010
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2010-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.56,
-        "start_price": 18.7,
-        "start_year": 2010
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2010-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.74,
-        "start_price": 20.15,
-        "start_year": 2010
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
         "start_date": "2010-05-16",
         "pe_ratio": 101.4,
         "forward_return": -3.95,
@@ -16895,114 +10991,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "10y",
         "horizon_label": "10年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.22,
-        "start_price": 14.55,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.24,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.47,
-        "start_price": 16.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 20.75,
-        "start_price": 20.6,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.11,
-        "start_price": 20.3,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.0,
-        "start_price": 17.2,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.62,
-        "start_price": 14.65,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 18.43,
-        "start_price": 16.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.57,
-        "start_price": 16.5,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.16,
-        "start_price": 16.0,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 26.86,
-        "start_price": 15.45,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 26.53,
-        "start_price": 15.05,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
         "start_date": "2012-11-15",
         "pe_ratio": 1140.0,
         "forward_return": 26.81,
@@ -17035,150 +11023,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "forward_return": 25.1,
         "start_price": 18.95,
         "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.92,
-        "start_price": 17.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 26.59,
-        "start_price": 17.25,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 26.36,
-        "start_price": 16.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.43,
-        "start_price": 16.4,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.77,
-        "start_price": 16.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.86,
-        "start_price": 16.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 28.02,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.63,
-        "start_price": 17.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 27.77,
-        "start_price": 17.5,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.12,
-        "start_price": 18.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.79,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 30.43,
-        "start_price": 18.0,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.89,
-        "start_price": 17.8,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 32.23,
-        "start_price": 17.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.15,
-        "start_price": 17.2,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 33.06,
-        "start_price": 16.3,
-        "start_year": 2014
       },
       {
         "horizon": "10y",
@@ -17250,96 +11094,6 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe_ratio": 354.6,
         "forward_return": 29.95,
         "start_price": 23.05,
-        "start_year": 2015
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2015-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.02,
-        "start_price": 23.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2015-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 30.86,
-        "start_price": 20.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2015-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 34.62,
-        "start_price": 17.65,
-        "start_year": 2015
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2015-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 34.04,
-        "start_price": 16.0,
-        "start_year": 2015
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2015-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 36.13,
-        "start_price": 15.15,
-        "start_year": 2015
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2015-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 36.44,
-        "start_price": 14.25,
-        "start_year": 2015
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2015-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 36.54,
-        "start_price": 13.85,
-        "start_year": 2015
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2015-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 36.54,
-        "start_price": 14.5,
-        "start_year": 2015
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2015-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 37.49,
-        "start_price": 12.95,
-        "start_year": 2015
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2015-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 37.63,
-        "start_price": 13.25,
         "start_year": 2015
       }
     ]
@@ -17544,7 +11298,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 2.6倍、3.9倍、9.3倍、45.2倍、204.2倍"
+!!! note "本益比河流帶水位: 2.6倍、3.9倍、8.9倍、43.3倍、204.2倍"
 
 ```vegalite
 {
@@ -17553,23 +11307,13 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
   "data": {
     "values": [
       {
-        "date": "2006-01-16",
-        "price": 20.55,
-        "pe": 146.8,
-        "pe_10": 0.36,
-        "pe_25": 0.54,
-        "pe_50": 1.31,
-        "pe_75": 6.33,
-        "pe_90": 28.59
-      },
-      {
         "date": "2006-02-14",
         "price": 21.1,
         "pe": 150.7,
         "pe_10": 0.36,
         "pe_25": 0.54,
-        "pe_50": 1.31,
-        "pe_75": 6.33,
+        "pe_50": 1.25,
+        "pe_75": 6.06,
         "pe_90": 28.59
       },
       {
@@ -17578,8 +11322,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 145.0,
         "pe_10": 0.36,
         "pe_25": 0.54,
-        "pe_50": 1.31,
-        "pe_75": 6.33,
+        "pe_50": 1.25,
+        "pe_75": 6.06,
         "pe_90": 28.59
       },
       {
@@ -17588,8 +11332,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 158.9,
         "pe_10": 0.36,
         "pe_25": 0.54,
-        "pe_50": 1.31,
-        "pe_75": 6.33,
+        "pe_50": 1.25,
+        "pe_75": 6.06,
         "pe_90": 28.59
       },
       {
@@ -17598,8 +11342,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 157.1,
         "pe_10": 0.36,
         "pe_25": 0.54,
-        "pe_50": 1.31,
-        "pe_75": 6.34,
+        "pe_50": 1.25,
+        "pe_75": 6.07,
         "pe_90": 28.6
       },
       {
@@ -17608,8 +11352,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 161.4,
         "pe_10": 0.36,
         "pe_25": 0.54,
-        "pe_50": 1.31,
-        "pe_75": 6.33,
+        "pe_50": 1.25,
+        "pe_75": 6.06,
         "pe_90": 28.59
       },
       {
@@ -17618,8 +11362,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 158.6,
         "pe_10": 0.36,
         "pe_25": 0.54,
-        "pe_50": 1.31,
-        "pe_75": 6.33,
+        "pe_50": 1.25,
+        "pe_75": 6.06,
         "pe_90": 28.58
       },
       {
@@ -17628,8 +11372,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 130.4,
         "pe_10": 0.36,
         "pe_25": 0.54,
-        "pe_50": 1.31,
-        "pe_75": 6.33,
+        "pe_50": 1.25,
+        "pe_75": 6.06,
         "pe_90": 28.58
       },
       {
@@ -17638,8 +11382,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 134.6,
         "pe_10": 0.36,
         "pe_25": 0.54,
-        "pe_50": 1.31,
-        "pe_75": 6.34,
+        "pe_50": 1.25,
+        "pe_75": 6.07,
         "pe_90": 28.6
       },
       {
@@ -17648,8 +11392,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 136.4,
         "pe_10": 0.36,
         "pe_25": 0.54,
-        "pe_50": 1.31,
-        "pe_75": 6.33,
+        "pe_50": 1.25,
+        "pe_75": 6.06,
         "pe_90": 28.59
       },
       {
@@ -17658,8 +11402,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 136.4,
         "pe_10": 0.36,
         "pe_25": 0.54,
-        "pe_50": 1.31,
-        "pe_75": 6.33,
+        "pe_50": 1.25,
+        "pe_75": 6.06,
         "pe_90": 28.59
       },
       {
@@ -17668,8 +11412,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 134.6,
         "pe_10": 0.36,
         "pe_25": 0.54,
-        "pe_50": 1.31,
-        "pe_75": 6.34,
+        "pe_50": 1.25,
+        "pe_75": 6.07,
         "pe_90": 28.6
       },
       {
@@ -17678,8 +11422,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 43.31,
         "pe_10": 1.08,
         "pe_25": 1.63,
-        "pe_50": 3.95,
-        "pe_75": 19.12,
+        "pe_50": 3.77,
+        "pe_75": 18.3,
         "pe_90": 86.28
       },
       {
@@ -17688,8 +11432,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 30.5,
         "pe_10": 1.8,
         "pe_25": 2.71,
-        "pe_50": 6.58,
-        "pe_75": 31.89,
+        "pe_50": 6.29,
+        "pe_75": 30.53,
         "pe_90": 143.94
       },
       {
@@ -17698,8 +11442,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 21.37,
         "pe_10": 2.52,
         "pe_25": 3.8,
-        "pe_50": 9.22,
-        "pe_75": 44.67,
+        "pe_50": 8.81,
+        "pe_75": 42.76,
         "pe_90": 201.62
       },
       {
@@ -17708,8 +11452,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 16.1,
         "pe_10": 3.25,
         "pe_25": 4.89,
-        "pe_50": 11.86,
-        "pe_75": 57.46,
+        "pe_50": 11.33,
+        "pe_75": 55.01,
         "pe_90": 259.37
       },
       {
@@ -17718,8 +11462,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 13.3,
         "pe_10": 3.97,
         "pe_25": 5.98,
-        "pe_50": 14.5,
-        "pe_75": 70.24,
+        "pe_50": 13.85,
+        "pe_75": 67.24,
         "pe_90": 317.05
       },
       {
@@ -17728,8 +11472,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 11.85,
         "pe_10": 4.69,
         "pe_25": 7.07,
-        "pe_50": 17.14,
-        "pe_75": 83.04,
+        "pe_50": 16.37,
+        "pe_75": 79.49,
         "pe_90": 374.8
       },
       {
@@ -17738,8 +11482,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 10.55,
         "pe_10": 5.41,
         "pe_25": 8.16,
-        "pe_50": 19.79,
-        "pe_75": 95.84,
+        "pe_50": 18.9,
+        "pe_75": 91.75,
         "pe_90": 432.59
       },
       {
@@ -17748,8 +11492,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 8.92,
         "pe_10": 6.13,
         "pe_25": 9.24,
-        "pe_50": 22.41,
-        "pe_75": 108.54,
+        "pe_50": 21.4,
+        "pe_75": 103.91,
         "pe_90": 489.9
       },
       {
@@ -17758,8 +11502,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 10.29,
         "pe_10": 6.86,
         "pe_25": 10.33,
-        "pe_50": 25.05,
-        "pe_75": 121.34,
+        "pe_50": 23.93,
+        "pe_75": 116.17,
         "pe_90": 547.71
       },
       {
@@ -17768,8 +11512,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 10.69,
         "pe_10": 7.58,
         "pe_25": 11.42,
-        "pe_50": 27.7,
-        "pe_75": 134.15,
+        "pe_50": 26.45,
+        "pe_75": 128.43,
         "pe_90": 605.53
       },
       {
@@ -17778,8 +11522,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 8.53,
         "pe_10": 8.3,
         "pe_25": 12.5,
-        "pe_50": 30.33,
-        "pe_75": 146.91,
+        "pe_50": 28.97,
+        "pe_75": 140.64,
         "pe_90": 663.11
       },
       {
@@ -17788,8 +11532,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 8.39,
         "pe_10": 9.02,
         "pe_25": 13.58,
-        "pe_50": 32.95,
-        "pe_75": 159.61,
+        "pe_50": 31.47,
+        "pe_75": 152.8,
         "pe_90": 720.42
       },
       {
@@ -17798,8 +11542,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 7.32,
         "pe_10": 8.31,
         "pe_25": 12.52,
-        "pe_50": 30.37,
-        "pe_75": 147.09,
+        "pe_50": 29.0,
+        "pe_75": 140.82,
         "pe_90": 663.93
       },
       {
@@ -17808,8 +11552,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 8.73,
         "pe_10": 7.61,
         "pe_25": 11.47,
-        "pe_50": 27.82,
-        "pe_75": 134.74,
+        "pe_50": 26.57,
+        "pe_75": 128.99,
         "pe_90": 608.16
       },
       {
@@ -17818,8 +11562,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 11.11,
         "pe_10": 6.9,
         "pe_25": 10.4,
-        "pe_50": 25.22,
-        "pe_75": 122.16,
+        "pe_50": 24.09,
+        "pe_75": 116.95,
         "pe_90": 551.4
       },
       {
@@ -17828,8 +11572,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 11.99,
         "pe_10": 6.19,
         "pe_25": 9.33,
-        "pe_50": 22.63,
-        "pe_75": 109.61,
+        "pe_50": 21.61,
+        "pe_75": 104.93,
         "pe_90": 494.75
       },
       {
@@ -17838,8 +11582,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 12.46,
         "pe_10": 5.49,
         "pe_25": 8.27,
-        "pe_50": 20.05,
-        "pe_75": 97.12,
+        "pe_50": 19.15,
+        "pe_75": 92.98,
         "pe_90": 438.39
       },
       {
@@ -17848,8 +11592,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 12.89,
         "pe_10": 4.78,
         "pe_25": 7.2,
-        "pe_50": 17.46,
-        "pe_75": 84.58,
+        "pe_50": 16.68,
+        "pe_75": 80.98,
         "pe_90": 381.79
       },
       {
@@ -17858,8 +11602,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 12.55,
         "pe_10": 4.07,
         "pe_25": 6.14,
-        "pe_50": 14.88,
-        "pe_75": 72.1,
+        "pe_50": 14.22,
+        "pe_75": 69.02,
         "pe_90": 325.42
       },
       {
@@ -17868,8 +11612,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 13.67,
         "pe_10": 3.37,
         "pe_25": 5.07,
-        "pe_50": 12.3,
-        "pe_75": 59.57,
+        "pe_50": 11.75,
+        "pe_75": 57.03,
         "pe_90": 268.88
       },
       {
@@ -17878,8 +11622,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 13.75,
         "pe_10": 2.66,
         "pe_25": 4.0,
-        "pe_50": 9.71,
-        "pe_75": 47.05,
+        "pe_50": 9.28,
+        "pe_75": 45.04,
         "pe_90": 212.37
       },
       {
@@ -17888,8 +11632,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 22.21,
         "pe_10": 1.95,
         "pe_25": 2.94,
-        "pe_50": 7.13,
-        "pe_75": 34.53,
+        "pe_50": 6.81,
+        "pe_75": 33.05,
         "pe_90": 155.84
       },
       {
@@ -17898,8 +11642,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 33.49,
         "pe_10": 1.24,
         "pe_25": 1.87,
-        "pe_50": 4.55,
-        "pe_75": 22.02,
+        "pe_50": 4.34,
+        "pe_75": 21.08,
         "pe_90": 99.39
       },
       {
@@ -17908,8 +11652,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 73.57,
         "pe_10": 0.54,
         "pe_25": 0.81,
-        "pe_50": 1.96,
-        "pe_75": 9.5,
+        "pe_50": 1.87,
+        "pe_75": 9.1,
         "pe_90": 42.88
       },
       {
@@ -17918,8 +11662,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 101.4,
         "pe_10": 0.46,
         "pe_25": 0.69,
-        "pe_50": 1.68,
-        "pe_75": 8.14,
+        "pe_50": 1.61,
+        "pe_75": 7.79,
         "pe_90": 36.75
       },
       {
@@ -17928,8 +11672,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 23.78,
         "pe_10": 2.2,
         "pe_25": 3.31,
-        "pe_50": 8.03,
-        "pe_75": 38.9,
+        "pe_50": 7.67,
+        "pe_75": 37.25,
         "pe_90": 175.61
       },
       {
@@ -17938,8 +11682,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 15.45,
         "pe_10": 3.94,
         "pe_25": 5.93,
-        "pe_50": 14.39,
-        "pe_75": 69.69,
+        "pe_50": 13.74,
+        "pe_75": 66.72,
         "pe_90": 314.56
       },
       {
@@ -17948,8 +11692,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 9.57,
         "pe_10": 5.68,
         "pe_25": 8.55,
-        "pe_50": 20.74,
-        "pe_75": 100.45,
+        "pe_50": 19.81,
+        "pe_75": 96.17,
         "pe_90": 453.42
       },
       {
@@ -17958,8 +11702,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 7.62,
         "pe_10": 7.41,
         "pe_25": 11.17,
-        "pe_50": 27.09,
-        "pe_75": 131.21,
+        "pe_50": 25.87,
+        "pe_75": 125.61,
         "pe_90": 592.23
       },
       {
@@ -17968,8 +11712,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 7.12,
         "pe_10": 9.15,
         "pe_25": 13.79,
-        "pe_50": 33.45,
-        "pe_75": 162.03,
+        "pe_50": 31.95,
+        "pe_75": 155.11,
         "pe_90": 731.33
       },
       {
@@ -17978,8 +11722,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 6.02,
         "pe_10": 10.89,
         "pe_25": 16.4,
-        "pe_50": 39.8,
-        "pe_75": 192.76,
+        "pe_50": 38.01,
+        "pe_75": 184.54,
         "pe_90": 870.05
       },
       {
@@ -17988,8 +11732,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 6.13,
         "pe_10": 12.63,
         "pe_25": 19.03,
-        "pe_50": 46.17,
-        "pe_75": 223.62,
+        "pe_50": 44.09,
+        "pe_75": 214.08,
         "pe_90": 1009.34
       },
       {
@@ -17998,8 +11742,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 6.85,
         "pe_10": 11.38,
         "pe_25": 17.14,
-        "pe_50": 41.59,
-        "pe_75": 201.43,
+        "pe_50": 39.72,
+        "pe_75": 192.84,
         "pe_90": 909.21
       },
       {
@@ -18008,8 +11752,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 6.6,
         "pe_10": 10.15,
         "pe_25": 15.28,
-        "pe_50": 37.08,
-        "pe_75": 179.59,
+        "pe_50": 35.41,
+        "pe_75": 171.93,
         "pe_90": 810.61
       },
       {
@@ -18018,8 +11762,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 7.02,
         "pe_10": 8.9,
         "pe_25": 13.41,
-        "pe_50": 32.53,
-        "pe_75": 157.57,
+        "pe_50": 31.07,
+        "pe_75": 150.84,
         "pe_90": 711.21
       },
       {
@@ -18028,8 +11772,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 8.84,
         "pe_10": 7.66,
         "pe_25": 11.54,
-        "pe_50": 28.0,
-        "pe_75": 135.62,
+        "pe_50": 26.74,
+        "pe_75": 129.83,
         "pe_90": 612.14
       },
       {
@@ -18038,8 +11782,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 10.65,
         "pe_10": 6.42,
         "pe_25": 9.67,
-        "pe_50": 23.46,
-        "pe_75": 113.63,
+        "pe_50": 22.4,
+        "pe_75": 108.78,
         "pe_90": 512.9
       },
       {
@@ -18048,8 +11792,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 11.41,
         "pe_10": 5.17,
         "pe_25": 7.79,
-        "pe_50": 18.91,
-        "pe_75": 91.59,
+        "pe_50": 18.06,
+        "pe_75": 87.68,
         "pe_90": 413.41
       },
       {
@@ -18058,8 +11802,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 12.83,
         "pe_10": 3.93,
         "pe_25": 5.93,
-        "pe_50": 14.38,
-        "pe_75": 69.64,
+        "pe_50": 13.73,
+        "pe_75": 66.67,
         "pe_90": 314.34
       },
       {
@@ -18068,8 +11812,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 17.66,
         "pe_10": 2.69,
         "pe_25": 4.05,
-        "pe_50": 9.84,
-        "pe_75": 47.65,
+        "pe_50": 9.39,
+        "pe_75": 45.62,
         "pe_90": 215.07
       },
       {
@@ -18078,8 +11822,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 27.49,
         "pe_10": 1.45,
         "pe_25": 2.18,
-        "pe_50": 5.3,
-        "pe_75": 25.67,
+        "pe_50": 5.06,
+        "pe_75": 24.58,
         "pe_90": 115.88
       },
       {
@@ -18088,8 +11832,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 203.3,
         "pe_10": 0.21,
         "pe_25": 0.31,
-        "pe_50": 0.76,
-        "pe_75": 3.69,
+        "pe_50": 0.73,
+        "pe_75": 3.54,
         "pe_90": 16.67
       },
       {
@@ -18098,8 +11842,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 1140.0,
         "pe_10": 0.04,
         "pe_25": 0.06,
-        "pe_50": 0.14,
-        "pe_75": 0.68,
+        "pe_50": 0.13,
+        "pe_75": 0.65,
         "pe_90": 3.06
       },
       {
@@ -18108,8 +11852,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 178.4,
         "pe_10": 0.25,
         "pe_25": 0.37,
-        "pe_50": 0.91,
-        "pe_75": 4.4,
+        "pe_50": 0.87,
+        "pe_75": 4.21,
         "pe_90": 19.86
       },
       {
@@ -18118,8 +11862,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 347.8,
         "pe_10": 0.14,
         "pe_25": 0.21,
-        "pe_50": 0.5,
-        "pe_75": 2.41,
+        "pe_50": 0.48,
+        "pe_75": 2.31,
         "pe_90": 10.89
       },
       {
@@ -18128,8 +11872,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2018.0,
         "pe_10": 0.02,
         "pe_25": 0.04,
-        "pe_50": 0.09,
-        "pe_75": 0.42,
+        "pe_50": 0.08,
+        "pe_75": 0.41,
         "pe_90": 1.92
       },
       {
@@ -18139,7 +11883,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe_10": 0.03,
         "pe_25": 0.05,
         "pe_50": 0.12,
-        "pe_75": 0.6,
+        "pe_75": 0.58,
         "pe_90": 2.72
       },
       {
@@ -18148,8 +11892,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 238.0,
         "pe_10": 0.2,
         "pe_25": 0.3,
-        "pe_50": 0.72,
-        "pe_75": 3.47,
+        "pe_50": 0.68,
+        "pe_75": 3.32,
         "pe_90": 15.66
       },
       {
@@ -18158,8 +11902,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 127.5,
         "pe_10": 0.36,
         "pe_25": 0.54,
-        "pe_50": 1.31,
-        "pe_75": 6.33,
+        "pe_50": 1.25,
+        "pe_75": 6.06,
         "pe_90": 28.59
       },
       {
@@ -18168,8 +11912,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 88.28,
         "pe_10": 0.52,
         "pe_25": 0.78,
-        "pe_50": 1.9,
-        "pe_75": 9.2,
+        "pe_50": 1.81,
+        "pe_75": 8.81,
         "pe_90": 41.52
       },
       {
@@ -18178,8 +11922,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 68.81,
         "pe_10": 0.68,
         "pe_25": 1.03,
-        "pe_50": 2.49,
-        "pe_75": 12.06,
+        "pe_50": 2.38,
+        "pe_75": 11.55,
         "pe_90": 54.46
       },
       {
@@ -18188,8 +11932,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 67.88,
         "pe_10": 0.84,
         "pe_25": 1.27,
-        "pe_50": 3.08,
-        "pe_75": 14.93,
+        "pe_50": 2.94,
+        "pe_75": 14.29,
         "pe_90": 67.38
       },
       {
@@ -18198,8 +11942,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 113.4,
         "pe_10": 0.5,
         "pe_25": 0.76,
-        "pe_50": 1.84,
-        "pe_75": 8.94,
+        "pe_50": 1.76,
+        "pe_75": 8.56,
         "pe_90": 40.34
       },
       {
@@ -18208,8 +11952,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 354.6,
         "pe_10": 0.17,
         "pe_25": 0.25,
-        "pe_50": 0.61,
-        "pe_75": 2.94,
+        "pe_50": 0.58,
+        "pe_75": 2.82,
         "pe_90": 13.27
       },
       {
@@ -18218,8 +11962,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 343.3,
         "pe_10": 0.12,
         "pe_25": 0.17,
-        "pe_50": 0.42,
-        "pe_75": 2.04,
+        "pe_50": 0.4,
+        "pe_75": 1.95,
         "pe_90": 9.19
       },
       {
@@ -18228,8 +11972,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 45.24,
         "pe_10": 0.94,
         "pe_25": 1.41,
-        "pe_50": 3.42,
-        "pe_75": 16.55,
+        "pe_50": 3.26,
+        "pe_75": 15.84,
         "pe_90": 74.7
       },
       {
@@ -18238,8 +11982,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 33.5,
         "pe_10": 1.75,
         "pe_25": 2.64,
-        "pe_50": 6.41,
-        "pe_75": 31.06,
+        "pe_50": 6.12,
+        "pe_75": 29.74,
         "pe_90": 140.2
       },
       {
@@ -18248,8 +11992,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 18.11,
         "pe_10": 2.58,
         "pe_25": 3.88,
-        "pe_50": 9.41,
-        "pe_75": 45.59,
+        "pe_50": 8.99,
+        "pe_75": 43.64,
         "pe_90": 205.78
       },
       {
@@ -18258,8 +12002,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 13.59,
         "pe_10": 3.39,
         "pe_25": 5.11,
-        "pe_50": 12.41,
-        "pe_75": 60.09,
+        "pe_50": 11.85,
+        "pe_75": 57.52,
         "pe_90": 271.21
       },
       {
@@ -18268,8 +12012,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 10.22,
         "pe_10": 4.21,
         "pe_25": 6.35,
-        "pe_50": 15.4,
-        "pe_75": 74.59,
+        "pe_50": 14.71,
+        "pe_75": 71.41,
         "pe_90": 336.67
       },
       {
@@ -18278,8 +12022,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 8.3,
         "pe_10": 5.04,
         "pe_25": 7.58,
-        "pe_50": 18.4,
-        "pe_75": 89.12,
+        "pe_50": 17.57,
+        "pe_75": 85.32,
         "pe_90": 402.25
       },
       {
@@ -18288,8 +12032,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 9.52,
         "pe_10": 4.63,
         "pe_25": 6.98,
-        "pe_50": 16.92,
-        "pe_75": 81.97,
+        "pe_50": 16.16,
+        "pe_75": 78.48,
         "pe_90": 370.01
       },
       {
@@ -18298,8 +12042,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 9.34,
         "pe_10": 4.23,
         "pe_25": 6.37,
-        "pe_50": 15.45,
-        "pe_75": 74.83,
+        "pe_50": 14.76,
+        "pe_75": 71.64,
         "pe_90": 337.78
       },
       {
@@ -18308,8 +12052,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 10.13,
         "pe_10": 3.82,
         "pe_25": 5.76,
-        "pe_50": 13.97,
-        "pe_75": 67.66,
+        "pe_50": 13.34,
+        "pe_75": 64.77,
         "pe_90": 305.39
       },
       {
@@ -18318,8 +12062,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 11.3,
         "pe_10": 3.42,
         "pe_25": 5.14,
-        "pe_50": 12.48,
-        "pe_75": 60.45,
+        "pe_50": 11.92,
+        "pe_75": 57.87,
         "pe_90": 272.87
       },
       {
@@ -18328,8 +12072,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 12.6,
         "pe_10": 3.01,
         "pe_25": 4.54,
-        "pe_50": 11.01,
-        "pe_75": 53.32,
+        "pe_50": 10.51,
+        "pe_75": 51.04,
         "pe_90": 240.66
       },
       {
@@ -18338,8 +12082,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 12.75,
         "pe_10": 2.61,
         "pe_25": 3.93,
-        "pe_50": 9.52,
-        "pe_75": 46.13,
+        "pe_50": 9.09,
+        "pe_75": 44.16,
         "pe_90": 208.2
       },
       {
@@ -18348,8 +12092,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 16.07,
         "pe_10": 2.2,
         "pe_25": 3.32,
-        "pe_50": 8.05,
-        "pe_75": 38.99,
+        "pe_50": 7.69,
+        "pe_75": 37.33,
         "pe_90": 175.99
       },
       {
@@ -18358,8 +12102,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 18.55,
         "pe_10": 1.8,
         "pe_25": 2.71,
-        "pe_50": 6.57,
-        "pe_75": 31.83,
+        "pe_50": 6.28,
+        "pe_75": 30.47,
         "pe_90": 143.66
       },
       {
@@ -18368,8 +12112,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 23.49,
         "pe_10": 1.39,
         "pe_25": 2.1,
-        "pe_50": 5.09,
-        "pe_75": 24.65,
+        "pe_50": 4.86,
+        "pe_75": 23.6,
         "pe_90": 111.27
       },
       {
@@ -18378,8 +12122,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 29.48,
         "pe_10": 0.99,
         "pe_25": 1.49,
-        "pe_50": 3.61,
-        "pe_75": 17.49,
+        "pe_50": 3.45,
+        "pe_75": 16.75,
         "pe_90": 78.96
       },
       {
@@ -18388,8 +12132,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 51.02,
         "pe_10": 0.58,
         "pe_25": 0.88,
-        "pe_50": 2.13,
-        "pe_75": 10.33,
+        "pe_50": 2.04,
+        "pe_75": 9.89,
         "pe_90": 46.63
       },
       {
@@ -18398,8 +12142,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 170.0,
         "pe_10": 0.18,
         "pe_25": 0.27,
-        "pe_50": 0.65,
-        "pe_75": 3.17,
+        "pe_50": 0.62,
+        "pe_75": 3.03,
         "pe_90": 14.29
       },
       {
@@ -18408,8 +12152,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 181.5,
         "pe_10": 0.17,
         "pe_25": 0.25,
-        "pe_50": 0.61,
-        "pe_75": 2.98,
+        "pe_50": 0.59,
+        "pe_75": 2.85,
         "pe_90": 13.44
       },
       {
@@ -18418,8 +12162,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 201.9,
         "pe_10": 0.16,
         "pe_25": 0.24,
-        "pe_50": 0.58,
-        "pe_75": 2.79,
+        "pe_50": 0.55,
+        "pe_75": 2.67,
         "pe_90": 12.59
       },
       {
@@ -18428,8 +12172,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 207.8,
         "pe_10": 0.15,
         "pe_25": 0.22,
-        "pe_50": 0.54,
-        "pe_75": 2.6,
+        "pe_50": 0.51,
+        "pe_75": 2.49,
         "pe_90": 11.74
       },
       {
@@ -18438,8 +12182,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 254.1,
         "pe_10": 0.14,
         "pe_25": 0.21,
-        "pe_50": 0.5,
-        "pe_75": 2.41,
+        "pe_50": 0.48,
+        "pe_75": 2.31,
         "pe_90": 10.89
       },
       {
@@ -18448,8 +12192,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 246.1,
         "pe_10": 0.13,
         "pe_25": 0.19,
-        "pe_50": 0.46,
-        "pe_75": 2.22,
+        "pe_50": 0.44,
+        "pe_75": 2.13,
         "pe_90": 10.04
       },
       {
@@ -18458,8 +12202,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 276.7,
         "pe_10": 0.12,
         "pe_25": 0.17,
-        "pe_50": 0.42,
-        "pe_75": 2.04,
+        "pe_50": 0.4,
+        "pe_75": 1.95,
         "pe_90": 9.19
       },
       {
@@ -18468,8 +12212,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 352.6,
         "pe_10": 0.1,
         "pe_25": 0.16,
-        "pe_50": 0.38,
-        "pe_75": 1.85,
+        "pe_50": 0.36,
+        "pe_75": 1.77,
         "pe_90": 8.34
       },
       {
@@ -18478,8 +12222,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 350.4,
         "pe_10": 0.09,
         "pe_25": 0.14,
-        "pe_50": 0.34,
-        "pe_75": 1.66,
+        "pe_50": 0.33,
+        "pe_75": 1.59,
         "pe_90": 7.49
       },
       {
@@ -18488,8 +12232,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 400.0,
         "pe_10": 0.08,
         "pe_25": 0.13,
-        "pe_50": 0.3,
-        "pe_75": 1.47,
+        "pe_50": 0.29,
+        "pe_75": 1.41,
         "pe_90": 6.64
       },
       {
@@ -18498,8 +12242,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 441.2,
         "pe_10": 0.07,
         "pe_25": 0.11,
-        "pe_50": 0.26,
-        "pe_75": 1.28,
+        "pe_50": 0.25,
+        "pe_75": 1.23,
         "pe_90": 5.79
       },
       {
@@ -18508,8 +12252,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 513.1,
         "pe_10": 0.06,
         "pe_25": 0.09,
-        "pe_50": 0.23,
-        "pe_75": 1.09,
+        "pe_50": 0.22,
+        "pe_75": 1.05,
         "pe_90": 4.93
       },
       {
@@ -18518,8 +12262,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 620.0,
         "pe_10": 0.05,
         "pe_25": 0.08,
-        "pe_50": 0.19,
-        "pe_75": 0.9,
+        "pe_50": 0.18,
+        "pe_75": 0.87,
         "pe_90": 4.08
       },
       {
@@ -18528,8 +12272,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 26.7,
         "pe_10": 1.12,
         "pe_25": 1.69,
-        "pe_50": 4.11,
-        "pe_75": 19.91,
+        "pe_50": 3.93,
+        "pe_75": 19.06,
         "pe_90": 89.86
       },
       {
@@ -18538,8 +12282,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 13.43,
         "pe_10": 2.2,
         "pe_25": 3.31,
-        "pe_50": 8.03,
-        "pe_75": 38.91,
+        "pe_50": 7.67,
+        "pe_75": 37.25,
         "pe_90": 175.62
       },
       {
@@ -18548,8 +12292,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 7.23,
         "pe_10": 3.27,
         "pe_25": 4.93,
-        "pe_50": 11.95,
-        "pe_75": 57.88,
+        "pe_50": 11.41,
+        "pe_75": 55.41,
         "pe_90": 261.25
       },
       {
@@ -18558,8 +12302,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 6.53,
         "pe_10": 4.34,
         "pe_25": 6.54,
-        "pe_50": 15.88,
-        "pe_75": 76.9,
+        "pe_50": 15.16,
+        "pe_75": 73.62,
         "pe_90": 347.11
       },
       {
@@ -18568,8 +12312,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 5.14,
         "pe_10": 5.42,
         "pe_25": 8.16,
-        "pe_50": 19.81,
-        "pe_75": 95.94,
+        "pe_50": 18.92,
+        "pe_75": 91.84,
         "pe_90": 433.03
       },
       {
@@ -18578,8 +12322,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 4.23,
         "pe_10": 6.5,
         "pe_25": 9.78,
-        "pe_50": 23.74,
-        "pe_75": 114.97,
+        "pe_50": 22.67,
+        "pe_75": 110.07,
         "pe_90": 518.95
       },
       {
@@ -18588,8 +12332,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.72,
         "pe_10": 7.56,
         "pe_25": 11.38,
-        "pe_50": 27.62,
-        "pe_75": 133.77,
+        "pe_50": 26.38,
+        "pe_75": 128.07,
         "pe_90": 603.82
       },
       {
@@ -18598,8 +12342,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 5.15,
         "pe_10": 8.64,
         "pe_25": 13.01,
-        "pe_50": 31.56,
-        "pe_75": 152.85,
+        "pe_50": 30.14,
+        "pe_75": 146.33,
         "pe_90": 689.92
       },
       {
@@ -18608,8 +12352,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 4.17,
         "pe_10": 9.72,
         "pe_25": 14.63,
-        "pe_50": 35.5,
-        "pe_75": 171.96,
+        "pe_50": 33.9,
+        "pe_75": 164.62,
         "pe_90": 776.16
       },
       {
@@ -18618,8 +12362,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 4.48,
         "pe_10": 10.78,
         "pe_25": 16.24,
-        "pe_50": 39.4,
-        "pe_75": 190.86,
+        "pe_50": 37.63,
+        "pe_75": 182.71,
         "pe_90": 861.47
       },
       {
@@ -18628,8 +12372,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 5.32,
         "pe_10": 11.87,
         "pe_25": 17.88,
-        "pe_50": 43.36,
-        "pe_75": 210.04,
+        "pe_50": 41.41,
+        "pe_75": 201.08,
         "pe_90": 948.07
       },
       {
@@ -18638,8 +12382,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 8.04,
         "pe_10": 12.94,
         "pe_25": 19.49,
-        "pe_50": 47.28,
-        "pe_75": 229.01,
+        "pe_50": 45.15,
+        "pe_75": 219.24,
         "pe_90": 1033.7
       },
       {
@@ -18648,8 +12392,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.7,
         "pe_10": 21.55,
         "pe_25": 32.46,
-        "pe_50": 78.76,
-        "pe_75": 381.48,
+        "pe_50": 75.22,
+        "pe_75": 365.21,
         "pe_90": 1721.9
       },
       {
@@ -18658,8 +12402,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.21,
         "pe_10": 30.22,
         "pe_25": 45.52,
-        "pe_50": 110.42,
-        "pe_75": 534.85,
+        "pe_50": 105.46,
+        "pe_75": 512.03,
         "pe_90": 2414.14
       },
       {
@@ -18668,8 +12412,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.0,
         "pe_10": 38.77,
         "pe_25": 58.39,
-        "pe_50": 141.66,
-        "pe_75": 686.14,
+        "pe_50": 135.29,
+        "pe_75": 656.87,
         "pe_90": 3097.03
       },
       {
@@ -18678,8 +12422,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 4.26,
         "pe_10": 47.4,
         "pe_25": 71.4,
-        "pe_50": 173.21,
-        "pe_75": 838.96,
+        "pe_50": 165.42,
+        "pe_75": 803.17,
         "pe_90": 3786.81
       },
       {
@@ -18688,8 +12432,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 4.49,
         "pe_10": 56.13,
         "pe_25": 84.55,
-        "pe_50": 205.11,
-        "pe_75": 993.47,
+        "pe_50": 195.88,
+        "pe_75": 951.08,
         "pe_90": 4484.21
       },
       {
@@ -18698,8 +12442,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 7.78,
         "pe_10": 64.72,
         "pe_25": 97.49,
-        "pe_50": 236.5,
-        "pe_75": 1145.54,
+        "pe_50": 225.87,
+        "pe_75": 1096.67,
         "pe_90": 5170.62
       },
       {
@@ -18708,8 +12452,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 4.6,
         "pe_10": 73.35,
         "pe_25": 110.48,
-        "pe_50": 268.02,
-        "pe_75": 1298.19,
+        "pe_50": 255.97,
+        "pe_75": 1242.81,
         "pe_90": 5859.65
       },
       {
@@ -18718,8 +12462,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 4.24,
         "pe_10": 81.98,
         "pe_25": 123.49,
-        "pe_50": 299.58,
-        "pe_75": 1451.09,
+        "pe_50": 286.11,
+        "pe_75": 1389.19,
         "pe_90": 6549.81
       },
       {
@@ -18728,8 +12472,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.56,
         "pe_10": 90.47,
         "pe_25": 136.26,
-        "pe_50": 330.57,
-        "pe_75": 1601.19,
+        "pe_50": 315.71,
+        "pe_75": 1532.88,
         "pe_90": 7227.3
       },
       {
@@ -18738,8 +12482,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2.56,
         "pe_10": 99.34,
         "pe_25": 149.64,
-        "pe_50": 363.02,
-        "pe_75": 1758.35,
+        "pe_50": 346.7,
+        "pe_75": 1683.34,
         "pe_90": 7936.68
       },
       {
@@ -18748,8 +12492,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2.95,
         "pe_10": 107.87,
         "pe_25": 162.48,
-        "pe_50": 394.18,
-        "pe_75": 1909.28,
+        "pe_50": 376.45,
+        "pe_75": 1827.83,
         "pe_90": 8617.93
       },
       {
@@ -18758,8 +12502,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.13,
         "pe_10": 116.37,
         "pe_25": 175.28,
-        "pe_50": 425.22,
-        "pe_75": 2059.65,
+        "pe_50": 406.1,
+        "pe_75": 1971.78,
         "pe_90": 9296.65
       },
       {
@@ -18768,8 +12512,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2.3,
         "pe_10": 125.58,
         "pe_25": 189.15,
-        "pe_50": 458.88,
-        "pe_75": 2222.66,
+        "pe_50": 438.24,
+        "pe_75": 2127.84,
         "pe_90": 10032.43
       },
       {
@@ -18778,8 +12522,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2.73,
         "pe_10": 134.35,
         "pe_25": 202.37,
-        "pe_50": 490.95,
-        "pe_75": 2378.0,
+        "pe_50": 468.87,
+        "pe_75": 2276.55,
         "pe_90": 10733.59
       },
       {
@@ -18788,8 +12532,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2.41,
         "pe_10": 143.18,
         "pe_25": 215.66,
-        "pe_50": 523.2,
-        "pe_75": 2534.19,
+        "pe_50": 499.67,
+        "pe_75": 2426.08,
         "pe_90": 11438.59
       },
       {
@@ -18798,8 +12542,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2.44,
         "pe_10": 151.89,
         "pe_25": 228.79,
-        "pe_50": 555.04,
-        "pe_75": 2688.44,
+        "pe_50": 530.08,
+        "pe_75": 2573.75,
         "pe_90": 12134.84
       },
       {
@@ -18808,8 +12552,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2.24,
         "pe_10": 160.32,
         "pe_25": 241.48,
-        "pe_50": 585.83,
-        "pe_75": 2837.6,
+        "pe_50": 559.49,
+        "pe_75": 2716.54,
         "pe_90": 12808.08
       },
       {
@@ -18818,8 +12562,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 1.28,
         "pe_10": 168.94,
         "pe_25": 254.46,
-        "pe_50": 617.32,
-        "pe_75": 2990.08,
+        "pe_50": 589.56,
+        "pe_75": 2862.52,
         "pe_90": 13496.34
       },
       {
@@ -18828,8 +12572,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 1.37,
         "pe_10": 178.17,
         "pe_25": 268.38,
-        "pe_50": 651.07,
-        "pe_75": 3153.59,
+        "pe_50": 621.8,
+        "pe_75": 3019.05,
         "pe_90": 14234.38
       },
       {
@@ -18838,8 +12582,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 1.21,
         "pe_10": 186.52,
         "pe_25": 280.95,
-        "pe_50": 681.59,
-        "pe_75": 3301.4,
+        "pe_50": 650.94,
+        "pe_75": 3160.56,
         "pe_90": 14901.54
       },
       {
@@ -18848,8 +12592,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 1.9,
         "pe_10": 196.41,
         "pe_25": 295.84,
-        "pe_50": 717.71,
-        "pe_75": 3476.34,
+        "pe_50": 685.43,
+        "pe_75": 3328.03,
         "pe_90": 15691.16
       },
       {
@@ -18858,8 +12602,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 1.72,
         "pe_10": 204.33,
         "pe_25": 307.78,
-        "pe_50": 746.66,
-        "pe_75": 3616.57,
+        "pe_50": 713.08,
+        "pe_75": 3462.28,
         "pe_90": 16324.13
       },
       {
@@ -18868,8 +12612,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 1.95,
         "pe_10": 213.66,
         "pe_25": 321.82,
-        "pe_50": 780.73,
-        "pe_75": 3781.6,
+        "pe_50": 745.62,
+        "pe_75": 3620.27,
         "pe_90": 17069.03
       },
       {
@@ -18878,8 +12622,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 1.87,
         "pe_10": 222.8,
         "pe_25": 335.59,
-        "pe_50": 814.13,
-        "pe_75": 3943.38,
+        "pe_50": 777.52,
+        "pe_75": 3775.15,
         "pe_90": 17799.25
       },
       {
@@ -18888,8 +12632,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 1.87,
         "pe_10": 207.76,
         "pe_25": 312.94,
-        "pe_50": 759.19,
-        "pe_75": 3677.26,
+        "pe_50": 725.05,
+        "pe_75": 3520.39,
         "pe_90": 16598.07
       },
       {
@@ -18898,8 +12642,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2.08,
         "pe_10": 192.93,
         "pe_25": 290.6,
-        "pe_50": 704.99,
-        "pe_75": 3414.75,
+        "pe_50": 673.29,
+        "pe_75": 3269.07,
         "pe_90": 15413.17
       },
       {
@@ -18908,8 +12652,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2.28,
         "pe_10": 177.69,
         "pe_25": 267.64,
-        "pe_50": 649.29,
-        "pe_75": 3144.97,
+        "pe_50": 620.1,
+        "pe_75": 3010.8,
         "pe_90": 14195.48
       },
       {
@@ -18918,8 +12662,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2.54,
         "pe_10": 162.52,
         "pe_25": 244.79,
-        "pe_50": 593.86,
-        "pe_75": 2876.48,
+        "pe_50": 567.16,
+        "pe_75": 2753.77,
         "pe_90": 12983.58
       },
       {
@@ -18928,8 +12672,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2.65,
         "pe_10": 147.57,
         "pe_25": 222.28,
-        "pe_50": 539.25,
-        "pe_75": 2611.97,
+        "pe_50": 515.0,
+        "pe_75": 2500.54,
         "pe_90": 11789.66
       },
       {
@@ -18938,8 +12682,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 1.8,
         "pe_10": 132.77,
         "pe_25": 199.99,
-        "pe_50": 485.16,
-        "pe_75": 2349.97,
+        "pe_50": 463.34,
+        "pe_75": 2249.71,
         "pe_90": 10607.06
       },
       {
@@ -18948,8 +12692,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2.26,
         "pe_10": 117.62,
         "pe_25": 177.17,
-        "pe_50": 429.81,
-        "pe_75": 2081.84,
+        "pe_50": 410.48,
+        "pe_75": 1993.03,
         "pe_90": 9396.81
       },
       {
@@ -18958,8 +12702,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 2.65,
         "pe_10": 102.72,
         "pe_25": 154.73,
-        "pe_50": 375.36,
-        "pe_75": 1818.14,
+        "pe_50": 358.48,
+        "pe_75": 1740.57,
         "pe_90": 8206.53
       },
       {
@@ -18968,8 +12712,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.38,
         "pe_10": 87.72,
         "pe_25": 132.13,
-        "pe_50": 320.54,
-        "pe_75": 1552.62,
+        "pe_50": 306.13,
+        "pe_75": 1486.38,
         "pe_90": 7008.05
       },
       {
@@ -18978,8 +12722,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.78,
         "pe_10": 72.69,
         "pe_25": 109.49,
-        "pe_50": 265.62,
-        "pe_75": 1286.59,
+        "pe_50": 253.68,
+        "pe_75": 1231.7,
         "pe_90": 5807.28
       },
       {
@@ -18988,8 +12732,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 4.96,
         "pe_10": 57.72,
         "pe_25": 86.94,
-        "pe_50": 210.9,
-        "pe_75": 1021.55,
+        "pe_50": 201.42,
+        "pe_75": 977.97,
         "pe_90": 4610.97
       },
       {
@@ -18998,8 +12742,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 8.59,
         "pe_10": 42.7,
         "pe_25": 64.32,
-        "pe_50": 156.03,
-        "pe_75": 755.76,
+        "pe_50": 149.01,
+        "pe_75": 723.51,
         "pe_90": 3411.26
       },
       {
@@ -19008,8 +12752,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 7.27,
         "pe_10": 52.91,
         "pe_25": 79.7,
-        "pe_50": 193.35,
-        "pe_75": 936.54,
+        "pe_50": 184.66,
+        "pe_75": 896.58,
         "pe_90": 4227.25
       },
       {
@@ -19018,8 +12762,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 6.69,
         "pe_10": 63.23,
         "pe_25": 95.24,
-        "pe_50": 231.06,
-        "pe_75": 1119.17,
+        "pe_50": 220.67,
+        "pe_75": 1071.42,
         "pe_90": 5051.58
       },
       {
@@ -19028,8 +12772,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 5.98,
         "pe_10": 73.52,
         "pe_25": 110.74,
-        "pe_50": 268.64,
-        "pe_75": 1301.22,
+        "pe_50": 256.56,
+        "pe_75": 1245.71,
         "pe_90": 5873.31
       },
       {
@@ -19038,8 +12782,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 5.79,
         "pe_10": 83.65,
         "pe_25": 126.01,
-        "pe_50": 305.69,
-        "pe_75": 1480.65,
+        "pe_50": 291.94,
+        "pe_75": 1417.49,
         "pe_90": 6683.23
       },
       {
@@ -19048,8 +12792,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 5.72,
         "pe_10": 94.06,
         "pe_25": 141.68,
-        "pe_50": 343.72,
-        "pe_75": 1664.86,
+        "pe_50": 328.26,
+        "pe_75": 1593.84,
         "pe_90": 7514.7
       },
       {
@@ -19058,8 +12802,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 4.73,
         "pe_10": 104.29,
         "pe_25": 157.09,
-        "pe_50": 381.1,
-        "pe_75": 1845.95,
+        "pe_50": 363.97,
+        "pe_75": 1767.19,
         "pe_90": 8332.05
       },
       {
@@ -19068,8 +12812,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.81,
         "pe_10": 114.38,
         "pe_25": 172.29,
-        "pe_50": 417.97,
-        "pe_75": 2024.52,
+        "pe_50": 399.18,
+        "pe_75": 1938.15,
         "pe_90": 9138.08
       },
       {
@@ -19078,8 +12822,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.85,
         "pe_10": 124.81,
         "pe_25": 188.0,
-        "pe_50": 456.08,
-        "pe_75": 2209.12,
+        "pe_50": 435.57,
+        "pe_75": 2114.88,
         "pe_90": 9971.32
       },
       {
@@ -19088,8 +12832,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.8,
         "pe_10": 135.2,
         "pe_25": 203.64,
-        "pe_50": 494.04,
-        "pe_75": 2392.96,
+        "pe_50": 471.82,
+        "pe_75": 2290.87,
         "pe_90": 10801.11
       },
       {
@@ -19098,8 +12842,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.62,
         "pe_10": 145.1,
         "pe_25": 218.56,
-        "pe_50": 530.21,
-        "pe_75": 2568.18,
+        "pe_50": 506.37,
+        "pe_75": 2458.62,
         "pe_90": 11592.02
       },
       {
@@ -19108,8 +12852,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.57,
         "pe_10": 155.36,
         "pe_25": 234.02,
-        "pe_50": 567.73,
-        "pe_75": 2749.88,
+        "pe_50": 542.2,
+        "pe_75": 2632.57,
         "pe_90": 12412.16
       },
       {
@@ -19118,8 +12862,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.47,
         "pe_10": 165.73,
         "pe_25": 249.64,
-        "pe_50": 605.62,
-        "pe_75": 2933.43,
+        "pe_50": 578.39,
+        "pe_75": 2808.29,
         "pe_90": 13240.63
       },
       {
@@ -19128,8 +12872,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.25,
         "pe_10": 160.83,
         "pe_25": 242.25,
-        "pe_50": 587.7,
-        "pe_75": 2846.64,
+        "pe_50": 561.27,
+        "pe_75": 2725.2,
         "pe_90": 12848.89
       },
       {
@@ -19138,8 +12882,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.54,
         "pe_10": 155.96,
         "pe_25": 234.92,
-        "pe_50": 569.9,
-        "pe_75": 2760.41,
+        "pe_50": 544.27,
+        "pe_75": 2642.64,
         "pe_90": 12459.66
       },
       {
@@ -19148,8 +12892,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.73,
         "pe_10": 151.1,
         "pe_25": 227.59,
-        "pe_50": 552.14,
-        "pe_75": 2674.38,
+        "pe_50": 527.31,
+        "pe_75": 2560.28,
         "pe_90": 12071.34
       },
       {
@@ -19158,8 +12902,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.61,
         "pe_10": 146.21,
         "pe_25": 220.23,
-        "pe_50": 534.27,
-        "pe_75": 2587.83,
+        "pe_50": 510.24,
+        "pe_75": 2477.43,
         "pe_90": 11680.69
       },
       {
@@ -19168,8 +12912,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 4.42,
         "pe_10": 141.39,
         "pe_25": 212.97,
-        "pe_50": 516.66,
-        "pe_75": 2502.53,
+        "pe_50": 493.43,
+        "pe_75": 2395.77,
         "pe_90": 11295.68
       },
       {
@@ -19178,8 +12922,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.73,
         "pe_10": 136.37,
         "pe_25": 205.4,
-        "pe_50": 498.3,
-        "pe_75": 2413.61,
+        "pe_50": 475.89,
+        "pe_75": 2310.64,
         "pe_90": 10894.32
       },
       {
@@ -19188,8 +12932,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.85,
         "pe_10": 131.45,
         "pe_25": 198.0,
-        "pe_50": 480.34,
-        "pe_75": 2326.63,
+        "pe_50": 458.74,
+        "pe_75": 2227.37,
         "pe_90": 10501.71
       },
       {
@@ -19198,8 +12942,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.74,
         "pe_10": 126.77,
         "pe_25": 190.96,
-        "pe_50": 463.25,
-        "pe_75": 2243.86,
+        "pe_50": 442.42,
+        "pe_75": 2148.13,
         "pe_90": 10128.1
       },
       {
@@ -19208,8 +12952,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 3.76,
         "pe_10": 121.68,
         "pe_25": 183.28,
-        "pe_50": 444.64,
-        "pe_75": 2153.71,
+        "pe_50": 424.65,
+        "pe_75": 2061.83,
         "pe_90": 9721.22
       },
       {
@@ -19218,8 +12962,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 4.23,
         "pe_10": 116.92,
         "pe_25": 176.12,
-        "pe_50": 427.26,
-        "pe_75": 2069.49,
+        "pe_50": 408.04,
+        "pe_75": 1981.2,
         "pe_90": 9341.06
       },
       {
@@ -19228,8 +12972,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 4.1,
         "pe_10": 111.9,
         "pe_25": 168.55,
-        "pe_50": 408.91,
-        "pe_75": 1980.63,
+        "pe_50": 390.52,
+        "pe_75": 1896.13,
         "pe_90": 8939.98
       },
       {
@@ -19238,9 +12982,19 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "pe": 4.53,
         "pe_10": 107.21,
         "pe_25": 161.48,
-        "pe_50": 391.74,
-        "pe_75": 1897.48,
+        "pe_50": 374.13,
+        "pe_75": 1816.53,
         "pe_90": 8564.68
+      },
+      {
+        "date": "2026-01-16",
+        "price": 186.0,
+        "pe": 4.44,
+        "pe_10": 107.08,
+        "pe_25": 161.28,
+        "pe_50": 373.68,
+        "pe_75": 1814.34,
+        "pe_90": 8554.32
       }
     ]
   },
@@ -19379,7 +13133,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (9.3倍)",
+            "title": "PE 50% (8.9倍)",
             "format": ".1f"
           },
           {
@@ -20216,16 +13970,16 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 83.7 | +119.2% | 0.009 | 2021-02 (+4717.8%) | 2021-06 (-81.7%) |
-| 6個月 | 85.2 | +67.2% | 0.013 | 2021-01 (+1807.4%) | 2015-02 (-61.4%) |
-| 1年 | 88.3 | +47.8% | 0.007 | 2020-06 (+1736.2%) | 2021-06 (-55.8%) |
-| 2年 | 95.2 | +28.7% | 0.009 | 2019-06 (+297.4%) | 2014-12 (-29.3%) |
-| 3年 | 103.5 | +23.9% | 0.000 | 2020-03 (+168.7%) | 2013-12 (-14.9%) |
-| 4年 | 113.6 | +22.5% | 0.001 | 2020-03 (+130.8%) | 2015-03 (-14.8%) |
-| 5年 | 125.7 | +21.4% | 0.000 | 2020-03 (+103.3%) | 2015-03 (-16.3%) |
-| 6年 | 140.2 | +17.7% | 0.003 | 2019-05 (+74.8%) | 2010-12 (-14.1%) |
-| 8年 | 125.8 | +13.7% | 0.031 | 2016-12 (+52.6%) | 2011-01 (-9.9%) |
-| 10年 | 132.0 | +12.0% | 0.178 | 2015-12 (+37.6%) | 2010-07 (-6.4%) |
+| 3個月 | 82.9 | +119.0% | 0.009 | 2021-02 (+4717.8%) | 2021-06 (-81.7%) |
+| 6個月 | 84.3 | +67.0% | 0.012 | 2021-01 (+1807.4%) | 2015-02 (-61.4%) |
+| 1年 | 87.4 | +47.9% | 0.007 | 2020-06 (+1736.2%) | 2021-06 (-55.8%) |
+| 2年 | 94.3 | +28.7% | 0.009 | 2019-06 (+297.4%) | 2014-12 (-29.3%) |
+| 3年 | 102.4 | +24.1% | 0.000 | 2020-03 (+168.7%) | 2013-12 (-14.9%) |
+| 4年 | 112.4 | +22.6% | 0.001 | 2020-03 (+130.8%) | 2015-03 (-14.8%) |
+| 5年 | 124.4 | +21.7% | 0.000 | 2020-03 (+103.3%) | 2015-03 (-16.3%) |
+| 6年 | 139.0 | +18.1% | 0.003 | 2019-05 (+74.8%) | 2010-12 (-14.1%) |
+| 8年 | 123.9 | +14.0% | 0.025 | 2016-12 (+52.6%) | 2011-01 (-9.9%) |
+| 10年 | 131.8 | +12.4% | 0.179 | 2016-01 (+38.6%) | 2010-07 (-6.4%) |
 
 
 ## 🎯 使用說明
@@ -20244,4 +13998,4 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-25 20:37:05 CST*
+*數據更新時間: 2026-02-07 12:39:59 CST*

@@ -2,7 +2,7 @@
 title: "2303 聯電 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-01-25"
+date: "2026-02-07"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
     - **產業別**: 半導體業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-01-25 20:33:27 CST
+    - **報告生成時間**: 2026-02-07 12:36:19 CST
 
 ## 📈 互動式圖表
 
@@ -35,15 +35,6 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
   "title": "2303 聯電 - 本益比與未來報酬率分析",
   "data": {
     "values": [
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 10.03,
-        "forward_return": 38.5,
-        "start_price": 18.15,
-        "start_year": 2006
-      },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
@@ -286,168 +277,6 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -57.26,
         "start_price": 18.6,
         "start_year": 2008
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2008-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -69.19,
-        "start_price": 18.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2008-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -77.96,
-        "start_price": 16.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2008-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -83.01,
-        "start_price": 14.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2008-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -82.5,
-        "start_price": 13.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2008-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -72.51,
-        "start_price": 10.25,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2008-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -59.21,
-        "start_price": 9.15,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2008-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 160.92,
-        "start_price": 8.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2008-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 409.92,
-        "start_price": 7.43,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 479.2,
-        "start_price": 7.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 678.61,
-        "start_price": 7.84,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 124.85,
-        "start_price": 11.1,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 89.98,
-        "start_price": 12.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.16,
-        "start_price": 13.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 315.81,
-        "start_price": 11.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 53.18,
-        "start_price": 14.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 106.51,
-        "start_price": 13.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 42.4,
-        "start_price": 15.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.63,
-        "start_price": 16.2,
-        "start_year": 2009
       },
       {
         "horizon": "0.25y",
@@ -2169,13 +1998,13 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2025
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 10.03,
-        "forward_return": 2.9,
-        "start_price": 18.15,
-        "start_year": 2006
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-10-16",
+        "pe_ratio": 13.99,
+        "forward_return": 224.21,
+        "start_price": 46.4,
+        "start_year": 2025
       },
       {
         "horizon": "0.5y",
@@ -2419,168 +2248,6 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -71.6,
         "start_price": 18.6,
         "start_year": 2008
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2008-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -76.05,
-        "start_price": 18.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2008-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -74.11,
-        "start_price": 16.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2008-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -73.68,
-        "start_price": 14.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2008-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -26.77,
-        "start_price": 13.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2008-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.44,
-        "start_price": 10.25,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2008-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 83.14,
-        "start_price": 9.15,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2008-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 159.78,
-        "start_price": 8.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2008-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 218.32,
-        "start_price": 7.43,
-        "start_year": 2008
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 302.22,
-        "start_price": 7.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 197.62,
-        "start_price": 7.84,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 90.65,
-        "start_price": 11.1,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 70.49,
-        "start_price": 12.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 61.26,
-        "start_price": 13.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 144.05,
-        "start_price": 11.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.5,
-        "start_price": 14.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 46.51,
-        "start_price": 13.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.59,
-        "start_price": 15.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.41,
-        "start_price": 16.2,
-        "start_year": 2009
       },
       {
         "horizon": "0.5y",
@@ -4275,13 +3942,13 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2025
       },
       {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 10.03,
-        "forward_return": 16.04,
-        "start_price": 18.15,
-        "start_year": 2006
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-07-16",
+        "pe_ratio": 12.0,
+        "forward_return": 124.18,
+        "start_price": 41.55,
+        "start_year": 2025
       },
       {
         "horizon": "1y",
@@ -4525,168 +4192,6 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -29.32,
         "start_price": 18.6,
         "start_year": 2008
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2008-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -27.26,
-        "start_price": 18.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2008-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -27.03,
-        "start_price": 16.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2008-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.75,
-        "start_price": 14.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2008-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.5,
-        "start_price": 13.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2008-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 53.7,
-        "start_price": 10.25,
-        "start_year": 2008
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2008-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 77.12,
-        "start_price": 9.15,
-        "start_year": 2008
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2008-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 95.15,
-        "start_price": 8.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2008-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 131.63,
-        "start_price": 7.43,
-        "start_year": 2008
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 119.98,
-        "start_price": 7.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 97.16,
-        "start_price": 7.84,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 51.85,
-        "start_price": 11.1,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 29.05,
-        "start_price": 12.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.17,
-        "start_price": 13.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 30.48,
-        "start_price": 11.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.03,
-        "start_price": 14.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.0,
-        "start_price": 13.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.89,
-        "start_price": 15.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.1,
-        "start_price": 16.2,
-        "start_year": 2009
       },
       {
         "horizon": "1y",
@@ -6327,13 +5832,13 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2024
       },
       {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 10.03,
-        "forward_return": 0.85,
-        "start_price": 18.15,
-        "start_year": 2006
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2025-01-16",
+        "pe_ratio": 10.72,
+        "forward_return": 62.37,
+        "start_price": 40.2,
+        "start_year": 2025
       },
       {
         "horizon": "2y",
@@ -6577,168 +6082,6 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -5.11,
         "start_price": 18.6,
         "start_year": 2008
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2008-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.43,
-        "start_price": 18.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2008-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.16,
-        "start_price": 16.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2008-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.39,
-        "start_price": 14.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2008-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.75,
-        "start_price": 13.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2008-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 18.34,
-        "start_price": 10.25,
-        "start_year": 2008
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2008-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 28.27,
-        "start_price": 9.15,
-        "start_year": 2008
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2008-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 38.81,
-        "start_price": 8.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2008-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 50.41,
-        "start_price": 7.43,
-        "start_year": 2008
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 59.67,
-        "start_price": 7.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 42.44,
-        "start_price": 7.84,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 19.32,
-        "start_price": 11.1,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.27,
-        "start_price": 12.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.49,
-        "start_price": 13.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 15.81,
-        "start_price": 11.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.04,
-        "start_price": 14.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.2,
-        "start_price": 13.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -9.11,
-        "start_price": 15.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.9,
-        "start_price": 16.2,
-        "start_year": 2009
       },
       {
         "horizon": "2y",
@@ -8271,13 +7614,13 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2023
       },
       {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 10.03,
-        "forward_return": -20.38,
-        "start_price": 18.15,
-        "start_year": 2006
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-01-16",
+        "pe_ratio": 10.13,
+        "forward_return": 18.01,
+        "start_price": 49.0,
+        "start_year": 2024
       },
       {
         "horizon": "3y",
@@ -8521,168 +7864,6 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -4.7,
         "start_price": 18.6,
         "start_year": 2008
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2008-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.31,
-        "start_price": 18.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2008-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.26,
-        "start_price": 16.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2008-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.61,
-        "start_price": 14.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2008-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.98,
-        "start_price": 13.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2008-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.28,
-        "start_price": 10.25,
-        "start_year": 2008
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2008-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.83,
-        "start_price": 9.15,
-        "start_year": 2008
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2008-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.75,
-        "start_price": 8.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2008-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.44,
-        "start_price": 7.43,
-        "start_year": 2008
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 32.86,
-        "start_price": 7.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 29.74,
-        "start_price": 7.84,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.1,
-        "start_price": 11.1,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.9,
-        "start_price": 12.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.21,
-        "start_price": 13.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.67,
-        "start_price": 11.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.37,
-        "start_price": 14.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.49,
-        "start_price": 13.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.14,
-        "start_price": 15.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.16,
-        "start_price": 16.2,
-        "start_year": 2009
       },
       {
         "horizon": "3y",
@@ -10107,13 +9288,13 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2022
       },
       {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 10.03,
-        "forward_return": -0.33,
-        "start_price": 18.15,
-        "start_year": 2006
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2023-01-16",
+        "pe_ratio": 7.06,
+        "forward_return": 13.76,
+        "start_price": 48.8,
+        "start_year": 2023
       },
       {
         "horizon": "4y",
@@ -10357,168 +9538,6 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -1.29,
         "start_price": 18.6,
         "start_year": 2008
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2008-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.9,
-        "start_price": 18.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2008-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.33,
-        "start_price": 16.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2008-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.71,
-        "start_price": 14.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2008-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.49,
-        "start_price": 13.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2008-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.7,
-        "start_price": 10.25,
-        "start_year": 2008
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2008-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.1,
-        "start_price": 9.15,
-        "start_year": 2008
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2008-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.33,
-        "start_price": 8.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2008-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.77,
-        "start_price": 7.43,
-        "start_year": 2008
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.86,
-        "start_price": 7.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 13.94,
-        "start_price": 7.84,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.65,
-        "start_price": 11.1,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.89,
-        "start_price": 12.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.18,
-        "start_price": 13.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.86,
-        "start_price": 11.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.19,
-        "start_price": 14.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.36,
-        "start_price": 13.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.94,
-        "start_price": 15.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.96,
-        "start_price": 16.2,
-        "start_year": 2009
       },
       {
         "horizon": "4y",
@@ -11835,13 +10854,13 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2021
       },
       {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 10.03,
-        "forward_return": 2.42,
-        "start_price": 18.15,
-        "start_year": 2006
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2022-01-16",
+        "pe_ratio": 11.99,
+        "forward_return": 6.91,
+        "start_price": 57.3,
+        "start_year": 2022
       },
       {
         "horizon": "5y",
@@ -12085,168 +11104,6 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -5.37,
         "start_price": 18.6,
         "start_year": 2008
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2008-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.2,
-        "start_price": 18.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2008-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.52,
-        "start_price": 16.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2008-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.1,
-        "start_price": 14.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2008-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.19,
-        "start_price": 13.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2008-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.15,
-        "start_price": 10.25,
-        "start_year": 2008
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2008-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.35,
-        "start_price": 9.15,
-        "start_year": 2008
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2008-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.84,
-        "start_price": 8.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2008-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.88,
-        "start_price": 7.43,
-        "start_year": 2008
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.29,
-        "start_price": 7.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 13.58,
-        "start_price": 7.84,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.72,
-        "start_price": 11.1,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.66,
-        "start_price": 12.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.97,
-        "start_price": 13.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.69,
-        "start_price": 11.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.24,
-        "start_price": 14.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.31,
-        "start_price": 13.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.17,
-        "start_price": 15.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.27,
-        "start_price": 16.2,
-        "start_year": 2009
       },
       {
         "horizon": "5y",
@@ -13455,13 +12312,13 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2020
       },
       {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 10.03,
-        "forward_return": 0.74,
-        "start_price": 18.15,
-        "start_year": 2006
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2021-01-16",
+        "pe_ratio": 19.24,
+        "forward_return": 8.86,
+        "start_price": 50.0,
+        "start_year": 2021
       },
       {
         "horizon": "6y",
@@ -13705,168 +12562,6 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -2.16,
         "start_price": 18.6,
         "start_year": 2008
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2008-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.45,
-        "start_price": 18.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2008-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.08,
-        "start_price": 16.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2008-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.99,
-        "start_price": 14.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2008-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.83,
-        "start_price": 13.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2008-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.27,
-        "start_price": 10.25,
-        "start_year": 2008
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2008-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.24,
-        "start_price": 9.15,
-        "start_year": 2008
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2008-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.9,
-        "start_price": 8.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2008-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.64,
-        "start_price": 7.43,
-        "start_year": 2008
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.68,
-        "start_price": 7.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 15.92,
-        "start_price": 7.84,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.91,
-        "start_price": 11.1,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.03,
-        "start_price": 12.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.49,
-        "start_price": 13.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.52,
-        "start_price": 11.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.3,
-        "start_price": 14.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.99,
-        "start_price": 13.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.52,
-        "start_price": 15.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.77,
-        "start_price": 16.2,
-        "start_year": 2009
       },
       {
         "horizon": "6y",
@@ -14967,13 +13662,13 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2019
       },
       {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 10.03,
-        "forward_return": -1.02,
-        "start_price": 18.15,
-        "start_year": 2006
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2020-01-16",
+        "pe_ratio": 15.63,
+        "forward_return": 31.55,
+        "start_price": 14.9,
+        "start_year": 2020
       },
       {
         "horizon": "8y",
@@ -15217,168 +13912,6 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": -1.62,
         "start_price": 18.6,
         "start_year": 2008
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2008-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.67,
-        "start_price": 18.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2008-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.62,
-        "start_price": 16.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2008-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.44,
-        "start_price": 14.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2008-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.04,
-        "start_price": 13.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2008-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.46,
-        "start_price": 10.25,
-        "start_year": 2008
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2008-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.14,
-        "start_price": 9.15,
-        "start_year": 2008
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2008-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.35,
-        "start_price": 8.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2008-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.66,
-        "start_price": 7.43,
-        "start_year": 2008
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.85,
-        "start_price": 7.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 10.06,
-        "start_price": 7.84,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.95,
-        "start_price": 11.1,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.38,
-        "start_price": 12.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.09,
-        "start_price": 13.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.99,
-        "start_price": 11.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.07,
-        "start_price": 14.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.83,
-        "start_price": 13.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.79,
-        "start_price": 15.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.75,
-        "start_price": 16.2,
-        "start_year": 2009
       },
       {
         "horizon": "8y",
@@ -16263,13 +14796,13 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "start_year": 2017
       },
       {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 10.03,
-        "forward_return": 0.01,
-        "start_price": 18.15,
-        "start_year": 2006
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2018-01-16",
+        "pe_ratio": 18.45,
+        "forward_return": 23.79,
+        "start_price": 14.25,
+        "start_year": 2018
       },
       {
         "horizon": "10y",
@@ -16513,168 +15046,6 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": 1.4,
         "start_price": 18.6,
         "start_year": 2008
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2008-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.55,
-        "start_price": 18.9,
-        "start_year": 2008
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2008-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.33,
-        "start_price": 16.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2008-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.82,
-        "start_price": 14.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2008-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.49,
-        "start_price": 13.3,
-        "start_year": 2008
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2008-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.69,
-        "start_price": 10.25,
-        "start_year": 2008
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2008-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.48,
-        "start_price": 9.15,
-        "start_year": 2008
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2008-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.63,
-        "start_price": 8.1,
-        "start_year": 2008
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2008-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.37,
-        "start_price": 7.43,
-        "start_year": 2008
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.63,
-        "start_price": 7.3,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 7.92,
-        "start_price": 7.84,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.35,
-        "start_price": 11.1,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.25,
-        "start_price": 12.4,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.45,
-        "start_price": 13.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.78,
-        "start_price": 11.0,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.1,
-        "start_price": 14.55,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.68,
-        "start_price": 13.5,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.07,
-        "start_price": 15.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.1,
-        "start_price": 16.2,
-        "start_year": 2009
       },
       {
         "horizon": "10y",
@@ -17341,6 +15712,15 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "forward_return": 18.57,
         "start_price": 12.1,
         "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2016-01-16",
+        "pe_ratio": 12.18,
+        "forward_return": 20.1,
+        "start_price": 12.75,
+        "start_year": 2016
       }
     ]
   },
@@ -17544,7 +15924,7 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 9.2倍、11.2倍、13.9倍、18.4倍、20.1倍"
+!!! note "本益比河流帶水位: 9.2倍、11.2倍、13.9倍、18.5倍、20.1倍"
 
 ```vegalite
 {
@@ -17553,23 +15933,13 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
   "data": {
     "values": [
       {
-        "date": "2006-01-16",
-        "price": 18.15,
-        "pe": 10.03,
-        "pe_10": 16.56,
-        "pe_25": 20.24,
-        "pe_50": 25.14,
-        "pe_75": 33.3,
-        "pe_90": 36.35
-      },
-      {
         "date": "2006-02-14",
         "price": 19.15,
         "pe": 10.58,
         "pe_10": 16.57,
-        "pe_25": 20.24,
-        "pe_50": 25.15,
-        "pe_75": 33.31,
+        "pe_25": 20.25,
+        "pe_50": 25.25,
+        "pe_75": 33.42,
         "pe_90": 36.36
       },
       {
@@ -17577,9 +15947,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 20.5,
         "pe": 11.33,
         "pe_10": 16.56,
-        "pe_25": 20.23,
-        "pe_50": 25.14,
-        "pe_75": 33.3,
+        "pe_25": 20.25,
+        "pe_50": 25.24,
+        "pe_75": 33.41,
         "pe_90": 36.35
       },
       {
@@ -17587,9 +15957,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 22.2,
         "pe": 12.27,
         "pe_10": 16.56,
-        "pe_25": 20.23,
-        "pe_50": 25.14,
-        "pe_75": 33.3,
+        "pe_25": 20.25,
+        "pe_50": 25.24,
+        "pe_75": 33.41,
         "pe_90": 36.35
       },
       {
@@ -17597,9 +15967,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 20.2,
         "pe": 11.16,
         "pe_10": 16.57,
-        "pe_25": 20.24,
-        "pe_50": 25.15,
-        "pe_75": 33.31,
+        "pe_25": 20.25,
+        "pe_50": 25.25,
+        "pe_75": 33.42,
         "pe_90": 36.36
       },
       {
@@ -17607,9 +15977,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 19.4,
         "pe": 10.72,
         "pe_10": 16.56,
-        "pe_25": 20.24,
-        "pe_50": 25.15,
-        "pe_75": 33.3,
+        "pe_25": 20.25,
+        "pe_50": 25.25,
+        "pe_75": 33.42,
         "pe_90": 36.35
       },
       {
@@ -17617,9 +15987,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 18.0,
         "pe": 9.94,
         "pe_10": 16.57,
-        "pe_25": 20.25,
-        "pe_50": 25.16,
-        "pe_75": 33.32,
+        "pe_25": 20.26,
+        "pe_50": 25.26,
+        "pe_75": 33.44,
         "pe_90": 36.38
       },
       {
@@ -17627,9 +15997,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 18.0,
         "pe": 9.94,
         "pe_10": 16.57,
-        "pe_25": 20.25,
-        "pe_50": 25.16,
-        "pe_75": 33.32,
+        "pe_25": 20.26,
+        "pe_50": 25.26,
+        "pe_75": 33.44,
         "pe_90": 36.38
       },
       {
@@ -17637,9 +16007,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 18.55,
         "pe": 10.25,
         "pe_10": 16.56,
-        "pe_25": 20.24,
-        "pe_50": 25.15,
-        "pe_75": 33.3,
+        "pe_25": 20.25,
+        "pe_50": 25.25,
+        "pe_75": 33.42,
         "pe_90": 36.35
       },
       {
@@ -17647,9 +16017,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 18.55,
         "pe": 10.25,
         "pe_10": 16.56,
-        "pe_25": 20.24,
-        "pe_50": 25.15,
-        "pe_75": 33.3,
+        "pe_25": 20.25,
+        "pe_50": 25.25,
+        "pe_75": 33.42,
         "pe_90": 36.35
       },
       {
@@ -17657,9 +16027,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 21.15,
         "pe": 11.69,
         "pe_10": 16.56,
-        "pe_25": 20.23,
-        "pe_50": 25.14,
-        "pe_75": 33.29,
+        "pe_25": 20.25,
+        "pe_50": 25.24,
+        "pe_75": 33.41,
         "pe_90": 36.34
       },
       {
@@ -17667,9 +16037,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 20.25,
         "pe": 11.19,
         "pe_10": 16.56,
-        "pe_25": 20.24,
-        "pe_50": 25.15,
-        "pe_75": 33.3,
+        "pe_25": 20.25,
+        "pe_50": 25.24,
+        "pe_75": 33.42,
         "pe_90": 36.35
       },
       {
@@ -17677,9 +16047,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 20.65,
         "pe": 11.8,
         "pe_10": 16.02,
-        "pe_25": 19.57,
-        "pe_50": 24.32,
-        "pe_75": 32.2,
+        "pe_25": 19.58,
+        "pe_50": 24.41,
+        "pe_75": 32.31,
         "pe_90": 35.15
       },
       {
@@ -17687,9 +16057,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 20.2,
         "pe": 11.95,
         "pe_10": 15.47,
-        "pe_25": 18.9,
-        "pe_50": 23.49,
-        "pe_75": 31.11,
+        "pe_25": 18.92,
+        "pe_50": 23.58,
+        "pe_75": 31.21,
         "pe_90": 33.96
       },
       {
@@ -17697,9 +16067,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 19.1,
         "pe": 11.72,
         "pe_10": 14.91,
-        "pe_25": 18.22,
-        "pe_50": 22.64,
-        "pe_75": 29.99,
+        "pe_25": 18.24,
+        "pe_50": 22.73,
+        "pe_75": 30.09,
         "pe_90": 32.74
       },
       {
@@ -17707,9 +16077,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 19.1,
         "pe": 12.17,
         "pe_10": 14.36,
-        "pe_25": 17.55,
-        "pe_50": 21.81,
-        "pe_75": 28.88,
+        "pe_25": 17.56,
+        "pe_50": 21.89,
+        "pe_75": 28.98,
         "pe_90": 31.53
       },
       {
@@ -17717,9 +16087,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 19.2,
         "pe": 12.72,
         "pe_10": 13.81,
-        "pe_25": 16.88,
-        "pe_50": 20.97,
-        "pe_75": 27.78,
+        "pe_25": 16.89,
+        "pe_50": 21.06,
+        "pe_75": 27.87,
         "pe_90": 30.32
       },
       {
@@ -17727,9 +16097,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 19.85,
         "pe": 13.69,
         "pe_10": 13.27,
-        "pe_25": 16.21,
-        "pe_50": 20.15,
-        "pe_75": 26.68,
+        "pe_25": 16.23,
+        "pe_50": 20.23,
+        "pe_75": 26.77,
         "pe_90": 29.13
       },
       {
@@ -17737,9 +16107,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 18.3,
         "pe": 13.17,
         "pe_10": 12.72,
-        "pe_25": 15.54,
-        "pe_50": 19.31,
-        "pe_75": 25.57,
+        "pe_25": 15.55,
+        "pe_50": 19.38,
+        "pe_75": 25.66,
         "pe_90": 27.91
       },
       {
@@ -17747,9 +16117,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 18.5,
         "pe": 13.91,
         "pe_10": 12.17,
-        "pe_25": 14.87,
-        "pe_50": 18.48,
-        "pe_75": 24.47,
+        "pe_25": 14.88,
+        "pe_50": 18.55,
+        "pe_75": 24.56,
         "pe_90": 26.72
       },
       {
@@ -17757,9 +16127,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 19.2,
         "pe": 15.12,
         "pe_10": 11.62,
-        "pe_25": 14.2,
-        "pe_50": 17.64,
-        "pe_75": 23.37,
+        "pe_25": 14.21,
+        "pe_50": 17.71,
+        "pe_75": 23.45,
         "pe_90": 25.51
       },
       {
@@ -17767,9 +16137,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 21.25,
         "pe": 17.56,
         "pe_10": 11.08,
-        "pe_25": 13.53,
-        "pe_50": 16.81,
-        "pe_75": 22.27,
+        "pe_25": 13.54,
+        "pe_50": 16.88,
+        "pe_75": 22.35,
         "pe_90": 24.31
       },
       {
@@ -17777,9 +16147,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 19.3,
         "pe": 16.78,
         "pe_10": 10.53,
-        "pe_25": 12.86,
-        "pe_50": 15.98,
-        "pe_75": 21.17,
+        "pe_25": 12.87,
+        "pe_50": 16.04,
+        "pe_75": 21.24,
         "pe_90": 23.1
       },
       {
@@ -17788,8 +16158,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 18.49,
         "pe_10": 9.97,
         "pe_25": 12.19,
-        "pe_50": 15.14,
-        "pe_75": 20.05,
+        "pe_50": 15.2,
+        "pe_75": 20.12,
         "pe_90": 21.89
       },
       {
@@ -17797,9 +16167,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 17.35,
         "pe": 20.23,
         "pe_10": 7.85,
-        "pe_25": 9.59,
-        "pe_50": 11.92,
-        "pe_75": 15.78,
+        "pe_25": 9.6,
+        "pe_50": 11.96,
+        "pe_75": 15.84,
         "pe_90": 17.23
       },
       {
@@ -17808,8 +16178,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 29.36,
         "pe_10": 5.72,
         "pe_25": 6.99,
-        "pe_50": 8.68,
-        "pe_75": 11.5,
+        "pe_50": 8.72,
+        "pe_75": 11.54,
         "pe_90": 12.56
       },
       {
@@ -17818,8 +16188,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 47.64,
         "pe_10": 3.59,
         "pe_25": 4.39,
-        "pe_50": 5.45,
-        "pe_75": 7.22,
+        "pe_50": 5.48,
+        "pe_75": 7.25,
         "pe_90": 7.89
       },
       {
@@ -17828,8 +16198,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 116.2,
         "pe_10": 1.46,
         "pe_25": 1.79,
-        "pe_50": 2.22,
-        "pe_75": 2.95,
+        "pe_50": 2.23,
+        "pe_75": 2.96,
         "pe_90": 3.22
       },
       {
@@ -17838,8 +16208,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 110.9,
         "pe_10": 1.3,
         "pe_25": 1.59,
-        "pe_50": 1.98,
-        "pe_75": 2.62,
+        "pe_50": 1.99,
+        "pe_75": 2.63,
         "pe_90": 2.86
       },
       {
@@ -17848,8 +16218,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 55.48,
         "pe_10": 2.84,
         "pe_25": 3.47,
-        "pe_50": 4.31,
-        "pe_75": 5.71,
+        "pe_50": 4.32,
+        "pe_75": 5.72,
         "pe_90": 6.23
       },
       {
@@ -17858,8 +16228,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 36.2,
         "pe_10": 4.06,
         "pe_25": 4.96,
-        "pe_50": 6.16,
-        "pe_75": 8.16,
+        "pe_50": 6.19,
+        "pe_75": 8.19,
         "pe_90": 8.91
       },
       {
@@ -17868,8 +16238,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 26.79,
         "pe_10": 5.28,
         "pe_25": 6.45,
-        "pe_50": 8.01,
-        "pe_75": 10.61,
+        "pe_50": 8.05,
+        "pe_75": 10.65,
         "pe_90": 11.58
       },
       {
@@ -17877,9 +16247,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 16.85,
         "pe": 23.73,
         "pe_10": 6.5,
-        "pe_25": 7.94,
-        "pe_50": 9.87,
-        "pe_75": 13.07,
+        "pe_25": 7.95,
+        "pe_50": 9.91,
+        "pe_75": 13.11,
         "pe_90": 14.26
       },
       {
@@ -17887,9 +16257,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 16.0,
         "pe": 18.97,
         "pe_10": 7.72,
-        "pe_25": 9.43,
-        "pe_50": 11.72,
-        "pe_75": 15.52,
+        "pe_25": 9.44,
+        "pe_50": 11.77,
+        "pe_75": 15.57,
         "pe_90": 16.94
       },
       {
@@ -17897,9 +16267,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 15.1,
         "pe": 15.46,
         "pe_10": 8.94,
-        "pe_25": 10.92,
-        "pe_50": 13.57,
-        "pe_75": 17.97,
+        "pe_25": 10.93,
+        "pe_50": 13.63,
+        "pe_75": 18.04,
         "pe_90": 19.62
       },
       {
@@ -17907,9 +16277,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.35,
         "pe": 12.93,
         "pe_10": 10.16,
-        "pe_25": 12.41,
-        "pe_50": 15.42,
-        "pe_75": 20.42,
+        "pe_25": 12.42,
+        "pe_50": 15.48,
+        "pe_75": 20.49,
         "pe_90": 22.29
       },
       {
@@ -17917,9 +16287,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.2,
         "pe": 11.42,
         "pe_10": 11.38,
-        "pe_25": 13.9,
-        "pe_50": 17.28,
-        "pe_75": 22.88,
+        "pe_25": 13.91,
+        "pe_50": 17.35,
+        "pe_75": 22.96,
         "pe_90": 24.98
       },
       {
@@ -17927,9 +16297,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.0,
         "pe": 9.44,
         "pe_10": 12.6,
-        "pe_25": 15.4,
-        "pe_50": 19.14,
-        "pe_75": 25.34,
+        "pe_25": 15.41,
+        "pe_50": 19.21,
+        "pe_75": 25.43,
         "pe_90": 27.66
       },
       {
@@ -17937,9 +16307,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.85,
         "pe": 9.17,
         "pe_10": 13.82,
-        "pe_25": 16.89,
-        "pe_50": 20.99,
-        "pe_75": 27.79,
+        "pe_25": 16.9,
+        "pe_50": 21.07,
+        "pe_75": 27.89,
         "pe_90": 30.34
       },
       {
@@ -17947,9 +16317,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.55,
         "pe": 8.85,
         "pe_10": 15.05,
-        "pe_25": 18.38,
-        "pe_50": 22.84,
-        "pe_75": 30.25,
+        "pe_25": 18.4,
+        "pe_50": 22.93,
+        "pe_75": 30.36,
         "pe_90": 33.03
       },
       {
@@ -17957,9 +16327,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 15.1,
         "pe": 8.5,
         "pe_10": 16.26,
-        "pe_25": 19.87,
-        "pe_50": 24.68,
-        "pe_75": 32.69,
+        "pe_25": 19.88,
+        "pe_50": 24.78,
+        "pe_75": 32.8,
         "pe_90": 35.69
       },
       {
@@ -17967,9 +16337,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 16.3,
         "pe": 8.53,
         "pe_10": 17.49,
-        "pe_25": 21.37,
-        "pe_50": 26.55,
-        "pe_75": 35.17,
+        "pe_25": 21.38,
+        "pe_50": 26.66,
+        "pe_75": 35.28,
         "pe_90": 38.39
       },
       {
@@ -17977,9 +16347,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 18.1,
         "pe": 9.94,
         "pe_10": 16.67,
-        "pe_25": 20.36,
-        "pe_50": 25.3,
-        "pe_75": 33.51,
+        "pe_25": 20.38,
+        "pe_50": 25.4,
+        "pe_75": 33.62,
         "pe_90": 36.58
       },
       {
@@ -17987,9 +16357,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 15.4,
         "pe": 8.89,
         "pe_10": 15.85,
-        "pe_25": 19.37,
-        "pe_50": 24.07,
-        "pe_75": 31.88,
+        "pe_25": 19.38,
+        "pe_50": 24.17,
+        "pe_75": 31.99,
         "pe_90": 34.8
       },
       {
@@ -17997,9 +16367,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 15.3,
         "pe": 9.32,
         "pe_10": 15.02,
-        "pe_25": 18.36,
-        "pe_50": 22.81,
-        "pe_75": 30.21,
+        "pe_25": 18.37,
+        "pe_50": 22.9,
+        "pe_75": 30.31,
         "pe_90": 32.98
       },
       {
@@ -18007,9 +16377,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.85,
         "pe": 9.56,
         "pe_10": 14.22,
-        "pe_25": 17.37,
-        "pe_50": 21.58,
-        "pe_75": 28.59,
+        "pe_25": 17.38,
+        "pe_50": 21.67,
+        "pe_75": 28.68,
         "pe_90": 31.2
       },
       {
@@ -18017,9 +16387,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.8,
         "pe": 10.11,
         "pe_10": 13.4,
-        "pe_25": 16.37,
-        "pe_50": 20.34,
-        "pe_75": 26.94,
+        "pe_25": 16.38,
+        "pe_50": 20.42,
+        "pe_75": 27.03,
         "pe_90": 29.41
       },
       {
@@ -18027,9 +16397,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.25,
         "pe": 10.36,
         "pe_10": 12.59,
-        "pe_25": 15.38,
-        "pe_50": 19.11,
-        "pe_75": 25.31,
+        "pe_25": 15.39,
+        "pe_50": 19.19,
+        "pe_75": 25.4,
         "pe_90": 27.63
       },
       {
@@ -18037,9 +16407,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 12.95,
         "pe": 10.07,
         "pe_10": 11.77,
-        "pe_25": 14.38,
-        "pe_50": 17.87,
-        "pe_75": 23.67,
+        "pe_25": 14.39,
+        "pe_50": 17.94,
+        "pe_75": 23.75,
         "pe_90": 25.83
       },
       {
@@ -18048,8 +16418,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 9.44,
         "pe_10": 10.96,
         "pe_25": 13.39,
-        "pe_50": 16.63,
-        "pe_75": 22.03,
+        "pe_50": 16.7,
+        "pe_75": 22.1,
         "pe_90": 24.05
       },
       {
@@ -18057,9 +16427,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 11.4,
         "pe": 10.29,
         "pe_10": 10.14,
-        "pe_25": 12.39,
-        "pe_50": 15.39,
-        "pe_75": 20.39,
+        "pe_25": 12.4,
+        "pe_50": 15.45,
+        "pe_75": 20.46,
         "pe_90": 22.25
       },
       {
@@ -18068,8 +16438,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 13.11,
         "pe_10": 9.32,
         "pe_25": 11.39,
-        "pe_50": 14.15,
-        "pe_75": 18.74,
+        "pe_50": 14.21,
+        "pe_75": 18.8,
         "pe_90": 20.46
       },
       {
@@ -18077,9 +16447,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.0,
         "pe": 13.99,
         "pe_10": 8.5,
-        "pe_25": 10.39,
-        "pe_50": 12.91,
-        "pe_75": 17.1,
+        "pe_25": 10.4,
+        "pe_50": 12.96,
+        "pe_75": 17.16,
         "pe_90": 18.67
       },
       {
@@ -18087,9 +16457,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 12.7,
         "pe": 15.12,
         "pe_10": 7.69,
-        "pe_25": 9.39,
-        "pe_50": 11.67,
-        "pe_75": 15.46,
+        "pe_25": 9.4,
+        "pe_50": 11.72,
+        "pe_75": 15.51,
         "pe_90": 16.87
       },
       {
@@ -18098,8 +16468,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 19.12,
         "pe_10": 7.42,
         "pe_25": 9.07,
-        "pe_50": 11.26,
-        "pe_75": 14.92,
+        "pe_50": 11.31,
+        "pe_75": 14.97,
         "pe_90": 16.28
       },
       {
@@ -18107,9 +16477,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 15.5,
         "pe": 19.83,
         "pe_10": 7.15,
-        "pe_25": 8.74,
-        "pe_50": 10.86,
-        "pe_75": 14.38,
+        "pe_25": 8.75,
+        "pe_50": 10.9,
+        "pe_75": 14.43,
         "pe_90": 15.7
       },
       {
@@ -18118,8 +16488,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 19.2,
         "pe_10": 6.89,
         "pe_25": 8.42,
-        "pe_50": 10.46,
-        "pe_75": 13.85,
+        "pe_50": 10.5,
+        "pe_75": 13.9,
         "pe_90": 15.12
       },
       {
@@ -18128,8 +16498,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 21.15,
         "pe_10": 6.62,
         "pe_25": 8.09,
-        "pe_50": 10.05,
-        "pe_75": 13.31,
+        "pe_50": 10.09,
+        "pe_75": 13.36,
         "pe_90": 14.53
       },
       {
@@ -18137,9 +16507,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.1,
         "pe": 18.87,
         "pe_10": 6.35,
-        "pe_25": 7.76,
-        "pe_50": 9.65,
-        "pe_75": 12.78,
+        "pe_25": 7.77,
+        "pe_50": 9.68,
+        "pe_75": 12.82,
         "pe_90": 13.95
       },
       {
@@ -18148,8 +16518,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 19.4,
         "pe_10": 6.09,
         "pe_25": 7.44,
-        "pe_50": 9.24,
-        "pe_75": 12.24,
+        "pe_50": 9.28,
+        "pe_75": 12.28,
         "pe_90": 13.36
       },
       {
@@ -18158,8 +16528,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 19.82,
         "pe_10": 5.82,
         "pe_25": 7.11,
-        "pe_50": 8.83,
-        "pe_75": 11.7,
+        "pe_50": 8.87,
+        "pe_75": 11.74,
         "pe_90": 12.77
       },
       {
@@ -18167,9 +16537,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 12.0,
         "pe": 19.78,
         "pe_10": 5.55,
-        "pe_25": 6.78,
-        "pe_50": 8.43,
-        "pe_75": 11.16,
+        "pe_25": 6.79,
+        "pe_50": 8.46,
+        "pe_75": 11.2,
         "pe_90": 12.19
       },
       {
@@ -18178,8 +16548,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 21.13,
         "pe_10": 5.28,
         "pe_25": 6.46,
-        "pe_50": 8.02,
-        "pe_75": 10.63,
+        "pe_50": 8.05,
+        "pe_75": 10.66,
         "pe_90": 11.6
       },
       {
@@ -18188,8 +16558,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 19.79,
         "pe_10": 5.02,
         "pe_25": 6.13,
-        "pe_50": 7.62,
-        "pe_75": 10.09,
+        "pe_50": 7.65,
+        "pe_75": 10.12,
         "pe_90": 11.01
       },
       {
@@ -18198,8 +16568,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 21.67,
         "pe_10": 4.75,
         "pe_25": 5.81,
-        "pe_50": 7.21,
-        "pe_75": 9.55,
+        "pe_50": 7.24,
+        "pe_75": 9.59,
         "pe_90": 10.43
       },
       {
@@ -18208,8 +16578,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 23.88,
         "pe_10": 4.48,
         "pe_25": 5.48,
-        "pe_50": 6.81,
-        "pe_75": 9.02,
+        "pe_50": 6.83,
+        "pe_75": 9.05,
         "pe_90": 9.84
       },
       {
@@ -18217,9 +16587,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 11.5,
         "pe": 21.56,
         "pe_10": 4.88,
-        "pe_25": 5.96,
-        "pe_50": 7.41,
-        "pe_75": 9.82,
+        "pe_25": 5.97,
+        "pe_50": 7.44,
+        "pe_75": 9.85,
         "pe_90": 10.71
       },
       {
@@ -18228,8 +16598,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 19.25,
         "pe_10": 5.28,
         "pe_25": 6.45,
-        "pe_50": 8.01,
-        "pe_75": 10.61,
+        "pe_50": 8.04,
+        "pe_75": 10.65,
         "pe_90": 11.58
       },
       {
@@ -18237,9 +16607,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 11.2,
         "pe": 18.06,
         "pe_10": 5.68,
-        "pe_25": 6.93,
-        "pe_50": 8.62,
-        "pe_75": 11.41,
+        "pe_25": 6.94,
+        "pe_50": 8.65,
+        "pe_75": 11.45,
         "pe_90": 12.46
       },
       {
@@ -18248,8 +16618,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 16.96,
         "pe_10": 6.07,
         "pe_25": 7.42,
-        "pe_50": 9.22,
-        "pe_75": 12.21,
+        "pe_50": 9.25,
+        "pe_75": 12.25,
         "pe_90": 13.32
       },
       {
@@ -18257,9 +16627,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.2,
         "pe": 18.68,
         "pe_10": 6.47,
-        "pe_25": 7.9,
-        "pe_50": 9.82,
-        "pe_75": 13.0,
+        "pe_25": 7.91,
+        "pe_50": 9.86,
+        "pe_75": 13.05,
         "pe_90": 14.19
       },
       {
@@ -18268,8 +16638,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 19.33,
         "pe_10": 6.87,
         "pe_25": 8.39,
-        "pe_50": 10.42,
-        "pe_75": 13.8,
+        "pe_50": 10.46,
+        "pe_75": 13.85,
         "pe_90": 15.07
       },
       {
@@ -18277,9 +16647,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.35,
         "pe": 16.83,
         "pe_10": 7.26,
-        "pe_25": 8.87,
-        "pe_50": 11.02,
-        "pe_75": 14.6,
+        "pe_25": 8.88,
+        "pe_50": 11.07,
+        "pe_75": 14.65,
         "pe_90": 15.93
       },
       {
@@ -18288,8 +16658,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 14.7,
         "pe_10": 7.66,
         "pe_25": 9.36,
-        "pe_50": 11.63,
-        "pe_75": 15.4,
+        "pe_50": 11.67,
+        "pe_75": 15.45,
         "pe_90": 16.81
       },
       {
@@ -18298,8 +16668,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 14.38,
         "pe_10": 8.05,
         "pe_25": 9.84,
-        "pe_50": 12.22,
-        "pe_75": 16.19,
+        "pe_50": 12.27,
+        "pe_75": 16.24,
         "pe_90": 17.67
       },
       {
@@ -18308,8 +16678,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 13.48,
         "pe_10": 8.45,
         "pe_25": 10.33,
-        "pe_50": 12.83,
-        "pe_75": 17.0,
+        "pe_50": 12.88,
+        "pe_75": 17.05,
         "pe_90": 18.55
       },
       {
@@ -18317,9 +16687,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 12.3,
         "pe": 12.72,
         "pe_10": 8.85,
-        "pe_25": 10.81,
-        "pe_50": 13.44,
-        "pe_75": 17.79,
+        "pe_25": 10.82,
+        "pe_50": 13.49,
+        "pe_75": 17.86,
         "pe_90": 19.42
       },
       {
@@ -18327,9 +16697,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 12.35,
         "pe": 12.23,
         "pe_10": 9.24,
-        "pe_25": 11.29,
-        "pe_50": 14.03,
-        "pe_75": 18.58,
+        "pe_25": 11.3,
+        "pe_50": 14.09,
+        "pe_75": 18.65,
         "pe_90": 20.29
       },
       {
@@ -18338,8 +16708,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 12.27,
         "pe_10": 9.21,
         "pe_25": 11.26,
-        "pe_50": 13.99,
-        "pe_75": 18.52,
+        "pe_50": 14.04,
+        "pe_75": 18.59,
         "pe_90": 20.22
       },
       {
@@ -18347,9 +16717,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 12.3,
         "pe": 12.26,
         "pe_10": 9.18,
-        "pe_25": 11.22,
-        "pe_50": 13.94,
-        "pe_75": 18.46,
+        "pe_25": 11.23,
+        "pe_50": 14.0,
+        "pe_75": 18.53,
         "pe_90": 20.15
       },
       {
@@ -18357,9 +16727,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 12.85,
         "pe": 12.85,
         "pe_10": 9.15,
-        "pe_25": 11.18,
-        "pe_50": 13.89,
-        "pe_75": 18.4,
+        "pe_25": 11.19,
+        "pe_50": 13.95,
+        "pe_75": 18.46,
         "pe_90": 20.09
       },
       {
@@ -18367,9 +16737,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.05,
         "pe": 13.09,
         "pe_10": 9.12,
-        "pe_25": 11.15,
-        "pe_50": 13.85,
-        "pe_75": 18.35,
+        "pe_25": 11.16,
+        "pe_50": 13.91,
+        "pe_75": 18.41,
         "pe_90": 20.03
       },
       {
@@ -18377,9 +16747,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.05,
         "pe": 14.14,
         "pe_10": 9.09,
-        "pe_25": 11.11,
-        "pe_50": 13.81,
-        "pe_75": 18.29,
+        "pe_25": 11.12,
+        "pe_50": 13.86,
+        "pe_75": 18.35,
         "pe_90": 19.96
       },
       {
@@ -18387,9 +16757,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.95,
         "pe": 15.1,
         "pe_10": 9.06,
-        "pe_25": 11.07,
-        "pe_50": 13.76,
-        "pe_75": 18.22,
+        "pe_25": 11.08,
+        "pe_50": 13.81,
+        "pe_75": 18.28,
         "pe_90": 19.89
       },
       {
@@ -18397,9 +16767,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.05,
         "pe": 14.24,
         "pe_10": 9.03,
-        "pe_25": 11.03,
-        "pe_50": 13.71,
-        "pe_75": 18.16,
+        "pe_25": 11.04,
+        "pe_50": 13.76,
+        "pe_75": 18.22,
         "pe_90": 19.82
       },
       {
@@ -18408,8 +16778,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 13.88,
         "pe_10": 9.0,
         "pe_25": 11.0,
-        "pe_50": 13.66,
-        "pe_75": 18.1,
+        "pe_50": 13.72,
+        "pe_75": 18.16,
         "pe_90": 19.76
       },
       {
@@ -18418,8 +16788,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 12.86,
         "pe_10": 8.97,
         "pe_25": 10.96,
-        "pe_50": 13.61,
-        "pe_75": 18.03,
+        "pe_50": 13.67,
+        "pe_75": 18.09,
         "pe_90": 19.68
       },
       {
@@ -18427,9 +16797,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.4,
         "pe": 13.72,
         "pe_10": 8.94,
-        "pe_25": 10.92,
-        "pe_50": 13.57,
-        "pe_75": 17.97,
+        "pe_25": 10.93,
+        "pe_50": 13.62,
+        "pe_75": 18.03,
         "pe_90": 19.62
       },
       {
@@ -18437,9 +16807,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.75,
         "pe": 14.13,
         "pe_10": 8.91,
-        "pe_25": 10.88,
-        "pe_50": 13.52,
-        "pe_75": 17.91,
+        "pe_25": 10.89,
+        "pe_50": 13.57,
+        "pe_75": 17.97,
         "pe_90": 19.55
       },
       {
@@ -18447,9 +16817,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.75,
         "pe": 15.21,
         "pe_10": 8.88,
-        "pe_25": 10.84,
-        "pe_50": 13.47,
-        "pe_75": 17.85,
+        "pe_25": 10.85,
+        "pe_50": 13.53,
+        "pe_75": 17.91,
         "pe_90": 19.48
       },
       {
@@ -18457,9 +16827,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 15.4,
         "pe": 15.73,
         "pe_10": 8.96,
-        "pe_25": 10.95,
-        "pe_50": 13.6,
-        "pe_75": 18.02,
+        "pe_25": 10.96,
+        "pe_50": 13.66,
+        "pe_75": 18.08,
         "pe_90": 19.67
       },
       {
@@ -18467,9 +16837,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 16.0,
         "pe": 16.19,
         "pe_10": 9.04,
-        "pe_25": 11.05,
-        "pe_50": 13.73,
-        "pe_75": 18.19,
+        "pe_25": 11.06,
+        "pe_50": 13.79,
+        "pe_75": 18.25,
         "pe_90": 19.85
       },
       {
@@ -18477,9 +16847,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 15.5,
         "pe": 15.54,
         "pe_10": 9.13,
-        "pe_25": 11.15,
-        "pe_50": 13.86,
-        "pe_75": 18.36,
+        "pe_25": 11.16,
+        "pe_50": 13.91,
+        "pe_75": 18.42,
         "pe_90": 20.04
       },
       {
@@ -18487,9 +16857,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.6,
         "pe": 14.5,
         "pe_10": 9.22,
-        "pe_25": 11.26,
-        "pe_50": 13.99,
-        "pe_75": 18.53,
+        "pe_25": 11.27,
+        "pe_50": 14.05,
+        "pe_75": 18.59,
         "pe_90": 20.23
       },
       {
@@ -18497,9 +16867,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.9,
         "pe": 13.68,
         "pe_10": 9.3,
-        "pe_25": 11.36,
-        "pe_50": 14.12,
-        "pe_75": 18.7,
+        "pe_25": 11.37,
+        "pe_50": 14.17,
+        "pe_75": 18.76,
         "pe_90": 20.41
       },
       {
@@ -18507,9 +16877,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.05,
         "pe": 12.73,
         "pe_10": 9.38,
-        "pe_25": 11.46,
-        "pe_50": 14.24,
-        "pe_75": 18.87,
+        "pe_25": 11.47,
+        "pe_50": 14.3,
+        "pe_75": 18.93,
         "pe_90": 20.59
       },
       {
@@ -18517,9 +16887,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 11.25,
         "pe": 10.88,
         "pe_10": 9.46,
-        "pe_25": 11.56,
-        "pe_50": 14.37,
-        "pe_75": 19.03,
+        "pe_25": 11.57,
+        "pe_50": 14.42,
+        "pe_75": 19.09,
         "pe_90": 20.77
       },
       {
@@ -18527,9 +16897,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 10.75,
         "pe": 10.3,
         "pe_10": 9.55,
-        "pe_25": 11.67,
-        "pe_50": 14.5,
-        "pe_75": 19.21,
+        "pe_25": 11.68,
+        "pe_50": 14.56,
+        "pe_75": 19.27,
         "pe_90": 20.97
       },
       {
@@ -18537,9 +16907,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 10.8,
         "pe": 10.26,
         "pe_10": 9.63,
-        "pe_25": 11.77,
-        "pe_50": 14.63,
-        "pe_75": 19.37,
+        "pe_25": 11.78,
+        "pe_50": 14.68,
+        "pe_75": 19.44,
         "pe_90": 21.15
       },
       {
@@ -18547,9 +16917,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 11.9,
         "pe": 11.21,
         "pe_10": 9.72,
-        "pe_25": 11.87,
-        "pe_50": 14.75,
-        "pe_75": 19.54,
+        "pe_25": 11.88,
+        "pe_50": 14.81,
+        "pe_75": 19.6,
         "pe_90": 21.32
       },
       {
@@ -18557,9 +16927,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 11.85,
         "pe": 11.07,
         "pe_10": 9.8,
-        "pe_25": 11.97,
-        "pe_50": 14.87,
-        "pe_75": 19.7,
+        "pe_25": 11.98,
+        "pe_50": 14.93,
+        "pe_75": 19.77,
         "pe_90": 21.5
       },
       {
@@ -18567,9 +16937,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 12.1,
         "pe": 11.2,
         "pe_10": 9.89,
-        "pe_25": 12.08,
-        "pe_50": 15.01,
-        "pe_75": 19.88,
+        "pe_25": 12.09,
+        "pe_50": 15.07,
+        "pe_75": 19.95,
         "pe_90": 21.7
       },
       {
@@ -18578,8 +16948,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 12.18,
         "pe_10": 9.58,
         "pe_25": 11.71,
-        "pe_50": 14.55,
-        "pe_75": 19.26,
+        "pe_50": 14.6,
+        "pe_75": 19.33,
         "pe_90": 21.03
       },
       {
@@ -18588,8 +16958,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 13.17,
         "pe_10": 9.28,
         "pe_25": 11.34,
-        "pe_50": 14.08,
-        "pe_75": 18.65,
+        "pe_50": 14.14,
+        "pe_75": 18.72,
         "pe_90": 20.36
       },
       {
@@ -18597,9 +16967,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.3,
         "pe": 13.57,
         "pe_10": 8.97,
-        "pe_25": 10.96,
-        "pe_50": 13.62,
-        "pe_75": 18.04,
+        "pe_25": 10.97,
+        "pe_50": 13.67,
+        "pe_75": 18.1,
         "pe_90": 19.69
       },
       {
@@ -18607,9 +16977,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 12.0,
         "pe": 12.68,
         "pe_10": 8.66,
-        "pe_25": 10.58,
-        "pe_50": 13.15,
-        "pe_75": 17.42,
+        "pe_25": 10.59,
+        "pe_50": 13.2,
+        "pe_75": 17.47,
         "pe_90": 19.01
       },
       {
@@ -18617,9 +16987,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 12.2,
         "pe": 13.36,
         "pe_10": 8.36,
-        "pe_25": 10.21,
-        "pe_50": 12.69,
-        "pe_75": 16.8,
+        "pe_25": 10.22,
+        "pe_50": 12.74,
+        "pe_75": 16.86,
         "pe_90": 18.34
       },
       {
@@ -18627,9 +16997,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 12.6,
         "pe": 14.32,
         "pe_10": 8.05,
-        "pe_25": 9.84,
-        "pe_50": 12.23,
-        "pe_75": 16.19,
+        "pe_25": 9.85,
+        "pe_50": 12.27,
+        "pe_75": 16.25,
         "pe_90": 17.68
       },
       {
@@ -18637,9 +17007,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 11.9,
         "pe": 14.06,
         "pe_10": 7.75,
-        "pe_25": 9.46,
-        "pe_50": 11.76,
-        "pe_75": 15.58,
+        "pe_25": 9.47,
+        "pe_50": 11.81,
+        "pe_75": 15.63,
         "pe_90": 17.0
       },
       {
@@ -18647,9 +17017,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 11.5,
         "pe": 14.14,
         "pe_10": 7.44,
-        "pe_25": 9.09,
-        "pe_50": 11.3,
-        "pe_75": 14.97,
+        "pe_25": 9.1,
+        "pe_50": 11.35,
+        "pe_75": 15.02,
         "pe_90": 16.34
       },
       {
@@ -18657,9 +17027,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 11.55,
         "pe": 14.81,
         "pe_10": 7.14,
-        "pe_25": 8.72,
-        "pe_50": 10.84,
-        "pe_75": 14.35,
+        "pe_25": 8.73,
+        "pe_50": 10.88,
+        "pe_75": 14.4,
         "pe_90": 15.67
       },
       {
@@ -18668,8 +17038,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 15.74,
         "pe_10": 6.83,
         "pe_25": 8.35,
-        "pe_50": 10.37,
-        "pe_75": 13.74,
+        "pe_50": 10.41,
+        "pe_75": 13.78,
         "pe_90": 15.0
       },
       {
@@ -18678,8 +17048,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 15.77,
         "pe_10": 6.53,
         "pe_25": 7.98,
-        "pe_50": 9.91,
-        "pe_75": 13.13,
+        "pe_50": 9.95,
+        "pe_75": 13.17,
         "pe_90": 14.33
       },
       {
@@ -18688,8 +17058,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 16.76,
         "pe_10": 6.23,
         "pe_25": 7.61,
-        "pe_50": 9.45,
-        "pe_75": 12.52,
+        "pe_50": 9.49,
+        "pe_75": 12.56,
         "pe_90": 13.66
       },
       {
@@ -18698,8 +17068,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 16.47,
         "pe_10": 6.31,
         "pe_25": 7.71,
-        "pe_50": 9.58,
-        "pe_75": 12.68,
+        "pe_50": 9.61,
+        "pe_75": 12.72,
         "pe_90": 13.84
       },
       {
@@ -18708,8 +17078,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 18.26,
         "pe_10": 6.39,
         "pe_25": 7.81,
-        "pe_50": 9.7,
-        "pe_75": 12.85,
+        "pe_50": 9.74,
+        "pe_75": 12.89,
         "pe_90": 14.03
       },
       {
@@ -18717,9 +17087,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 12.2,
         "pe": 17.24,
         "pe_10": 6.48,
-        "pe_25": 7.91,
-        "pe_50": 9.83,
-        "pe_75": 13.02,
+        "pe_25": 7.92,
+        "pe_50": 9.87,
+        "pe_75": 13.07,
         "pe_90": 14.22
       },
       {
@@ -18728,8 +17098,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 16.81,
         "pe_10": 6.56,
         "pe_25": 8.02,
-        "pe_50": 9.96,
-        "pe_75": 13.19,
+        "pe_50": 10.0,
+        "pe_75": 13.24,
         "pe_90": 14.4
       },
       {
@@ -18738,8 +17108,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 17.15,
         "pe_10": 6.64,
         "pe_25": 8.12,
-        "pe_50": 10.09,
-        "pe_75": 13.36,
+        "pe_50": 10.13,
+        "pe_75": 13.4,
         "pe_90": 14.58
       },
       {
@@ -18748,8 +17118,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 20.07,
         "pe_10": 6.73,
         "pe_25": 8.22,
-        "pe_50": 10.21,
-        "pe_75": 13.52,
+        "pe_50": 10.25,
+        "pe_75": 13.57,
         "pe_90": 14.76
       },
       {
@@ -18757,9 +17127,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.9,
         "pe": 18.68,
         "pe_10": 6.81,
-        "pe_25": 8.32,
-        "pe_50": 10.34,
-        "pe_75": 13.69,
+        "pe_25": 8.33,
+        "pe_50": 10.38,
+        "pe_75": 13.74,
         "pe_90": 14.95
       },
       {
@@ -18767,9 +17137,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 15.05,
         "pe": 19.98,
         "pe_10": 6.89,
-        "pe_25": 8.42,
-        "pe_50": 10.47,
-        "pe_75": 13.86,
+        "pe_25": 8.43,
+        "pe_50": 10.51,
+        "pe_75": 13.91,
         "pe_90": 15.13
       },
       {
@@ -18778,8 +17148,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 19.67,
         "pe_10": 6.98,
         "pe_25": 8.53,
-        "pe_50": 10.6,
-        "pe_75": 14.03,
+        "pe_50": 10.64,
+        "pe_75": 14.08,
         "pe_90": 15.32
       },
       {
@@ -18788,8 +17158,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 20.09,
         "pe_10": 7.06,
         "pe_25": 8.63,
-        "pe_50": 10.72,
-        "pe_75": 14.2,
+        "pe_50": 10.76,
+        "pe_75": 14.25,
         "pe_90": 15.5
       },
       {
@@ -18797,9 +17167,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 15.3,
         "pe": 19.59,
         "pe_10": 7.15,
-        "pe_25": 8.73,
-        "pe_50": 10.85,
-        "pe_75": 14.37,
+        "pe_25": 8.74,
+        "pe_50": 10.9,
+        "pe_75": 14.42,
         "pe_90": 15.69
       },
       {
@@ -18808,8 +17178,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 17.97,
         "pe_10": 7.23,
         "pe_25": 8.84,
-        "pe_50": 10.98,
-        "pe_75": 14.54,
+        "pe_50": 11.02,
+        "pe_75": 14.59,
         "pe_90": 15.87
       },
       {
@@ -18818,8 +17188,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 18.45,
         "pe_10": 7.07,
         "pe_25": 8.64,
-        "pe_50": 10.73,
-        "pe_75": 14.21,
+        "pe_50": 10.77,
+        "pe_75": 14.26,
         "pe_90": 15.52
       },
       {
@@ -18827,9 +17197,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.15,
         "pe": 18.74,
         "pe_10": 6.91,
-        "pe_25": 8.44,
-        "pe_50": 10.49,
-        "pe_75": 13.9,
+        "pe_25": 8.45,
+        "pe_50": 10.53,
+        "pe_75": 13.94,
         "pe_90": 15.17
       },
       {
@@ -18838,8 +17208,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 21.02,
         "pe_10": 6.75,
         "pe_25": 8.25,
-        "pe_50": 10.25,
-        "pe_75": 13.57,
+        "pe_50": 10.29,
+        "pe_75": 13.62,
         "pe_90": 14.81
       },
       {
@@ -18847,9 +17217,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 16.0,
         "pe": 22.22,
         "pe_10": 6.59,
-        "pe_25": 8.05,
-        "pe_50": 10.01,
-        "pe_75": 13.25,
+        "pe_25": 8.06,
+        "pe_50": 10.05,
+        "pe_75": 13.3,
         "pe_90": 14.46
       },
       {
@@ -18858,8 +17228,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 23.7,
         "pe_10": 6.43,
         "pe_25": 7.86,
-        "pe_50": 9.76,
-        "pe_75": 12.93,
+        "pe_50": 9.8,
+        "pe_75": 12.97,
         "pe_90": 14.11
       },
       {
@@ -18867,9 +17237,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 16.95,
         "pe": 24.74,
         "pe_10": 6.27,
-        "pe_25": 7.66,
-        "pe_50": 9.52,
-        "pe_75": 12.61,
+        "pe_25": 7.67,
+        "pe_50": 9.56,
+        "pe_75": 12.65,
         "pe_90": 13.76
       },
       {
@@ -18877,9 +17247,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 17.55,
         "pe": 26.29,
         "pe_10": 6.11,
-        "pe_25": 7.46,
-        "pe_50": 9.28,
-        "pe_75": 12.28,
+        "pe_25": 7.47,
+        "pe_50": 9.31,
+        "pe_75": 12.33,
         "pe_90": 13.41
       },
       {
@@ -18888,8 +17258,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 26.69,
         "pe_10": 5.95,
         "pe_25": 7.27,
-        "pe_50": 9.03,
-        "pe_75": 11.96,
+        "pe_50": 9.07,
+        "pe_75": 12.0,
         "pe_90": 13.06
       },
       {
@@ -18897,9 +17267,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 16.15,
         "pe": 25.53,
         "pe_10": 5.79,
-        "pe_25": 7.07,
-        "pe_50": 8.79,
-        "pe_75": 11.64,
+        "pe_25": 7.08,
+        "pe_50": 8.82,
+        "pe_75": 11.68,
         "pe_90": 12.71
       },
       {
@@ -18908,8 +17278,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 19.19,
         "pe_10": 5.63,
         "pe_25": 6.88,
-        "pe_50": 8.54,
-        "pe_75": 11.32,
+        "pe_50": 8.58,
+        "pe_75": 11.35,
         "pe_90": 12.35
       },
       {
@@ -18917,9 +17287,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 11.55,
         "pe": 19.33,
         "pe_10": 5.47,
-        "pe_25": 6.68,
-        "pe_50": 8.3,
-        "pe_75": 11.0,
+        "pe_25": 6.69,
+        "pe_50": 8.34,
+        "pe_75": 11.03,
         "pe_90": 12.0
       },
       {
@@ -18927,9 +17297,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 11.25,
         "pe": 19.4,
         "pe_10": 5.31,
-        "pe_25": 6.48,
-        "pe_50": 8.06,
-        "pe_75": 10.67,
+        "pe_25": 6.49,
+        "pe_50": 8.09,
+        "pe_75": 10.71,
         "pe_90": 11.65
       },
       {
@@ -18938,8 +17308,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 18.92,
         "pe_10": 5.49,
         "pe_25": 6.71,
-        "pe_50": 8.34,
-        "pe_75": 11.04,
+        "pe_50": 8.37,
+        "pe_75": 11.08,
         "pe_90": 12.05
       },
       {
@@ -18947,9 +17317,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 11.45,
         "pe": 18.47,
         "pe_10": 5.67,
-        "pe_25": 6.93,
-        "pe_50": 8.61,
-        "pe_75": 11.41,
+        "pe_25": 6.94,
+        "pe_50": 8.65,
+        "pe_75": 11.45,
         "pe_90": 12.45
       },
       {
@@ -18958,8 +17328,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 18.2,
         "pe_10": 5.86,
         "pe_25": 7.16,
-        "pe_50": 8.89,
-        "pe_75": 11.78,
+        "pe_50": 8.93,
+        "pe_75": 11.82,
         "pe_90": 12.86
       },
       {
@@ -18968,8 +17338,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 20.38,
         "pe_10": 6.04,
         "pe_25": 7.38,
-        "pe_50": 9.17,
-        "pe_75": 12.14,
+        "pe_50": 9.21,
+        "pe_75": 12.19,
         "pe_90": 13.26
       },
       {
@@ -18977,9 +17347,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 12.9,
         "pe": 18.97,
         "pe_10": 6.22,
-        "pe_25": 7.6,
-        "pe_50": 9.45,
-        "pe_75": 12.51,
+        "pe_25": 7.61,
+        "pe_50": 9.49,
+        "pe_75": 12.56,
         "pe_90": 13.66
       },
       {
@@ -18988,8 +17358,8 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "pe": 19.93,
         "pe_10": 6.41,
         "pe_25": 7.83,
-        "pe_50": 9.73,
-        "pe_75": 12.88,
+        "pe_50": 9.76,
+        "pe_75": 12.92,
         "pe_90": 14.06
       },
       {
@@ -18997,9 +17367,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.8,
         "pe": 19.17,
         "pe_10": 6.59,
-        "pe_25": 8.05,
-        "pe_50": 10.0,
-        "pe_75": 13.25,
+        "pe_25": 8.06,
+        "pe_50": 10.04,
+        "pe_75": 13.29,
         "pe_90": 14.46
       },
       {
@@ -19007,9 +17377,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.45,
         "pe": 18.18,
         "pe_10": 6.77,
-        "pe_25": 8.27,
-        "pe_50": 10.28,
-        "pe_75": 13.61,
+        "pe_25": 8.28,
+        "pe_50": 10.32,
+        "pe_75": 13.66,
         "pe_90": 14.86
       },
       {
@@ -19017,9 +17387,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.4,
         "pe": 17.63,
         "pe_10": 6.96,
-        "pe_25": 8.5,
-        "pe_50": 10.56,
-        "pe_75": 13.99,
+        "pe_25": 8.51,
+        "pe_50": 10.6,
+        "pe_75": 14.03,
         "pe_90": 15.27
       },
       {
@@ -19027,9 +17397,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.0,
         "pe": 17.95,
         "pe_10": 7.14,
-        "pe_25": 8.72,
-        "pe_50": 10.84,
-        "pe_75": 14.35,
+        "pe_25": 8.73,
+        "pe_50": 10.88,
+        "pe_75": 14.4,
         "pe_90": 15.67
       },
       {
@@ -19037,9 +17407,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.95,
         "pe": 18.69,
         "pe_10": 7.32,
-        "pe_25": 8.94,
-        "pe_50": 11.11,
-        "pe_75": 14.72,
+        "pe_25": 8.95,
+        "pe_50": 11.16,
+        "pe_75": 14.77,
         "pe_90": 16.07
       },
       {
@@ -19047,9 +17417,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 16.45,
         "pe": 20.06,
         "pe_10": 7.51,
-        "pe_25": 9.17,
-        "pe_50": 11.39,
-        "pe_75": 15.09,
+        "pe_25": 9.18,
+        "pe_50": 11.44,
+        "pe_75": 15.14,
         "pe_90": 16.47
       },
       {
@@ -19057,9 +17427,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 14.9,
         "pe": 15.63,
         "pe_10": 8.72,
-        "pe_25": 10.66,
-        "pe_50": 13.25,
-        "pe_75": 17.54,
+        "pe_25": 10.67,
+        "pe_50": 13.3,
+        "pe_75": 17.6,
         "pe_90": 19.15
       },
       {
@@ -19067,9 +17437,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 15.3,
         "pe": 14.08,
         "pe_10": 9.95,
-        "pe_25": 12.15,
-        "pe_50": 15.1,
-        "pe_75": 20.0,
+        "pe_25": 12.16,
+        "pe_50": 15.16,
+        "pe_75": 20.06,
         "pe_90": 21.83
       },
       {
@@ -19077,9 +17447,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 13.65,
         "pe": 11.19,
         "pe_10": 11.16,
-        "pe_25": 13.64,
-        "pe_50": 16.95,
-        "pe_75": 22.45,
+        "pe_25": 13.65,
+        "pe_50": 17.02,
+        "pe_75": 22.52,
         "pe_90": 24.5
       },
       {
@@ -19087,9 +17457,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 15.55,
         "pe": 11.49,
         "pe_10": 12.39,
-        "pe_25": 15.13,
-        "pe_50": 18.8,
-        "pe_75": 24.91,
+        "pe_25": 15.14,
+        "pe_50": 18.88,
+        "pe_75": 24.99,
         "pe_90": 27.19
       },
       {
@@ -19097,9 +17467,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 15.45,
         "pe": 10.39,
         "pe_10": 13.61,
-        "pe_25": 16.63,
-        "pe_50": 20.66,
-        "pe_75": 27.36,
+        "pe_25": 16.64,
+        "pe_50": 20.74,
+        "pe_75": 27.46,
         "pe_90": 29.87
       },
       {
@@ -19107,9 +17477,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 15.9,
         "pe": 9.81,
         "pe_10": 14.83,
-        "pe_25": 18.12,
-        "pe_50": 22.52,
-        "pe_75": 29.83,
+        "pe_25": 18.14,
+        "pe_50": 22.61,
+        "pe_75": 29.93,
         "pe_90": 32.56
       },
       {
@@ -19117,9 +17487,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 22.35,
         "pe": 12.75,
         "pe_10": 16.04,
-        "pe_25": 19.6,
-        "pe_50": 24.36,
-        "pe_75": 32.26,
+        "pe_25": 19.62,
+        "pe_50": 24.45,
+        "pe_75": 32.37,
         "pe_90": 35.21
       },
       {
@@ -19127,9 +17497,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 21.2,
         "pe": 11.24,
         "pe_10": 17.26,
-        "pe_25": 21.09,
-        "pe_50": 26.21,
-        "pe_75": 34.71,
+        "pe_25": 21.11,
+        "pe_50": 26.31,
+        "pe_75": 34.83,
         "pe_90": 37.89
       },
       {
@@ -19137,9 +17507,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 28.55,
         "pe": 14.13,
         "pe_10": 18.49,
-        "pe_25": 22.59,
-        "pe_50": 28.08,
-        "pe_75": 37.18,
+        "pe_25": 22.61,
+        "pe_50": 28.19,
+        "pe_75": 37.31,
         "pe_90": 40.59
       },
       {
@@ -19147,9 +17517,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 30.7,
         "pe": 14.26,
         "pe_10": 19.7,
-        "pe_25": 24.07,
-        "pe_50": 29.91,
-        "pe_75": 39.62,
+        "pe_25": 24.09,
+        "pe_50": 30.03,
+        "pe_75": 39.75,
         "pe_90": 43.25
       },
       {
@@ -19157,9 +17527,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 40.5,
         "pe": 17.71,
         "pe_10": 20.93,
-        "pe_25": 25.57,
-        "pe_50": 31.78,
-        "pe_75": 42.08,
+        "pe_25": 25.59,
+        "pe_50": 31.9,
+        "pe_75": 42.23,
         "pe_90": 45.94
       },
       {
@@ -19167,9 +17537,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 47.15,
         "pe": 19.48,
         "pe_10": 22.15,
-        "pe_25": 27.07,
-        "pe_50": 33.63,
-        "pe_75": 44.54,
+        "pe_25": 27.08,
+        "pe_50": 33.77,
+        "pe_75": 44.69,
         "pe_90": 48.62
       },
       {
@@ -19177,9 +17547,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 50.0,
         "pe": 19.24,
         "pe_10": 23.78,
-        "pe_25": 29.06,
-        "pe_50": 36.11,
-        "pe_75": 47.82,
+        "pe_25": 29.08,
+        "pe_50": 36.25,
+        "pe_75": 47.99,
         "pe_90": 52.2
       },
       {
@@ -19187,9 +17557,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 54.2,
         "pe": 19.51,
         "pe_10": 25.42,
-        "pe_25": 31.07,
-        "pe_50": 38.6,
-        "pe_75": 51.12,
+        "pe_25": 31.09,
+        "pe_50": 38.75,
+        "pe_75": 51.3,
         "pe_90": 55.81
       },
       {
@@ -19197,9 +17567,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 50.2,
         "pe": 16.97,
         "pe_10": 27.07,
-        "pe_25": 33.08,
-        "pe_50": 41.1,
-        "pe_75": 54.44,
+        "pe_25": 33.1,
+        "pe_50": 41.27,
+        "pe_75": 54.62,
         "pe_90": 59.42
       },
       {
@@ -19207,9 +17577,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 56.7,
         "pe": 18.08,
         "pe_10": 28.7,
-        "pe_25": 35.07,
-        "pe_50": 43.58,
-        "pe_75": 57.71,
+        "pe_25": 35.09,
+        "pe_50": 43.75,
+        "pe_75": 57.91,
         "pe_90": 63.0
       },
       {
@@ -19217,9 +17587,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 53.0,
         "pe": 15.98,
         "pe_10": 30.35,
-        "pe_25": 37.09,
-        "pe_50": 46.08,
-        "pe_75": 61.03,
+        "pe_25": 37.11,
+        "pe_50": 46.27,
+        "pe_75": 61.24,
         "pe_90": 66.62
       },
       {
@@ -19227,9 +17597,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 53.1,
         "pe": 15.19,
         "pe_10": 31.99,
-        "pe_25": 39.09,
-        "pe_50": 48.57,
-        "pe_75": 64.33,
+        "pe_25": 39.12,
+        "pe_50": 48.77,
+        "pe_75": 64.55,
         "pe_90": 70.22
       },
       {
@@ -19237,9 +17607,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 57.8,
         "pe": 15.73,
         "pe_10": 33.63,
-        "pe_25": 41.09,
-        "pe_50": 51.06,
-        "pe_75": 67.62,
+        "pe_25": 41.12,
+        "pe_50": 51.26,
+        "pe_75": 67.85,
         "pe_90": 73.81
       },
       {
@@ -19247,9 +17617,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 63.1,
         "pe": 16.38,
         "pe_10": 35.26,
-        "pe_25": 43.08,
-        "pe_50": 53.53,
-        "pe_75": 70.89,
+        "pe_25": 43.11,
+        "pe_50": 53.74,
+        "pe_75": 71.13,
         "pe_90": 77.38
       },
       {
@@ -19257,9 +17627,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 64.0,
         "pe": 15.87,
         "pe_10": 36.91,
-        "pe_25": 45.1,
-        "pe_50": 56.04,
-        "pe_75": 74.21,
+        "pe_25": 45.13,
+        "pe_50": 56.26,
+        "pe_75": 74.47,
         "pe_90": 81.01
       },
       {
@@ -19267,9 +17637,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 58.0,
         "pe": 13.77,
         "pe_10": 38.55,
-        "pe_25": 47.1,
-        "pe_50": 58.53,
-        "pe_75": 77.51,
+        "pe_25": 47.13,
+        "pe_50": 58.76,
+        "pe_75": 77.78,
         "pe_90": 84.61
       },
       {
@@ -19277,9 +17647,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 63.7,
         "pe": 14.51,
         "pe_10": 40.18,
-        "pe_25": 49.09,
-        "pe_50": 61.0,
-        "pe_75": 80.79,
+        "pe_25": 49.12,
+        "pe_50": 61.24,
+        "pe_75": 81.06,
         "pe_90": 88.19
       },
       {
@@ -19287,9 +17657,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 65.0,
         "pe": 14.22,
         "pe_10": 41.83,
-        "pe_25": 51.12,
-        "pe_50": 63.51,
-        "pe_75": 84.12,
+        "pe_25": 51.15,
+        "pe_50": 63.77,
+        "pe_75": 84.4,
         "pe_90": 91.82
       },
       {
@@ -19297,9 +17667,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 57.3,
         "pe": 11.99,
         "pe_10": 43.74,
-        "pe_25": 53.44,
-        "pe_50": 66.4,
-        "pe_75": 87.95,
+        "pe_25": 53.48,
+        "pe_50": 66.67,
+        "pe_75": 88.24,
         "pe_90": 96.0
       },
       {
@@ -19307,9 +17677,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 52.1,
         "pe": 10.44,
         "pe_10": 45.67,
-        "pe_25": 55.81,
-        "pe_50": 69.34,
-        "pe_75": 91.84,
+        "pe_25": 55.84,
+        "pe_50": 69.62,
+        "pe_75": 92.15,
         "pe_90": 100.25
       },
       {
@@ -19317,9 +17687,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 54.0,
         "pe": 10.38,
         "pe_10": 47.61,
-        "pe_25": 58.17,
-        "pe_50": 72.29,
-        "pe_75": 95.74,
+        "pe_25": 58.21,
+        "pe_50": 72.57,
+        "pe_75": 96.06,
         "pe_90": 104.5
       },
       {
@@ -19327,9 +17697,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 47.8,
         "pe": 8.84,
         "pe_10": 49.49,
-        "pe_25": 60.47,
-        "pe_50": 75.13,
-        "pe_75": 99.51,
+        "pe_25": 60.51,
+        "pe_50": 75.43,
+        "pe_75": 99.84,
         "pe_90": 108.62
       },
       {
@@ -19337,9 +17707,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 51.4,
         "pe": 9.15,
         "pe_10": 51.41,
-        "pe_25": 62.82,
-        "pe_50": 78.05,
-        "pe_75": 103.38,
+        "pe_25": 62.86,
+        "pe_50": 78.36,
+        "pe_75": 103.73,
         "pe_90": 112.84
       },
       {
@@ -19347,9 +17717,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 39.15,
         "pe": 6.72,
         "pe_10": 53.32,
-        "pe_25": 65.15,
-        "pe_50": 80.95,
-        "pe_75": 107.21,
+        "pe_25": 65.19,
+        "pe_50": 81.27,
+        "pe_75": 107.58,
         "pe_90": 117.03
       },
       {
@@ -19357,9 +17727,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 40.15,
         "pe": 6.65,
         "pe_10": 55.26,
-        "pe_25": 67.52,
-        "pe_50": 83.89,
-        "pe_75": 111.11,
+        "pe_25": 67.56,
+        "pe_50": 84.22,
+        "pe_75": 111.48,
         "pe_90": 121.28
       },
       {
@@ -19367,9 +17737,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 41.1,
         "pe": 6.58,
         "pe_10": 57.17,
-        "pe_25": 69.85,
-        "pe_50": 86.79,
-        "pe_75": 114.95,
+        "pe_25": 69.89,
+        "pe_50": 87.13,
+        "pe_75": 115.34,
         "pe_90": 125.47
       },
       {
@@ -19377,9 +17747,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 35.75,
         "pe": 5.53,
         "pe_10": 59.17,
-        "pe_25": 72.29,
-        "pe_50": 89.83,
-        "pe_75": 118.97,
+        "pe_25": 72.34,
+        "pe_50": 90.18,
+        "pe_75": 119.37,
         "pe_90": 129.86
       },
       {
@@ -19387,9 +17757,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 39.1,
         "pe": 5.86,
         "pe_10": 61.07,
-        "pe_25": 74.61,
-        "pe_50": 92.71,
-        "pe_75": 122.79,
+        "pe_25": 74.66,
+        "pe_50": 93.08,
+        "pe_75": 123.21,
         "pe_90": 134.03
       },
       {
@@ -19397,9 +17767,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 45.8,
         "pe": 6.66,
         "pe_10": 62.94,
-        "pe_25": 76.9,
-        "pe_50": 95.55,
-        "pe_75": 126.55,
+        "pe_25": 76.95,
+        "pe_50": 95.93,
+        "pe_75": 126.98,
         "pe_90": 138.14
       },
       {
@@ -19407,9 +17777,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 40.7,
         "pe": 5.74,
         "pe_10": 64.89,
-        "pe_25": 79.29,
-        "pe_50": 98.52,
-        "pe_75": 130.48,
+        "pe_25": 79.34,
+        "pe_50": 98.91,
+        "pe_75": 130.93,
         "pe_90": 142.44
       },
       {
@@ -19417,9 +17787,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 48.8,
         "pe": 7.06,
         "pe_10": 63.26,
-        "pe_25": 77.3,
-        "pe_50": 96.04,
-        "pe_75": 127.2,
+        "pe_25": 77.35,
+        "pe_50": 96.42,
+        "pe_75": 127.63,
         "pe_90": 138.85
       },
       {
@@ -19427,9 +17797,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 49.95,
         "pe": 7.42,
         "pe_10": 61.61,
-        "pe_25": 75.28,
-        "pe_50": 93.54,
-        "pe_75": 123.88,
+        "pe_25": 75.33,
+        "pe_50": 93.91,
+        "pe_75": 124.3,
         "pe_90": 135.23
       },
       {
@@ -19437,9 +17807,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 52.9,
         "pe": 8.08,
         "pe_10": 59.92,
-        "pe_25": 73.21,
-        "pe_50": 90.97,
-        "pe_75": 120.48,
+        "pe_25": 73.26,
+        "pe_50": 91.33,
+        "pe_75": 120.89,
         "pe_90": 131.52
       },
       {
@@ -19447,9 +17817,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 49.1,
         "pe": 7.71,
         "pe_10": 58.28,
-        "pe_25": 71.21,
-        "pe_50": 88.49,
-        "pe_75": 117.19,
+        "pe_25": 71.26,
+        "pe_50": 88.84,
+        "pe_75": 117.59,
         "pe_90": 127.93
       },
       {
@@ -19457,9 +17827,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 51.8,
         "pe": 8.37,
         "pe_10": 56.64,
-        "pe_25": 69.21,
-        "pe_50": 85.99,
-        "pe_75": 113.89,
+        "pe_25": 69.25,
+        "pe_50": 86.33,
+        "pe_75": 114.28,
         "pe_90": 124.32
       },
       {
@@ -19467,9 +17837,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 48.5,
         "pe": 8.07,
         "pe_10": 55.0,
-        "pe_25": 67.21,
-        "pe_50": 83.51,
-        "pe_75": 110.6,
+        "pe_25": 67.25,
+        "pe_50": 83.84,
+        "pe_75": 110.97,
         "pe_90": 120.73
       },
       {
@@ -19477,9 +17847,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 47.0,
         "pe": 8.06,
         "pe_10": 53.37,
-        "pe_25": 65.21,
-        "pe_50": 81.03,
-        "pe_75": 107.31,
+        "pe_25": 65.25,
+        "pe_50": 81.35,
+        "pe_75": 107.67,
         "pe_90": 117.14
       },
       {
@@ -19487,9 +17857,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 45.5,
         "pe": 8.05,
         "pe_10": 51.73,
-        "pe_25": 63.21,
-        "pe_50": 78.54,
-        "pe_75": 104.01,
+        "pe_25": 63.25,
+        "pe_50": 78.85,
+        "pe_75": 104.37,
         "pe_90": 113.54
       },
       {
@@ -19497,9 +17867,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 45.2,
         "pe": 8.26,
         "pe_10": 50.08,
-        "pe_25": 61.19,
-        "pe_50": 76.04,
-        "pe_75": 100.7,
+        "pe_25": 61.23,
+        "pe_50": 76.34,
+        "pe_75": 101.04,
         "pe_90": 109.92
       },
       {
@@ -19507,9 +17877,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 46.2,
         "pe": 8.73,
         "pe_10": 48.43,
-        "pe_25": 59.18,
-        "pe_50": 73.53,
-        "pe_75": 97.39,
+        "pe_25": 59.22,
+        "pe_50": 73.82,
+        "pe_75": 97.72,
         "pe_90": 106.31
       },
       {
@@ -19517,9 +17887,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 48.9,
         "pe": 9.57,
         "pe_10": 46.76,
-        "pe_25": 57.14,
-        "pe_50": 71.0,
-        "pe_75": 94.03,
+        "pe_25": 57.18,
+        "pe_50": 71.28,
+        "pe_75": 94.35,
         "pe_90": 102.64
       },
       {
@@ -19527,9 +17897,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 52.6,
         "pe": 10.67,
         "pe_10": 45.12,
-        "pe_25": 55.13,
-        "pe_50": 68.5,
-        "pe_75": 90.72,
+        "pe_25": 55.16,
+        "pe_50": 68.77,
+        "pe_75": 91.03,
         "pe_90": 99.03
       },
       {
@@ -19537,9 +17907,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 49.0,
         "pe": 10.13,
         "pe_10": 44.27,
-        "pe_25": 54.09,
-        "pe_50": 67.21,
-        "pe_75": 89.02,
+        "pe_25": 54.13,
+        "pe_50": 67.48,
+        "pe_75": 89.32,
         "pe_90": 97.17
       },
       {
@@ -19547,9 +17917,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 48.85,
         "pe": 10.3,
         "pe_10": 43.41,
-        "pe_25": 53.04,
-        "pe_50": 65.9,
-        "pe_75": 87.28,
+        "pe_25": 53.07,
+        "pe_50": 66.16,
+        "pe_75": 87.57,
         "pe_90": 95.27
       },
       {
@@ -19557,9 +17927,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 52.2,
         "pe": 11.23,
         "pe_10": 42.54,
-        "pe_25": 51.98,
-        "pe_50": 64.59,
-        "pe_75": 85.54,
+        "pe_25": 52.01,
+        "pe_50": 64.84,
+        "pe_75": 85.83,
         "pe_90": 93.37
       },
       {
@@ -19567,9 +17937,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 50.7,
         "pe": 11.13,
         "pe_10": 41.69,
-        "pe_25": 50.94,
-        "pe_50": 63.3,
-        "pe_75": 83.83,
+        "pe_25": 50.97,
+        "pe_50": 63.55,
+        "pe_75": 84.11,
         "pe_90": 91.51
       },
       {
@@ -19577,9 +17947,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 55.0,
         "pe": 12.33,
         "pe_10": 40.82,
-        "pe_25": 49.88,
-        "pe_50": 61.98,
-        "pe_75": 82.09,
+        "pe_25": 49.91,
+        "pe_50": 62.23,
+        "pe_75": 82.37,
         "pe_90": 89.61
       },
       {
@@ -19587,9 +17957,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 55.7,
         "pe": 12.76,
         "pe_10": 39.95,
-        "pe_25": 48.81,
-        "pe_50": 60.65,
-        "pe_75": 80.33,
+        "pe_25": 48.85,
+        "pe_50": 60.89,
+        "pe_75": 80.6,
         "pe_90": 87.69
       },
       {
@@ -19597,9 +17967,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 50.4,
         "pe": 11.8,
         "pe_10": 39.09,
-        "pe_25": 47.76,
-        "pe_50": 59.35,
-        "pe_75": 78.6,
+        "pe_25": 47.79,
+        "pe_50": 59.58,
+        "pe_75": 78.87,
         "pe_90": 85.8
       },
       {
@@ -19607,9 +17977,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 55.5,
         "pe": 13.29,
         "pe_10": 38.22,
-        "pe_25": 46.7,
-        "pe_50": 58.03,
-        "pe_75": 76.85,
+        "pe_25": 46.73,
+        "pe_50": 58.26,
+        "pe_75": 77.11,
         "pe_90": 83.89
       },
       {
@@ -19617,9 +17987,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 53.8,
         "pe": 13.18,
         "pe_10": 37.36,
-        "pe_25": 45.65,
-        "pe_50": 56.72,
-        "pe_75": 75.12,
+        "pe_25": 45.68,
+        "pe_50": 56.94,
+        "pe_75": 75.37,
         "pe_90": 82.0
       },
       {
@@ -19627,9 +17997,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 48.15,
         "pe": 12.07,
         "pe_10": 36.51,
-        "pe_25": 44.61,
-        "pe_50": 55.43,
-        "pe_75": 73.41,
+        "pe_25": 44.64,
+        "pe_50": 55.65,
+        "pe_75": 73.66,
         "pe_90": 80.14
       },
       {
@@ -19637,9 +18007,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 43.55,
         "pe": 11.18,
         "pe_10": 35.65,
-        "pe_25": 43.56,
-        "pe_50": 54.13,
-        "pe_75": 71.68,
+        "pe_25": 43.59,
+        "pe_50": 54.34,
+        "pe_75": 71.93,
         "pe_90": 78.25
       },
       {
@@ -19647,9 +18017,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 43.05,
         "pe": 11.33,
         "pe_10": 34.77,
-        "pe_25": 42.49,
-        "pe_50": 52.8,
-        "pe_75": 69.92,
+        "pe_25": 42.52,
+        "pe_50": 53.01,
+        "pe_75": 70.16,
         "pe_90": 76.33
       },
       {
@@ -19657,9 +18027,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 40.2,
         "pe": 10.72,
         "pe_10": 34.32,
-        "pe_25": 41.93,
-        "pe_50": 52.11,
-        "pe_75": 69.01,
+        "pe_25": 41.96,
+        "pe_50": 52.31,
+        "pe_75": 69.24,
         "pe_90": 75.33
       },
       {
@@ -19667,9 +18037,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 43.7,
         "pe": 11.8,
         "pe_10": 33.89,
-        "pe_25": 41.41,
-        "pe_50": 51.46,
-        "pe_75": 68.15,
+        "pe_25": 41.44,
+        "pe_50": 51.66,
+        "pe_75": 68.38,
         "pe_90": 74.39
       },
       {
@@ -19677,9 +18047,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 44.65,
         "pe": 12.22,
         "pe_10": 33.44,
-        "pe_25": 40.86,
-        "pe_50": 50.77,
-        "pe_75": 67.24,
+        "pe_25": 40.89,
+        "pe_50": 50.97,
+        "pe_75": 67.47,
         "pe_90": 73.4
       },
       {
@@ -19687,9 +18057,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 45.2,
         "pe": 12.53,
         "pe_10": 33.01,
-        "pe_25": 40.34,
-        "pe_50": 50.12,
-        "pe_75": 66.38,
+        "pe_25": 40.37,
+        "pe_50": 50.32,
+        "pe_75": 66.61,
         "pe_90": 72.46
       },
       {
@@ -19697,9 +18067,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 46.75,
         "pe": 13.14,
         "pe_10": 32.56,
-        "pe_25": 39.79,
-        "pe_50": 49.44,
-        "pe_75": 65.47,
+        "pe_25": 39.81,
+        "pe_50": 49.63,
+        "pe_75": 65.7,
         "pe_90": 71.47
       },
       {
@@ -19707,9 +18077,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 44.2,
         "pe": 12.59,
         "pe_10": 32.13,
-        "pe_25": 39.26,
-        "pe_50": 48.78,
-        "pe_75": 64.61,
+        "pe_25": 39.28,
+        "pe_50": 48.97,
+        "pe_75": 64.83,
         "pe_90": 70.52
       },
       {
@@ -19717,9 +18087,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 41.55,
         "pe": 12.0,
         "pe_10": 31.69,
-        "pe_25": 38.72,
-        "pe_50": 48.11,
-        "pe_75": 63.72,
+        "pe_25": 38.75,
+        "pe_50": 48.3,
+        "pe_75": 63.94,
         "pe_90": 69.55
       },
       {
@@ -19727,9 +18097,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 40.5,
         "pe": 11.87,
         "pe_10": 31.23,
-        "pe_25": 38.15,
-        "pe_50": 47.41,
-        "pe_75": 62.79,
+        "pe_25": 38.18,
+        "pe_50": 47.6,
+        "pe_75": 63.0,
         "pe_90": 68.54
       },
       {
@@ -19737,9 +18107,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 45.55,
         "pe": 13.54,
         "pe_10": 30.79,
-        "pe_25": 37.62,
-        "pe_50": 46.74,
-        "pe_75": 61.91,
+        "pe_25": 37.64,
+        "pe_50": 46.93,
+        "pe_75": 62.12,
         "pe_90": 67.58
       },
       {
@@ -19747,9 +18117,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 46.4,
         "pe": 13.99,
         "pe_10": 30.35,
-        "pe_25": 37.09,
-        "pe_50": 46.08,
-        "pe_75": 61.03,
+        "pe_25": 37.11,
+        "pe_50": 46.27,
+        "pe_75": 61.24,
         "pe_90": 66.62
       },
       {
@@ -19757,9 +18127,9 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 45.8,
         "pe": 14.01,
         "pe_10": 29.92,
-        "pe_25": 36.56,
-        "pe_50": 45.42,
-        "pe_75": 60.16,
+        "pe_25": 36.58,
+        "pe_50": 45.6,
+        "pe_75": 60.36,
         "pe_90": 65.67
       },
       {
@@ -19767,10 +18137,20 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
         "price": 49.25,
         "pe": 15.3,
         "pe_10": 29.46,
-        "pe_25": 36.0,
-        "pe_50": 44.73,
-        "pe_75": 59.24,
+        "pe_25": 36.02,
+        "pe_50": 44.9,
+        "pe_75": 59.44,
         "pe_90": 64.66
+      },
+      {
+        "date": "2026-01-16",
+        "price": 62.4,
+        "pe": 19.38,
+        "pe_10": 29.47,
+        "pe_25": 36.03,
+        "pe_50": 44.92,
+        "pe_75": 59.45,
+        "pe_90": 64.68
       }
     ]
   },
@@ -20631,6 +19011,10 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
       {
         "date": "2025-12-16",
         "revenue_yoy": 1.66
+      },
+      {
+        "date": "2026-01-16",
+        "revenue_yoy": 5.32
       }
     ]
   },
@@ -20698,16 +19082,16 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 15.7 | +39.9% | 0.012 | 2020-06 (+1040.6%) | 2008-07 (-83.0%) |
-| 6個月 | 15.8 | +25.9% | 0.024 | 2020-06 (+805.5%) | 2008-05 (-76.0%) |
-| 1年 | 15.9 | +17.1% | 0.011 | 2020-03 (+274.0%) | 2007-12 (-59.3%) |
-| 2年 | 16.1 | +13.1% | 0.000 | 2019-09 (+122.5%) | 2007-01 (-34.9%) |
-| 3年 | 16.6 | +12.2% | 0.001 | 2018-12 (+82.1%) | 2006-01 (-20.4%) |
+| 3個月 | 15.8 | +40.7% | 0.012 | 2020-06 (+1040.6%) | 2008-07 (-83.0%) |
+| 6個月 | 15.8 | +26.4% | 0.025 | 2020-06 (+805.5%) | 2008-05 (-76.0%) |
+| 1年 | 15.9 | +17.3% | 0.011 | 2020-03 (+274.0%) | 2007-12 (-59.3%) |
+| 2年 | 16.1 | +13.2% | 0.000 | 2019-09 (+122.5%) | 2007-01 (-34.9%) |
+| 3年 | 16.6 | +12.4% | 0.001 | 2018-12 (+82.1%) | 2006-02 (-20.3%) |
 | 4年 | 17.2 | +12.3% | 0.000 | 2019-03 (+50.0%) | 2007-09 (-8.0%) |
-| 5年 | 17.3 | +12.7% | 0.002 | 2016-12 (+43.4%) | 2007-10 (-8.4%) |
-| 6年 | 17.6 | +11.9% | 0.004 | 2015-09 (+36.1%) | 2006-11 (-5.8%) |
-| 8年 | 17.1 | +10.5% | 0.016 | 2016-08 (+25.2%) | 2007-10 (-3.3%) |
-| 10年 | 17.2 | +9.6% | 0.035 | 2011-09 (+20.0%) | 2006-04 (-2.4%) |
+| 5年 | 17.4 | +12.7% | 0.002 | 2016-12 (+43.4%) | 2007-10 (-8.4%) |
+| 6年 | 17.6 | +12.1% | 0.005 | 2015-09 (+36.1%) | 2006-11 (-5.8%) |
+| 8年 | 17.1 | +10.6% | 0.017 | 2016-08 (+25.2%) | 2007-10 (-3.3%) |
+| 10年 | 17.2 | +9.8% | 0.039 | 2016-01 (+20.1%) | 2006-04 (-2.4%) |
 
 
 ## 🎯 使用說明
@@ -20726,4 +19110,4 @@ description: "2303 聯電 (半導體業) 本益比與未來報酬率關係分析
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-25 20:33:27 CST*
+*數據更新時間: 2026-02-07 12:36:19 CST*

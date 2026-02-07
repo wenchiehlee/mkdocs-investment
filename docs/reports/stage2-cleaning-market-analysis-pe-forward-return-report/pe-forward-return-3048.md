@@ -2,7 +2,7 @@
 title: "3048 益登 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-01-25"
+date: "2026-02-07"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
     - **產業別**: 電子通路業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-01-25 20:38:33 CST
+    - **報告生成時間**: 2026-02-07 12:41:27 CST
 
 ## 📈 互動式圖表
 
@@ -35,15 +35,6 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
   "title": "3048 益登 - 本益比與未來報酬率分析",
   "data": {
     "values": [
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 19.51,
-        "forward_return": -19.91,
-        "start_price": 19.9,
-        "start_year": 2006
-      },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
@@ -1982,177 +1973,6 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2024-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 114.56,
-        "start_price": 24.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 126.0,
-        "start_price": 25.75,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 532.18,
-        "start_price": 23.55,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 1126.09,
-        "start_price": 23.35,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 309.49,
-        "start_price": 31.55,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -17.06,
-        "start_price": 40.2,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -39.72,
-        "start_price": 42.6,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -65.62,
-        "start_price": 44.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -53.88,
-        "start_price": 37.35,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -64.45,
-        "start_price": 37.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -50.82,
-        "start_price": 32.7,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -50.5,
-        "start_price": 30.8,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -20.97,
-        "start_price": 28.9,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -36.35,
-        "start_price": 29.9,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.55,
-        "start_price": 25.9,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.46,
-        "start_price": 24.55,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 313.61,
-        "start_price": 26.75,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 449.9,
-        "start_price": 26.2,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 387.3,
-        "start_price": 25.5,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2025-08-16",
         "pe_ratio": 409.8,
         "forward_return": 28.11,
@@ -2169,13 +1989,13 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
         "start_year": 2025
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 19.51,
-        "forward_return": -61.19,
-        "start_price": 19.9,
-        "start_year": 2006
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-10-16",
+        "pe_ratio": 59.22,
+        "forward_return": 17.2,
+        "start_price": 38.0,
+        "start_year": 2025
       },
       {
         "horizon": "0.5y",
@@ -4113,177 +3933,6 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
         "start_year": 2023
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 217.95,
-        "start_price": 24.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 204.7,
-        "start_price": 25.75,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 131.39,
-        "start_price": 23.55,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 171.3,
-        "start_price": 23.35,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.36,
-        "start_price": 31.55,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -37.36,
-        "start_price": 40.2,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -53.71,
-        "start_price": 42.6,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -59.87,
-        "start_price": 44.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -52.23,
-        "start_price": 37.35,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -44.12,
-        "start_price": 37.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -33.32,
-        "start_price": 32.7,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -27.77,
-        "start_price": 30.8,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -22.32,
-        "start_price": 28.9,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 63.93,
-        "start_price": 29.9,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 92.38,
-        "start_price": 25.9,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 139.16,
-        "start_price": 24.55,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 112.04,
-        "start_price": 26.75,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 151.03,
-        "start_price": 26.2,
-        "start_year": 2025
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 19.51,
-        "forward_return": -23.63,
-        "start_price": 19.9,
-        "start_year": 2006
-      },
-      {
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-02-14",
@@ -6217,123 +5866,6 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
         "forward_return": 28.42,
         "start_price": 24.75,
         "start_year": 2023
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.99,
-        "start_price": 24.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.12,
-        "start_price": 25.75,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.24,
-        "start_price": 23.55,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.43,
-        "start_price": 23.35,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.05,
-        "start_price": 31.55,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -32.36,
-        "start_price": 40.2,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -40.16,
-        "start_price": 42.6,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -13.08,
-        "start_price": 44.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.77,
-        "start_price": 37.35,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.33,
-        "start_price": 37.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 19.59,
-        "start_price": 32.7,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 34.93,
-        "start_price": 30.8,
-        "start_year": 2024
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 19.51,
-        "forward_return": -9.36,
-        "start_price": 19.9,
-        "start_year": 2006
       },
       {
         "horizon": "2y",
@@ -8273,15 +7805,6 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 19.51,
-        "forward_return": -25.79,
-        "start_price": 19.9,
-        "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
         "start_date": "2006-02-14",
         "pe_ratio": 18.04,
         "forward_return": -22.84,
@@ -10107,13 +9630,13 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
         "start_year": 2022
       },
       {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 19.51,
-        "forward_return": -0.25,
-        "start_price": 19.9,
-        "start_year": 2006
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2023-01-16",
+        "pe_ratio": 9.61,
+        "forward_return": 15.8,
+        "start_price": 27.4,
+        "start_year": 2023
       },
       {
         "horizon": "4y",
@@ -11835,13 +11358,13 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
         "start_year": 2021
       },
       {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 19.51,
-        "forward_return": -0.46,
-        "start_price": 19.9,
-        "start_year": 2006
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2022-01-16",
+        "pe_ratio": 7.22,
+        "forward_return": 9.04,
+        "start_price": 32.5,
+        "start_year": 2022
       },
       {
         "horizon": "5y",
@@ -13455,13 +12978,13 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
         "start_year": 2020
       },
       {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 19.51,
-        "forward_return": -7.07,
-        "start_price": 19.9,
-        "start_year": 2006
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2021-01-16",
+        "pe_ratio": 6.9,
+        "forward_return": 16.34,
+        "start_price": 22.45,
+        "start_year": 2021
       },
       {
         "horizon": "6y",
@@ -14967,13 +14490,13 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
         "start_year": 2019
       },
       {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 19.51,
-        "forward_return": 0.21,
-        "start_price": 19.9,
-        "start_year": 2006
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2020-01-16",
+        "pe_ratio": 9.42,
+        "forward_return": 19.58,
+        "start_price": 16.7,
+        "start_year": 2020
       },
       {
         "horizon": "8y",
@@ -16263,13 +15786,13 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
         "start_year": 2017
       },
       {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 19.51,
-        "forward_return": 2.13,
-        "start_price": 19.9,
-        "start_year": 2006
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2018-01-16",
+        "pe_ratio": 12.62,
+        "forward_return": 12.29,
+        "start_price": 20.0,
+        "start_year": 2018
       },
       {
         "horizon": "10y",
@@ -17341,6 +16864,15 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
         "forward_return": 10.96,
         "start_price": 19.1,
         "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2016-01-16",
+        "pe_ratio": 8.77,
+        "forward_return": 11.36,
+        "start_price": 17.75,
+        "start_year": 2016
       }
     ]
   },
@@ -17552,16 +17084,6 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
   "title": "3048 益登 - 本益比河流帶",
   "data": {
     "values": [
-      {
-        "date": "2006-01-16",
-        "price": 19.9,
-        "pe": 19.51,
-        "pe_10": 8.35,
-        "pe_25": 10.22,
-        "pe_50": 11.85,
-        "pe_75": 13.97,
-        "pe_90": 19.45
-      },
       {
         "date": "2006-02-14",
         "price": 18.4,
@@ -19761,6 +19283,16 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
         "pe_50": 13.83,
         "pe_75": 16.3,
         "pe_90": 22.69
+      },
+      {
+        "date": "2026-01-16",
+        "price": 39.55,
+        "pe": 33.24,
+        "pe_10": 9.74,
+        "pe_25": 11.92,
+        "pe_50": 13.83,
+        "pe_75": 16.3,
+        "pe_90": 22.69
       }
     ]
   },
@@ -20688,16 +20220,16 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 20.8 | +46.6% | 0.001 | 2024-04 (+1126.1%) | 2008-09 (-87.9%) |
-| 6個月 | 18.5 | +28.5% | 0.018 | 2009-06 (+389.0%) | 2008-05 (-78.6%) |
-| 1年 | 18.5 | +19.0% | 0.001 | 2008-12 (+209.8%) | 2007-11 (-64.0%) |
-| 2年 | 18.5 | +12.3% | 0.004 | 2012-07 (+77.2%) | 2007-06 (-32.9%) |
-| 3年 | 12.2 | +10.6% | 0.002 | 2011-12 (+54.3%) | 2006-01 (-25.8%) |
+| 3個月 | 20.9 | +46.8% | 0.001 | 2024-04 (+1126.1%) | 2008-09 (-87.9%) |
+| 6個月 | 18.5 | +29.4% | 0.018 | 2009-06 (+389.0%) | 2008-05 (-78.6%) |
+| 1年 | 18.5 | +19.3% | 0.001 | 2008-12 (+209.8%) | 2007-11 (-64.0%) |
+| 2年 | 18.5 | +12.4% | 0.004 | 2012-07 (+77.2%) | 2007-06 (-32.9%) |
+| 3年 | 12.1 | +10.8% | 0.003 | 2011-12 (+54.3%) | 2006-02 (-22.8%) |
 | 4年 | 12.4 | +10.7% | 0.002 | 2020-07 (+32.1%) | 2007-09 (-14.2%) |
-| 5年 | 12.7 | +10.4% | 0.010 | 2019-07 (+30.4%) | 2007-06 (-10.9%) |
-| 6年 | 13.1 | +9.9% | 0.087 | 2009-01 (+32.5%) | 2006-01 (-7.1%) |
-| 8年 | 13.3 | +9.2% | 0.028 | 2013-08 (+18.9%) | 2006-01 (+0.2%) |
-| 10年 | 13.6 | +8.2% | 0.014 | 2011-12 (+17.6%) | 2007-06 (+0.2%) |
+| 5年 | 12.6 | +10.5% | 0.011 | 2019-07 (+30.4%) | 2007-06 (-10.9%) |
+| 6年 | 13.0 | +10.1% | 0.095 | 2009-01 (+32.5%) | 2006-04 (-6.4%) |
+| 8年 | 13.3 | +9.3% | 0.034 | 2013-08 (+18.9%) | 2007-08 (+0.6%) |
+| 10年 | 13.5 | +8.3% | 0.015 | 2011-12 (+17.6%) | 2007-06 (+0.2%) |
 
 
 ## 🎯 使用說明
@@ -20716,4 +20248,4 @@ description: "3048 益登 (電子通路業) 本益比與未來報酬率關係分
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-25 20:38:33 CST*
+*數據更新時間: 2026-02-07 12:41:27 CST*

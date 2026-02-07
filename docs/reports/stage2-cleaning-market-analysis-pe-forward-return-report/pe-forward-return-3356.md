@@ -2,7 +2,7 @@
 title: "3356 奇偶 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-01-25"
+date: "2026-02-07"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
     - **產業別**: 光電業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-01-25 20:39:02 CST
+    - **報告生成時間**: 2026-02-07 12:41:57 CST
 
 ## 📈 互動式圖表
 
@@ -35,15 +35,6 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
   "title": "3356 奇偶 - 本益比與未來報酬率分析",
   "data": {
     "values": [
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.14,
-        "forward_return": 137.36,
-        "start_price": 102.0,
-        "start_year": 2006
-      },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
@@ -1271,141 +1262,6 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.46,
-        "start_price": 40.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.61,
-        "start_price": 40.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.0,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -12.32,
-        "start_price": 40.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -30.04,
-        "start_price": 43.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -46.12,
-        "start_price": 35.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -68.83,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -58.88,
-        "start_price": 39.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -40.82,
-        "start_price": 33.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.62,
-        "start_price": 29.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.94,
-        "start_price": 30.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -14.07,
-        "start_price": 29.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -50.64,
-        "start_price": 33.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -80.47,
-        "start_price": 29.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.65,
-        "start_price": 28.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2018-09-15",
         "pe_ratio": 339.4,
         "forward_return": 43.76,
@@ -2169,13 +2025,13 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
         "start_year": 2025
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.14,
-        "forward_return": 42.34,
-        "start_price": 102.0,
-        "start_year": 2006
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-10-16",
+        "pe_ratio": 8.19,
+        "forward_return": 15.39,
+        "start_price": 46.3,
+        "start_year": 2025
       },
       {
         "horizon": "0.5y",
@@ -3404,141 +3260,6 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.03,
-        "start_price": 40.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.26,
-        "start_price": 40.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -39.04,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -47.57,
-        "start_price": 40.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -48.21,
-        "start_price": 43.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -33.4,
-        "start_price": 35.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -37.78,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -43.37,
-        "start_price": 39.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -28.54,
-        "start_price": 33.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -49.43,
-        "start_price": 29.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -58.01,
-        "start_price": 30.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.68,
-        "start_price": 29.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.01,
-        "start_price": 33.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.43,
-        "start_price": 29.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 36.21,
-        "start_price": 28.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
         "start_date": "2018-09-15",
         "pe_ratio": 339.4,
         "forward_return": 46.21,
@@ -4275,13 +3996,13 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
         "start_year": 2025
       },
       {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.14,
-        "forward_return": 55.44,
-        "start_price": 102.0,
-        "start_year": 2006
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-07-16",
+        "pe_ratio": 7.98,
+        "forward_return": -3.23,
+        "start_price": 48.8,
+        "start_year": 2025
       },
       {
         "horizon": "1y",
@@ -5510,141 +5231,6 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -14.01,
-        "start_price": 40.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -26.99,
-        "start_price": 40.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -27.67,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -30.62,
-        "start_price": 40.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -54.33,
-        "start_price": 43.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -10.45,
-        "start_price": 35.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -21.52,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -22.53,
-        "start_price": 39.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 7.64,
-        "start_price": 33.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.37,
-        "start_price": 29.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.09,
-        "start_price": 30.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.58,
-        "start_price": 29.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.13,
-        "start_price": 33.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.06,
-        "start_price": 29.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.58,
-        "start_price": 28.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
         "start_date": "2018-09-15",
         "pe_ratio": 339.4,
         "forward_return": 7.33,
@@ -6327,13 +5913,13 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
         "start_year": 2024
       },
       {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.14,
-        "forward_return": 43.97,
-        "start_price": 102.0,
-        "start_year": 2006
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2025-01-16",
+        "pe_ratio": 7.95,
+        "forward_return": -7.15,
+        "start_price": 56.0,
+        "start_year": 2025
       },
       {
         "horizon": "2y",
@@ -7562,141 +7148,6 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -10.07,
-        "start_price": 40.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.42,
-        "start_price": 40.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.77,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -13.71,
-        "start_price": 40.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.27,
-        "start_price": 43.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.56,
-        "start_price": 35.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.36,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -18.83,
-        "start_price": 39.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -10.93,
-        "start_price": 33.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.89,
-        "start_price": 29.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.22,
-        "start_price": 30.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.32,
-        "start_price": 29.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -18.71,
-        "start_price": 33.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.4,
-        "start_price": 29.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.57,
-        "start_price": 28.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
         "start_date": "2018-09-15",
         "pe_ratio": 339.4,
         "forward_return": -7.61,
@@ -8271,13 +7722,13 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
         "start_year": 2023
       },
       {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.14,
-        "forward_return": 9.74,
-        "start_price": 102.0,
-        "start_year": 2006
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-01-16",
+        "pe_ratio": 12.34,
+        "forward_return": 12.2,
+        "start_price": 43.6,
+        "start_year": 2024
       },
       {
         "horizon": "3y",
@@ -9506,141 +8957,6 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.76,
-        "start_price": 40.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -17.55,
-        "start_price": 40.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -16.05,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.01,
-        "start_price": 40.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -17.09,
-        "start_price": 43.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.89,
-        "start_price": 35.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.79,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.25,
-        "start_price": 39.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -5.93,
-        "start_price": 33.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.96,
-        "start_price": 29.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.24,
-        "start_price": 30.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.97,
-        "start_price": 29.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.79,
-        "start_price": 33.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.26,
-        "start_price": 29.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.2,
-        "start_price": 28.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
         "start_date": "2018-09-15",
         "pe_ratio": 339.4,
         "forward_return": 5.79,
@@ -10107,13 +9423,13 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
         "start_year": 2022
       },
       {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.14,
-        "forward_return": 13.5,
-        "start_price": 102.0,
-        "start_year": 2006
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2023-01-16",
+        "pe_ratio": 28.62,
+        "forward_return": 13.16,
+        "start_price": 38.85,
+        "start_year": 2023
       },
       {
         "horizon": "4y",
@@ -11342,141 +10658,6 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.15,
-        "start_price": 40.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.53,
-        "start_price": 40.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.54,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.79,
-        "start_price": 40.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.79,
-        "start_price": 43.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.37,
-        "start_price": 35.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.34,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.04,
-        "start_price": 39.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -2.65,
-        "start_price": 33.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.51,
-        "start_price": 29.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.57,
-        "start_price": 30.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.67,
-        "start_price": 29.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.8,
-        "start_price": 33.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.65,
-        "start_price": 29.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.92,
-        "start_price": 28.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
         "start_date": "2018-09-15",
         "pe_ratio": 339.4,
         "forward_return": 4.97,
@@ -11835,13 +11016,13 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
         "start_year": 2021
       },
       {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.14,
-        "forward_return": 7.33,
-        "start_price": 102.0,
-        "start_year": 2006
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2022-01-16",
+        "pe_ratio": 14.88,
+        "forward_return": 19.34,
+        "start_price": 28.35,
+        "start_year": 2022
       },
       {
         "horizon": "5y",
@@ -13070,141 +12251,6 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.84,
-        "start_price": 40.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.86,
-        "start_price": 40.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.08,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.37,
-        "start_price": 40.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.82,
-        "start_price": 43.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.36,
-        "start_price": 35.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.96,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.88,
-        "start_price": 39.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 4.44,
-        "start_price": 33.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.91,
-        "start_price": 29.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.39,
-        "start_price": 30.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.96,
-        "start_price": 29.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.66,
-        "start_price": 33.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.32,
-        "start_price": 29.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.6,
-        "start_price": 28.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
         "start_date": "2018-09-15",
         "pe_ratio": 339.4,
         "forward_return": 12.57,
@@ -13455,13 +12501,13 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
         "start_year": 2020
       },
       {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.14,
-        "forward_return": 8.92,
-        "start_price": 102.0,
-        "start_year": 2006
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2021-01-16",
+        "pe_ratio": 14.78,
+        "forward_return": 17.12,
+        "start_price": 26.55,
+        "start_year": 2021
       },
       {
         "horizon": "6y",
@@ -14690,141 +13736,6 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.47,
-        "start_price": 40.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.32,
-        "start_price": 40.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.82,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.85,
-        "start_price": 40.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.23,
-        "start_price": 43.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.39,
-        "start_price": 35.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.48,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.1,
-        "start_price": 39.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 6.74,
-        "start_price": 33.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.27,
-        "start_price": 29.3,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.14,
-        "start_price": 30.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.89,
-        "start_price": 29.35,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.52,
-        "start_price": 33.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.33,
-        "start_price": 29.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.21,
-        "start_price": 28.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
         "start_date": "2018-09-15",
         "pe_ratio": 339.4,
         "forward_return": 15.62,
@@ -14967,13 +13878,13 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
         "start_year": 2019
       },
       {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.14,
-        "forward_return": 11.37,
-        "start_price": 102.0,
-        "start_year": 2006
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2020-01-16",
+        "pe_ratio": 74.0,
+        "forward_return": 14.54,
+        "start_price": 25.9,
+        "start_year": 2020
       },
       {
         "horizon": "8y",
@@ -16200,78 +15111,6 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
         "start_year": 2017
       },
       {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.69,
-        "start_price": 40.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.85,
-        "start_price": 40.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.16,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.87,
-        "start_price": 40.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.54,
-        "start_price": 43.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.34,
-        "start_price": 35.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.96,
-        "start_price": 39.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.14,
-        "forward_return": 3.83,
-        "start_price": 102.0,
-        "start_year": 2006
-      },
-      {
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-02-14",
@@ -17341,6 +16180,15 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": -1.41,
         "start_price": 72.0,
         "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2016-01-16",
+        "pe_ratio": 16.54,
+        "forward_return": -1.24,
+        "start_price": 71.9,
+        "start_year": 2016
       }
     ]
   },
@@ -17552,16 +16400,6 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
   "title": "3356 奇偶 - 本益比河流帶",
   "data": {
     "values": [
-      {
-        "date": "2006-01-16",
-        "price": 102.0,
-        "pe": 9.14,
-        "pe_10": 113.58,
-        "pe_25": 147.64,
-        "pe_50": 176.1,
-        "pe_75": 220.29,
-        "pe_90": 382.24
-      },
       {
         "date": "2006-02-14",
         "price": 110.0,
@@ -19801,6 +18639,16 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
         "pe_50": 84.28,
         "pe_75": 105.43,
         "pe_90": 182.94
+      },
+      {
+        "date": "2026-01-16",
+        "price": 48.0,
+        "pe": 8.99,
+        "pe_10": 54.34,
+        "pe_25": 70.64,
+        "pe_50": 84.25,
+        "pe_75": 105.4,
+        "pe_90": 182.88
       }
     ]
   },
@@ -20038,10 +18886,6 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
   "title": "3356 奇偶 - 月營收年增率",
   "data": {
     "values": [
-      {
-        "date": "2006-01-16",
-        "revenue_yoy": 19.3
-      },
       {
         "date": "2006-02-14",
         "revenue_yoy": 31.3
@@ -21064,16 +19908,16 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 22.9 | +25.4% | 0.006 | 2018-10 (+469.1%) | 2019-12 (-84.7%) |
-| 6個月 | 23.1 | +12.3% | 0.009 | 2007-04 (+234.6%) | 2008-04 (-61.2%) |
-| 1年 | 23.5 | +5.7% | 0.017 | 2006-09 (+136.0%) | 2007-12 (-57.1%) |
-| 2年 | 24.2 | +1.1% | 0.002 | 2022-06 (+59.7%) | 2014-03 (-35.4%) |
-| 3年 | 24.5 | -0.3% | 0.000 | 2020-06 (+40.1%) | 2014-03 (-33.6%) |
+| 3個月 | 22.9 | +24.9% | 0.006 | 2018-10 (+469.1%) | 2019-12 (-84.7%) |
+| 6個月 | 23.1 | +12.1% | 0.008 | 2007-04 (+234.6%) | 2008-04 (-61.2%) |
+| 1年 | 23.5 | +5.4% | 0.016 | 2006-09 (+136.0%) | 2007-12 (-57.1%) |
+| 2年 | 24.3 | +0.9% | 0.002 | 2022-06 (+59.7%) | 2014-03 (-35.4%) |
+| 3年 | 24.6 | -0.2% | 0.000 | 2020-06 (+40.1%) | 2014-03 (-33.6%) |
 | 4年 | 24.7 | -1.4% | 0.018 | 2020-08 (+35.2%) | 2014-03 (-30.8%) |
-| 5年 | 25.2 | -2.0% | 0.085 | 2020-04 (+26.5%) | 2013-10 (-28.0%) |
-| 6年 | 24.9 | -3.0% | 0.156 | 2018-10 (+23.2%) | 2014-03 (-25.0%) |
-| 8年 | 17.5 | -4.3% | 0.026 | 2006-01 (+11.4%) | 2014-03 (-16.7%) |
-| 10年 | 14.9 | -4.9% | 0.477 | 2006-01 (+3.8%) | 2013-10 (-10.8%) |
+| 5年 | 25.3 | -2.0% | 0.084 | 2020-04 (+26.5%) | 2013-10 (-28.0%) |
+| 6年 | 25.4 | -2.9% | 0.170 | 2018-10 (+23.2%) | 2014-03 (-25.0%) |
+| 8年 | 17.5 | -4.3% | 0.032 | 2006-02 (+11.3%) | 2014-03 (-16.7%) |
+| 10年 | 15.0 | -4.9% | 0.444 | 2006-02 (+3.2%) | 2013-10 (-10.8%) |
 
 
 ## 🎯 使用說明
@@ -21092,4 +19936,4 @@ description: "3356 奇偶 (光電業) 本益比與未來報酬率關係分析 - 
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-25 20:39:02 CST*
+*數據更新時間: 2026-02-07 12:41:57 CST*

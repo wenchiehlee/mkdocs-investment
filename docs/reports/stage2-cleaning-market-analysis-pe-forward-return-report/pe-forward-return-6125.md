@@ -2,7 +2,7 @@
 title: "6125 廣運 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-01-25"
+date: "2026-02-07"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
     - **產業別**: 光電業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-01-25 20:40:33 CST
+    - **報告生成時間**: 2026-02-07 12:43:28 CST
 
 ## 📈 互動式圖表
 
@@ -35,15 +35,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
   "title": "6125 廣運 - 本益比與未來報酬率分析",
   "data": {
     "values": [
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.15,
-        "forward_return": 21.71,
-        "start_price": 41.25,
-        "start_year": 2006
-      },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
@@ -632,348 +623,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -79.83,
-        "start_price": 22.9,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -71.53,
-        "start_price": 17.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -70.06,
-        "start_price": 15.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -40.93,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 62.66,
-        "start_price": 11.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 57.4,
-        "start_price": 11.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -53.47,
-        "start_price": 13.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -79.04,
-        "start_price": 15.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -54.34,
-        "start_price": 13.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.65,
-        "start_price": 10.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.9,
-        "start_price": 10.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.8,
-        "start_price": 10.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -49.45,
-        "start_price": 9.88,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.83,
-        "start_price": 9.9,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -25.0,
-        "start_price": 10.7,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 181.72,
-        "start_price": 8.32,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 110.81,
-        "start_price": 9.04,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 82.41,
-        "start_price": 9.96,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.7,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 40.94,
-        "start_price": 10.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -33.08,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -33.96,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.31,
-        "start_price": 11.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 50.75,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 400.15,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 124.53,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 155.59,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -20.49,
-        "start_price": 15.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 65.44,
-        "start_price": 13.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 82.01,
-        "start_price": 14.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 36.78,
-        "start_price": 14.3,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -7.33,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.4,
-        "start_price": 16.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 65.12,
-        "start_price": 13.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.81,
-        "start_price": 15.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -10.61,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -38.36,
-        "start_price": 15.25,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.58,
-        "start_price": 14.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2014-09-15",
         "pe_ratio": 155.9,
         "forward_return": -21.73,
@@ -1123,330 +772,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": -8.31,
         "start_price": 12.35,
         "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -25.19,
-        "start_price": 12.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.12,
-        "start_price": 12.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 26.77,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.24,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.68,
-        "start_price": 12.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.0,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -34.35,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -36.07,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -31.15,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.37,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.87,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -26.86,
-        "start_price": 10.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -41.13,
-        "start_price": 10.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -14.8,
-        "start_price": 10.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.62,
-        "start_price": 10.1,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 36.84,
-        "start_price": 9.61,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 39.81,
-        "start_price": 9.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.9,
-        "start_price": 9.69,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 103.42,
-        "start_price": 9.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 148.85,
-        "start_price": 10.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 95.25,
-        "start_price": 10.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -38.2,
-        "start_price": 12.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -45.64,
-        "start_price": 12.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.66,
-        "start_price": 12.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 15.6,
-        "start_price": 11.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.65,
-        "start_price": 10.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 22.86,
-        "start_price": 10.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -30.54,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -24.26,
-        "start_price": 10.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -47.43,
-        "start_price": 10.7,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -29.19,
-        "start_price": 10.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -23.78,
-        "start_price": 9.63,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 38.05,
-        "start_price": 9.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 74.27,
-        "start_price": 9.79,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 195.08,
-        "start_price": 9.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2019-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 205.82,
-        "start_price": 9.87,
-        "start_year": 2019
       },
       {
         "horizon": "0.25y",
@@ -1645,159 +970,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": -14.17,
         "start_price": 28.6,
         "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -34.16,
-        "start_price": 30.15,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.34,
-        "start_price": 23.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -38.72,
-        "start_price": 25.95,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.8,
-        "start_price": 27.2,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 19.8,
-        "start_price": 27.15,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 139.19,
-        "start_price": 23.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 173.6,
-        "start_price": 22.7,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.96,
-        "start_price": 26.9,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.43,
-        "start_price": 27.15,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.74,
-        "start_price": 27.75,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -23.34,
-        "start_price": 27.8,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.98,
-        "start_price": 26.4,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -29.57,
-        "start_price": 28.4,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.76,
-        "start_price": 26.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 13.3,
-        "start_price": 25.6,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 84.49,
-        "start_price": 26.05,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 252.63,
-        "start_price": 23.35,
-        "start_year": 2022
       },
       {
         "horizon": "0.25y",
@@ -2072,110 +1244,11 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2024-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -53.39,
-        "start_price": 85.2,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -71.2,
-        "start_price": 90.1,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -47.08,
-        "start_price": 84.8,
+        "start_date": "2025-10-16",
+        "pe_ratio": 4687.0,
+        "forward_return": -5.53,
+        "start_price": 70.3,
         "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -66.68,
-        "start_price": 90.2,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 40.08,
-        "start_price": 66.3,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 92.85,
-        "start_price": 63.0,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 85.63,
-        "start_price": 68.8,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 77.01,
-        "start_price": 64.0,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -16.2,
-        "start_price": 73.5,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -25.92,
-        "start_price": 79.7,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.9,
-        "start_price": 73.2,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.15,
-        "forward_return": -6.7,
-        "start_price": 41.25,
-        "start_year": 2006
       },
       {
         "horizon": "0.5y",
@@ -2765,348 +1838,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -65.48,
-        "start_price": 22.9,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -40.89,
-        "start_price": 17.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -31.35,
-        "start_price": 15.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -48.42,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -13.04,
-        "start_price": 11.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -22.53,
-        "start_price": 11.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -43.5,
-        "start_price": 13.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -56.61,
-        "start_price": 15.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -51.99,
-        "start_price": 13.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -34.69,
-        "start_price": 10.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.87,
-        "start_price": 10.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.44,
-        "start_price": 10.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 19.33,
-        "start_price": 9.88,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.42,
-        "start_price": 9.9,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.68,
-        "start_price": 10.7,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 64.33,
-        "start_price": 8.32,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 51.32,
-        "start_price": 9.04,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.43,
-        "start_price": 9.96,
-        "start_year": 2012
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.65,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 12.15,
-        "start_price": 10.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 58.9,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 82.75,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 51.34,
-        "start_price": 11.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 96.01,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 99.42,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 105.38,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 115.89,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.09,
-        "start_price": 15.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 30.33,
-        "start_price": 13.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.27,
-        "start_price": 14.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.52,
-        "start_price": 14.3,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -9.1,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -23.67,
-        "start_price": 16.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.44,
-        "start_price": 13.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.04,
-        "start_price": 15.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -15.99,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.59,
-        "start_price": 15.25,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.15,
-        "start_price": 14.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
         "start_date": "2014-09-15",
         "pe_ratio": 155.9,
         "forward_return": -5.24,
@@ -3256,330 +1987,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": -2.42,
         "start_price": 12.35,
         "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.07,
-        "start_price": 12.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.71,
-        "start_price": 12.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.52,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.46,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -21.11,
-        "start_price": 12.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -17.03,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.59,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -17.85,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -28.75,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -17.95,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.57,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.52,
-        "start_price": 10.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -9.83,
-        "start_price": 10.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.59,
-        "start_price": 10.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 15.37,
-        "start_price": 10.1,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 68.58,
-        "start_price": 9.61,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 82.65,
-        "start_price": 9.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 59.26,
-        "start_price": 9.69,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.17,
-        "start_price": 9.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.8,
-        "start_price": 10.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.11,
-        "start_price": 10.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -18.94,
-        "start_price": 12.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -20.32,
-        "start_price": 12.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.52,
-        "start_price": 12.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -10.65,
-        "start_price": 11.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -21.1,
-        "start_price": 10.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -19.05,
-        "start_price": 10.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -29.35,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -23.7,
-        "start_price": 10.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -14.81,
-        "start_price": 10.7,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.78,
-        "start_price": 10.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 49.41,
-        "start_price": 9.63,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 116.56,
-        "start_price": 9.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 113.3,
-        "start_price": 9.79,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 128.95,
-        "start_price": 9.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2019-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 119.02,
-        "start_price": 9.87,
-        "start_year": 2019
       },
       {
         "horizon": "0.5y",
@@ -3778,159 +2185,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": -35.58,
         "start_price": 28.6,
         "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.79,
-        "start_price": 30.15,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 46.55,
-        "start_price": 23.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 21.97,
-        "start_price": 25.95,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.53,
-        "start_price": 27.2,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.43,
-        "start_price": 27.15,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 56.49,
-        "start_price": 23.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 73.3,
-        "start_price": 22.7,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.53,
-        "start_price": 26.9,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.88,
-        "start_price": 27.15,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.98,
-        "start_price": 27.75,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.52,
-        "start_price": 27.8,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.0,
-        "start_price": 26.4,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 22.58,
-        "start_price": 28.4,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 51.69,
-        "start_price": 26.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 87.46,
-        "start_price": 25.6,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.87,
-        "start_price": 26.05,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.69,
-        "start_price": 23.35,
-        "start_year": 2022
       },
       {
         "horizon": "0.5y",
@@ -4201,87 +2455,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": -35.2,
         "start_price": 88.5,
         "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -35.04,
-        "start_price": 85.2,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -28.43,
-        "start_price": 90.1,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -23.62,
-        "start_price": 84.8,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -20.61,
-        "start_price": 90.2,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.4,
-        "start_price": 66.3,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 26.95,
-        "start_price": 63.0,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.13,
-        "start_price": 68.8,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 29.32,
-        "start_price": 64.0,
-        "start_year": 2025
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.15,
-        "forward_return": 5.72,
-        "start_price": 41.25,
-        "start_year": 2006
       },
       {
         "horizon": "1y",
@@ -4871,348 +3044,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -55.9,
-        "start_price": 22.9,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -43.18,
-        "start_price": 17.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -30.95,
-        "start_price": 15.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -44.23,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -17.08,
-        "start_price": 11.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -13.12,
-        "start_price": 11.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -17.86,
-        "start_price": 13.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -21.88,
-        "start_price": 15.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.3,
-        "start_price": 13.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.08,
-        "start_price": 10.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.68,
-        "start_price": 10.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.61,
-        "start_price": 10.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.23,
-        "start_price": 9.88,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.1,
-        "start_price": 9.9,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.68,
-        "start_price": 10.7,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 82.17,
-        "start_price": 8.32,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 53.81,
-        "start_price": 9.04,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 42.1,
-        "start_price": 9.96,
-        "start_year": 2012
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 32.43,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 58.38,
-        "start_price": 10.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 42.03,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.13,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 42.83,
-        "start_price": 11.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 59.95,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 55.99,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 42.63,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 40.21,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.6,
-        "start_price": 15.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.32,
-        "start_price": 13.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.6,
-        "start_price": 14.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.75,
-        "start_price": 14.3,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -3.72,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.71,
-        "start_price": 16.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.32,
-        "start_price": 13.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -14.84,
-        "start_price": 15.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -17.97,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -28.21,
-        "start_price": 15.25,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -27.53,
-        "start_price": 14.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
         "start_date": "2014-09-15",
         "pe_ratio": 155.9,
         "forward_return": -20.08,
@@ -5362,330 +3193,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": -9.7,
         "start_price": 12.35,
         "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.89,
-        "start_price": 12.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.37,
-        "start_price": 12.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -7.83,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -15.76,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -18.81,
-        "start_price": 12.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.91,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -14.76,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.4,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.27,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.07,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 23.13,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 19.73,
-        "start_price": 10.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 5.03,
-        "start_price": 10.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.12,
-        "start_price": 10.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.42,
-        "start_price": 10.1,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 23.85,
-        "start_price": 9.61,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 15.56,
-        "start_price": 9.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.53,
-        "start_price": 9.69,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.05,
-        "start_price": 9.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.7,
-        "start_price": 10.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.18,
-        "start_price": 10.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -20.25,
-        "start_price": 12.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -25.91,
-        "start_price": 12.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -16.99,
-        "start_price": 12.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -10.64,
-        "start_price": 11.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.58,
-        "start_price": 10.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 40.22,
-        "start_price": 10.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.65,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 41.82,
-        "start_price": 10.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 36.07,
-        "start_price": 10.7,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 60.51,
-        "start_price": 10.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 57.95,
-        "start_price": 9.63,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 75.96,
-        "start_price": 9.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 57.41,
-        "start_price": 9.79,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 81.81,
-        "start_price": 9.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2019-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 64.25,
-        "start_price": 9.87,
-        "start_year": 2019
       },
       {
         "horizon": "1y",
@@ -5884,159 +3391,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": -2.45,
         "start_price": 28.6,
         "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.83,
-        "start_price": 30.15,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.03,
-        "start_price": 23.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 4.43,
-        "start_price": 25.95,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.29,
-        "start_price": 27.2,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.48,
-        "start_price": 27.15,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.32,
-        "start_price": 23.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 40.34,
-        "start_price": 22.7,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.84,
-        "start_price": 26.9,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 28.98,
-        "start_price": 27.15,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.92,
-        "start_price": 27.75,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.33,
-        "start_price": 27.8,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.41,
-        "start_price": 26.4,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.89,
-        "start_price": 28.4,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.52,
-        "start_price": 26.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 14.91,
-        "start_price": 25.6,
-        "start_year": 2022
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.72,
-        "start_price": 26.05,
-        "start_year": 2022
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 42.7,
-        "start_price": 23.35,
-        "start_year": 2022
       },
       {
         "horizon": "1y",
@@ -6307,33 +3661,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": -19.79,
         "start_price": 88.5,
         "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -26.07,
-        "start_price": 85.2,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.21,
-        "start_price": 90.1,
-        "start_year": 2024
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.15,
-        "forward_return": 0.73,
-        "start_price": 41.25,
-        "start_year": 2006
       },
       {
         "horizon": "2y",
@@ -6923,348 +4250,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -32.91,
-        "start_price": 22.9,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -21.37,
-        "start_price": 17.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -15.04,
-        "start_price": 15.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.17,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.45,
-        "start_price": 11.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.75,
-        "start_price": 11.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.03,
-        "start_price": 13.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.84,
-        "start_price": 15.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.58,
-        "start_price": 13.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 15.63,
-        "start_price": 10.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.25,
-        "start_price": 10.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 23.07,
-        "start_price": 10.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 26.28,
-        "start_price": 9.88,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.74,
-        "start_price": 9.9,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.15,
-        "start_price": 10.7,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.74,
-        "start_price": 8.32,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.31,
-        "start_price": 9.04,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.92,
-        "start_price": 9.96,
-        "start_year": 2012
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.01,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 23.49,
-        "start_price": 10.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.11,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.79,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.29,
-        "start_price": 11.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.55,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.48,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.29,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.28,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.26,
-        "start_price": 15.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.18,
-        "start_price": 13.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.69,
-        "start_price": 14.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.38,
-        "start_price": 14.3,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -7.23,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.1,
-        "start_price": 16.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.17,
-        "start_price": 13.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.43,
-        "start_price": 15.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.57,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.74,
-        "start_price": 15.25,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.87,
-        "start_price": 14.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
         "start_date": "2014-09-15",
         "pe_ratio": 155.9,
         "forward_return": -8.05,
@@ -7414,330 +4399,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": 3.58,
         "start_price": 12.35,
         "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.19,
-        "start_price": 12.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.04,
-        "start_price": 12.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.22,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.65,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.46,
-        "start_price": 12.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.86,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.48,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.19,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.02,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.05,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.85,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.09,
-        "start_price": 10.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -2.87,
-        "start_price": 10.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.05,
-        "start_price": 10.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 22.49,
-        "start_price": 10.1,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.16,
-        "start_price": 9.61,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 27.17,
-        "start_price": 9.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 23.84,
-        "start_price": 9.69,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.15,
-        "start_price": 9.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.54,
-        "start_price": 10.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.54,
-        "start_price": 10.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.43,
-        "start_price": 12.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.21,
-        "start_price": 12.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.09,
-        "start_price": 12.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 22.7,
-        "start_price": 11.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.88,
-        "start_price": 10.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.32,
-        "start_price": 10.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 26.18,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 33.03,
-        "start_price": 10.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 38.24,
-        "start_price": 10.7,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 71.44,
-        "start_price": 10.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 78.79,
-        "start_price": 9.63,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 107.07,
-        "start_price": 9.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 78.18,
-        "start_price": 9.79,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 90.4,
-        "start_price": 9.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2019-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 62.27,
-        "start_price": 9.87,
-        "start_year": 2019
       },
       {
         "horizon": "2y",
@@ -7940,159 +4601,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2020-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.75,
-        "start_price": 30.15,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.45,
-        "start_price": 23.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 9.15,
-        "start_price": 25.95,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.75,
-        "start_price": 27.2,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.25,
-        "start_price": 27.15,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.9,
-        "start_price": 23.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 78.06,
-        "start_price": 22.7,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 73.31,
-        "start_price": 26.9,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 76.1,
-        "start_price": 27.15,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 55.93,
-        "start_price": 27.75,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 38.21,
-        "start_price": 27.8,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 58.32,
-        "start_price": 26.4,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 52.76,
-        "start_price": 28.4,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 56.86,
-        "start_price": 26.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 85.94,
-        "start_price": 25.6,
-        "start_year": 2022
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 81.66,
-        "start_price": 26.05,
-        "start_year": 2022
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 101.54,
-        "start_price": 23.35,
-        "start_year": 2022
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
         "start_date": "2022-05-16",
         "pe_ratio": 221.5,
         "forward_return": 118.12,
@@ -8271,13 +4779,13 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "start_year": 2023
       },
       {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.15,
-        "forward_return": -11.38,
-        "start_price": 41.25,
-        "start_year": 2006
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-01-16",
+        "pe_ratio": 21.03,
+        "forward_return": 8.68,
+        "start_price": 60.7,
+        "start_year": 2024
       },
       {
         "horizon": "3y",
@@ -8867,348 +5375,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.35,
-        "start_price": 22.9,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.3,
-        "start_price": 17.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.21,
-        "start_price": 15.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.45,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.59,
-        "start_price": 11.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.64,
-        "start_price": 11.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.54,
-        "start_price": 13.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.32,
-        "start_price": 15.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.78,
-        "start_price": 13.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.71,
-        "start_price": 10.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.63,
-        "start_price": 10.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.6,
-        "start_price": 10.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.04,
-        "start_price": 9.88,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.51,
-        "start_price": 9.9,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.74,
-        "start_price": 10.7,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.81,
-        "start_price": 8.32,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.75,
-        "start_price": 9.04,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.4,
-        "start_price": 9.96,
-        "start_year": 2012
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.33,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 10.88,
-        "start_price": 10.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.47,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.73,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.41,
-        "start_price": 11.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.15,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.33,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.25,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.03,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.49,
-        "start_price": 15.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.52,
-        "start_price": 13.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.08,
-        "start_price": 14.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.28,
-        "start_price": 14.3,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -8.31,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.27,
-        "start_price": 16.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.85,
-        "start_price": 13.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -11.17,
-        "start_price": 15.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.61,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.8,
-        "start_price": 15.25,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -8.54,
-        "start_price": 14.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
         "start_date": "2014-09-15",
         "pe_ratio": 155.9,
         "forward_return": -8.88,
@@ -9358,330 +5524,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": -3.29,
         "start_price": 12.35,
         "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.38,
-        "start_price": 12.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.31,
-        "start_price": 12.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.82,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.03,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.81,
-        "start_price": 12.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.49,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.72,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.55,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.84,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 15.21,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.42,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.9,
-        "start_price": 10.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 15.93,
-        "start_price": 10.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.37,
-        "start_price": 10.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 18.14,
-        "start_price": 10.1,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.74,
-        "start_price": 9.61,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 26.11,
-        "start_price": 9.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 28.9,
-        "start_price": 9.69,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 44.71,
-        "start_price": 9.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 45.96,
-        "start_price": 10.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 56.07,
-        "start_price": 10.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 35.4,
-        "start_price": 12.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 37.95,
-        "start_price": 12.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.01,
-        "start_price": 12.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 37.75,
-        "start_price": 11.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 40.57,
-        "start_price": 10.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 42.04,
-        "start_price": 10.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 31.29,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 33.78,
-        "start_price": 10.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 42.4,
-        "start_price": 10.7,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 45.56,
-        "start_price": 10.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 48.83,
-        "start_price": 9.63,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 51.75,
-        "start_price": 9.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 45.89,
-        "start_price": 9.79,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 53.26,
-        "start_price": 9.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2019-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 44.85,
-        "start_price": 9.87,
-        "start_year": 2019
       },
       {
         "horizon": "3y",
@@ -9884,159 +5726,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2020-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.99,
-        "start_price": 30.15,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 40.72,
-        "start_price": 23.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 51.37,
-        "start_price": 25.95,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 47.63,
-        "start_price": 27.2,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 52.56,
-        "start_price": 27.15,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 76.83,
-        "start_price": 23.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 71.59,
-        "start_price": 22.7,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 56.95,
-        "start_price": 26.9,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 54.49,
-        "start_price": 27.15,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 51.19,
-        "start_price": 27.75,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 49.78,
-        "start_price": 27.8,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 50.56,
-        "start_price": 26.4,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 49.56,
-        "start_price": 28.4,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 51.11,
-        "start_price": 26.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 54.88,
-        "start_price": 25.6,
-        "start_year": 2022
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 39.83,
-        "start_price": 26.05,
-        "start_year": 2022
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 42.75,
-        "start_price": 23.35,
-        "start_year": 2022
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
         "start_date": "2022-05-16",
         "pe_ratio": 221.5,
         "forward_return": 40.82,
@@ -10107,13 +5796,13 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "start_year": 2022
       },
       {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.15,
-        "forward_return": -2.84,
-        "start_price": 41.25,
-        "start_year": 2006
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2023-01-16",
+        "pe_ratio": 13.18,
+        "forward_return": 40.2,
+        "start_price": 26.6,
+        "start_year": 2023
       },
       {
         "horizon": "4y",
@@ -10703,348 +6392,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -15.54,
-        "start_price": 22.9,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.34,
-        "start_price": 17.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.03,
-        "start_price": 15.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.54,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.9,
-        "start_price": 11.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.84,
-        "start_price": 11.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.28,
-        "start_price": 13.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.1,
-        "start_price": 15.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.22,
-        "start_price": 13.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.75,
-        "start_price": 10.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.15,
-        "start_price": 10.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.13,
-        "start_price": 10.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.51,
-        "start_price": 9.88,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.46,
-        "start_price": 9.9,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.69,
-        "start_price": 10.7,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.23,
-        "start_price": 8.32,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.56,
-        "start_price": 9.04,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.99,
-        "start_price": 9.96,
-        "start_year": 2012
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.99,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 5.11,
-        "start_price": 10.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.48,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.88,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.02,
-        "start_price": 11.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.5,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.72,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.45,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.74,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.98,
-        "start_price": 15.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.32,
-        "start_price": 13.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.7,
-        "start_price": 14.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.09,
-        "start_price": 14.3,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -5.28,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.01,
-        "start_price": 16.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.72,
-        "start_price": 13.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.11,
-        "start_price": 15.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.92,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.85,
-        "start_price": 15.25,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.47,
-        "start_price": 14.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
         "start_date": "2014-09-15",
         "pe_ratio": 155.9,
         "forward_return": -6.88,
@@ -11194,330 +6541,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": 9.11,
         "start_price": 12.35,
         "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.01,
-        "start_price": 12.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.85,
-        "start_price": 12.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.52,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.4,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.27,
-        "start_price": 12.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.1,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.75,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 27.79,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 35.86,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 31.72,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.29,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.96,
-        "start_price": 10.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 27.85,
-        "start_price": 10.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.79,
-        "start_price": 10.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 31.78,
-        "start_price": 10.1,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 28.63,
-        "start_price": 9.61,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 28.13,
-        "start_price": 9.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.96,
-        "start_price": 9.69,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.51,
-        "start_price": 9.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 33.81,
-        "start_price": 10.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 32.71,
-        "start_price": 10.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.82,
-        "start_price": 12.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.06,
-        "start_price": 12.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.41,
-        "start_price": 12.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 28.41,
-        "start_price": 11.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.48,
-        "start_price": 10.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 27.55,
-        "start_price": 10.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 28.11,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 34.31,
-        "start_price": 10.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 35.41,
-        "start_price": 10.7,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 40.2,
-        "start_price": 10.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 36.18,
-        "start_price": 9.63,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 34.49,
-        "start_price": 9.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 34.0,
-        "start_price": 9.79,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 36.25,
-        "start_price": 9.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2019-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 34.42,
-        "start_price": 9.87,
-        "start_year": 2019
       },
       {
         "horizon": "4y",
@@ -11716,132 +6739,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": 33.79,
         "start_price": 28.6,
         "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.77,
-        "start_price": 30.15,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 40.37,
-        "start_price": 23.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 38.91,
-        "start_price": 25.95,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.88,
-        "start_price": 27.2,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 26.46,
-        "start_price": 27.15,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 34.48,
-        "start_price": 23.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 32.72,
-        "start_price": 22.7,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.96,
-        "start_price": 26.9,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.15,
-        "start_price": 27.15,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 29.83,
-        "start_price": 27.75,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 28.56,
-        "start_price": 27.8,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 26.65,
-        "start_price": 26.4,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 28.62,
-        "start_price": 28.4,
-        "start_year": 2021
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.15,
-        "forward_return": -4.25,
-        "start_price": 41.25,
-        "start_year": 2006
       },
       {
         "horizon": "5y",
@@ -12431,348 +7328,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.16,
-        "start_price": 22.9,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.82,
-        "start_price": 17.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.02,
-        "start_price": 15.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.61,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.99,
-        "start_price": 11.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.01,
-        "start_price": 11.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.61,
-        "start_price": 13.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.03,
-        "start_price": 15.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.01,
-        "start_price": 13.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.27,
-        "start_price": 10.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.7,
-        "start_price": 10.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.0,
-        "start_price": 10.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.42,
-        "start_price": 9.88,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.75,
-        "start_price": 9.9,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.32,
-        "start_price": 10.7,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.22,
-        "start_price": 8.32,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.14,
-        "start_price": 9.04,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 7.88,
-        "start_price": 9.96,
-        "start_year": 2012
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.7,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 4.97,
-        "start_price": 10.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.08,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.14,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.84,
-        "start_price": 11.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.61,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.18,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.8,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.27,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.53,
-        "start_price": 15.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.75,
-        "start_price": 13.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.4,
-        "start_price": 14.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.17,
-        "start_price": 14.3,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -6.04,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.05,
-        "start_price": 16.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.68,
-        "start_price": 13.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.87,
-        "start_price": 15.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.15,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.41,
-        "start_price": 15.25,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.86,
-        "start_price": 14.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
         "start_date": "2014-09-15",
         "pe_ratio": 155.9,
         "forward_return": 2.27,
@@ -12922,330 +7477,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": 17.19,
         "start_price": 12.35,
         "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 18.84,
-        "start_price": 12.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 19.83,
-        "start_price": 12.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.9,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.44,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.22,
-        "start_price": 12.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 22.07,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.24,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 22.4,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 22.75,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.11,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 25.66,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 23.67,
-        "start_price": 10.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 22.67,
-        "start_price": 10.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 23.48,
-        "start_price": 10.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 22.76,
-        "start_price": 10.1,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 26.57,
-        "start_price": 9.61,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 29.51,
-        "start_price": 9.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.21,
-        "start_price": 9.69,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 31.77,
-        "start_price": 9.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 27.3,
-        "start_price": 10.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 23.78,
-        "start_price": 10.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 20.3,
-        "start_price": 12.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.07,
-        "start_price": 12.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.57,
-        "start_price": 12.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 25.12,
-        "start_price": 11.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 26.49,
-        "start_price": 10.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 29.2,
-        "start_price": 10.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 28.81,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 47.65,
-        "start_price": 10.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 51.27,
-        "start_price": 10.7,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 54.24,
-        "start_price": 10.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 49.31,
-        "start_price": 9.63,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 44.39,
-        "start_price": 9.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 48.27,
-        "start_price": 9.79,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 50.83,
-        "start_price": 9.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2019-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 47.09,
-        "start_price": 9.87,
-        "start_year": 2019
       },
       {
         "horizon": "5y",
@@ -13444,24 +7675,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": 19.41,
         "start_price": 28.6,
         "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.32,
-        "start_price": 30.15,
-        "start_year": 2020
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.15,
-        "forward_return": -8.69,
-        "start_price": 41.25,
-        "start_year": 2006
       },
       {
         "horizon": "6y",
@@ -14051,348 +8264,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.34,
-        "start_price": 22.9,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.23,
-        "start_price": 17.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.21,
-        "start_price": 15.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.24,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.89,
-        "start_price": 11.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.94,
-        "start_price": 11.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.27,
-        "start_price": 13.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.69,
-        "start_price": 15.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.13,
-        "start_price": 13.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.08,
-        "start_price": 10.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.58,
-        "start_price": 10.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.94,
-        "start_price": 10.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.68,
-        "start_price": 9.88,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.82,
-        "start_price": 9.9,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.83,
-        "start_price": 10.7,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 5.39,
-        "start_price": 8.32,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.97,
-        "start_price": 9.04,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.13,
-        "start_price": 9.96,
-        "start_year": 2012
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.01,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 2.5,
-        "start_price": 10.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.32,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.83,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.89,
-        "start_price": 11.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.17,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.91,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.39,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.73,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.2,
-        "start_price": 15.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.12,
-        "start_price": 13.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.72,
-        "start_price": 14.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.39,
-        "start_price": 14.3,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 2.34,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.36,
-        "start_price": 16.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.55,
-        "start_price": 13.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.09,
-        "start_price": 15.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 4.35,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.5,
-        "start_price": 15.25,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.29,
-        "start_price": 14.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
         "start_date": "2014-09-15",
         "pe_ratio": 155.9,
         "forward_return": 13.56,
@@ -14546,330 +8417,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 15.73,
-        "start_price": 12.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.49,
-        "start_price": 12.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 16.44,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.58,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 19.09,
-        "start_price": 12.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.03,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.8,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 19.16,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.36,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 20.45,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.11,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 20.76,
-        "start_price": 10.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 20.92,
-        "start_price": 10.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 22.02,
-        "start_price": 10.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.78,
-        "start_price": 10.1,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.32,
-        "start_price": 9.61,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 40.82,
-        "start_price": 9.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 43.63,
-        "start_price": 9.69,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 44.06,
-        "start_price": 9.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 38.89,
-        "start_price": 10.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.05,
-        "start_price": 10.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 33.14,
-        "start_price": 12.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.35,
-        "start_price": 12.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 33.15,
-        "start_price": 12.25,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 42.67,
-        "start_price": 11.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 42.46,
-        "start_price": 10.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 45.51,
-        "start_price": 10.45,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 50.02,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 49.2,
-        "start_price": 10.65,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 47.0,
-        "start_price": 10.7,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 47.52,
-        "start_price": 10.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 47.68,
-        "start_price": 9.63,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 48.45,
-        "start_price": 9.1,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 45.81,
-        "start_price": 9.79,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 49.13,
-        "start_price": 9.0,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2019-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 45.51,
-        "start_price": 9.87,
-        "start_year": 2019
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
         "start_date": "2019-02-14",
         "pe_ratio": 27.62,
         "forward_return": 47.74,
@@ -14967,13 +8514,13 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "start_year": 2019
       },
       {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.15,
-        "forward_return": -6.06,
-        "start_price": 41.25,
-        "start_year": 2006
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2020-01-16",
+        "pe_ratio": 3.15,
+        "forward_return": 30.74,
+        "start_price": 15.7,
+        "start_year": 2020
       },
       {
         "horizon": "8y",
@@ -15563,348 +9110,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.61,
-        "start_price": 22.9,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.62,
-        "start_price": 17.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.44,
-        "start_price": 15.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.41,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.1,
-        "start_price": 11.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.15,
-        "start_price": 11.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 4.26,
-        "start_price": 13.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.54,
-        "start_price": 15.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.28,
-        "start_price": 13.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.17,
-        "start_price": 10.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.76,
-        "start_price": 10.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.7,
-        "start_price": 10.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.99,
-        "start_price": 9.88,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.8,
-        "start_price": 9.9,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 15.16,
-        "start_price": 10.7,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 22.19,
-        "start_price": 8.32,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.75,
-        "start_price": 9.04,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.99,
-        "start_price": 9.96,
-        "start_year": 2012
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.8,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 14.79,
-        "start_price": 10.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.59,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.0,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.16,
-        "start_price": 11.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.34,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 16.04,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.18,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.91,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.68,
-        "start_price": 15.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.29,
-        "start_price": 13.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.87,
-        "start_price": 14.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.72,
-        "start_price": 14.3,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 8.88,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.87,
-        "start_price": 16.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.94,
-        "start_price": 13.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.48,
-        "start_price": 15.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.79,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.0,
-        "start_price": 15.25,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.43,
-        "start_price": 14.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
         "start_date": "2014-09-15",
         "pe_ratio": 155.9,
         "forward_return": 10.96,
@@ -16054,222 +9259,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": 24.05,
         "start_price": 12.35,
         "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 28.13,
-        "start_price": 12.9,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 28.16,
-        "start_price": 12.55,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 31.08,
-        "start_price": 11.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 34.83,
-        "start_price": 12.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 32.47,
-        "start_price": 12.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 32.15,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.86,
-        "start_price": 12.2,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 30.67,
-        "start_price": 11.85,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.47,
-        "start_price": 11.7,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 31.53,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 32.36,
-        "start_price": 10.6,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 31.38,
-        "start_price": 10.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 31.84,
-        "start_price": 10.95,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 27.7,
-        "start_price": 10.75,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 27.99,
-        "start_price": 10.1,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.03,
-        "start_price": 9.61,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 28.94,
-        "start_price": 9.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 30.88,
-        "start_price": 9.69,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 31.71,
-        "start_price": 9.9,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 30.31,
-        "start_price": 10.0,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 29.18,
-        "start_price": 10.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 24.33,
-        "start_price": 12.65,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 26.45,
-        "start_price": 12.55,
-        "start_year": 2017
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-01-16",
-        "pe_ratio": 9.15,
-        "forward_return": -5.25,
-        "start_price": 41.25,
-        "start_year": 2006
       },
       {
         "horizon": "10y",
@@ -16859,348 +9848,6 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "10y",
         "horizon_label": "10年",
-        "start_date": "2011-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.85,
-        "start_price": 22.9,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.58,
-        "start_price": 17.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 8.05,
-        "start_price": 15.8,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 8.41,
-        "start_price": 15.3,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 11.43,
-        "start_price": 11.15,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 11.55,
-        "start_price": 11.7,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.27,
-        "start_price": 13.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-02-15",
-        "pe_ratio": NaN,
-        "forward_return": 7.74,
-        "start_price": 15.35,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 9.53,
-        "start_price": 13.1,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.97,
-        "start_price": 10.55,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.21,
-        "start_price": 10.4,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.06,
-        "start_price": 10.8,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.5,
-        "start_price": 9.88,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.36,
-        "start_price": 9.9,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 12.72,
-        "start_price": 10.7,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.45,
-        "start_price": 8.32,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 14.12,
-        "start_price": 9.04,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.84,
-        "start_price": 9.96,
-        "start_year": 2012
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.32,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 13.35,
-        "start_price": 10.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.34,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 13.47,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.35,
-        "start_price": 11.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 22.48,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 24.04,
-        "start_price": 10.1,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 23.68,
-        "start_price": 10.8,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 20.74,
-        "start_price": 11.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.64,
-        "start_price": 15.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-11-15",
-        "pe_ratio": NaN,
-        "forward_return": 17.95,
-        "start_price": 13.9,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.76,
-        "start_price": 14.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.26,
-        "start_price": 14.3,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 19.36,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 18.86,
-        "start_price": 16.4,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 21.96,
-        "start_price": 13.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 23.61,
-        "start_price": 15.85,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 22.16,
-        "start_price": 16.15,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.83,
-        "start_price": 15.25,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2014-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 21.67,
-        "start_price": 14.9,
-        "start_year": 2014
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
         "start_date": "2014-09-15",
         "pe_ratio": 155.9,
         "forward_return": 20.94,
@@ -17341,6 +9988,15 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "forward_return": 20.94,
         "start_price": 12.4,
         "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2016-01-16",
+        "pe_ratio": 108.4,
+        "forward_return": 20.58,
+        "start_price": 12.35,
+        "start_year": 2016
       }
     ]
   },
@@ -17544,7 +10200,7 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 5.4倍、8.9倍、17.0倍、36.1倍、101.4倍"
+!!! note "本益比河流帶水位: 5.4倍、8.9倍、17.3倍、36.6倍、116.5倍"
 
 ```vegalite
 {
@@ -17553,24 +10209,14 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
   "data": {
     "values": [
       {
-        "date": "2006-01-16",
-        "price": 41.25,
-        "pe": 9.15,
-        "pe_10": 24.3,
-        "pe_25": 40.18,
-        "pe_50": 76.57,
-        "pe_75": 162.55,
-        "pe_90": 457.26
-      },
-      {
         "date": "2006-02-14",
         "price": 41.9,
         "pe": 9.29,
         "pe_10": 24.31,
         "pe_25": 40.2,
-        "pe_50": 76.61,
-        "pe_75": 162.63,
-        "pe_90": 457.46
+        "pe_50": 78.18,
+        "pe_75": 165.13,
+        "pe_90": 525.58
       },
       {
         "date": "2006-03-16",
@@ -17578,9 +10224,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 10.58,
         "pe_10": 24.3,
         "pe_25": 40.18,
-        "pe_50": 76.58,
-        "pe_75": 162.57,
-        "pe_90": 457.29
+        "pe_50": 78.15,
+        "pe_75": 165.07,
+        "pe_90": 525.38
       },
       {
         "date": "2006-04-15",
@@ -17588,9 +10234,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 10.69,
         "pe_10": 24.3,
         "pe_25": 40.19,
-        "pe_50": 76.58,
-        "pe_75": 162.58,
-        "pe_90": 457.33
+        "pe_50": 78.16,
+        "pe_75": 165.08,
+        "pe_90": 525.42
       },
       {
         "date": "2006-05-16",
@@ -17598,9 +10244,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 9.76,
         "pe_10": 24.3,
         "pe_25": 40.18,
-        "pe_50": 76.57,
-        "pe_75": 162.55,
-        "pe_90": 457.26
+        "pe_50": 78.15,
+        "pe_75": 165.06,
+        "pe_90": 525.34
       },
       {
         "date": "2006-06-15",
@@ -17608,9 +10254,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.4,
         "pe_10": 24.32,
         "pe_25": 40.21,
-        "pe_50": 76.63,
-        "pe_75": 162.69,
-        "pe_90": 457.63
+        "pe_50": 78.21,
+        "pe_75": 165.19,
+        "pe_90": 525.77
       },
       {
         "date": "2006-07-16",
@@ -17618,9 +10264,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.37,
         "pe_10": 24.31,
         "pe_25": 40.2,
-        "pe_50": 76.6,
-        "pe_75": 162.62,
-        "pe_90": 457.46
+        "pe_50": 78.18,
+        "pe_75": 165.13,
+        "pe_90": 525.57
       },
       {
         "date": "2006-08-16",
@@ -17628,9 +10274,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.58,
         "pe_10": 24.31,
         "pe_25": 40.2,
-        "pe_50": 76.61,
-        "pe_75": 162.64,
-        "pe_90": 457.49
+        "pe_50": 78.19,
+        "pe_75": 165.14,
+        "pe_90": 525.61
       },
       {
         "date": "2006-09-15",
@@ -17638,9 +10284,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 7.96,
         "pe_10": 24.31,
         "pe_25": 40.2,
-        "pe_50": 76.6,
-        "pe_75": 162.62,
-        "pe_90": 457.45
+        "pe_50": 78.18,
+        "pe_75": 165.12,
+        "pe_90": 525.56
       },
       {
         "date": "2006-10-16",
@@ -17648,9 +10294,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.26,
         "pe_10": 24.31,
         "pe_25": 40.19,
-        "pe_50": 76.6,
-        "pe_75": 162.61,
-        "pe_90": 457.41
+        "pe_50": 78.18,
+        "pe_75": 165.11,
+        "pe_90": 525.51
       },
       {
         "date": "2006-11-15",
@@ -17658,9 +10304,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.76,
         "pe_10": 24.3,
         "pe_25": 40.19,
-        "pe_50": 76.59,
-        "pe_75": 162.59,
-        "pe_90": 457.35
+        "pe_50": 78.17,
+        "pe_75": 165.09,
+        "pe_90": 525.45
       },
       {
         "date": "2006-12-16",
@@ -17668,9 +10314,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.98,
         "pe_10": 24.31,
         "pe_25": 40.2,
-        "pe_50": 76.6,
-        "pe_75": 162.62,
-        "pe_90": 457.44
+        "pe_50": 78.18,
+        "pe_75": 165.12,
+        "pe_90": 525.55
       },
       {
         "date": "2007-01-16",
@@ -17678,9 +10324,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 9.18,
         "pe_10": 24.37,
         "pe_25": 40.29,
-        "pe_50": 76.78,
-        "pe_75": 163.01,
-        "pe_90": 458.53
+        "pe_50": 78.37,
+        "pe_75": 165.51,
+        "pe_90": 526.8
       },
       {
         "date": "2007-02-14",
@@ -17688,9 +10334,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 9.44,
         "pe_10": 24.44,
         "pe_25": 40.41,
-        "pe_50": 77.01,
-        "pe_75": 163.48,
-        "pe_90": 459.86
+        "pe_50": 78.6,
+        "pe_75": 166.0,
+        "pe_90": 528.34
       },
       {
         "date": "2007-03-16",
@@ -17698,9 +10344,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.93,
         "pe_10": 24.51,
         "pe_25": 40.52,
-        "pe_50": 77.22,
-        "pe_75": 163.93,
-        "pe_90": 461.14
+        "pe_50": 78.81,
+        "pe_75": 166.46,
+        "pe_90": 529.8
       },
       {
         "date": "2007-04-15",
@@ -17708,9 +10354,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 9.55,
         "pe_10": 24.58,
         "pe_25": 40.64,
-        "pe_50": 77.46,
-        "pe_75": 164.43,
-        "pe_90": 462.53
+        "pe_50": 79.05,
+        "pe_75": 166.96,
+        "pe_90": 531.4
       },
       {
         "date": "2007-05-16",
@@ -17718,9 +10364,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 9.03,
         "pe_10": 24.65,
         "pe_25": 40.76,
-        "pe_50": 77.68,
-        "pe_75": 164.91,
-        "pe_90": 463.9
+        "pe_50": 79.28,
+        "pe_75": 167.45,
+        "pe_90": 532.97
       },
       {
         "date": "2007-06-15",
@@ -17728,9 +10374,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 9.99,
         "pe_10": 24.71,
         "pe_25": 40.86,
-        "pe_50": 77.87,
-        "pe_75": 165.31,
-        "pe_90": 465.01
+        "pe_50": 79.47,
+        "pe_75": 167.85,
+        "pe_90": 534.24
       },
       {
         "date": "2007-07-16",
@@ -17738,9 +10384,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 13.31,
         "pe_10": 24.78,
         "pe_25": 40.98,
-        "pe_50": 78.1,
-        "pe_75": 165.79,
-        "pe_90": 466.37
+        "pe_50": 79.71,
+        "pe_75": 168.35,
+        "pe_90": 535.81
       },
       {
         "date": "2007-08-16",
@@ -17748,9 +10394,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 12.82,
         "pe_10": 24.85,
         "pe_25": 41.09,
-        "pe_50": 78.3,
-        "pe_75": 166.22,
-        "pe_90": 467.58
+        "pe_50": 79.91,
+        "pe_75": 168.78,
+        "pe_90": 537.2
       },
       {
         "date": "2007-09-15",
@@ -17758,9 +10404,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 11.57,
         "pe_10": 24.92,
         "pe_25": 41.21,
-        "pe_50": 78.54,
-        "pe_75": 166.73,
-        "pe_90": 469.01
+        "pe_50": 80.16,
+        "pe_75": 169.3,
+        "pe_90": 538.84
       },
       {
         "date": "2007-10-16",
@@ -17768,9 +10414,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 10.66,
         "pe_10": 24.98,
         "pe_25": 41.3,
-        "pe_50": 78.71,
-        "pe_75": 167.1,
-        "pe_90": 470.03
+        "pe_50": 80.33,
+        "pe_75": 169.67,
+        "pe_90": 540.02
       },
       {
         "date": "2007-11-15",
@@ -17778,9 +10424,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 9.1,
         "pe_10": 25.05,
         "pe_25": 41.43,
-        "pe_50": 78.95,
-        "pe_75": 167.61,
-        "pe_90": 471.47
+        "pe_50": 80.58,
+        "pe_75": 170.19,
+        "pe_90": 541.67
       },
       {
         "date": "2007-12-16",
@@ -17788,9 +10434,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.86,
         "pe_10": 25.12,
         "pe_25": 41.54,
-        "pe_50": 79.17,
-        "pe_75": 168.08,
-        "pe_90": 472.8
+        "pe_50": 80.81,
+        "pe_75": 170.67,
+        "pe_90": 543.19
       },
       {
         "date": "2008-01-16",
@@ -17798,9 +10444,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 7.96,
         "pe_10": 25.22,
         "pe_25": 41.71,
-        "pe_50": 79.48,
-        "pe_75": 168.74,
-        "pe_90": 474.65
+        "pe_50": 81.12,
+        "pe_75": 171.33,
+        "pe_90": 545.32
       },
       {
         "date": "2008-02-15",
@@ -17808,9 +10454,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.6,
         "pe_10": 25.32,
         "pe_25": 41.87,
-        "pe_50": 79.79,
-        "pe_75": 169.39,
-        "pe_90": 476.48
+        "pe_50": 81.43,
+        "pe_75": 171.99,
+        "pe_90": 547.42
       },
       {
         "date": "2008-03-16",
@@ -17818,9 +10464,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.92,
         "pe_10": 25.41,
         "pe_25": 42.01,
-        "pe_50": 80.07,
-        "pe_75": 169.98,
-        "pe_90": 478.14
+        "pe_50": 81.72,
+        "pe_75": 172.6,
+        "pe_90": 549.34
       },
       {
         "date": "2008-04-15",
@@ -17828,9 +10474,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 10.01,
         "pe_10": 25.52,
         "pe_25": 42.2,
-        "pe_50": 80.43,
-        "pe_75": 170.74,
-        "pe_90": 480.29
+        "pe_50": 82.09,
+        "pe_75": 173.37,
+        "pe_90": 551.8
       },
       {
         "date": "2008-05-16",
@@ -17838,9 +10484,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 9.68,
         "pe_10": 25.61,
         "pe_25": 42.35,
-        "pe_50": 80.71,
-        "pe_75": 171.35,
-        "pe_90": 481.99
+        "pe_50": 82.38,
+        "pe_75": 173.99,
+        "pe_90": 553.76
       },
       {
         "date": "2008-06-15",
@@ -17848,9 +10494,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.09,
         "pe_10": 25.72,
         "pe_25": 42.52,
-        "pe_50": 81.04,
-        "pe_75": 172.04,
-        "pe_90": 483.95
+        "pe_50": 82.71,
+        "pe_75": 174.69,
+        "pe_90": 556.0
       },
       {
         "date": "2008-07-16",
@@ -17858,9 +10504,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 7.74,
         "pe_10": 25.8,
         "pe_25": 42.66,
-        "pe_50": 81.3,
-        "pe_75": 172.6,
-        "pe_90": 485.52
+        "pe_50": 82.98,
+        "pe_75": 175.26,
+        "pe_90": 557.81
       },
       {
         "date": "2008-08-16",
@@ -17868,9 +10514,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.48,
         "pe_10": 25.9,
         "pe_25": 42.83,
-        "pe_50": 81.62,
-        "pe_75": 173.27,
-        "pe_90": 487.4
+        "pe_50": 83.3,
+        "pe_75": 175.94,
+        "pe_90": 559.98
       },
       {
         "date": "2008-09-15",
@@ -17878,9 +10524,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 5.94,
         "pe_10": 26.0,
         "pe_25": 42.99,
-        "pe_50": 81.92,
-        "pe_75": 173.91,
-        "pe_90": 489.21
+        "pe_50": 83.61,
+        "pe_75": 176.59,
+        "pe_90": 562.05
       },
       {
         "date": "2008-10-16",
@@ -17888,9 +10534,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 4.56,
         "pe_10": 26.12,
         "pe_25": 43.19,
-        "pe_50": 82.32,
-        "pe_75": 174.75,
-        "pe_90": 491.57
+        "pe_50": 84.01,
+        "pe_75": 177.44,
+        "pe_90": 564.76
       },
       {
         "date": "2008-11-15",
@@ -17898,9 +10544,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 5.04,
         "pe_10": 26.2,
         "pe_25": 43.32,
-        "pe_50": 82.57,
-        "pe_75": 175.28,
-        "pe_90": 493.05
+        "pe_50": 84.27,
+        "pe_75": 177.98,
+        "pe_90": 566.47
       },
       {
         "date": "2008-12-16",
@@ -17908,9 +10554,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 4.64,
         "pe_10": 26.31,
         "pe_25": 43.51,
-        "pe_50": 82.91,
-        "pe_75": 176.01,
-        "pe_90": 495.12
+        "pe_50": 84.62,
+        "pe_75": 178.72,
+        "pe_90": 568.84
       },
       {
         "date": "2009-01-16",
@@ -17918,9 +10564,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 4.71,
         "pe_10": 24.15,
         "pe_25": 39.93,
-        "pe_50": 76.09,
-        "pe_75": 161.53,
-        "pe_90": 454.38
+        "pe_50": 77.66,
+        "pe_75": 164.02,
+        "pe_90": 522.03
       },
       {
         "date": "2009-02-14",
@@ -17928,9 +10574,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 5.54,
         "pe_10": 22.04,
         "pe_25": 36.44,
-        "pe_50": 69.44,
-        "pe_75": 147.42,
-        "pe_90": 414.68
+        "pe_50": 70.87,
+        "pe_75": 149.69,
+        "pe_90": 476.43
       },
       {
         "date": "2009-03-16",
@@ -17938,9 +10584,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 7.21,
         "pe_10": 19.89,
         "pe_25": 32.88,
-        "pe_50": 62.66,
-        "pe_75": 133.03,
-        "pe_90": 374.2
+        "pe_50": 63.95,
+        "pe_75": 135.08,
+        "pe_90": 429.92
       },
       {
         "date": "2009-04-15",
@@ -17948,9 +10594,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.91,
         "pe_10": 17.72,
         "pe_25": 29.31,
-        "pe_50": 55.85,
-        "pe_75": 118.57,
-        "pe_90": 333.54
+        "pe_50": 57.01,
+        "pe_75": 120.4,
+        "pe_90": 383.2
       },
       {
         "date": "2009-05-16",
@@ -17958,9 +10604,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 11.44,
         "pe_10": 15.6,
         "pe_25": 25.79,
-        "pe_50": 49.14,
-        "pe_75": 104.33,
-        "pe_90": 293.47
+        "pe_50": 50.16,
+        "pe_75": 105.93,
+        "pe_90": 337.16
       },
       {
         "date": "2009-06-15",
@@ -17968,9 +10614,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 10.66,
         "pe_10": 13.45,
         "pe_25": 22.24,
-        "pe_50": 42.38,
-        "pe_75": 89.97,
-        "pe_90": 253.09
+        "pe_50": 43.26,
+        "pe_75": 91.36,
+        "pe_90": 290.78
       },
       {
         "date": "2009-07-16",
@@ -17978,9 +10624,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 13.92,
         "pe_10": 11.31,
         "pe_25": 18.7,
-        "pe_50": 35.63,
-        "pe_75": 75.64,
-        "pe_90": 212.77
+        "pe_50": 36.36,
+        "pe_75": 76.8,
+        "pe_90": 244.45
       },
       {
         "date": "2009-08-16",
@@ -17988,9 +10634,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 13.56,
         "pe_10": 9.16,
         "pe_25": 15.15,
-        "pe_50": 28.87,
-        "pe_75": 61.29,
-        "pe_90": 172.41
+        "pe_50": 29.47,
+        "pe_75": 62.24,
+        "pe_90": 198.08
       },
       {
         "date": "2009-09-15",
@@ -17998,9 +10644,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 22.03,
         "pe_10": 7.02,
         "pe_25": 11.61,
-        "pe_50": 22.13,
-        "pe_75": 46.97,
-        "pe_90": 132.14
+        "pe_50": 22.58,
+        "pe_75": 47.7,
+        "pe_90": 151.81
       },
       {
         "date": "2009-10-16",
@@ -18008,9 +10654,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 29.5,
         "pe_10": 4.88,
         "pe_25": 8.07,
-        "pe_50": 15.37,
-        "pe_75": 32.64,
-        "pe_90": 91.8
+        "pe_50": 15.69,
+        "pe_75": 33.14,
+        "pe_90": 105.47
       },
       {
         "date": "2009-11-15",
@@ -18018,9 +10664,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 52.71,
         "pe_10": 2.74,
         "pe_25": 4.52,
-        "pe_50": 8.62,
-        "pe_75": 18.3,
-        "pe_90": 51.47
+        "pe_50": 8.8,
+        "pe_75": 18.58,
+        "pe_90": 59.14
       },
       {
         "date": "2009-12-16",
@@ -18028,9 +10674,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 266.8,
         "pe_10": 0.59,
         "pe_25": 0.98,
-        "pe_50": 1.87,
-        "pe_75": 3.97,
-        "pe_90": 11.16
+        "pe_50": 1.91,
+        "pe_75": 4.03,
+        "pe_90": 12.82
       },
       {
         "date": "2010-01-16",
@@ -18038,9 +10684,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 144.9,
         "pe_10": 1.03,
         "pe_25": 1.7,
-        "pe_50": 3.24,
-        "pe_75": 6.88,
-        "pe_90": 19.35
+        "pe_50": 3.31,
+        "pe_75": 6.99,
+        "pe_90": 22.24
       },
       {
         "date": "2010-02-14",
@@ -18048,9 +10694,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 98.28,
         "pe_10": 1.46,
         "pe_25": 2.42,
-        "pe_50": 4.61,
-        "pe_75": 9.8,
-        "pe_90": 27.56
+        "pe_50": 4.71,
+        "pe_75": 9.95,
+        "pe_90": 31.66
       },
       {
         "date": "2010-03-16",
@@ -18058,9 +10704,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 82.84,
         "pe_10": 1.9,
         "pe_25": 3.14,
-        "pe_50": 5.99,
-        "pe_75": 12.71,
-        "pe_90": 35.75
+        "pe_50": 6.11,
+        "pe_75": 12.91,
+        "pe_90": 41.08
       },
       {
         "date": "2010-04-15",
@@ -18068,9 +10714,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 63.0,
         "pe_10": 2.34,
         "pe_25": 3.86,
-        "pe_50": 7.36,
-        "pe_75": 15.62,
-        "pe_90": 43.95
+        "pe_50": 7.51,
+        "pe_75": 15.87,
+        "pe_90": 50.5
       },
       {
         "date": "2010-05-16",
@@ -18078,9 +10724,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 46.19,
         "pe_10": 2.77,
         "pe_25": 4.58,
-        "pe_50": 8.73,
-        "pe_75": 18.54,
-        "pe_90": 52.15
+        "pe_50": 8.91,
+        "pe_75": 18.83,
+        "pe_90": 59.92
       },
       {
         "date": "2010-06-15",
@@ -18088,9 +10734,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 40.0,
         "pe_10": 3.21,
         "pe_25": 5.3,
-        "pe_50": 10.11,
-        "pe_75": 21.45,
-        "pe_90": 60.35
+        "pe_50": 10.31,
+        "pe_75": 21.78,
+        "pe_90": 69.34
       },
       {
         "date": "2010-07-16",
@@ -18098,9 +10744,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 36.7,
         "pe_10": 3.64,
         "pe_25": 6.02,
-        "pe_50": 11.48,
-        "pe_75": 24.37,
-        "pe_90": 68.54
+        "pe_50": 11.71,
+        "pe_75": 24.74,
+        "pe_90": 78.75
       },
       {
         "date": "2010-08-16",
@@ -18108,9 +10754,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 32.51,
         "pe_10": 4.08,
         "pe_25": 6.74,
-        "pe_50": 12.85,
-        "pe_75": 27.28,
-        "pe_90": 76.75
+        "pe_50": 13.12,
+        "pe_75": 27.7,
+        "pe_90": 88.18
       },
       {
         "date": "2010-09-15",
@@ -18118,9 +10764,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 31.4,
         "pe_10": 4.51,
         "pe_25": 7.46,
-        "pe_50": 14.23,
-        "pe_75": 30.2,
-        "pe_90": 84.95
+        "pe_50": 14.52,
+        "pe_75": 30.67,
+        "pe_90": 97.6
       },
       {
         "date": "2010-10-16",
@@ -18128,9 +10774,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 27.28,
         "pe_10": 4.95,
         "pe_25": 8.18,
-        "pe_50": 15.6,
-        "pe_75": 33.11,
-        "pe_90": 93.14
+        "pe_50": 15.92,
+        "pe_75": 33.62,
+        "pe_90": 107.0
       },
       {
         "date": "2010-11-15",
@@ -18138,9 +10784,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 24.72,
         "pe_10": 5.39,
         "pe_25": 8.91,
-        "pe_50": 16.97,
-        "pe_75": 36.03,
-        "pe_90": 101.35
+        "pe_50": 17.32,
+        "pe_75": 36.58,
+        "pe_90": 116.44
       },
       {
         "date": "2010-12-16",
@@ -18148,9 +10794,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 22.5,
         "pe_10": 5.82,
         "pe_25": 9.63,
-        "pe_50": 18.34,
-        "pe_75": 38.94,
-        "pe_90": 109.54
+        "pe_50": 18.72,
+        "pe_75": 39.54,
+        "pe_90": 125.85
       },
       {
         "date": "2011-01-16",
@@ -18158,9 +10804,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 26.2,
         "pe_10": 4.86,
         "pe_25": 8.03,
-        "pe_50": 15.3,
-        "pe_75": 32.48,
-        "pe_90": 91.36
+        "pe_50": 15.61,
+        "pe_75": 32.98,
+        "pe_90": 104.97
       },
       {
         "date": "2011-02-14",
@@ -18168,9 +10814,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 34.64,
         "pe_10": 3.89,
         "pe_25": 6.43,
-        "pe_50": 12.26,
-        "pe_75": 26.02,
-        "pe_90": 73.2
+        "pe_50": 12.51,
+        "pe_75": 26.42,
+        "pe_90": 84.1
       },
       {
         "date": "2011-03-16",
@@ -18178,9 +10824,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 51.15,
         "pe_10": 2.92,
         "pe_25": 4.84,
-        "pe_50": 9.21,
-        "pe_75": 19.56,
-        "pe_90": 55.03
+        "pe_50": 9.4,
+        "pe_75": 19.86,
+        "pe_90": 63.22
       },
       {
         "date": "2011-04-15",
@@ -18188,9 +10834,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 73.76,
         "pe_10": 1.96,
         "pe_25": 3.24,
-        "pe_50": 6.17,
-        "pe_75": 13.1,
-        "pe_90": 36.85
+        "pe_50": 6.3,
+        "pe_75": 13.3,
+        "pe_90": 42.34
       },
       {
         "date": "2011-05-16",
@@ -18198,9 +10844,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 135.5,
         "pe_10": 0.99,
         "pe_25": 1.64,
-        "pe_50": 3.13,
-        "pe_75": 6.64,
-        "pe_90": 18.68
+        "pe_50": 3.19,
+        "pe_75": 6.74,
+        "pe_90": 21.46
       },
       {
         "date": "2011-06-15",
@@ -18208,9 +10854,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 4690.0,
         "pe_10": 0.03,
         "pe_25": 0.04,
-        "pe_50": 0.08,
+        "pe_50": 0.09,
         "pe_75": 0.18,
-        "pe_90": 0.51
+        "pe_90": 0.58
       },
       {
         "date": "2014-09-15",
@@ -18218,9 +10864,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 155.9,
         "pe_10": 0.53,
         "pe_25": 0.87,
-        "pe_50": 1.66,
-        "pe_75": 3.52,
-        "pe_90": 9.89
+        "pe_50": 1.69,
+        "pe_75": 3.57,
+        "pe_90": 11.36
       },
       {
         "date": "2014-10-16",
@@ -18228,9 +10874,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 43.32,
         "pe_10": 1.68,
         "pe_25": 2.78,
-        "pe_50": 5.29,
-        "pe_75": 11.24,
-        "pe_90": 31.61
+        "pe_50": 5.4,
+        "pe_75": 11.41,
+        "pe_90": 36.31
       },
       {
         "date": "2014-11-15",
@@ -18238,9 +10884,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 24.34,
         "pe_10": 2.83,
         "pe_25": 4.69,
-        "pe_50": 8.93,
-        "pe_75": 18.96,
-        "pe_90": 53.34
+        "pe_50": 9.12,
+        "pe_75": 19.25,
+        "pe_90": 61.28
       },
       {
         "date": "2014-12-16",
@@ -18248,9 +10894,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 19.32,
         "pe_10": 3.99,
         "pe_25": 6.6,
-        "pe_50": 12.57,
-        "pe_75": 26.69,
-        "pe_90": 75.07
+        "pe_50": 12.83,
+        "pe_75": 27.1,
+        "pe_90": 86.25
       },
       {
         "date": "2015-01-16",
@@ -18258,9 +10904,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 21.4,
         "pe_10": 3.79,
         "pe_25": 6.27,
-        "pe_50": 11.95,
-        "pe_75": 25.36,
-        "pe_90": 71.33
+        "pe_50": 12.19,
+        "pe_75": 25.75,
+        "pe_90": 81.95
       },
       {
         "date": "2015-02-14",
@@ -18268,9 +10914,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 22.58,
         "pe_10": 3.59,
         "pe_25": 5.94,
-        "pe_50": 11.32,
-        "pe_75": 24.03,
-        "pe_90": 67.6
+        "pe_50": 11.55,
+        "pe_75": 24.4,
+        "pe_90": 77.67
       },
       {
         "date": "2015-03-16",
@@ -18278,9 +10924,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 23.49,
         "pe_10": 3.4,
         "pe_25": 5.62,
-        "pe_50": 10.7,
-        "pe_75": 22.72,
-        "pe_90": 63.91
+        "pe_50": 10.92,
+        "pe_75": 23.07,
+        "pe_90": 73.42
       },
       {
         "date": "2015-04-15",
@@ -18288,9 +10934,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 23.6,
         "pe_10": 3.2,
         "pe_25": 5.29,
-        "pe_50": 10.08,
-        "pe_75": 21.39,
-        "pe_90": 60.17
+        "pe_50": 10.28,
+        "pe_75": 21.72,
+        "pe_90": 69.13
       },
       {
         "date": "2015-05-16",
@@ -18298,9 +10944,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 23.35,
         "pe_10": 3.0,
         "pe_25": 4.96,
-        "pe_50": 9.46,
-        "pe_75": 20.07,
-        "pe_90": 56.47
+        "pe_50": 9.65,
+        "pe_75": 20.38,
+        "pe_90": 64.88
       },
       {
         "date": "2015-06-15",
@@ -18308,9 +10954,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 24.52,
         "pe_10": 2.8,
         "pe_25": 4.63,
-        "pe_50": 8.83,
-        "pe_75": 18.75,
-        "pe_90": 52.74
+        "pe_50": 9.01,
+        "pe_75": 19.04,
+        "pe_90": 60.59
       },
       {
         "date": "2015-07-16",
@@ -18318,9 +10964,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 21.62,
         "pe_10": 2.61,
         "pe_25": 4.31,
-        "pe_50": 8.21,
-        "pe_75": 17.43,
-        "pe_90": 49.03
+        "pe_50": 8.38,
+        "pe_75": 17.7,
+        "pe_90": 56.32
       },
       {
         "date": "2015-08-16",
@@ -18328,9 +10974,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 23.06,
         "pe_10": 2.41,
         "pe_25": 3.98,
-        "pe_50": 7.59,
-        "pe_75": 16.11,
-        "pe_90": 45.3
+        "pe_50": 7.74,
+        "pe_75": 16.35,
+        "pe_90": 52.05
       },
       {
         "date": "2015-09-15",
@@ -18338,9 +10984,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 28.41,
         "pe_10": 2.21,
         "pe_25": 3.65,
-        "pe_50": 6.96,
-        "pe_75": 14.79,
-        "pe_90": 41.59
+        "pe_50": 7.11,
+        "pe_75": 15.01,
+        "pe_90": 47.79
       },
       {
         "date": "2015-10-16",
@@ -18348,9 +10994,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 33.75,
         "pe_10": 2.01,
         "pe_25": 3.33,
-        "pe_50": 6.34,
-        "pe_75": 13.46,
-        "pe_90": 37.87
+        "pe_50": 6.47,
+        "pe_75": 13.67,
+        "pe_90": 43.5
       },
       {
         "date": "2015-11-15",
@@ -18358,9 +11004,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 36.53,
         "pe_10": 1.81,
         "pe_25": 3.0,
-        "pe_50": 5.72,
-        "pe_75": 12.14,
-        "pe_90": 34.15
+        "pe_50": 5.84,
+        "pe_75": 12.33,
+        "pe_90": 39.24
       },
       {
         "date": "2015-12-16",
@@ -18368,9 +11014,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 41.33,
         "pe_10": 1.62,
         "pe_25": 2.67,
-        "pe_50": 5.1,
-        "pe_75": 10.82,
-        "pe_90": 30.43
+        "pe_50": 5.2,
+        "pe_75": 10.98,
+        "pe_90": 34.96
       },
       {
         "date": "2016-01-16",
@@ -18378,9 +11024,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 108.4,
         "pe_10": 0.61,
         "pe_25": 1.02,
-        "pe_50": 1.94,
-        "pe_75": 4.11,
-        "pe_90": 11.56
+        "pe_50": 1.97,
+        "pe_75": 4.17,
+        "pe_90": 13.28
       },
       {
         "date": "2019-02-14",
@@ -18388,9 +11034,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 27.62,
         "pe_10": 1.86,
         "pe_25": 3.08,
-        "pe_50": 5.86,
-        "pe_75": 12.44,
-        "pe_90": 35.0
+        "pe_50": 5.98,
+        "pe_75": 12.63,
+        "pe_90": 40.21
       },
       {
         "date": "2019-03-16",
@@ -18398,9 +11044,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 13.7,
         "pe_10": 4.62,
         "pe_25": 7.64,
-        "pe_50": 14.57,
-        "pe_75": 30.93,
-        "pe_90": 86.99
+        "pe_50": 14.87,
+        "pe_75": 31.4,
+        "pe_90": 99.94
       },
       {
         "date": "2019-04-15",
@@ -18408,9 +11054,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 10.47,
         "pe_10": 7.39,
         "pe_25": 12.22,
-        "pe_50": 23.28,
-        "pe_75": 49.42,
-        "pe_90": 139.02
+        "pe_50": 23.76,
+        "pe_75": 50.18,
+        "pe_90": 159.71
       },
       {
         "date": "2019-05-16",
@@ -18418,9 +11064,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 7.57,
         "pe_10": 10.15,
         "pe_25": 16.78,
-        "pe_50": 31.97,
-        "pe_75": 67.88,
-        "pe_90": 190.93
+        "pe_50": 32.63,
+        "pe_75": 68.92,
+        "pe_90": 219.36
       },
       {
         "date": "2019-06-15",
@@ -18428,9 +11074,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 6.18,
         "pe_10": 12.91,
         "pe_25": 21.34,
-        "pe_50": 40.68,
-        "pe_75": 86.35,
-        "pe_90": 242.9
+        "pe_50": 41.51,
+        "pe_75": 87.68,
+        "pe_90": 279.07
       },
       {
         "date": "2019-07-16",
@@ -18438,9 +11084,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 4.83,
         "pe_10": 15.68,
         "pe_25": 25.93,
-        "pe_50": 49.41,
-        "pe_75": 104.89,
-        "pe_90": 295.04
+        "pe_50": 50.43,
+        "pe_75": 106.5,
+        "pe_90": 338.97
       },
       {
         "date": "2019-08-16",
@@ -18448,9 +11094,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 4.59,
         "pe_10": 18.44,
         "pe_25": 30.49,
-        "pe_50": 58.1,
-        "pe_75": 123.33,
-        "pe_90": 346.93
+        "pe_50": 59.29,
+        "pe_75": 125.23,
+        "pe_90": 398.59
       },
       {
         "date": "2019-09-15",
@@ -18458,9 +11104,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 3.74,
         "pe_10": 21.19,
         "pe_25": 35.03,
-        "pe_50": 66.76,
-        "pe_75": 141.72,
-        "pe_90": 398.66
+        "pe_50": 68.13,
+        "pe_75": 143.9,
+        "pe_90": 458.02
       },
       {
         "date": "2019-10-16",
@@ -18468,9 +11114,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 3.49,
         "pe_10": 23.94,
         "pe_25": 39.58,
-        "pe_50": 75.43,
-        "pe_75": 160.14,
-        "pe_90": 450.47
+        "pe_50": 76.99,
+        "pe_75": 162.61,
+        "pe_90": 517.54
       },
       {
         "date": "2019-11-15",
@@ -18478,9 +11124,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 3.01,
         "pe_10": 26.68,
         "pe_25": 44.12,
-        "pe_50": 84.08,
-        "pe_75": 178.49,
-        "pe_90": 502.09
+        "pe_50": 85.81,
+        "pe_75": 181.24,
+        "pe_90": 576.84
       },
       {
         "date": "2019-12-16",
@@ -18488,9 +11134,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 2.9,
         "pe_10": 29.46,
         "pe_25": 48.71,
-        "pe_50": 92.83,
-        "pe_75": 197.07,
-        "pe_90": 554.36
+        "pe_50": 94.74,
+        "pe_75": 200.11,
+        "pe_90": 636.9
       },
       {
         "date": "2020-01-16",
@@ -18498,9 +11144,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 3.15,
         "pe_10": 26.86,
         "pe_25": 44.42,
-        "pe_50": 84.66,
-        "pe_75": 179.72,
-        "pe_90": 505.53
+        "pe_50": 86.4,
+        "pe_75": 182.48,
+        "pe_90": 580.8
       },
       {
         "date": "2020-02-15",
@@ -18508,9 +11154,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 3.51,
         "pe_10": 24.19,
         "pe_25": 39.99,
-        "pe_50": 76.21,
-        "pe_75": 161.8,
-        "pe_90": 455.13
+        "pe_50": 77.79,
+        "pe_75": 164.29,
+        "pe_90": 522.89
       },
       {
         "date": "2020-03-16",
@@ -18518,9 +11164,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 3.48,
         "pe_10": 21.61,
         "pe_25": 35.73,
-        "pe_50": 68.09,
-        "pe_75": 144.54,
-        "pe_90": 406.59
+        "pe_50": 69.49,
+        "pe_75": 146.77,
+        "pe_90": 467.12
       },
       {
         "date": "2020-04-15",
@@ -18528,9 +11174,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 4.36,
         "pe_10": 18.98,
         "pe_25": 31.38,
-        "pe_50": 59.8,
-        "pe_75": 126.95,
-        "pe_90": 357.09
+        "pe_50": 61.03,
+        "pe_75": 128.9,
+        "pe_90": 410.26
       },
       {
         "date": "2020-05-16",
@@ -18538,9 +11184,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 5.73,
         "pe_10": 16.32,
         "pe_25": 26.99,
-        "pe_50": 51.43,
-        "pe_75": 109.18,
-        "pe_90": 307.12
+        "pe_50": 52.49,
+        "pe_75": 110.86,
+        "pe_90": 352.84
       },
       {
         "date": "2020-06-15",
@@ -18548,9 +11194,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 7.11,
         "pe_10": 13.68,
         "pe_25": 22.63,
-        "pe_50": 43.12,
-        "pe_75": 91.54,
-        "pe_90": 257.49
+        "pe_50": 44.01,
+        "pe_75": 92.95,
+        "pe_90": 295.83
       },
       {
         "date": "2020-07-16",
@@ -18558,9 +11204,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 8.75,
         "pe_10": 11.06,
         "pe_25": 18.28,
-        "pe_50": 34.84,
-        "pe_75": 73.97,
-        "pe_90": 208.07
+        "pe_50": 35.56,
+        "pe_75": 75.11,
+        "pe_90": 239.05
       },
       {
         "date": "2020-08-16",
@@ -18568,9 +11214,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 17.4,
         "pe_10": 8.43,
         "pe_25": 13.93,
-        "pe_50": 26.55,
-        "pe_75": 56.37,
-        "pe_90": 158.55
+        "pe_50": 27.1,
+        "pe_75": 57.23,
+        "pe_90": 182.16
       },
       {
         "date": "2020-09-15",
@@ -18578,9 +11224,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 26.33,
         "pe_10": 5.79,
         "pe_25": 9.58,
-        "pe_50": 18.26,
-        "pe_75": 38.76,
-        "pe_90": 109.02
+        "pe_50": 18.63,
+        "pe_75": 39.35,
+        "pe_90": 125.25
       },
       {
         "date": "2020-10-16",
@@ -18588,9 +11234,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 62.3,
         "pe_10": 3.16,
         "pe_25": 5.23,
-        "pe_50": 9.96,
-        "pe_75": 21.15,
-        "pe_90": 59.51
+        "pe_50": 10.17,
+        "pe_75": 21.48,
+        "pe_90": 68.37
       },
       {
         "date": "2020-11-15",
@@ -18598,9 +11244,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 290.8,
         "pe_10": 0.53,
         "pe_25": 0.88,
-        "pe_50": 1.67,
-        "pe_75": 3.55,
-        "pe_90": 9.98
+        "pe_50": 1.7,
+        "pe_75": 3.6,
+        "pe_90": 11.46
       },
       {
         "date": "2022-05-16",
@@ -18608,9 +11254,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 221.5,
         "pe_10": 0.64,
         "pe_25": 1.06,
-        "pe_50": 2.02,
-        "pe_75": 4.3,
-        "pe_90": 12.09
+        "pe_50": 2.07,
+        "pe_75": 4.36,
+        "pe_90": 13.89
       },
       {
         "date": "2022-06-15",
@@ -18618,9 +11264,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 80.93,
         "pe_10": 2.02,
         "pe_25": 3.34,
-        "pe_50": 6.37,
-        "pe_75": 13.52,
-        "pe_90": 38.04
+        "pe_50": 6.5,
+        "pe_75": 13.73,
+        "pe_90": 43.7
       },
       {
         "date": "2022-07-16",
@@ -18628,9 +11274,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 48.11,
         "pe_10": 3.4,
         "pe_25": 5.62,
-        "pe_50": 10.71,
-        "pe_75": 22.75,
-        "pe_90": 63.99
+        "pe_50": 10.94,
+        "pe_75": 23.1,
+        "pe_90": 73.51
       },
       {
         "date": "2022-08-16",
@@ -18638,9 +11284,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 37.67,
         "pe_10": 4.78,
         "pe_25": 7.9,
-        "pe_50": 15.06,
-        "pe_75": 31.97,
-        "pe_90": 89.93
+        "pe_50": 15.37,
+        "pe_75": 32.46,
+        "pe_90": 103.32
       },
       {
         "date": "2022-09-15",
@@ -18648,9 +11294,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 24.07,
         "pe_10": 6.16,
         "pe_25": 10.18,
-        "pe_50": 19.41,
-        "pe_75": 41.2,
-        "pe_90": 115.88
+        "pe_50": 19.81,
+        "pe_75": 41.83,
+        "pe_90": 133.14
       },
       {
         "date": "2022-10-16",
@@ -18658,9 +11304,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 17.27,
         "pe_10": 7.54,
         "pe_25": 12.46,
-        "pe_50": 23.75,
-        "pe_75": 50.42,
-        "pe_90": 141.83
+        "pe_50": 24.24,
+        "pe_75": 51.2,
+        "pe_90": 162.95
       },
       {
         "date": "2022-11-15",
@@ -18668,9 +11314,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 15.69,
         "pe_10": 8.91,
         "pe_25": 14.74,
-        "pe_50": 28.09,
-        "pe_75": 59.64,
-        "pe_90": 167.75
+        "pe_50": 28.67,
+        "pe_75": 60.55,
+        "pe_90": 192.73
       },
       {
         "date": "2022-12-16",
@@ -18678,9 +11324,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 13.3,
         "pe_10": 10.29,
         "pe_25": 17.02,
-        "pe_50": 32.44,
-        "pe_75": 68.86,
-        "pe_90": 193.7
+        "pe_50": 33.11,
+        "pe_75": 69.92,
+        "pe_90": 222.55
       },
       {
         "date": "2023-01-16",
@@ -18688,9 +11334,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 13.18,
         "pe_10": 10.88,
         "pe_25": 17.99,
-        "pe_50": 34.28,
-        "pe_75": 72.77,
-        "pe_90": 204.7
+        "pe_50": 34.99,
+        "pe_75": 73.89,
+        "pe_90": 235.18
       },
       {
         "date": "2023-02-14",
@@ -18698,9 +11344,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 13.08,
         "pe_10": 11.46,
         "pe_25": 18.94,
-        "pe_50": 36.1,
-        "pe_75": 76.64,
-        "pe_90": 215.57
+        "pe_50": 36.84,
+        "pe_75": 77.82,
+        "pe_90": 247.67
       },
       {
         "date": "2023-03-16",
@@ -18708,9 +11354,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 13.01,
         "pe_10": 12.04,
         "pe_25": 19.9,
-        "pe_50": 37.93,
-        "pe_75": 80.51,
-        "pe_90": 226.48
+        "pe_50": 38.71,
+        "pe_75": 81.75,
+        "pe_90": 260.2
       },
       {
         "date": "2023-04-15",
@@ -18718,9 +11364,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 13.55,
         "pe_10": 12.61,
         "pe_25": 20.85,
-        "pe_50": 39.74,
-        "pe_75": 84.36,
-        "pe_90": 237.29
+        "pe_50": 40.55,
+        "pe_75": 85.65,
+        "pe_90": 272.62
       },
       {
         "date": "2023-05-16",
@@ -18728,9 +11374,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 14.1,
         "pe_10": 13.19,
         "pe_25": 21.81,
-        "pe_50": 41.56,
-        "pe_75": 88.23,
-        "pe_90": 248.17
+        "pe_50": 42.42,
+        "pe_75": 89.58,
+        "pe_90": 285.13
       },
       {
         "date": "2023-06-15",
@@ -18738,9 +11384,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 26.93,
         "pe_10": 13.77,
         "pe_25": 22.77,
-        "pe_50": 43.39,
-        "pe_75": 92.12,
-        "pe_90": 259.13
+        "pe_50": 44.29,
+        "pe_75": 93.54,
+        "pe_90": 297.71
       },
       {
         "date": "2023-07-16",
@@ -18748,9 +11394,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 29.11,
         "pe_10": 14.35,
         "pe_25": 23.73,
-        "pe_50": 45.22,
-        "pe_75": 96.0,
-        "pe_90": 270.03
+        "pe_50": 46.15,
+        "pe_75": 97.47,
+        "pe_90": 310.24
       },
       {
         "date": "2023-08-16",
@@ -18758,9 +11404,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 29.21,
         "pe_10": 14.93,
         "pe_25": 24.68,
-        "pe_50": 47.04,
-        "pe_75": 99.86,
-        "pe_90": 280.91
+        "pe_50": 48.01,
+        "pe_75": 101.4,
+        "pe_90": 322.74
       },
       {
         "date": "2023-09-15",
@@ -18768,9 +11414,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 22.31,
         "pe_10": 15.51,
         "pe_25": 25.65,
-        "pe_50": 48.88,
-        "pe_75": 103.76,
-        "pe_90": 291.87
+        "pe_50": 49.88,
+        "pe_75": 105.36,
+        "pe_90": 335.33
       },
       {
         "date": "2023-10-16",
@@ -18778,9 +11424,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 16.7,
         "pe_10": 16.09,
         "pe_25": 26.6,
-        "pe_50": 50.7,
-        "pe_75": 107.63,
-        "pe_90": 302.77
+        "pe_50": 51.75,
+        "pe_75": 109.29,
+        "pe_90": 347.85
       },
       {
         "date": "2023-11-15",
@@ -18788,9 +11434,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 20.34,
         "pe_10": 16.67,
         "pe_25": 27.56,
-        "pe_50": 52.52,
-        "pe_75": 111.51,
-        "pe_90": 313.66
+        "pe_50": 53.61,
+        "pe_75": 113.22,
+        "pe_90": 360.36
       },
       {
         "date": "2023-12-16",
@@ -18798,9 +11444,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 19.69,
         "pe_10": 17.25,
         "pe_25": 28.52,
-        "pe_50": 54.35,
-        "pe_75": 115.37,
-        "pe_90": 324.53
+        "pe_50": 55.46,
+        "pe_75": 117.15,
+        "pe_90": 372.85
       },
       {
         "date": "2024-01-16",
@@ -18808,9 +11454,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 21.03,
         "pe_10": 15.56,
         "pe_25": 25.72,
-        "pe_50": 49.02,
-        "pe_75": 104.07,
-        "pe_90": 292.76
+        "pe_50": 50.03,
+        "pe_75": 105.68,
+        "pe_90": 336.35
       },
       {
         "date": "2024-02-15",
@@ -18818,9 +11464,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 33.11,
         "pe_10": 13.87,
         "pe_25": 22.93,
-        "pe_50": 43.71,
-        "pe_75": 92.78,
-        "pe_90": 261.0
+        "pe_50": 44.61,
+        "pe_75": 94.21,
+        "pe_90": 299.86
       },
       {
         "date": "2024-03-16",
@@ -18828,9 +11474,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 36.64,
         "pe_10": 12.18,
         "pe_25": 20.14,
-        "pe_50": 38.38,
-        "pe_75": 81.48,
-        "pe_90": 229.21
+        "pe_50": 39.17,
+        "pe_75": 82.74,
+        "pe_90": 263.34
       },
       {
         "date": "2024-04-15",
@@ -18838,9 +11484,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 47.11,
         "pe_10": 10.49,
         "pe_25": 17.35,
-        "pe_50": 33.06,
-        "pe_75": 70.19,
-        "pe_90": 197.43
+        "pe_50": 33.74,
+        "pe_75": 71.27,
+        "pe_90": 226.83
       },
       {
         "date": "2024-05-16",
@@ -18848,9 +11494,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 75.0,
         "pe_10": 8.8,
         "pe_25": 14.56,
-        "pe_50": 27.74,
-        "pe_75": 58.89,
-        "pe_90": 165.67
+        "pe_50": 28.31,
+        "pe_75": 59.8,
+        "pe_90": 190.33
       },
       {
         "date": "2024-06-15",
@@ -18858,9 +11504,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 83.33,
         "pe_10": 7.12,
         "pe_25": 11.76,
-        "pe_50": 22.42,
-        "pe_75": 47.6,
-        "pe_90": 133.89
+        "pe_50": 22.88,
+        "pe_75": 48.33,
+        "pe_90": 153.83
       },
       {
         "date": "2024-07-16",
@@ -18868,9 +11514,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 98.44,
         "pe_10": 5.43,
         "pe_25": 8.97,
-        "pe_50": 17.1,
-        "pe_75": 36.3,
-        "pe_90": 102.11
+        "pe_50": 17.45,
+        "pe_75": 36.86,
+        "pe_90": 117.31
       },
       {
         "date": "2024-08-16",
@@ -18878,9 +11524,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 137.3,
         "pe_10": 3.74,
         "pe_25": 6.18,
-        "pe_50": 11.78,
-        "pe_75": 25.0,
-        "pe_90": 70.33
+        "pe_50": 12.02,
+        "pe_75": 25.39,
+        "pe_90": 80.8
       },
       {
         "date": "2024-09-15",
@@ -18888,9 +11534,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 239.5,
         "pe_10": 2.05,
         "pe_25": 3.39,
-        "pe_50": 6.45,
-        "pe_75": 13.7,
-        "pe_90": 38.54
+        "pe_50": 6.59,
+        "pe_75": 13.91,
+        "pe_90": 44.28
       },
       {
         "date": "2024-10-16",
@@ -18898,9 +11544,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 1328.0,
         "pe_10": 0.36,
         "pe_25": 0.59,
-        "pe_50": 1.13,
-        "pe_75": 2.4,
-        "pe_90": 6.76
+        "pe_50": 1.16,
+        "pe_75": 2.44,
+        "pe_90": 7.77
       },
       {
         "date": "2025-10-16",
@@ -18908,9 +11554,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 4687.0,
         "pe_10": 0.08,
         "pe_25": 0.13,
-        "pe_50": 0.25,
-        "pe_75": 0.54,
-        "pe_90": 1.52
+        "pe_50": 0.26,
+        "pe_75": 0.55,
+        "pe_90": 1.75
       },
       {
         "date": "2025-11-15",
@@ -18918,9 +11564,9 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 859.3,
         "pe_10": 0.39,
         "pe_25": 0.65,
-        "pe_50": 1.23,
-        "pe_75": 2.61,
-        "pe_90": 7.35
+        "pe_50": 1.26,
+        "pe_75": 2.65,
+        "pe_90": 8.45
       },
       {
         "date": "2025-12-16",
@@ -18928,9 +11574,19 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
         "pe": 554.6,
         "pe_10": 0.7,
         "pe_25": 1.16,
-        "pe_50": 2.21,
-        "pe_75": 4.69,
-        "pe_90": 13.19
+        "pe_50": 2.25,
+        "pe_75": 4.76,
+        "pe_90": 15.15
+      },
+      {
+        "date": "2026-01-16",
+        "price": 69.3,
+        "pe": 533.1,
+        "pe_10": 0.7,
+        "pe_25": 1.16,
+        "pe_50": 2.25,
+        "pe_75": 4.76,
+        "pe_90": 15.15
       }
     ]
   },
@@ -19069,13 +11725,13 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (17.0倍)",
+            "title": "PE 50% (17.3倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (101.4倍)",
+            "title": "PE 90% (116.5倍)",
             "format": ".1f"
           }
         ]
@@ -19946,16 +12602,16 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 77.2 | +76.6% | 0.003 | 2023-04 (+3829.8%) | 2008-07 (-87.1%) |
-| 6個月 | 77.2 | +29.6% | 0.011 | 2023-01 (+802.2%) | 2008-04 (-71.9%) |
-| 1年 | 77.2 | +16.0% | 0.018 | 2023-05 (+258.8%) | 2011-04 (-57.2%) |
-| 2年 | 66.5 | +12.3% | 0.011 | 2022-05 (+118.1%) | 2010-10 (-38.6%) |
-| 3年 | 71.5 | +10.1% | 0.002 | 2021-05 (+76.8%) | 2009-10 (-28.1%) |
-| 4年 | 72.6 | +8.8% | 0.004 | 2020-05 (+65.2%) | 2008-08 (-24.8%) |
-| 5年 | 72.6 | +8.1% | 0.004 | 2019-02 (+57.5%) | 2007-07 (-23.5%) |
-| 6年 | 76.5 | +7.6% | 0.005 | 2018-05 (+50.0%) | 2007-07 (-19.9%) |
-| 8年 | 85.6 | +6.3% | 0.000 | 2016-05 (+34.8%) | 2007-07 (-14.4%) |
-| 10年 | 85.3 | +5.2% | 0.001 | 2015-08 (+24.3%) | 2007-07 (-11.6%) |
+| 3個月 | 111.8 | +76.5% | 0.003 | 2023-04 (+3829.8%) | 2008-07 (-87.1%) |
+| 6個月 | 77.7 | +29.6% | 0.011 | 2023-01 (+802.2%) | 2008-04 (-71.9%) |
+| 1年 | 77.7 | +15.9% | 0.018 | 2023-05 (+258.8%) | 2011-04 (-57.2%) |
+| 2年 | 66.6 | +12.4% | 0.011 | 2022-05 (+118.1%) | 2010-10 (-38.6%) |
+| 3年 | 71.6 | +10.4% | 0.003 | 2021-05 (+76.8%) | 2009-10 (-28.1%) |
+| 4年 | 73.2 | +8.9% | 0.004 | 2020-05 (+65.2%) | 2008-08 (-24.8%) |
+| 5年 | 73.2 | +8.3% | 0.004 | 2019-02 (+57.5%) | 2007-07 (-23.5%) |
+| 6年 | 76.5 | +7.8% | 0.005 | 2018-05 (+50.0%) | 2007-07 (-19.9%) |
+| 8年 | 86.5 | +6.5% | 0.000 | 2016-05 (+34.8%) | 2007-07 (-14.4%) |
+| 10年 | 86.5 | +5.5% | 0.001 | 2015-08 (+24.3%) | 2007-07 (-11.6%) |
 
 
 ## 🎯 使用說明
@@ -19974,4 +12630,4 @@ description: "6125 廣運 (光電業) 本益比與未來報酬率關係分析 - 
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-25 20:40:33 CST*
+*數據更新時間: 2026-02-07 12:43:28 CST*

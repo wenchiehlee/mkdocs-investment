@@ -2,7 +2,7 @@
 title: "6902 GOGOLOOK - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-01-25"
+date: "2026-02-07"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "6902 GOGOLOOK (數位雲端) 本益比與未來報酬率關係分�
     - **產業別**: 數位雲端
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年
-    - **報告生成時間**: 2026-01-25 20:41:38 CST
+    - **報告生成時間**: 2026-02-07 12:44:34 CST
 
 ## 📈 互動式圖表
 
@@ -99,186 +99,6 @@ description: "6902 GOGOLOOK (數位雲端) 本益比與未來報酬率關係分�
         "start_year": 2024
       },
       {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -25.43,
-        "start_price": 156.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.85,
-        "start_price": 150.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -24.12,
-        "start_price": 158.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.36,
-        "start_price": 145.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -15.27,
-        "start_price": 159.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.9,
-        "start_price": 147.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -44.78,
-        "start_price": 144.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -63.67,
-        "start_price": 152.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -62.71,
-        "start_price": 150.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -43.3,
-        "start_price": 147.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2024-12-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.54,
-        "start_price": 118.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -53.93,
-        "start_price": 117.0,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -81.52,
-        "start_price": 137.5,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -79.12,
-        "start_price": 122.0,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -69.64,
-        "start_price": 97.3,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -27.99,
-        "start_price": 90.7,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 3.57,
-        "start_price": 78.8,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.52,
-        "start_price": 72.3,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -21.54,
-        "start_price": 83.5,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -12.04,
-        "start_price": 79.5,
-        "start_year": 2025
-      },
-      {
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
@@ -340,159 +160,6 @@ description: "6902 GOGOLOOK (數位雲端) 本益比與未來報酬率關係分�
         "forward_return": -23.44,
         "start_price": 168.5,
         "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -14.17,
-        "start_price": 156.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.57,
-        "start_price": 150.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -9.85,
-        "start_price": 158.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -29.14,
-        "start_price": 145.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -44.39,
-        "start_price": 159.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -36.86,
-        "start_price": 147.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -25.29,
-        "start_price": 144.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -36.26,
-        "start_price": 152.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -57.97,
-        "start_price": 150.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -62.26,
-        "start_price": 147.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2024-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -57.31,
-        "start_price": 118.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -62.14,
-        "start_price": 117.0,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -63.25,
-        "start_price": 137.5,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -56.11,
-        "start_price": 122.0,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -40.05,
-        "start_price": 97.3,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -24.38,
-        "start_price": 90.7,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.51,
-        "start_price": 78.8,
-        "start_year": 2025
       },
       {
         "horizon": "1y",
@@ -558,105 +225,6 @@ description: "6902 GOGOLOOK (數位雲端) 本益比與未來報酬率關係分�
         "start_year": 2024
       },
       {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-02-15",
-        "pe_ratio": NaN,
-        "forward_return": -20.33,
-        "start_price": 156.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -18.95,
-        "start_price": 150.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -38.44,
-        "start_price": 158.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -37.47,
-        "start_price": 145.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -50.46,
-        "start_price": 159.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -51.01,
-        "start_price": 147.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -42.24,
-        "start_price": 144.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -47.89,
-        "start_price": 152.5,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -49.82,
-        "start_price": 150.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -44.92,
-        "start_price": 147.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2024-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -35.04,
-        "start_price": 118.5,
-        "start_year": 2024
-      },
-      {
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
@@ -709,6 +277,15 @@ description: "6902 GOGOLOOK (數位雲端) 本益比與未來報酬率關係分�
         "forward_return": -32.68,
         "start_price": 170.0,
         "start_year": 2023
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-01-16",
+        "pe_ratio": 3888.0,
+        "forward_return": -31.29,
+        "start_price": 168.5,
+        "start_year": 2024
       }
     ]
   },
@@ -900,7 +477,7 @@ description: "6902 GOGOLOOK (數位雲端) 本益比與未來報酬率關係分�
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 843.4倍、1003.0倍、1062.0倍、1375.0倍、5540.4倍"
+!!! note "本益比河流帶水位: 660.4倍、921.1倍、1059.0倍、1326.5倍、4714.2倍"
 
 ```vegalite
 {
@@ -912,91 +489,101 @@ description: "6902 GOGOLOOK (數位雲端) 本益比與未來報酬率關係分�
         "date": "2023-07-16",
         "price": 220.0,
         "pe": 1375.0,
-        "pe_10": 134.94,
-        "pe_25": 160.48,
-        "pe_50": 169.92,
-        "pe_75": 220.0,
-        "pe_90": 886.46
+        "pe_10": 105.67,
+        "pe_25": 147.38,
+        "pe_50": 169.44,
+        "pe_75": 212.24,
+        "pe_90": 754.27
       },
       {
         "date": "2023-08-16",
         "price": 169.0,
         "pe": 1056.0,
-        "pe_10": 134.97,
-        "pe_25": 160.52,
-        "pe_50": 169.96,
-        "pe_75": 220.05,
-        "pe_90": 886.67
+        "pe_10": 105.69,
+        "pe_25": 147.41,
+        "pe_50": 169.48,
+        "pe_75": 212.29,
+        "pe_90": 754.45
       },
       {
         "date": "2023-09-15",
         "price": 160.5,
         "pe": 1003.0,
-        "pe_10": 134.96,
-        "pe_25": 160.5,
-        "pe_50": 169.94,
-        "pe_75": 220.03,
-        "pe_90": 886.57
+        "pe_10": 105.68,
+        "pe_25": 147.39,
+        "pe_50": 169.46,
+        "pe_75": 212.27,
+        "pe_90": 754.37
       },
       {
         "date": "2023-10-16",
         "price": 143.0,
         "pe": 893.8,
-        "pe_10": 134.93,
-        "pe_25": 160.47,
-        "pe_50": 169.91,
-        "pe_75": 219.99,
-        "pe_90": 886.41
+        "pe_10": 105.66,
+        "pe_25": 147.37,
+        "pe_50": 169.43,
+        "pe_75": 212.23,
+        "pe_90": 754.23
       },
       {
         "date": "2023-11-15",
         "price": 189.0,
         "pe": 1181.0,
-        "pe_10": 134.97,
-        "pe_25": 160.51,
-        "pe_50": 169.96,
-        "pe_75": 220.05,
-        "pe_90": 886.65
+        "pe_10": 105.69,
+        "pe_25": 147.41,
+        "pe_50": 169.48,
+        "pe_75": 212.28,
+        "pe_90": 754.43
       },
       {
         "date": "2023-12-16",
         "price": 170.0,
         "pe": 1062.0,
-        "pe_10": 135.0,
-        "pe_25": 160.56,
-        "pe_50": 170.0,
-        "pe_75": 220.1,
-        "pe_90": 886.88
+        "pe_10": 105.72,
+        "pe_25": 147.45,
+        "pe_50": 169.52,
+        "pe_75": 212.34,
+        "pe_90": 754.63
       },
       {
         "date": "2024-01-16",
         "price": 168.5,
         "pe": 3888.0,
-        "pe_10": 36.55,
-        "pe_25": 43.47,
-        "pe_50": 46.03,
-        "pe_75": 59.59,
-        "pe_90": 240.11
+        "pe_10": 28.62,
+        "pe_25": 39.92,
+        "pe_50": 45.9,
+        "pe_75": 57.49,
+        "pe_90": 204.31
       },
       {
         "date": "2025-11-15",
         "price": 81.0,
         "pe": 12150.0,
-        "pe_10": 5.62,
-        "pe_25": 6.69,
-        "pe_50": 7.08,
-        "pe_75": 9.17,
-        "pe_90": 36.94
+        "pe_10": 4.4,
+        "pe_25": 6.14,
+        "pe_50": 7.06,
+        "pe_75": 8.84,
+        "pe_90": 31.43
       },
       {
         "date": "2025-12-16",
         "price": 77.0,
         "pe": 641.7,
-        "pe_10": 101.2,
-        "pe_25": 120.35,
-        "pe_50": 127.43,
-        "pe_75": 164.99,
-        "pe_90": 664.81
+        "pe_10": 79.25,
+        "pe_25": 110.53,
+        "pe_50": 127.07,
+        "pe_75": 159.17,
+        "pe_90": 565.67
+      },
+      {
+        "date": "2026-01-16",
+        "price": 79.5,
+        "pe": 662.5,
+        "pe_10": 79.25,
+        "pe_25": 110.53,
+        "pe_50": 127.08,
+        "pe_75": 159.18,
+        "pe_90": 565.7
       }
     ]
   },
@@ -1129,19 +716,19 @@ description: "6902 GOGOLOOK (數位雲端) 本益比與未來報酬率關係分�
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (843.4倍)",
+            "title": "PE 10% (660.4倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (1062.0倍)",
+            "title": "PE 50% (1059.0倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (5540.4倍)",
+            "title": "PE 90% (4714.2倍)",
             "format": ".1f"
           }
         ]
@@ -1432,10 +1019,10 @@ description: "6902 GOGOLOOK (數位雲端) 本益比與未來報酬率關係分�
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 1494.1 | -25.1% | 0.095 | 2023-10 (+91.8%) | 2023-07 (-81.9%) |
-| 6個月 | 1494.1 | -32.5% | 0.028 | 2023-10 (+2.4%) | 2025-02 (-63.2%) |
+| 3個月 | 1494.1 | -23.4% | 0.095 | 2023-10 (+91.8%) | 2023-07 (-81.9%) |
+| 6個月 | 1494.1 | -30.4% | 0.028 | 2025-07 (+20.7%) | 2025-02 (-63.2%) |
 | 1年 | 1494.1 | -31.5% | 0.220 | 2023-10 (+4.9%) | 2024-07 (-51.0%) |
-| 2年 | 1095.1 | -32.8% | 0.951 | 2023-10 (-27.4%) | 2023-07 (-42.6%) |
+| 2年 | 1494.1 | -32.5% | 0.001 | 2023-10 (-27.4%) | 2023-07 (-42.6%) |
 
 
 ## 🎯 使用說明
@@ -1454,4 +1041,4 @@ description: "6902 GOGOLOOK (數位雲端) 本益比與未來報酬率關係分�
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-25 20:41:38 CST*
+*數據更新時間: 2026-02-07 12:44:34 CST*

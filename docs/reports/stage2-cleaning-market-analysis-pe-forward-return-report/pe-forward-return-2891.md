@@ -2,7 +2,7 @@
 title: "2891 中信金 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-01-25"
+date: "2026-02-07"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
     - **產業別**: 金融保險業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-01-25 20:37:35 CST
+    - **報告生成時間**: 2026-02-07 12:40:28 CST
 
 ## 📈 互動式圖表
 
@@ -35,159 +35,6 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
   "title": "2891 中信金 - 本益比與未來報酬率分析",
   "data": {
     "values": [
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.4,
-        "start_price": 25.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -20.49,
-        "start_price": 27.3,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 43.41,
-        "start_price": 23.05,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.03,
-        "start_price": 26.2,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -46.4,
-        "start_price": 25.8,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -22.26,
-        "start_price": 26.85,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.42,
-        "start_price": 25.5,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 101.9,
-        "start_price": 21.55,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 48.34,
-        "start_price": 24.7,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 72.37,
-        "start_price": 24.15,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -18.08,
-        "start_price": 27.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2006-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -19.27,
-        "start_price": 27.25,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -26.37,
-        "start_price": 27.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -17.93,
-        "start_price": 26.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.75,
-        "start_price": 25.85,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.77,
-        "start_price": 26.25,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.9,
-        "start_price": 25.05,
-        "start_year": 2007
-      },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
@@ -2169,157 +2016,13 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2025
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.18,
-        "start_price": 25.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -34.86,
-        "start_price": 27.3,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 12.14,
-        "start_price": 23.05,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.46,
-        "start_price": 26.2,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.24,
-        "start_price": 25.8,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 6.8,
-        "start_price": 26.85,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 17.85,
-        "start_price": 25.5,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 36.81,
-        "start_price": 21.55,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-09-15",
-        "pe_ratio": NaN,
-        "forward_return": 9.62,
-        "start_price": 24.7,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 6.51,
-        "start_price": 24.15,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -17.77,
-        "start_price": 27.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2006-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.77,
-        "start_price": 27.25,
-        "start_year": 2006
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.0,
-        "start_price": 27.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -11.12,
-        "start_price": 26.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -14.39,
-        "start_price": 25.85,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -19.14,
-        "start_price": 26.25,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -13.24,
-        "start_price": 25.05,
-        "start_year": 2007
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-10-16",
+        "pe_ratio": 11.09,
+        "forward_return": 117.54,
+        "start_price": 41.85,
+        "start_year": 2025
       },
       {
         "horizon": "0.5y",
@@ -4275,157 +3978,13 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2025
       },
       {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.16,
-        "start_price": 25.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -1.83,
-        "start_price": 27.3,
-        "start_year": 2006
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 14.33,
-        "start_price": 23.05,
-        "start_year": 2006
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 2.1,
-        "start_price": 26.2,
-        "start_year": 2006
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.97,
-        "start_price": 25.8,
-        "start_year": 2006
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.8,
-        "start_price": 26.85,
-        "start_year": 2006
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.96,
-        "start_price": 25.5,
-        "start_year": 2006
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 15.09,
-        "start_price": 21.55,
-        "start_year": 2006
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.43,
-        "start_price": 24.7,
-        "start_year": 2006
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.28,
-        "start_price": 24.15,
-        "start_year": 2006
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -15.23,
-        "start_price": 27.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2006-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -15.42,
-        "start_price": 27.25,
-        "start_year": 2006
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.59,
-        "start_price": 27.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 7.42,
-        "start_price": 26.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.51,
-        "start_price": 25.85,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 20.91,
-        "start_price": 26.25,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 23.7,
-        "start_price": 25.05,
-        "start_year": 2007
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-07-16",
+        "pe_ratio": 11.05,
+        "forward_return": 51.78,
+        "start_price": 41.25,
+        "start_year": 2025
       },
       {
         "horizon": "1y",
@@ -6327,157 +5886,13 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2024
       },
       {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.97,
-        "start_price": 25.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-02-14",
-        "pe_ratio": NaN,
-        "forward_return": 2.62,
-        "start_price": 27.3,
-        "start_year": 2006
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 13.79,
-        "start_price": 23.05,
-        "start_year": 2006
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 10.94,
-        "start_price": 26.2,
-        "start_year": 2006
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 10.49,
-        "start_price": 25.8,
-        "start_year": 2006
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-06-15",
-        "pe_ratio": NaN,
-        "forward_return": 5.35,
-        "start_price": 26.85,
-        "start_year": 2006
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.96,
-        "start_price": 25.5,
-        "start_year": 2006
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.11,
-        "start_price": 21.55,
-        "start_year": 2006
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -16.3,
-        "start_price": 24.7,
-        "start_year": 2006
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -36.8,
-        "start_price": 24.15,
-        "start_year": 2006
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -35.57,
-        "start_price": 27.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2006-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -28.05,
-        "start_price": 27.25,
-        "start_year": 2006
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -36.54,
-        "start_price": 27.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -35.75,
-        "start_price": 26.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -30.17,
-        "start_price": 25.85,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -23.52,
-        "start_price": 26.25,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.14,
-        "start_price": 25.05,
-        "start_year": 2007
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2025-01-16",
+        "pe_ratio": 10.7,
+        "forward_return": 36.09,
+        "start_price": 39.1,
+        "start_year": 2025
       },
       {
         "horizon": "2y",
@@ -8271,157 +7686,13 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2023
       },
       {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -23.08,
-        "start_price": 25.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -25.36,
-        "start_price": 27.3,
-        "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -17.16,
-        "start_price": 23.05,
-        "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -15.42,
-        "start_price": 26.2,
-        "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.03,
-        "start_price": 25.8,
-        "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.6,
-        "start_price": 26.85,
-        "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.07,
-        "start_price": 25.5,
-        "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.65,
-        "start_price": 21.55,
-        "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.92,
-        "start_price": 24.7,
-        "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.5,
-        "start_price": 24.15,
-        "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.73,
-        "start_price": 27.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2006-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.3,
-        "start_price": 27.25,
-        "start_year": 2006
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -13.57,
-        "start_price": 27.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -12.23,
-        "start_price": 26.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -10.74,
-        "start_price": 25.85,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -11.52,
-        "start_price": 26.25,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -12.07,
-        "start_price": 25.05,
-        "start_year": 2007
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-01-16",
+        "pe_ratio": 9.85,
+        "forward_return": 39.01,
+        "start_price": 28.45,
+        "start_year": 2024
       },
       {
         "horizon": "3y",
@@ -10107,157 +9378,13 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2022
       },
       {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -7.95,
-        "start_price": 25.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -9.54,
-        "start_price": 27.3,
-        "start_year": 2006
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.87,
-        "start_price": 23.05,
-        "start_year": 2006
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.11,
-        "start_price": 26.2,
-        "start_year": 2006
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -9.21,
-        "start_price": 25.8,
-        "start_year": 2006
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.73,
-        "start_price": 26.85,
-        "start_year": 2006
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.64,
-        "start_price": 25.5,
-        "start_year": 2006
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.14,
-        "start_price": 21.55,
-        "start_year": 2006
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.3,
-        "start_price": 24.7,
-        "start_year": 2006
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.46,
-        "start_price": 24.15,
-        "start_year": 2006
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -8.47,
-        "start_price": 27.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2006-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.76,
-        "start_price": 27.25,
-        "start_year": 2006
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.74,
-        "start_price": 27.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -2.04,
-        "start_price": 26.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.16,
-        "start_price": 25.85,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.96,
-        "start_price": 26.25,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.44,
-        "start_price": 25.05,
-        "start_year": 2007
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2023-01-16",
+        "pe_ratio": 13.8,
+        "forward_return": 34.81,
+        "start_price": 22.85,
+        "start_year": 2023
       },
       {
         "horizon": "4y",
@@ -11835,157 +10962,13 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2021
       },
       {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-01-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.56,
-        "start_price": 25.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -1.97,
-        "start_price": 27.3,
-        "start_year": 2006
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-03-16",
-        "pe_ratio": NaN,
-        "forward_return": 2.84,
-        "start_price": 23.05,
-        "start_year": 2006
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 1.17,
-        "start_price": 26.2,
-        "start_year": 2006
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.93,
-        "start_price": 25.8,
-        "start_year": 2006
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.25,
-        "start_price": 26.85,
-        "start_year": 2006
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-07-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.71,
-        "start_price": 25.5,
-        "start_year": 2006
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 3.38,
-        "start_price": 21.55,
-        "start_year": 2006
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.18,
-        "start_price": 24.7,
-        "start_year": 2006
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.12,
-        "start_price": 24.15,
-        "start_year": 2006
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -7.89,
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2022-01-16",
+        "pe_ratio": 10.49,
+        "forward_return": 20.01,
         "start_price": 27.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2006-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.4,
-        "start_price": 27.25,
-        "start_year": 2006
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.52,
-        "start_price": 27.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -3.73,
-        "start_price": 26.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.72,
-        "start_price": 25.85,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.92,
-        "start_price": 26.25,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.98,
-        "start_price": 25.05,
-        "start_year": 2007
+        "start_year": 2022
       },
       {
         "horizon": "5y",
@@ -13455,157 +12438,13 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2020
       },
       {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.98,
-        "start_price": 25.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -3.35,
-        "start_price": 27.3,
-        "start_year": 2006
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.7,
-        "start_price": 23.05,
-        "start_year": 2006
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.7,
-        "start_price": 26.2,
-        "start_year": 2006
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.05,
-        "start_price": 25.8,
-        "start_year": 2006
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -5.39,
-        "start_price": 26.85,
-        "start_year": 2006
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -3.85,
-        "start_price": 25.5,
-        "start_year": 2006
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-08-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.19,
-        "start_price": 21.55,
-        "start_year": 2006
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -3.58,
-        "start_price": 24.7,
-        "start_year": 2006
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.56,
-        "start_price": 24.15,
-        "start_year": 2006
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -6.03,
-        "start_price": 27.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2006-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -5.59,
-        "start_price": 27.25,
-        "start_year": 2006
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -6.05,
-        "start_price": 27.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -4.7,
-        "start_price": 26.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -4.27,
-        "start_price": 25.85,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -4.39,
-        "start_price": 26.25,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.67,
-        "start_price": 25.05,
-        "start_year": 2007
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2021-01-16",
+        "pe_ratio": 8.64,
+        "forward_return": 25.14,
+        "start_price": 19.0,
+        "start_year": 2021
       },
       {
         "horizon": "6y",
@@ -14967,157 +13806,13 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2019
       },
       {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.14,
-        "start_price": 25.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -2.17,
-        "start_price": 27.3,
-        "start_year": 2006
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.35,
-        "start_price": 23.05,
-        "start_year": 2006
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.55,
-        "start_price": 26.2,
-        "start_year": 2006
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.72,
-        "start_price": 25.8,
-        "start_year": 2006
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.78,
-        "start_price": 26.85,
-        "start_year": 2006
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.58,
-        "start_price": 25.5,
-        "start_year": 2006
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 1.87,
-        "start_price": 21.55,
-        "start_year": 2006
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.52,
-        "start_price": 24.7,
-        "start_year": 2006
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-10-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.2,
-        "start_price": 24.15,
-        "start_year": 2006
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.58,
-        "start_price": 27.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2006-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.68,
-        "start_price": 27.25,
-        "start_year": 2006
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.12,
-        "start_price": 27.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -1.07,
-        "start_price": 26.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.9,
-        "start_price": 25.85,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": 0.42,
-        "start_price": 26.25,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.72,
-        "start_price": 25.05,
-        "start_year": 2007
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2020-01-16",
+        "pe_ratio": 10.21,
+        "forward_return": 17.92,
+        "start_price": 22.05,
+        "start_year": 2020
       },
       {
         "horizon": "8y",
@@ -16263,157 +14958,13 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "start_year": 2017
       },
       {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -2.13,
-        "start_price": 25.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -2.71,
-        "start_price": 27.3,
-        "start_year": 2006
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.67,
-        "start_price": 23.05,
-        "start_year": 2006
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.21,
-        "start_price": 26.2,
-        "start_year": 2006
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.74,
-        "start_price": 25.8,
-        "start_year": 2006
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-06-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.24,
-        "start_price": 26.85,
-        "start_year": 2006
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-07-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.26,
-        "start_price": 25.5,
-        "start_year": 2006
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-08-16",
-        "pe_ratio": NaN,
-        "forward_return": 0.74,
-        "start_price": 21.55,
-        "start_year": 2006
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-09-15",
-        "pe_ratio": NaN,
-        "forward_return": -0.68,
-        "start_price": 24.7,
-        "start_year": 2006
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-10-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.99,
-        "start_price": 24.15,
-        "start_year": 2006
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-11-15",
-        "pe_ratio": NaN,
-        "forward_return": -2.08,
-        "start_price": 27.6,
-        "start_year": 2006
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2006-12-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.89,
-        "start_price": 27.25,
-        "start_year": 2006
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-01-16",
-        "pe_ratio": NaN,
-        "forward_return": -1.99,
-        "start_price": 27.7,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-02-14",
-        "pe_ratio": NaN,
-        "forward_return": -1.24,
-        "start_price": 26.3,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-03-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.9,
-        "start_price": 25.85,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-04-15",
-        "pe_ratio": NaN,
-        "forward_return": -1.01,
-        "start_price": 26.25,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-05-16",
-        "pe_ratio": NaN,
-        "forward_return": -0.42,
-        "start_price": 25.05,
-        "start_year": 2007
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2018-01-16",
+        "pe_ratio": 11.18,
+        "forward_return": 14.14,
+        "start_price": 21.3,
+        "start_year": 2018
       },
       {
         "horizon": "10y",
@@ -17341,6 +15892,15 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "forward_return": 13.97,
         "start_price": 16.9,
         "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2016-01-16",
+        "pe_ratio": 7.88,
+        "forward_return": 14.65,
+        "start_price": 16.1,
+        "start_year": 2016
       }
     ]
   },
@@ -17544,7 +16104,7 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 8.8倍、9.9倍、11.0倍、12.5倍、19.6倍"
+!!! note "本益比河流帶水位: 8.8倍、9.9倍、11.0倍、12.6倍、19.6倍"
 
 ```vegalite
 {
@@ -17579,8 +16139,8 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 4.46,
         "pe_25": 5.01,
         "pe_50": 5.59,
-        "pe_75": 6.35,
-        "pe_90": 9.94
+        "pe_75": 6.36,
+        "pe_90": 9.93
       },
       {
         "date": "2007-09-15",
@@ -17589,7 +16149,7 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 6.62,
         "pe_25": 7.44,
         "pe_50": 8.3,
-        "pe_75": 9.43,
+        "pe_75": 9.44,
         "pe_90": 14.75
       },
       {
@@ -17598,9 +16158,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 23.64,
         "pe_10": 8.79,
         "pe_25": 9.87,
-        "pe_50": 11.01,
-        "pe_75": 12.51,
-        "pe_90": 19.58
+        "pe_50": 11.02,
+        "pe_75": 12.53,
+        "pe_90": 19.57
       },
       {
         "date": "2007-11-15",
@@ -17608,19 +16168,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 18.81,
         "pe_10": 10.95,
         "pe_25": 12.3,
-        "pe_50": 13.72,
-        "pe_75": 15.59,
-        "pe_90": 24.4
+        "pe_50": 13.73,
+        "pe_75": 15.61,
+        "pe_90": 24.38
       },
       {
         "date": "2007-12-16",
         "price": 23.05,
         "pe": 15.47,
-        "pe_10": 13.11,
+        "pe_10": 13.12,
         "pe_25": 14.73,
-        "pe_50": 16.43,
-        "pe_75": 18.67,
-        "pe_90": 29.22
+        "pe_50": 16.44,
+        "pe_75": 18.7,
+        "pe_90": 29.2
       },
       {
         "date": "2008-01-16",
@@ -17629,8 +16189,8 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 13.13,
         "pe_25": 14.75,
         "pe_50": 16.46,
-        "pe_75": 18.69,
-        "pe_90": 29.26
+        "pe_75": 18.72,
+        "pe_90": 29.24
       },
       {
         "date": "2008-02-15",
@@ -17638,9 +16198,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 18.92,
         "pe_10": 13.14,
         "pe_25": 14.76,
-        "pe_50": 16.47,
-        "pe_75": 18.71,
-        "pe_90": 29.28
+        "pe_50": 16.48,
+        "pe_75": 18.74,
+        "pe_90": 29.27
       },
       {
         "date": "2008-03-16",
@@ -17648,9 +16208,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 19.63,
         "pe_10": 13.16,
         "pe_25": 14.78,
-        "pe_50": 16.49,
-        "pe_75": 18.73,
-        "pe_90": 29.32
+        "pe_50": 16.5,
+        "pe_75": 18.76,
+        "pe_90": 29.31
       },
       {
         "date": "2008-04-15",
@@ -17658,9 +16218,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 21.21,
         "pe_10": 13.18,
         "pe_25": 14.8,
-        "pe_50": 16.51,
-        "pe_75": 18.76,
-        "pe_90": 29.35
+        "pe_50": 16.52,
+        "pe_75": 18.79,
+        "pe_90": 29.34
       },
       {
         "date": "2008-05-16",
@@ -17669,8 +16229,8 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 13.19,
         "pe_25": 14.81,
         "pe_50": 16.53,
-        "pe_75": 18.77,
-        "pe_90": 29.38
+        "pe_75": 18.8,
+        "pe_90": 29.37
       },
       {
         "date": "2008-06-15",
@@ -17678,9 +16238,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 19.53,
         "pe_10": 13.21,
         "pe_25": 14.83,
-        "pe_50": 16.55,
-        "pe_75": 18.8,
-        "pe_90": 29.42
+        "pe_50": 16.56,
+        "pe_75": 18.83,
+        "pe_90": 29.41
       },
       {
         "date": "2008-07-16",
@@ -17689,18 +16249,18 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 13.22,
         "pe_25": 14.85,
         "pe_50": 16.57,
-        "pe_75": 18.82,
-        "pe_90": 29.45
+        "pe_75": 18.85,
+        "pe_90": 29.44
       },
       {
         "date": "2008-08-16",
         "price": 20.45,
         "pe": 13.6,
         "pe_10": 13.24,
-        "pe_25": 14.86,
+        "pe_25": 14.87,
         "pe_50": 16.59,
-        "pe_75": 18.84,
-        "pe_90": 29.49
+        "pe_75": 18.87,
+        "pe_90": 29.47
       },
       {
         "date": "2008-09-15",
@@ -17708,99 +16268,99 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 11.36,
         "pe_10": 13.25,
         "pe_25": 14.88,
-        "pe_50": 16.6,
-        "pe_75": 18.86,
-        "pe_90": 29.52
+        "pe_50": 16.61,
+        "pe_75": 18.89,
+        "pe_90": 29.5
       },
       {
         "date": "2008-10-16",
         "price": 9.44,
         "pe": 6.27,
         "pe_10": 13.25,
-        "pe_25": 14.88,
+        "pe_25": 14.89,
         "pe_50": 16.61,
-        "pe_75": 18.86,
-        "pe_90": 29.52
+        "pe_75": 18.9,
+        "pe_90": 29.51
       },
       {
         "date": "2008-11-15",
         "price": 11.25,
         "pe": 7.46,
-        "pe_10": 13.27,
+        "pe_10": 13.28,
         "pe_25": 14.91,
-        "pe_50": 16.63,
-        "pe_75": 18.9,
-        "pe_90": 29.57
+        "pe_50": 16.64,
+        "pe_75": 18.93,
+        "pe_90": 29.56
       },
       {
         "date": "2008-12-16",
         "price": 13.9,
         "pe": 9.21,
-        "pe_10": 13.28,
+        "pe_10": 13.29,
         "pe_25": 14.92,
         "pe_50": 16.65,
-        "pe_75": 18.91,
-        "pe_90": 29.6
+        "pe_75": 18.94,
+        "pe_90": 29.58
       },
       {
         "date": "2009-01-16",
         "price": 10.95,
         "pe": 7.84,
-        "pe_10": 12.29,
+        "pe_10": 12.3,
         "pe_25": 13.81,
         "pe_50": 15.41,
-        "pe_75": 17.5,
-        "pe_90": 27.39
+        "pe_75": 17.53,
+        "pe_90": 27.38
       },
       {
         "date": "2009-02-14",
         "price": 10.65,
         "pe": 8.3,
-        "pe_10": 11.29,
-        "pe_25": 12.68,
-        "pe_50": 14.15,
-        "pe_75": 16.08,
-        "pe_90": 25.16
+        "pe_10": 11.3,
+        "pe_25": 12.69,
+        "pe_50": 14.16,
+        "pe_75": 16.1,
+        "pe_90": 25.15
       },
       {
         "date": "2009-03-16",
         "price": 12.4,
         "pe": 10.6,
         "pe_10": 10.3,
-        "pe_25": 11.56,
-        "pe_50": 12.9,
-        "pe_75": 14.66,
-        "pe_90": 22.94
+        "pe_25": 11.57,
+        "pe_50": 12.91,
+        "pe_75": 14.68,
+        "pe_90": 22.93
       },
       {
         "date": "2009-04-15",
         "price": 15.15,
         "pe": 14.34,
         "pe_10": 9.3,
-        "pe_25": 10.44,
-        "pe_50": 11.65,
-        "pe_75": 13.24,
-        "pe_90": 20.72
+        "pe_25": 10.45,
+        "pe_50": 11.66,
+        "pe_75": 13.26,
+        "pe_90": 20.71
       },
       {
         "date": "2009-05-16",
         "price": 21.4,
         "pe": 22.69,
         "pe_10": 8.3,
-        "pe_25": 9.32,
-        "pe_50": 10.4,
-        "pe_75": 11.82,
-        "pe_90": 18.5
+        "pe_25": 9.33,
+        "pe_50": 10.41,
+        "pe_75": 11.84,
+        "pe_90": 18.49
       },
       {
         "date": "2009-06-15",
         "price": 19.8,
         "pe": 23.86,
-        "pe_10": 7.3,
-        "pe_25": 8.2,
-        "pe_50": 9.15,
-        "pe_75": 10.4,
-        "pe_90": 16.27
+        "pe_10": 7.31,
+        "pe_25": 8.21,
+        "pe_50": 9.16,
+        "pe_75": 10.41,
+        "pe_90": 16.26
       },
       {
         "date": "2009-07-16",
@@ -17809,17 +16369,17 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 6.31,
         "pe_25": 7.09,
         "pe_50": 7.91,
-        "pe_75": 8.98,
-        "pe_90": 14.06
+        "pe_75": 9.0,
+        "pe_90": 14.05
       },
       {
         "date": "2009-08-16",
         "price": 18.3,
         "pe": 30.33,
         "pe_10": 5.31,
-        "pe_25": 5.96,
+        "pe_25": 5.97,
         "pe_50": 6.66,
-        "pe_75": 7.56,
+        "pe_75": 7.57,
         "pe_90": 11.83
       },
       {
@@ -17828,9 +16388,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 42.55,
         "pe_10": 4.31,
         "pe_25": 4.84,
-        "pe_50": 5.4,
-        "pe_75": 6.14,
-        "pe_90": 9.61
+        "pe_50": 5.41,
+        "pe_75": 6.15,
+        "pe_90": 9.6
       },
       {
         "date": "2009-10-16",
@@ -17838,9 +16398,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 53.1,
         "pe_10": 3.32,
         "pe_25": 3.72,
-        "pe_50": 4.15,
-        "pe_75": 4.72,
-        "pe_90": 7.39
+        "pe_50": 4.16,
+        "pe_75": 4.73,
+        "pe_90": 7.38
       },
       {
         "date": "2009-11-15",
@@ -17848,7 +16408,7 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 70.63,
         "pe_10": 2.32,
         "pe_25": 2.6,
-        "pe_50": 2.9,
+        "pe_50": 2.91,
         "pe_75": 3.3,
         "pe_90": 5.16
       },
@@ -17858,7 +16418,7 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 133.0,
         "pe_10": 1.32,
         "pe_25": 1.48,
-        "pe_50": 1.65,
+        "pe_50": 1.66,
         "pe_75": 1.88,
         "pe_90": 2.94
       },
@@ -17869,7 +16429,7 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 2.18,
         "pe_25": 2.45,
         "pe_50": 2.73,
-        "pe_75": 3.1,
+        "pe_75": 3.11,
         "pe_90": 4.85
       },
       {
@@ -17879,18 +16439,18 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 3.04,
         "pe_25": 3.41,
         "pe_50": 3.81,
-        "pe_75": 4.32,
-        "pe_90": 6.77
+        "pe_75": 4.33,
+        "pe_90": 6.76
       },
       {
         "date": "2010-03-16",
         "price": 18.0,
         "pe": 40.68,
-        "pe_10": 3.89,
-        "pe_25": 4.37,
+        "pe_10": 3.9,
+        "pe_25": 4.38,
         "pe_50": 4.88,
-        "pe_75": 5.54,
-        "pe_90": 8.68
+        "pe_75": 5.55,
+        "pe_90": 8.67
       },
       {
         "date": "2010-04-15",
@@ -17899,8 +16459,8 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 4.75,
         "pe_25": 5.34,
         "pe_50": 5.96,
-        "pe_75": 6.77,
-        "pe_90": 10.59
+        "pe_75": 6.78,
+        "pe_90": 10.58
       },
       {
         "date": "2010-05-16",
@@ -17909,8 +16469,8 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 5.61,
         "pe_25": 6.3,
         "pe_50": 7.03,
-        "pe_75": 7.99,
-        "pe_90": 12.5
+        "pe_75": 8.0,
+        "pe_90": 12.49
       },
       {
         "date": "2010-06-15",
@@ -17919,7 +16479,7 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 6.47,
         "pe_25": 7.27,
         "pe_50": 8.11,
-        "pe_75": 9.21,
+        "pe_75": 9.22,
         "pe_90": 14.41
       },
       {
@@ -17928,19 +16488,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 23.06,
         "pe_10": 7.33,
         "pe_25": 8.23,
-        "pe_50": 9.18,
-        "pe_75": 10.43,
-        "pe_90": 16.33
+        "pe_50": 9.19,
+        "pe_75": 10.45,
+        "pe_90": 16.32
       },
       {
         "date": "2010-08-16",
         "price": 17.95,
         "pe": 19.3,
         "pe_10": 8.19,
-        "pe_25": 9.19,
+        "pe_25": 9.2,
         "pe_50": 10.26,
-        "pe_75": 11.65,
-        "pe_90": 18.24
+        "pe_75": 11.67,
+        "pe_90": 18.23
       },
       {
         "date": "2010-09-15",
@@ -17948,9 +16508,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 19.17,
         "pe_10": 9.05,
         "pe_25": 10.16,
-        "pe_50": 11.33,
-        "pe_75": 12.88,
-        "pe_90": 20.15
+        "pe_50": 11.34,
+        "pe_75": 12.9,
+        "pe_90": 20.14
       },
       {
         "date": "2010-10-16",
@@ -17959,18 +16519,18 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 9.9,
         "pe_25": 11.12,
         "pe_50": 12.41,
-        "pe_75": 14.09,
-        "pe_90": 22.06
+        "pe_75": 14.12,
+        "pe_90": 22.05
       },
       {
         "date": "2010-11-15",
         "price": 18.35,
         "pe": 15.01,
         "pe_10": 10.76,
-        "pe_25": 12.08,
-        "pe_50": 13.48,
-        "pe_75": 15.32,
-        "pe_90": 23.97
+        "pe_25": 12.09,
+        "pe_50": 13.49,
+        "pe_75": 15.34,
+        "pe_90": 23.96
       },
       {
         "date": "2010-12-16",
@@ -17978,9 +16538,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 16.21,
         "pe_10": 11.62,
         "pe_25": 13.05,
-        "pe_50": 14.56,
-        "pe_75": 16.54,
-        "pe_90": 25.89
+        "pe_50": 14.57,
+        "pe_75": 16.57,
+        "pe_90": 25.88
       },
       {
         "date": "2011-01-16",
@@ -17989,8 +16549,8 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 11.83,
         "pe_25": 13.29,
         "pe_50": 14.83,
-        "pe_75": 16.84,
-        "pe_90": 26.36
+        "pe_75": 16.87,
+        "pe_90": 26.35
       },
       {
         "date": "2011-02-14",
@@ -17999,8 +16559,8 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 12.05,
         "pe_25": 13.53,
         "pe_50": 15.1,
-        "pe_75": 17.15,
-        "pe_90": 26.84
+        "pe_75": 17.18,
+        "pe_90": 26.83
       },
       {
         "date": "2011-03-16",
@@ -18008,19 +16568,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 17.95,
         "pe_10": 12.26,
         "pe_25": 13.77,
-        "pe_50": 15.36,
-        "pe_75": 17.45,
-        "pe_90": 27.31
+        "pe_50": 15.37,
+        "pe_75": 17.48,
+        "pe_90": 27.3
       },
       {
         "date": "2011-04-15",
         "price": 26.25,
         "pe": 18.53,
         "pe_10": 12.47,
-        "pe_25": 14.0,
+        "pe_25": 14.01,
         "pe_50": 15.63,
-        "pe_75": 17.75,
-        "pe_90": 27.78
+        "pe_75": 17.78,
+        "pe_90": 27.77
       },
       {
         "date": "2011-05-16",
@@ -18028,9 +16588,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 17.7,
         "pe_10": 12.68,
         "pe_25": 14.24,
-        "pe_50": 15.89,
-        "pe_75": 18.05,
-        "pe_90": 28.25
+        "pe_50": 15.9,
+        "pe_75": 18.08,
+        "pe_90": 28.24
       },
       {
         "date": "2011-06-15",
@@ -18038,9 +16598,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 17.06,
         "pe_10": 12.9,
         "pe_25": 14.49,
-        "pe_50": 16.16,
-        "pe_75": 18.36,
-        "pe_90": 28.74
+        "pe_50": 16.17,
+        "pe_75": 18.39,
+        "pe_90": 28.72
       },
       {
         "date": "2011-07-16",
@@ -18048,9 +16608,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 17.46,
         "pe_10": 13.11,
         "pe_25": 14.72,
-        "pe_50": 16.42,
-        "pe_75": 18.66,
-        "pe_90": 29.2
+        "pe_50": 16.43,
+        "pe_75": 18.69,
+        "pe_90": 29.19
       },
       {
         "date": "2011-08-16",
@@ -18058,29 +16618,29 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 15.66,
         "pe_10": 13.32,
         "pe_25": 14.96,
-        "pe_50": 16.69,
-        "pe_75": 18.96,
-        "pe_90": 29.68
+        "pe_50": 16.7,
+        "pe_75": 18.99,
+        "pe_90": 29.66
       },
       {
         "date": "2011-09-15",
         "price": 18.2,
         "pe": 11.84,
         "pe_10": 13.53,
-        "pe_25": 15.19,
-        "pe_50": 16.95,
-        "pe_75": 19.26,
-        "pe_90": 30.14
+        "pe_25": 15.2,
+        "pe_50": 16.96,
+        "pe_75": 19.29,
+        "pe_90": 30.13
       },
       {
         "date": "2011-10-16",
         "price": 19.95,
         "pe": 12.77,
         "pe_10": 13.75,
-        "pe_25": 15.44,
-        "pe_50": 17.23,
-        "pe_75": 19.58,
-        "pe_90": 30.64
+        "pe_25": 15.45,
+        "pe_50": 17.24,
+        "pe_75": 19.61,
+        "pe_90": 30.62
       },
       {
         "date": "2011-11-15",
@@ -18089,18 +16649,18 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 13.95,
         "pe_25": 15.67,
         "pe_50": 17.49,
-        "pe_75": 19.86,
-        "pe_90": 31.09
+        "pe_75": 19.89,
+        "pe_90": 31.07
       },
       {
         "date": "2011-12-16",
         "price": 18.9,
         "pe": 11.74,
         "pe_10": 14.17,
-        "pe_25": 15.91,
-        "pe_50": 17.76,
-        "pe_75": 20.17,
-        "pe_90": 31.57
+        "pe_25": 15.92,
+        "pe_50": 17.77,
+        "pe_75": 20.2,
+        "pe_90": 31.55
       },
       {
         "date": "2012-01-16",
@@ -18108,9 +16668,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 11.83,
         "pe_10": 14.21,
         "pe_25": 15.96,
-        "pe_50": 17.81,
-        "pe_75": 20.23,
-        "pe_90": 31.66
+        "pe_50": 17.82,
+        "pe_75": 20.26,
+        "pe_90": 31.64
       },
       {
         "date": "2012-02-15",
@@ -18118,9 +16678,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 12.36,
         "pe_10": 14.24,
         "pe_25": 16.0,
-        "pe_50": 17.85,
-        "pe_75": 20.28,
-        "pe_90": 31.73
+        "pe_50": 17.86,
+        "pe_75": 20.31,
+        "pe_90": 31.72
       },
       {
         "date": "2012-03-16",
@@ -18129,28 +16689,28 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 14.27,
         "pe_25": 16.03,
         "pe_50": 17.89,
-        "pe_75": 20.32,
-        "pe_90": 31.8
+        "pe_75": 20.35,
+        "pe_90": 31.78
       },
       {
         "date": "2012-04-15",
         "price": 18.65,
         "pe": 11.47,
         "pe_10": 14.31,
-        "pe_25": 16.07,
-        "pe_50": 17.93,
-        "pe_75": 20.37,
-        "pe_90": 31.89
+        "pe_25": 16.08,
+        "pe_50": 17.94,
+        "pe_75": 20.41,
+        "pe_90": 31.87
       },
       {
         "date": "2012-05-16",
         "price": 16.65,
         "pe": 10.21,
-        "pe_10": 14.35,
+        "pe_10": 14.36,
         "pe_25": 16.12,
-        "pe_50": 17.99,
-        "pe_75": 20.43,
-        "pe_90": 31.98
+        "pe_50": 18.0,
+        "pe_75": 20.47,
+        "pe_90": 31.96
       },
       {
         "date": "2012-06-15",
@@ -18158,9 +16718,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.4,
         "pe_10": 14.39,
         "pe_25": 16.16,
-        "pe_50": 18.03,
-        "pe_75": 20.48,
-        "pe_90": 32.05
+        "pe_50": 18.04,
+        "pe_75": 20.51,
+        "pe_90": 32.04
       },
       {
         "date": "2012-07-16",
@@ -18169,18 +16729,18 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 14.42,
         "pe_25": 16.19,
         "pe_50": 18.07,
-        "pe_75": 20.52,
-        "pe_90": 32.12
+        "pe_75": 20.56,
+        "pe_90": 32.1
       },
       {
         "date": "2012-08-16",
         "price": 17.9,
         "pe": 10.9,
-        "pe_10": 14.45,
-        "pe_25": 16.23,
-        "pe_50": 18.11,
-        "pe_75": 20.58,
-        "pe_90": 32.2
+        "pe_10": 14.46,
+        "pe_25": 16.24,
+        "pe_50": 18.12,
+        "pe_75": 20.61,
+        "pe_90": 32.19
       },
       {
         "date": "2012-09-15",
@@ -18188,29 +16748,29 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.75,
         "pe_10": 14.49,
         "pe_25": 16.28,
-        "pe_50": 18.16,
-        "pe_75": 20.63,
-        "pe_90": 32.29
+        "pe_50": 18.17,
+        "pe_75": 20.66,
+        "pe_90": 32.27
       },
       {
         "date": "2012-10-16",
         "price": 16.1,
         "pe": 9.75,
-        "pe_10": 14.53,
-        "pe_25": 16.32,
-        "pe_50": 18.21,
-        "pe_75": 20.69,
-        "pe_90": 32.38
+        "pe_10": 14.54,
+        "pe_25": 16.33,
+        "pe_50": 18.22,
+        "pe_75": 20.72,
+        "pe_90": 32.37
       },
       {
         "date": "2012-11-15",
         "price": 16.85,
         "pe": 10.18,
         "pe_10": 14.57,
-        "pe_25": 16.36,
-        "pe_50": 18.26,
-        "pe_75": 20.74,
-        "pe_90": 32.46
+        "pe_25": 16.37,
+        "pe_50": 18.27,
+        "pe_75": 20.77,
+        "pe_90": 32.44
       },
       {
         "date": "2012-12-16",
@@ -18218,19 +16778,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.34,
         "pe_10": 14.6,
         "pe_25": 16.4,
-        "pe_50": 18.29,
-        "pe_75": 20.78,
-        "pe_90": 32.53
+        "pe_50": 18.3,
+        "pe_75": 20.82,
+        "pe_90": 32.51
       },
       {
         "date": "2013-01-16",
         "price": 16.9,
         "pe": 10.27,
-        "pe_10": 14.48,
+        "pe_10": 14.49,
         "pe_25": 16.27,
-        "pe_50": 18.15,
-        "pe_75": 20.62,
-        "pe_90": 32.27
+        "pe_50": 18.16,
+        "pe_75": 20.65,
+        "pe_90": 32.25
       },
       {
         "date": "2013-02-14",
@@ -18238,9 +16798,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.75,
         "pe_10": 14.37,
         "pe_25": 16.14,
-        "pe_50": 18.01,
-        "pe_75": 20.46,
-        "pe_90": 32.01
+        "pe_50": 18.02,
+        "pe_75": 20.49,
+        "pe_90": 32.0
       },
       {
         "date": "2013-03-16",
@@ -18248,9 +16808,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.96,
         "pe_10": 14.26,
         "pe_25": 16.01,
-        "pe_50": 17.86,
-        "pe_75": 20.29,
-        "pe_90": 31.76
+        "pe_50": 17.87,
+        "pe_75": 20.33,
+        "pe_90": 31.74
       },
       {
         "date": "2013-04-15",
@@ -18258,9 +16818,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 11.15,
         "pe_10": 14.13,
         "pe_25": 15.87,
-        "pe_50": 17.71,
-        "pe_75": 20.12,
-        "pe_90": 31.48
+        "pe_50": 17.72,
+        "pe_75": 20.15,
+        "pe_90": 31.47
       },
       {
         "date": "2013-05-16",
@@ -18268,9 +16828,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 12.03,
         "pe_10": 14.01,
         "pe_25": 15.74,
-        "pe_50": 17.56,
-        "pe_75": 19.95,
-        "pe_90": 31.22
+        "pe_50": 17.57,
+        "pe_75": 19.98,
+        "pe_90": 31.2
       },
       {
         "date": "2013-06-15",
@@ -18278,19 +16838,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 11.75,
         "pe_10": 13.9,
         "pe_25": 15.61,
-        "pe_50": 17.41,
-        "pe_75": 19.78,
-        "pe_90": 30.96
+        "pe_50": 17.42,
+        "pe_75": 19.81,
+        "pe_90": 30.94
       },
       {
         "date": "2013-07-16",
         "price": 19.8,
         "pe": 12.64,
         "pe_10": 13.79,
-        "pe_25": 15.48,
-        "pe_50": 17.28,
-        "pe_75": 19.63,
-        "pe_90": 30.72
+        "pe_25": 15.49,
+        "pe_50": 17.29,
+        "pe_75": 19.66,
+        "pe_90": 30.7
       },
       {
         "date": "2013-08-16",
@@ -18299,18 +16859,18 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 13.67,
         "pe_25": 15.35,
         "pe_50": 17.13,
-        "pe_75": 19.46,
-        "pe_90": 30.45
+        "pe_75": 19.49,
+        "pe_90": 30.43
       },
       {
         "date": "2013-09-15",
         "price": 19.3,
         "pe": 12.54,
         "pe_10": 13.55,
-        "pe_25": 15.21,
+        "pe_25": 15.22,
         "pe_50": 16.98,
-        "pe_75": 19.28,
-        "pe_90": 30.18
+        "pe_75": 19.32,
+        "pe_90": 30.17
       },
       {
         "date": "2013-10-16",
@@ -18318,9 +16878,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 13.04,
         "pe_10": 13.43,
         "pe_25": 15.09,
-        "pe_50": 16.83,
-        "pe_75": 19.12,
-        "pe_90": 29.93
+        "pe_50": 16.84,
+        "pe_75": 19.15,
+        "pe_90": 29.91
       },
       {
         "date": "2013-11-15",
@@ -18329,48 +16889,48 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 13.32,
         "pe_25": 14.96,
         "pe_50": 16.69,
-        "pe_75": 18.96,
-        "pe_90": 29.67
+        "pe_75": 18.99,
+        "pe_90": 29.65
       },
       {
         "date": "2013-12-16",
         "price": 20.35,
         "pe": 13.57,
         "pe_10": 13.2,
-        "pe_25": 14.82,
-        "pe_50": 16.54,
-        "pe_75": 18.79,
-        "pe_90": 29.41
+        "pe_25": 14.83,
+        "pe_50": 16.55,
+        "pe_75": 18.82,
+        "pe_90": 29.39
       },
       {
         "date": "2014-01-16",
         "price": 20.0,
         "pe": 12.58,
-        "pe_10": 13.99,
+        "pe_10": 14.0,
         "pe_25": 15.72,
         "pe_50": 17.54,
-        "pe_75": 19.92,
-        "pe_90": 31.18
+        "pe_75": 19.95,
+        "pe_90": 31.16
       },
       {
         "date": "2014-02-14",
         "price": 19.55,
         "pe": 11.64,
-        "pe_10": 14.78,
-        "pe_25": 16.6,
+        "pe_10": 14.79,
+        "pe_25": 16.61,
         "pe_50": 18.53,
-        "pe_75": 21.04,
-        "pe_90": 32.94
+        "pe_75": 21.08,
+        "pe_90": 32.92
       },
       {
         "date": "2014-03-16",
         "price": 19.05,
         "pe": 10.76,
-        "pe_10": 15.58,
-        "pe_25": 17.5,
-        "pe_50": 19.53,
-        "pe_75": 22.18,
-        "pe_90": 34.72
+        "pe_10": 15.59,
+        "pe_25": 17.51,
+        "pe_50": 19.54,
+        "pe_75": 22.22,
+        "pe_90": 34.7
       },
       {
         "date": "2014-04-15",
@@ -18378,9 +16938,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.65,
         "pe_10": 16.37,
         "pe_25": 18.39,
-        "pe_50": 20.52,
-        "pe_75": 23.31,
-        "pe_90": 36.48
+        "pe_50": 20.53,
+        "pe_75": 23.34,
+        "pe_90": 36.46
       },
       {
         "date": "2014-05-16",
@@ -18388,9 +16948,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.79,
         "pe_10": 17.17,
         "pe_25": 19.29,
-        "pe_50": 21.52,
-        "pe_75": 24.45,
-        "pe_90": 38.26
+        "pe_50": 21.53,
+        "pe_75": 24.48,
+        "pe_90": 38.24
       },
       {
         "date": "2014-06-15",
@@ -18398,9 +16958,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.75,
         "pe_10": 17.97,
         "pe_25": 20.18,
-        "pe_50": 22.51,
-        "pe_75": 25.57,
-        "pe_90": 40.02
+        "pe_50": 22.52,
+        "pe_75": 25.61,
+        "pe_90": 40.0
       },
       {
         "date": "2014-07-16",
@@ -18408,9 +16968,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.91,
         "pe_10": 18.74,
         "pe_25": 21.05,
-        "pe_50": 23.48,
-        "pe_75": 26.68,
-        "pe_90": 41.75
+        "pe_50": 23.5,
+        "pe_75": 26.72,
+        "pe_90": 41.73
       },
       {
         "date": "2014-08-16",
@@ -18418,39 +16978,39 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.8,
         "pe_10": 19.54,
         "pe_25": 21.94,
-        "pe_50": 24.48,
-        "pe_75": 27.81,
-        "pe_90": 43.52
+        "pe_50": 24.49,
+        "pe_75": 27.85,
+        "pe_90": 43.5
       },
       {
         "date": "2014-09-15",
         "price": 20.45,
         "pe": 8.85,
         "pe_10": 20.34,
-        "pe_25": 22.84,
-        "pe_50": 25.49,
-        "pe_75": 28.95,
-        "pe_90": 45.31
+        "pe_25": 22.85,
+        "pe_50": 25.5,
+        "pe_75": 29.0,
+        "pe_90": 45.29
       },
       {
         "date": "2014-10-16",
         "price": 21.3,
         "pe": 8.88,
-        "pe_10": 21.11,
-        "pe_25": 23.71,
-        "pe_50": 26.46,
-        "pe_75": 30.06,
-        "pe_90": 47.04
+        "pe_10": 21.12,
+        "pe_25": 23.72,
+        "pe_50": 26.47,
+        "pe_75": 30.1,
+        "pe_90": 47.01
       },
       {
         "date": "2014-11-15",
         "price": 21.05,
         "pe": 8.45,
         "pe_10": 21.93,
-        "pe_25": 24.62,
-        "pe_50": 27.48,
-        "pe_75": 31.21,
-        "pe_90": 48.85
+        "pe_25": 24.63,
+        "pe_50": 27.49,
+        "pe_75": 31.26,
+        "pe_90": 48.83
       },
       {
         "date": "2014-12-16",
@@ -18458,49 +17018,49 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 7.97,
         "pe_10": 22.7,
         "pe_25": 25.49,
-        "pe_50": 28.44,
-        "pe_75": 32.31,
-        "pe_90": 50.56
+        "pe_50": 28.45,
+        "pe_75": 32.36,
+        "pe_90": 50.54
       },
       {
         "date": "2015-01-16",
         "price": 20.1,
         "pe": 7.91,
         "pe_10": 22.37,
-        "pe_25": 25.12,
-        "pe_50": 28.03,
-        "pe_75": 31.84,
-        "pe_90": 49.83
+        "pe_25": 25.13,
+        "pe_50": 28.04,
+        "pe_75": 31.89,
+        "pe_90": 49.81
       },
       {
         "date": "2015-02-14",
         "price": 20.9,
         "pe": 8.36,
         "pe_10": 22.01,
-        "pe_25": 24.71,
-        "pe_50": 27.57,
-        "pe_75": 31.32,
-        "pe_90": 49.02
+        "pe_25": 24.72,
+        "pe_50": 27.59,
+        "pe_75": 31.37,
+        "pe_90": 49.0
       },
       {
         "date": "2015-03-16",
         "price": 20.8,
         "pe": 8.46,
         "pe_10": 21.64,
-        "pe_25": 24.3,
-        "pe_50": 27.12,
-        "pe_75": 30.81,
-        "pe_90": 48.21
+        "pe_25": 24.31,
+        "pe_50": 27.13,
+        "pe_75": 30.86,
+        "pe_90": 48.19
       },
       {
         "date": "2015-04-15",
         "price": 23.9,
         "pe": 9.88,
         "pe_10": 21.29,
-        "pe_25": 23.91,
-        "pe_50": 26.68,
-        "pe_75": 30.31,
-        "pe_90": 47.44
+        "pe_25": 23.92,
+        "pe_50": 26.69,
+        "pe_75": 30.36,
+        "pe_90": 47.41
       },
       {
         "date": "2015-05-16",
@@ -18508,19 +17068,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.79,
         "pe_10": 20.95,
         "pe_25": 23.53,
-        "pe_50": 26.25,
-        "pe_75": 29.82,
-        "pe_90": 46.67
+        "pe_50": 26.26,
+        "pe_75": 29.87,
+        "pe_90": 46.65
       },
       {
         "date": "2015-06-15",
         "price": 24.3,
         "pe": 10.38,
         "pe_10": 20.61,
-        "pe_25": 23.14,
-        "pe_50": 25.82,
-        "pe_75": 29.33,
-        "pe_90": 45.91
+        "pe_25": 23.15,
+        "pe_50": 25.83,
+        "pe_75": 29.38,
+        "pe_90": 45.88
       },
       {
         "date": "2015-07-16",
@@ -18528,9 +17088,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.96,
         "pe_10": 20.24,
         "pe_25": 22.73,
-        "pe_50": 25.36,
-        "pe_75": 28.81,
-        "pe_90": 45.09
+        "pe_50": 25.37,
+        "pe_75": 28.85,
+        "pe_90": 45.06
       },
       {
         "date": "2015-08-16",
@@ -18538,29 +17098,29 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 8.67,
         "pe_10": 19.9,
         "pe_25": 22.35,
-        "pe_50": 24.94,
-        "pe_75": 28.33,
-        "pe_90": 44.33
+        "pe_50": 24.95,
+        "pe_75": 28.37,
+        "pe_90": 44.31
       },
       {
         "date": "2015-09-15",
         "price": 16.95,
         "pe": 7.64,
         "pe_10": 19.53,
-        "pe_25": 21.93,
-        "pe_50": 24.47,
-        "pe_75": 27.8,
-        "pe_90": 43.51
+        "pe_25": 21.94,
+        "pe_50": 24.48,
+        "pe_75": 27.84,
+        "pe_90": 43.48
       },
       {
         "date": "2015-10-16",
         "price": 17.85,
         "pe": 8.19,
-        "pe_10": 19.18,
-        "pe_25": 21.54,
-        "pe_50": 24.04,
-        "pe_75": 27.31,
-        "pe_90": 42.74
+        "pe_10": 19.19,
+        "pe_25": 21.55,
+        "pe_50": 24.05,
+        "pe_75": 27.35,
+        "pe_90": 42.72
       },
       {
         "date": "2015-11-15",
@@ -18568,29 +17128,29 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 7.99,
         "pe_10": 18.84,
         "pe_25": 21.16,
-        "pe_50": 23.61,
-        "pe_75": 26.82,
-        "pe_90": 41.97
+        "pe_50": 23.62,
+        "pe_75": 26.86,
+        "pe_90": 41.95
       },
       {
         "date": "2015-12-16",
         "price": 16.9,
         "pe": 8.05,
         "pe_10": 18.48,
-        "pe_25": 20.75,
-        "pe_50": 23.16,
-        "pe_75": 26.31,
-        "pe_90": 41.17
+        "pe_25": 20.76,
+        "pe_50": 23.17,
+        "pe_75": 26.35,
+        "pe_90": 41.15
       },
       {
         "date": "2016-01-16",
         "price": 16.1,
         "pe": 7.88,
-        "pe_10": 17.98,
+        "pe_10": 17.99,
         "pe_25": 20.2,
-        "pe_50": 22.54,
-        "pe_75": 25.6,
-        "pe_90": 40.07
+        "pe_50": 22.55,
+        "pe_75": 25.64,
+        "pe_90": 40.05
       },
       {
         "date": "2016-02-15",
@@ -18598,19 +17158,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 8.15,
         "pe_10": 17.5,
         "pe_25": 19.65,
-        "pe_50": 21.92,
-        "pe_75": 24.91,
-        "pe_90": 38.98
+        "pe_50": 21.93,
+        "pe_75": 24.95,
+        "pe_90": 38.96
       },
       {
         "date": "2016-03-16",
         "price": 17.0,
         "pe": 8.8,
-        "pe_10": 17.0,
+        "pe_10": 17.01,
         "pe_25": 19.1,
-        "pe_50": 21.31,
-        "pe_75": 24.21,
-        "pe_90": 37.88
+        "pe_50": 21.32,
+        "pe_75": 24.24,
+        "pe_90": 37.86
       },
       {
         "date": "2016-04-15",
@@ -18618,59 +17178,59 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 8.74,
         "pe_10": 16.52,
         "pe_25": 18.55,
-        "pe_50": 20.7,
-        "pe_75": 23.51,
-        "pe_90": 36.8
+        "pe_50": 20.71,
+        "pe_75": 23.55,
+        "pe_90": 36.78
       },
       {
         "date": "2016-05-16",
         "price": 17.1,
         "pe": 9.39,
         "pe_10": 16.03,
-        "pe_25": 18.0,
-        "pe_50": 20.09,
-        "pe_75": 22.82,
-        "pe_90": 35.71
+        "pe_25": 18.01,
+        "pe_50": 20.1,
+        "pe_75": 22.85,
+        "pe_90": 35.69
       },
       {
         "date": "2016-06-15",
         "price": 16.85,
         "pe": 9.55,
         "pe_10": 15.53,
-        "pe_25": 17.44,
-        "pe_50": 19.46,
-        "pe_75": 22.11,
-        "pe_90": 34.6
+        "pe_25": 17.45,
+        "pe_50": 19.47,
+        "pe_75": 22.14,
+        "pe_90": 34.58
       },
       {
         "date": "2016-07-16",
         "price": 17.6,
         "pe": 10.3,
         "pe_10": 15.04,
-        "pe_25": 16.89,
-        "pe_50": 18.85,
-        "pe_75": 21.41,
-        "pe_90": 33.51
+        "pe_25": 16.9,
+        "pe_50": 18.86,
+        "pe_75": 21.44,
+        "pe_90": 33.49
       },
       {
         "date": "2016-08-16",
         "price": 18.35,
         "pe": 11.1,
         "pe_10": 14.55,
-        "pe_25": 16.34,
-        "pe_50": 18.23,
-        "pe_75": 20.71,
-        "pe_90": 32.42
+        "pe_25": 16.35,
+        "pe_50": 18.24,
+        "pe_75": 20.75,
+        "pe_90": 32.4
       },
       {
         "date": "2016-09-15",
         "price": 18.2,
         "pe": 11.39,
-        "pe_10": 14.06,
+        "pe_10": 14.07,
         "pe_25": 15.8,
-        "pe_50": 17.62,
-        "pe_75": 20.02,
-        "pe_90": 31.33
+        "pe_50": 17.63,
+        "pe_75": 20.05,
+        "pe_90": 31.32
       },
       {
         "date": "2016-10-16",
@@ -18678,19 +17238,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 11.03,
         "pe_10": 13.57,
         "pe_25": 15.24,
-        "pe_50": 17.0,
-        "pe_75": 19.31,
-        "pe_90": 30.22
+        "pe_50": 17.01,
+        "pe_75": 19.34,
+        "pe_90": 30.21
       },
       {
         "date": "2016-11-15",
         "price": 17.5,
         "pe": 11.78,
         "pe_10": 13.08,
-        "pe_25": 14.68,
+        "pe_25": 14.69,
         "pe_50": 16.39,
-        "pe_75": 18.61,
-        "pe_90": 29.13
+        "pe_75": 18.64,
+        "pe_90": 29.12
       },
       {
         "date": "2016-12-16",
@@ -18699,8 +17259,8 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 12.59,
         "pe_25": 14.14,
         "pe_50": 15.78,
-        "pe_75": 17.92,
-        "pe_90": 28.05
+        "pe_75": 17.95,
+        "pe_90": 28.03
       },
       {
         "date": "2017-01-16",
@@ -18708,19 +17268,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 12.11,
         "pe_10": 12.94,
         "pe_25": 14.53,
-        "pe_50": 16.21,
-        "pe_75": 18.42,
-        "pe_90": 28.82
+        "pe_50": 16.22,
+        "pe_75": 18.45,
+        "pe_90": 28.81
       },
       {
         "date": "2017-02-14",
         "price": 18.35,
         "pe": 12.15,
-        "pe_10": 13.29,
+        "pe_10": 13.3,
         "pe_25": 14.93,
-        "pe_50": 16.66,
-        "pe_75": 18.92,
-        "pe_90": 29.62
+        "pe_50": 16.67,
+        "pe_75": 18.95,
+        "pe_90": 29.6
       },
       {
         "date": "2017-03-16",
@@ -18728,9 +17288,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 12.1,
         "pe_10": 13.64,
         "pe_25": 15.32,
-        "pe_50": 17.09,
-        "pe_75": 19.42,
-        "pe_90": 30.39
+        "pe_50": 17.1,
+        "pe_75": 19.45,
+        "pe_90": 30.37
       },
       {
         "date": "2017-04-15",
@@ -18738,9 +17298,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 11.86,
         "pe_10": 13.99,
         "pe_25": 15.71,
-        "pe_50": 17.53,
-        "pe_75": 19.91,
-        "pe_90": 31.17
+        "pe_50": 17.54,
+        "pe_75": 19.95,
+        "pe_90": 31.15
       },
       {
         "date": "2017-05-16",
@@ -18749,58 +17309,58 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 14.35,
         "pe_25": 16.11,
         "pe_50": 17.98,
-        "pe_75": 20.42,
-        "pe_90": 31.96
+        "pe_75": 20.45,
+        "pe_90": 31.94
       },
       {
         "date": "2017-06-15",
         "price": 19.95,
         "pe": 11.95,
-        "pe_10": 14.69,
-        "pe_25": 16.5,
-        "pe_50": 18.41,
-        "pe_75": 20.92,
-        "pe_90": 32.74
+        "pe_10": 14.7,
+        "pe_25": 16.51,
+        "pe_50": 18.42,
+        "pe_75": 20.95,
+        "pe_90": 32.72
       },
       {
         "date": "2017-07-16",
         "price": 19.4,
         "pe": 11.35,
-        "pe_10": 15.04,
+        "pe_10": 15.05,
         "pe_25": 16.9,
-        "pe_50": 18.85,
-        "pe_75": 21.42,
-        "pe_90": 33.52
+        "pe_50": 18.86,
+        "pe_75": 21.45,
+        "pe_90": 33.5
       },
       {
         "date": "2017-08-16",
         "price": 19.55,
         "pe": 11.17,
         "pe_10": 15.41,
-        "pe_25": 17.3,
-        "pe_50": 19.3,
-        "pe_75": 21.93,
-        "pe_90": 34.32
+        "pe_25": 17.31,
+        "pe_50": 19.31,
+        "pe_75": 21.97,
+        "pe_90": 34.3
       },
       {
         "date": "2017-09-15",
         "price": 19.1,
         "pe": 10.67,
         "pe_10": 15.76,
-        "pe_25": 17.69,
-        "pe_50": 19.74,
-        "pe_75": 22.43,
-        "pe_90": 35.1
+        "pe_25": 17.7,
+        "pe_50": 19.75,
+        "pe_75": 22.47,
+        "pe_90": 35.09
       },
       {
         "date": "2017-10-16",
         "price": 19.3,
         "pe": 10.55,
         "pe_10": 16.1,
-        "pe_25": 18.08,
-        "pe_50": 20.18,
-        "pe_75": 22.92,
-        "pe_90": 35.87
+        "pe_25": 18.09,
+        "pe_50": 20.19,
+        "pe_75": 22.96,
+        "pe_90": 35.86
       },
       {
         "date": "2017-11-15",
@@ -18808,9 +17368,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.7,
         "pe_10": 16.45,
         "pe_25": 18.48,
-        "pe_50": 20.62,
-        "pe_75": 23.42,
-        "pe_90": 36.65
+        "pe_50": 20.63,
+        "pe_75": 23.46,
+        "pe_90": 36.64
       },
       {
         "date": "2017-12-16",
@@ -18818,19 +17378,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.73,
         "pe_10": 16.82,
         "pe_25": 18.89,
-        "pe_50": 21.07,
-        "pe_75": 23.94,
-        "pe_90": 37.47
+        "pe_50": 21.08,
+        "pe_75": 23.98,
+        "pe_90": 37.45
       },
       {
         "date": "2018-01-16",
         "price": 21.3,
         "pe": 11.18,
         "pe_10": 16.77,
-        "pe_25": 18.83,
-        "pe_50": 21.01,
-        "pe_75": 23.87,
-        "pe_90": 37.36
+        "pe_25": 18.84,
+        "pe_50": 21.02,
+        "pe_75": 23.91,
+        "pe_90": 37.34
       },
       {
         "date": "2018-02-14",
@@ -18838,9 +17398,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 11.24,
         "pe_10": 16.72,
         "pe_25": 18.78,
-        "pe_50": 20.95,
-        "pe_75": 23.8,
-        "pe_90": 37.25
+        "pe_50": 20.96,
+        "pe_75": 23.84,
+        "pe_90": 37.23
       },
       {
         "date": "2018-03-16",
@@ -18848,9 +17408,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 11.19,
         "pe_10": 16.68,
         "pe_25": 18.73,
-        "pe_50": 20.9,
-        "pe_75": 23.74,
-        "pe_90": 37.15
+        "pe_50": 20.91,
+        "pe_75": 23.78,
+        "pe_90": 37.13
       },
       {
         "date": "2018-04-15",
@@ -18858,19 +17418,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 11.24,
         "pe_10": 16.64,
         "pe_25": 18.69,
-        "pe_50": 20.85,
-        "pe_75": 23.69,
-        "pe_90": 37.07
+        "pe_50": 20.86,
+        "pe_75": 23.73,
+        "pe_90": 37.06
       },
       {
         "date": "2018-05-16",
         "price": 21.6,
         "pe": 11.46,
         "pe_10": 16.59,
-        "pe_25": 18.63,
-        "pe_50": 20.79,
-        "pe_75": 23.62,
-        "pe_90": 36.96
+        "pe_25": 18.64,
+        "pe_50": 20.8,
+        "pe_75": 23.65,
+        "pe_90": 36.94
       },
       {
         "date": "2018-06-15",
@@ -18878,9 +17438,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 11.68,
         "pe_10": 16.54,
         "pe_25": 18.58,
-        "pe_50": 20.73,
-        "pe_75": 23.55,
-        "pe_90": 36.85
+        "pe_50": 20.74,
+        "pe_75": 23.58,
+        "pe_90": 36.83
       },
       {
         "date": "2018-07-16",
@@ -18889,8 +17449,8 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 16.5,
         "pe_25": 18.53,
         "pe_50": 20.68,
-        "pe_75": 23.49,
-        "pe_90": 36.76
+        "pe_75": 23.52,
+        "pe_90": 36.74
       },
       {
         "date": "2018-08-16",
@@ -18898,9 +17458,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 11.55,
         "pe_10": 16.46,
         "pe_25": 18.49,
-        "pe_50": 20.63,
-        "pe_75": 23.43,
-        "pe_90": 36.67
+        "pe_50": 20.64,
+        "pe_75": 23.47,
+        "pe_90": 36.65
       },
       {
         "date": "2018-09-15",
@@ -18909,28 +17469,28 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 16.42,
         "pe_25": 18.44,
         "pe_50": 20.58,
-        "pe_75": 23.37,
-        "pe_90": 36.58
+        "pe_75": 23.41,
+        "pe_90": 36.56
       },
       {
         "date": "2018-10-16",
         "price": 20.65,
         "pe": 11.1,
-        "pe_10": 16.37,
+        "pe_10": 16.38,
         "pe_25": 18.39,
-        "pe_50": 20.52,
-        "pe_75": 23.31,
-        "pe_90": 36.48
+        "pe_50": 20.53,
+        "pe_75": 23.35,
+        "pe_90": 36.46
       },
       {
         "date": "2018-11-15",
         "price": 20.45,
         "pe": 11.02,
-        "pe_10": 16.33,
-        "pe_25": 18.34,
-        "pe_50": 20.47,
-        "pe_75": 23.25,
-        "pe_90": 36.39
+        "pe_10": 16.34,
+        "pe_25": 18.35,
+        "pe_50": 20.48,
+        "pe_75": 23.29,
+        "pe_90": 36.37
       },
       {
         "date": "2018-12-16",
@@ -18938,49 +17498,49 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.92,
         "pe_10": 16.28,
         "pe_25": 18.29,
-        "pe_50": 20.4,
-        "pe_75": 23.18,
-        "pe_90": 36.27
+        "pe_50": 20.41,
+        "pe_75": 23.22,
+        "pe_90": 36.26
       },
       {
         "date": "2019-01-16",
         "price": 20.7,
         "pe": 11.04,
-        "pe_10": 16.5,
-        "pe_25": 18.53,
-        "pe_50": 20.68,
-        "pe_75": 23.49,
-        "pe_90": 36.77
+        "pe_10": 16.51,
+        "pe_25": 18.54,
+        "pe_50": 20.69,
+        "pe_75": 23.53,
+        "pe_90": 36.75
       },
       {
         "date": "2019-02-14",
         "price": 20.85,
         "pe": 10.96,
-        "pe_10": 16.74,
-        "pe_25": 18.8,
-        "pe_50": 20.98,
-        "pe_75": 23.84,
-        "pe_90": 37.31
+        "pe_10": 16.75,
+        "pe_25": 18.81,
+        "pe_50": 20.99,
+        "pe_75": 23.87,
+        "pe_90": 37.29
       },
       {
         "date": "2019-03-16",
         "price": 20.45,
         "pe": 10.61,
         "pe_10": 16.97,
-        "pe_25": 19.05,
-        "pe_50": 21.26,
-        "pe_75": 24.15,
-        "pe_90": 37.8
+        "pe_25": 19.06,
+        "pe_50": 21.27,
+        "pe_75": 24.19,
+        "pe_90": 37.78
       },
       {
         "date": "2019-04-15",
         "price": 21.15,
         "pe": 10.83,
         "pe_10": 17.19,
-        "pe_25": 19.3,
-        "pe_50": 21.54,
-        "pe_75": 24.47,
-        "pe_90": 38.3
+        "pe_25": 19.31,
+        "pe_50": 21.55,
+        "pe_75": 24.51,
+        "pe_90": 38.28
       },
       {
         "date": "2019-05-16",
@@ -18988,9 +17548,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.59,
         "pe_10": 17.41,
         "pe_25": 19.56,
-        "pe_50": 21.82,
-        "pe_75": 24.79,
-        "pe_90": 38.79
+        "pe_50": 21.83,
+        "pe_75": 24.83,
+        "pe_90": 38.77
       },
       {
         "date": "2019-06-15",
@@ -18998,9 +17558,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.65,
         "pe_10": 17.65,
         "pe_25": 19.82,
-        "pe_50": 22.11,
-        "pe_75": 25.12,
-        "pe_90": 39.31
+        "pe_50": 22.12,
+        "pe_75": 25.16,
+        "pe_90": 39.29
       },
       {
         "date": "2019-07-16",
@@ -19008,9 +17568,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.0,
         "pe_10": 17.87,
         "pe_25": 20.07,
-        "pe_50": 22.39,
-        "pe_75": 25.44,
-        "pe_90": 39.81
+        "pe_50": 22.4,
+        "pe_75": 25.48,
+        "pe_90": 39.79
       },
       {
         "date": "2019-08-16",
@@ -19018,49 +17578,49 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.89,
         "pe_10": 18.11,
         "pe_25": 20.34,
-        "pe_50": 22.7,
-        "pe_75": 25.78,
-        "pe_90": 40.35
+        "pe_50": 22.71,
+        "pe_75": 25.82,
+        "pe_90": 40.33
       },
       {
         "date": "2019-09-15",
         "price": 20.6,
         "pe": 9.89,
-        "pe_10": 18.33,
+        "pe_10": 18.34,
         "pe_25": 20.59,
-        "pe_50": 22.97,
-        "pe_75": 26.1,
-        "pe_90": 40.85
+        "pe_50": 22.98,
+        "pe_75": 26.14,
+        "pe_90": 40.83
       },
       {
         "date": "2019-10-16",
         "price": 21.2,
         "pe": 10.06,
         "pe_10": 18.55,
-        "pe_25": 20.83,
-        "pe_50": 23.24,
-        "pe_75": 26.41,
-        "pe_90": 41.33
+        "pe_25": 20.84,
+        "pe_50": 23.25,
+        "pe_75": 26.45,
+        "pe_90": 41.3
       },
       {
         "date": "2019-11-15",
         "price": 21.85,
         "pe": 10.24,
         "pe_10": 18.78,
-        "pe_25": 21.09,
-        "pe_50": 23.54,
-        "pe_75": 26.74,
-        "pe_90": 41.84
+        "pe_25": 21.1,
+        "pe_50": 23.55,
+        "pe_75": 26.78,
+        "pe_90": 41.82
       },
       {
         "date": "2019-12-16",
         "price": 22.4,
         "pe": 10.37,
-        "pe_10": 19.01,
-        "pe_25": 21.35,
-        "pe_50": 23.83,
-        "pe_75": 27.07,
-        "pe_90": 42.36
+        "pe_10": 19.02,
+        "pe_25": 21.36,
+        "pe_50": 23.84,
+        "pe_75": 27.11,
+        "pe_90": 42.34
       },
       {
         "date": "2020-01-16",
@@ -19068,19 +17628,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.21,
         "pe_10": 19.01,
         "pe_25": 21.35,
-        "pe_50": 23.82,
-        "pe_75": 27.06,
-        "pe_90": 42.35
+        "pe_50": 23.83,
+        "pe_75": 27.1,
+        "pe_90": 42.33
       },
       {
         "date": "2020-02-15",
         "price": 22.7,
         "pe": 10.52,
-        "pe_10": 18.99,
-        "pe_25": 21.33,
-        "pe_50": 23.8,
-        "pe_75": 27.04,
-        "pe_90": 42.31
+        "pe_10": 19.0,
+        "pe_25": 21.34,
+        "pe_50": 23.81,
+        "pe_75": 27.08,
+        "pe_90": 42.29
       },
       {
         "date": "2020-03-16",
@@ -19088,9 +17648,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 8.3,
         "pe_10": 18.98,
         "pe_25": 21.32,
-        "pe_50": 23.79,
-        "pe_75": 27.02,
-        "pe_90": 42.29
+        "pe_50": 23.8,
+        "pe_75": 27.07,
+        "pe_90": 42.27
       },
       {
         "date": "2020-04-15",
@@ -19098,59 +17658,59 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.27,
         "pe_10": 18.99,
         "pe_25": 21.33,
-        "pe_50": 23.8,
-        "pe_75": 27.03,
-        "pe_90": 42.31
+        "pe_50": 23.81,
+        "pe_75": 27.08,
+        "pe_90": 42.29
       },
       {
         "date": "2020-05-16",
         "price": 19.95,
         "pe": 9.25,
-        "pe_10": 18.98,
+        "pe_10": 18.99,
         "pe_25": 21.32,
-        "pe_50": 23.79,
-        "pe_75": 27.02,
-        "pe_90": 42.29
+        "pe_50": 23.8,
+        "pe_75": 27.07,
+        "pe_90": 42.27
       },
       {
         "date": "2020-06-15",
         "price": 20.35,
         "pe": 9.44,
-        "pe_10": 18.97,
+        "pe_10": 18.98,
         "pe_25": 21.31,
-        "pe_50": 23.78,
-        "pe_75": 27.01,
-        "pe_90": 42.27
+        "pe_50": 23.79,
+        "pe_75": 27.05,
+        "pe_90": 42.25
       },
       {
         "date": "2020-07-16",
         "price": 19.4,
         "pe": 9.01,
         "pe_10": 18.95,
-        "pe_25": 21.28,
-        "pe_50": 23.75,
-        "pe_75": 26.98,
-        "pe_90": 42.22
+        "pe_25": 21.29,
+        "pe_50": 23.76,
+        "pe_75": 27.02,
+        "pe_90": 42.2
       },
       {
         "date": "2020-08-16",
         "price": 18.95,
         "pe": 8.8,
-        "pe_10": 18.95,
+        "pe_10": 18.96,
         "pe_25": 21.29,
-        "pe_50": 23.75,
-        "pe_75": 26.98,
-        "pe_90": 42.23
+        "pe_50": 23.76,
+        "pe_75": 27.03,
+        "pe_90": 42.21
       },
       {
         "date": "2020-09-15",
         "price": 18.4,
         "pe": 8.55,
         "pe_10": 18.94,
-        "pe_25": 21.27,
-        "pe_50": 23.74,
-        "pe_75": 26.97,
-        "pe_90": 42.2
+        "pe_25": 21.28,
+        "pe_50": 23.75,
+        "pe_75": 27.01,
+        "pe_90": 42.18
       },
       {
         "date": "2020-10-16",
@@ -19158,9 +17718,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 8.39,
         "pe_10": 18.94,
         "pe_25": 21.27,
-        "pe_50": 23.73,
-        "pe_75": 26.96,
-        "pe_90": 42.19
+        "pe_50": 23.74,
+        "pe_75": 27.0,
+        "pe_90": 42.17
       },
       {
         "date": "2020-11-15",
@@ -19168,9 +17728,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 8.9,
         "pe_10": 18.94,
         "pe_25": 21.27,
-        "pe_50": 23.73,
-        "pe_75": 26.96,
-        "pe_90": 42.19
+        "pe_50": 23.74,
+        "pe_75": 27.0,
+        "pe_90": 42.17
       },
       {
         "date": "2020-12-16",
@@ -19178,9 +17738,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.16,
         "pe_10": 18.93,
         "pe_25": 21.26,
-        "pe_50": 23.72,
-        "pe_75": 26.95,
-        "pe_90": 42.17
+        "pe_50": 23.73,
+        "pe_75": 26.99,
+        "pe_90": 42.15
       },
       {
         "date": "2021-01-16",
@@ -19188,19 +17748,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 8.64,
         "pe_10": 19.36,
         "pe_25": 21.74,
-        "pe_50": 24.26,
-        "pe_75": 27.55,
-        "pe_90": 43.12
+        "pe_50": 24.27,
+        "pe_75": 27.6,
+        "pe_90": 43.1
       },
       {
         "date": "2021-02-14",
         "price": 20.0,
         "pe": 8.9,
         "pe_10": 19.78,
-        "pe_25": 22.21,
-        "pe_50": 24.79,
-        "pe_75": 28.16,
-        "pe_90": 44.07
+        "pe_25": 22.22,
+        "pe_50": 24.8,
+        "pe_75": 28.2,
+        "pe_90": 44.04
       },
       {
         "date": "2021-03-16",
@@ -19208,19 +17768,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.63,
         "pe_10": 20.2,
         "pe_25": 22.69,
-        "pe_50": 25.31,
-        "pe_75": 28.76,
-        "pe_90": 45.0
+        "pe_50": 25.32,
+        "pe_75": 28.8,
+        "pe_90": 44.98
       },
       {
         "date": "2021-04-15",
         "price": 22.8,
         "pe": 9.73,
         "pe_10": 20.63,
-        "pe_25": 23.16,
-        "pe_50": 25.85,
-        "pe_75": 29.36,
-        "pe_90": 45.95
+        "pe_25": 23.17,
+        "pe_50": 25.86,
+        "pe_75": 29.41,
+        "pe_90": 45.93
       },
       {
         "date": "2021-05-16",
@@ -19228,29 +17788,29 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.64,
         "pe_10": 21.05,
         "pe_25": 23.64,
-        "pe_50": 26.37,
-        "pe_75": 29.96,
-        "pe_90": 46.89
+        "pe_50": 26.39,
+        "pe_75": 30.01,
+        "pe_90": 46.87
       },
       {
         "date": "2021-06-15",
         "price": 22.7,
         "pe": 9.3,
-        "pe_10": 21.48,
+        "pe_10": 21.49,
         "pe_25": 24.13,
-        "pe_50": 26.92,
-        "pe_75": 30.58,
-        "pe_90": 47.87
+        "pe_50": 26.93,
+        "pe_75": 30.63,
+        "pe_90": 47.84
       },
       {
         "date": "2021-07-16",
         "price": 22.85,
         "pe": 9.18,
         "pe_10": 21.91,
-        "pe_25": 24.6,
-        "pe_50": 27.45,
-        "pe_75": 31.19,
-        "pe_90": 48.81
+        "pe_25": 24.61,
+        "pe_50": 27.47,
+        "pe_75": 31.24,
+        "pe_90": 48.79
       },
       {
         "date": "2021-08-16",
@@ -19258,49 +17818,49 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.07,
         "pe_10": 22.32,
         "pe_25": 25.07,
-        "pe_50": 27.97,
-        "pe_75": 31.77,
-        "pe_90": 49.73
+        "pe_50": 27.98,
+        "pe_75": 31.82,
+        "pe_90": 49.7
       },
       {
         "date": "2021-09-15",
         "price": 22.9,
         "pe": 8.86,
         "pe_10": 22.75,
-        "pe_25": 25.55,
-        "pe_50": 28.51,
-        "pe_75": 32.39,
-        "pe_90": 50.68
+        "pe_25": 25.56,
+        "pe_50": 28.52,
+        "pe_75": 32.44,
+        "pe_90": 50.66
       },
       {
         "date": "2021-10-16",
         "price": 23.2,
         "pe": 8.81,
         "pe_10": 23.18,
-        "pe_25": 26.03,
-        "pe_50": 29.05,
-        "pe_75": 33.0,
-        "pe_90": 51.64
+        "pe_25": 26.04,
+        "pe_50": 29.06,
+        "pe_75": 33.05,
+        "pe_90": 51.61
       },
       {
         "date": "2021-11-15",
         "price": 24.4,
         "pe": 9.1,
         "pe_10": 23.6,
-        "pe_25": 26.5,
-        "pe_50": 29.57,
-        "pe_75": 33.6,
-        "pe_90": 52.58
+        "pe_25": 26.51,
+        "pe_50": 29.59,
+        "pe_75": 33.65,
+        "pe_90": 52.55
       },
       {
         "date": "2021-12-16",
         "price": 25.95,
         "pe": 9.51,
         "pe_10": 24.02,
-        "pe_25": 26.97,
-        "pe_50": 30.1,
-        "pe_75": 34.19,
-        "pe_90": 53.51
+        "pe_25": 26.98,
+        "pe_50": 30.11,
+        "pe_75": 34.25,
+        "pe_90": 53.48
       },
       {
         "date": "2022-01-16",
@@ -19308,9 +17868,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.49,
         "pe_10": 23.16,
         "pe_25": 26.01,
-        "pe_50": 29.02,
-        "pe_75": 32.97,
-        "pe_90": 51.6
+        "pe_50": 29.03,
+        "pe_75": 33.02,
+        "pe_90": 51.57
       },
       {
         "date": "2022-02-14",
@@ -19318,9 +17878,9 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.72,
         "pe_10": 22.29,
         "pe_25": 25.04,
-        "pe_50": 27.94,
-        "pe_75": 31.73,
-        "pe_90": 49.67
+        "pe_50": 27.95,
+        "pe_75": 31.78,
+        "pe_90": 49.64
       },
       {
         "date": "2022-03-16",
@@ -19328,19 +17888,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 12.07,
         "pe_10": 21.44,
         "pe_25": 24.08,
-        "pe_50": 26.87,
-        "pe_75": 30.52,
-        "pe_90": 47.77
+        "pe_50": 26.88,
+        "pe_75": 30.57,
+        "pe_90": 47.74
       },
       {
         "date": "2022-04-15",
         "price": 29.25,
         "pe": 12.52,
-        "pe_10": 20.56,
-        "pe_25": 23.09,
-        "pe_50": 25.77,
-        "pe_75": 29.27,
-        "pe_90": 45.81
+        "pe_10": 20.57,
+        "pe_25": 23.1,
+        "pe_50": 25.78,
+        "pe_75": 29.32,
+        "pe_90": 45.79
       },
       {
         "date": "2022-05-16",
@@ -19348,39 +17908,39 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 12.13,
         "pe_10": 19.7,
         "pe_25": 22.13,
-        "pe_50": 24.69,
-        "pe_75": 28.05,
-        "pe_90": 43.89
+        "pe_50": 24.7,
+        "pe_75": 28.09,
+        "pe_90": 43.87
       },
       {
         "date": "2022-06-15",
         "price": 25.1,
         "pe": 11.73,
-        "pe_10": 18.83,
-        "pe_25": 21.15,
-        "pe_50": 23.6,
-        "pe_75": 26.81,
-        "pe_90": 41.96
+        "pe_10": 18.84,
+        "pe_25": 21.16,
+        "pe_50": 23.61,
+        "pe_75": 26.85,
+        "pe_90": 41.94
       },
       {
         "date": "2022-07-16",
         "price": 22.95,
         "pe": 11.24,
         "pe_10": 17.97,
-        "pe_25": 20.18,
-        "pe_50": 22.52,
-        "pe_75": 25.58,
-        "pe_90": 40.04
+        "pe_25": 20.19,
+        "pe_50": 22.53,
+        "pe_75": 25.62,
+        "pe_90": 40.02
       },
       {
         "date": "2022-08-16",
         "price": 23.5,
         "pe": 12.09,
         "pe_10": 17.11,
-        "pe_25": 19.21,
-        "pe_50": 21.44,
-        "pe_75": 24.36,
-        "pe_90": 38.12
+        "pe_25": 19.22,
+        "pe_50": 21.45,
+        "pe_75": 24.39,
+        "pe_90": 38.1
       },
       {
         "date": "2022-09-15",
@@ -19388,19 +17948,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 10.76,
         "pe_10": 16.24,
         "pe_25": 18.24,
-        "pe_50": 20.35,
-        "pe_75": 23.12,
-        "pe_90": 36.18
+        "pe_50": 20.36,
+        "pe_75": 23.15,
+        "pe_90": 36.16
       },
       {
         "date": "2022-10-16",
         "price": 20.4,
         "pe": 11.68,
-        "pe_10": 15.37,
-        "pe_25": 17.26,
-        "pe_50": 19.26,
-        "pe_75": 21.88,
-        "pe_90": 34.25
+        "pe_10": 15.38,
+        "pe_25": 17.27,
+        "pe_50": 19.27,
+        "pe_75": 21.92,
+        "pe_90": 34.23
       },
       {
         "date": "2022-11-15",
@@ -19409,8 +17969,8 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe_10": 14.51,
         "pe_25": 16.3,
         "pe_50": 18.19,
-        "pe_75": 20.66,
-        "pe_90": 32.33
+        "pe_75": 20.69,
+        "pe_90": 32.32
       },
       {
         "date": "2022-12-16",
@@ -19418,19 +17978,19 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 14.26,
         "pe_10": 13.64,
         "pe_25": 15.32,
-        "pe_50": 17.09,
-        "pe_75": 19.42,
-        "pe_90": 30.39
+        "pe_50": 17.1,
+        "pe_75": 19.45,
+        "pe_90": 30.38
       },
       {
         "date": "2023-01-16",
         "price": 22.85,
         "pe": 13.8,
-        "pe_10": 14.57,
+        "pe_10": 14.58,
         "pe_25": 16.37,
-        "pe_50": 18.26,
-        "pe_75": 20.75,
-        "pe_90": 32.47
+        "pe_50": 18.27,
+        "pe_75": 20.78,
+        "pe_90": 32.45
       },
       {
         "date": "2023-02-14",
@@ -19438,29 +17998,29 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 12.91,
         "pe_10": 15.51,
         "pe_25": 17.42,
-        "pe_50": 19.44,
-        "pe_75": 22.08,
-        "pe_90": 34.56
+        "pe_50": 19.45,
+        "pe_75": 22.12,
+        "pe_90": 34.54
       },
       {
         "date": "2023-03-16",
         "price": 21.85,
         "pe": 11.7,
         "pe_10": 16.44,
-        "pe_25": 18.46,
-        "pe_50": 20.6,
-        "pe_75": 23.4,
-        "pe_90": 36.62
+        "pe_25": 18.47,
+        "pe_50": 20.61,
+        "pe_75": 23.44,
+        "pe_90": 36.6
       },
       {
         "date": "2023-04-15",
         "price": 22.6,
         "pe": 11.45,
-        "pe_10": 17.37,
-        "pe_25": 19.51,
-        "pe_50": 21.77,
-        "pe_75": 24.73,
-        "pe_90": 38.71
+        "pe_10": 17.38,
+        "pe_25": 19.52,
+        "pe_50": 21.78,
+        "pe_75": 24.77,
+        "pe_90": 38.69
       },
       {
         "date": "2023-05-16",
@@ -19468,39 +18028,39 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 11.69,
         "pe_10": 18.3,
         "pe_25": 20.55,
-        "pe_50": 22.93,
-        "pe_75": 26.05,
-        "pe_90": 40.76
+        "pe_50": 22.94,
+        "pe_75": 26.09,
+        "pe_90": 40.74
       },
       {
         "date": "2023-06-15",
         "price": 24.85,
         "pe": 11.37,
         "pe_10": 19.24,
-        "pe_25": 21.6,
-        "pe_50": 24.11,
-        "pe_75": 27.39,
-        "pe_90": 42.86
+        "pe_25": 21.61,
+        "pe_50": 24.12,
+        "pe_75": 27.43,
+        "pe_90": 42.84
       },
       {
         "date": "2023-07-16",
         "price": 26.25,
         "pe": 11.46,
         "pe_10": 20.16,
-        "pe_25": 22.64,
-        "pe_50": 25.27,
-        "pe_75": 28.7,
-        "pe_90": 44.92
+        "pe_25": 22.65,
+        "pe_50": 25.28,
+        "pe_75": 28.75,
+        "pe_90": 44.9
       },
       {
         "date": "2023-08-16",
         "price": 23.85,
         "pe": 9.95,
         "pe_10": 21.1,
-        "pe_25": 23.69,
-        "pe_50": 26.44,
-        "pe_75": 30.03,
-        "pe_90": 47.0
+        "pe_25": 23.7,
+        "pe_50": 26.45,
+        "pe_75": 30.08,
+        "pe_90": 46.98
       },
       {
         "date": "2023-09-15",
@@ -19508,279 +18068,289 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
         "pe": 9.79,
         "pe_10": 22.03,
         "pe_25": 24.74,
-        "pe_50": 27.6,
-        "pe_75": 31.36,
-        "pe_90": 49.08
+        "pe_50": 27.62,
+        "pe_75": 31.41,
+        "pe_90": 49.05
       },
       {
         "date": "2023-10-16",
         "price": 24.35,
         "pe": 9.34,
         "pe_10": 22.95,
-        "pe_25": 25.77,
-        "pe_50": 28.76,
-        "pe_75": 32.67,
-        "pe_90": 51.12
+        "pe_25": 25.78,
+        "pe_50": 28.77,
+        "pe_75": 32.72,
+        "pe_90": 51.1
       },
       {
         "date": "2023-11-15",
         "price": 27.35,
         "pe": 10.08,
-        "pe_10": 23.88,
-        "pe_25": 26.82,
-        "pe_50": 29.93,
-        "pe_75": 34.0,
-        "pe_90": 53.21
+        "pe_10": 23.89,
+        "pe_25": 26.83,
+        "pe_50": 29.94,
+        "pe_75": 34.05,
+        "pe_90": 53.18
       },
       {
         "date": "2023-12-16",
         "price": 28.35,
         "pe": 10.05,
         "pe_10": 24.83,
-        "pe_25": 27.88,
-        "pe_50": 31.11,
-        "pe_75": 35.35,
-        "pe_90": 55.32
+        "pe_25": 27.89,
+        "pe_50": 31.13,
+        "pe_75": 35.4,
+        "pe_90": 55.29
       },
       {
         "date": "2024-01-16",
         "price": 28.45,
         "pe": 9.85,
-        "pe_10": 25.42,
-        "pe_25": 28.55,
-        "pe_50": 31.86,
-        "pe_75": 36.19,
-        "pe_90": 56.64
+        "pe_10": 25.43,
+        "pe_25": 28.56,
+        "pe_50": 31.87,
+        "pe_75": 36.25,
+        "pe_90": 56.61
       },
       {
         "date": "2024-02-15",
         "price": 29.4,
         "pe": 9.94,
-        "pe_10": 26.03,
+        "pe_10": 26.04,
         "pe_25": 29.24,
-        "pe_50": 32.62,
-        "pe_75": 37.06,
-        "pe_90": 58.0
+        "pe_50": 32.64,
+        "pe_75": 37.12,
+        "pe_90": 57.97
       },
       {
         "date": "2024-03-16",
         "price": 33.05,
         "pe": 10.93,
         "pe_10": 26.62,
-        "pe_25": 29.89,
-        "pe_50": 33.35,
-        "pe_75": 37.89,
-        "pe_90": 59.3
+        "pe_25": 29.9,
+        "pe_50": 33.37,
+        "pe_75": 37.95,
+        "pe_90": 59.27
       },
       {
         "date": "2024-04-15",
         "price": 34.1,
         "pe": 11.02,
         "pe_10": 27.24,
-        "pe_25": 30.59,
-        "pe_50": 34.13,
-        "pe_75": 38.77,
-        "pe_90": 60.68
+        "pe_25": 30.6,
+        "pe_50": 34.15,
+        "pe_75": 38.83,
+        "pe_90": 60.65
       },
       {
         "date": "2024-05-16",
         "price": 35.4,
         "pe": 11.2,
         "pe_10": 27.82,
-        "pe_25": 31.24,
-        "pe_50": 34.86,
-        "pe_75": 39.6,
-        "pe_90": 61.98
+        "pe_25": 31.25,
+        "pe_50": 34.88,
+        "pe_75": 39.67,
+        "pe_90": 61.95
       },
       {
         "date": "2024-06-15",
         "price": 37.85,
         "pe": 11.72,
         "pe_10": 28.43,
-        "pe_25": 31.92,
-        "pe_50": 35.62,
-        "pe_75": 40.47,
-        "pe_90": 63.33
+        "pe_25": 31.93,
+        "pe_50": 35.64,
+        "pe_75": 40.53,
+        "pe_90": 63.3
       },
       {
         "date": "2024-07-16",
         "price": 35.5,
         "pe": 10.76,
         "pe_10": 29.04,
-        "pe_25": 32.61,
-        "pe_50": 36.39,
-        "pe_75": 41.34,
-        "pe_90": 64.7
+        "pe_25": 32.62,
+        "pe_50": 36.41,
+        "pe_75": 41.41,
+        "pe_90": 64.67
       },
       {
         "date": "2024-08-16",
         "price": 32.65,
         "pe": 9.7,
         "pe_10": 29.63,
-        "pe_25": 33.27,
-        "pe_50": 37.13,
-        "pe_75": 42.18,
-        "pe_90": 66.01
+        "pe_25": 33.28,
+        "pe_50": 37.14,
+        "pe_75": 42.24,
+        "pe_90": 65.97
       },
       {
         "date": "2024-09-15",
         "price": 34.4,
         "pe": 10.01,
         "pe_10": 30.25,
-        "pe_25": 33.97,
-        "pe_50": 37.91,
-        "pe_75": 43.06,
-        "pe_90": 67.39
+        "pe_25": 33.98,
+        "pe_50": 37.92,
+        "pe_75": 43.13,
+        "pe_90": 67.36
       },
       {
         "date": "2024-10-16",
         "price": 35.9,
         "pe": 10.25,
         "pe_10": 30.83,
-        "pe_25": 34.62,
-        "pe_50": 38.63,
-        "pe_75": 43.89,
-        "pe_90": 68.68
+        "pe_25": 34.63,
+        "pe_50": 38.65,
+        "pe_75": 43.96,
+        "pe_90": 68.65
       },
       {
         "date": "2024-11-15",
         "price": 37.4,
         "pe": 10.47,
-        "pe_10": 31.44,
-        "pe_25": 35.31,
-        "pe_50": 39.4,
-        "pe_75": 44.76,
-        "pe_90": 70.05
+        "pe_10": 31.45,
+        "pe_25": 35.32,
+        "pe_50": 39.42,
+        "pe_75": 44.83,
+        "pe_90": 70.01
       },
       {
         "date": "2024-12-16",
         "price": 39.1,
         "pe": 10.74,
-        "pe_10": 32.04,
-        "pe_25": 35.99,
-        "pe_50": 40.16,
-        "pe_75": 45.62,
-        "pe_90": 71.39
+        "pe_10": 32.05,
+        "pe_25": 36.0,
+        "pe_50": 40.17,
+        "pe_75": 45.69,
+        "pe_90": 71.36
       },
       {
         "date": "2025-01-16",
         "price": 39.1,
         "pe": 10.7,
-        "pe_10": 32.16,
-        "pe_25": 36.12,
-        "pe_50": 40.31,
-        "pe_75": 45.79,
-        "pe_90": 71.66
+        "pe_10": 32.17,
+        "pe_25": 36.13,
+        "pe_50": 40.32,
+        "pe_75": 45.86,
+        "pe_90": 71.62
       },
       {
         "date": "2025-02-14",
         "price": 40.75,
         "pe": 11.11,
-        "pe_10": 32.28,
-        "pe_25": 36.26,
-        "pe_50": 40.46,
-        "pe_75": 45.96,
-        "pe_90": 71.93
+        "pe_10": 32.29,
+        "pe_25": 36.27,
+        "pe_50": 40.47,
+        "pe_75": 46.03,
+        "pe_90": 71.89
       },
       {
         "date": "2025-03-16",
         "price": 39.45,
         "pe": 10.72,
-        "pe_10": 32.39,
-        "pe_25": 36.38,
-        "pe_50": 40.59,
-        "pe_75": 46.11,
-        "pe_90": 72.17
+        "pe_10": 32.4,
+        "pe_25": 36.39,
+        "pe_50": 40.61,
+        "pe_75": 46.18,
+        "pe_90": 72.13
       },
       {
         "date": "2025-04-15",
         "price": 39.3,
         "pe": 10.64,
         "pe_10": 32.51,
-        "pe_25": 36.51,
-        "pe_50": 40.74,
-        "pe_75": 46.28,
-        "pe_90": 72.43
+        "pe_25": 36.52,
+        "pe_50": 40.76,
+        "pe_75": 46.35,
+        "pe_90": 72.39
       },
       {
         "date": "2025-05-16",
         "price": 40.85,
         "pe": 11.02,
         "pe_10": 32.63,
-        "pe_25": 36.64,
-        "pe_50": 40.89,
-        "pe_75": 46.45,
-        "pe_90": 72.69
+        "pe_25": 36.65,
+        "pe_50": 40.91,
+        "pe_75": 46.52,
+        "pe_90": 72.66
       },
       {
         "date": "2025-06-15",
         "price": 43.7,
         "pe": 11.75,
         "pe_10": 32.74,
-        "pe_25": 36.76,
-        "pe_50": 41.02,
-        "pe_75": 46.6,
-        "pe_90": 72.93
+        "pe_25": 36.77,
+        "pe_50": 41.04,
+        "pe_75": 46.68,
+        "pe_90": 72.9
       },
       {
         "date": "2025-07-16",
         "price": 41.25,
         "pe": 11.05,
         "pe_10": 32.86,
-        "pe_25": 36.9,
-        "pe_50": 41.18,
-        "pe_75": 46.77,
-        "pe_90": 73.2
+        "pe_25": 36.91,
+        "pe_50": 41.19,
+        "pe_75": 46.85,
+        "pe_90": 73.17
       },
       {
         "date": "2025-08-16",
         "price": 41.15,
         "pe": 10.98,
         "pe_10": 32.99,
-        "pe_25": 37.05,
-        "pe_50": 41.34,
-        "pe_75": 46.96,
-        "pe_90": 73.49
+        "pe_25": 37.06,
+        "pe_50": 41.36,
+        "pe_75": 47.03,
+        "pe_90": 73.46
       },
       {
         "date": "2025-09-15",
         "price": 42.9,
         "pe": 11.41,
-        "pe_10": 33.09,
-        "pe_25": 37.17,
-        "pe_50": 41.47,
-        "pe_75": 47.11,
-        "pe_90": 73.73
+        "pe_10": 33.1,
+        "pe_25": 37.18,
+        "pe_50": 41.49,
+        "pe_75": 47.19,
+        "pe_90": 73.69
       },
       {
         "date": "2025-10-16",
         "price": 41.85,
         "pe": 11.09,
         "pe_10": 33.22,
-        "pe_25": 37.3,
-        "pe_50": 41.62,
-        "pe_75": 47.28,
-        "pe_90": 74.0
+        "pe_25": 37.31,
+        "pe_50": 41.64,
+        "pe_75": 47.36,
+        "pe_90": 73.96
       },
       {
         "date": "2025-11-15",
         "price": 43.45,
         "pe": 11.47,
-        "pe_10": 33.34,
-        "pe_25": 37.45,
-        "pe_50": 41.78,
-        "pe_75": 47.47,
-        "pe_90": 74.29
+        "pe_10": 33.35,
+        "pe_25": 37.46,
+        "pe_50": 41.8,
+        "pe_75": 47.54,
+        "pe_90": 74.25
       },
       {
         "date": "2025-12-16",
         "price": 50.2,
         "pe": 13.21,
         "pe_10": 33.45,
-        "pe_25": 37.56,
-        "pe_50": 41.92,
-        "pe_75": 47.62,
-        "pe_90": 74.52
+        "pe_25": 37.57,
+        "pe_50": 41.93,
+        "pe_75": 47.69,
+        "pe_90": 74.48
+      },
+      {
+        "date": "2026-01-16",
+        "price": 50.9,
+        "pe": 13.39,
+        "pe_10": 33.46,
+        "pe_25": 37.59,
+        "pe_50": 41.95,
+        "pe_75": 47.71,
+        "pe_90": 74.51
       }
     ]
   },
@@ -20708,16 +19278,16 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 22.1 | +27.2% | 0.002 | 2009-02 (+1598.0%) | 2008-07 (-96.7%) |
-| 6個月 | 22.2 | +15.3% | 0.004 | 2008-10 (+309.6%) | 2008-04 (-90.7%) |
-| 1年 | 22.5 | +9.4% | 0.000 | 2008-10 (+113.9%) | 2007-10 (-59.1%) |
-| 2年 | 23.2 | +7.0% | 0.016 | 2009-01 (+53.0%) | 2006-10 (-36.8%) |
-| 3年 | 24.0 | +5.8% | 0.038 | 2022-12 (+35.8%) | 2006-02 (-25.4%) |
-| 4年 | 24.9 | +5.7% | 0.010 | 2021-01 (+23.5%) | 2008-05 (-12.2%) |
-| 5年 | 26.0 | +5.6% | 0.031 | 2020-12 (+23.9%) | 2008-04 (-8.8%) |
-| 6年 | 27.4 | +5.1% | 0.036 | 2019-12 (+17.4%) | 2008-04 (-6.8%) |
-| 8年 | 30.5 | +4.9% | 0.016 | 2017-12 (+14.5%) | 2008-04 (-5.3%) |
-| 10年 | 35.0 | +4.5% | 0.045 | 2015-12 (+14.0%) | 2006-02 (-2.7%) |
+| 3個月 | 22.0 | +27.6% | 0.002 | 2009-02 (+1598.0%) | 2008-07 (-96.7%) |
+| 6個月 | 22.2 | +15.5% | 0.004 | 2008-10 (+309.6%) | 2008-04 (-90.7%) |
+| 1年 | 22.5 | +9.5% | 0.000 | 2008-10 (+113.9%) | 2007-10 (-59.1%) |
+| 2年 | 23.2 | +7.2% | 0.016 | 2009-01 (+53.0%) | 2006-10 (-36.8%) |
+| 3年 | 24.0 | +6.1% | 0.036 | 2022-12 (+35.8%) | 2006-02 (-25.4%) |
+| 4年 | 24.8 | +5.9% | 0.010 | 2021-01 (+23.5%) | 2008-05 (-12.2%) |
+| 5年 | 25.9 | +5.7% | 0.031 | 2021-01 (+25.1%) | 2008-04 (-8.8%) |
+| 6年 | 27.2 | +5.2% | 0.036 | 2020-01 (+17.9%) | 2008-04 (-6.8%) |
+| 8年 | 30.3 | +5.0% | 0.016 | 2017-12 (+14.5%) | 2008-04 (-5.3%) |
+| 10年 | 34.8 | +4.6% | 0.044 | 2016-01 (+14.7%) | 2006-02 (-2.7%) |
 
 
 ## 🎯 使用說明
@@ -20736,4 +19306,4 @@ description: "2891 中信金 (金融保險業) 本益比與未來報酬率關係
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-01-25 20:37:35 CST*
+*數據更新時間: 2026-02-07 12:40:28 CST*
