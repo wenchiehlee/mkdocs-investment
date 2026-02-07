@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-07
+date: 2026-02-08
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 宏碁智新 (7794) - 自動產生
     **:building_construction: 公司名稱**: 宏碁智新  
     **:identification_card: 股票代號**: 7794  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-02-07 21:32:19 CST
+    **:clock3: 更新時間**: 2026-02-08 01:10:03 CST
 
 ## :bar_chart: 績效概覽
 
@@ -190,7 +190,7 @@ description: 月營收表 宏碁智新 (7794) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-07 21:32:19 CST
+- **產生時間**: 2026-02-08 01:10:03 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
