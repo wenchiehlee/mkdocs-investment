@@ -24,14 +24,14 @@ description: 月營收表 神腦 (2450) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 神腦  
     **:identification_card: 股票代號**: 2450  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-08 01:10:03 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-08 05:00:47 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+17.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.53</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #FF4500; font-weight: bold;">+31.5</span> | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 神腦 (2450) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 2,948<br/><span style="color: #B22222;">(+17.10%)</span> | 2,518<br/><span style="color: #8B0000;">(+7.62%)</span> | 2,339<br/><span style="color: #004225;">(-16.30%)</span> | 2,796<br/><span style="color: #002818;">(-2.04%)</span> | 2,854<br/><span style="color: #B22222;">(+13.80%)</span> |
-| **11月** | 3,679<br/><span style="color: #B22222;">(+19.80%)</span> | 3,070<br/><span style="color: #8B0000;">(+4.08%)</span> | 2,950<br/><span style="color: #8B0000;">(+4.31%)</span> | 2,828<br/><span style="color: #002818;">(-5.38%)</span> | 2,989<br/><span style="color: #8B0000;">(+7.26%)</span> |
-| **10月** | 3,704<br/><span style="color: #B22222;">(+10.50%)</span> | 3,354<br/><span style="color: #8B0000;">(+9.28%)</span> | 3,069<br/><span style="color: #8B0000;">(+6.96%)</span> | 2,869<br/><span style="color: #006400;">(-21.80%)</span> | 3,668<br/><span style="color: #FF7F7F;">(+59.30%)</span> |
-| **9月** | 3,059<br/><span style="color: #B22222;">(+10.80%)</span> | 2,762<br/><span style="color: #002818;">(-1.69%)</span> | 2,809<br/><span style="color: #8B0000;">(+3.35%)</span> | 2,718<br/><span style="color: #8B0000;">(+3.86%)</span> | 2,617<br/><span style="color: #B22222;">(+16.10%)</span> |
-| **8月** | 2,478<br/><span style="color: #002818;">(-6.12%)</span> | 2,640<br/><span style="color: #8B0000;">(+6.99%)</span> | 2,467<br/><span style="color: #002818;">(-1.79%)</span> | 2,512<br/><span style="color: #8B0000;">(+5.36%)</span> | 2,384<br/><span style="color: #8B0000;">(+2.40%)</span> |
-| **7月** | 2,385<br/><span style="color: #002818;">(-1.12%)</span> | 2,412<br/><span style="color: #8B0000;">(+2.01%)</span> | 2,364<br/><span style="color: #002818;">(-1.22%)</span> | 2,394<br/><span style="color: #8B0000;">(+1.12%)</span> | 2,367<br/><span style="color: #8B0000;">(+9.12%)</span> |
-| **6月** | 2,476<br/><span style="color: #8B0000;">(+4.77%)</span> | 2,363<br/><span style="color: #002818;">(-0.59%)</span> | 2,377<br/><span style="color: #8B0000;">(+5.25%)</span> | 2,258<br/><span style="color: #8B0000;">(+3.55%)</span> | 2,181<br/><span style="color: #8B0000;">(+8.17%)</span> |
-| **5月** | 2,436<br/><span style="color: #002818;">(-3.67%)</span> | 2,529<br/><span style="color: #8B0000;">(+3.06%)</span> | 2,453<br/><span style="color: #8B0000;">(+7.07%)</span> | 2,291<br/><span style="color: #8B0000;">(+2.76%)</span> | 2,230<br/><span style="color: #8B0000;">(+6.01%)</span> |
-| **4月** | 2,386<br/><span style="color: #002818;">(-5.50%)</span> | 2,526<br/><span style="color: #B22222;">(+13.30%)</span> | 2,228<br/><span style="color: #002818;">(-8.00%)</span> | 2,422<br/><span style="color: #8B0000;">(+9.83%)</span> | 2,205<br/><span style="color: #DC143C;">(+21.70%)</span> |
-| **3月** | 2,503<br/><span style="color: #004225;">(-13.40%)</span> | 2,891<br/><span style="color: #8B0000;">(+3.55%)</span> | 2,792<br/><span style="color: #002818;">(-3.66%)</span> | 2,898<br/><span style="color: #DC143C;">(+22.00%)</span> | 2,377<br/><span style="color: #B22222;">(+17.60%)</span> |
-| **2月** | 2,735<br/><span style="color: #8B0000;">(+1.13%)</span> | 2,704<br/><span style="color: #8B0000;">(+0.03%)</span> | 2,703<br/><span style="color: #DC143C;">(+20.80%)</span> | 2,238<br/><span style="color: #002818;">(-8.79%)</span> | 2,454<br/><span style="color: #8B0000;">(+7.38%)</span> |
-| **1月** | 2,334<br/><span style="color: #002818;">(-8.07%)</span> | 2,539<br/><span style="color: #002818;">(-6.50%)</span> | 2,716<br/><span style="color: #002818;">(-7.42%)</span> | 2,934<br/><span style="color: #8B0000;">(+8.12%)</span> | 2,713<br/><span style="color: #B22222;">(+12.00%)</span> |
+| **12月** | -- | 2,948<br/><span style="color: #B22222;">(+17.10%)</span> | 2,518<br/><span style="color: #8B0000;">(+7.62%)</span> | 2,339<br/><span style="color: #004225;">(-16.30%)</span> | 2,796<br/><span style="color: #002818;">(-2.04%)</span> |
+| **11月** | -- | 3,679<br/><span style="color: #B22222;">(+19.80%)</span> | 3,070<br/><span style="color: #8B0000;">(+4.08%)</span> | 2,950<br/><span style="color: #8B0000;">(+4.31%)</span> | 2,828<br/><span style="color: #002818;">(-5.38%)</span> |
+| **10月** | -- | 3,704<br/><span style="color: #B22222;">(+10.50%)</span> | 3,354<br/><span style="color: #8B0000;">(+9.28%)</span> | 3,069<br/><span style="color: #8B0000;">(+6.96%)</span> | 2,869<br/><span style="color: #006400;">(-21.80%)</span> |
+| **9月** | -- | 3,059<br/><span style="color: #B22222;">(+10.80%)</span> | 2,762<br/><span style="color: #002818;">(-1.69%)</span> | 2,809<br/><span style="color: #8B0000;">(+3.35%)</span> | 2,718<br/><span style="color: #8B0000;">(+3.86%)</span> |
+| **8月** | -- | 2,478<br/><span style="color: #002818;">(-6.12%)</span> | 2,640<br/><span style="color: #8B0000;">(+6.99%)</span> | 2,467<br/><span style="color: #002818;">(-1.79%)</span> | 2,512<br/><span style="color: #8B0000;">(+5.36%)</span> |
+| **7月** | -- | 2,385<br/><span style="color: #002818;">(-1.12%)</span> | 2,412<br/><span style="color: #8B0000;">(+2.01%)</span> | 2,364<br/><span style="color: #002818;">(-1.22%)</span> | 2,394<br/><span style="color: #8B0000;">(+1.12%)</span> |
+| **6月** | -- | 2,476<br/><span style="color: #8B0000;">(+4.77%)</span> | 2,363<br/><span style="color: #002818;">(-0.59%)</span> | 2,377<br/><span style="color: #8B0000;">(+5.25%)</span> | 2,258<br/><span style="color: #8B0000;">(+3.55%)</span> |
+| **5月** | -- | 2,436<br/><span style="color: #002818;">(-3.67%)</span> | 2,529<br/><span style="color: #8B0000;">(+3.06%)</span> | 2,453<br/><span style="color: #8B0000;">(+7.07%)</span> | 2,291<br/><span style="color: #8B0000;">(+2.76%)</span> |
+| **4月** | -- | 2,386<br/><span style="color: #002818;">(-5.50%)</span> | 2,526<br/><span style="color: #B22222;">(+13.30%)</span> | 2,228<br/><span style="color: #002818;">(-8.00%)</span> | 2,422<br/><span style="color: #8B0000;">(+9.83%)</span> |
+| **3月** | -- | 2,503<br/><span style="color: #004225;">(-13.40%)</span> | 2,891<br/><span style="color: #8B0000;">(+3.55%)</span> | 2,792<br/><span style="color: #002818;">(-3.66%)</span> | 2,898<br/><span style="color: #DC143C;">(+22.00%)</span> |
+| **2月** | -- | 2,735<br/><span style="color: #8B0000;">(+1.13%)</span> | 2,704<br/><span style="color: #8B0000;">(+0.03%)</span> | 2,703<br/><span style="color: #DC143C;">(+20.80%)</span> | 2,238<br/><span style="color: #002818;">(-8.79%)</span> |
+| **1月** | 3,069<br/><span style="color: #FF4500;">(+31.50%)</span> | 2,334<br/><span style="color: #002818;">(-8.07%)</span> | 2,539<br/><span style="color: #002818;">(-6.50%)</span> | 2,716<br/><span style="color: #002818;">(-7.42%)</span> | 2,934<br/><span style="color: #8B0000;">(+8.12%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 神腦 (2450) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **30.69** | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | **28.95** | <span style="color: #006400; font-weight: bold;">1.6</span> | <span style="color: #B22222; font-weight: bold;">18.09</span> |
 | **2025/12** | **29.48** | <span style="color: #B22222; font-weight: bold;">+17.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.53</span> | **28.95** | <span style="color: #006400; font-weight: bold;">1.6</span> | <span style="color: #B22222; font-weight: bold;">18.09</span> |
 | **2025/11** | **36.8** | <span style="color: #B22222; font-weight: bold;">+19.8</span> | <span style="color: #8B0000; font-weight: bold;">+1.3</span> | **29** | <span style="color: #006400; font-weight: bold;">1.62</span> | <span style="color: #8B0000; font-weight: bold;">17.89</span> |
 | **2025/10** | **37.05** | <span style="color: #B22222; font-weight: bold;">+10.5</span> | <span style="color: #002818; font-weight: bold;">-0.83</span> | **29.05** | <span style="color: #006400; font-weight: bold;">1.64</span> | <span style="color: #8B0000; font-weight: bold;">17.7</span> |
@@ -413,7 +414,7 @@ description: 月營收表 神腦 (2450) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-08 01:10:03 CST
+- **產生時間**: 2026-02-08 05:00:47 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

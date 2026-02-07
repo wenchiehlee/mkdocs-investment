@@ -24,14 +24,14 @@ description: 月營收表 英業達 (2356) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 英業達  
     **:identification_card: 股票代號**: 2356  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-08 01:10:03 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-08 05:00:47 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #004225; font-weight: bold;">-11</span> | <span style="color: #8B0000; font-weight: bold;">+6.94</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #FF4500; font-weight: bold;">+34.8</span> | <span style="color: #FF4500; font-weight: bold;">+34.8</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 英業達 (2356) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 64,350<br/><span style="color: #004225;">(-11.00%)</span> | 72,260<br/><span style="color: #FF7F7F;">(+66.00%)</span> | 43,530<br/><span style="color: #8B0000;">(+7.94%)</span> | 40,320<br/><span style="color: #006400;">(-22.70%)</span> | 52,160<br/><span style="color: #DC143C;">(+20.70%)</span> |
-| **11月** | 52,160<br/><span style="color: #004225;">(-14.30%)</span> | 60,860<br/><span style="color: #FF4500;">(+37.90%)</span> | 44,140<br/><span style="color: #000000;">(+0.00%)</span> | 44,140<br/><span style="color: #002818;">(-8.02%)</span> | 47,990<br/><span style="color: #B22222;">(+19.50%)</span> |
-| **10月** | 54,770<br/><span style="color: #004225;">(-15.30%)</span> | 64,690<br/><span style="color: #FF7F7F;">(+60.10%)</span> | 40,400<br/><span style="color: #004225;">(-19.70%)</span> | 50,290<br/><span style="color: #8B0000;">(+5.10%)</span> | 47,850<br/><span style="color: #B22222;">(+13.60%)</span> |
-| **9月** | 60,560<br/><span style="color: #8B0000;">(+7.65%)</span> | 56,250<br/><span style="color: #B22222;">(+18.40%)</span> | 47,530<br/><span style="color: #002818;">(-6.74%)</span> | 50,970<br/><span style="color: #8B0000;">(+0.17%)</span> | 50,880<br/><span style="color: #002818;">(-2.05%)</span> |
-| **8月** | 61,300<br/><span style="color: #B22222;">(+17.80%)</span> | 52,029<br/><span style="color: #B22222;">(+11.90%)</span> | 46,480<br/><span style="color: #8B0000;">(+4.74%)</span> | 44,380<br/><span style="color: #002818;">(-8.85%)</span> | 48,690<br/><span style="color: #8B0000;">(+8.83%)</span> |
-| **7月** | 54,420<br/><span style="color: #002818;">(-2.00%)</span> | 55,529<br/><span style="color: #FF4500;">(+32.80%)</span> | 41,830<br/><span style="color: #004225;">(-11.20%)</span> | 47,110<br/><span style="color: #8B0000;">(+3.51%)</span> | 45,510<br/><span style="color: #002818;">(-6.54%)</span> |
-| **6月** | 63,270<br/><span style="color: #DC143C;">(+24.20%)</span> | 50,930<br/><span style="color: #8B0000;">(+6.72%)</span> | 47,720<br/><span style="color: #002818;">(-8.36%)</span> | 52,079<br/><span style="color: #DC143C;">(+26.20%)</span> | 41,270<br/><span style="color: #006400;">(-22.70%)</span> |
-| **5月** | 61,200<br/><span style="color: #B22222;">(+17.30%)</span> | 52,179<br/><span style="color: #B22222;">(+13.30%)</span> | 46,060<br/><span style="color: #B22222;">(+16.60%)</span> | 39,510<br/><span style="color: #B22222;">(+11.80%)</span> | 35,340<br/><span style="color: #006400;">(-23.30%)</span> |
-| **4月** | 62,100<br/><span style="color: #DC143C;">(+21.60%)</span> | 51,050<br/><span style="color: #FF4500;">(+38.40%)</span> | 36,870<br/><span style="color: #004225;">(-16.50%)</span> | 44,160<br/><span style="color: #B22222;">(+15.60%)</span> | 38,190<br/><span style="color: #006400;">(-22.50%)</span> |
-| **3月** | 59,520<br/><span style="color: #B22222;">(+19.70%)</span> | 49,730<br/><span style="color: #8B0000;">(+5.57%)</span> | 47,100<br/><span style="color: #004225;">(-12.10%)</span> | 53,570<br/><span style="color: #FF4500;">(+30.60%)</span> | 41,000<br/><span style="color: #002818;">(-2.14%)</span> |
-| **2月** | 51,670<br/><span style="color: #FF6347;">(+41.00%)</span> | 36,650<br/><span style="color: #8B0000;">(+2.26%)</span> | 35,840<br/><span style="color: #8B0000;">(+0.70%)</span> | 35,590<br/><span style="color: #B22222;">(+13.10%)</span> | 31,470<br/><span style="color: #FF7F7F;">(+80.80%)</span> |
-| **1月** | 45,840<br/><span style="color: #8B0000;">(+3.88%)</span> | 44,130<br/><span style="color: #B22222;">(+18.50%)</span> | 37,240<br/><span style="color: #002818;">(-6.04%)</span> | 39,640<br/><span style="color: #8B0000;">(+0.65%)</span> | 39,380<br/><span style="color: #FF4500;">(+34.00%)</span> |
+| **12月** | -- | 64,350<br/><span style="color: #004225;">(-11.00%)</span> | 72,260<br/><span style="color: #FF7F7F;">(+66.00%)</span> | 43,530<br/><span style="color: #8B0000;">(+7.94%)</span> | 40,320<br/><span style="color: #006400;">(-22.70%)</span> |
+| **11月** | -- | 52,160<br/><span style="color: #004225;">(-14.30%)</span> | 60,860<br/><span style="color: #FF4500;">(+37.90%)</span> | 44,140<br/><span style="color: #000000;">(+0.00%)</span> | 44,140<br/><span style="color: #002818;">(-8.02%)</span> |
+| **10月** | -- | 54,770<br/><span style="color: #004225;">(-15.30%)</span> | 64,690<br/><span style="color: #FF7F7F;">(+60.10%)</span> | 40,400<br/><span style="color: #004225;">(-19.70%)</span> | 50,290<br/><span style="color: #8B0000;">(+5.10%)</span> |
+| **9月** | -- | 60,560<br/><span style="color: #8B0000;">(+7.65%)</span> | 56,250<br/><span style="color: #B22222;">(+18.40%)</span> | 47,530<br/><span style="color: #002818;">(-6.74%)</span> | 50,970<br/><span style="color: #8B0000;">(+0.17%)</span> |
+| **8月** | -- | 61,300<br/><span style="color: #B22222;">(+17.80%)</span> | 52,029<br/><span style="color: #B22222;">(+11.90%)</span> | 46,480<br/><span style="color: #8B0000;">(+4.74%)</span> | 44,380<br/><span style="color: #002818;">(-8.85%)</span> |
+| **7月** | -- | 54,420<br/><span style="color: #002818;">(-2.00%)</span> | 55,529<br/><span style="color: #FF4500;">(+32.80%)</span> | 41,830<br/><span style="color: #004225;">(-11.20%)</span> | 47,110<br/><span style="color: #8B0000;">(+3.51%)</span> |
+| **6月** | -- | 63,270<br/><span style="color: #DC143C;">(+24.20%)</span> | 50,930<br/><span style="color: #8B0000;">(+6.72%)</span> | 47,720<br/><span style="color: #002818;">(-8.36%)</span> | 52,079<br/><span style="color: #DC143C;">(+26.20%)</span> |
+| **5月** | -- | 61,200<br/><span style="color: #B22222;">(+17.30%)</span> | 52,179<br/><span style="color: #B22222;">(+13.30%)</span> | 46,060<br/><span style="color: #B22222;">(+16.60%)</span> | 39,510<br/><span style="color: #B22222;">(+11.80%)</span> |
+| **4月** | -- | 62,100<br/><span style="color: #DC143C;">(+21.60%)</span> | 51,050<br/><span style="color: #FF4500;">(+38.40%)</span> | 36,870<br/><span style="color: #004225;">(-16.50%)</span> | 44,160<br/><span style="color: #B22222;">(+15.60%)</span> |
+| **3月** | -- | 59,520<br/><span style="color: #B22222;">(+19.70%)</span> | 49,730<br/><span style="color: #8B0000;">(+5.57%)</span> | 47,100<br/><span style="color: #004225;">(-12.10%)</span> | 53,570<br/><span style="color: #FF4500;">(+30.60%)</span> |
+| **2月** | -- | 51,670<br/><span style="color: #FF6347;">(+41.00%)</span> | 36,650<br/><span style="color: #8B0000;">(+2.26%)</span> | 35,840<br/><span style="color: #8B0000;">(+0.70%)</span> | 35,590<br/><span style="color: #B22222;">(+13.10%)</span> |
+| **1月** | 61,810<br/><span style="color: #FF4500;">(+34.80%)</span> | 45,840<br/><span style="color: #8B0000;">(+3.88%)</span> | 44,130<br/><span style="color: #B22222;">(+18.50%)</span> | 37,240<br/><span style="color: #002818;">(-6.04%)</span> | 39,640<br/><span style="color: #8B0000;">(+0.65%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **618.1** | <span style="color: #FF4500; font-weight: bold;">+34.8</span> | <span style="color: #FF4500; font-weight: bold;">+34.8</span> | **45** | <span style="color: #FF4500; font-weight: bold;">2.51</span> | <span style="color: #B22222; font-weight: bold;">17.93</span> |
 | **2025/12** | **643.5** | <span style="color: #004225; font-weight: bold;">-11</span> | <span style="color: #8B0000; font-weight: bold;">+6.94</span> | **42.9** | <span style="color: #FF4500; font-weight: bold;">2.51</span> | <span style="color: #8B0000; font-weight: bold;">17.09</span> |
 | **2025/11** | **521.6** | <span style="color: #004225; font-weight: bold;">-14.3</span> | <span style="color: #8B0000; font-weight: bold;">+9.19</span> | **43.6** | <span style="color: #FF4500; font-weight: bold;">2.47</span> | <span style="color: #B22222; font-weight: bold;">17.65</span> |
 | **2025/10** | **547.7** | <span style="color: #004225; font-weight: bold;">-15.3</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **45.9** | <span style="color: #FF4500; font-weight: bold;">2.43</span> | <span style="color: #B22222; font-weight: bold;">18.89</span> |
@@ -413,7 +414,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-08 01:10:03 CST
+- **產生時間**: 2026-02-08 05:00:47 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

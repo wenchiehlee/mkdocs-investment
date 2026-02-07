@@ -24,14 +24,14 @@ description: 月營收表 矽創 (8016) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 矽創  
     **:identification_card: 股票代號**: 8016  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-08 01:10:03 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-08 05:00:47 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #8B0000; font-weight: bold;">+6.59</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #DC143C; font-weight: bold;">+26.9</span> | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 矽創 (8016) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 1,886<br/><span style="color: #DC143C;">(+20.40%)</span> | 1,567<br/><span style="color: #8B0000;">(+6.48%)</span> | 1,472<br/><span style="color: #DC143C;">(+27.10%)</span> | 1,158<br/><span style="color: #32CD32;">(-40.60%)</span> | 1,951<br/><span style="color: #FF4500;">(+32.60%)</span> |
-| **11月** | 1,801<br/><span style="color: #B22222;">(+18.30%)</span> | 1,522<br/><span style="color: #8B0000;">(+0.29%)</span> | 1,518<br/><span style="color: #B22222;">(+19.40%)</span> | 1,271<br/><span style="color: #228B22;">(-36.70%)</span> | 2,009<br/><span style="color: #FF7F7F;">(+50.00%)</span> |
-| **10月** | 1,620<br/><span style="color: #8B0000;">(+6.05%)</span> | 1,528<br/><span style="color: #8B0000;">(+0.37%)</span> | 1,522<br/><span style="color: #8B0000;">(+8.53%)</span> | 1,402<br/><span style="color: #228B22;">(-34.20%)</span> | 2,132<br/><span style="color: #FF7F7F;">(+61.20%)</span> |
-| **9月** | 1,657<br/><span style="color: #8B0000;">(+4.29%)</span> | 1,589<br/><span style="color: #B22222;">(+11.00%)</span> | 1,432<br/><span style="color: #8B0000;">(+4.83%)</span> | 1,366<br/><span style="color: #228B22;">(-36.50%)</span> | 2,153<br/><span style="color: #FF7F7F;">(+66.20%)</span> |
-| **8月** | 1,543<br/><span style="color: #002818;">(-3.38%)</span> | 1,597<br/><span style="color: #B22222;">(+14.80%)</span> | 1,391<br/><span style="color: #8B0000;">(+2.40%)</span> | 1,358<br/><span style="color: #228B22;">(-38.40%)</span> | 2,207<br/><span style="color: #FF7F7F;">(+65.40%)</span> |
-| **7月** | 1,514<br/><span style="color: #8B0000;">(+1.09%)</span> | 1,497<br/><span style="color: #8B0000;">(+8.61%)</span> | 1,379<br/><span style="color: #8B0000;">(+2.78%)</span> | 1,341<br/><span style="color: #228B22;">(-39.80%)</span> | 2,226<br/><span style="color: #FF7F7F;">(+76.90%)</span> |
-| **6月** | 1,577<br/><span style="color: #B22222;">(+15.10%)</span> | 1,370<br/><span style="color: #8B0000;">(+2.26%)</span> | 1,340<br/><span style="color: #B22222;">(+12.00%)</span> | 1,196<br/><span style="color: #228B22;">(-35.90%)</span> | 1,866<br/><span style="color: #FF7F7F;">(+101.60%)</span> |
-| **5月** | 1,535<br/><span style="color: #002818;">(-2.12%)</span> | 1,569<br/><span style="color: #8B0000;">(+2.03%)</span> | 1,537<br/><span style="color: #002818;">(-3.76%)</span> | 1,597<br/><span style="color: #004225;">(-16.00%)</span> | 1,903<br/><span style="color: #FF7F7F;">(+149.30%)</span> |
-| **4月** | 1,535<br/><span style="color: #8B0000;">(+6.74%)</span> | 1,438<br/><span style="color: #002818;">(-6.14%)</span> | 1,533<br/><span style="color: #004225;">(-12.10%)</span> | 1,744<br/><span style="color: #002818;">(-1.21%)</span> | 1,764<br/><span style="color: #FF7F7F;">(+84.70%)</span> |
-| **3月** | 1,685<br/><span style="color: #FF4500;">(+34.00%)</span> | 1,258<br/><span style="color: #004225;">(-16.10%)</span> | 1,500<br/><span style="color: #006400;">(-20.00%)</span> | 1,873<br/><span style="color: #DC143C;">(+20.50%)</span> | 1,555<br/><span style="color: #FF4500;">(+30.90%)</span> |
-| **2月** | 1,244<br/><span style="color: #002818;">(-1.20%)</span> | 1,259<br/><span style="color: #B22222;">(+19.10%)</span> | 1,058<br/><span style="color: #32CD32;">(-42.40%)</span> | 1,835<br/><span style="color: #FF7F7F;">(+71.60%)</span> | 1,069<br/><span style="color: #B22222;">(+19.10%)</span> |
-| **1月** | 1,403<br/><span style="color: #004225;">(-14.00%)</span> | 1,632<br/><span style="color: #FF7F7F;">(+56.40%)</span> | 1,043<br/><span style="color: #32CD32;">(-44.60%)</span> | 1,884<br/><span style="color: #FF4500;">(+32.80%)</span> | 1,419<br/><span style="color: #FF4500;">(+34.70%)</span> |
+| **12月** | -- | 1,886<br/><span style="color: #DC143C;">(+20.40%)</span> | 1,567<br/><span style="color: #8B0000;">(+6.48%)</span> | 1,472<br/><span style="color: #DC143C;">(+27.10%)</span> | 1,158<br/><span style="color: #32CD32;">(-40.60%)</span> |
+| **11月** | -- | 1,801<br/><span style="color: #B22222;">(+18.30%)</span> | 1,522<br/><span style="color: #8B0000;">(+0.29%)</span> | 1,518<br/><span style="color: #B22222;">(+19.40%)</span> | 1,271<br/><span style="color: #228B22;">(-36.70%)</span> |
+| **10月** | -- | 1,620<br/><span style="color: #8B0000;">(+6.05%)</span> | 1,528<br/><span style="color: #8B0000;">(+0.37%)</span> | 1,522<br/><span style="color: #8B0000;">(+8.53%)</span> | 1,402<br/><span style="color: #228B22;">(-34.20%)</span> |
+| **9月** | -- | 1,657<br/><span style="color: #8B0000;">(+4.29%)</span> | 1,589<br/><span style="color: #B22222;">(+11.00%)</span> | 1,432<br/><span style="color: #8B0000;">(+4.83%)</span> | 1,366<br/><span style="color: #228B22;">(-36.50%)</span> |
+| **8月** | -- | 1,543<br/><span style="color: #002818;">(-3.38%)</span> | 1,597<br/><span style="color: #B22222;">(+14.80%)</span> | 1,391<br/><span style="color: #8B0000;">(+2.40%)</span> | 1,358<br/><span style="color: #228B22;">(-38.40%)</span> |
+| **7月** | -- | 1,514<br/><span style="color: #8B0000;">(+1.09%)</span> | 1,497<br/><span style="color: #8B0000;">(+8.61%)</span> | 1,379<br/><span style="color: #8B0000;">(+2.78%)</span> | 1,341<br/><span style="color: #228B22;">(-39.80%)</span> |
+| **6月** | -- | 1,577<br/><span style="color: #B22222;">(+15.10%)</span> | 1,370<br/><span style="color: #8B0000;">(+2.26%)</span> | 1,340<br/><span style="color: #B22222;">(+12.00%)</span> | 1,196<br/><span style="color: #228B22;">(-35.90%)</span> |
+| **5月** | -- | 1,535<br/><span style="color: #002818;">(-2.12%)</span> | 1,569<br/><span style="color: #8B0000;">(+2.03%)</span> | 1,537<br/><span style="color: #002818;">(-3.76%)</span> | 1,597<br/><span style="color: #004225;">(-16.00%)</span> |
+| **4月** | -- | 1,535<br/><span style="color: #8B0000;">(+6.74%)</span> | 1,438<br/><span style="color: #002818;">(-6.14%)</span> | 1,533<br/><span style="color: #004225;">(-12.10%)</span> | 1,744<br/><span style="color: #002818;">(-1.21%)</span> |
+| **3月** | -- | 1,685<br/><span style="color: #FF4500;">(+34.00%)</span> | 1,258<br/><span style="color: #004225;">(-16.10%)</span> | 1,500<br/><span style="color: #006400;">(-20.00%)</span> | 1,873<br/><span style="color: #DC143C;">(+20.50%)</span> |
+| **2月** | -- | 1,244<br/><span style="color: #002818;">(-1.20%)</span> | 1,259<br/><span style="color: #B22222;">(+19.10%)</span> | 1,058<br/><span style="color: #32CD32;">(-42.40%)</span> | 1,835<br/><span style="color: #FF7F7F;">(+71.60%)</span> |
+| **1月** | 1,780<br/><span style="color: #DC143C;">(+26.90%)</span> | 1,403<br/><span style="color: #004225;">(-14.00%)</span> | 1,632<br/><span style="color: #FF7F7F;">(+56.40%)</span> | 1,043<br/><span style="color: #32CD32;">(-44.60%)</span> | 1,884<br/><span style="color: #FF4500;">(+32.80%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **17.8** | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | **195.5** | <span style="color: #8B0000; font-weight: bold;">13.83</span> | <span style="color: #8B0000; font-weight: bold;">14.14</span> |
 | **2025/12** | **18.86** | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #8B0000; font-weight: bold;">+6.59</span> | **179.5** | <span style="color: #8B0000; font-weight: bold;">13.83</span> | <span style="color: #8B0000; font-weight: bold;">12.98</span> |
 | **2025/11** | **18.01** | <span style="color: #B22222; font-weight: bold;">+18.3</span> | <span style="color: #8B0000; font-weight: bold;">+5.26</span> | **182.5** | <span style="color: #8B0000; font-weight: bold;">13.96</span> | <span style="color: #8B0000; font-weight: bold;">13.07</span> |
 | **2025/10** | **16.2** | <span style="color: #8B0000; font-weight: bold;">+6.05</span> | <span style="color: #8B0000; font-weight: bold;">+3.91</span> | **200.5** | <span style="color: #8B0000; font-weight: bold;">14.1</span> | <span style="color: #B22222; font-weight: bold;">14.22</span> |
@@ -413,7 +414,7 @@ description: 月營收表 矽創 (8016) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-08 01:10:03 CST
+- **產生時間**: 2026-02-08 05:00:47 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

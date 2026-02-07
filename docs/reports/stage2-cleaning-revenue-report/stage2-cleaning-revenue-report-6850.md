@@ -24,14 +24,14 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 光鼎生技  
     **:identification_card: 股票代號**: 6850  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-08 01:10:03 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-08 05:00:47 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+103.3</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **53** 個月 | 2021/08 至 2025/12 |
+| <span style="color: #002818; font-weight: bold;">-4.74</span> | <span style="color: #002818; font-weight: bold;">-4.74</span> | **54** 個月 | 2021/08 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 38<br/><span style="color: #FF7F7F;">(+103.30%)</span> | 19<br/><span style="color: #228B22;">(-30.60%)</span> | 27<br/><span style="color: #002818;">(-7.17%)</span> | 29<br/><span style="color: #8B0000;">(+9.62%)</span> | 26<br/><span style="color: #8B0000;">(+8.06%)</span> |
-| **11月** | 22<br/><span style="color: #004225;">(-13.30%)</span> | 25<br/><span style="color: #FF4500;">(+36.70%)</span> | 18<br/><span style="color: #228B22;">(-36.00%)</span> | 28<br/><span style="color: #B22222;">(+19.40%)</span> | 24<br/><span style="color: #8B0000;">(+5.73%)</span> |
-| **10月** | 22<br/><span style="color: #FF4500;">(+34.40%)</span> | 17<br/><span style="color: #006400;">(-29.90%)</span> | 24<br/><span style="color: #002818;">(-7.71%)</span> | 26<br/><span style="color: #B22222;">(+19.00%)</span> | 22<br/><span style="color: #FF7F7F;">(+116.70%)</span> |
-| **9月** | 12<br/><span style="color: #228B22;">(-32.70%)</span> | 18<br/><span style="color: #004225;">(-16.20%)</span> | 22<br/><span style="color: #FF4500;">(+32.20%)</span> | 16<br/><span style="color: #002818;">(-4.54%)</span> | 17<br/><span style="color: #FF6347;">(+47.30%)</span> |
-| **8月** | 20<br/><span style="color: #002818;">(-5.89%)</span> | 22<br/><span style="color: #DC143C;">(+26.80%)</span> | 17<br/><span style="color: #006400;">(-20.80%)</span> | 22<br/><span style="color: #FF7F7F;">(+58.00%)</span> | 14<br/><span style="color: #DC143C;">(+24.00%)</span> |
-| **7月** | 12<br/><span style="color: #32CD32;">(-47.50%)</span> | 23<br/><span style="color: #FF6347;">(+46.10%)</span> | 15<br/><span style="color: #004225;">(-19.90%)</span> | 19<br/><span style="color: #FF7F7F;">(+59.50%)</span> | -- |
-| **6月** | 16<br/><span style="color: #8B0000;">(+4.67%)</span> | 15<br/><span style="color: #006400;">(-24.00%)</span> | 20<br/><span style="color: #FF4500;">(+39.50%)</span> | 14<br/><span style="color: #B22222;">(+15.30%)</span> | -- |
-| **5月** | 14<br/><span style="color: #8B0000;">(+4.92%)</span> | 13<br/><span style="color: #228B22;">(-37.50%)</span> | 22<br/><span style="color: #004225;">(-13.20%)</span> | 25<br/><span style="color: #FF7F7F;">(+131.60%)</span> | -- |
-| **4月** | 25<br/><span style="color: #FF7F7F;">(+274.90%)</span> | 6<br/><span style="color: #90EE90;">(-66.80%)</span> | 20<br/><span style="color: #FF6347;">(+42.70%)</span> | 14<br/><span style="color: #DC143C;">(+28.80%)</span> | -- |
-| **3月** | 18<br/><span style="color: #B22222;">(+16.80%)</span> | 15<br/><span style="color: #006400;">(-24.40%)</span> | 20<br/><span style="color: #DC143C;">(+27.70%)</span> | 16<br/><span style="color: #002818;">(-3.49%)</span> | -- |
-| **2月** | 14<br/><span style="color: #FF6347;">(+41.90%)</span> | 10<br/><span style="color: #004225;">(-10.20%)</span> | 11<br/><span style="color: #B22222;">(+10.80%)</span> | 10<br/><span style="color: #FF7F7F;">(+122.40%)</span> | -- |
-| **1月** | 18<br/><span style="color: #B22222;">(+16.70%)</span> | 15<br/><span style="color: #FF7F7F;">(+95.80%)</span> | 8<br/><span style="color: #8B0000;">(+7.42%)</span> | 7<br/><span style="color: #DC143C;">(+20.90%)</span> | -- |
+| **12月** | -- | 38<br/><span style="color: #FF7F7F;">(+103.30%)</span> | 19<br/><span style="color: #228B22;">(-30.60%)</span> | 27<br/><span style="color: #002818;">(-7.17%)</span> | 29<br/><span style="color: #8B0000;">(+9.62%)</span> |
+| **11月** | -- | 22<br/><span style="color: #004225;">(-13.30%)</span> | 25<br/><span style="color: #FF4500;">(+36.70%)</span> | 18<br/><span style="color: #228B22;">(-36.00%)</span> | 28<br/><span style="color: #B22222;">(+19.40%)</span> |
+| **10月** | -- | 22<br/><span style="color: #FF4500;">(+34.40%)</span> | 17<br/><span style="color: #006400;">(-29.90%)</span> | 24<br/><span style="color: #002818;">(-7.71%)</span> | 26<br/><span style="color: #B22222;">(+19.00%)</span> |
+| **9月** | -- | 12<br/><span style="color: #228B22;">(-32.70%)</span> | 18<br/><span style="color: #004225;">(-16.20%)</span> | 22<br/><span style="color: #FF4500;">(+32.20%)</span> | 16<br/><span style="color: #002818;">(-4.54%)</span> |
+| **8月** | -- | 20<br/><span style="color: #002818;">(-5.89%)</span> | 22<br/><span style="color: #DC143C;">(+26.80%)</span> | 17<br/><span style="color: #006400;">(-20.80%)</span> | 22<br/><span style="color: #FF7F7F;">(+58.00%)</span> |
+| **7月** | -- | 12<br/><span style="color: #32CD32;">(-47.50%)</span> | 23<br/><span style="color: #FF6347;">(+46.10%)</span> | 15<br/><span style="color: #004225;">(-19.90%)</span> | 19<br/><span style="color: #FF7F7F;">(+59.50%)</span> |
+| **6月** | -- | 16<br/><span style="color: #8B0000;">(+4.67%)</span> | 15<br/><span style="color: #006400;">(-24.00%)</span> | 20<br/><span style="color: #FF4500;">(+39.50%)</span> | 14<br/><span style="color: #B22222;">(+15.30%)</span> |
+| **5月** | -- | 14<br/><span style="color: #8B0000;">(+4.92%)</span> | 13<br/><span style="color: #228B22;">(-37.50%)</span> | 22<br/><span style="color: #004225;">(-13.20%)</span> | 25<br/><span style="color: #FF7F7F;">(+131.60%)</span> |
+| **4月** | -- | 25<br/><span style="color: #FF7F7F;">(+274.90%)</span> | 6<br/><span style="color: #90EE90;">(-66.80%)</span> | 20<br/><span style="color: #FF6347;">(+42.70%)</span> | 14<br/><span style="color: #DC143C;">(+28.80%)</span> |
+| **3月** | -- | 18<br/><span style="color: #B22222;">(+16.80%)</span> | 15<br/><span style="color: #006400;">(-24.40%)</span> | 20<br/><span style="color: #DC143C;">(+27.70%)</span> | 16<br/><span style="color: #002818;">(-3.49%)</span> |
+| **2月** | -- | 14<br/><span style="color: #FF6347;">(+41.90%)</span> | 10<br/><span style="color: #004225;">(-10.20%)</span> | 11<br/><span style="color: #B22222;">(+10.80%)</span> | 10<br/><span style="color: #FF7F7F;">(+122.40%)</span> |
+| **1月** | 17<br/><span style="color: #002818;">(-4.74%)</span> | 18<br/><span style="color: #B22222;">(+16.70%)</span> | 15<br/><span style="color: #FF7F7F;">(+95.80%)</span> | 8<br/><span style="color: #8B0000;">(+7.42%)</span> | 7<br/><span style="color: #DC143C;">(+20.90%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **0.177** | <span style="color: #002818; font-weight: bold;">-4.74</span> | <span style="color: #002818; font-weight: bold;">-4.74</span> | **45.4** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #DC143C; font-weight: bold;">59.74</span> |
 | **2025/12** | **0.386** | <span style="color: #FF7F7F; font-weight: bold;">+103.3</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **39.8** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #B22222; font-weight: bold;">52.37</span> |
 | **2025/11** | **0.22** | <span style="color: #004225; font-weight: bold;">-13.3</span> | <span style="color: #8B0000; font-weight: bold;">+7.52</span> | **42.65** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #B22222; font-weight: bold;">56.12</span> |
 | **2025/10** | **0.229** | <span style="color: #FF4500; font-weight: bold;">+34.4</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **44** | <span style="color: #006400; font-weight: bold;">0.76</span> | <span style="color: #DC143C; font-weight: bold;">57.89</span> |
@@ -227,7 +228,7 @@ description: 月營收表 光鼎生技 (6850) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-08 01:10:03 CST
+- **產生時間**: 2026-02-08 05:00:47 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

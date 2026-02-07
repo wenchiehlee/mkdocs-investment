@@ -24,14 +24,14 @@ description: 月營收表 系微 (6231) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 系微  
     **:identification_card: 股票代號**: 6231  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-08 01:10:03 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-08 05:00:47 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+3.78</span> | <span style="color: #8B0000; font-weight: bold;">+4.64</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #002818; font-weight: bold;">-7.25</span> | <span style="color: #002818; font-weight: bold;">-7.25</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 系微 (6231) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 198<br/><span style="color: #8B0000;">(+3.78%)</span> | 191<br/><span style="color: #B22222;">(+17.60%)</span> | 162<br/><span style="color: #B22222;">(+11.80%)</span> | 145<br/><span style="color: #8B0000;">(+1.06%)</span> | 144<br/><span style="color: #FF7F7F;">(+55.50%)</span> |
-| **11月** | 147<br/><span style="color: #DC143C;">(+23.90%)</span> | 119<br/><span style="color: #B22222;">(+12.90%)</span> | 105<br/><span style="color: #8B0000;">(+8.40%)</span> | 97<br/><span style="color: #004225;">(-16.30%)</span> | 115<br/><span style="color: #FF4500;">(+33.90%)</span> |
-| **10月** | 107<br/><span style="color: #002818;">(-9.64%)</span> | 118<br/><span style="color: #B22222;">(+14.40%)</span> | 103<br/><span style="color: #002818;">(-2.88%)</span> | 106<br/><span style="color: #004225;">(-13.40%)</span> | 123<br/><span style="color: #FF6347;">(+47.20%)</span> |
-| **9月** | 187<br/><span style="color: #002818;">(-5.43%)</span> | 197<br/><span style="color: #DC143C;">(+28.00%)</span> | 154<br/><span style="color: #8B0000;">(+6.51%)</span> | 145<br/><span style="color: #B22222;">(+17.10%)</span> | 124<br/><span style="color: #002818;">(-4.09%)</span> |
-| **8月** | 132<br/><span style="color: #DC143C;">(+21.00%)</span> | 109<br/><span style="color: #8B0000;">(+5.22%)</span> | 103<br/><span style="color: #002818;">(-3.55%)</span> | 107<br/><span style="color: #002818;">(-3.33%)</span> | 111<br/><span style="color: #FF6347;">(+40.40%)</span> |
-| **7月** | 108<br/><span style="color: #8B0000;">(+0.92%)</span> | 107<br/><span style="color: #8B0000;">(+7.92%)</span> | 99<br/><span style="color: #002818;">(-5.22%)</span> | 105<br/><span style="color: #002818;">(-3.90%)</span> | 109<br/><span style="color: #B22222;">(+12.30%)</span> |
-| **6月** | 176<br/><span style="color: #002818;">(-4.25%)</span> | 184<br/><span style="color: #FF4500;">(+38.90%)</span> | 132<br/><span style="color: #002818;">(-5.05%)</span> | 139<br/><span style="color: #B22222;">(+17.50%)</span> | 119<br/><span style="color: #8B0000;">(+5.46%)</span> |
-| **5月** | 120<br/><span style="color: #B22222;">(+17.70%)</span> | 102<br/><span style="color: #B22222;">(+13.90%)</span> | 89<br/><span style="color: #004225;">(-11.60%)</span> | 101<br/><span style="color: #DC143C;">(+20.10%)</span> | 84<br/><span style="color: #004225;">(-11.80%)</span> |
-| **4月** | 108<br/><span style="color: #002818;">(-7.34%)</span> | 117<br/><span style="color: #DC143C;">(+27.00%)</span> | 92<br/><span style="color: #004225;">(-11.20%)</span> | 104<br/><span style="color: #8B0000;">(+0.36%)</span> | 103<br/><span style="color: #002818;">(-2.94%)</span> |
-| **3月** | 183<br/><span style="color: #B22222;">(+19.10%)</span> | 154<br/><span style="color: #FF4500;">(+30.00%)</span> | 118<br/><span style="color: #004225;">(-10.60%)</span> | 132<br/><span style="color: #DC143C;">(+25.00%)</span> | 106<br/><span style="color: #DC143C;">(+26.10%)</span> |
-| **2月** | 108<br/><span style="color: #B22222;">(+13.00%)</span> | 95<br/><span style="color: #8B0000;">(+6.58%)</span> | 89<br/><span style="color: #004225;">(-14.10%)</span> | 104<br/><span style="color: #FF7F7F;">(+50.60%)</span> | 69<br/><span style="color: #002818;">(-3.25%)</span> |
-| **1月** | 115<br/><span style="color: #002818;">(-4.61%)</span> | 122<br/><span style="color: #FF4500;">(+30.60%)</span> | 93<br/><span style="color: #006400;">(-22.60%)</span> | 121<br/><span style="color: #DC143C;">(+29.20%)</span> | 93<br/><span style="color: #8B0000;">(+0.14%)</span> |
+| **12月** | -- | 198<br/><span style="color: #8B0000;">(+3.78%)</span> | 191<br/><span style="color: #B22222;">(+17.60%)</span> | 162<br/><span style="color: #B22222;">(+11.80%)</span> | 145<br/><span style="color: #8B0000;">(+1.06%)</span> |
+| **11月** | -- | 147<br/><span style="color: #DC143C;">(+23.90%)</span> | 119<br/><span style="color: #B22222;">(+12.90%)</span> | 105<br/><span style="color: #8B0000;">(+8.40%)</span> | 97<br/><span style="color: #004225;">(-16.30%)</span> |
+| **10月** | -- | 107<br/><span style="color: #002818;">(-9.64%)</span> | 118<br/><span style="color: #B22222;">(+14.40%)</span> | 103<br/><span style="color: #002818;">(-2.88%)</span> | 106<br/><span style="color: #004225;">(-13.40%)</span> |
+| **9月** | -- | 187<br/><span style="color: #002818;">(-5.43%)</span> | 197<br/><span style="color: #DC143C;">(+28.00%)</span> | 154<br/><span style="color: #8B0000;">(+6.51%)</span> | 145<br/><span style="color: #B22222;">(+17.10%)</span> |
+| **8月** | -- | 132<br/><span style="color: #DC143C;">(+21.00%)</span> | 109<br/><span style="color: #8B0000;">(+5.22%)</span> | 103<br/><span style="color: #002818;">(-3.55%)</span> | 107<br/><span style="color: #002818;">(-3.33%)</span> |
+| **7月** | -- | 108<br/><span style="color: #8B0000;">(+0.92%)</span> | 107<br/><span style="color: #8B0000;">(+7.92%)</span> | 99<br/><span style="color: #002818;">(-5.22%)</span> | 105<br/><span style="color: #002818;">(-3.90%)</span> |
+| **6月** | -- | 176<br/><span style="color: #002818;">(-4.25%)</span> | 184<br/><span style="color: #FF4500;">(+38.90%)</span> | 132<br/><span style="color: #002818;">(-5.05%)</span> | 139<br/><span style="color: #B22222;">(+17.50%)</span> |
+| **5月** | -- | 120<br/><span style="color: #B22222;">(+17.70%)</span> | 102<br/><span style="color: #B22222;">(+13.90%)</span> | 89<br/><span style="color: #004225;">(-11.60%)</span> | 101<br/><span style="color: #DC143C;">(+20.10%)</span> |
+| **4月** | -- | 108<br/><span style="color: #002818;">(-7.34%)</span> | 117<br/><span style="color: #DC143C;">(+27.00%)</span> | 92<br/><span style="color: #004225;">(-11.20%)</span> | 104<br/><span style="color: #8B0000;">(+0.36%)</span> |
+| **3月** | -- | 183<br/><span style="color: #B22222;">(+19.10%)</span> | 154<br/><span style="color: #FF4500;">(+30.00%)</span> | 118<br/><span style="color: #004225;">(-10.60%)</span> | 132<br/><span style="color: #DC143C;">(+25.00%)</span> |
+| **2月** | -- | 108<br/><span style="color: #B22222;">(+13.00%)</span> | 95<br/><span style="color: #8B0000;">(+6.58%)</span> | 89<br/><span style="color: #004225;">(-14.10%)</span> | 104<br/><span style="color: #FF7F7F;">(+50.60%)</span> |
+| **1月** | 108<br/><span style="color: #002818;">(-7.25%)</span> | 115<br/><span style="color: #002818;">(-4.61%)</span> | 122<br/><span style="color: #FF4500;">(+30.60%)</span> | 93<br/><span style="color: #006400;">(-22.60%)</span> | 121<br/><span style="color: #DC143C;">(+29.20%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 系微 (6231) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **1.08** | <span style="color: #002818; font-weight: bold;">-7.25</span> | <span style="color: #002818; font-weight: bold;">-7.25</span> | **203.5** | <span style="color: #DC143C; font-weight: bold;">6.6</span> | <span style="color: #002818; font-weight: bold;">30.83</span> |
 | **2025/12** | **1.98** | <span style="color: #8B0000; font-weight: bold;">+3.78</span> | <span style="color: #8B0000; font-weight: bold;">+4.64</span> | **214** | <span style="color: #DC143C; font-weight: bold;">6.6</span> | <span style="color: #002818; font-weight: bold;">32.42</span> |
 | **2025/11** | **1.47** | <span style="color: #DC143C; font-weight: bold;">+23.9</span> | <span style="color: #8B0000; font-weight: bold;">+4.75</span> | **213** | <span style="color: #DC143C; font-weight: bold;">6.66</span> | <span style="color: #002818; font-weight: bold;">31.96</span> |
 | **2025/10** | **1.07** | <span style="color: #002818; font-weight: bold;">-9.64</span> | <span style="color: #8B0000; font-weight: bold;">+3.01</span> | **228** | <span style="color: #DC143C; font-weight: bold;">6.73</span> | <span style="color: #002818; font-weight: bold;">33.89</span> |
@@ -413,7 +414,7 @@ description: 月營收表 系微 (6231) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-08 01:10:03 CST
+- **產生時間**: 2026-02-08 05:00:47 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

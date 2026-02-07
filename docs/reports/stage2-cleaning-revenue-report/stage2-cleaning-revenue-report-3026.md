@@ -24,14 +24,14 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 禾伸堂  
     **:identification_card: 股票代號**: 3026  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-08 01:10:03 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-08 05:00:47 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #8B0000; font-weight: bold;">+4.9</span> | **237** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #DC143C; font-weight: bold;">+22.3</span> | <span style="color: #DC143C; font-weight: bold;">+22.3</span> | **238** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 1,136<br/><span style="color: #B22222;">(+11.30%)</span> | 1,019<br/><span style="color: #DC143C;">(+21.20%)</span> | 842<br/><span style="color: #004225;">(-11.50%)</span> | 951<br/><span style="color: #002818;">(-6.68%)</span> | 1,019<br/><span style="color: #004225;">(-17.50%)</span> |
-| **11月** | 1,108<br/><span style="color: #8B0000;">(+1.15%)</span> | 1,096<br/><span style="color: #8B0000;">(+4.11%)</span> | 1,052<br/><span style="color: #004225;">(-12.80%)</span> | 1,207<br/><span style="color: #002818;">(-9.97%)</span> | 1,341<br/><span style="color: #002818;">(-3.75%)</span> |
-| **10月** | 1,074<br/><span style="color: #002818;">(-0.58%)</span> | 1,080<br/><span style="color: #8B0000;">(+4.77%)</span> | 1,031<br/><span style="color: #002818;">(-9.18%)</span> | 1,135<br/><span style="color: #002818;">(-1.00%)</span> | 1,147<br/><span style="color: #002818;">(-7.54%)</span> |
-| **9月** | 1,242<br/><span style="color: #B22222;">(+12.00%)</span> | 1,108<br/><span style="color: #002818;">(-8.18%)</span> | 1,207<br/><span style="color: #002818;">(-5.32%)</span> | 1,275<br/><span style="color: #002818;">(-5.09%)</span> | 1,343<br/><span style="color: #004225;">(-14.40%)</span> |
-| **8月** | 1,081<br/><span style="color: #002818;">(-1.40%)</span> | 1,096<br/><span style="color: #002818;">(-1.86%)</span> | 1,117<br/><span style="color: #002818;">(-3.50%)</span> | 1,158<br/><span style="color: #004225;">(-19.70%)</span> | 1,442<br/><span style="color: #8B0000;">(+8.67%)</span> |
-| **7月** | 1,095<br/><span style="color: #002818;">(-9.26%)</span> | 1,207<br/><span style="color: #8B0000;">(+6.60%)</span> | 1,132<br/><span style="color: #002818;">(-5.16%)</span> | 1,194<br/><span style="color: #006400;">(-20.20%)</span> | 1,497<br/><span style="color: #B22222;">(+18.60%)</span> |
-| **6月** | 1,034<br/><span style="color: #002818;">(-1.37%)</span> | 1,048<br/><span style="color: #002818;">(-4.08%)</span> | 1,093<br/><span style="color: #004225;">(-16.40%)</span> | 1,306<br/><span style="color: #004225;">(-10.00%)</span> | 1,452<br/><span style="color: #DC143C;">(+28.20%)</span> |
-| **5月** | 1,064<br/><span style="color: #002818;">(-2.77%)</span> | 1,094<br/><span style="color: #002818;">(-5.15%)</span> | 1,154<br/><span style="color: #002818;">(-9.61%)</span> | 1,277<br/><span style="color: #004225;">(-17.00%)</span> | 1,539<br/><span style="color: #DC143C;">(+25.70%)</span> |
-| **4月** | 1,179<br/><span style="color: #8B0000;">(+7.45%)</span> | 1,097<br/><span style="color: #8B0000;">(+0.13%)</span> | 1,095<br/><span style="color: #004225;">(-12.60%)</span> | 1,253<br/><span style="color: #004225;">(-11.50%)</span> | 1,415<br/><span style="color: #B22222;">(+10.40%)</span> |
-| **3月** | 1,288<br/><span style="color: #DC143C;">(+24.00%)</span> | 1,039<br/><span style="color: #004225;">(-13.90%)</span> | 1,207<br/><span style="color: #004225;">(-18.10%)</span> | 1,473<br/><span style="color: #002818;">(-8.01%)</span> | 1,601<br/><span style="color: #DC143C;">(+27.00%)</span> |
-| **2月** | 1,043<br/><span style="color: #FF4500;">(+39.30%)</span> | 748<br/><span style="color: #32CD32;">(-41.70%)</span> | 1,284<br/><span style="color: #8B0000;">(+4.94%)</span> | 1,223<br/><span style="color: #B22222;">(+11.90%)</span> | 1,093<br/><span style="color: #FF4500;">(+32.60%)</span> |
-| **1月** | 1,071<br/><span style="color: #002818;">(-7.06%)</span> | 1,152<br/><span style="color: #B22222;">(+12.20%)</span> | 1,027<br/><span style="color: #228B22;">(-36.60%)</span> | 1,620<br/><span style="color: #002818;">(-5.48%)</span> | 1,714<br/><span style="color: #FF7F7F;">(+58.50%)</span> |
+| **12月** | -- | 1,136<br/><span style="color: #B22222;">(+11.30%)</span> | 1,019<br/><span style="color: #DC143C;">(+21.20%)</span> | 842<br/><span style="color: #004225;">(-11.50%)</span> | 951<br/><span style="color: #002818;">(-6.68%)</span> |
+| **11月** | -- | 1,108<br/><span style="color: #8B0000;">(+1.15%)</span> | 1,096<br/><span style="color: #8B0000;">(+4.11%)</span> | 1,052<br/><span style="color: #004225;">(-12.80%)</span> | 1,207<br/><span style="color: #002818;">(-9.97%)</span> |
+| **10月** | -- | 1,074<br/><span style="color: #002818;">(-0.58%)</span> | 1,080<br/><span style="color: #8B0000;">(+4.77%)</span> | 1,031<br/><span style="color: #002818;">(-9.18%)</span> | 1,135<br/><span style="color: #002818;">(-1.00%)</span> |
+| **9月** | -- | 1,242<br/><span style="color: #B22222;">(+12.00%)</span> | 1,108<br/><span style="color: #002818;">(-8.18%)</span> | 1,207<br/><span style="color: #002818;">(-5.32%)</span> | 1,275<br/><span style="color: #002818;">(-5.09%)</span> |
+| **8月** | -- | 1,081<br/><span style="color: #002818;">(-1.40%)</span> | 1,096<br/><span style="color: #002818;">(-1.86%)</span> | 1,117<br/><span style="color: #002818;">(-3.50%)</span> | 1,158<br/><span style="color: #004225;">(-19.70%)</span> |
+| **7月** | -- | 1,095<br/><span style="color: #002818;">(-9.26%)</span> | 1,207<br/><span style="color: #8B0000;">(+6.60%)</span> | 1,132<br/><span style="color: #002818;">(-5.16%)</span> | 1,194<br/><span style="color: #006400;">(-20.20%)</span> |
+| **6月** | -- | 1,034<br/><span style="color: #002818;">(-1.37%)</span> | 1,048<br/><span style="color: #002818;">(-4.08%)</span> | 1,093<br/><span style="color: #004225;">(-16.40%)</span> | 1,306<br/><span style="color: #004225;">(-10.00%)</span> |
+| **5月** | -- | 1,064<br/><span style="color: #002818;">(-2.77%)</span> | 1,094<br/><span style="color: #002818;">(-5.15%)</span> | 1,154<br/><span style="color: #002818;">(-9.61%)</span> | 1,277<br/><span style="color: #004225;">(-17.00%)</span> |
+| **4月** | -- | 1,179<br/><span style="color: #8B0000;">(+7.45%)</span> | 1,097<br/><span style="color: #8B0000;">(+0.13%)</span> | 1,095<br/><span style="color: #004225;">(-12.60%)</span> | 1,253<br/><span style="color: #004225;">(-11.50%)</span> |
+| **3月** | -- | 1,288<br/><span style="color: #DC143C;">(+24.00%)</span> | 1,039<br/><span style="color: #004225;">(-13.90%)</span> | 1,207<br/><span style="color: #004225;">(-18.10%)</span> | 1,473<br/><span style="color: #002818;">(-8.01%)</span> |
+| **2月** | -- | 1,043<br/><span style="color: #FF4500;">(+39.30%)</span> | 748<br/><span style="color: #32CD32;">(-41.70%)</span> | 1,284<br/><span style="color: #8B0000;">(+4.94%)</span> | 1,223<br/><span style="color: #B22222;">(+11.90%)</span> |
+| **1月** | 1,310<br/><span style="color: #DC143C;">(+22.30%)</span> | 1,071<br/><span style="color: #002818;">(-7.06%)</span> | 1,152<br/><span style="color: #B22222;">(+12.20%)</span> | 1,027<br/><span style="color: #228B22;">(-36.60%)</span> | 1,620<br/><span style="color: #002818;">(-5.48%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **13.1** | <span style="color: #DC143C; font-weight: bold;">+22.3</span> | <span style="color: #DC143C; font-weight: bold;">+22.3</span> | **104.5** | <span style="color: #8B0000; font-weight: bold;">6.12</span> | <span style="color: #DC143C; font-weight: bold;">17.08</span> |
 | **2025/12** | **11.36** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #8B0000; font-weight: bold;">+4.9</span> | **102** | <span style="color: #8B0000; font-weight: bold;">6.12</span> | <span style="color: #DC143C; font-weight: bold;">16.67</span> |
 | **2025/11** | **11.08** | <span style="color: #8B0000; font-weight: bold;">+1.15</span> | <span style="color: #8B0000; font-weight: bold;">+4.35</span> | **105** | <span style="color: #8B0000; font-weight: bold;">6.1</span> | <span style="color: #DC143C; font-weight: bold;">17.22</span> |
 | **2025/10** | **10.74** | <span style="color: #002818; font-weight: bold;">-0.58</span> | <span style="color: #8B0000; font-weight: bold;">+4.67</span> | **114** | <span style="color: #8B0000; font-weight: bold;">6.08</span> | <span style="color: #FF4500; font-weight: bold;">18.76</span> |
@@ -411,7 +412,7 @@ description: 月營收表 禾伸堂 (3026) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-08 01:10:03 CST
+- **產生時間**: 2026-02-08 05:00:47 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 玉山金 (2884) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 玉山金  
     **:identification_card: 股票代號**: 2884  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-08 01:10:03 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-08 05:00:47 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #FF6347; font-weight: bold;">+40.5</span> | <span style="color: #FF6347; font-weight: bold;">+40.5</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 玉山金 (2884) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 7,773<br/><span style="color: #B22222;">(+15.00%)</span> | 6,761<br/><span style="color: #B22222;">(+14.20%)</span> | 5,922<br/><span style="color: #B22222;">(+14.60%)</span> | 5,168<br/><span style="color: #002818;">(-1.39%)</span> | 5,241<br/><span style="color: #B22222;">(+16.00%)</span> |
-| **11月** | 8,094<br/><span style="color: #FF6347;">(+46.60%)</span> | 5,521<br/><span style="color: #004225;">(-14.30%)</span> | 6,440<br/><span style="color: #DC143C;">(+24.40%)</span> | 5,178<br/><span style="color: #002818;">(-1.58%)</span> | 5,261<br/><span style="color: #8B0000;">(+7.29%)</span> |
-| **10月** | 8,154<br/><span style="color: #FF7F7F;">(+55.10%)</span> | 5,257<br/><span style="color: #004225;">(-14.20%)</span> | 6,127<br/><span style="color: #FF4500;">(+38.70%)</span> | 4,416<br/><span style="color: #8B0000;">(+6.96%)</span> | 4,129<br/><span style="color: #002818;">(-2.06%)</span> |
-| **9月** | 8,015<br/><span style="color: #B22222;">(+16.80%)</span> | 6,864<br/><span style="color: #DC143C;">(+25.80%)</span> | 5,456<br/><span style="color: #FF7F7F;">(+56.90%)</span> | 3,477<br/><span style="color: #006400;">(-23.60%)</span> | 4,549<br/><span style="color: #B22222;">(+10.80%)</span> |
-| **8月** | 8,248<br/><span style="color: #8B0000;">(+6.82%)</span> | 7,722<br/><span style="color: #FF4500;">(+32.60%)</span> | 5,824<br/><span style="color: #DC143C;">(+21.50%)</span> | 4,793<br/><span style="color: #002818;">(-5.73%)</span> | 5,085<br/><span style="color: #B22222;">(+13.40%)</span> |
-| **7月** | 8,364<br/><span style="color: #8B0000;">(+6.19%)</span> | 7,876<br/><span style="color: #FF6347;">(+40.70%)</span> | 5,598<br/><span style="color: #002818;">(-8.02%)</span> | 6,086<br/><span style="color: #8B0000;">(+8.91%)</span> | 5,588<br/><span style="color: #B22222;">(+10.10%)</span> |
-| **6月** | 7,472<br/><span style="color: #DC143C;">(+23.40%)</span> | 6,054<br/><span style="color: #B22222;">(+16.10%)</span> | 5,216<br/><span style="color: #FF7F7F;">(+64.10%)</span> | 3,178<br/><span style="color: #228B22;">(-32.80%)</span> | 4,728<br/><span style="color: #002818;">(-4.21%)</span> |
-| **5月** | 7,422<br/><span style="color: #8B0000;">(+8.02%)</span> | 6,870<br/><span style="color: #FF6347;">(+41.70%)</span> | 4,848<br/><span style="color: #002818;">(-2.84%)</span> | 4,990<br/><span style="color: #8B0000;">(+9.40%)</span> | 4,561<br/><span style="color: #004225;">(-10.10%)</span> |
-| **4月** | 6,797<br/><span style="color: #B22222;">(+18.80%)</span> | 5,721<br/><span style="color: #8B0000;">(+5.10%)</span> | 5,443<br/><span style="color: #FF4500;">(+37.50%)</span> | 3,959<br/><span style="color: #006400;">(-21.50%)</span> | 5,042<br/><span style="color: #8B0000;">(+1.59%)</span> |
-| **3月** | 7,659<br/><span style="color: #DC143C;">(+23.50%)</span> | 6,203<br/><span style="color: #8B0000;">(+4.78%)</span> | 5,920<br/><span style="color: #DC143C;">(+26.40%)</span> | 4,683<br/><span style="color: #002818;">(-4.02%)</span> | 4,879<br/><span style="color: #8B0000;">(+8.48%)</span> |
-| **2月** | 7,191<br/><span style="color: #FF7F7F;">(+56.30%)</span> | 4,600<br/><span style="color: #DC143C;">(+27.30%)</span> | 3,614<br/><span style="color: #002818;">(-5.78%)</span> | 3,836<br/><span style="color: #002818;">(-7.63%)</span> | 4,153<br/><span style="color: #002818;">(-8.72%)</span> |
-| **1月** | 6,580<br/><span style="color: #002818;">(-1.53%)</span> | 6,681<br/><span style="color: #8B0000;">(+6.53%)</span> | 6,272<br/><span style="color: #DC143C;">(+24.50%)</span> | 5,037<br/><span style="color: #8B0000;">(+8.06%)</span> | 4,660<br/><span style="color: #002818;">(-5.29%)</span> |
+| **12月** | -- | 7,773<br/><span style="color: #B22222;">(+15.00%)</span> | 6,761<br/><span style="color: #B22222;">(+14.20%)</span> | 5,922<br/><span style="color: #B22222;">(+14.60%)</span> | 5,168<br/><span style="color: #002818;">(-1.39%)</span> |
+| **11月** | -- | 8,094<br/><span style="color: #FF6347;">(+46.60%)</span> | 5,521<br/><span style="color: #004225;">(-14.30%)</span> | 6,440<br/><span style="color: #DC143C;">(+24.40%)</span> | 5,178<br/><span style="color: #002818;">(-1.58%)</span> |
+| **10月** | -- | 8,154<br/><span style="color: #FF7F7F;">(+55.10%)</span> | 5,257<br/><span style="color: #004225;">(-14.20%)</span> | 6,127<br/><span style="color: #FF4500;">(+38.70%)</span> | 4,416<br/><span style="color: #8B0000;">(+6.96%)</span> |
+| **9月** | -- | 8,015<br/><span style="color: #B22222;">(+16.80%)</span> | 6,864<br/><span style="color: #DC143C;">(+25.80%)</span> | 5,456<br/><span style="color: #FF7F7F;">(+56.90%)</span> | 3,477<br/><span style="color: #006400;">(-23.60%)</span> |
+| **8月** | -- | 8,248<br/><span style="color: #8B0000;">(+6.82%)</span> | 7,722<br/><span style="color: #FF4500;">(+32.60%)</span> | 5,824<br/><span style="color: #DC143C;">(+21.50%)</span> | 4,793<br/><span style="color: #002818;">(-5.73%)</span> |
+| **7月** | -- | 8,364<br/><span style="color: #8B0000;">(+6.19%)</span> | 7,876<br/><span style="color: #FF6347;">(+40.70%)</span> | 5,598<br/><span style="color: #002818;">(-8.02%)</span> | 6,086<br/><span style="color: #8B0000;">(+8.91%)</span> |
+| **6月** | -- | 7,472<br/><span style="color: #DC143C;">(+23.40%)</span> | 6,054<br/><span style="color: #B22222;">(+16.10%)</span> | 5,216<br/><span style="color: #FF7F7F;">(+64.10%)</span> | 3,178<br/><span style="color: #228B22;">(-32.80%)</span> |
+| **5月** | -- | 7,422<br/><span style="color: #8B0000;">(+8.02%)</span> | 6,870<br/><span style="color: #FF6347;">(+41.70%)</span> | 4,848<br/><span style="color: #002818;">(-2.84%)</span> | 4,990<br/><span style="color: #8B0000;">(+9.40%)</span> |
+| **4月** | -- | 6,797<br/><span style="color: #B22222;">(+18.80%)</span> | 5,721<br/><span style="color: #8B0000;">(+5.10%)</span> | 5,443<br/><span style="color: #FF4500;">(+37.50%)</span> | 3,959<br/><span style="color: #006400;">(-21.50%)</span> |
+| **3月** | -- | 7,659<br/><span style="color: #DC143C;">(+23.50%)</span> | 6,203<br/><span style="color: #8B0000;">(+4.78%)</span> | 5,920<br/><span style="color: #DC143C;">(+26.40%)</span> | 4,683<br/><span style="color: #002818;">(-4.02%)</span> |
+| **2月** | -- | 7,191<br/><span style="color: #FF7F7F;">(+56.30%)</span> | 4,600<br/><span style="color: #DC143C;">(+27.30%)</span> | 3,614<br/><span style="color: #002818;">(-5.78%)</span> | 3,836<br/><span style="color: #002818;">(-7.63%)</span> |
+| **1月** | 9,246<br/><span style="color: #FF6347;">(+40.50%)</span> | 6,580<br/><span style="color: #002818;">(-1.53%)</span> | 6,681<br/><span style="color: #8B0000;">(+6.53%)</span> | 6,272<br/><span style="color: #DC143C;">(+24.50%)</span> | 5,037<br/><span style="color: #8B0000;">(+8.06%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **92.46** | <span style="color: #FF6347; font-weight: bold;">+40.5</span> | <span style="color: #FF6347; font-weight: bold;">+40.5</span> | **33.4** | <span style="color: #FF6347; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">17.22</span> |
 | **2025/12** | **77.74** | <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **33.75** | <span style="color: #FF6347; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">17.4</span> |
 | **2025/11** | **80.94** | <span style="color: #FF6347; font-weight: bold;">+46.6</span> | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | **30.35** | <span style="color: #FF6347; font-weight: bold;">1.91</span> | <span style="color: #004225; font-weight: bold;">15.86</span> |
 | **2025/10** | **81.54** | <span style="color: #FF7F7F; font-weight: bold;">+55.1</span> | <span style="color: #B22222; font-weight: bold;">+18.9</span> | **29.75** | <span style="color: #FF4500; font-weight: bold;">1.89</span> | <span style="color: #004225; font-weight: bold;">15.75</span> |
@@ -413,7 +414,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-08 01:10:03 CST
+- **產生時間**: 2026-02-08 05:00:47 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

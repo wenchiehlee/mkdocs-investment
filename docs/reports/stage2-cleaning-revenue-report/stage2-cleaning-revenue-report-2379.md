@@ -24,14 +24,14 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 瑞昱  
     **:identification_card: 股票代號**: 2379  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-08 01:10:03 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-08 05:00:47 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-3.94</span> | <span style="color: #8B0000; font-weight: bold;">+8.21</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 瑞昱 (2379) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 8,333<br/><span style="color: #002818;">(-3.94%)</span> | 8,675<br/><span style="color: #DC143C;">(+25.50%)</span> | 6,913<br/><span style="color: #8B0000;">(+8.39%)</span> | 6,377<br/><span style="color: #228B22;">(-30.50%)</span> | 9,178<br/><span style="color: #FF4500;">(+34.20%)</span> |
-| **11月** | 8,882<br/><span style="color: #8B0000;">(+1.83%)</span> | 8,722<br/><span style="color: #B22222;">(+11.70%)</span> | 7,806<br/><span style="color: #8B0000;">(+7.00%)</span> | 7,295<br/><span style="color: #006400;">(-20.60%)</span> | 9,185<br/><span style="color: #B22222;">(+17.70%)</span> |
-| **10月** | 9,063<br/><span style="color: #8B0000;">(+1.29%)</span> | 8,947<br/><span style="color: #B22222;">(+13.80%)</span> | 7,866<br/><span style="color: #002818;">(-2.76%)</span> | 8,089<br/><span style="color: #004225;">(-10.20%)</span> | 9,007<br/><span style="color: #DC143C;">(+21.00%)</span> |
-| **9月** | 10,030<br/><span style="color: #8B0000;">(+2.08%)</span> | 9,830<br/><span style="color: #B22222;">(+11.00%)</span> | 8,859<br/><span style="color: #002818;">(-7.56%)</span> | 9,584<br/><span style="color: #002818;">(-1.85%)</span> | 9,765<br/><span style="color: #B22222;">(+19.50%)</span> |
-| **8月** | 9,727<br/><span style="color: #002818;">(-4.75%)</span> | 10,210<br/><span style="color: #B22222;">(+15.30%)</span> | 8,855<br/><span style="color: #004225;">(-14.80%)</span> | 10,400<br/><span style="color: #8B0000;">(+8.01%)</span> | 9,627<br/><span style="color: #FF4500;">(+31.90%)</span> |
-| **7月** | 9,730<br/><span style="color: #002818;">(-9.15%)</span> | 10,710<br/><span style="color: #B22222;">(+19.50%)</span> | 8,965<br/><span style="color: #002818;">(-8.43%)</span> | 9,790<br/><span style="color: #8B0000;">(+2.37%)</span> | 9,563<br/><span style="color: #FF4500;">(+37.90%)</span> |
-| **6月** | 10,210<br/><span style="color: #002818;">(-0.15%)</span> | 10,220<br/><span style="color: #B22222;">(+13.50%)</span> | 9,008<br/><span style="color: #002818;">(-6.56%)</span> | 9,642<br/><span style="color: #8B0000;">(+2.02%)</span> | 9,450<br/><span style="color: #FF7F7F;">(+55.50%)</span> |
-| **5月** | 10,280<br/><span style="color: #002818;">(-1.02%)</span> | 10,380<br/><span style="color: #B22222;">(+15.10%)</span> | 9,019<br/><span style="color: #004225;">(-13.70%)</span> | 10,450<br/><span style="color: #DC143C;">(+21.80%)</span> | 8,577<br/><span style="color: #FF6347;">(+49.80%)</span> |
-| **4月** | 11,430<br/><span style="color: #B22222;">(+13.50%)</span> | 10,070<br/><span style="color: #DC143C;">(+21.80%)</span> | 8,263<br/><span style="color: #006400;">(-20.60%)</span> | 10,410<br/><span style="color: #FF4500;">(+33.20%)</span> | 7,812<br/><span style="color: #FF6347;">(+41.20%)</span> |
-| **3月** | 11,830<br/><span style="color: #FF4500;">(+30.90%)</span> | 9,040<br/><span style="color: #B22222;">(+13.90%)</span> | 7,937<br/><span style="color: #006400;">(-24.00%)</span> | 10,450<br/><span style="color: #DC143C;">(+29.70%)</span> | 8,055<br/><span style="color: #FF6347;">(+48.30%)</span> |
-| **2月** | 11,320<br/><span style="color: #FF6347;">(+44.70%)</span> | 7,823<br/><span style="color: #DC143C;">(+26.20%)</span> | 6,197<br/><span style="color: #228B22;">(-31.90%)</span> | 9,104<br/><span style="color: #DC143C;">(+29.60%)</span> | 7,027<br/><span style="color: #FF4500;">(+37.60%)</span> |
-| **1月** | 11,870<br/><span style="color: #FF4500;">(+35.50%)</span> | 8,760<br/><span style="color: #FF7F7F;">(+59.50%)</span> | 5,491<br/><span style="color: #32CD32;">(-46.20%)</span> | 10,200<br/><span style="color: #DC143C;">(+23.60%)</span> | 8,258<br/><span style="color: #FF7F7F;">(+53.20%)</span> |
+| **12月** | -- | 8,333<br/><span style="color: #002818;">(-3.94%)</span> | 8,675<br/><span style="color: #DC143C;">(+25.50%)</span> | 6,913<br/><span style="color: #8B0000;">(+8.39%)</span> | 6,377<br/><span style="color: #228B22;">(-30.50%)</span> |
+| **11月** | -- | 8,882<br/><span style="color: #8B0000;">(+1.83%)</span> | 8,722<br/><span style="color: #B22222;">(+11.70%)</span> | 7,806<br/><span style="color: #8B0000;">(+7.00%)</span> | 7,295<br/><span style="color: #006400;">(-20.60%)</span> |
+| **10月** | -- | 9,063<br/><span style="color: #8B0000;">(+1.29%)</span> | 8,947<br/><span style="color: #B22222;">(+13.80%)</span> | 7,866<br/><span style="color: #002818;">(-2.76%)</span> | 8,089<br/><span style="color: #004225;">(-10.20%)</span> |
+| **9月** | -- | 10,030<br/><span style="color: #8B0000;">(+2.08%)</span> | 9,830<br/><span style="color: #B22222;">(+11.00%)</span> | 8,859<br/><span style="color: #002818;">(-7.56%)</span> | 9,584<br/><span style="color: #002818;">(-1.85%)</span> |
+| **8月** | -- | 9,727<br/><span style="color: #002818;">(-4.75%)</span> | 10,210<br/><span style="color: #B22222;">(+15.30%)</span> | 8,855<br/><span style="color: #004225;">(-14.80%)</span> | 10,400<br/><span style="color: #8B0000;">(+8.01%)</span> |
+| **7月** | -- | 9,730<br/><span style="color: #002818;">(-9.15%)</span> | 10,710<br/><span style="color: #B22222;">(+19.50%)</span> | 8,965<br/><span style="color: #002818;">(-8.43%)</span> | 9,790<br/><span style="color: #8B0000;">(+2.37%)</span> |
+| **6月** | -- | 10,210<br/><span style="color: #002818;">(-0.15%)</span> | 10,220<br/><span style="color: #B22222;">(+13.50%)</span> | 9,008<br/><span style="color: #002818;">(-6.56%)</span> | 9,642<br/><span style="color: #8B0000;">(+2.02%)</span> |
+| **5月** | -- | 10,280<br/><span style="color: #002818;">(-1.02%)</span> | 10,380<br/><span style="color: #B22222;">(+15.10%)</span> | 9,019<br/><span style="color: #004225;">(-13.70%)</span> | 10,450<br/><span style="color: #DC143C;">(+21.80%)</span> |
+| **4月** | -- | 11,430<br/><span style="color: #B22222;">(+13.50%)</span> | 10,070<br/><span style="color: #DC143C;">(+21.80%)</span> | 8,263<br/><span style="color: #006400;">(-20.60%)</span> | 10,410<br/><span style="color: #FF4500;">(+33.20%)</span> |
+| **3月** | -- | 11,830<br/><span style="color: #FF4500;">(+30.90%)</span> | 9,040<br/><span style="color: #B22222;">(+13.90%)</span> | 7,937<br/><span style="color: #006400;">(-24.00%)</span> | 10,450<br/><span style="color: #DC143C;">(+29.70%)</span> |
+| **2月** | -- | 11,320<br/><span style="color: #FF6347;">(+44.70%)</span> | 7,823<br/><span style="color: #DC143C;">(+26.20%)</span> | 6,197<br/><span style="color: #228B22;">(-31.90%)</span> | 9,104<br/><span style="color: #DC143C;">(+29.60%)</span> |
+| **1月** | 13,580<br/><span style="color: #B22222;">(+14.40%)</span> | 11,870<br/><span style="color: #FF4500;">(+35.50%)</span> | 8,760<br/><span style="color: #FF7F7F;">(+59.50%)</span> | 5,491<br/><span style="color: #32CD32;">(-46.20%)</span> | 10,200<br/><span style="color: #DC143C;">(+23.60%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **135.8** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **483.5** | <span style="color: #DC143C; font-weight: bold;">30.22</span> | <span style="color: #004225; font-weight: bold;">16.0</span> |
 | **2025/12** | **83.33** | <span style="color: #002818; font-weight: bold;">-3.94</span> | <span style="color: #8B0000; font-weight: bold;">+8.21</span> | **489** | <span style="color: #DC143C; font-weight: bold;">30.22</span> | <span style="color: #004225; font-weight: bold;">16.18</span> |
 | **2025/11** | **88.82** | <span style="color: #8B0000; font-weight: bold;">+1.83</span> | <span style="color: #8B0000; font-weight: bold;">+9.22</span> | **521** | <span style="color: #DC143C; font-weight: bold;">30.19</span> | <span style="color: #002818; font-weight: bold;">17.26</span> |
 | **2025/10** | **90.63** | <span style="color: #8B0000; font-weight: bold;">+1.29</span> | <span style="color: #8B0000; font-weight: bold;">+9.89</span> | **515** | <span style="color: #DC143C; font-weight: bold;">30.15</span> | <span style="color: #002818; font-weight: bold;">17.08</span> |
@@ -413,7 +414,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-08 01:10:03 CST
+- **產生時間**: 2026-02-08 05:00:47 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

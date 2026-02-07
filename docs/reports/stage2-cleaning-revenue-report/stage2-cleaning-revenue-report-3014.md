@@ -24,14 +24,14 @@ description: 月營收表 聯陽 (3014) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 聯陽  
     **:identification_card: 股票代號**: 3014  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-08 01:10:03 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-08 05:00:47 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-0.85</span> | <span style="color: #8B0000; font-weight: bold;">+4.73</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #8B0000; font-weight: bold;">+7.01</span> | <span style="color: #8B0000; font-weight: bold;">+7.01</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 聯陽 (3014) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 475<br/><span style="color: #002818;">(-0.85%)</span> | 479<br/><span style="color: #8B0000;">(+1.11%)</span> | 474<br/><span style="color: #DC143C;">(+23.20%)</span> | 385<br/><span style="color: #006400;">(-27.80%)</span> | 533<br/><span style="color: #B22222;">(+16.20%)</span> |
-| **11月** | 522<br/><span style="color: #002818;">(-8.14%)</span> | 568<br/><span style="color: #B22222;">(+17.60%)</span> | 483<br/><span style="color: #B22222;">(+17.50%)</span> | 411<br/><span style="color: #006400;">(-28.00%)</span> | 571<br/><span style="color: #FF4500;">(+31.00%)</span> |
-| **10月** | 509<br/><span style="color: #004225;">(-13.90%)</span> | 593<br/><span style="color: #DC143C;">(+20.20%)</span> | 493<br/><span style="color: #FF6347;">(+40.90%)</span> | 350<br/><span style="color: #32CD32;">(-42.40%)</span> | 608<br/><span style="color: #FF4500;">(+31.00%)</span> |
-| **9月** | 605<br/><span style="color: #002818;">(-5.24%)</span> | 639<br/><span style="color: #002818;">(-1.81%)</span> | 650<br/><span style="color: #FF7F7F;">(+87.30%)</span> | 347<br/><span style="color: #90EE90;">(-51.10%)</span> | 710<br/><span style="color: #FF4500;">(+38.90%)</span> |
-| **8月** | 599<br/><span style="color: #002818;">(-9.04%)</span> | 658<br/><span style="color: #B22222;">(+10.30%)</span> | 597<br/><span style="color: #FF7F7F;">(+59.30%)</span> | 375<br/><span style="color: #32CD32;">(-46.80%)</span> | 705<br/><span style="color: #FF6347;">(+44.80%)</span> |
-| **7月** | 591<br/><span style="color: #8B0000;">(+4.22%)</span> | 567<br/><span style="color: #8B0000;">(+3.56%)</span> | 547<br/><span style="color: #FF7F7F;">(+51.40%)</span> | 361<br/><span style="color: #32CD32;">(-48.80%)</span> | 706<br/><span style="color: #FF7F7F;">(+53.00%)</span> |
-| **6月** | 620<br/><span style="color: #B22222;">(+13.50%)</span> | 546<br/><span style="color: #002818;">(-4.91%)</span> | 574<br/><span style="color: #FF6347;">(+46.90%)</span> | 391<br/><span style="color: #228B22;">(-37.50%)</span> | 626<br/><span style="color: #FF7F7F;">(+51.70%)</span> |
-| **5月** | 647<br/><span style="color: #B22222;">(+15.20%)</span> | 561<br/><span style="color: #002818;">(-1.80%)</span> | 572<br/><span style="color: #DC143C;">(+22.60%)</span> | 466<br/><span style="color: #006400;">(-25.80%)</span> | 629<br/><span style="color: #FF7F7F;">(+62.10%)</span> |
-| **4月** | 657<br/><span style="color: #DC143C;">(+28.90%)</span> | 509<br/><span style="color: #002818;">(-9.86%)</span> | 565<br/><span style="color: #8B0000;">(+9.70%)</span> | 515<br/><span style="color: #004225;">(-10.60%)</span> | 576<br/><span style="color: #FF7F7F;">(+62.10%)</span> |
-| **3月** | 515<br/><span style="color: #8B0000;">(+5.48%)</span> | 488<br/><span style="color: #002818;">(-3.57%)</span> | 505<br/><span style="color: #002818;">(-7.83%)</span> | 549<br/><span style="color: #8B0000;">(+1.24%)</span> | 542<br/><span style="color: #FF7F7F;">(+69.50%)</span> |
-| **2月** | 536<br/><span style="color: #FF4500;">(+34.10%)</span> | 399<br/><span style="color: #8B0000;">(+6.27%)</span> | 376<br/><span style="color: #006400;">(-22.00%)</span> | 482<br/><span style="color: #8B0000;">(+3.30%)</span> | 466<br/><span style="color: #FF7F7F;">(+127.50%)</span> |
-| **1月** | 672<br/><span style="color: #8B0000;">(+7.49%)</span> | 625<br/><span style="color: #FF6347;">(+42.30%)</span> | 438<br/><span style="color: #006400;">(-24.20%)</span> | 580<br/><span style="color: #B22222;">(+13.00%)</span> | 513<br/><span style="color: #FF7F7F;">(+60.60%)</span> |
+| **12月** | -- | 475<br/><span style="color: #002818;">(-0.85%)</span> | 479<br/><span style="color: #8B0000;">(+1.11%)</span> | 474<br/><span style="color: #DC143C;">(+23.20%)</span> | 385<br/><span style="color: #006400;">(-27.80%)</span> |
+| **11月** | -- | 522<br/><span style="color: #002818;">(-8.14%)</span> | 568<br/><span style="color: #B22222;">(+17.60%)</span> | 483<br/><span style="color: #B22222;">(+17.50%)</span> | 411<br/><span style="color: #006400;">(-28.00%)</span> |
+| **10月** | -- | 509<br/><span style="color: #004225;">(-13.90%)</span> | 593<br/><span style="color: #DC143C;">(+20.20%)</span> | 493<br/><span style="color: #FF6347;">(+40.90%)</span> | 350<br/><span style="color: #32CD32;">(-42.40%)</span> |
+| **9月** | -- | 605<br/><span style="color: #002818;">(-5.24%)</span> | 639<br/><span style="color: #002818;">(-1.81%)</span> | 650<br/><span style="color: #FF7F7F;">(+87.30%)</span> | 347<br/><span style="color: #90EE90;">(-51.10%)</span> |
+| **8月** | -- | 599<br/><span style="color: #002818;">(-9.04%)</span> | 658<br/><span style="color: #B22222;">(+10.30%)</span> | 597<br/><span style="color: #FF7F7F;">(+59.30%)</span> | 375<br/><span style="color: #32CD32;">(-46.80%)</span> |
+| **7月** | -- | 591<br/><span style="color: #8B0000;">(+4.22%)</span> | 567<br/><span style="color: #8B0000;">(+3.56%)</span> | 547<br/><span style="color: #FF7F7F;">(+51.40%)</span> | 361<br/><span style="color: #32CD32;">(-48.80%)</span> |
+| **6月** | -- | 620<br/><span style="color: #B22222;">(+13.50%)</span> | 546<br/><span style="color: #002818;">(-4.91%)</span> | 574<br/><span style="color: #FF6347;">(+46.90%)</span> | 391<br/><span style="color: #228B22;">(-37.50%)</span> |
+| **5月** | -- | 647<br/><span style="color: #B22222;">(+15.20%)</span> | 561<br/><span style="color: #002818;">(-1.80%)</span> | 572<br/><span style="color: #DC143C;">(+22.60%)</span> | 466<br/><span style="color: #006400;">(-25.80%)</span> |
+| **4月** | -- | 657<br/><span style="color: #DC143C;">(+28.90%)</span> | 509<br/><span style="color: #002818;">(-9.86%)</span> | 565<br/><span style="color: #8B0000;">(+9.70%)</span> | 515<br/><span style="color: #004225;">(-10.60%)</span> |
+| **3月** | -- | 515<br/><span style="color: #8B0000;">(+5.48%)</span> | 488<br/><span style="color: #002818;">(-3.57%)</span> | 505<br/><span style="color: #002818;">(-7.83%)</span> | 549<br/><span style="color: #8B0000;">(+1.24%)</span> |
+| **2月** | -- | 536<br/><span style="color: #FF4500;">(+34.10%)</span> | 399<br/><span style="color: #8B0000;">(+6.27%)</span> | 376<br/><span style="color: #006400;">(-22.00%)</span> | 482<br/><span style="color: #8B0000;">(+3.30%)</span> |
+| **1月** | 719<br/><span style="color: #8B0000;">(+7.01%)</span> | 672<br/><span style="color: #8B0000;">(+7.49%)</span> | 625<br/><span style="color: #FF6347;">(+42.30%)</span> | 438<br/><span style="color: #006400;">(-24.20%)</span> | 580<br/><span style="color: #B22222;">(+13.00%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **7.19** | <span style="color: #8B0000; font-weight: bold;">+7.01</span> | <span style="color: #8B0000; font-weight: bold;">+7.01</span> | **120** | <span style="color: #DC143C; font-weight: bold;">9.67</span> | <span style="color: #006400; font-weight: bold;">12.41</span> |
 | **2025/12** | **4.75** | <span style="color: #002818; font-weight: bold;">-0.85</span> | <span style="color: #8B0000; font-weight: bold;">+4.73</span> | **115** | <span style="color: #DC143C; font-weight: bold;">9.67</span> | <span style="color: #006400; font-weight: bold;">11.89</span> |
 | **2025/11** | **5.22** | <span style="color: #002818; font-weight: bold;">-8.14</span> | <span style="color: #8B0000; font-weight: bold;">+5.17</span> | **120.5** | <span style="color: #DC143C; font-weight: bold;">9.71</span> | <span style="color: #006400; font-weight: bold;">12.42</span> |
 | **2025/10** | **5.1** | <span style="color: #004225; font-weight: bold;">-13.9</span> | <span style="color: #8B0000; font-weight: bold;">+6.52</span> | **130.5** | <span style="color: #DC143C; font-weight: bold;">9.74</span> | <span style="color: #004225; font-weight: bold;">13.4</span> |
@@ -413,7 +414,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-08 01:10:03 CST
+- **產生時間**: 2026-02-08 05:00:47 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

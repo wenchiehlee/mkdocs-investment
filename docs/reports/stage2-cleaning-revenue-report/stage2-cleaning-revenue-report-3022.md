@@ -24,14 +24,14 @@ description: 月營收表 威強電 (3022) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 威強電  
     **:identification_card: 股票代號**: 3022  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-08 01:10:03 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-08 05:00:47 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+16.8</span> | <span style="color: #002818; font-weight: bold;">-4.77</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #004225; font-weight: bold;">-13.2</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 威強電 (3022) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 648<br/><span style="color: #B22222;">(+16.80%)</span> | 555<br/><span style="color: #B22222;">(+13.80%)</span> | 487<br/><span style="color: #228B22;">(-31.00%)</span> | 707<br/><span style="color: #002818;">(-1.49%)</span> | 717<br/><span style="color: #8B0000;">(+3.89%)</span> |
-| **11月** | 420<br/><span style="color: #006400;">(-26.70%)</span> | 573<br/><span style="color: #002818;">(-1.33%)</span> | 581<br/><span style="color: #006400;">(-28.10%)</span> | 808<br/><span style="color: #FF7F7F;">(+62.80%)</span> | 496<br/><span style="color: #004225;">(-16.60%)</span> |
-| **10月** | 491<br/><span style="color: #002818;">(-3.57%)</span> | 509<br/><span style="color: #004225;">(-12.60%)</span> | 583<br/><span style="color: #004225;">(-14.10%)</span> | 679<br/><span style="color: #FF7F7F;">(+62.60%)</span> | 417<br/><span style="color: #004225;">(-13.60%)</span> |
-| **9月** | 505<br/><span style="color: #004225;">(-12.70%)</span> | 579<br/><span style="color: #8B0000;">(+7.40%)</span> | 539<br/><span style="color: #006400;">(-27.60%)</span> | 744<br/><span style="color: #FF6347;">(+47.20%)</span> | 505<br/><span style="color: #8B0000;">(+1.00%)</span> |
-| **8月** | 432<br/><span style="color: #228B22;">(-35.30%)</span> | 668<br/><span style="color: #002818;">(-2.36%)</span> | 684<br/><span style="color: #006400;">(-27.30%)</span> | 941<br/><span style="color: #FF7F7F;">(+82.20%)</span> | 517<br/><span style="color: #8B0000;">(+2.40%)</span> |
-| **7月** | 581<br/><span style="color: #002818;">(-6.54%)</span> | 621<br/><span style="color: #002818;">(-2.43%)</span> | 637<br/><span style="color: #006400;">(-25.90%)</span> | 859<br/><span style="color: #FF7F7F;">(+57.70%)</span> | 545<br/><span style="color: #8B0000;">(+1.94%)</span> |
-| **6月** | 535<br/><span style="color: #002818;">(-6.31%)</span> | 571<br/><span style="color: #002818;">(-4.95%)</span> | 601<br/><span style="color: #004225;">(-11.20%)</span> | 676<br/><span style="color: #B22222;">(+12.20%)</span> | 603<br/><span style="color: #8B0000;">(+3.46%)</span> |
-| **5月** | 462<br/><span style="color: #002818;">(-9.74%)</span> | 512<br/><span style="color: #006400;">(-24.10%)</span> | 674<br/><span style="color: #FF4500;">(+30.00%)</span> | 519<br/><span style="color: #8B0000;">(+2.98%)</span> | 504<br/><span style="color: #004225;">(-13.10%)</span> |
-| **4月** | 663<br/><span style="color: #DC143C;">(+20.80%)</span> | 548<br/><span style="color: #004225;">(-14.20%)</span> | 639<br/><span style="color: #FF6347;">(+40.60%)</span> | 454<br/><span style="color: #004225;">(-11.50%)</span> | 513<br/><span style="color: #8B0000;">(+9.20%)</span> |
-| **3月** | 664<br/><span style="color: #DC143C;">(+26.60%)</span> | 525<br/><span style="color: #228B22;">(-31.30%)</span> | 764<br/><span style="color: #FF7F7F;">(+63.80%)</span> | 466<br/><span style="color: #004225;">(-16.50%)</span> | 559<br/><span style="color: #FF6347;">(+47.90%)</span> |
-| **2月** | 589<br/><span style="color: #B22222;">(+19.40%)</span> | 493<br/><span style="color: #228B22;">(-31.80%)</span> | 723<br/><span style="color: #FF7F7F;">(+53.30%)</span> | 471<br/><span style="color: #DC143C;">(+26.50%)</span> | 373<br/><span style="color: #FF7F7F;">(+50.60%)</span> |
-| **1月** | 524<br/><span style="color: #006400;">(-23.70%)</span> | 686<br/><span style="color: #8B0000;">(+2.95%)</span> | 667<br/><span style="color: #8B0000;">(+7.87%)</span> | 618<br/><span style="color: #DC143C;">(+24.90%)</span> | 495<br/><span style="color: #DC143C;">(+29.30%)</span> |
+| **12月** | -- | 648<br/><span style="color: #B22222;">(+16.80%)</span> | 555<br/><span style="color: #B22222;">(+13.80%)</span> | 487<br/><span style="color: #228B22;">(-31.00%)</span> | 707<br/><span style="color: #002818;">(-1.49%)</span> |
+| **11月** | -- | 420<br/><span style="color: #006400;">(-26.70%)</span> | 573<br/><span style="color: #002818;">(-1.33%)</span> | 581<br/><span style="color: #006400;">(-28.10%)</span> | 808<br/><span style="color: #FF7F7F;">(+62.80%)</span> |
+| **10月** | -- | 491<br/><span style="color: #002818;">(-3.57%)</span> | 509<br/><span style="color: #004225;">(-12.60%)</span> | 583<br/><span style="color: #004225;">(-14.10%)</span> | 679<br/><span style="color: #FF7F7F;">(+62.60%)</span> |
+| **9月** | -- | 505<br/><span style="color: #004225;">(-12.70%)</span> | 579<br/><span style="color: #8B0000;">(+7.40%)</span> | 539<br/><span style="color: #006400;">(-27.60%)</span> | 744<br/><span style="color: #FF6347;">(+47.20%)</span> |
+| **8月** | -- | 432<br/><span style="color: #228B22;">(-35.30%)</span> | 668<br/><span style="color: #002818;">(-2.36%)</span> | 684<br/><span style="color: #006400;">(-27.30%)</span> | 941<br/><span style="color: #FF7F7F;">(+82.20%)</span> |
+| **7月** | -- | 581<br/><span style="color: #002818;">(-6.54%)</span> | 621<br/><span style="color: #002818;">(-2.43%)</span> | 637<br/><span style="color: #006400;">(-25.90%)</span> | 859<br/><span style="color: #FF7F7F;">(+57.70%)</span> |
+| **6月** | -- | 535<br/><span style="color: #002818;">(-6.31%)</span> | 571<br/><span style="color: #002818;">(-4.95%)</span> | 601<br/><span style="color: #004225;">(-11.20%)</span> | 676<br/><span style="color: #B22222;">(+12.20%)</span> |
+| **5月** | -- | 462<br/><span style="color: #002818;">(-9.74%)</span> | 512<br/><span style="color: #006400;">(-24.10%)</span> | 674<br/><span style="color: #FF4500;">(+30.00%)</span> | 519<br/><span style="color: #8B0000;">(+2.98%)</span> |
+| **4月** | -- | 663<br/><span style="color: #DC143C;">(+20.80%)</span> | 548<br/><span style="color: #004225;">(-14.20%)</span> | 639<br/><span style="color: #FF6347;">(+40.60%)</span> | 454<br/><span style="color: #004225;">(-11.50%)</span> |
+| **3月** | -- | 664<br/><span style="color: #DC143C;">(+26.60%)</span> | 525<br/><span style="color: #228B22;">(-31.30%)</span> | 764<br/><span style="color: #FF7F7F;">(+63.80%)</span> | 466<br/><span style="color: #004225;">(-16.50%)</span> |
+| **2月** | -- | 589<br/><span style="color: #B22222;">(+19.40%)</span> | 493<br/><span style="color: #228B22;">(-31.80%)</span> | 723<br/><span style="color: #FF7F7F;">(+53.30%)</span> | 471<br/><span style="color: #DC143C;">(+26.50%)</span> |
+| **1月** | 455<br/><span style="color: #004225;">(-13.20%)</span> | 524<br/><span style="color: #006400;">(-23.70%)</span> | 686<br/><span style="color: #8B0000;">(+2.95%)</span> | 667<br/><span style="color: #8B0000;">(+7.87%)</span> | 618<br/><span style="color: #DC143C;">(+24.90%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 威強電 (3022) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **4.55** | <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #004225; font-weight: bold;">-13.2</span> | **64** | <span style="color: #8B0000; font-weight: bold;">5.47</span> | <span style="color: #8B0000; font-weight: bold;">11.7</span> |
 | **2025/12** | **6.48** | <span style="color: #B22222; font-weight: bold;">+16.8</span> | <span style="color: #002818; font-weight: bold;">-4.77</span> | **64.5** | <span style="color: #8B0000; font-weight: bold;">5.47</span> | <span style="color: #8B0000; font-weight: bold;">11.79</span> |
 | **2025/11** | **4.2** | <span style="color: #006400; font-weight: bold;">-26.7</span> | <span style="color: #002818; font-weight: bold;">-6.68</span> | **67.6** | <span style="color: #8B0000; font-weight: bold;">5.74</span> | <span style="color: #8B0000; font-weight: bold;">11.78</span> |
 | **2025/10** | **4.91** | <span style="color: #002818; font-weight: bold;">-3.57</span> | <span style="color: #002818; font-weight: bold;">-4.67</span> | **67.1** | <span style="color: #B22222; font-weight: bold;">6.01</span> | <span style="color: #002818; font-weight: bold;">11.16</span> |
@@ -413,7 +414,7 @@ description: 月營收表 威強電 (3022) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-08 01:10:03 CST
+- **產生時間**: 2026-02-08 05:00:47 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
