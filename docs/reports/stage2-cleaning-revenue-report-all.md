@@ -23,7 +23,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 # :bar_chart: 月營收總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-02-09 03:13:00 CST  
+    **:calendar: 產生時間**: 2026-02-09 05:00:41 CST  
     **:building_construction: 分析股票總數**: 126 檔  
     **:chart_with_upwards_trend: 報告類型**: 各股完整歷史資料  
     **:file_folder: 資料來源**: Stage 2 cleaned_revenue.csv + cleaned_monthly_flow.csv
@@ -141,7 +141,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 | [**6214**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6214/) | 精誠 | **239** | 2025/12 | <span style="color: #DC143C; font-weight: bold;">+23.9</span> | 2006/02 ~ 2025/12 |
 | [**6231**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6231/) | 系微 | **240** | 2026/01 | <span style="color: #002818; font-weight: bold;">-7.25</span> | 2006/02 ~ 2026/01 |
 | [**6285**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6285/) | 啟碁 | **240** | 2026/01 | <span style="color: #B22222; font-weight: bold;">+11</span> | 2006/02 ~ 2026/01 |
-| [**6425**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6425/) | 易發 | **152** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+0.85</span> | 2013/05 ~ 2025/12 |
+| [**6425**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6425/) | 易發 | **39** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+0.85</span> | 2022/10 ~ 2025/12 |
 | [**6442**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6442/) | 光聖 | **146** | 2025/12 | <span style="color: #004225; font-weight: bold;">-12.7</span> | 2013/11 ~ 2025/12 |
 | [**6462**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6462/) | 神盾 | **141** | 2025/12 | <span style="color: #FF4500; font-weight: bold;">+39</span> | 2014/04 ~ 2025/12 |
 | [**6506**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-6506/) | 雙邦 | **239** | 2025/12 | <span style="color: #8B0000; font-weight: bold;">+9.12</span> | 2006/02 ~ 2025/12 |
@@ -262,7 +262,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-**產生時間**: 2026-02-09 03:13:00 CST  
+**產生時間**: 2026-02-09 05:00:41 CST  
 **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)  
 **報告版本**: Material for MkDocs 增強版 with EPS/P-E Integration (Asymmetric Statistics)  
 **處理模式**: 完整資料模式
