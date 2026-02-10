@@ -24,8 +24,8 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 # :chart: ROA/ROE 總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-02-10 12:53:19 CST  
-    **:building_construction: 分析股票總數**: 130 檔  
+    **:calendar: 產生時間**: 2026-02-10 14:18:02 CST  
+    **:building_construction: 分析股票總數**: 123 檔  
     **:chart_with_upwards_trend: 報告類型**: 各股盈利能力分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_performance1.csv
 
@@ -43,7 +43,7 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 
 - :page_with_curl: **總處理股票**
     ---
-    **130** 檔
+    **123** 檔
 
 </div>
 
@@ -149,15 +149,8 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 | [**9914**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-9914/) | 美利達 | 運動休閒 | 3.13% | 1.68% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-9914/) |
 | [**9921**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-9921/) | 巨大 | 運動休閒 | 1.17% | 0.59% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-9921/) |
 | [**2881**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2881/) | 富邦金 | 金融保險業 | 4.45% | 0.33% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2881/) |
-| [**2881**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2881/) | 富邦金 | 金融保險業 | 4.45% | 0.33% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2881/) |
-| [**2881**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2881/) | 富邦金 | 金融保險業 | 4.45% | 0.33% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2881/) |
-| [**2881**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2881/) | 富邦金 | 金融保險業 | 4.45% | 0.33% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2881/) |
-| [**2882**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2882/) | 國泰金 | 金融保險業 | 3.43% | 0.21% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2882/) |
-| [**2882**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2882/) | 國泰金 | 金融保險業 | 3.43% | 0.21% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2882/) |
 | [**2882**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2882/) | 國泰金 | 金融保險業 | 3.43% | 0.21% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2882/) |
 | [**2884**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2884/) | 玉山金 | 金融保險業 | 3.71% | 0.22% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2884/) |
-| [**2891**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2891/) | 中信金 | 金融保險業 | 5.14% | 0.28% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2891/) |
-| [**2891**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2891/) | 中信金 | 金融保險業 | 5.14% | 0.28% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2891/) |
 | [**2891**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2891/) | 中信金 | 金融保險業 | 5.14% | 0.28% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2891/) |
 | [**2347**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2347/) | 聯強 | 電子通路業 | 3.79% | 1.35% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2347/) |
 | [**3048**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3048/) | 益登 | 電子通路業 | 4.35% | 0.74% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3048/) |
