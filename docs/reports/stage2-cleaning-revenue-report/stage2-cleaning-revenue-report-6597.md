@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-10
+date: 2026-02-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 立誠 (6597) - 自動產生
     **:building_construction: 公司名稱**: 立誠  
     **:identification_card: 股票代號**: 6597  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-02-10 22:08:53 CST
+    **:clock3: 更新時間**: 2026-02-11 01:43:57 CST
 
 ## :bar_chart: 績效概覽
 
@@ -287,7 +287,7 @@ description: 月營收表 立誠 (6597) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-10 22:08:53 CST
+- **產生時間**: 2026-02-11 01:43:57 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
