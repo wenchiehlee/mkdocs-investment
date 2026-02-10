@@ -24,14 +24,14 @@ description: 月營收表 愛派司 (6918) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 愛派司  
     **:identification_card: 股票代號**: 6918  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 01:43:57 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-11 07:17:41 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-1.47</span> | <span style="color: #8B0000; font-weight: bold;">+8.61</span> | **41** 個月 | 2022/08 至 2025/12 |
+| <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **42** 個月 | 2022/08 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 愛派司 (6918) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** |
-|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 72<br/><span style="color: #002818;">(-1.47%)</span> | 73<br/><span style="color: #B22222;">(+16.40%)</span> | 62<br/><span style="color: #8B0000;">(+9.00%)</span> | 57<br/><span style="color: #FF7F7F;">(+103.50%)</span> |
-| **11月** | 80<br/><span style="color: #DC143C;">(+25.10%)</span> | 64<br/><span style="color: #B22222;">(+11.20%)</span> | 57<br/><span style="color: #8B0000;">(+1.39%)</span> | 56<br/><span style="color: #B22222;">(+14.40%)</span> |
-| **10月** | 62<br/><span style="color: #002818;">(-7.00%)</span> | 67<br/><span style="color: #DC143C;">(+27.80%)</span> | 52<br/><span style="color: #8B0000;">(+0.36%)</span> | 52<br/><span style="color: #B22222;">(+14.40%)</span> |
-| **9月** | 70<br/><span style="color: #8B0000;">(+4.89%)</span> | 66<br/><span style="color: #DC143C;">(+22.80%)</span> | 54<br/><span style="color: #8B0000;">(+2.83%)</span> | 52<br/><span style="color: #B22222;">(+15.10%)</span> |
-| **8月** | 69<br/><span style="color: #8B0000;">(+2.17%)</span> | 67<br/><span style="color: #B22222;">(+10.40%)</span> | 61<br/><span style="color: #8B0000;">(+0.50%)</span> | 60<br/><span style="color: #DC143C;">(+25.00%)</span> |
-| **7月** | 71<br/><span style="color: #8B0000;">(+8.61%)</span> | 65<br/><span style="color: #8B0000;">(+9.45%)</span> | 60<br/><span style="color: #B22222;">(+12.60%)</span> | -- |
-| **6月** | 76<br/><span style="color: #DC143C;">(+24.00%)</span> | 61<br/><span style="color: #B22222;">(+17.20%)</span> | 52<br/><span style="color: #B22222;">(+13.70%)</span> | -- |
-| **5月** | 62<br/><span style="color: #8B0000;">(+5.69%)</span> | 58<br/><span style="color: #8B0000;">(+8.20%)</span> | 54<br/><span style="color: #DC143C;">(+21.20%)</span> | -- |
-| **4月** | 75<br/><span style="color: #B22222;">(+13.50%)</span> | 66<br/><span style="color: #DC143C;">(+22.80%)</span> | 54<br/><span style="color: #FF4500;">(+36.50%)</span> | -- |
-| **3月** | 63<br/><span style="color: #002818;">(-0.08%)</span> | 63<br/><span style="color: #B22222;">(+18.90%)</span> | 53<br/><span style="color: #B22222;">(+14.70%)</span> | -- |
-| **2月** | 69<br/><span style="color: #FF4500;">(+30.80%)</span> | 53<br/><span style="color: #004225;">(-10.80%)</span> | 59<br/><span style="color: #FF4500;">(+39.50%)</span> | -- |
-| **1月** | 63<br/><span style="color: #8B0000;">(+3.44%)</span> | 61<br/><span style="color: #B22222;">(+17.70%)</span> | 51<br/><span style="color: #004225;">(-15.10%)</span> | -- |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 72<br/><span style="color: #002818;">(-1.47%)</span> | 73<br/><span style="color: #B22222;">(+16.40%)</span> | 62<br/><span style="color: #8B0000;">(+9.00%)</span> | 57<br/><span style="color: #FF7F7F;">(+103.50%)</span> |
+| **11月** | -- | 80<br/><span style="color: #DC143C;">(+25.10%)</span> | 64<br/><span style="color: #B22222;">(+11.20%)</span> | 57<br/><span style="color: #8B0000;">(+1.39%)</span> | 56<br/><span style="color: #B22222;">(+14.40%)</span> |
+| **10月** | -- | 62<br/><span style="color: #002818;">(-7.00%)</span> | 67<br/><span style="color: #DC143C;">(+27.80%)</span> | 52<br/><span style="color: #8B0000;">(+0.36%)</span> | 52<br/><span style="color: #B22222;">(+14.40%)</span> |
+| **9月** | -- | 70<br/><span style="color: #8B0000;">(+4.89%)</span> | 66<br/><span style="color: #DC143C;">(+22.80%)</span> | 54<br/><span style="color: #8B0000;">(+2.83%)</span> | 52<br/><span style="color: #B22222;">(+15.10%)</span> |
+| **8月** | -- | 69<br/><span style="color: #8B0000;">(+2.17%)</span> | 67<br/><span style="color: #B22222;">(+10.40%)</span> | 61<br/><span style="color: #8B0000;">(+0.50%)</span> | 60<br/><span style="color: #DC143C;">(+25.00%)</span> |
+| **7月** | -- | 71<br/><span style="color: #8B0000;">(+8.61%)</span> | 65<br/><span style="color: #8B0000;">(+9.45%)</span> | 60<br/><span style="color: #B22222;">(+12.60%)</span> | -- |
+| **6月** | -- | 76<br/><span style="color: #DC143C;">(+24.00%)</span> | 61<br/><span style="color: #B22222;">(+17.20%)</span> | 52<br/><span style="color: #B22222;">(+13.70%)</span> | -- |
+| **5月** | -- | 62<br/><span style="color: #8B0000;">(+5.69%)</span> | 58<br/><span style="color: #8B0000;">(+8.20%)</span> | 54<br/><span style="color: #DC143C;">(+21.20%)</span> | -- |
+| **4月** | -- | 75<br/><span style="color: #B22222;">(+13.50%)</span> | 66<br/><span style="color: #DC143C;">(+22.80%)</span> | 54<br/><span style="color: #FF4500;">(+36.50%)</span> | -- |
+| **3月** | -- | 63<br/><span style="color: #002818;">(-0.08%)</span> | 63<br/><span style="color: #B22222;">(+18.90%)</span> | 53<br/><span style="color: #B22222;">(+14.70%)</span> | -- |
+| **2月** | -- | 69<br/><span style="color: #FF4500;">(+30.80%)</span> | 53<br/><span style="color: #004225;">(-10.80%)</span> | 59<br/><span style="color: #FF4500;">(+39.50%)</span> | -- |
+| **1月** | 71<br/><span style="color: #B22222;">(+13.00%)</span> | 63<br/><span style="color: #8B0000;">(+3.44%)</span> | 61<br/><span style="color: #B22222;">(+17.70%)</span> | 51<br/><span style="color: #004225;">(-15.10%)</span> | -- |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 愛派司 (6918) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **0.714** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **83.1** | <span style="color: #000000; font-weight: bold;">5.33</span> | <span style="color: #228B22; font-weight: bold;">15.59</span> |
 | **2025/12** | **0.72** | <span style="color: #002818; font-weight: bold;">-1.47</span> | <span style="color: #8B0000; font-weight: bold;">+8.61</span> | **85.5** | <span style="color: #000000; font-weight: bold;">5.33</span> | <span style="color: #006400; font-weight: bold;">16.04</span> |
 | **2025/11** | **0.804** | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | <span style="color: #8B0000; font-weight: bold;">+9.67</span> | **87.9** | <span style="color: #000000; font-weight: bold;">5.33</span> | <span style="color: #004225; font-weight: bold;">16.49</span> |
 | **2025/10** | **0.625** | <span style="color: #002818; font-weight: bold;">-7</span> | <span style="color: #8B0000; font-weight: bold;">+8.1</span> | **84.6** | <span style="color: #000000; font-weight: bold;">5.33</span> | <span style="color: #006400; font-weight: bold;">15.87</span> |
@@ -215,7 +216,7 @@ description: 月營收表 愛派司 (6918) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 01:43:57 CST
+- **產生時間**: 2026-02-11 07:17:41 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

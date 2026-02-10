@@ -24,14 +24,14 @@ description: 月營收表 聖暉 (5536) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 聖暉  
     **:identification_card: 股票代號**: 5536  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 01:43:57 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-11 07:17:41 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+10.1</span> | <span style="color: #FF4500; font-weight: bold;">+37.1</span> | **196** 個月 | 2009/09 至 2025/12 |
+| <span style="color: #FF4500; font-weight: bold;">+38.8</span> | <span style="color: #FF4500; font-weight: bold;">+38.8</span> | **197** 個月 | 2009/09 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 聖暉 (5536) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 4,047<br/><span style="color: #B22222;">(+10.10%)</span> | 3,675<br/><span style="color: #FF7F7F;">(+55.20%)</span> | 2,367<br/><span style="color: #004225;">(-14.60%)</span> | 2,773<br/><span style="color: #DC143C;">(+29.70%)</span> | 2,138<br/><span style="color: #FF4500;">(+31.00%)</span> |
-| **11月** | 3,727<br/><span style="color: #DC143C;">(+20.00%)</span> | 3,105<br/><span style="color: #FF4500;">(+38.70%)</span> | 2,238<br/><span style="color: #006400;">(-23.80%)</span> | 2,939<br/><span style="color: #FF4500;">(+33.40%)</span> | 2,203<br/><span style="color: #FF7F7F;">(+97.80%)</span> |
-| **10月** | 3,202<br/><span style="color: #B22222;">(+17.80%)</span> | 2,717<br/><span style="color: #FF4500;">(+34.60%)</span> | 2,019<br/><span style="color: #004225;">(-12.70%)</span> | 2,314<br/><span style="color: #DC143C;">(+26.80%)</span> | 1,825<br/><span style="color: #FF7F7F;">(+86.40%)</span> |
-| **9月** | 3,909<br/><span style="color: #DC143C;">(+28.80%)</span> | 3,036<br/><span style="color: #B22222;">(+17.60%)</span> | 2,582<br/><span style="color: #002818;">(-6.47%)</span> | 2,760<br/><span style="color: #FF6347;">(+45.30%)</span> | 1,898<br/><span style="color: #FF7F7F;">(+72.40%)</span> |
-| **8月** | 3,375<br/><span style="color: #FF6347;">(+41.80%)</span> | 2,379<br/><span style="color: #DC143C;">(+21.10%)</span> | 1,964<br/><span style="color: #006400;">(-29.00%)</span> | 2,768<br/><span style="color: #FF7F7F;">(+75.20%)</span> | 1,580<br/><span style="color: #FF4500;">(+36.00%)</span> |
-| **7月** | 3,757<br/><span style="color: #FF7F7F;">(+70.40%)</span> | 2,206<br/><span style="color: #B22222;">(+15.00%)</span> | 1,917<br/><span style="color: #228B22;">(-31.80%)</span> | 2,809<br/><span style="color: #FF7F7F;">(+81.00%)</span> | 1,552<br/><span style="color: #FF6347;">(+47.60%)</span> |
-| **6月** | 3,822<br/><span style="color: #FF4500;">(+37.60%)</span> | 2,778<br/><span style="color: #FF4500;">(+32.10%)</span> | 2,103<br/><span style="color: #006400;">(-22.10%)</span> | 2,700<br/><span style="color: #FF6347;">(+46.10%)</span> | 1,848<br/><span style="color: #FF4500;">(+34.00%)</span> |
-| **5月** | 3,536<br/><span style="color: #FF6347;">(+45.30%)</span> | 2,433<br/><span style="color: #B22222;">(+18.30%)</span> | 2,056<br/><span style="color: #8B0000;">(+4.11%)</span> | 1,975<br/><span style="color: #B22222;">(+18.80%)</span> | 1,662<br/><span style="color: #FF7F7F;">(+54.70%)</span> |
-| **4月** | 3,550<br/><span style="color: #FF6347;">(+44.90%)</span> | 2,449<br/><span style="color: #8B0000;">(+9.43%)</span> | 2,238<br/><span style="color: #B22222;">(+19.80%)</span> | 1,869<br/><span style="color: #002818;">(-3.39%)</span> | 1,934<br/><span style="color: #FF4500;">(+37.80%)</span> |
-| **3月** | 3,243<br/><span style="color: #FF7F7F;">(+52.40%)</span> | 2,127<br/><span style="color: #002818;">(-8.12%)</span> | 2,315<br/><span style="color: #002818;">(-4.08%)</span> | 2,414<br/><span style="color: #FF7F7F;">(+71.80%)</span> | 1,405<br/><span style="color: #B22222;">(+17.40%)</span> |
-| **2月** | 2,672<br/><span style="color: #FF7F7F;">(+101.50%)</span> | 1,326<br/><span style="color: #006400;">(-27.50%)</span> | 1,830<br/><span style="color: #FF4500;">(+36.20%)</span> | 1,343<br/><span style="color: #FF7F7F;">(+52.10%)</span> | 883<br/><span style="color: #8B0000;">(+6.70%)</span> |
-| **1月** | 2,642<br/><span style="color: #FF4500;">(+30.60%)</span> | 2,023<br/><span style="color: #FF6347;">(+41.30%)</span> | 1,432<br/><span style="color: #004225;">(-10.40%)</span> | 1,598<br/><span style="color: #DC143C;">(+24.10%)</span> | 1,288<br/><span style="color: #DC143C;">(+21.90%)</span> |
+| **12月** | -- | 4,047<br/><span style="color: #B22222;">(+10.10%)</span> | 3,675<br/><span style="color: #FF7F7F;">(+55.20%)</span> | 2,367<br/><span style="color: #004225;">(-14.60%)</span> | 2,773<br/><span style="color: #DC143C;">(+29.70%)</span> |
+| **11月** | -- | 3,727<br/><span style="color: #DC143C;">(+20.00%)</span> | 3,105<br/><span style="color: #FF4500;">(+38.70%)</span> | 2,238<br/><span style="color: #006400;">(-23.80%)</span> | 2,939<br/><span style="color: #FF4500;">(+33.40%)</span> |
+| **10月** | -- | 3,202<br/><span style="color: #B22222;">(+17.80%)</span> | 2,717<br/><span style="color: #FF4500;">(+34.60%)</span> | 2,019<br/><span style="color: #004225;">(-12.70%)</span> | 2,314<br/><span style="color: #DC143C;">(+26.80%)</span> |
+| **9月** | -- | 3,909<br/><span style="color: #DC143C;">(+28.80%)</span> | 3,036<br/><span style="color: #B22222;">(+17.60%)</span> | 2,582<br/><span style="color: #002818;">(-6.47%)</span> | 2,760<br/><span style="color: #FF6347;">(+45.30%)</span> |
+| **8月** | -- | 3,375<br/><span style="color: #FF6347;">(+41.80%)</span> | 2,379<br/><span style="color: #DC143C;">(+21.10%)</span> | 1,964<br/><span style="color: #006400;">(-29.00%)</span> | 2,768<br/><span style="color: #FF7F7F;">(+75.20%)</span> |
+| **7月** | -- | 3,757<br/><span style="color: #FF7F7F;">(+70.40%)</span> | 2,206<br/><span style="color: #B22222;">(+15.00%)</span> | 1,917<br/><span style="color: #228B22;">(-31.80%)</span> | 2,809<br/><span style="color: #FF7F7F;">(+81.00%)</span> |
+| **6月** | -- | 3,822<br/><span style="color: #FF4500;">(+37.60%)</span> | 2,778<br/><span style="color: #FF4500;">(+32.10%)</span> | 2,103<br/><span style="color: #006400;">(-22.10%)</span> | 2,700<br/><span style="color: #FF6347;">(+46.10%)</span> |
+| **5月** | -- | 3,536<br/><span style="color: #FF6347;">(+45.30%)</span> | 2,433<br/><span style="color: #B22222;">(+18.30%)</span> | 2,056<br/><span style="color: #8B0000;">(+4.11%)</span> | 1,975<br/><span style="color: #B22222;">(+18.80%)</span> |
+| **4月** | -- | 3,550<br/><span style="color: #FF6347;">(+44.90%)</span> | 2,449<br/><span style="color: #8B0000;">(+9.43%)</span> | 2,238<br/><span style="color: #B22222;">(+19.80%)</span> | 1,869<br/><span style="color: #002818;">(-3.39%)</span> |
+| **3月** | -- | 3,243<br/><span style="color: #FF7F7F;">(+52.40%)</span> | 2,127<br/><span style="color: #002818;">(-8.12%)</span> | 2,315<br/><span style="color: #002818;">(-4.08%)</span> | 2,414<br/><span style="color: #FF7F7F;">(+71.80%)</span> |
+| **2月** | -- | 2,672<br/><span style="color: #FF7F7F;">(+101.50%)</span> | 1,326<br/><span style="color: #006400;">(-27.50%)</span> | 1,830<br/><span style="color: #FF4500;">(+36.20%)</span> | 1,343<br/><span style="color: #FF7F7F;">(+52.10%)</span> |
+| **1月** | 3,665<br/><span style="color: #FF4500;">(+38.80%)</span> | 2,642<br/><span style="color: #FF4500;">(+30.60%)</span> | 2,023<br/><span style="color: #FF6347;">(+41.30%)</span> | 1,432<br/><span style="color: #004225;">(-10.40%)</span> | 1,598<br/><span style="color: #DC143C;">(+24.10%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **36.66** | <span style="color: #FF4500; font-weight: bold;">+38.8</span> | <span style="color: #FF4500; font-weight: bold;">+38.8</span> | **630** | <span style="color: #FF6347; font-weight: bold;">26.35</span> | <span style="color: #DC143C; font-weight: bold;">23.91</span> |
 | **2025/12** | **40.48** | <span style="color: #B22222; font-weight: bold;">+10.1</span> | <span style="color: #FF4500; font-weight: bold;">+37.1</span> | **781** | <span style="color: #FF6347; font-weight: bold;">26.35</span> | <span style="color: #FF4500; font-weight: bold;">29.64</span> |
 | **2025/11** | **37.27** | <span style="color: #DC143C; font-weight: bold;">+20</span> | <span style="color: #FF6347; font-weight: bold;">+40.8</span> | **696** | <span style="color: #FF6347; font-weight: bold;">25.91</span> | <span style="color: #DC143C; font-weight: bold;">26.86</span> |
 | **2025/10** | **32.02** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #FF6347; font-weight: bold;">+43.6</span> | **770** | <span style="color: #FF6347; font-weight: bold;">25.47</span> | <span style="color: #FF4500; font-weight: bold;">30.23</span> |
@@ -370,7 +371,7 @@ description: 月營收表 聖暉 (5536) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 01:43:57 CST
+- **產生時間**: 2026-02-11 07:17:41 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

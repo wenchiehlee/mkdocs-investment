@@ -24,14 +24,14 @@ description: 月營收表 嘉實 (3158) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 嘉實  
     **:identification_card: 股票代號**: 3158  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 01:43:57 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-11 07:17:41 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #004225; font-weight: bold;">-10.2</span> | <span style="color: #8B0000; font-weight: bold;">+7.07</span> | **237** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #B22222; font-weight: bold;">+11.5</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **238** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 嘉實 (3158) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 104<br/><span style="color: #004225;">(-10.20%)</span> | 115<br/><span style="color: #FF7F7F;">(+65.10%)</span> | 70<br/><span style="color: #004225;">(-10.70%)</span> | 78<br/><span style="color: #002818;">(-0.80%)</span> | 79<br/><span style="color: #8B0000;">(+7.91%)</span> |
-| **11月** | 97<br/><span style="color: #8B0000;">(+5.87%)</span> | 92<br/><span style="color: #DC143C;">(+23.70%)</span> | 74<br/><span style="color: #B22222;">(+10.90%)</span> | 67<br/><span style="color: #002818;">(-0.93%)</span> | 67<br/><span style="color: #B22222;">(+13.00%)</span> |
-| **10月** | 89<br/><span style="color: #8B0000;">(+5.96%)</span> | 84<br/><span style="color: #B22222;">(+14.20%)</span> | 73<br/><span style="color: #004225;">(-10.00%)</span> | 81<br/><span style="color: #DC143C;">(+27.00%)</span> | 64<br/><span style="color: #B22222;">(+14.90%)</span> |
-| **9月** | 85<br/><span style="color: #8B0000;">(+5.84%)</span> | 80<br/><span style="color: #B22222;">(+16.10%)</span> | 69<br/><span style="color: #B22222;">(+12.70%)</span> | 61<br/><span style="color: #002818;">(-8.42%)</span> | 67<br/><span style="color: #B22222;">(+17.20%)</span> |
-| **8月** | 79<br/><span style="color: #8B0000;">(+1.59%)</span> | 78<br/><span style="color: #B22222;">(+18.30%)</span> | 66<br/><span style="color: #8B0000;">(+6.14%)</span> | 62<br/><span style="color: #8B0000;">(+1.79%)</span> | 61<br/><span style="color: #8B0000;">(+2.93%)</span> |
-| **7月** | 79<br/><span style="color: #8B0000;">(+4.98%)</span> | 76<br/><span style="color: #8B0000;">(+6.71%)</span> | 71<br/><span style="color: #8B0000;">(+9.03%)</span> | 65<br/><span style="color: #002818;">(-1.13%)</span> | 66<br/><span style="color: #DC143C;">(+27.00%)</span> |
-| **6月** | 84<br/><span style="color: #B22222;">(+17.60%)</span> | 72<br/><span style="color: #8B0000;">(+5.61%)</span> | 68<br/><span style="color: #004225;">(-13.10%)</span> | 78<br/><span style="color: #B22222;">(+12.80%)</span> | 69<br/><span style="color: #8B0000;">(+1.04%)</span> |
-| **5月** | 82<br/><span style="color: #8B0000;">(+8.23%)</span> | 75<br/><span style="color: #8B0000;">(+4.19%)</span> | 72<br/><span style="color: #B22222;">(+12.80%)</span> | 64<br/><span style="color: #8B0000;">(+4.05%)</span> | 62<br/><span style="color: #B22222;">(+16.50%)</span> |
-| **4月** | 78<br/><span style="color: #8B0000;">(+8.84%)</span> | 72<br/><span style="color: #8B0000;">(+2.24%)</span> | 70<br/><span style="color: #B22222;">(+12.00%)</span> | 62<br/><span style="color: #8B0000;">(+2.42%)</span> | 61<br/><span style="color: #B22222;">(+13.60%)</span> |
-| **3月** | 79<br/><span style="color: #B22222;">(+16.20%)</span> | 68<br/><span style="color: #8B0000;">(+5.32%)</span> | 64<br/><span style="color: #8B0000;">(+4.92%)</span> | 61<br/><span style="color: #8B0000;">(+7.87%)</span> | 57<br/><span style="color: #DC143C;">(+28.30%)</span> |
-| **2月** | 76<br/><span style="color: #DC143C;">(+21.30%)</span> | 63<br/><span style="color: #8B0000;">(+8.75%)</span> | 57<br/><span style="color: #002818;">(-7.84%)</span> | 62<br/><span style="color: #B22222;">(+10.50%)</span> | 56<br/><span style="color: #FF4500;">(+31.50%)</span> |
-| **1月** | 76<br/><span style="color: #B22222;">(+12.80%)</span> | 67<br/><span style="color: #8B0000;">(+4.93%)</span> | 64<br/><span style="color: #002818;">(-2.80%)</span> | 66<br/><span style="color: #B22222;">(+17.20%)</span> | 56<br/><span style="color: #DC143C;">(+27.80%)</span> |
+| **12月** | -- | 104<br/><span style="color: #004225;">(-10.20%)</span> | 115<br/><span style="color: #FF7F7F;">(+65.10%)</span> | 70<br/><span style="color: #004225;">(-10.70%)</span> | 78<br/><span style="color: #002818;">(-0.80%)</span> |
+| **11月** | -- | 97<br/><span style="color: #8B0000;">(+5.87%)</span> | 92<br/><span style="color: #DC143C;">(+23.70%)</span> | 74<br/><span style="color: #B22222;">(+10.90%)</span> | 67<br/><span style="color: #002818;">(-0.93%)</span> |
+| **10月** | -- | 89<br/><span style="color: #8B0000;">(+5.96%)</span> | 84<br/><span style="color: #B22222;">(+14.20%)</span> | 73<br/><span style="color: #004225;">(-10.00%)</span> | 81<br/><span style="color: #DC143C;">(+27.00%)</span> |
+| **9月** | -- | 85<br/><span style="color: #8B0000;">(+5.84%)</span> | 80<br/><span style="color: #B22222;">(+16.10%)</span> | 69<br/><span style="color: #B22222;">(+12.70%)</span> | 61<br/><span style="color: #002818;">(-8.42%)</span> |
+| **8月** | -- | 79<br/><span style="color: #8B0000;">(+1.59%)</span> | 78<br/><span style="color: #B22222;">(+18.30%)</span> | 66<br/><span style="color: #8B0000;">(+6.14%)</span> | 62<br/><span style="color: #8B0000;">(+1.79%)</span> |
+| **7月** | -- | 79<br/><span style="color: #8B0000;">(+4.98%)</span> | 76<br/><span style="color: #8B0000;">(+6.71%)</span> | 71<br/><span style="color: #8B0000;">(+9.03%)</span> | 65<br/><span style="color: #002818;">(-1.13%)</span> |
+| **6月** | -- | 84<br/><span style="color: #B22222;">(+17.60%)</span> | 72<br/><span style="color: #8B0000;">(+5.61%)</span> | 68<br/><span style="color: #004225;">(-13.10%)</span> | 78<br/><span style="color: #B22222;">(+12.80%)</span> |
+| **5月** | -- | 82<br/><span style="color: #8B0000;">(+8.23%)</span> | 75<br/><span style="color: #8B0000;">(+4.19%)</span> | 72<br/><span style="color: #B22222;">(+12.80%)</span> | 64<br/><span style="color: #8B0000;">(+4.05%)</span> |
+| **4月** | -- | 78<br/><span style="color: #8B0000;">(+8.84%)</span> | 72<br/><span style="color: #8B0000;">(+2.24%)</span> | 70<br/><span style="color: #B22222;">(+12.00%)</span> | 62<br/><span style="color: #8B0000;">(+2.42%)</span> |
+| **3月** | -- | 79<br/><span style="color: #B22222;">(+16.20%)</span> | 68<br/><span style="color: #8B0000;">(+5.32%)</span> | 64<br/><span style="color: #8B0000;">(+4.92%)</span> | 61<br/><span style="color: #8B0000;">(+7.87%)</span> |
+| **2月** | -- | 76<br/><span style="color: #DC143C;">(+21.30%)</span> | 63<br/><span style="color: #8B0000;">(+8.75%)</span> | 57<br/><span style="color: #002818;">(-7.84%)</span> | 62<br/><span style="color: #B22222;">(+10.50%)</span> |
+| **1月** | 84<br/><span style="color: #B22222;">(+11.50%)</span> | 76<br/><span style="color: #B22222;">(+12.80%)</span> | 67<br/><span style="color: #8B0000;">(+4.93%)</span> | 64<br/><span style="color: #002818;">(-2.80%)</span> | 66<br/><span style="color: #B22222;">(+17.20%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 嘉實 (3158) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **0.847** | <span style="color: #B22222; font-weight: bold;">+11.5</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **89.8** | <span style="color: #000000; font-weight: bold;">7.05</span> | <span style="color: #006400; font-weight: bold;">12.74</span> |
 | **2025/12** | **1.04** | <span style="color: #004225; font-weight: bold;">-10.2</span> | <span style="color: #8B0000; font-weight: bold;">+7.07</span> | **92.7** | <span style="color: #000000; font-weight: bold;">7.05</span> | <span style="color: #002818; font-weight: bold;">13.15</span> |
 | **2025/11** | **0.978** | <span style="color: #8B0000; font-weight: bold;">+5.87</span> | <span style="color: #8B0000; font-weight: bold;">+9.48</span> | **99.3** | <span style="color: #000000; font-weight: bold;">7.05</span> | <span style="color: #B22222; font-weight: bold;">14.09</span> |
 | **2025/10** | **0.89** | <span style="color: #8B0000; font-weight: bold;">+5.96</span> | <span style="color: #8B0000; font-weight: bold;">+9.93</span> | **-** | N/A | N/A |
@@ -411,7 +412,7 @@ description: 月營收表 嘉實 (3158) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 01:43:57 CST
+- **產生時間**: 2026-02-11 07:17:41 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

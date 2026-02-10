@@ -24,14 +24,14 @@ description: 月營收表 崇越 (5434) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 崇越  
     **:identification_card: 股票代號**: 5434  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 01:43:57 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-11 07:17:41 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+18.9</span> | <span style="color: #B22222; font-weight: bold;">+18.6</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #8B0000; font-weight: bold;">+8.25</span> | <span style="color: #8B0000; font-weight: bold;">+8.25</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 崇越 (5434) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 6,480<br/><span style="color: #B22222;">(+18.90%)</span> | 5,450<br/><span style="color: #FF4500;">(+38.80%)</span> | 3,928<br/><span style="color: #004225;">(-10.00%)</span> | 4,365<br/><span style="color: #8B0000;">(+2.14%)</span> | 4,274<br/><span style="color: #FF4500;">(+33.50%)</span> |
-| **11月** | 5,740<br/><span style="color: #8B0000;">(+9.99%)</span> | 5,219<br/><span style="color: #FF4500;">(+31.70%)</span> | 3,961<br/><span style="color: #004225;">(-10.10%)</span> | 4,409<br/><span style="color: #B22222;">(+17.10%)</span> | 3,764<br/><span style="color: #FF4500;">(+30.10%)</span> |
-| **10月** | 5,079<br/><span style="color: #002818;">(-3.03%)</span> | 5,238<br/><span style="color: #DC143C;">(+20.60%)</span> | 4,343<br/><span style="color: #002818;">(-5.65%)</span> | 4,603<br/><span style="color: #DC143C;">(+23.50%)</span> | 3,728<br/><span style="color: #FF4500;">(+31.10%)</span> |
-| **9月** | 6,092<br/><span style="color: #B22222;">(+14.60%)</span> | 5,314<br/><span style="color: #DC143C;">(+26.20%)</span> | 4,211<br/><span style="color: #002818;">(-7.23%)</span> | 4,539<br/><span style="color: #DC143C;">(+21.90%)</span> | 3,722<br/><span style="color: #B22222;">(+17.60%)</span> |
-| **8月** | 5,715<br/><span style="color: #8B0000;">(+7.74%)</span> | 5,304<br/><span style="color: #DC143C;">(+27.70%)</span> | 4,153<br/><span style="color: #004225;">(-10.30%)</span> | 4,632<br/><span style="color: #DC143C;">(+26.90%)</span> | 3,651<br/><span style="color: #DC143C;">(+24.00%)</span> |
-| **7月** | 5,731<br/><span style="color: #DC143C;">(+20.70%)</span> | 4,748<br/><span style="color: #B22222;">(+15.00%)</span> | 4,129<br/><span style="color: #004225;">(-10.70%)</span> | 4,622<br/><span style="color: #DC143C;">(+27.80%)</span> | 3,615<br/><span style="color: #DC143C;">(+22.20%)</span> |
-| **6月** | 5,651<br/><span style="color: #DC143C;">(+24.70%)</span> | 4,531<br/><span style="color: #B22222;">(+11.80%)</span> | 4,051<br/><span style="color: #004225;">(-11.70%)</span> | 4,587<br/><span style="color: #FF4500;">(+31.50%)</span> | 3,488<br/><span style="color: #B22222;">(+12.50%)</span> |
-| **5月** | 5,516<br/><span style="color: #DC143C;">(+20.40%)</span> | 4,581<br/><span style="color: #B22222;">(+12.90%)</span> | 4,056<br/><span style="color: #004225;">(-11.60%)</span> | 4,588<br/><span style="color: #FF6347;">(+46.20%)</span> | 3,138<br/><span style="color: #8B0000;">(+9.66%)</span> |
-| **4月** | 5,821<br/><span style="color: #DC143C;">(+24.40%)</span> | 4,680<br/><span style="color: #B22222;">(+18.50%)</span> | 3,947<br/><span style="color: #002818;">(-2.54%)</span> | 4,051<br/><span style="color: #8B0000;">(+7.85%)</span> | 3,756<br/><span style="color: #B22222;">(+10.10%)</span> |
-| **3月** | 5,369<br/><span style="color: #DC143C;">(+29.70%)</span> | 4,139<br/><span style="color: #002818;">(-2.36%)</span> | 4,239<br/><span style="color: #002818;">(-6.94%)</span> | 4,555<br/><span style="color: #FF4500;">(+33.00%)</span> | 3,424<br/><span style="color: #8B0000;">(+7.68%)</span> |
-| **2月** | 4,844<br/><span style="color: #DC143C;">(+29.40%)</span> | 3,744<br/><span style="color: #002818;">(-1.81%)</span> | 3,814<br/><span style="color: #8B0000;">(+6.23%)</span> | 3,590<br/><span style="color: #DC143C;">(+21.30%)</span> | 2,960<br/><span style="color: #8B0000;">(+5.16%)</span> |
-| **1月** | 5,547<br/><span style="color: #FF4500;">(+37.00%)</span> | 4,049<br/><span style="color: #002818;">(-8.81%)</span> | 4,440<br/><span style="color: #8B0000;">(+0.04%)</span> | 4,438<br/><span style="color: #FF6347;">(+40.90%)</span> | 3,149<br/><span style="color: #B22222;">(+12.60%)</span> |
+| **12月** | -- | 6,480<br/><span style="color: #B22222;">(+18.90%)</span> | 5,450<br/><span style="color: #FF4500;">(+38.80%)</span> | 3,928<br/><span style="color: #004225;">(-10.00%)</span> | 4,365<br/><span style="color: #8B0000;">(+2.14%)</span> |
+| **11月** | -- | 5,740<br/><span style="color: #8B0000;">(+9.99%)</span> | 5,219<br/><span style="color: #FF4500;">(+31.70%)</span> | 3,961<br/><span style="color: #004225;">(-10.10%)</span> | 4,409<br/><span style="color: #B22222;">(+17.10%)</span> |
+| **10月** | -- | 5,079<br/><span style="color: #002818;">(-3.03%)</span> | 5,238<br/><span style="color: #DC143C;">(+20.60%)</span> | 4,343<br/><span style="color: #002818;">(-5.65%)</span> | 4,603<br/><span style="color: #DC143C;">(+23.50%)</span> |
+| **9月** | -- | 6,092<br/><span style="color: #B22222;">(+14.60%)</span> | 5,314<br/><span style="color: #DC143C;">(+26.20%)</span> | 4,211<br/><span style="color: #002818;">(-7.23%)</span> | 4,539<br/><span style="color: #DC143C;">(+21.90%)</span> |
+| **8月** | -- | 5,715<br/><span style="color: #8B0000;">(+7.74%)</span> | 5,304<br/><span style="color: #DC143C;">(+27.70%)</span> | 4,153<br/><span style="color: #004225;">(-10.30%)</span> | 4,632<br/><span style="color: #DC143C;">(+26.90%)</span> |
+| **7月** | -- | 5,731<br/><span style="color: #DC143C;">(+20.70%)</span> | 4,748<br/><span style="color: #B22222;">(+15.00%)</span> | 4,129<br/><span style="color: #004225;">(-10.70%)</span> | 4,622<br/><span style="color: #DC143C;">(+27.80%)</span> |
+| **6月** | -- | 5,651<br/><span style="color: #DC143C;">(+24.70%)</span> | 4,531<br/><span style="color: #B22222;">(+11.80%)</span> | 4,051<br/><span style="color: #004225;">(-11.70%)</span> | 4,587<br/><span style="color: #FF4500;">(+31.50%)</span> |
+| **5月** | -- | 5,516<br/><span style="color: #DC143C;">(+20.40%)</span> | 4,581<br/><span style="color: #B22222;">(+12.90%)</span> | 4,056<br/><span style="color: #004225;">(-11.60%)</span> | 4,588<br/><span style="color: #FF6347;">(+46.20%)</span> |
+| **4月** | -- | 5,821<br/><span style="color: #DC143C;">(+24.40%)</span> | 4,680<br/><span style="color: #B22222;">(+18.50%)</span> | 3,947<br/><span style="color: #002818;">(-2.54%)</span> | 4,051<br/><span style="color: #8B0000;">(+7.85%)</span> |
+| **3月** | -- | 5,369<br/><span style="color: #DC143C;">(+29.70%)</span> | 4,139<br/><span style="color: #002818;">(-2.36%)</span> | 4,239<br/><span style="color: #002818;">(-6.94%)</span> | 4,555<br/><span style="color: #FF4500;">(+33.00%)</span> |
+| **2月** | -- | 4,844<br/><span style="color: #DC143C;">(+29.40%)</span> | 3,744<br/><span style="color: #002818;">(-1.81%)</span> | 3,814<br/><span style="color: #8B0000;">(+6.23%)</span> | 3,590<br/><span style="color: #DC143C;">(+21.30%)</span> |
+| **1月** | 6,004<br/><span style="color: #8B0000;">(+8.25%)</span> | 5,547<br/><span style="color: #FF4500;">(+37.00%)</span> | 4,049<br/><span style="color: #002818;">(-8.81%)</span> | 4,440<br/><span style="color: #8B0000;">(+0.04%)</span> | 4,438<br/><span style="color: #FF6347;">(+40.90%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 崇越 (5434) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **60.04** | <span style="color: #8B0000; font-weight: bold;">+8.25</span> | <span style="color: #8B0000; font-weight: bold;">+8.25</span> | **323** | <span style="color: #FF4500; font-weight: bold;">20.28</span> | <span style="color: #B22222; font-weight: bold;">15.93</span> |
 | **2025/12** | **64.8** | <span style="color: #B22222; font-weight: bold;">+18.9</span> | <span style="color: #B22222; font-weight: bold;">+18.6</span> | **291** | <span style="color: #FF4500; font-weight: bold;">20.28</span> | <span style="color: #8B0000; font-weight: bold;">14.35</span> |
 | **2025/11** | **57.4** | <span style="color: #8B0000; font-weight: bold;">+9.99</span> | <span style="color: #B22222; font-weight: bold;">+18.5</span> | **302.5** | <span style="color: #FF4500; font-weight: bold;">20.2</span> | <span style="color: #B22222; font-weight: bold;">14.98</span> |
 | **2025/10** | **50.79** | <span style="color: #002818; font-weight: bold;">-3.03</span> | <span style="color: #B22222; font-weight: bold;">+19.5</span> | **342** | <span style="color: #FF4500; font-weight: bold;">20.12</span> | <span style="color: #B22222; font-weight: bold;">17.0</span> |
@@ -413,7 +414,7 @@ description: 月營收表 崇越 (5434) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 01:43:57 CST
+- **產生時間**: 2026-02-11 07:17:41 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

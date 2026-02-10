@@ -24,14 +24,14 @@ description: 月營收表 微星 (2377) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 微星  
     **:identification_card: 股票代號**: 2377  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 01:43:57 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-11 07:17:41 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+33.9</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #FF4500; font-weight: bold;">+33.7</span> | <span style="color: #FF4500; font-weight: bold;">+33.7</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 微星 (2377) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 16,860<br/><span style="color: #FF4500;">(+33.90%)</span> | 12,590<br/><span style="color: #8B0000;">(+5.44%)</span> | 11,940<br/><span style="color: #002818;">(-2.82%)</span> | 12,290<br/><span style="color: #006400;">(-20.80%)</span> | 15,510<br/><span style="color: #DC143C;">(+24.50%)</span> |
-| **11月** | 20,120<br/><span style="color: #8B0000;">(+6.85%)</span> | 18,830<br/><span style="color: #8B0000;">(+4.22%)</span> | 18,060<br/><span style="color: #DC143C;">(+21.70%)</span> | 14,850<br/><span style="color: #006400;">(-25.20%)</span> | 19,840<br/><span style="color: #DC143C;">(+27.10%)</span> |
-| **10月** | 20,620<br/><span style="color: #8B0000;">(+2.78%)</span> | 20,070<br/><span style="color: #8B0000;">(+4.79%)</span> | 19,150<br/><span style="color: #FF6347;">(+40.20%)</span> | 13,650<br/><span style="color: #228B22;">(-31.50%)</span> | 19,930<br/><span style="color: #FF6347;">(+44.00%)</span> |
-| **9月** | 19,550<br/><span style="color: #002818;">(-1.30%)</span> | 19,810<br/><span style="color: #8B0000;">(+9.38%)</span> | 18,110<br/><span style="color: #FF4500;">(+39.40%)</span> | 12,990<br/><span style="color: #228B22;">(-32.40%)</span> | 19,200<br/><span style="color: #FF6347;">(+40.80%)</span> |
-| **8月** | 18,830<br/><span style="color: #B22222;">(+14.70%)</span> | 16,420<br/><span style="color: #002818;">(-2.78%)</span> | 16,890<br/><span style="color: #FF4500;">(+34.50%)</span> | 12,560<br/><span style="color: #228B22;">(-32.00%)</span> | 18,480<br/><span style="color: #FF4500;">(+39.20%)</span> |
-| **7月** | 19,350<br/><span style="color: #DC143C;">(+22.00%)</span> | 15,850<br/><span style="color: #B22222;">(+13.90%)</span> | 13,910<br/><span style="color: #8B0000;">(+6.93%)</span> | 13,010<br/><span style="color: #004225;">(-10.40%)</span> | 14,519<br/><span style="color: #8B0000;">(+4.94%)</span> |
-| **6月** | 19,560<br/><span style="color: #FF4500;">(+33.00%)</span> | 14,710<br/><span style="color: #8B0000;">(+2.69%)</span> | 14,319<br/><span style="color: #004225;">(-13.20%)</span> | 16,500<br/><span style="color: #8B0000;">(+5.95%)</span> | 15,569<br/><span style="color: #B22222;">(+13.00%)</span> |
-| **5月** | 20,710<br/><span style="color: #FF4500;">(+33.20%)</span> | 15,560<br/><span style="color: #B22222;">(+12.20%)</span> | 13,860<br/><span style="color: #004225;">(-12.90%)</span> | 15,910<br/><span style="color: #8B0000;">(+1.50%)</span> | 15,669<br/><span style="color: #FF6347;">(+43.10%)</span> |
-| **4月** | 21,040<br/><span style="color: #DC143C;">(+28.20%)</span> | 16,410<br/><span style="color: #DC143C;">(+25.10%)</span> | 13,110<br/><span style="color: #004225;">(-16.00%)</span> | 15,610<br/><span style="color: #8B0000;">(+3.51%)</span> | 15,080<br/><span style="color: #FF6347;">(+42.10%)</span> |
-| **3月** | 20,260<br/><span style="color: #DC143C;">(+23.40%)</span> | 16,410<br/><span style="color: #8B0000;">(+0.49%)</span> | 16,330<br/><span style="color: #002818;">(-8.14%)</span> | 17,780<br/><span style="color: #8B0000;">(+0.31%)</span> | 17,730<br/><span style="color: #FF7F7F;">(+72.00%)</span> |
-| **2月** | 16,620<br/><span style="color: #B22222;">(+12.20%)</span> | 14,819<br/><span style="color: #8B0000;">(+5.01%)</span> | 14,110<br/><span style="color: #002818;">(-5.10%)</span> | 14,869<br/><span style="color: #B22222;">(+12.20%)</span> | 13,260<br/><span style="color: #FF7F7F;">(+63.00%)</span> |
-| **1月** | 16,650<br/><span style="color: #8B0000;">(+1.59%)</span> | 16,390<br/><span style="color: #DC143C;">(+24.60%)</span> | 13,160<br/><span style="color: #228B22;">(-35.50%)</span> | 20,390<br/><span style="color: #B22222;">(+19.80%)</span> | 17,020<br/><span style="color: #FF7F7F;">(+69.10%)</span> |
+| **12月** | -- | 16,860<br/><span style="color: #FF4500;">(+33.90%)</span> | 12,590<br/><span style="color: #8B0000;">(+5.44%)</span> | 11,940<br/><span style="color: #002818;">(-2.82%)</span> | 12,290<br/><span style="color: #006400;">(-20.80%)</span> |
+| **11月** | -- | 20,120<br/><span style="color: #8B0000;">(+6.85%)</span> | 18,830<br/><span style="color: #8B0000;">(+4.22%)</span> | 18,060<br/><span style="color: #DC143C;">(+21.70%)</span> | 14,850<br/><span style="color: #006400;">(-25.20%)</span> |
+| **10月** | -- | 20,620<br/><span style="color: #8B0000;">(+2.78%)</span> | 20,070<br/><span style="color: #8B0000;">(+4.79%)</span> | 19,150<br/><span style="color: #FF6347;">(+40.20%)</span> | 13,650<br/><span style="color: #228B22;">(-31.50%)</span> |
+| **9月** | -- | 19,550<br/><span style="color: #002818;">(-1.30%)</span> | 19,810<br/><span style="color: #8B0000;">(+9.38%)</span> | 18,110<br/><span style="color: #FF4500;">(+39.40%)</span> | 12,990<br/><span style="color: #228B22;">(-32.40%)</span> |
+| **8月** | -- | 18,830<br/><span style="color: #B22222;">(+14.70%)</span> | 16,420<br/><span style="color: #002818;">(-2.78%)</span> | 16,890<br/><span style="color: #FF4500;">(+34.50%)</span> | 12,560<br/><span style="color: #228B22;">(-32.00%)</span> |
+| **7月** | -- | 19,350<br/><span style="color: #DC143C;">(+22.00%)</span> | 15,850<br/><span style="color: #B22222;">(+13.90%)</span> | 13,910<br/><span style="color: #8B0000;">(+6.93%)</span> | 13,010<br/><span style="color: #004225;">(-10.40%)</span> |
+| **6月** | -- | 19,560<br/><span style="color: #FF4500;">(+33.00%)</span> | 14,710<br/><span style="color: #8B0000;">(+2.69%)</span> | 14,319<br/><span style="color: #004225;">(-13.20%)</span> | 16,500<br/><span style="color: #8B0000;">(+5.95%)</span> |
+| **5月** | -- | 20,710<br/><span style="color: #FF4500;">(+33.20%)</span> | 15,560<br/><span style="color: #B22222;">(+12.20%)</span> | 13,860<br/><span style="color: #004225;">(-12.90%)</span> | 15,910<br/><span style="color: #8B0000;">(+1.50%)</span> |
+| **4月** | -- | 21,040<br/><span style="color: #DC143C;">(+28.20%)</span> | 16,410<br/><span style="color: #DC143C;">(+25.10%)</span> | 13,110<br/><span style="color: #004225;">(-16.00%)</span> | 15,610<br/><span style="color: #8B0000;">(+3.51%)</span> |
+| **3月** | -- | 20,260<br/><span style="color: #DC143C;">(+23.40%)</span> | 16,410<br/><span style="color: #8B0000;">(+0.49%)</span> | 16,330<br/><span style="color: #002818;">(-8.14%)</span> | 17,780<br/><span style="color: #8B0000;">(+0.31%)</span> |
+| **2月** | -- | 16,620<br/><span style="color: #B22222;">(+12.20%)</span> | 14,819<br/><span style="color: #8B0000;">(+5.01%)</span> | 14,110<br/><span style="color: #002818;">(-5.10%)</span> | 14,869<br/><span style="color: #B22222;">(+12.20%)</span> |
+| **1月** | 22,270<br/><span style="color: #FF4500;">(+33.70%)</span> | 16,650<br/><span style="color: #8B0000;">(+1.59%)</span> | 16,390<br/><span style="color: #DC143C;">(+24.60%)</span> | 13,160<br/><span style="color: #228B22;">(-35.50%)</span> | 20,390<br/><span style="color: #B22222;">(+19.80%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 微星 (2377) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **222.7** | <span style="color: #FF4500; font-weight: bold;">+33.7</span> | <span style="color: #FF4500; font-weight: bold;">+33.7</span> | **90.2** | <span style="color: #8B0000; font-weight: bold;">5.42</span> | <span style="color: #002818; font-weight: bold;">16.64</span> |
 | **2025/12** | **168.6** | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **96.1** | <span style="color: #8B0000; font-weight: bold;">5.42</span> | <span style="color: #8B0000; font-weight: bold;">17.73</span> |
 | **2025/11** | **201.2** | <span style="color: #8B0000; font-weight: bold;">+6.85</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **107.5** | <span style="color: #8B0000; font-weight: bold;">5.64</span> | <span style="color: #8B0000; font-weight: bold;">19.07</span> |
 | **2025/10** | **206.2** | <span style="color: #8B0000; font-weight: bold;">+2.78</span> | <span style="color: #B22222; font-weight: bold;">+16.1</span> | **109.5** | <span style="color: #8B0000; font-weight: bold;">5.86</span> | <span style="color: #8B0000; font-weight: bold;">18.7</span> |
@@ -413,7 +414,7 @@ description: 月營收表 微星 (2377) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 01:43:57 CST
+- **產生時間**: 2026-02-11 07:17:41 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

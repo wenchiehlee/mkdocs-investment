@@ -24,14 +24,14 @@ description: 月營收表 華碩 (2357) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 華碩  
     **:identification_card: 股票代號**: 2357  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 01:43:57 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-11 07:17:41 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF6347; font-weight: bold;">+43.6</span> | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #FF7F7F; font-weight: bold;">+80</span> | <span style="color: #FF7F7F; font-weight: bold;">+80</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 華碩 (2357) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 69,710<br/><span style="color: #FF6347;">(+43.60%)</span> | 48,540<br/><span style="color: #FF4500;">(+39.10%)</span> | 34,890<br/><span style="color: #004225;">(-14.90%)</span> | 41,010<br/><span style="color: #006400;">(-20.70%)</span> | 51,740<br/><span style="color: #DC143C;">(+20.40%)</span> |
-| **11月** | 66,880<br/><span style="color: #DC143C;">(+20.60%)</span> | 55,460<br/><span style="color: #DC143C;">(+28.50%)</span> | 43,150<br/><span style="color: #002818;">(-5.67%)</span> | 45,740<br/><span style="color: #004225;">(-17.10%)</span> | 55,170<br/><span style="color: #FF4500;">(+38.80%)</span> |
-| **10月** | 66,330<br/><span style="color: #FF4500;">(+32.80%)</span> | 49,930<br/><span style="color: #B22222;">(+18.50%)</span> | 42,120<br/><span style="color: #8B0000;">(+4.47%)</span> | 40,320<br/><span style="color: #004225;">(-10.40%)</span> | 44,990<br/><span style="color: #B22222;">(+13.60%)</span> |
-| **9月** | 82,590<br/><span style="color: #FF4500;">(+33.00%)</span> | 62,090<br/><span style="color: #DC143C;">(+27.10%)</span> | 48,870<br/><span style="color: #004225;">(-18.30%)</span> | 59,790<br/><span style="color: #8B0000;">(+6.67%)</span> | 56,050<br/><span style="color: #B22222;">(+19.10%)</span> |
-| **8月** | 62,820<br/><span style="color: #8B0000;">(+9.93%)</span> | 57,140<br/><span style="color: #B22222;">(+17.50%)</span> | 48,620<br/><span style="color: #8B0000;">(+0.80%)</span> | 48,230<br/><span style="color: #8B0000;">(+6.06%)</span> | 45,470<br/><span style="color: #8B0000;">(+5.15%)</span> |
-| **7月** | 54,870<br/><span style="color: #B22222;">(+15.90%)</span> | 47,330<br/><span style="color: #DC143C;">(+26.00%)</span> | 37,560<br/><span style="color: #8B0000;">(+2.20%)</span> | 36,750<br/><span style="color: #002818;">(-2.18%)</span> | 37,570<br/><span style="color: #8B0000;">(+1.16%)</span> |
-| **6月** | 68,570<br/><span style="color: #B22222;">(+17.30%)</span> | 58,460<br/><span style="color: #DC143C;">(+21.60%)</span> | 48,080<br/><span style="color: #004225;">(-13.30%)</span> | 55,450<br/><span style="color: #B22222;">(+15.70%)</span> | 47,950<br/><span style="color: #DC143C;">(+21.80%)</span> |
-| **5月** | 63,220<br/><span style="color: #FF6347;">(+41.00%)</span> | 44,820<br/><span style="color: #DC143C;">(+23.40%)</span> | 36,320<br/><span style="color: #002818;">(-4.64%)</span> | 38,080<br/><span style="color: #002818;">(-7.10%)</span> | 41,000<br/><span style="color: #FF4500;">(+35.90%)</span> |
-| **4月** | 56,220<br/><span style="color: #FF4500;">(+35.10%)</span> | 41,620<br/><span style="color: #FF4500;">(+33.00%)</span> | 31,300<br/><span style="color: #002818;">(-6.24%)</span> | 33,390<br/><span style="color: #004225;">(-14.70%)</span> | 39,140<br/><span style="color: #FF7F7F;">(+72.20%)</span> |
-| **3月** | 64,320<br/><span style="color: #DC143C;">(+29.30%)</span> | 49,730<br/><span style="color: #8B0000;">(+0.97%)</span> | 49,250<br/><span style="color: #004225;">(-10.50%)</span> | 55,029<br/><span style="color: #B22222;">(+19.90%)</span> | 45,900<br/><span style="color: #FF7F7F;">(+74.70%)</span> |
-| **2月** | 45,630<br/><span style="color: #DC143C;">(+29.30%)</span> | 35,300<br/><span style="color: #8B0000;">(+1.28%)</span> | 34,850<br/><span style="color: #004225;">(-13.40%)</span> | 40,230<br/><span style="color: #DC143C;">(+20.00%)</span> | 33,540<br/><span style="color: #FF7F7F;">(+57.60%)</span> |
-| **1月** | 37,750<br/><span style="color: #8B0000;">(+2.94%)</span> | 36,670<br/><span style="color: #FF4500;">(+34.30%)</span> | 27,289<br/><span style="color: #228B22;">(-36.80%)</span> | 43,160<br/><span style="color: #B22222;">(+17.50%)</span> | 36,720<br/><span style="color: #FF7F7F;">(+58.30%)</span> |
+| **12月** | -- | 69,710<br/><span style="color: #FF6347;">(+43.60%)</span> | 48,540<br/><span style="color: #FF4500;">(+39.10%)</span> | 34,890<br/><span style="color: #004225;">(-14.90%)</span> | 41,010<br/><span style="color: #006400;">(-20.70%)</span> |
+| **11月** | -- | 66,880<br/><span style="color: #DC143C;">(+20.60%)</span> | 55,460<br/><span style="color: #DC143C;">(+28.50%)</span> | 43,150<br/><span style="color: #002818;">(-5.67%)</span> | 45,740<br/><span style="color: #004225;">(-17.10%)</span> |
+| **10月** | -- | 66,330<br/><span style="color: #FF4500;">(+32.80%)</span> | 49,930<br/><span style="color: #B22222;">(+18.50%)</span> | 42,120<br/><span style="color: #8B0000;">(+4.47%)</span> | 40,320<br/><span style="color: #004225;">(-10.40%)</span> |
+| **9月** | -- | 82,590<br/><span style="color: #FF4500;">(+33.00%)</span> | 62,090<br/><span style="color: #DC143C;">(+27.10%)</span> | 48,870<br/><span style="color: #004225;">(-18.30%)</span> | 59,790<br/><span style="color: #8B0000;">(+6.67%)</span> |
+| **8月** | -- | 62,820<br/><span style="color: #8B0000;">(+9.93%)</span> | 57,140<br/><span style="color: #B22222;">(+17.50%)</span> | 48,620<br/><span style="color: #8B0000;">(+0.80%)</span> | 48,230<br/><span style="color: #8B0000;">(+6.06%)</span> |
+| **7月** | -- | 54,870<br/><span style="color: #B22222;">(+15.90%)</span> | 47,330<br/><span style="color: #DC143C;">(+26.00%)</span> | 37,560<br/><span style="color: #8B0000;">(+2.20%)</span> | 36,750<br/><span style="color: #002818;">(-2.18%)</span> |
+| **6月** | -- | 68,570<br/><span style="color: #B22222;">(+17.30%)</span> | 58,460<br/><span style="color: #DC143C;">(+21.60%)</span> | 48,080<br/><span style="color: #004225;">(-13.30%)</span> | 55,450<br/><span style="color: #B22222;">(+15.70%)</span> |
+| **5月** | -- | 63,220<br/><span style="color: #FF6347;">(+41.00%)</span> | 44,820<br/><span style="color: #DC143C;">(+23.40%)</span> | 36,320<br/><span style="color: #002818;">(-4.64%)</span> | 38,080<br/><span style="color: #002818;">(-7.10%)</span> |
+| **4月** | -- | 56,220<br/><span style="color: #FF4500;">(+35.10%)</span> | 41,620<br/><span style="color: #FF4500;">(+33.00%)</span> | 31,300<br/><span style="color: #002818;">(-6.24%)</span> | 33,390<br/><span style="color: #004225;">(-14.70%)</span> |
+| **3月** | -- | 64,320<br/><span style="color: #DC143C;">(+29.30%)</span> | 49,730<br/><span style="color: #8B0000;">(+0.97%)</span> | 49,250<br/><span style="color: #004225;">(-10.50%)</span> | 55,029<br/><span style="color: #B22222;">(+19.90%)</span> |
+| **2月** | -- | 45,630<br/><span style="color: #DC143C;">(+29.30%)</span> | 35,300<br/><span style="color: #8B0000;">(+1.28%)</span> | 34,850<br/><span style="color: #004225;">(-13.40%)</span> | 40,230<br/><span style="color: #DC143C;">(+20.00%)</span> |
+| **1月** | 67,940<br/><span style="color: #FF7F7F;">(+80.00%)</span> | 37,750<br/><span style="color: #8B0000;">(+2.94%)</span> | 36,670<br/><span style="color: #FF4500;">(+34.30%)</span> | 27,289<br/><span style="color: #228B22;">(-36.80%)</span> | 43,160<br/><span style="color: #B22222;">(+17.50%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 華碩 (2357) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **679.4** | <span style="color: #FF7F7F; font-weight: bold;">+80</span> | <span style="color: #FF7F7F; font-weight: bold;">+80</span> | **496** | <span style="color: #FF4500; font-weight: bold;">46.84</span> | <span style="color: #004225; font-weight: bold;">10.59</span> |
 | **2025/12** | **697.1** | <span style="color: #FF6347; font-weight: bold;">+43.6</span> | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | **548** | <span style="color: #FF4500; font-weight: bold;">46.84</span> | <span style="color: #004225; font-weight: bold;">11.7</span> |
 | **2025/11** | **668.8** | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | <span style="color: #DC143C; font-weight: bold;">+24.2</span> | **601** | <span style="color: #FF4500; font-weight: bold;">46.46</span> | <span style="color: #002818; font-weight: bold;">12.94</span> |
 | **2025/10** | **663.3** | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | <span style="color: #DC143C; font-weight: bold;">+24.7</span> | **697** | <span style="color: #FF4500; font-weight: bold;">46.08</span> | <span style="color: #8B0000; font-weight: bold;">15.13</span> |
@@ -413,7 +414,7 @@ description: 月營收表 華碩 (2357) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 01:43:57 CST
+- **產生時間**: 2026-02-11 07:17:41 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

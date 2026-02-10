@@ -24,14 +24,14 @@ description: 月營收表 祥碩 (5269) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 祥碩  
     **:identification_card: 股票代號**: 5269  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 01:43:57 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-11 07:17:41 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+79.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+66</span> | **169** 個月 | 2011/12 至 2025/12 |
+| <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | **170** 個月 | 2011/12 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 祥碩 (5269) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 1,143<br/><span style="color: #FF7F7F;">(+79.70%)</span> | 636<br/><span style="color: #002818;">(-3.93%)</span> | 662<br/><span style="color: #FF7F7F;">(+77.80%)</span> | 373<br/><span style="color: #002818;">(-0.89%)</span> | 376<br/><span style="color: #32CD32;">(-42.60%)</span> |
-| **11月** | 1,186<br/><span style="color: #FF7F7F;">(+85.20%)</span> | 641<br/><span style="color: #FF6347;">(+42.10%)</span> | 451<br/><span style="color: #FF6347;">(+46.80%)</span> | 307<br/><span style="color: #004225;">(-19.00%)</span> | 379<br/><span style="color: #32CD32;">(-43.50%)</span> |
-| **10月** | 1,190<br/><span style="color: #FF7F7F;">(+91.10%)</span> | 623<br/><span style="color: #8B0000;">(+4.17%)</span> | 598<br/><span style="color: #FF7F7F;">(+82.10%)</span> | 328<br/><span style="color: #006400;">(-21.20%)</span> | 417<br/><span style="color: #228B22;">(-38.10%)</span> |
-| **9月** | 1,422<br/><span style="color: #FF7F7F;">(+169.50%)</span> | 528<br/><span style="color: #004225;">(-16.20%)</span> | 629<br/><span style="color: #FF6347;">(+44.00%)</span> | 437<br/><span style="color: #006400;">(-21.70%)</span> | 558<br/><span style="color: #228B22;">(-31.60%)</span> |
-| **8月** | 1,307<br/><span style="color: #FF7F7F;">(+62.60%)</span> | 803<br/><span style="color: #FF6347;">(+46.90%)</span> | 547<br/><span style="color: #DC143C;">(+21.30%)</span> | 451<br/><span style="color: #006400;">(-20.50%)</span> | 567<br/><span style="color: #004225;">(-16.10%)</span> |
-| **7月** | 1,263<br/><span style="color: #FF7F7F;">(+58.80%)</span> | 795<br/><span style="color: #FF6347;">(+42.70%)</span> | 557<br/><span style="color: #DC143C;">(+24.00%)</span> | 449<br/><span style="color: #228B22;">(-32.00%)</span> | 661<br/><span style="color: #B22222;">(+10.10%)</span> |
-| **6月** | 1,118<br/><span style="color: #FF7F7F;">(+90.70%)</span> | 586<br/><span style="color: #8B0000;">(+6.40%)</span> | 551<br/><span style="color: #8B0000;">(+0.88%)</span> | 546<br/><span style="color: #8B0000;">(+3.14%)</span> | 529<br/><span style="color: #8B0000;">(+0.89%)</span> |
-| **5月** | 1,112<br/><span style="color: #FF4500;">(+38.50%)</span> | 802<br/><span style="color: #FF7F7F;">(+82.40%)</span> | 440<br/><span style="color: #002818;">(-4.63%)</span> | 462<br/><span style="color: #002818;">(-7.14%)</span> | 497<br/><span style="color: #FF6347;">(+46.40%)</span> |
-| **4月** | 1,163<br/><span style="color: #FF7F7F;">(+62.20%)</span> | 717<br/><span style="color: #DC143C;">(+26.60%)</span> | 566<br/><span style="color: #FF4500;">(+31.10%)</span> | 432<br/><span style="color: #002818;">(-2.93%)</span> | 445<br/><span style="color: #8B0000;">(+0.08%)</span> |
-| **3月** | 900<br/><span style="color: #B22222;">(+15.80%)</span> | 777<br/><span style="color: #B22222;">(+17.00%)</span> | 664<br/><span style="color: #FF4500;">(+37.50%)</span> | 483<br/><span style="color: #002818;">(-5.05%)</span> | 509<br/><span style="color: #006400;">(-27.50%)</span> |
-| **2月** | 759<br/><span style="color: #FF7F7F;">(+56.90%)</span> | 484<br/><span style="color: #DC143C;">(+25.40%)</span> | 386<br/><span style="color: #002818;">(-4.04%)</span> | 401<br/><span style="color: #002818;">(-1.01%)</span> | 405<br/><span style="color: #228B22;">(-32.80%)</span> |
-| **1月** | 851<br/><span style="color: #DC143C;">(+23.70%)</span> | 688<br/><span style="color: #FF7F7F;">(+96.90%)</span> | 349<br/><span style="color: #228B22;">(-39.60%)</span> | 579<br/><span style="color: #004225;">(-13.00%)</span> | 665<br/><span style="color: #FF7F7F;">(+137.60%)</span> |
+| **12月** | -- | 1,143<br/><span style="color: #FF7F7F;">(+79.70%)</span> | 636<br/><span style="color: #002818;">(-3.93%)</span> | 662<br/><span style="color: #FF7F7F;">(+77.80%)</span> | 373<br/><span style="color: #002818;">(-0.89%)</span> |
+| **11月** | -- | 1,186<br/><span style="color: #FF7F7F;">(+85.20%)</span> | 641<br/><span style="color: #FF6347;">(+42.10%)</span> | 451<br/><span style="color: #FF6347;">(+46.80%)</span> | 307<br/><span style="color: #004225;">(-19.00%)</span> |
+| **10月** | -- | 1,190<br/><span style="color: #FF7F7F;">(+91.10%)</span> | 623<br/><span style="color: #8B0000;">(+4.17%)</span> | 598<br/><span style="color: #FF7F7F;">(+82.10%)</span> | 328<br/><span style="color: #006400;">(-21.20%)</span> |
+| **9月** | -- | 1,422<br/><span style="color: #FF7F7F;">(+169.50%)</span> | 528<br/><span style="color: #004225;">(-16.20%)</span> | 629<br/><span style="color: #FF6347;">(+44.00%)</span> | 437<br/><span style="color: #006400;">(-21.70%)</span> |
+| **8月** | -- | 1,307<br/><span style="color: #FF7F7F;">(+62.60%)</span> | 803<br/><span style="color: #FF6347;">(+46.90%)</span> | 547<br/><span style="color: #DC143C;">(+21.30%)</span> | 451<br/><span style="color: #006400;">(-20.50%)</span> |
+| **7月** | -- | 1,263<br/><span style="color: #FF7F7F;">(+58.80%)</span> | 795<br/><span style="color: #FF6347;">(+42.70%)</span> | 557<br/><span style="color: #DC143C;">(+24.00%)</span> | 449<br/><span style="color: #228B22;">(-32.00%)</span> |
+| **6月** | -- | 1,118<br/><span style="color: #FF7F7F;">(+90.70%)</span> | 586<br/><span style="color: #8B0000;">(+6.40%)</span> | 551<br/><span style="color: #8B0000;">(+0.88%)</span> | 546<br/><span style="color: #8B0000;">(+3.14%)</span> |
+| **5月** | -- | 1,112<br/><span style="color: #FF4500;">(+38.50%)</span> | 802<br/><span style="color: #FF7F7F;">(+82.40%)</span> | 440<br/><span style="color: #002818;">(-4.63%)</span> | 462<br/><span style="color: #002818;">(-7.14%)</span> |
+| **4月** | -- | 1,163<br/><span style="color: #FF7F7F;">(+62.20%)</span> | 717<br/><span style="color: #DC143C;">(+26.60%)</span> | 566<br/><span style="color: #FF4500;">(+31.10%)</span> | 432<br/><span style="color: #002818;">(-2.93%)</span> |
+| **3月** | -- | 900<br/><span style="color: #B22222;">(+15.80%)</span> | 777<br/><span style="color: #B22222;">(+17.00%)</span> | 664<br/><span style="color: #FF4500;">(+37.50%)</span> | 483<br/><span style="color: #002818;">(-5.05%)</span> |
+| **2月** | -- | 759<br/><span style="color: #FF7F7F;">(+56.90%)</span> | 484<br/><span style="color: #DC143C;">(+25.40%)</span> | 386<br/><span style="color: #002818;">(-4.04%)</span> | 401<br/><span style="color: #002818;">(-1.01%)</span> |
+| **1月** | 1,347<br/><span style="color: #FF7F7F;">(+58.30%)</span> | 851<br/><span style="color: #DC143C;">(+23.70%)</span> | 688<br/><span style="color: #FF7F7F;">(+96.90%)</span> | 349<br/><span style="color: #228B22;">(-39.60%)</span> | 579<br/><span style="color: #004225;">(-13.00%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **13.47** | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | **1290** | <span style="color: #FF4500; font-weight: bold;">65.18</span> | <span style="color: #228B22; font-weight: bold;">19.79</span> |
 | **2025/12** | **11.43** | <span style="color: #FF7F7F; font-weight: bold;">+79.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+66</span> | **1210** | <span style="color: #FF4500; font-weight: bold;">65.18</span> | <span style="color: #228B22; font-weight: bold;">18.56</span> |
 | **2025/11** | **11.86** | <span style="color: #FF7F7F; font-weight: bold;">+85.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.8</span> | **1295** | <span style="color: #FF4500; font-weight: bold;">64.05</span> | <span style="color: #006400; font-weight: bold;">20.22</span> |
 | **2025/10** | **11.9** | <span style="color: #FF7F7F; font-weight: bold;">+91.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+62.9</span> | **1445** | <span style="color: #FF4500; font-weight: bold;">62.91</span> | <span style="color: #006400; font-weight: bold;">22.97</span> |
@@ -343,7 +344,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 01:43:57 CST
+- **產生時間**: 2026-02-11 07:17:41 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
