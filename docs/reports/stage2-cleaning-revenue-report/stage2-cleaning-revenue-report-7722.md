@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-11
+date: 2026-02-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 LINEPAY (7722) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: LINEPAY  
     **:identification_card: 股票代號**: 7722  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 22:04:21 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-12 05:12:39 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+16.3</span> | <span style="color: #DC143C; font-weight: bold;">+25</span> | **26** 個月 | 2023/11 至 2025/12 |
+| <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #B22222; font-weight: bold;">+15.4</span> | **27** 個月 | 2023/11 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 LINEPAY (7722) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** |
-|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 718<br/><span style="color: #B22222;">(+16.30%)</span> | 617<br/><span style="color: #FF6347;">(+40.70%)</span> | 438<br/><span style="color: #B22222;">(+14.50%)</span> |
-| **11月** | 757<br/><span style="color: #DC143C;">(+27.80%)</span> | 592<br/><span style="color: #FF4500;">(+31.60%)</span> | 450<br/><span style="color: #DC143C;">(+25.10%)</span> |
-| **10月** | 704<br/><span style="color: #DC143C;">(+26.40%)</span> | 557<br/><span style="color: #B22222;">(+19.50%)</span> | -- |
-| **9月** | 679<br/><span style="color: #DC143C;">(+24.40%)</span> | 546<br/><span style="color: #FF6347;">(+42.20%)</span> | -- |
-| **8月** | 696<br/><span style="color: #FF4500;">(+30.80%)</span> | 532<br/><span style="color: #DC143C;">(+29.20%)</span> | -- |
-| **7月** | 640<br/><span style="color: #DC143C;">(+23.90%)</span> | 517<br/><span style="color: #DC143C;">(+20.20%)</span> | -- |
-| **6月** | 636<br/><span style="color: #B22222;">(+15.00%)</span> | 553<br/><span style="color: #FF7F7F;">(+52.70%)</span> | -- |
-| **5月** | 637<br/><span style="color: #FF4500;">(+33.10%)</span> | 479<br/><span style="color: #DC143C;">(+29.00%)</span> | -- |
-| **4月** | 590<br/><span style="color: #FF4500;">(+32.90%)</span> | 444<br/><span style="color: #DC143C;">(+21.10%)</span> | -- |
-| **3月** | 608<br/><span style="color: #DC143C;">(+25.40%)</span> | 484<br/><span style="color: #FF4500;">(+31.80%)</span> | -- |
-| **2月** | 585<br/><span style="color: #DC143C;">(+24.20%)</span> | 470<br/><span style="color: #FF4500;">(+35.00%)</span> | -- |
-| **1月** | 623<br/><span style="color: #DC143C;">(+23.50%)</span> | 505<br/><span style="color: #FF4500;">(+31.80%)</span> | -- |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 718<br/><span style="color: #B22222;">(+16.30%)</span> | 617<br/><span style="color: #FF6347;">(+40.70%)</span> | 438<br/><span style="color: #B22222;">(+14.50%)</span> |
+| **11月** | -- | 757<br/><span style="color: #DC143C;">(+27.80%)</span> | 592<br/><span style="color: #FF4500;">(+31.60%)</span> | 450<br/><span style="color: #DC143C;">(+25.10%)</span> |
+| **10月** | -- | 704<br/><span style="color: #DC143C;">(+26.40%)</span> | 557<br/><span style="color: #B22222;">(+19.50%)</span> | -- |
+| **9月** | -- | 679<br/><span style="color: #DC143C;">(+24.40%)</span> | 546<br/><span style="color: #FF6347;">(+42.20%)</span> | -- |
+| **8月** | -- | 696<br/><span style="color: #FF4500;">(+30.80%)</span> | 532<br/><span style="color: #DC143C;">(+29.20%)</span> | -- |
+| **7月** | -- | 640<br/><span style="color: #DC143C;">(+23.90%)</span> | 517<br/><span style="color: #DC143C;">(+20.20%)</span> | -- |
+| **6月** | -- | 636<br/><span style="color: #B22222;">(+15.00%)</span> | 553<br/><span style="color: #FF7F7F;">(+52.70%)</span> | -- |
+| **5月** | -- | 637<br/><span style="color: #FF4500;">(+33.10%)</span> | 479<br/><span style="color: #DC143C;">(+29.00%)</span> | -- |
+| **4月** | -- | 590<br/><span style="color: #FF4500;">(+32.90%)</span> | 444<br/><span style="color: #DC143C;">(+21.10%)</span> | -- |
+| **3月** | -- | 608<br/><span style="color: #DC143C;">(+25.40%)</span> | 484<br/><span style="color: #FF4500;">(+31.80%)</span> | -- |
+| **2月** | -- | 585<br/><span style="color: #DC143C;">(+24.20%)</span> | 470<br/><span style="color: #FF4500;">(+35.00%)</span> | -- |
+| **1月** | 720<br/><span style="color: #B22222;">(+15.40%)</span> | 623<br/><span style="color: #DC143C;">(+23.50%)</span> | 505<br/><span style="color: #FF4500;">(+31.80%)</span> | -- |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 LINEPAY (7722) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **7.2** | <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #B22222; font-weight: bold;">+15.4</span> | **462** | <span style="color: #006400; font-weight: bold;">8.53</span> | <span style="color: #006400; font-weight: bold;">54.16</span> |
 | **2025/12** | **7.18** | <span style="color: #B22222; font-weight: bold;">+16.3</span> | <span style="color: #DC143C; font-weight: bold;">+25</span> | **570** | <span style="color: #006400; font-weight: bold;">8.53</span> | <span style="color: #8B0000; font-weight: bold;">66.82</span> |
 | **2025/11** | **7.57** | <span style="color: #DC143C; font-weight: bold;">+27.8</span> | <span style="color: #DC143C; font-weight: bold;">+26</span> | **566** | <span style="color: #006400; font-weight: bold;">8.71</span> | <span style="color: #8B0000; font-weight: bold;">65.0</span> |
 | **2025/10** | **7.04** | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | **571** | <span style="color: #004225; font-weight: bold;">8.89</span> | <span style="color: #002818; font-weight: bold;">64.25</span> |
@@ -200,7 +201,7 @@ description: 月營收表 LINEPAY (7722) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 22:04:21 CST
+- **產生時間**: 2026-02-12 05:12:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

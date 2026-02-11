@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-11
+date: 2026-02-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 中保科 (9917) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 中保科  
     **:identification_card: 股票代號**: 9917  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 22:04:21 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-12 05:12:39 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+0.09</span> | <span style="color: #8B0000; font-weight: bold;">+6.41</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #8B0000; font-weight: bold;">+6.37</span> | <span style="color: #8B0000; font-weight: bold;">+6.37</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 中保科 (9917) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 1,721<br/><span style="color: #8B0000;">(+0.09%)</span> | 1,719<br/><span style="color: #B22222;">(+14.50%)</span> | 1,502<br/><span style="color: #8B0000;">(+8.39%)</span> | 1,385<br/><span style="color: #8B0000;">(+1.59%)</span> | 1,364<br/><span style="color: #8B0000;">(+9.16%)</span> |
-| **11月** | 1,661<br/><span style="color: #8B0000;">(+6.21%)</span> | 1,564<br/><span style="color: #8B0000;">(+4.73%)</span> | 1,493<br/><span style="color: #8B0000;">(+9.92%)</span> | 1,358<br/><span style="color: #B22222;">(+13.60%)</span> | 1,196<br/><span style="color: #8B0000;">(+3.56%)</span> |
-| **10月** | 1,540<br/><span style="color: #8B0000;">(+3.61%)</span> | 1,486<br/><span style="color: #8B0000;">(+2.38%)</span> | 1,451<br/><span style="color: #B22222;">(+13.70%)</span> | 1,277<br/><span style="color: #8B0000;">(+9.33%)</span> | 1,168<br/><span style="color: #8B0000;">(+3.09%)</span> |
-| **9月** | 1,587<br/><span style="color: #8B0000;">(+5.24%)</span> | 1,508<br/><span style="color: #8B0000;">(+6.81%)</span> | 1,412<br/><span style="color: #B22222;">(+12.60%)</span> | 1,254<br/><span style="color: #8B0000;">(+7.46%)</span> | 1,167<br/><span style="color: #002818;">(-1.52%)</span> |
-| **8月** | 1,567<br/><span style="color: #8B0000;">(+6.31%)</span> | 1,474<br/><span style="color: #8B0000;">(+2.03%)</span> | 1,444<br/><span style="color: #B22222;">(+11.10%)</span> | 1,301<br/><span style="color: #B22222;">(+15.40%)</span> | 1,127<br/><span style="color: #002818;">(-1.13%)</span> |
-| **7月** | 1,542<br/><span style="color: #8B0000;">(+3.73%)</span> | 1,486<br/><span style="color: #8B0000;">(+3.83%)</span> | 1,431<br/><span style="color: #B22222;">(+14.80%)</span> | 1,246<br/><span style="color: #B22222;">(+11.10%)</span> | 1,122<br/><span style="color: #8B0000;">(+0.68%)</span> |
-| **6月** | 1,632<br/><span style="color: #B22222;">(+13.50%)</span> | 1,438<br/><span style="color: #002818;">(-0.24%)</span> | 1,442<br/><span style="color: #B22222;">(+13.40%)</span> | 1,272<br/><span style="color: #B22222;">(+13.70%)</span> | 1,118<br/><span style="color: #002818;">(-5.38%)</span> |
-| **5月** | 1,572<br/><span style="color: #8B0000;">(+6.91%)</span> | 1,470<br/><span style="color: #8B0000;">(+2.21%)</span> | 1,438<br/><span style="color: #B22222;">(+13.10%)</span> | 1,272<br/><span style="color: #8B0000;">(+9.43%)</span> | 1,162<br/><span style="color: #8B0000;">(+2.92%)</span> |
-| **4月** | 1,546<br/><span style="color: #8B0000;">(+8.00%)</span> | 1,432<br/><span style="color: #8B0000;">(+2.99%)</span> | 1,390<br/><span style="color: #B22222;">(+11.30%)</span> | 1,249<br/><span style="color: #8B0000;">(+6.30%)</span> | 1,175<br/><span style="color: #8B0000;">(+4.63%)</span> |
-| **3月** | 1,605<br/><span style="color: #B22222;">(+10.90%)</span> | 1,446<br/><span style="color: #8B0000;">(+5.94%)</span> | 1,365<br/><span style="color: #8B0000;">(+8.43%)</span> | 1,259<br/><span style="color: #8B0000;">(+3.58%)</span> | 1,216<br/><span style="color: #B22222;">(+11.40%)</span> |
-| **2月** | 1,541<br/><span style="color: #B22222;">(+10.50%)</span> | 1,395<br/><span style="color: #002818;">(-0.46%)</span> | 1,401<br/><span style="color: #B22222;">(+16.70%)</span> | 1,201<br/><span style="color: #8B0000;">(+7.09%)</span> | 1,121<br/><span style="color: #8B0000;">(+0.64%)</span> |
-| **1月** | 1,492<br/><span style="color: #8B0000;">(+3.55%)</span> | 1,441<br/><span style="color: #B22222;">(+10.80%)</span> | 1,301<br/><span style="color: #8B0000;">(+1.62%)</span> | 1,280<br/><span style="color: #8B0000;">(+6.63%)</span> | 1,200<br/><span style="color: #8B0000;">(+9.86%)</span> |
+| **12月** | -- | 1,721<br/><span style="color: #8B0000;">(+0.09%)</span> | 1,719<br/><span style="color: #B22222;">(+14.50%)</span> | 1,502<br/><span style="color: #8B0000;">(+8.39%)</span> | 1,385<br/><span style="color: #8B0000;">(+1.59%)</span> |
+| **11月** | -- | 1,661<br/><span style="color: #8B0000;">(+6.21%)</span> | 1,564<br/><span style="color: #8B0000;">(+4.73%)</span> | 1,493<br/><span style="color: #8B0000;">(+9.92%)</span> | 1,358<br/><span style="color: #B22222;">(+13.60%)</span> |
+| **10月** | -- | 1,540<br/><span style="color: #8B0000;">(+3.61%)</span> | 1,486<br/><span style="color: #8B0000;">(+2.38%)</span> | 1,451<br/><span style="color: #B22222;">(+13.70%)</span> | 1,277<br/><span style="color: #8B0000;">(+9.33%)</span> |
+| **9月** | -- | 1,587<br/><span style="color: #8B0000;">(+5.24%)</span> | 1,508<br/><span style="color: #8B0000;">(+6.81%)</span> | 1,412<br/><span style="color: #B22222;">(+12.60%)</span> | 1,254<br/><span style="color: #8B0000;">(+7.46%)</span> |
+| **8月** | -- | 1,567<br/><span style="color: #8B0000;">(+6.31%)</span> | 1,474<br/><span style="color: #8B0000;">(+2.03%)</span> | 1,444<br/><span style="color: #B22222;">(+11.10%)</span> | 1,301<br/><span style="color: #B22222;">(+15.40%)</span> |
+| **7月** | -- | 1,542<br/><span style="color: #8B0000;">(+3.73%)</span> | 1,486<br/><span style="color: #8B0000;">(+3.83%)</span> | 1,431<br/><span style="color: #B22222;">(+14.80%)</span> | 1,246<br/><span style="color: #B22222;">(+11.10%)</span> |
+| **6月** | -- | 1,632<br/><span style="color: #B22222;">(+13.50%)</span> | 1,438<br/><span style="color: #002818;">(-0.24%)</span> | 1,442<br/><span style="color: #B22222;">(+13.40%)</span> | 1,272<br/><span style="color: #B22222;">(+13.70%)</span> |
+| **5月** | -- | 1,572<br/><span style="color: #8B0000;">(+6.91%)</span> | 1,470<br/><span style="color: #8B0000;">(+2.21%)</span> | 1,438<br/><span style="color: #B22222;">(+13.10%)</span> | 1,272<br/><span style="color: #8B0000;">(+9.43%)</span> |
+| **4月** | -- | 1,546<br/><span style="color: #8B0000;">(+8.00%)</span> | 1,432<br/><span style="color: #8B0000;">(+2.99%)</span> | 1,390<br/><span style="color: #B22222;">(+11.30%)</span> | 1,249<br/><span style="color: #8B0000;">(+6.30%)</span> |
+| **3月** | -- | 1,605<br/><span style="color: #B22222;">(+10.90%)</span> | 1,446<br/><span style="color: #8B0000;">(+5.94%)</span> | 1,365<br/><span style="color: #8B0000;">(+8.43%)</span> | 1,259<br/><span style="color: #8B0000;">(+3.58%)</span> |
+| **2月** | -- | 1,541<br/><span style="color: #B22222;">(+10.50%)</span> | 1,395<br/><span style="color: #002818;">(-0.46%)</span> | 1,401<br/><span style="color: #B22222;">(+16.70%)</span> | 1,201<br/><span style="color: #8B0000;">(+7.09%)</span> |
+| **1月** | 1,587<br/><span style="color: #8B0000;">(+6.37%)</span> | 1,492<br/><span style="color: #8B0000;">(+3.55%)</span> | 1,441<br/><span style="color: #B22222;">(+10.80%)</span> | 1,301<br/><span style="color: #8B0000;">(+1.62%)</span> | 1,280<br/><span style="color: #8B0000;">(+6.63%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 中保科 (9917) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **15.87** | <span style="color: #8B0000; font-weight: bold;">+6.37</span> | <span style="color: #8B0000; font-weight: bold;">+6.37</span> | **106.5** | <span style="color: #FF4500; font-weight: bold;">6.59</span> | <span style="color: #004225; font-weight: bold;">16.16</span> |
 | **2025/12** | **17.21** | <span style="color: #8B0000; font-weight: bold;">+0.09</span> | <span style="color: #8B0000; font-weight: bold;">+6.41</span> | **108** | <span style="color: #FF4500; font-weight: bold;">6.59</span> | <span style="color: #004225; font-weight: bold;">16.39</span> |
 | **2025/11** | **16.61** | <span style="color: #8B0000; font-weight: bold;">+6.21</span> | <span style="color: #8B0000; font-weight: bold;">+7.08</span> | **108.5** | <span style="color: #FF4500; font-weight: bold;">6.58</span> | <span style="color: #004225; font-weight: bold;">16.5</span> |
 | **2025/10** | **15.4** | <span style="color: #8B0000; font-weight: bold;">+3.61</span> | <span style="color: #8B0000; font-weight: bold;">+7.18</span> | **108** | <span style="color: #FF4500; font-weight: bold;">6.56</span> | <span style="color: #004225; font-weight: bold;">16.46</span> |
@@ -413,7 +414,7 @@ description: 月營收表 中保科 (9917) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 22:04:21 CST
+- **產生時間**: 2026-02-12 05:12:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

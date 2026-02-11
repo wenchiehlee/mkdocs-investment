@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-11
+date: 2026-02-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 榮田 (7709) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 榮田  
     **:identification_card: 股票代號**: 7709  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 22:04:21 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-12 05:12:39 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+11.9</span> | <span style="color: #228B22; font-weight: bold;">-31.2</span> | **28** 個月 | 2023/09 至 2025/12 |
+| <span style="color: #DC143C; font-weight: bold;">+20.3</span> | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | **29** 個月 | 2023/09 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 榮田 (7709) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** |
-|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 190<br/><span style="color: #B22222;">(+11.90%)</span> | 170<br/><span style="color: #FF6347;">(+48.80%)</span> | 113<br/><span style="color: #32CD32;">(-40.60%)</span> |
-| **11月** | 93<br/><span style="color: #006400;">(-23.70%)</span> | 123<br/><span style="color: #32CD32;">(-40.90%)</span> | 206<br/><span style="color: #FF7F7F;">(+164.10%)</span> |
-| **10月** | 68<br/><span style="color: #32CD32;">(-43.60%)</span> | 122<br/><span style="color: #FF7F7F;">(+178.80%)</span> | 43<br/><span style="color: #90EE90;">(-64.30%)</span> |
-| **9月** | 89<br/><span style="color: #90EE90;">(-69.80%)</span> | 296<br/><span style="color: #FF7F7F;">(+149.40%)</span> | 119<br/><span style="color: #002818;">(-6.36%)</span> |
-| **8月** | 41<br/><span style="color: #004225;">(-13.70%)</span> | 47<br/><span style="color: #90EE90;">(-57.10%)</span> | -- |
-| **7月** | 69<br/><span style="color: #006400;">(-22.60%)</span> | 89<br/><span style="color: #FF6347;">(+47.00%)</span> | -- |
-| **6月** | 126<br/><span style="color: #002818;">(-7.03%)</span> | 135<br/><span style="color: #32CD32;">(-49.80%)</span> | -- |
-| **5月** | 58<br/><span style="color: #90EE90;">(-51.40%)</span> | 120<br/><span style="color: #32CD32;">(-47.00%)</span> | -- |
-| **4月** | 93<br/><span style="color: #006400;">(-26.60%)</span> | 128<br/><span style="color: #FF7F7F;">(+244.80%)</span> | -- |
-| **3月** | 79<br/><span style="color: #228B22;">(-30.00%)</span> | 112<br/><span style="color: #FF4500;">(+37.90%)</span> | -- |
-| **2月** | 55<br/><span style="color: #FF6347;">(+41.80%)</span> | 38<br/><span style="color: #228B22;">(-32.20%)</span> | -- |
-| **1月** | 37<br/><span style="color: #32CD32;">(-48.40%)</span> | 73<br/><span style="color: #FF7F7F;">(+305.30%)</span> | -- |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **12月** | -- | 190<br/><span style="color: #B22222;">(+11.90%)</span> | 170<br/><span style="color: #FF6347;">(+48.80%)</span> | 113<br/><span style="color: #32CD32;">(-40.60%)</span> |
+| **11月** | -- | 93<br/><span style="color: #006400;">(-23.70%)</span> | 123<br/><span style="color: #32CD32;">(-40.90%)</span> | 206<br/><span style="color: #FF7F7F;">(+164.10%)</span> |
+| **10月** | -- | 68<br/><span style="color: #32CD32;">(-43.60%)</span> | 122<br/><span style="color: #FF7F7F;">(+178.80%)</span> | 43<br/><span style="color: #90EE90;">(-64.30%)</span> |
+| **9月** | -- | 89<br/><span style="color: #90EE90;">(-69.80%)</span> | 296<br/><span style="color: #FF7F7F;">(+149.40%)</span> | 119<br/><span style="color: #002818;">(-6.36%)</span> |
+| **8月** | -- | 41<br/><span style="color: #004225;">(-13.70%)</span> | 47<br/><span style="color: #90EE90;">(-57.10%)</span> | -- |
+| **7月** | -- | 69<br/><span style="color: #006400;">(-22.60%)</span> | 89<br/><span style="color: #FF6347;">(+47.00%)</span> | -- |
+| **6月** | -- | 126<br/><span style="color: #002818;">(-7.03%)</span> | 135<br/><span style="color: #32CD32;">(-49.80%)</span> | -- |
+| **5月** | -- | 58<br/><span style="color: #90EE90;">(-51.40%)</span> | 120<br/><span style="color: #32CD32;">(-47.00%)</span> | -- |
+| **4月** | -- | 93<br/><span style="color: #006400;">(-26.60%)</span> | 128<br/><span style="color: #FF7F7F;">(+244.80%)</span> | -- |
+| **3月** | -- | 79<br/><span style="color: #228B22;">(-30.00%)</span> | 112<br/><span style="color: #FF4500;">(+37.90%)</span> | -- |
+| **2月** | -- | 55<br/><span style="color: #FF6347;">(+41.80%)</span> | 38<br/><span style="color: #228B22;">(-32.20%)</span> | -- |
+| **1月** | 45<br/><span style="color: #DC143C;">(+20.30%)</span> | 37<br/><span style="color: #32CD32;">(-48.40%)</span> | 73<br/><span style="color: #FF7F7F;">(+305.30%)</span> | -- |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 榮田 (7709) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **0.454** | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | **63.1** | <span style="color: #004225; font-weight: bold;">2.3</span> | <span style="color: #DC143C; font-weight: bold;">27.43</span> |
 | **2025/12** | **1.9** | <span style="color: #B22222; font-weight: bold;">+11.9</span> | <span style="color: #228B22; font-weight: bold;">-31.2</span> | **37.8** | <span style="color: #004225; font-weight: bold;">2.3</span> | <span style="color: #006400; font-weight: bold;">16.43</span> |
 | **2025/11** | **0.935** | <span style="color: #006400; font-weight: bold;">-23.7</span> | <span style="color: #228B22; font-weight: bold;">-36.8</span> | **37.5** | <span style="color: #004225; font-weight: bold;">2.3</span> | <span style="color: #006400; font-weight: bold;">16.3</span> |
 | **2025/10** | **0.687** | <span style="color: #32CD32; font-weight: bold;">-43.6</span> | <span style="color: #228B22; font-weight: bold;">-38.2</span> | **38.95** | <span style="color: #004225; font-weight: bold;">2.3</span> | <span style="color: #006400; font-weight: bold;">16.93</span> |
@@ -202,7 +203,7 @@ description: 月營收表 榮田 (7709) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 22:04:21 CST
+- **產生時間**: 2026-02-12 05:12:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

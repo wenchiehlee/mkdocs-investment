@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-11
+date: 2026-02-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 台積電 (2330) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 台積電  
     **:identification_card: 股票代號**: 2330  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 22:04:21 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-12 05:12:39 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #FF4500; font-weight: bold;">+36.8</span> | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 台積電 (2330) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 335,000<br/><span style="color: #DC143C;">(+20.40%)</span> | 278,200<br/><span style="color: #FF7F7F;">(+57.80%)</span> | 176,300<br/><span style="color: #002818;">(-8.44%)</span> | 192,600<br/><span style="color: #DC143C;">(+23.90%)</span> | 155,400<br/><span style="color: #FF4500;">(+32.40%)</span> |
-| **11月** | 343,600<br/><span style="color: #DC143C;">(+24.50%)</span> | 276,100<br/><span style="color: #FF4500;">(+34.00%)</span> | 206,000<br/><span style="color: #002818;">(-7.48%)</span> | 222,700<br/><span style="color: #FF7F7F;">(+50.20%)</span> | 148,300<br/><span style="color: #B22222;">(+18.70%)</span> |
-| **10月** | 367,500<br/><span style="color: #B22222;">(+16.90%)</span> | 314,200<br/><span style="color: #DC143C;">(+29.20%)</span> | 243,200<br/><span style="color: #B22222;">(+15.70%)</span> | 210,300<br/><span style="color: #FF7F7F;">(+56.30%)</span> | 134,500<br/><span style="color: #B22222;">(+12.80%)</span> |
-| **9月** | 331,000<br/><span style="color: #FF4500;">(+31.40%)</span> | 251,900<br/><span style="color: #FF4500;">(+39.60%)</span> | 180,400<br/><span style="color: #004225;">(-13.40%)</span> | 208,200<br/><span style="color: #FF4500;">(+36.40%)</span> | 152,700<br/><span style="color: #B22222;">(+19.70%)</span> |
-| **8月** | 335,800<br/><span style="color: #FF4500;">(+33.80%)</span> | 250,900<br/><span style="color: #FF4500;">(+33.00%)</span> | 188,700<br/><span style="color: #004225;">(-13.50%)</span> | 218,100<br/><span style="color: #FF7F7F;">(+58.70%)</span> | 137,400<br/><span style="color: #B22222;">(+11.80%)</span> |
-| **7月** | 323,200<br/><span style="color: #DC143C;">(+25.80%)</span> | 257,000<br/><span style="color: #FF6347;">(+44.70%)</span> | 177,600<br/><span style="color: #002818;">(-4.89%)</span> | 186,800<br/><span style="color: #FF6347;">(+49.90%)</span> | 124,600<br/><span style="color: #B22222;">(+17.50%)</span> |
-| **6月** | 263,700<br/><span style="color: #DC143C;">(+26.90%)</span> | 207,900<br/><span style="color: #FF4500;">(+32.90%)</span> | 156,400<br/><span style="color: #004225;">(-11.10%)</span> | 175,900<br/><span style="color: #B22222;">(+18.40%)</span> | 148,500<br/><span style="color: #DC143C;">(+22.80%)</span> |
-| **5月** | 320,500<br/><span style="color: #FF4500;">(+39.60%)</span> | 229,600<br/><span style="color: #FF4500;">(+30.10%)</span> | 176,500<br/><span style="color: #002818;">(-4.93%)</span> | 185,700<br/><span style="color: #FF7F7F;">(+65.30%)</span> | 112,400<br/><span style="color: #B22222;">(+19.80%)</span> |
-| **4月** | 349,600<br/><span style="color: #FF6347;">(+48.10%)</span> | 236,000<br/><span style="color: #FF7F7F;">(+59.60%)</span> | 147,900<br/><span style="color: #004225;">(-14.30%)</span> | 172,600<br/><span style="color: #FF7F7F;">(+55.00%)</span> | 111,300<br/><span style="color: #B22222;">(+16.00%)</span> |
-| **3月** | 286,000<br/><span style="color: #FF6347;">(+46.50%)</span> | 195,200<br/><span style="color: #FF4500;">(+34.20%)</span> | 145,400<br/><span style="color: #004225;">(-15.40%)</span> | 172,000<br/><span style="color: #FF4500;">(+33.20%)</span> | 129,100<br/><span style="color: #B22222;">(+13.70%)</span> |
-| **2月** | 260,000<br/><span style="color: #FF6347;">(+43.10%)</span> | 181,600<br/><span style="color: #B22222;">(+11.30%)</span> | 163,200<br/><span style="color: #B22222;">(+11.00%)</span> | 146,900<br/><span style="color: #FF4500;">(+37.90%)</span> | 106,500<br/><span style="color: #B22222;">(+14.10%)</span> |
-| **1月** | 293,300<br/><span style="color: #FF4500;">(+35.90%)</span> | 215,800<br/><span style="color: #8B0000;">(+7.86%)</span> | 200,100<br/><span style="color: #B22222;">(+16.20%)</span> | 172,200<br/><span style="color: #FF4500;">(+35.80%)</span> | 126,700<br/><span style="color: #DC143C;">(+22.20%)</span> |
+| **12月** | -- | 335,000<br/><span style="color: #DC143C;">(+20.40%)</span> | 278,200<br/><span style="color: #FF7F7F;">(+57.80%)</span> | 176,300<br/><span style="color: #002818;">(-8.44%)</span> | 192,600<br/><span style="color: #DC143C;">(+23.90%)</span> |
+| **11月** | -- | 343,600<br/><span style="color: #DC143C;">(+24.50%)</span> | 276,100<br/><span style="color: #FF4500;">(+34.00%)</span> | 206,000<br/><span style="color: #002818;">(-7.48%)</span> | 222,700<br/><span style="color: #FF7F7F;">(+50.20%)</span> |
+| **10月** | -- | 367,500<br/><span style="color: #B22222;">(+16.90%)</span> | 314,200<br/><span style="color: #DC143C;">(+29.20%)</span> | 243,200<br/><span style="color: #B22222;">(+15.70%)</span> | 210,300<br/><span style="color: #FF7F7F;">(+56.30%)</span> |
+| **9月** | -- | 331,000<br/><span style="color: #FF4500;">(+31.40%)</span> | 251,900<br/><span style="color: #FF4500;">(+39.60%)</span> | 180,400<br/><span style="color: #004225;">(-13.40%)</span> | 208,200<br/><span style="color: #FF4500;">(+36.40%)</span> |
+| **8月** | -- | 335,800<br/><span style="color: #FF4500;">(+33.80%)</span> | 250,900<br/><span style="color: #FF4500;">(+33.00%)</span> | 188,700<br/><span style="color: #004225;">(-13.50%)</span> | 218,100<br/><span style="color: #FF7F7F;">(+58.70%)</span> |
+| **7月** | -- | 323,200<br/><span style="color: #DC143C;">(+25.80%)</span> | 257,000<br/><span style="color: #FF6347;">(+44.70%)</span> | 177,600<br/><span style="color: #002818;">(-4.89%)</span> | 186,800<br/><span style="color: #FF6347;">(+49.90%)</span> |
+| **6月** | -- | 263,700<br/><span style="color: #DC143C;">(+26.90%)</span> | 207,900<br/><span style="color: #FF4500;">(+32.90%)</span> | 156,400<br/><span style="color: #004225;">(-11.10%)</span> | 175,900<br/><span style="color: #B22222;">(+18.40%)</span> |
+| **5月** | -- | 320,500<br/><span style="color: #FF4500;">(+39.60%)</span> | 229,600<br/><span style="color: #FF4500;">(+30.10%)</span> | 176,500<br/><span style="color: #002818;">(-4.93%)</span> | 185,700<br/><span style="color: #FF7F7F;">(+65.30%)</span> |
+| **4月** | -- | 349,600<br/><span style="color: #FF6347;">(+48.10%)</span> | 236,000<br/><span style="color: #FF7F7F;">(+59.60%)</span> | 147,900<br/><span style="color: #004225;">(-14.30%)</span> | 172,600<br/><span style="color: #FF7F7F;">(+55.00%)</span> |
+| **3月** | -- | 286,000<br/><span style="color: #FF6347;">(+46.50%)</span> | 195,200<br/><span style="color: #FF4500;">(+34.20%)</span> | 145,400<br/><span style="color: #004225;">(-15.40%)</span> | 172,000<br/><span style="color: #FF4500;">(+33.20%)</span> |
+| **2月** | -- | 260,000<br/><span style="color: #FF6347;">(+43.10%)</span> | 181,600<br/><span style="color: #B22222;">(+11.30%)</span> | 163,200<br/><span style="color: #B22222;">(+11.00%)</span> | 146,900<br/><span style="color: #FF4500;">(+37.90%)</span> |
+| **1月** | 401,300<br/><span style="color: #FF4500;">(+36.80%)</span> | 293,300<br/><span style="color: #FF4500;">(+35.90%)</span> | 215,800<br/><span style="color: #8B0000;">(+7.86%)</span> | 200,100<br/><span style="color: #B22222;">(+16.20%)</span> | 172,200<br/><span style="color: #FF4500;">(+35.80%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 台積電 (2330) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **4013** | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | **1775** | <span style="color: #FF6347; font-weight: bold;">61.2</span> | <span style="color: #FF4500; font-weight: bold;">29.0</span> |
 | **2025/12** | **3350** | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | **1550** | <span style="color: #FF6347; font-weight: bold;">61.2</span> | <span style="color: #DC143C; font-weight: bold;">25.33</span> |
 | **2025/11** | **3436** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | **1440** | <span style="color: #FF4500; font-weight: bold;">59.87</span> | <span style="color: #DC143C; font-weight: bold;">24.05</span> |
 | **2025/10** | **3675** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #FF4500; font-weight: bold;">+33.8</span> | **1500** | <span style="color: #FF4500; font-weight: bold;">58.54</span> | <span style="color: #DC143C; font-weight: bold;">25.62</span> |
@@ -413,7 +414,7 @@ description: 月營收表 台積電 (2330) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 22:04:21 CST
+- **產生時間**: 2026-02-12 05:12:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

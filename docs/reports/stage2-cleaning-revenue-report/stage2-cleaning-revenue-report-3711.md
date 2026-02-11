@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-11
+date: 2026-02-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 日月光投控  
     **:identification_card: 股票代號**: 3711  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 22:04:21 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-12 05:12:39 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #8B0000; font-weight: bold;">+8.39</span> | **93** 個月 | 2018/04 至 2025/12 |
+| <span style="color: #DC143C; font-weight: bold;">+21.3</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **94** 個月 | 2018/04 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 日月光投控 (3711) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 58,860<br/><span style="color: #B22222;">(+11.30%)</span> | 52,900<br/><span style="color: #8B0000;">(+6.00%)</span> | 49,910<br/><span style="color: #002818;">(-6.08%)</span> | 53,140<br/><span style="color: #004225;">(-10.90%)</span> | 59,660<br/><span style="color: #B22222;">(+18.60%)</span> |
-| **11月** | 58,820<br/><span style="color: #B22222;">(+11.10%)</span> | 52,929<br/><span style="color: #002818;">(-2.89%)</span> | 54,510<br/><span style="color: #002818;">(-9.31%)</span> | 60,110<br/><span style="color: #002818;">(-0.68%)</span> | 60,520<br/><span style="color: #B22222;">(+19.40%)</span> |
-| **10月** | 60,229<br/><span style="color: #8B0000;">(+6.74%)</span> | 56,429<br/><span style="color: #8B0000;">(+0.46%)</span> | 56,170<br/><span style="color: #004225;">(-12.50%)</span> | 64,170<br/><span style="color: #DC143C;">(+21.60%)</span> | 52,750<br/><span style="color: #B22222;">(+10.10%)</span> |
-| **9月** | 60,560<br/><span style="color: #8B0000;">(+8.96%)</span> | 55,579<br/><span style="color: #8B0000;">(+3.81%)</span> | 53,529<br/><span style="color: #004225;">(-19.70%)</span> | 66,650<br/><span style="color: #DC143C;">(+24.00%)</span> | 53,740<br/><span style="color: #DC143C;">(+22.30%)</span> |
-| **8月** | 56,470<br/><span style="color: #8B0000;">(+6.68%)</span> | 52,929<br/><span style="color: #8B0000;">(+1.24%)</span> | 52,279<br/><span style="color: #004225;">(-18.10%)</span> | 63,810<br/><span style="color: #DC143C;">(+26.50%)</span> | 50,450<br/><span style="color: #DC143C;">(+20.30%)</span> |
-| **7月** | 51,540<br/><span style="color: #002818;">(-0.10%)</span> | 51,600<br/><span style="color: #8B0000;">(+6.70%)</span> | 48,350<br/><span style="color: #004225;">(-16.90%)</span> | 58,170<br/><span style="color: #DC143C;">(+25.10%)</span> | 46,480<br/><span style="color: #DC143C;">(+24.50%)</span> |
-| **6月** | 49,510<br/><span style="color: #8B0000;">(+5.51%)</span> | 46,930<br/><span style="color: #8B0000;">(+0.43%)</span> | 46,720<br/><span style="color: #004225;">(-19.40%)</span> | 58,000<br/><span style="color: #FF4500;">(+33.90%)</span> | 43,330<br/><span style="color: #B22222;">(+18.80%)</span> |
-| **5月** | 49,030<br/><span style="color: #8B0000;">(+3.23%)</span> | 47,490<br/><span style="color: #8B0000;">(+2.71%)</span> | 46,240<br/><span style="color: #004225;">(-14.00%)</span> | 53,800<br/><span style="color: #DC143C;">(+27.30%)</span> | 42,270<br/><span style="color: #B22222;">(+18.10%)</span> |
-| **4月** | 52,210<br/><span style="color: #B22222;">(+13.90%)</span> | 45,820<br/><span style="color: #8B0000;">(+5.78%)</span> | 43,310<br/><span style="color: #004225;">(-11.00%)</span> | 48,640<br/><span style="color: #B22222;">(+17.70%)</span> | 41,330<br/><span style="color: #B22222;">(+17.10%)</span> |
-| **3月** | 53,750<br/><span style="color: #B22222;">(+17.70%)</span> | 45,660<br/><span style="color: #002818;">(-0.24%)</span> | 45,780<br/><span style="color: #004225;">(-11.90%)</span> | 51,990<br/><span style="color: #DC143C;">(+23.80%)</span> | 42,000<br/><span style="color: #B22222;">(+10.90%)</span> |
-| **2月** | 44,960<br/><span style="color: #B22222;">(+13.10%)</span> | 39,750<br/><span style="color: #002818;">(-0.58%)</span> | 39,980<br/><span style="color: #002818;">(-8.77%)</span> | 43,830<br/><span style="color: #B22222;">(+19.70%)</span> | 36,620<br/><span style="color: #FF4500;">(+30.20%)</span> |
-| **1月** | 49,440<br/><span style="color: #8B0000;">(+4.33%)</span> | 47,390<br/><span style="color: #8B0000;">(+5.00%)</span> | 45,130<br/><span style="color: #002818;">(-7.08%)</span> | 48,570<br/><span style="color: #B22222;">(+18.90%)</span> | 40,850<br/><span style="color: #FF4500;">(+30.30%)</span> |
+| **12月** | -- | 58,860<br/><span style="color: #B22222;">(+11.30%)</span> | 52,900<br/><span style="color: #8B0000;">(+6.00%)</span> | 49,910<br/><span style="color: #002818;">(-6.08%)</span> | 53,140<br/><span style="color: #004225;">(-10.90%)</span> |
+| **11月** | -- | 58,820<br/><span style="color: #B22222;">(+11.10%)</span> | 52,929<br/><span style="color: #002818;">(-2.89%)</span> | 54,510<br/><span style="color: #002818;">(-9.31%)</span> | 60,110<br/><span style="color: #002818;">(-0.68%)</span> |
+| **10月** | -- | 60,229<br/><span style="color: #8B0000;">(+6.74%)</span> | 56,429<br/><span style="color: #8B0000;">(+0.46%)</span> | 56,170<br/><span style="color: #004225;">(-12.50%)</span> | 64,170<br/><span style="color: #DC143C;">(+21.60%)</span> |
+| **9月** | -- | 60,560<br/><span style="color: #8B0000;">(+8.96%)</span> | 55,579<br/><span style="color: #8B0000;">(+3.81%)</span> | 53,529<br/><span style="color: #004225;">(-19.70%)</span> | 66,650<br/><span style="color: #DC143C;">(+24.00%)</span> |
+| **8月** | -- | 56,470<br/><span style="color: #8B0000;">(+6.68%)</span> | 52,929<br/><span style="color: #8B0000;">(+1.24%)</span> | 52,279<br/><span style="color: #004225;">(-18.10%)</span> | 63,810<br/><span style="color: #DC143C;">(+26.50%)</span> |
+| **7月** | -- | 51,540<br/><span style="color: #002818;">(-0.10%)</span> | 51,600<br/><span style="color: #8B0000;">(+6.70%)</span> | 48,350<br/><span style="color: #004225;">(-16.90%)</span> | 58,170<br/><span style="color: #DC143C;">(+25.10%)</span> |
+| **6月** | -- | 49,510<br/><span style="color: #8B0000;">(+5.51%)</span> | 46,930<br/><span style="color: #8B0000;">(+0.43%)</span> | 46,720<br/><span style="color: #004225;">(-19.40%)</span> | 58,000<br/><span style="color: #FF4500;">(+33.90%)</span> |
+| **5月** | -- | 49,030<br/><span style="color: #8B0000;">(+3.23%)</span> | 47,490<br/><span style="color: #8B0000;">(+2.71%)</span> | 46,240<br/><span style="color: #004225;">(-14.00%)</span> | 53,800<br/><span style="color: #DC143C;">(+27.30%)</span> |
+| **4月** | -- | 52,210<br/><span style="color: #B22222;">(+13.90%)</span> | 45,820<br/><span style="color: #8B0000;">(+5.78%)</span> | 43,310<br/><span style="color: #004225;">(-11.00%)</span> | 48,640<br/><span style="color: #B22222;">(+17.70%)</span> |
+| **3月** | -- | 53,750<br/><span style="color: #B22222;">(+17.70%)</span> | 45,660<br/><span style="color: #002818;">(-0.24%)</span> | 45,780<br/><span style="color: #004225;">(-11.90%)</span> | 51,990<br/><span style="color: #DC143C;">(+23.80%)</span> |
+| **2月** | -- | 44,960<br/><span style="color: #B22222;">(+13.10%)</span> | 39,750<br/><span style="color: #002818;">(-0.58%)</span> | 39,980<br/><span style="color: #002818;">(-8.77%)</span> | 43,830<br/><span style="color: #B22222;">(+19.70%)</span> |
+| **1月** | 59,990<br/><span style="color: #DC143C;">(+21.30%)</span> | 49,440<br/><span style="color: #8B0000;">(+4.33%)</span> | 47,390<br/><span style="color: #8B0000;">(+5.00%)</span> | 45,130<br/><span style="color: #002818;">(-7.08%)</span> | 48,570<br/><span style="color: #B22222;">(+18.90%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **599.9** | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **297** | <span style="color: #002818; font-weight: bold;">8.14</span> | <span style="color: #FF6347; font-weight: bold;">36.49</span> |
 | **2025/12** | **588.6** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #8B0000; font-weight: bold;">+8.39</span> | **250.5** | <span style="color: #002818; font-weight: bold;">8.14</span> | <span style="color: #FF6347; font-weight: bold;">30.77</span> |
 | **2025/11** | **588.2** | <span style="color: #B22222; font-weight: bold;">+11.1</span> | <span style="color: #8B0000; font-weight: bold;">+8.11</span> | **229.5** | <span style="color: #002818; font-weight: bold;">8.09</span> | <span style="color: #FF4500; font-weight: bold;">28.37</span> |
 | **2025/10** | **602.3** | <span style="color: #8B0000; font-weight: bold;">+6.74</span> | <span style="color: #8B0000; font-weight: bold;">+7.78</span> | **247.5** | <span style="color: #002818; font-weight: bold;">8.04</span> | <span style="color: #FF6347; font-weight: bold;">30.8</span> |
@@ -267,7 +268,7 @@ description: 月營收表 日月光投控 (3711) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 22:04:21 CST
+- **產生時間**: 2026-02-12 05:12:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-11
+date: 2026-02-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 寶雅 (5904) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 寶雅  
     **:identification_card: 股票代號**: 5904  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 22:04:21 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-12 05:12:39 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+2.5</span> | <span style="color: #8B0000; font-weight: bold;">+7.15</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #002818; font-weight: bold;">-1.85</span> | <span style="color: #002818; font-weight: bold;">-1.85</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 寶雅 (5904) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 2,255<br/><span style="color: #8B0000;">(+2.50%)</span> | 2,200<br/><span style="color: #B22222;">(+11.10%)</span> | 1,980<br/><span style="color: #8B0000;">(+2.26%)</span> | 1,936<br/><span style="color: #B22222;">(+18.40%)</span> | 1,635<br/><span style="color: #8B0000;">(+0.34%)</span> |
-| **11月** | 2,176<br/><span style="color: #B22222;">(+14.30%)</span> | 1,905<br/><span style="color: #8B0000;">(+9.10%)</span> | 1,746<br/><span style="color: #B22222;">(+13.00%)</span> | 1,545<br/><span style="color: #8B0000;">(+4.29%)</span> | 1,481<br/><span style="color: #8B0000;">(+2.20%)</span> |
-| **10月** | 2,147<br/><span style="color: #B22222;">(+13.20%)</span> | 1,898<br/><span style="color: #002818;">(-0.61%)</span> | 1,909<br/><span style="color: #B22222;">(+15.10%)</span> | 1,659<br/><span style="color: #8B0000;">(+1.84%)</span> | 1,629<br/><span style="color: #8B0000;">(+9.30%)</span> |
-| **9月** | 2,093<br/><span style="color: #8B0000;">(+2.19%)</span> | 2,048<br/><span style="color: #8B0000;">(+5.82%)</span> | 1,935<br/><span style="color: #B22222;">(+14.60%)</span> | 1,689<br/><span style="color: #B22222;">(+15.00%)</span> | 1,469<br/><span style="color: #002818;">(-0.79%)</span> |
-| **8月** | 2,235<br/><span style="color: #8B0000;">(+8.80%)</span> | 2,054<br/><span style="color: #8B0000;">(+6.18%)</span> | 1,934<br/><span style="color: #8B0000;">(+9.59%)</span> | 1,764<br/><span style="color: #DC143C;">(+20.30%)</span> | 1,466<br/><span style="color: #004225;">(-12.30%)</span> |
-| **7月** | 2,073<br/><span style="color: #8B0000;">(+2.49%)</span> | 2,023<br/><span style="color: #8B0000;">(+1.12%)</span> | 2,000<br/><span style="color: #B22222;">(+11.30%)</span> | 1,797<br/><span style="color: #FF6347;">(+41.10%)</span> | 1,273<br/><span style="color: #006400;">(-20.90%)</span> |
-| **6月** | 2,072<br/><span style="color: #8B0000;">(+5.24%)</span> | 1,969<br/><span style="color: #8B0000;">(+8.72%)</span> | 1,811<br/><span style="color: #DC143C;">(+20.00%)</span> | 1,509<br/><span style="color: #FF6347;">(+46.30%)</span> | 1,032<br/><span style="color: #006400;">(-28.30%)</span> |
-| **5月** | 2,045<br/><span style="color: #8B0000;">(+9.66%)</span> | 1,864<br/><span style="color: #8B0000;">(+8.10%)</span> | 1,725<br/><span style="color: #DC143C;">(+26.70%)</span> | 1,362<br/><span style="color: #8B0000;">(+3.76%)</span> | 1,313<br/><span style="color: #002818;">(-0.57%)</span> |
-| **4月** | 1,927<br/><span style="color: #8B0000;">(+7.41%)</span> | 1,794<br/><span style="color: #8B0000;">(+2.81%)</span> | 1,744<br/><span style="color: #B22222;">(+16.20%)</span> | 1,501<br/><span style="color: #8B0000;">(+3.55%)</span> | 1,449<br/><span style="color: #DC143C;">(+22.60%)</span> |
-| **3月** | 1,912<br/><span style="color: #8B0000;">(+2.82%)</span> | 1,859<br/><span style="color: #B22222;">(+14.90%)</span> | 1,618<br/><span style="color: #B22222;">(+10.40%)</span> | 1,465<br/><span style="color: #8B0000;">(+4.37%)</span> | 1,404<br/><span style="color: #B22222;">(+14.00%)</span> |
-| **2月** | 1,964<br/><span style="color: #002818;">(-5.01%)</span> | 2,068<br/><span style="color: #DC143C;">(+29.20%)</span> | 1,600<br/><span style="color: #8B0000;">(+4.01%)</span> | 1,538<br/><span style="color: #002818;">(-2.29%)</span> | 1,574<br/><span style="color: #B22222;">(+12.20%)</span> |
-| **1月** | 2,420<br/><span style="color: #DC143C;">(+24.30%)</span> | 1,946<br/><span style="color: #002818;">(-6.22%)</span> | 2,076<br/><span style="color: #DC143C;">(+21.40%)</span> | 1,710<br/><span style="color: #002818;">(-1.93%)</span> | 1,743<br/><span style="color: #8B0000;">(+6.91%)</span> |
+| **12月** | -- | 2,255<br/><span style="color: #8B0000;">(+2.50%)</span> | 2,200<br/><span style="color: #B22222;">(+11.10%)</span> | 1,980<br/><span style="color: #8B0000;">(+2.26%)</span> | 1,936<br/><span style="color: #B22222;">(+18.40%)</span> |
+| **11月** | -- | 2,176<br/><span style="color: #B22222;">(+14.30%)</span> | 1,905<br/><span style="color: #8B0000;">(+9.10%)</span> | 1,746<br/><span style="color: #B22222;">(+13.00%)</span> | 1,545<br/><span style="color: #8B0000;">(+4.29%)</span> |
+| **10月** | -- | 2,147<br/><span style="color: #B22222;">(+13.20%)</span> | 1,898<br/><span style="color: #002818;">(-0.61%)</span> | 1,909<br/><span style="color: #B22222;">(+15.10%)</span> | 1,659<br/><span style="color: #8B0000;">(+1.84%)</span> |
+| **9月** | -- | 2,093<br/><span style="color: #8B0000;">(+2.19%)</span> | 2,048<br/><span style="color: #8B0000;">(+5.82%)</span> | 1,935<br/><span style="color: #B22222;">(+14.60%)</span> | 1,689<br/><span style="color: #B22222;">(+15.00%)</span> |
+| **8月** | -- | 2,235<br/><span style="color: #8B0000;">(+8.80%)</span> | 2,054<br/><span style="color: #8B0000;">(+6.18%)</span> | 1,934<br/><span style="color: #8B0000;">(+9.59%)</span> | 1,764<br/><span style="color: #DC143C;">(+20.30%)</span> |
+| **7月** | -- | 2,073<br/><span style="color: #8B0000;">(+2.49%)</span> | 2,023<br/><span style="color: #8B0000;">(+1.12%)</span> | 2,000<br/><span style="color: #B22222;">(+11.30%)</span> | 1,797<br/><span style="color: #FF6347;">(+41.10%)</span> |
+| **6月** | -- | 2,072<br/><span style="color: #8B0000;">(+5.24%)</span> | 1,969<br/><span style="color: #8B0000;">(+8.72%)</span> | 1,811<br/><span style="color: #DC143C;">(+20.00%)</span> | 1,509<br/><span style="color: #FF6347;">(+46.30%)</span> |
+| **5月** | -- | 2,045<br/><span style="color: #8B0000;">(+9.66%)</span> | 1,864<br/><span style="color: #8B0000;">(+8.10%)</span> | 1,725<br/><span style="color: #DC143C;">(+26.70%)</span> | 1,362<br/><span style="color: #8B0000;">(+3.76%)</span> |
+| **4月** | -- | 1,927<br/><span style="color: #8B0000;">(+7.41%)</span> | 1,794<br/><span style="color: #8B0000;">(+2.81%)</span> | 1,744<br/><span style="color: #B22222;">(+16.20%)</span> | 1,501<br/><span style="color: #8B0000;">(+3.55%)</span> |
+| **3月** | -- | 1,912<br/><span style="color: #8B0000;">(+2.82%)</span> | 1,859<br/><span style="color: #B22222;">(+14.90%)</span> | 1,618<br/><span style="color: #B22222;">(+10.40%)</span> | 1,465<br/><span style="color: #8B0000;">(+4.37%)</span> |
+| **2月** | -- | 1,964<br/><span style="color: #002818;">(-5.01%)</span> | 2,068<br/><span style="color: #DC143C;">(+29.20%)</span> | 1,600<br/><span style="color: #8B0000;">(+4.01%)</span> | 1,538<br/><span style="color: #002818;">(-2.29%)</span> |
+| **1月** | 2,375<br/><span style="color: #002818;">(-1.85%)</span> | 2,420<br/><span style="color: #DC143C;">(+24.30%)</span> | 1,946<br/><span style="color: #002818;">(-6.22%)</span> | 2,076<br/><span style="color: #DC143C;">(+21.40%)</span> | 1,710<br/><span style="color: #002818;">(-1.93%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **23.75** | <span style="color: #002818; font-weight: bold;">-1.85</span> | <span style="color: #002818; font-weight: bold;">-1.85</span> | **396** | <span style="color: #FF4500; font-weight: bold;">27.62</span> | <span style="color: #004225; font-weight: bold;">14.34</span> |
 | **2025/12** | **22.55** | <span style="color: #8B0000; font-weight: bold;">+2.5</span> | <span style="color: #8B0000; font-weight: bold;">+7.15</span> | **439.5** | <span style="color: #FF4500; font-weight: bold;">27.62</span> | <span style="color: #002818; font-weight: bold;">15.91</span> |
 | **2025/11** | **21.76** | <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #8B0000; font-weight: bold;">+7.63</span> | **439** | <span style="color: #FF4500; font-weight: bold;">27.55</span> | <span style="color: #002818; font-weight: bold;">15.94</span> |
 | **2025/10** | **21.47** | <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #8B0000; font-weight: bold;">+6.99</span> | **454.5** | <span style="color: #FF4500; font-weight: bold;">27.47</span> | <span style="color: #002818; font-weight: bold;">16.54</span> |
@@ -413,7 +414,7 @@ description: 月營收表 寶雅 (5904) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 22:04:21 CST
+- **產生時間**: 2026-02-12 05:12:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
