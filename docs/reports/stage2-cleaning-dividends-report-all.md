@@ -24,7 +24,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 103 檔) - 自動
 # :bar_chart: 股利分配總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-02-12 12:51:00 CST  
+    **:calendar: 產生時間**: 2026-02-12 17:23:36 CST  
     **:building_construction: 分析股票總數**: 126 檔 (有效 103 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_dividends.csv + cleaned_performance1.csv
@@ -444,8 +444,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 103 檔) - 自動
 <td>[**2450**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2450/)</td>
 <td>神腦</td>
 <td>1.65</td>
-<td>🔽 1.26</td>
-<td>🔽 1.36</td>
+<td>🔽 1.46</td>
+<td>🔽 1.46</td>
 <td>-</td>
 <td>5.70%</td>
 <td>02/11 11:41</td>
@@ -682,15 +682,15 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 103 檔) - 自動
 <td>[**3035**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3035/)</td>
 <td>智原</td>
 <td>1.80</td>
-<td>🔼 1.89</td>
-<td>🔼 2.06</td>
-<td>🔼 1.90</td>
+<td>🔽 1.54</td>
+<td>🔼 1.84</td>
+<td>🔽 1.76</td>
 <td>1.11%</td>
 <td>02/11 11:36</td>
 <td>1.15%</td>
 <td>0.99%</td>
-<td>90%</td>
-<td>🟡 7.5</td>
+<td>64%</td>
+<td>🟢 8.0</td>
 </tr>
 <tr>
 <td>[**3045**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3045/)</td>
@@ -1545,7 +1545,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 103 檔) - 自動
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-02-12 12:51:00
+    - **報告產生時間**: 2026-02-12 17:23:36
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
