@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-13
+date: 2026-02-14
 categories:
   - 股票
   - 月營收
@@ -23,7 +23,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 # :bar_chart: 月營收總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-02-13 21:51:03 CST  
+    **:calendar: 產生時間**: 2026-02-14 05:13:49 CST  
     **:building_construction: 分析股票總數**: 126 檔  
     **:chart_with_upwards_trend: 報告類型**: 各股完整歷史資料  
     **:file_folder: 資料來源**: Stage 2 cleaned_revenue.csv + cleaned_monthly_flow.csv
@@ -82,7 +82,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 | [**2357**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2357/) | 華碩 | **240** | 2026/01 | <span style="color: #FF7F7F; font-weight: bold;">+80</span> | 2006/02 ~ 2026/01 |
 | [**2359**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2359/) | 所羅門 | **240** | 2026/01 | <span style="color: #B22222; font-weight: bold;">+12.7</span> | 2006/02 ~ 2026/01 |
 | [**2360**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2360/) | 致茂 | **240** | 2026/01 | <span style="color: #FF7F7F; font-weight: bold;">+72.1</span> | 2006/02 ~ 2026/01 |
-| [**2376**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2376/) | 技嘉 | **240** | 2026/01 | <span style="color: #FF7F7F; font-weight: bold;">+57</span> | 2006/02 ~ 2026/01 |
+| [**2376**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2376/) | 技嘉 | **40** | 2026/01 | <span style="color: #FF7F7F; font-weight: bold;">+57</span> | 2022/10 ~ 2026/01 |
 | [**2377**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2377/) | 微星 | **240** | 2026/01 | <span style="color: #FF4500; font-weight: bold;">+33.7</span> | 2006/02 ~ 2026/01 |
 | [**2379**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2379/) | 瑞昱 | **240** | 2026/01 | <span style="color: #B22222; font-weight: bold;">+14.4</span> | 2006/02 ~ 2026/01 |
 | [**2382**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2382/) | 廣達 | **240** | 2026/01 | <span style="color: #FF7F7F; font-weight: bold;">+61.9</span> | 2006/02 ~ 2026/01 |
@@ -262,7 +262,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-**產生時間**: 2026-02-13 21:51:03 CST  
+**產生時間**: 2026-02-14 05:13:49 CST  
 **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)  
 **報告版本**: Material for MkDocs 增強版 with EPS/P-E Integration (Asymmetric Statistics)  
 **處理模式**: 完整資料模式
