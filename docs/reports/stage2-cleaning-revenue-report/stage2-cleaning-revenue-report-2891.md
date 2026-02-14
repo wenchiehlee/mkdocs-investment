@@ -24,14 +24,14 @@ description: 月營收表 中信金 (2891) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 中信金  
     **:identification_card: 股票代號**: 2891  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-15 03:09:45 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-15 04:59:15 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF6347; font-weight: bold;">+44.1</span> | <span style="color: #DC143C; font-weight: bold;">+29.3</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #FF6347; font-weight: bold;">+48.2</span> | <span style="color: #FF6347; font-weight: bold;">+48.2</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 中信金 (2891) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 22,850<br/><span style="color: #FF6347;">(+44.10%)</span> | 15,850<br/><span style="color: #FF7F7F;">(+62.50%)</span> | 9,755<br/><span style="color: #FF7F7F;">(+500.10%)</span> | 1,626<br/><span style="color: #90EE90;">(-90.10%)</span> | 16,500<br/><span style="color: #FF7F7F;">(+106.20%)</span> |
-| **11月** | 23,880<br/><span style="color: #FF6347;">(+45.80%)</span> | 16,380<br/><span style="color: #FF7F7F;">(+101.00%)</span> | 8,150<br/><span style="color: #FF7F7F;">(+433.90%)</span> | -2,441<br/><span style="color: #90EE90;">(-114.80%)</span> | 16,520<br/><span style="color: #DC143C;">(+27.00%)</span> |
-| **10月** | 24,210<br/><span style="color: #FF7F7F;">(+52.30%)</span> | 15,890<br/><span style="color: #FF4500;">(+34.80%)</span> | 11,790<br/><span style="color: #FF7F7F;">(+249.30%)</span> | 3,374<br/><span style="color: #90EE90;">(-79.70%)</span> | 16,650<br/><span style="color: #DC143C;">(+27.30%)</span> |
-| **9月** | 28,970<br/><span style="color: #FF7F7F;">(+77.70%)</span> | 16,300<br/><span style="color: #DC143C;">(+26.80%)</span> | 12,850<br/><span style="color: #FF6347;">(+40.10%)</span> | 9,171<br/><span style="color: #32CD32;">(-45.00%)</span> | 16,680<br/><span style="color: #DC143C;">(+27.40%)</span> |
-| **8月** | 25,030<br/><span style="color: #FF7F7F;">(+117.50%)</span> | 11,510<br/><span style="color: #004225;">(-14.80%)</span> | 13,500<br/><span style="color: #DC143C;">(+21.00%)</span> | 11,160<br/><span style="color: #32CD32;">(-40.00%)</span> | 18,590<br/><span style="color: #DC143C;">(+23.70%)</span> |
-| **7月** | 10,550<br/><span style="color: #90EE90;">(-52.90%)</span> | 22,390<br/><span style="color: #DC143C;">(+24.10%)</span> | 18,040<br/><span style="color: #B22222;">(+15.80%)</span> | 15,580<br/><span style="color: #8B0000;">(+0.25%)</span> | 15,540<br/><span style="color: #006400;">(-28.00%)</span> |
-| **6月** | 26,889<br/><span style="color: #FF7F7F;">(+59.20%)</span> | 16,890<br/><span style="color: #002818;">(-4.85%)</span> | 17,750<br/><span style="color: #8B0000;">(+7.60%)</span> | 16,490<br/><span style="color: #B22222;">(+14.90%)</span> | 14,360<br/><span style="color: #002818;">(-3.54%)</span> |
-| **5月** | 10,910<br/><span style="color: #004225;">(-12.50%)</span> | 12,470<br/><span style="color: #DC143C;">(+24.80%)</span> | 9,989<br/><span style="color: #004225;">(-12.30%)</span> | 11,390<br/><span style="color: #8B0000;">(+0.65%)</span> | 11,310<br/><span style="color: #004225;">(-19.80%)</span> |
-| **4月** | 10,150<br/><span style="color: #006400;">(-23.20%)</span> | 13,210<br/><span style="color: #B22222;">(+17.80%)</span> | 11,210<br/><span style="color: #006400;">(-27.20%)</span> | 15,400<br/><span style="color: #DC143C;">(+25.00%)</span> | 12,320<br/><span style="color: #228B22;">(-34.20%)</span> |
-| **3月** | 19,050<br/><span style="color: #FF4500;">(+37.30%)</span> | 13,869<br/><span style="color: #FF7F7F;">(+79.80%)</span> | 7,716<br/><span style="color: #90EE90;">(-52.60%)</span> | 16,280<br/><span style="color: #DC143C;">(+28.30%)</span> | 12,680<br/><span style="color: #002818;">(-2.40%)</span> |
-| **2月** | 20,660<br/><span style="color: #FF4500;">(+38.10%)</span> | 14,960<br/><span style="color: #FF7F7F;">(+96.80%)</span> | 7,602<br/><span style="color: #90EE90;">(-55.60%)</span> | 17,120<br/><span style="color: #DC143C;">(+29.70%)</span> | 13,200<br/><span style="color: #32CD32;">(-40.90%)</span> |
-| **1月** | 21,740<br/><span style="color: #B22222;">(+10.50%)</span> | 19,680<br/><span style="color: #FF7F7F;">(+139.40%)</span> | 8,220<br/><span style="color: #90EE90;">(-66.00%)</span> | 24,170<br/><span style="color: #B22222;">(+11.40%)</span> | 21,710<br/><span style="color: #006400;">(-21.20%)</span> |
+| **12月** | -- | 22,850<br/><span style="color: #FF6347;">(+44.10%)</span> | 15,850<br/><span style="color: #FF7F7F;">(+62.50%)</span> | 9,755<br/><span style="color: #FF7F7F;">(+500.10%)</span> | 1,626<br/><span style="color: #90EE90;">(-90.10%)</span> |
+| **11月** | -- | 23,880<br/><span style="color: #FF6347;">(+45.80%)</span> | 16,380<br/><span style="color: #FF7F7F;">(+101.00%)</span> | 8,150<br/><span style="color: #FF7F7F;">(+433.90%)</span> | -2,441<br/><span style="color: #90EE90;">(-114.80%)</span> |
+| **10月** | -- | 24,210<br/><span style="color: #FF7F7F;">(+52.30%)</span> | 15,890<br/><span style="color: #FF4500;">(+34.80%)</span> | 11,790<br/><span style="color: #FF7F7F;">(+249.30%)</span> | 3,374<br/><span style="color: #90EE90;">(-79.70%)</span> |
+| **9月** | -- | 28,970<br/><span style="color: #FF7F7F;">(+77.70%)</span> | 16,300<br/><span style="color: #DC143C;">(+26.80%)</span> | 12,850<br/><span style="color: #FF6347;">(+40.10%)</span> | 9,171<br/><span style="color: #32CD32;">(-45.00%)</span> |
+| **8月** | -- | 25,030<br/><span style="color: #FF7F7F;">(+117.50%)</span> | 11,510<br/><span style="color: #004225;">(-14.80%)</span> | 13,500<br/><span style="color: #DC143C;">(+21.00%)</span> | 11,160<br/><span style="color: #32CD32;">(-40.00%)</span> |
+| **7月** | -- | 10,550<br/><span style="color: #90EE90;">(-52.90%)</span> | 22,390<br/><span style="color: #DC143C;">(+24.10%)</span> | 18,040<br/><span style="color: #B22222;">(+15.80%)</span> | 15,580<br/><span style="color: #8B0000;">(+0.25%)</span> |
+| **6月** | -- | 26,889<br/><span style="color: #FF7F7F;">(+59.20%)</span> | 16,890<br/><span style="color: #002818;">(-4.85%)</span> | 17,750<br/><span style="color: #8B0000;">(+7.60%)</span> | 16,490<br/><span style="color: #B22222;">(+14.90%)</span> |
+| **5月** | -- | 10,910<br/><span style="color: #004225;">(-12.50%)</span> | 12,470<br/><span style="color: #DC143C;">(+24.80%)</span> | 9,989<br/><span style="color: #004225;">(-12.30%)</span> | 11,390<br/><span style="color: #8B0000;">(+0.65%)</span> |
+| **4月** | -- | 10,150<br/><span style="color: #006400;">(-23.20%)</span> | 13,210<br/><span style="color: #B22222;">(+17.80%)</span> | 11,210<br/><span style="color: #006400;">(-27.20%)</span> | 15,400<br/><span style="color: #DC143C;">(+25.00%)</span> |
+| **3月** | -- | 19,050<br/><span style="color: #FF4500;">(+37.30%)</span> | 13,869<br/><span style="color: #FF7F7F;">(+79.80%)</span> | 7,716<br/><span style="color: #90EE90;">(-52.60%)</span> | 16,280<br/><span style="color: #DC143C;">(+28.30%)</span> |
+| **2月** | -- | 20,660<br/><span style="color: #FF4500;">(+38.10%)</span> | 14,960<br/><span style="color: #FF7F7F;">(+96.80%)</span> | 7,602<br/><span style="color: #90EE90;">(-55.60%)</span> | 17,120<br/><span style="color: #DC143C;">(+29.70%)</span> |
+| **1月** | 25,860<br/><span style="color: #FF6347;">(+48.20%)</span> | 17,440<br/><span style="color: #004225;">(-11.40%)</span> | 19,680<br/><span style="color: #FF7F7F;">(+139.40%)</span> | 8,220<br/><span style="color: #90EE90;">(-66.00%)</span> | 24,170<br/><span style="color: #B22222;">(+11.40%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **258.6** | <span style="color: #FF6347; font-weight: bold;">+48.2</span> | <span style="color: #FF6347; font-weight: bold;">+48.2</span> | **50.9** | <span style="color: #FF6347; font-weight: bold;">3.8</span> | <span style="color: #004225; font-weight: bold;">13.39</span> |
 | **2025/12** | **228.5** | <span style="color: #FF6347; font-weight: bold;">+44.1</span> | <span style="color: #DC143C; font-weight: bold;">+29.3</span> | **50.2** | <span style="color: #FF6347; font-weight: bold;">3.8</span> | <span style="color: #004225; font-weight: bold;">13.21</span> |
 | **2025/11** | **238.8** | <span style="color: #FF6347; font-weight: bold;">+45.8</span> | <span style="color: #DC143C; font-weight: bold;">+27.9</span> | **43.45** | <span style="color: #FF6347; font-weight: bold;">3.79</span> | <span style="color: #004225; font-weight: bold;">11.47</span> |
 | **2025/10** | **242.1** | <span style="color: #FF7F7F; font-weight: bold;">+52.3</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **41.85** | <span style="color: #FF6347; font-weight: bold;">3.77</span> | <span style="color: #004225; font-weight: bold;">11.09</span> |
@@ -90,7 +91,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 | **2025/04** | **101.5** | <span style="color: #006400; font-weight: bold;">-23.2</span> | <span style="color: #B22222; font-weight: bold;">+16</span> | **39.3** | <span style="color: #FF6347; font-weight: bold;">3.69</span> | <span style="color: #006400; font-weight: bold;">10.64</span> |
 | **2025/03** | **190.5** | <span style="color: #FF4500; font-weight: bold;">+37.3</span> | <span style="color: #DC143C; font-weight: bold;">+26.7</span> | **39.45** | <span style="color: #FF6347; font-weight: bold;">3.68</span> | <span style="color: #006400; font-weight: bold;">10.72</span> |
 | **2025/02** | **206.6** | <span style="color: #FF4500; font-weight: bold;">+38.1</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **40.75** | <span style="color: #FF6347; font-weight: bold;">3.67</span> | <span style="color: #004225; font-weight: bold;">11.11</span> |
-| **2025/01** | **217.4** | <span style="color: #B22222; font-weight: bold;">+10.5</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **39.1** | <span style="color: #FF6347; font-weight: bold;">3.65</span> | <span style="color: #006400; font-weight: bold;">10.7</span> |
+| **2025/01** | **174.4** | <span style="color: #004225; font-weight: bold;">-11.4</span> | <span style="color: #004225; font-weight: bold;">-11.4</span> | **39.1** | <span style="color: #FF6347; font-weight: bold;">3.65</span> | <span style="color: #006400; font-weight: bold;">10.7</span> |
 | **2024/12** | **158.5** | <span style="color: #FF7F7F; font-weight: bold;">+62.5</span> | <span style="color: #FF4500; font-weight: bold;">+38.7</span> | **39.1** | <span style="color: #FF6347; font-weight: bold;">3.64</span> | <span style="color: #006400; font-weight: bold;">10.74</span> |
 | **2024/11** | **163.8** | <span style="color: #FF7F7F; font-weight: bold;">+101</span> | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | **37.4** | <span style="color: #FF6347; font-weight: bold;">3.57</span> | <span style="color: #006400; font-weight: bold;">10.47</span> |
 | **2024/10** | **158.9** | <span style="color: #FF4500; font-weight: bold;">+34.8</span> | <span style="color: #FF4500; font-weight: bold;">+32.4</span> | **35.9** | <span style="color: #FF4500; font-weight: bold;">3.5</span> | <span style="color: #006400; font-weight: bold;">10.25</span> |
@@ -413,7 +414,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-15 03:09:45 CST
+- **產生時間**: 2026-02-15 04:59:15 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
