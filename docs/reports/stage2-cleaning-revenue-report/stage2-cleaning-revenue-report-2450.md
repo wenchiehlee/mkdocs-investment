@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-15
+date: 2026-02-16
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 神腦 (2450) - 自動產生
     **:building_construction: 公司名稱**: 神腦  
     **:identification_card: 股票代號**: 2450  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-02-15 21:31:43 CST
+    **:clock3: 更新時間**: 2026-02-16 03:12:55 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 神腦 (2450) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.98** | **3.19** | **4.74** |
-| **P/E倍數** | **11.95** | **15.98** | **19.92** |
+| **EPS(元)** | **1.99** | **3.20** | **4.74** |
+| **P/E倍數** | **11.93** | **15.94** | **19.87** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 神腦 歷史平均獲利能力 (σup=1.55, σlo=1.21)
-    - **P/Ebase**: 神腦 歷史平均估值水準 (σup=3.95, σlo=4.03)
+    - **P/Ebase**: 神腦 歷史平均估值水準 (σup=3.93, σlo=4.01)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,19 +79,19 @@ description: 月營收表 神腦 (2450) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/01** | **30.69** | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | **28.95** | <span style="color: #006400; font-weight: bold;">1.6</span> | <span style="color: #B22222; font-weight: bold;">18.09</span> |
-| **2025/12** | **29.48** | <span style="color: #B22222; font-weight: bold;">+17.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.53</span> | **28.95** | <span style="color: #006400; font-weight: bold;">1.6</span> | <span style="color: #B22222; font-weight: bold;">18.09</span> |
-| **2025/11** | **36.8** | <span style="color: #B22222; font-weight: bold;">+19.8</span> | <span style="color: #8B0000; font-weight: bold;">+1.3</span> | **29** | <span style="color: #006400; font-weight: bold;">1.62</span> | <span style="color: #8B0000; font-weight: bold;">17.89</span> |
-| **2025/10** | **37.05** | <span style="color: #B22222; font-weight: bold;">+10.5</span> | <span style="color: #002818; font-weight: bold;">-0.83</span> | **29.05** | <span style="color: #006400; font-weight: bold;">1.64</span> | <span style="color: #8B0000; font-weight: bold;">17.7</span> |
-| **2025/09** | **30.59** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #002818; font-weight: bold;">-2.45</span> | **28.55** | <span style="color: #006400; font-weight: bold;">1.66</span> | <span style="color: #8B0000; font-weight: bold;">17.17</span> |
-| **2025/08** | **24.78** | <span style="color: #002818; font-weight: bold;">-6.12</span> | <span style="color: #002818; font-weight: bold;">-4.22</span> | **29.55** | <span style="color: #006400; font-weight: bold;">1.68</span> | <span style="color: #8B0000; font-weight: bold;">17.55</span> |
-| **2025/07** | **23.85** | <span style="color: #002818; font-weight: bold;">-1.12</span> | <span style="color: #002818; font-weight: bold;">-3.94</span> | **30.15** | <span style="color: #006400; font-weight: bold;">1.7</span> | <span style="color: #8B0000; font-weight: bold;">17.69</span> |
-| **2025/06** | **24.76** | <span style="color: #8B0000; font-weight: bold;">+4.77</span> | <span style="color: #002818; font-weight: bold;">-4.38</span> | **29.15** | <span style="color: #006400; font-weight: bold;">1.72</span> | <span style="color: #8B0000; font-weight: bold;">16.9</span> |
-| **2025/05** | **24.36** | <span style="color: #002818; font-weight: bold;">-3.67</span> | <span style="color: #002818; font-weight: bold;">-6.02</span> | **31.35** | <span style="color: #006400; font-weight: bold;">1.75</span> | <span style="color: #B22222; font-weight: bold;">17.96</span> |
-| **2025/04** | **23.86** | <span style="color: #002818; font-weight: bold;">-5.5</span> | <span style="color: #002818; font-weight: bold;">-6.58</span> | **31.75** | <span style="color: #006400; font-weight: bold;">1.77</span> | <span style="color: #B22222; font-weight: bold;">17.97</span> |
-| **2025/03** | **25.03** | <span style="color: #004225; font-weight: bold;">-13.4</span> | <span style="color: #002818; font-weight: bold;">-6.91</span> | **33.55** | <span style="color: #006400; font-weight: bold;">1.79</span> | <span style="color: #B22222; font-weight: bold;">18.77</span> |
-| **2025/02** | **27.35** | <span style="color: #8B0000; font-weight: bold;">+1.13</span> | <span style="color: #002818; font-weight: bold;">-3.32</span> | **34.55** | <span style="color: #006400; font-weight: bold;">1.81</span> | <span style="color: #B22222; font-weight: bold;">19.11</span> |
-| **2025/01** | **23.34** | <span style="color: #002818; font-weight: bold;">-8.07</span> | <span style="color: #002818; font-weight: bold;">-8.07</span> | **32.7** | <span style="color: #006400; font-weight: bold;">1.83</span> | <span style="color: #8B0000; font-weight: bold;">17.88</span> |
+| **2026/01** | **30.69** | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | **28.95** | <span style="color: #006400; font-weight: bold;">1.72</span> | <span style="color: #8B0000; font-weight: bold;">16.83</span> |
+| **2025/12** | **29.48** | <span style="color: #B22222; font-weight: bold;">+17.1</span> | <span style="color: #8B0000; font-weight: bold;">+2.53</span> | **28.95** | <span style="color: #006400; font-weight: bold;">1.72</span> | <span style="color: #8B0000; font-weight: bold;">16.83</span> |
+| **2025/11** | **36.8** | <span style="color: #B22222; font-weight: bold;">+19.8</span> | <span style="color: #8B0000; font-weight: bold;">+1.3</span> | **29** | <span style="color: #006400; font-weight: bold;">1.73</span> | <span style="color: #8B0000; font-weight: bold;">16.75</span> |
+| **2025/10** | **37.05** | <span style="color: #B22222; font-weight: bold;">+10.5</span> | <span style="color: #002818; font-weight: bold;">-0.83</span> | **29.05** | <span style="color: #006400; font-weight: bold;">1.74</span> | <span style="color: #8B0000; font-weight: bold;">16.68</span> |
+| **2025/09** | **30.59** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #002818; font-weight: bold;">-2.45</span> | **28.55** | <span style="color: #006400; font-weight: bold;">1.75</span> | <span style="color: #8B0000; font-weight: bold;">16.29</span> |
+| **2025/08** | **24.78** | <span style="color: #002818; font-weight: bold;">-6.12</span> | <span style="color: #002818; font-weight: bold;">-4.22</span> | **29.55** | <span style="color: #006400; font-weight: bold;">1.76</span> | <span style="color: #8B0000; font-weight: bold;">16.76</span> |
+| **2025/07** | **23.85** | <span style="color: #002818; font-weight: bold;">-1.12</span> | <span style="color: #002818; font-weight: bold;">-3.94</span> | **30.15** | <span style="color: #006400; font-weight: bold;">1.77</span> | <span style="color: #8B0000; font-weight: bold;">16.99</span> |
+| **2025/06** | **24.76** | <span style="color: #8B0000; font-weight: bold;">+4.77</span> | <span style="color: #002818; font-weight: bold;">-4.38</span> | **29.15** | <span style="color: #006400; font-weight: bold;">1.78</span> | <span style="color: #8B0000; font-weight: bold;">16.33</span> |
+| **2025/05** | **24.36** | <span style="color: #002818; font-weight: bold;">-3.67</span> | <span style="color: #002818; font-weight: bold;">-6.02</span> | **31.35** | <span style="color: #006400; font-weight: bold;">1.8</span> | <span style="color: #8B0000; font-weight: bold;">17.46</span> |
+| **2025/04** | **23.86** | <span style="color: #002818; font-weight: bold;">-5.5</span> | <span style="color: #002818; font-weight: bold;">-6.58</span> | **31.75** | <span style="color: #006400; font-weight: bold;">1.81</span> | <span style="color: #8B0000; font-weight: bold;">17.57</span> |
+| **2025/03** | **25.03** | <span style="color: #004225; font-weight: bold;">-13.4</span> | <span style="color: #002818; font-weight: bold;">-6.91</span> | **33.55** | <span style="color: #006400; font-weight: bold;">1.82</span> | <span style="color: #B22222; font-weight: bold;">18.46</span> |
+| **2025/02** | **27.35** | <span style="color: #8B0000; font-weight: bold;">+1.13</span> | <span style="color: #002818; font-weight: bold;">-3.32</span> | **34.55** | <span style="color: #006400; font-weight: bold;">1.83</span> | <span style="color: #B22222; font-weight: bold;">18.9</span> |
+| **2025/01** | **23.34** | <span style="color: #002818; font-weight: bold;">-8.07</span> | <span style="color: #002818; font-weight: bold;">-8.07</span> | **32.7** | <span style="color: #006400; font-weight: bold;">1.84</span> | <span style="color: #8B0000; font-weight: bold;">17.78</span> |
 | **2024/12** | **25.18** | <span style="color: #8B0000; font-weight: bold;">+7.62</span> | <span style="color: #8B0000; font-weight: bold;">+3.31</span> | **32.25** | <span style="color: #006400; font-weight: bold;">1.85</span> | <span style="color: #8B0000; font-weight: bold;">17.43</span> |
 | **2024/11** | **30.7** | <span style="color: #8B0000; font-weight: bold;">+4.08</span> | <span style="color: #8B0000; font-weight: bold;">+2.97</span> | **34.85** | <span style="color: #006400; font-weight: bold;">1.92</span> | <span style="color: #B22222; font-weight: bold;">18.12</span> |
 | **2024/10** | **33.54** | <span style="color: #8B0000; font-weight: bold;">+9.28</span> | <span style="color: #8B0000; font-weight: bold;">+2.84</span> | **35.05** | <span style="color: #004225; font-weight: bold;">2.0</span> | <span style="color: #8B0000; font-weight: bold;">17.55</span> |
@@ -123,10 +123,10 @@ description: 月營收表 神腦 (2450) - 自動產生
 | **2022/08** | **25.12** | <span style="color: #8B0000; font-weight: bold;">+5.36</span> | <span style="color: #8B0000; font-weight: bold;">+5.48</span> | **32.15** | <span style="color: #004225; font-weight: bold;">2.47</span> | <span style="color: #004225; font-weight: bold;">13.02</span> |
 | **2022/07** | **23.94** | <span style="color: #8B0000; font-weight: bold;">+1.12</span> | <span style="color: #8B0000; font-weight: bold;">+5.5</span> | **31.05** | <span style="color: #004225; font-weight: bold;">2.45</span> | <span style="color: #004225; font-weight: bold;">12.67</span> |
 | **2022/06** | **22.58** | <span style="color: #8B0000; font-weight: bold;">+3.55</span> | <span style="color: #8B0000; font-weight: bold;">+6.23</span> | **31.1** | <span style="color: #004225; font-weight: bold;">2.43</span> | <span style="color: #004225; font-weight: bold;">12.8</span> |
-| **2022/05** | **22.91** | <span style="color: #8B0000; font-weight: bold;">+2.76</span> | <span style="color: #8B0000; font-weight: bold;">+6.71</span> | **33.65** | <span style="color: #004225; font-weight: bold;">2.41</span> | <span style="color: #004225; font-weight: bold;">13.96</span> |
+| **2022/05** | **22.91** | <span style="color: #8B0000; font-weight: bold;">+2.76</span> | <span style="color: #8B0000; font-weight: bold;">+6.71</span> | **33.65** | <span style="color: #004225; font-weight: bold;">2.41</span> | <span style="color: #002818; font-weight: bold;">13.96</span> |
 | **2022/04** | **24.22** | <span style="color: #8B0000; font-weight: bold;">+9.83</span> | <span style="color: #8B0000; font-weight: bold;">+7.62</span> | **33.9** | <span style="color: #004225; font-weight: bold;">2.39</span> | <span style="color: #002818; font-weight: bold;">14.18</span> |
 | **2022/03** | **28.98** | <span style="color: #DC143C; font-weight: bold;">+22</span> | <span style="color: #8B0000; font-weight: bold;">+6.97</span> | **34.6** | <span style="color: #004225; font-weight: bold;">2.37</span> | <span style="color: #002818; font-weight: bold;">14.6</span> |
-| **2022/02** | **22.38** | <span style="color: #002818; font-weight: bold;">-8.79</span> | <span style="color: #8B0000; font-weight: bold;">+0.08</span> | **32.8** | <span style="color: #004225; font-weight: bold;">2.35</span> | <span style="color: #004225; font-weight: bold;">13.96</span> |
+| **2022/02** | **22.38** | <span style="color: #002818; font-weight: bold;">-8.79</span> | <span style="color: #8B0000; font-weight: bold;">+0.08</span> | **32.8** | <span style="color: #004225; font-weight: bold;">2.35</span> | <span style="color: #002818; font-weight: bold;">13.96</span> |
 | **2022/01** | **29.34** | <span style="color: #8B0000; font-weight: bold;">+8.12</span> | <span style="color: #8B0000; font-weight: bold;">+8.12</span> | **32.35** | <span style="color: #004225; font-weight: bold;">2.33</span> | <span style="color: #004225; font-weight: bold;">13.88</span> |
 | **2021/12** | **28.54** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **33.4** | <span style="color: #004225; font-weight: bold;">2.31</span> | <span style="color: #002818; font-weight: bold;">14.46</span> |
 | **2021/11** | **29.89** | <span style="color: #8B0000; font-weight: bold;">+7.26</span> | <span style="color: #B22222; font-weight: bold;">+15</span> | **32.5** | <span style="color: #004225; font-weight: bold;">2.26</span> | <span style="color: #002818; font-weight: bold;">14.39</span> |
@@ -134,7 +134,7 @@ description: 月營收表 神腦 (2450) - 自動產生
 | **2021/09** | **26.17** | <span style="color: #B22222; font-weight: bold;">+16.1</span> | <span style="color: #B22222; font-weight: bold;">+10.9</span> | **31.5** | <span style="color: #004225; font-weight: bold;">2.16</span> | <span style="color: #002818; font-weight: bold;">14.62</span> |
 | **2021/08** | **23.84** | <span style="color: #8B0000; font-weight: bold;">+2.4</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **31.8** | <span style="color: #004225; font-weight: bold;">2.1</span> | <span style="color: #002818; font-weight: bold;">15.12</span> |
 | **2021/07** | **23.67** | <span style="color: #8B0000; font-weight: bold;">+9.12</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **31.9** | <span style="color: #004225; font-weight: bold;">2.05</span> | <span style="color: #002818; font-weight: bold;">15.55</span> |
-| **2021/06** | **21.81** | <span style="color: #8B0000; font-weight: bold;">+8.17</span> | <span style="color: #B22222; font-weight: bold;">+11.8</span> | **31.9** | <span style="color: #004225; font-weight: bold;">2.0</span> | <span style="color: #002818; font-weight: bold;">15.95</span> |
+| **2021/06** | **21.81** | <span style="color: #8B0000; font-weight: bold;">+8.17</span> | <span style="color: #B22222; font-weight: bold;">+11.8</span> | **31.9** | <span style="color: #004225; font-weight: bold;">2.0</span> | <span style="color: #8B0000; font-weight: bold;">15.95</span> |
 | **2021/05** | **22.3** | <span style="color: #8B0000; font-weight: bold;">+6.01</span> | <span style="color: #B22222; font-weight: bold;">+12.6</span> | **32.45** | <span style="color: #006400; font-weight: bold;">1.95</span> | <span style="color: #8B0000; font-weight: bold;">16.66</span> |
 | **2021/04** | **22.05** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #B22222; font-weight: bold;">+14.2</span> | **35.85** | <span style="color: #006400; font-weight: bold;">1.9</span> | <span style="color: #B22222; font-weight: bold;">18.9</span> |
 | **2021/03** | **23.77** | <span style="color: #B22222; font-weight: bold;">+17.6</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **34.05** | <span style="color: #006400; font-weight: bold;">1.85</span> | <span style="color: #B22222; font-weight: bold;">18.46</span> |
@@ -148,7 +148,7 @@ description: 月營收表 神腦 (2450) - 自動產生
 | **2020/07** | **21.69** | <span style="color: #002818; font-weight: bold;">-4.28</span> | <span style="color: #004225; font-weight: bold;">-11.6</span> | **28.1** | <span style="color: #006400; font-weight: bold;">1.65</span> | <span style="color: #8B0000; font-weight: bold;">17.05</span> |
 | **2020/06** | **20.16** | <span style="color: #004225; font-weight: bold;">-11.8</span> | <span style="color: #004225; font-weight: bold;">-12.8</span> | **29.7** | <span style="color: #006400; font-weight: bold;">1.64</span> | <span style="color: #B22222; font-weight: bold;">18.11</span> |
 | **2020/05** | **21.03** | <span style="color: #002818; font-weight: bold;">-6.26</span> | <span style="color: #004225; font-weight: bold;">-13</span> | **28.15** | <span style="color: #006400; font-weight: bold;">1.63</span> | <span style="color: #8B0000; font-weight: bold;">17.25</span> |
-| **2020/04** | **18.11** | <span style="color: #004225; font-weight: bold;">-18</span> | <span style="color: #004225; font-weight: bold;">-14.5</span> | **29.1** | <span style="color: #006400; font-weight: bold;">1.62</span> | <span style="color: #8B0000; font-weight: bold;">17.93</span> |
+| **2020/04** | **18.11** | <span style="color: #004225; font-weight: bold;">-18</span> | <span style="color: #004225; font-weight: bold;">-14.5</span> | **29.1** | <span style="color: #006400; font-weight: bold;">1.62</span> | <span style="color: #B22222; font-weight: bold;">17.93</span> |
 | **2020/03** | **20.2** | <span style="color: #006400; font-weight: bold;">-24.7</span> | <span style="color: #004225; font-weight: bold;">-13.5</span> | **26.35** | <span style="color: #006400; font-weight: bold;">1.62</span> | <span style="color: #8B0000; font-weight: bold;">16.32</span> |
 | **2020/02** | **22.85** | <span style="color: #002818; font-weight: bold;">-1.92</span> | <span style="color: #002818; font-weight: bold;">-7.59</span> | **31.45** | <span style="color: #006400; font-weight: bold;">1.61</span> | <span style="color: #B22222; font-weight: bold;">19.57</span> |
 | **2020/01** | **24.23** | <span style="color: #004225; font-weight: bold;">-12.4</span> | <span style="color: #004225; font-weight: bold;">-12.4</span> | **31.9** | <span style="color: #006400; font-weight: bold;">1.6</span> | <span style="color: #DC143C; font-weight: bold;">19.96</span> |
@@ -171,7 +171,7 @@ description: 月營收表 神腦 (2450) - 自動產生
 | **2018/08** | **24.98** | <span style="color: #004225; font-weight: bold;">-15.8</span> | <span style="color: #004225; font-weight: bold;">-11.2</span> | **41** | <span style="color: #004225; font-weight: bold;">2.16</span> | <span style="color: #B22222; font-weight: bold;">18.98</span> |
 | **2018/07** | **23.36** | <span style="color: #006400; font-weight: bold;">-20.8</span> | <span style="color: #004225; font-weight: bold;">-10.5</span> | **49.95** | <span style="color: #004225; font-weight: bold;">2.3</span> | <span style="color: #DC143C; font-weight: bold;">21.69</span> |
 | **2018/06** | **21.48** | <span style="color: #228B22; font-weight: bold;">-35.2</span> | <span style="color: #002818; font-weight: bold;">-8.82</span> | **49.95** | <span style="color: #004225; font-weight: bold;">2.44</span> | <span style="color: #DC143C; font-weight: bold;">20.43</span> |
-| **2018/05** | **27.39** | <span style="color: #004225; font-weight: bold;">-10.4</span> | <span style="color: #002818; font-weight: bold;">-2.68</span> | **51.4** | <span style="color: #002818; font-weight: bold;">2.59</span> | <span style="color: #B22222; font-weight: bold;">19.86</span> |
+| **2018/05** | **27.39** | <span style="color: #004225; font-weight: bold;">-10.4</span> | <span style="color: #002818; font-weight: bold;">-2.68</span> | **51.4** | <span style="color: #004225; font-weight: bold;">2.59</span> | <span style="color: #B22222; font-weight: bold;">19.86</span> |
 | **2018/04** | **23.24** | <span style="color: #002818; font-weight: bold;">-8.37</span> | <span style="color: #002818; font-weight: bold;">-0.59</span> | **52.3** | <span style="color: #002818; font-weight: bold;">2.73</span> | <span style="color: #B22222; font-weight: bold;">19.16</span> |
 | **2018/03** | **29.51** | <span style="color: #8B0000; font-weight: bold;">+7.04</span> | <span style="color: #8B0000; font-weight: bold;">+1.68</span> | **52.4** | <span style="color: #002818; font-weight: bold;">2.87</span> | <span style="color: #B22222; font-weight: bold;">18.24</span> |
 | **2018/02** | **27.96** | <span style="color: #002818; font-weight: bold;">-3.6</span> | <span style="color: #002818; font-weight: bold;">-0.81</span> | **51.6** | <span style="color: #002818; font-weight: bold;">3.01</span> | <span style="color: #8B0000; font-weight: bold;">17.11</span> |
@@ -279,7 +279,7 @@ description: 月營收表 神腦 (2450) - 自動產生
 | **2009/08** | **-** | N/A | N/A | **42** | <span style="color: #B22222; font-weight: bold;">4.22</span> | <span style="color: #006400; font-weight: bold;">9.96</span> |
 | **2009/07** | **-** | N/A | N/A | **41.2** | <span style="color: #B22222; font-weight: bold;">4.25</span> | <span style="color: #228B22; font-weight: bold;">9.69</span> |
 | **2009/06** | **-** | N/A | N/A | **39.65** | <span style="color: #B22222; font-weight: bold;">4.28</span> | <span style="color: #228B22; font-weight: bold;">9.25</span> |
-| **2009/05** | **-** | N/A | N/A | **51.6** | <span style="color: #B22222; font-weight: bold;">4.32</span> | <span style="color: #006400; font-weight: bold;">11.95</span> |
+| **2009/05** | **-** | N/A | N/A | **51.6** | <span style="color: #B22222; font-weight: bold;">4.32</span> | <span style="color: #004225; font-weight: bold;">11.95</span> |
 | **2009/04** | **-** | N/A | N/A | **41.5** | <span style="color: #B22222; font-weight: bold;">4.35</span> | <span style="color: #228B22; font-weight: bold;">9.53</span> |
 | **2009/03** | **-** | N/A | N/A | **39.1** | <span style="color: #B22222; font-weight: bold;">4.39</span> | <span style="color: #228B22; font-weight: bold;">8.91</span> |
 | **2009/02** | **-** | N/A | N/A | **31.85** | <span style="color: #B22222; font-weight: bold;">4.42</span> | <span style="color: #32CD32; font-weight: bold;">7.2</span> |
@@ -414,7 +414,7 @@ description: 月營收表 神腦 (2450) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-15 21:31:43 CST
+- **產生時間**: 2026-02-16 03:12:55 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

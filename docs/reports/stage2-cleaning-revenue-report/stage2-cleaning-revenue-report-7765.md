@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-15
+date: 2026-02-16
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 中華資安 (7765) - 自動產生
     **:building_construction: 公司名稱**: 中華資安  
     **:identification_card: 股票代號**: 7765  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-02-15 21:31:43 CST
+    **:clock3: 更新時間**: 2026-02-16 03:12:55 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 中華資安 (7765) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **10.58** | **11.58** | **11.58** |
-| **P/E倍數** | **22.83** | **24.39** | **25.42** |
+| **EPS(元)** | **10.47** | **11.47** | **11.47** |
+| **P/E倍數** | **23.06** | **24.62** | **25.66** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 中華資安 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 中華資安 歷史平均估值水準 (σup=1.03, σlo=1.56)
+    - **P/Ebase**: 中華資安 歷史平均估值水準 (σup=1.04, σlo=1.57)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,11 +79,11 @@ description: 月營收表 中華資安 (7765) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/01** | **2.23** | <span style="color: #FF6347; font-weight: bold;">+43.4</span> | <span style="color: #FF6347; font-weight: bold;">+43.4</span> | **257** | <span style="color: #000000; font-weight: bold;">11.58</span> | <span style="color: #006400; font-weight: bold;">22.19</span> |
-| **2025/12** | **2.53** | <span style="color: #006400; font-weight: bold;">-28.2</span> | <span style="color: #8B0000; font-weight: bold;">+3.64</span> | **289** | <span style="color: #000000; font-weight: bold;">11.58</span> | <span style="color: #B22222; font-weight: bold;">24.96</span> |
-| **2025/11** | **1.79** | <span style="color: #FF4500; font-weight: bold;">+34</span> | <span style="color: #B22222; font-weight: bold;">+10.6</span> | **281** | <span style="color: #000000; font-weight: bold;">11.58</span> | <span style="color: #002818; font-weight: bold;">24.27</span> |
-| **2025/10** | **1.45** | <span style="color: #004225; font-weight: bold;">-14.6</span> | <span style="color: #8B0000; font-weight: bold;">+8.47</span> | **283** | <span style="color: #000000; font-weight: bold;">11.58</span> | <span style="color: #8B0000; font-weight: bold;">24.44</span> |
-| **2025/09** | **1.56** | <span style="color: #DC143C; font-weight: bold;">+23.8</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **302** | <span style="color: #000000; font-weight: bold;">11.58</span> | <span style="color: #FF4500; font-weight: bold;">26.08</span> |
+| **2026/01** | **2.23** | <span style="color: #FF6347; font-weight: bold;">+43.4</span> | <span style="color: #FF6347; font-weight: bold;">+43.4</span> | **257** | <span style="color: #000000; font-weight: bold;">11.47</span> | <span style="color: #006400; font-weight: bold;">22.41</span> |
+| **2025/12** | **2.53** | <span style="color: #006400; font-weight: bold;">-28.2</span> | <span style="color: #8B0000; font-weight: bold;">+3.64</span> | **289** | <span style="color: #000000; font-weight: bold;">11.47</span> | <span style="color: #B22222; font-weight: bold;">25.2</span> |
+| **2025/11** | **1.79** | <span style="color: #FF4500; font-weight: bold;">+34</span> | <span style="color: #B22222; font-weight: bold;">+10.6</span> | **281** | <span style="color: #000000; font-weight: bold;">11.47</span> | <span style="color: #002818; font-weight: bold;">24.5</span> |
+| **2025/10** | **1.45** | <span style="color: #004225; font-weight: bold;">-14.6</span> | <span style="color: #8B0000; font-weight: bold;">+8.47</span> | **283** | <span style="color: #000000; font-weight: bold;">11.47</span> | <span style="color: #8B0000; font-weight: bold;">24.67</span> |
+| **2025/09** | **1.56** | <span style="color: #DC143C; font-weight: bold;">+23.8</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **302** | <span style="color: #000000; font-weight: bold;">11.47</span> | <span style="color: #FF4500; font-weight: bold;">26.33</span> |
 | **2025/08** | **1.42** | <span style="color: #002818; font-weight: bold;">-4.35</span> | <span style="color: #B22222; font-weight: bold;">+10.1</span> | **-** | N/A | N/A |
 | **2025/07** | **1.92** | <span style="color: #8B0000; font-weight: bold;">+2.18</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **-** | N/A | N/A |
 | **2025/06** | **1.77** | <span style="color: #FF7F7F; font-weight: bold;">+68.6</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **-** | N/A | N/A |
@@ -193,7 +193,7 @@ description: 月營收表 中華資安 (7765) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-15 21:31:43 CST
+- **產生時間**: 2026-02-16 03:12:55 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
