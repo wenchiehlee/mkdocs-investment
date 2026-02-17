@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-17
+date: 2026-02-18
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
     **:building_construction: 公司名稱**: 富邦金  
     **:identification_card: 股票代號**: 2881  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-02-17 21:50:38 CST
+    **:clock3: 更新時間**: 2026-02-18 01:42:26 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 富邦金 (2881) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.54** | **4.87** | **8.08** |
-| **P/E倍數** | **8.53** | **11.96** | **18.86** |
+| **EPS(元)** | **2.54** | **4.86** | **8.05** |
+| **P/E倍數** | **8.54** | **11.97** | **18.86** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 富邦金 歷史平均獲利能力 (σup=3.20, σlo=2.34)
-    - **P/Ebase**: 富邦金 歷史平均估值水準 (σup=6.90, σlo=3.43)
+    - **EPSbase**: 富邦金 歷史平均獲利能力 (σup=3.19, σlo=2.33)
+    - **P/Ebase**: 富邦金 歷史平均估值水準 (σup=6.89, σlo=3.43)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,19 +79,19 @@ description: 月營收表 富邦金 (2881) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/01** | **238.8** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **90.9** | <span style="color: #DC143C; font-weight: bold;">8.6</span> | <span style="color: #002818; font-weight: bold;">10.57</span> |
-| **2025/12** | **426.5** | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | <span style="color: #8B0000; font-weight: bold;">+9.75</span> | **96.1** | <span style="color: #DC143C; font-weight: bold;">8.6</span> | <span style="color: #002818; font-weight: bold;">11.17</span> |
-| **2025/11** | **529.7** | <span style="color: #FF7F7F; font-weight: bold;">+53.5</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **92.6** | <span style="color: #DC143C; font-weight: bold;">8.78</span> | <span style="color: #002818; font-weight: bold;">10.55</span> |
-| **2025/10** | **483.9** | <span style="color: #FF7F7F; font-weight: bold;">+63</span> | <span style="color: #8B0000; font-weight: bold;">+4.47</span> | **91.2** | <span style="color: #DC143C; font-weight: bold;">8.96</span> | <span style="color: #004225; font-weight: bold;">10.18</span> |
-| **2025/09** | **356.5** | <span style="color: #FF7F7F; font-weight: bold;">+56.5</span> | <span style="color: #002818; font-weight: bold;">-2.64</span> | **88.3** | <span style="color: #DC143C; font-weight: bold;">9.14</span> | <span style="color: #004225; font-weight: bold;">9.66</span> |
-| **2025/08** | **573.9** | <span style="color: #FF7F7F; font-weight: bold;">+1442.6</span> | <span style="color: #002818; font-weight: bold;">-8.74</span> | **83.9** | <span style="color: #DC143C; font-weight: bold;">9.32</span> | <span style="color: #004225; font-weight: bold;">9.0</span> |
-| **2025/07** | **316.1** | <span style="color: #006400; font-weight: bold;">-27.2</span> | <span style="color: #228B22; font-weight: bold;">-33.6</span> | **82.4** | <span style="color: #DC143C; font-weight: bold;">9.5</span> | <span style="color: #004225; font-weight: bold;">8.67</span> |
-| **2025/06** | **309.7** | <span style="color: #002818; font-weight: bold;">-5.46</span> | <span style="color: #228B22; font-weight: bold;">-35.2</span> | **87.3** | <span style="color: #FF4500; font-weight: bold;">9.68</span> | <span style="color: #004225; font-weight: bold;">9.01</span> |
-| **2025/05** | **-151.8** | <span style="color: #90EE90; font-weight: bold;">-160.6</span> | <span style="color: #32CD32; font-weight: bold;">-42</span> | **79.6** | <span style="color: #FF4500; font-weight: bold;">9.87</span> | <span style="color: #006400; font-weight: bold;">8.07</span> |
-| **2025/04** | **-121** | <span style="color: #90EE90; font-weight: bold;">-144.8</span> | <span style="color: #004225; font-weight: bold;">-16.5</span> | **84.3** | <span style="color: #FF4500; font-weight: bold;">10.05</span> | <span style="color: #006400; font-weight: bold;">8.39</span> |
-| **2025/03** | **311.1** | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **85.3** | <span style="color: #FF4500; font-weight: bold;">10.23</span> | <span style="color: #006400; font-weight: bold;">8.34</span> |
-| **2025/02** | **381.3** | <span style="color: #FF6347; font-weight: bold;">+48.8</span> | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | **92.3** | <span style="color: #FF4500; font-weight: bold;">10.41</span> | <span style="color: #004225; font-weight: bold;">8.87</span> |
-| **2025/01** | **216.8** | <span style="color: #32CD32; font-weight: bold;">-43.8</span> | <span style="color: #32CD32; font-weight: bold;">-43.8</span> | **92.8** | <span style="color: #FF4500; font-weight: bold;">10.59</span> | <span style="color: #004225; font-weight: bold;">8.76</span> |
+| **2026/01** | **238.8** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **90.9** | <span style="color: #DC143C; font-weight: bold;">8.34</span> | <span style="color: #002818; font-weight: bold;">10.9</span> |
+| **2025/12** | **426.5** | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | <span style="color: #8B0000; font-weight: bold;">+9.75</span> | **96.1** | <span style="color: #DC143C; font-weight: bold;">8.34</span> | <span style="color: #002818; font-weight: bold;">11.52</span> |
+| **2025/11** | **529.7** | <span style="color: #FF7F7F; font-weight: bold;">+53.5</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **92.6** | <span style="color: #DC143C; font-weight: bold;">8.54</span> | <span style="color: #002818; font-weight: bold;">10.84</span> |
+| **2025/10** | **483.9** | <span style="color: #FF7F7F; font-weight: bold;">+63</span> | <span style="color: #8B0000; font-weight: bold;">+4.47</span> | **91.2** | <span style="color: #DC143C; font-weight: bold;">8.74</span> | <span style="color: #002818; font-weight: bold;">10.43</span> |
+| **2025/09** | **356.5** | <span style="color: #FF7F7F; font-weight: bold;">+56.5</span> | <span style="color: #002818; font-weight: bold;">-2.64</span> | **88.3** | <span style="color: #DC143C; font-weight: bold;">8.95</span> | <span style="color: #004225; font-weight: bold;">9.87</span> |
+| **2025/08** | **573.9** | <span style="color: #FF7F7F; font-weight: bold;">+1442.6</span> | <span style="color: #002818; font-weight: bold;">-8.74</span> | **83.9** | <span style="color: #DC143C; font-weight: bold;">9.15</span> | <span style="color: #004225; font-weight: bold;">9.17</span> |
+| **2025/07** | **316.1** | <span style="color: #006400; font-weight: bold;">-27.2</span> | <span style="color: #228B22; font-weight: bold;">-33.6</span> | **82.4** | <span style="color: #DC143C; font-weight: bold;">9.35</span> | <span style="color: #004225; font-weight: bold;">8.81</span> |
+| **2025/06** | **309.7** | <span style="color: #002818; font-weight: bold;">-5.46</span> | <span style="color: #228B22; font-weight: bold;">-35.2</span> | **87.3** | <span style="color: #DC143C; font-weight: bold;">9.56</span> | <span style="color: #004225; font-weight: bold;">9.14</span> |
+| **2025/05** | **-151.8** | <span style="color: #90EE90; font-weight: bold;">-160.6</span> | <span style="color: #32CD32; font-weight: bold;">-42</span> | **79.6** | <span style="color: #FF4500; font-weight: bold;">9.76</span> | <span style="color: #006400; font-weight: bold;">8.16</span> |
+| **2025/04** | **-121** | <span style="color: #90EE90; font-weight: bold;">-144.8</span> | <span style="color: #004225; font-weight: bold;">-16.5</span> | **84.3** | <span style="color: #FF4500; font-weight: bold;">9.96</span> | <span style="color: #006400; font-weight: bold;">8.46</span> |
+| **2025/03** | **311.1** | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **85.3** | <span style="color: #FF4500; font-weight: bold;">10.16</span> | <span style="color: #006400; font-weight: bold;">8.39</span> |
+| **2025/02** | **381.3** | <span style="color: #FF6347; font-weight: bold;">+48.8</span> | <span style="color: #DC143C; font-weight: bold;">+21.5</span> | **92.3** | <span style="color: #FF4500; font-weight: bold;">10.36</span> | <span style="color: #004225; font-weight: bold;">8.9</span> |
+| **2025/01** | **216.8** | <span style="color: #32CD32; font-weight: bold;">-43.8</span> | <span style="color: #32CD32; font-weight: bold;">-43.8</span> | **92.8** | <span style="color: #FF4500; font-weight: bold;">10.57</span> | <span style="color: #004225; font-weight: bold;">8.78</span> |
 | **2024/12** | **394.6** | <span style="color: #FF7F7F; font-weight: bold;">+315.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+107.1</span> | **90.3** | <span style="color: #FF4500; font-weight: bold;">10.77</span> | <span style="color: #006400; font-weight: bold;">8.38</span> |
 | **2024/11** | **345.2** | <span style="color: #FF7F7F; font-weight: bold;">+483.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+94.6</span> | **88** | <span style="color: #FF4500; font-weight: bold;">10.27</span> | <span style="color: #004225; font-weight: bold;">8.57</span> |
 | **2024/10** | **296.8** | <span style="color: #FF7F7F; font-weight: bold;">+115.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+63.5</span> | **90.8** | <span style="color: #FF4500; font-weight: bold;">9.77</span> | <span style="color: #004225; font-weight: bold;">9.29</span> |
@@ -414,7 +414,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-17 21:50:38 CST
+- **產生時間**: 2026-02-18 01:42:26 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
