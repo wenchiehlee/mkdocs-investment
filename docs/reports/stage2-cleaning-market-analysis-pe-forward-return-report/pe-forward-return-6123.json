@@ -3,7 +3,7 @@
     "stock_code": "6123",
     "company_name": "上奇",
     "industry": "資訊服務業",
-    "generated_at": "2026-02-07T12:43:20.714571",
+    "generated_at": "2026-02-21T12:37:50.688742",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -20683,6 +20683,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": -8.25
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": -6.09
     }
   ]
 }

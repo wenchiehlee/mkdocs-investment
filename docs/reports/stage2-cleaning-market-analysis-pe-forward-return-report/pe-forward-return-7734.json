@@ -3,7 +3,7 @@
     "stock_code": "7734",
     "company_name": "印能科技",
     "industry": "半導體業",
-    "generated_at": "2026-02-07T12:44:42.384059",
+    "generated_at": "2026-02-21T12:39:10.667014",
     "horizons": [
       "0.25y",
       "0.5y"
@@ -415,6 +415,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 9.09
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 142.0
     }
   ]
 }

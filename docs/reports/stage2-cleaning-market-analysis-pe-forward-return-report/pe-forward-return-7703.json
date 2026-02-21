@@ -3,7 +3,7 @@
     "stock_code": "7703",
     "company_name": "銳澤",
     "industry": "其他電子業",
-    "generated_at": "2026-02-07T12:44:37.704775",
+    "generated_at": "2026-02-21T12:39:06.070277",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -558,6 +558,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": -3.31
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 15.5
     }
   ]
 }

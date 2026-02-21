@@ -3,7 +3,7 @@
     "stock_code": "6285",
     "company_name": "啟碁",
     "industry": "通信網路業",
-    "generated_at": "2026-02-07T12:43:57.100221",
+    "generated_at": "2026-02-21T12:38:26.808282",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -20763,6 +20763,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": -2.71
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 11.0
     }
   ]
 }

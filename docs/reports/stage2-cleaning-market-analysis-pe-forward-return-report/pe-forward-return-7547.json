@@ -3,7 +3,7 @@
     "stock_code": "7547",
     "company_name": "碩網",
     "industry": "數位雲端",
-    "generated_at": "2026-02-07T12:44:37.205253",
+    "generated_at": "2026-02-21T12:39:05.582519",
     "horizons": [
       "0.25y"
     ],
@@ -414,6 +414,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": -33.8
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 44.7
     }
   ]
 }

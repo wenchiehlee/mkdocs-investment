@@ -3,7 +3,7 @@
     "stock_code": "6125",
     "company_name": "廣運",
     "industry": "光電業",
-    "generated_at": "2026-02-07T12:43:28.081196",
+    "generated_at": "2026-02-21T12:37:57.976206",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -12275,6 +12275,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 31.1
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 25.0
     }
   ]
 }

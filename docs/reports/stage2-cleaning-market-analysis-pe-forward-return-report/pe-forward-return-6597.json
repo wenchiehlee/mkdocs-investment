@@ -3,7 +3,7 @@
     "stock_code": "6597",
     "company_name": "立誠",
     "industry": "電子零組件業",
-    "generated_at": "2026-02-07T12:44:18.648595",
+    "generated_at": "2026-02-21T12:38:48.282787",
     "horizons": [
       "0.25y",
       "0.5y"
@@ -679,6 +679,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": -3.02
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": -21.2
     }
   ]
 }

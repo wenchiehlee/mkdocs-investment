@@ -3,7 +3,7 @@
     "stock_code": "6997",
     "company_name": "博弘",
     "industry": "數位雲端",
-    "generated_at": "2026-02-07T12:44:36.844108",
+    "generated_at": "2026-02-21T12:39:05.223309",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -525,6 +525,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 18.1
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 5.39
     }
   ]
 }

@@ -3,7 +3,7 @@
     "stock_code": "2449",
     "company_name": "京元電子",
     "industry": "半導體業",
-    "generated_at": "2026-02-07T12:39:07.688794",
+    "generated_at": "2026-02-21T12:33:39.157716",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -19251,6 +19251,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 33.0
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 41.3
     }
   ]
 }

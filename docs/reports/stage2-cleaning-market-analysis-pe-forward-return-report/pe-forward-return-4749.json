@@ -3,7 +3,7 @@
     "stock_code": "4749",
     "company_name": "新應材",
     "industry": "半導體業",
-    "generated_at": "2026-02-07T12:42:26.801617",
+    "generated_at": "2026-02-21T12:36:57.231065",
     "horizons": [
       "0.25y",
       "0.5y"
@@ -719,6 +719,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 11.0
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 16.1
     }
   ]
 }

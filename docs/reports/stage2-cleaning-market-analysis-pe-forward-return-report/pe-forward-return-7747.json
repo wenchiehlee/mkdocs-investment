@@ -3,7 +3,7 @@
     "stock_code": "7747",
     "company_name": "昕奇雲端",
     "industry": "數位雲端",
-    "generated_at": "2026-02-07T12:44:43.600931",
+    "generated_at": "2026-02-21T12:39:11.857725",
     "horizons": [
       "0.25y"
     ],
@@ -226,6 +226,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 6.81
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": -3.63
     }
   ]
 }

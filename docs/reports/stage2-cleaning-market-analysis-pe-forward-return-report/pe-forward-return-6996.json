@@ -3,7 +3,7 @@
     "stock_code": "6996",
     "company_name": "力領科技",
     "industry": "半導體業",
-    "generated_at": "2026-02-07T12:44:36.366019",
+    "generated_at": "2026-02-21T12:39:04.749661",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -525,6 +525,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 13.7
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 32.1
     }
   ]
 }

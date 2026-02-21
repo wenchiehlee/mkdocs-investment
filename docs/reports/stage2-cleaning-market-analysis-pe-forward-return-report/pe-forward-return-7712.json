@@ -3,7 +3,7 @@
     "stock_code": "7712",
     "company_name": "博盛半導體",
     "industry": "半導體業",
-    "generated_at": "2026-02-07T12:44:40.097168",
+    "generated_at": "2026-02-21T12:39:08.450909",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -513,6 +513,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": -8.2
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 12.5
     }
   ]
 }

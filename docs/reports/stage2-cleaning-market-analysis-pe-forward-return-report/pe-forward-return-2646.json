@@ -3,7 +3,7 @@
     "stock_code": "2646",
     "company_name": "星宇航空",
     "industry": "航運業",
-    "generated_at": "2026-02-07T12:39:59.617441",
+    "generated_at": "2026-02-21T12:34:30.800689",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -651,6 +651,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 16.9
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": -0.54
     }
   ]
 }

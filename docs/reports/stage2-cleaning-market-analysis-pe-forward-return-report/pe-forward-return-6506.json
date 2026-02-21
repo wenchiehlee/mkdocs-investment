@@ -3,7 +3,7 @@
     "stock_code": "6506",
     "company_name": "雙邦",
     "industry": "紡織纖維",
-    "generated_at": "2026-02-07T12:44:11.494903",
+    "generated_at": "2026-02-21T12:38:41.129612",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -14251,6 +14251,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 9.12
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 35.0
     }
   ]
 }

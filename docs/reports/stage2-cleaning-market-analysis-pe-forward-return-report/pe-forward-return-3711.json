@@ -3,7 +3,7 @@
     "stock_code": "3711",
     "company_name": "日月光投控",
     "industry": "半導體業",
-    "generated_at": "2026-02-07T12:42:18.904302",
+    "generated_at": "2026-02-21T12:36:49.125843",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -5859,6 +5859,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 11.3
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 21.3
     }
   ]
 }

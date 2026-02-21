@@ -3,7 +3,7 @@
     "stock_code": "5536",
     "company_name": "聖暉",
     "industry": "其他電子業",
-    "generated_at": "2026-02-07T12:43:05.334011",
+    "generated_at": "2026-02-21T12:37:35.280149",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -14851,6 +14851,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 10.1
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 38.8
     }
   ]
 }

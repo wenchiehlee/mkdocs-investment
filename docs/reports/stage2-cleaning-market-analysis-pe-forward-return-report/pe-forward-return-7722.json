@@ -3,7 +3,7 @@
     "stock_code": "7722",
     "company_name": "LINEPAY",
     "industry": "數位雲端",
-    "generated_at": "2026-02-07T12:44:41.014979",
+    "generated_at": "2026-02-21T12:39:09.359721",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -513,6 +513,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 16.3
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 15.4
     }
   ]
 }

@@ -3,7 +3,7 @@
     "stock_code": "2330",
     "company_name": "台積電",
     "industry": "半導體業",
-    "generated_at": "2026-02-07T12:36:48.751997",
+    "generated_at": "2026-02-21T12:31:21.626350",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -20827,6 +20827,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 20.4
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 36.8
     }
   ]
 }

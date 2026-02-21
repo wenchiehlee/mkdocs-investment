@@ -3,7 +3,7 @@
     "stock_code": "7749",
     "company_name": "意騰-KY",
     "industry": "半導體業",
-    "generated_at": "2026-02-07T12:44:43.968607",
+    "generated_at": "2026-02-21T12:39:12.220565",
     "horizons": [
       "0.25y",
       "0.5y"
@@ -239,6 +239,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": 17.2
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": 42.6
     }
   ]
 }

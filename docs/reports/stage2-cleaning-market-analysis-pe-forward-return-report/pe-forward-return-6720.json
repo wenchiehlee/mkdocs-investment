@@ -3,7 +3,7 @@
     "stock_code": "6720",
     "company_name": "久昌",
     "industry": "半導體業",
-    "generated_at": "2026-02-07T12:44:26.758964",
+    "generated_at": "2026-02-21T12:38:56.379754",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -753,6 +753,10 @@
     {
       "date": "2025-12-16",
       "revenue_yoy": -24.6
+    },
+    {
+      "date": "2026-01-16",
+      "revenue_yoy": -22.7
     }
   ]
 }
