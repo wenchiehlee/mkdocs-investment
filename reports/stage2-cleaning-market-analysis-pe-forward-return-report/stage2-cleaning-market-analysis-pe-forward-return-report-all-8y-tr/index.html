@@ -1,0 +1,3013 @@
+
+<!doctype html>
+<html lang="zh-TW" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="全市場本益比與8未來報酬率分析總覽報告 (含息)">
+      
+      
+        <meta name="author" content="Wen-Chieh Lee">
+      
+      
+        <link rel="canonical" href="https://wenchiehlee.github.io/mkdocs-investment/reports/stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-8y-tr/">
+      
+      
+      
+      
+        <link rel="alternate" type="application/rss+xml" title="RSS 訂閱" href="../../../feed_rss_created.xml">
+        <link rel="alternate" type="application/rss+xml" title="RSS 訂閱內容已更新" href="../../../feed_rss_updated.xml">
+      
+      <link rel="icon" href="../../../assets/images/w-purple.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>本益比與8未來報酬率分析 - 全股總覽 (含息) - Wen-Chieh Lee的投資堆疊</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+  
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+  
+  <style>.md-tag.md-tag--featured{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 12V4h1V2H7v2h1v8l-2 2v2h5.2v6h1.6v-6H18v-2l-2-2Z"/></svg>');}.md-tag.md-tag--3D{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 7h4a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H5v-2h4v-2H6v-2h3V9H5V7m8 0h3a3 3 0 0 1 3 3v4a3 3 0 0 1-3 3h-3V7m3 8a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1h-1v6h1Z"/></svg>');}.md-tag.md-tag--AI{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 3c3.88 0 7 3.14 7 7 0 2.8-1.63 5.19-4 6.31V21H9v-3H8c-1.11 0-2-.89-2-2v-3H4.5c-.42 0-.66-.5-.42-.81L6 9.66A7.003 7.003 0 0 1 13 3m0-2C8.41 1 4.61 4.42 4.06 8.9L2.5 11h-.03l-.02.03c-.55.76-.62 1.76-.19 2.59.36.69 1 1.17 1.74 1.32V16c0 1.85 1.28 3.42 3 3.87V23h11v-5.5c2.5-1.67 4-4.44 4-7.5 0-4.97-4.04-9-9-9m4.33 8.3-1.96.51 1.44 1.46c.35.34.35.92 0 1.27s-.93.35-1.27 0l-1.45-1.44-.52 1.96c-.12.49-.61.76-1.07.64a.91.91 0 0 1-.66-1.11l.53-1.96-1.96.53a.91.91 0 0 1-1.11-.66c-.12-.45.16-.95.64-1.07l1.96-.52-1.44-1.45a.9.9 0 0 1 1.27-1.27l1.46 1.44.51-1.96c.12-.49.62-.77 1.09-.64.49.13.77.62.64 1.1L14.9 8.1l1.97-.53c.48-.13.97.15 1.1.64.13.47-.15.97-.64 1.09Z"/></svg>');}.md-tag.md-tag--Data{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3C7.58 3 4 4.79 4 7s3.58 4 8 4 8-1.79 8-4-3.58-4-8-4M4 9v3c0 2.21 3.58 4 8 4s8-1.79 8-4V9c0 2.21-3.58 4-8 4s-8-1.79-8-4m0 5v3c0 2.21 3.58 4 8 4s8-1.79 8-4v-3c0 2.21-3.58 4-8 4s-8-1.79-8-4Z"/></svg>');}.md-tag.md-tag--DevOps{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.73 11.93c0 1.72-.02 1.83-.23 2.07-.19.17-.38.23-.76.23l-.51.01-.03-2.27-.02-2.27h.52c.35 0 .6.07.77.21.24.21.26.25.26 2.02M22 7.5v9c0 1.11-.89 2-2 2H4c-1.11 0-2-.89-2-2v-9c0-1.11.89-2 2-2h16c1.11 0 2 .89 2 2M8.93 11.73c-.03-1.84-.05-1.99-.29-2.39-.4-.68-.85-.84-2.36-.84H5v7h1.21c1.33 0 1.89-.17 2.29-.71.41-.53.5-.98.43-3.06m4.19-3.23h-1.48c-1.49 0-1.5 0-1.71.28S9.7 9.21 9.7 12v2.96l.27.27c.25.27.31.27 1.71.27h1.44v-1.19l-1.09-.04-1.1-.03V12.6l.68-.03.66-.04v-1.19h-1.39V9.7h2.24V8.5m5.88.06c0-.06-.3-.06-.66-.06l-.68.06-.59 2.35c-.38 1.48-.62 2.27-.67 2.13-.08-.27-1.14-4.44-1.14-4.49 0-.05-.31-.05-.68-.05h-.69l.41 1.55c.2.87.59 2.28.81 3.15.34 1.35.46 1.65.75 1.94.2.22.45.36.61.36.33 0 .76-.34.9-.73C17.5 14.5 19 8.69 19 8.56Z"/></svg>');}.md-tag.md-tag--IOT{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18V4H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h4v-2H3V6m10 6H9v1.78c-.61.55-1 1.33-1 2.22 0 .89.39 1.67 1 2.22V20h4v-1.78c.61-.55 1-1.34 1-2.22s-.39-1.67-1-2.22V12m-2 5.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5M22 8h-6c-.5 0-1 .5-1 1v10c0 .5.5 1 1 1h6c.5 0 1-.5 1-1V9c0-.5-.5-1-1-1m-1 10h-4v-8h4v8Z"/></svg>');}</style>
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+TC:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Noto Serif TC";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../css/timeago.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/timeline.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/cards.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/link.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/customize.css">
+    
+      <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/tables.css">
+    
+      <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-913Z6DSVD2"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-913Z6DSVD2",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-913Z6DSVD2",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="deep-purple">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#8-" class="md-skip">
+          跳轉到
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="頁首">
+    <a href="../../.." title="Wen-Chieh Lee的投資堆疊" class="md-header__button md-logo" aria-label="Wen-Chieh Lee的投資堆疊" data-md-component="logo">
+      
+  <img src="../../../assets/images/w-purple.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Wen-Chieh Lee的投資堆疊
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              本益比與8未來報酬率分析 - 全股總覽 (含息)
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="deep-purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜尋" placeholder="搜尋" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256l137.3-137.4c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="搜尋">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="分享" aria-label="分享" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="清除" aria-label="清除" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜尋引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/wenchiehlee/mkdocs-investment" title="前往倉庫" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Mkdocs-investment
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="標籤" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 21H2V3h2v16h2v-2h4v2h2v-3h4v3h2v-2h4v4m-4-7h4v2h-4v-2m-6-8h4v3h-4V6m4 9h-4v-5h4v5M6 10h4v2H6v-2m4 6H6v-3h4v3Z"/></svg>
+    
+  
+  首頁
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../blog/" class="md-tabs__link">
+        
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 3v18h18V3H3m15 15H6v-1h12v1m0-2H6v-1h12v1m0-4H6V6h12v6Z"/></svg>
+    
+  
+  部落格
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../categories/" class="md-tabs__link">
+        
+  
+    
+  
+  分類
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../stage2-cleaning-revenue-report-all/" class="md-tabs__link">
+          
+  
+    
+  
+  台股總覽
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../tags/" class="md-tabs__link">
+        
+  
+    
+  
+  標簽
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../about/link/" class="md-tabs__link">
+        
+  
+    
+  
+  友鏈
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../about/" class="md-tabs__link">
+        
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 11.75A1.25 1.25 0 0 0 7.75 13 1.25 1.25 0 0 0 9 14.25 1.25 1.25 0 0 0 10.25 13 1.25 1.25 0 0 0 9 11.75m6 0A1.25 1.25 0 0 0 13.75 13 1.25 1.25 0 0 0 15 14.25 1.25 1.25 0 0 0 16.25 13 1.25 1.25 0 0 0 15 11.75M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 18c-4.41 0-8-3.59-8-8 0-.29 0-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37a9.974 9.974 0 0 0 10.41 3.97c.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8Z"/></svg>
+    
+  
+  關於
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="導覽列" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Wen-Chieh Lee的投資堆疊" class="md-nav__button md-logo" aria-label="Wen-Chieh Lee的投資堆疊" data-md-component="logo">
+      
+  <img src="../../../assets/images/w-purple.png" alt="logo">
+
+    </a>
+    Wen-Chieh Lee的投資堆疊
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/wenchiehlee/mkdocs-investment" title="前往倉庫" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Mkdocs-investment
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 21H2V3h2v16h2v-2h4v2h2v-3h4v3h2v-2h4v4m-4-7h4v2h-4v-2m-6-8h4v3h-4V6m4 9h-4v-5h4v5M6 10h4v2H6v-2m4 6H6v-3h4v3Z"/></svg>
+  
+  <span class="md-ellipsis">
+    首頁
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blog/" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 3v18h18V3H3m15 15H6v-1h12v1m0-2H6v-1h12v1m0-4H6V6h12v6Z"/></svg>
+  
+  <span class="md-ellipsis">
+    部落格
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../categories/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    分類
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../stage2-cleaning-revenue-report-all/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    台股總覽
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tags/" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 12V4h1V2H7v2h1v8l-2 2v2h5.2v6h1.6v-6H18v-2l-2-2Z"/></svg>
+  
+  <span class="md-ellipsis">
+    標簽
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../about/link/" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1M8 13h8v-2H8v2m9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1 0 1.71-1.39 3.1-3.1 3.1h-4V17h4a5 5 0 0 0 5-5 5 5 0 0 0-5-5Z"/></svg>
+  
+  <span class="md-ellipsis">
+    友鏈
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../about/" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 11.75A1.25 1.25 0 0 0 7.75 13 1.25 1.25 0 0 0 9 14.25 1.25 1.25 0 0 0 10.25 13 1.25 1.25 0 0 0 9 11.75m6 0A1.25 1.25 0 0 0 13.75 13 1.25 1.25 0 0 0 15 14.25 1.25 1.25 0 0 0 16.25 13 1.25 1.25 0 0 0 15 11.75M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 18c-4.41 0-8-3.59-8-8 0-.29 0-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37a9.974 9.974 0 0 0 10.41 3.97c.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8Z"/></svg>
+  
+  <span class="md-ellipsis">
+    關於
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="目錄">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目錄
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      📊 全市場估值分析總覽
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="📊 全市場估值分析總覽">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      按預期報酬率排序 (由高至低)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      統計摘要
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      📈 估值分布統計
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="📈 估值分布統計">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      依估值水準分類
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      🏢 產業別分析
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🏢 產業別分析">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      各產業平均預期報酬率
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      🔍 相關性分析
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🔍 相關性分析">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#r2" class="md-nav__link">
+    <span class="md-ellipsis">
+      R²值分布 (模型解釋力)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      🎯 投資機會分析
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🎯 投資機會分析">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#top-20-8" class="md-nav__link">
+    <span class="md-ellipsis">
+      Top 20 預期8報酬率最佳標的
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bottom-20-8" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bottom 20 預期8報酬率最低標的
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      📚 分析方法說明
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="📚 分析方法說明">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      本益比與未來報酬率分析框架
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      關鍵指標解讀
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_13" class="md-nav__link">
+    <span class="md-ellipsis">
+      📋 個股詳細報告
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="📋 個股詳細報告">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_14" class="md-nav__link">
+    <span class="md-ellipsis">
+      光電業
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_15" class="md-nav__link">
+    <span class="md-ellipsis">
+      其他業
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_16" class="md-nav__link">
+    <span class="md-ellipsis">
+      其他電子業
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_17" class="md-nav__link">
+    <span class="md-ellipsis">
+      半導體業
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_18" class="md-nav__link">
+    <span class="md-ellipsis">
+      居家生活
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_19" class="md-nav__link">
+    <span class="md-ellipsis">
+      數位雲端
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_20" class="md-nav__link">
+    <span class="md-ellipsis">
+      文化創意業
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_21" class="md-nav__link">
+    <span class="md-ellipsis">
+      汽車工業
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_22" class="md-nav__link">
+    <span class="md-ellipsis">
+      生技醫療業
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_23" class="md-nav__link">
+    <span class="md-ellipsis">
+      紡織纖維
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_24" class="md-nav__link">
+    <span class="md-ellipsis">
+      航運業
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_25" class="md-nav__link">
+    <span class="md-ellipsis">
+      觀光餐旅
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_26" class="md-nav__link">
+    <span class="md-ellipsis">
+      資訊服務業
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_27" class="md-nav__link">
+    <span class="md-ellipsis">
+      通信網路業
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_28" class="md-nav__link">
+    <span class="md-ellipsis">
+      運動休閒
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_29" class="md-nav__link">
+    <span class="md-ellipsis">
+      金融保險業
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_30" class="md-nav__link">
+    <span class="md-ellipsis">
+      電子通路業
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_31" class="md-nav__link">
+    <span class="md-ellipsis">
+      電子零組件業
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_32" class="md-nav__link">
+    <span class="md-ellipsis">
+      電機機械
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_33" class="md-nav__link">
+    <span class="md-ellipsis">
+      電腦及週邊設備業
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#" class="md-tag">本益比</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#" class="md-tag">未來報酬</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#" class="md-tag">總覽</a>
+    
+  
+</nav>
+
+
+  
+    <a href="https://github.com/wenchiehlee/mkdocs-investment/edit/main/docs/reports/stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-8y-tr.md" title="編輯此頁" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/wenchiehlee/mkdocs-investment/raw/main/docs/reports/stage2-cleaning-market-analysis-pe-forward-return-report/stage2-cleaning-market-analysis-pe-forward-return-report-all-8y-tr.md" title="查看此頁原始碼" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
+    </a>
+  
+
+
+<style>
+.sortable-table, .sortable-table td, .sortable-table th {
+    font-size: var(--md-text-size) !important;
+}
+</style>
+
+<h1 id="8-">本益比與8未來報酬率分析 - 全股總覽 (含息)<a class="headerlink" href="#8-" title="Permanent link">&para;</a></h1>
+<div class="admonition info">
+<p class="admonition-title">報告資訊</p>
+<ul>
+<li><strong>分析股票數量</strong>: 121 檔</li>
+<li><strong>分析期間</strong>: 8</li>
+<li><strong>報酬計算</strong>: 總報酬 (含現金股利)</li>
+<li><strong>分析方法</strong>: 本益比與8未來報酬率回歸分析</li>
+<li><strong>資料來源</strong>: Type 12 (ShowMonthlyK_ChartFlow) 月收盤價與本益比</li>
+<li><strong>報告生成時間</strong>: 2026-01-24 12:29:34 CST</li>
+</ul>
+</div>
+<h2 id="_1">📊 全市場估值分析總覽<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
+<h3 id="_2">按預期報酬率排序 (由高至低)<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h3>
+<div class="admonition tip">
+<p class="admonition-title">提示</p>
+<p>此表格支援排序與篩選功能。點擊標題可排序。</p>
+</div>
+<table class="sortable-table">
+<thead>
+<tr>
+<th>代號</th>
+<th>名稱</th>
+<th>產業</th>
+<th>目前本益比</th>
+<th>歷史均值</th>
+<th>估值</th>
+<th>預期報酬率</th>
+<th>R²</th>
+<th>數據點</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[**6442**](../pe-forward-return-6442/)</td>
+<td>光聖</td>
+<td>通信網路業</td>
+<td>59.44</td>
+<td>16.30</td>
+<td>🔴 相對高估</td>
+<td>**+67.03%**</td>
+<td>0.4401</td>
+<td>30</td>
+</tr>
+<tr>
+<td>[**2345**](../pe-forward-return-2345/)</td>
+<td>智邦</td>
+<td>通信網路業</td>
+<td>22.65</td>
+<td>57.59</td>
+<td>🟢 相對低估</td>
+<td>**+36.26%**</td>
+<td>0.6453</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**5274**](../pe-forward-return-5274/)</td>
+<td>信驊</td>
+<td>半導體業</td>
+<td>45.73</td>
+<td>30.59</td>
+<td>🔴 相對高估</td>
+<td>**+27.34%**</td>
+<td>0.3560</td>
+<td>57</td>
+</tr>
+<tr>
+<td>[**2383**](../pe-forward-return-2383/)</td>
+<td>台光電</td>
+<td>電子零組件業</td>
+<td>11.61</td>
+<td>9.35</td>
+<td>🔴 相對高估</td>
+<td>**+26.39%**</td>
+<td>0.0179</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**5269**](../pe-forward-return-5269/)</td>
+<td>祥碩</td>
+<td>半導體業</td>
+<td>50.35</td>
+<td>39.28</td>
+<td>🔴 相對高估</td>
+<td>**+26.06%**</td>
+<td>0.7341</td>
+<td>61</td>
+</tr>
+<tr>
+<td>[**2330**](../pe-forward-return-2330/)</td>
+<td>台積電</td>
+<td>半導體業</td>
+<td>17.35</td>
+<td>14.07</td>
+<td>🔴 相對高估</td>
+<td>**+21.45%**</td>
+<td>0.0277</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**3653**](../pe-forward-return-3653/)</td>
+<td>健策</td>
+<td>電子零組件業</td>
+<td>30.46</td>
+<td>24.42</td>
+<td>🔴 相對高估</td>
+<td>**+20.42%**</td>
+<td>0.0252</td>
+<td>98</td>
+</tr>
+<tr>
+<td>[**2377**](../pe-forward-return-2377/)</td>
+<td>微星</td>
+<td>電腦及週邊設備業</td>
+<td>13.12</td>
+<td>18.75</td>
+<td>🟢 相對低估</td>
+<td>**+20.27%**</td>
+<td>0.0487</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2379**](../pe-forward-return-2379/)</td>
+<td>瑞昱</td>
+<td>半導體業</td>
+<td>16.24</td>
+<td>18.28</td>
+<td>🟡 合理範圍</td>
+<td>**+20.11%**</td>
+<td>0.5931</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**4953**](../pe-forward-return-4953/)</td>
+<td>緯軟</td>
+<td>資訊服務業</td>
+<td>10.67</td>
+<td>18.96</td>
+<td>🟢 相對低估</td>
+<td>**+18.59%**</td>
+<td>0.1629</td>
+<td>48</td>
+</tr>
+<tr>
+<td>[**2376**](../pe-forward-return-2376/)</td>
+<td>技嘉</td>
+<td>電腦及週邊設備業</td>
+<td>12.24</td>
+<td>17.46</td>
+<td>🟢 相對低估</td>
+<td>**+18.44%**</td>
+<td>0.1099</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**3026**](../pe-forward-return-3026/)</td>
+<td>禾伸堂</td>
+<td>電子零組件業</td>
+<td>25.45</td>
+<td>12.58</td>
+<td>🔴 相對高估</td>
+<td>**+18.35%**</td>
+<td>0.0068</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2458**](../pe-forward-return-2458/)</td>
+<td>義隆</td>
+<td>半導體業</td>
+<td>17.87</td>
+<td>26.03</td>
+<td>🟢 相對低估</td>
+<td>**+17.49%**</td>
+<td>0.6482</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**5904**](../pe-forward-return-5904/)</td>
+<td>寶雅</td>
+<td>居家生活</td>
+<td>25.46</td>
+<td>18.31</td>
+<td>🔴 相對高估</td>
+<td>**+17.48%**</td>
+<td>0.9059</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**8016**](../pe-forward-return-8016/)</td>
+<td>矽創</td>
+<td>半導體業</td>
+<td>11.42</td>
+<td>13.26</td>
+<td>🟡 合理範圍</td>
+<td>**+16.95%**</td>
+<td>0.1390</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2480**](../pe-forward-return-2480/)</td>
+<td>敦陽科</td>
+<td>資訊服務業</td>
+<td>13.95</td>
+<td>12.51</td>
+<td>🟡 合理範圍</td>
+<td>**+15.94%**</td>
+<td>0.0159</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**3029**](../pe-forward-return-3029/)</td>
+<td>零壹</td>
+<td>資訊服務業</td>
+<td>12.45</td>
+<td>67.52</td>
+<td>🟢 相對低估</td>
+<td>**+15.04%**</td>
+<td>0.0654</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2360**](../pe-forward-return-2360/)</td>
+<td>致茂</td>
+<td>其他電子業</td>
+<td>25.27</td>
+<td>17.71</td>
+<td>🔴 相對高估</td>
+<td>**+14.59%**</td>
+<td>0.0035</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**3034**](../pe-forward-return-3034/)</td>
+<td>聯詠</td>
+<td>半導體業</td>
+<td>13.74</td>
+<td>12.92</td>
+<td>🟡 合理範圍</td>
+<td>**+14.21%**</td>
+<td>0.0000</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2357**](../pe-forward-return-2357/)</td>
+<td>華碩</td>
+<td>電腦及週邊設備業</td>
+<td>13.35</td>
+<td>14.16</td>
+<td>🟡 合理範圍</td>
+<td>**+13.49%**</td>
+<td>0.0147</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**5536**](../pe-forward-return-5536/)</td>
+<td>聖暉</td>
+<td>其他電子業</td>
+<td>11.39</td>
+<td>11.92</td>
+<td>🟡 合理範圍</td>
+<td>**+13.28%**</td>
+<td>0.0033</td>
+<td>86</td>
+</tr>
+<tr>
+<td>[**2449**](../pe-forward-return-2449/)</td>
+<td>京元電子</td>
+<td>半導體業</td>
+<td>16.09</td>
+<td>18.06</td>
+<td>🟡 合理範圍</td>
+<td>**+13.21%**</td>
+<td>0.0089</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2301**](../pe-forward-return-2301/)</td>
+<td>光寶科</td>
+<td>電腦及週邊設備業</td>
+<td>35.93</td>
+<td>13.19</td>
+<td>🔴 相對高估</td>
+<td>**+13.15%**</td>
+<td>0.0122</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**8299**](../pe-forward-return-8299/)</td>
+<td>群聯</td>
+<td>半導體業</td>
+<td>9.99</td>
+<td>14.84</td>
+<td>🟢 相對低估</td>
+<td>**+13.00%**</td>
+<td>0.4644</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2382**](../pe-forward-return-2382/)</td>
+<td>廣達</td>
+<td>電腦及週邊設備業</td>
+<td>16.60</td>
+<td>12.48</td>
+<td>🔴 相對高估</td>
+<td>**+12.33%**</td>
+<td>0.0633</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**5434**](../pe-forward-return-5434/)</td>
+<td>崇越</td>
+<td>電子通路業</td>
+<td>13.53</td>
+<td>12.37</td>
+<td>🟡 合理範圍</td>
+<td>**+12.32%**</td>
+<td>0.5938</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**6214**](../pe-forward-return-6214/)</td>
+<td>精誠</td>
+<td>資訊服務業</td>
+<td>12.38</td>
+<td>18.71</td>
+<td>🟢 相對低估</td>
+<td>**+11.67%**</td>
+<td>0.1458</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2359**](../pe-forward-return-2359/)</td>
+<td>所羅門</td>
+<td>其他電子業</td>
+<td>68.09</td>
+<td>36.44</td>
+<td>🔴 相對高估</td>
+<td>**+11.63%**</td>
+<td>0.0002</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2303**](../pe-forward-return-2303/)</td>
+<td>聯電</td>
+<td>半導體業</td>
+<td>17.97</td>
+<td>17.06</td>
+<td>🟡 合理範圍</td>
+<td>**+11.19%**</td>
+<td>0.0157</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**3293**](../pe-forward-return-3293/)</td>
+<td>鈊象</td>
+<td>文化創意業</td>
+<td>12.07</td>
+<td>21.04</td>
+<td>🟢 相對低估</td>
+<td>**+11.07%**</td>
+<td>0.1157</td>
+<td>138</td>
+</tr>
+<tr>
+<td>[**2347**](../pe-forward-return-2347/)</td>
+<td>聯強</td>
+<td>電子通路業</td>
+<td>11.05</td>
+<td>15.90</td>
+<td>🟢 相對低估</td>
+<td>**+10.61%**</td>
+<td>0.6180</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2395**](../pe-forward-return-2395/)</td>
+<td>研華</td>
+<td>電腦及週邊設備業</td>
+<td>23.81</td>
+<td>19.61</td>
+<td>🔴 相對高估</td>
+<td>**+10.60%**</td>
+<td>0.7913</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**6123**](../pe-forward-return-6123/)</td>
+<td>上奇</td>
+<td>資訊服務業</td>
+<td>14.02</td>
+<td>12.77</td>
+<td>🟡 合理範圍</td>
+<td>**+10.52%**</td>
+<td>0.1391</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2408**](../pe-forward-return-2408/)</td>
+<td>南亞科</td>
+<td>半導體業</td>
+<td>5.31</td>
+<td>8.11</td>
+<td>🟢 相對低估</td>
+<td>**+10.40%**</td>
+<td>0.0004</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2308**](../pe-forward-return-2308/)</td>
+<td>台達電</td>
+<td>電子零組件業</td>
+<td>20.27</td>
+<td>18.83</td>
+<td>🟡 合理範圍</td>
+<td>**+10.15%**</td>
+<td>0.0609</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**3035**](../pe-forward-return-3035/)</td>
+<td>智原</td>
+<td>半導體業</td>
+<td>17.03</td>
+<td>23.66</td>
+<td>🟢 相對低估</td>
+<td>**+10.02%**</td>
+<td>0.0143</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**3014**](../pe-forward-return-3014/)</td>
+<td>聯陽</td>
+<td>半導體業</td>
+<td>14.39</td>
+<td>22.93</td>
+<td>🟢 相對低估</td>
+<td>**+9.91%**</td>
+<td>0.0040</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2454**](../pe-forward-return-2454/)</td>
+<td>聯發科</td>
+<td>半導體業</td>
+<td>18.89</td>
+<td>16.83</td>
+<td>🟡 合理範圍</td>
+<td>**+9.75%**</td>
+<td>0.0105</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2356**](../pe-forward-return-2356/)</td>
+<td>英業達</td>
+<td>電腦及週邊設備業</td>
+<td>12.63</td>
+<td>11.63</td>
+<td>🟡 合理範圍</td>
+<td>**+9.73%**</td>
+<td>0.0001</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**8454**](../pe-forward-return-8454/)</td>
+<td>富邦媒</td>
+<td>數位雲端</td>
+<td>23.98</td>
+<td>27.14</td>
+<td>🟡 合理範圍</td>
+<td>**+9.70%**</td>
+<td>0.1989</td>
+<td>37</td>
+</tr>
+<tr>
+<td>[**3231**](../pe-forward-return-3231/)</td>
+<td>緯創</td>
+<td>電腦及週邊設備業</td>
+<td>16.18</td>
+<td>13.50</td>
+<td>🟡 合理範圍</td>
+<td>**+9.03%**</td>
+<td>0.5963</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**3048**](../pe-forward-return-3048/)</td>
+<td>益登</td>
+<td>電子通路業</td>
+<td>11.63</td>
+<td>13.31</td>
+<td>🟡 合理範圍</td>
+<td>**+8.99%**</td>
+<td>0.0284</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**9917**](../pe-forward-return-9917/)</td>
+<td>中保科</td>
+<td>其他業</td>
+<td>18.32</td>
+<td>18.10</td>
+<td>🟡 合理範圍</td>
+<td>**+8.71%**</td>
+<td>0.1240</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2881**](../pe-forward-return-2881/)</td>
+<td>富邦金</td>
+<td>金融保險業</td>
+<td>9.77</td>
+<td>13.79</td>
+<td>🟢 相對低估</td>
+<td>**+8.55%**</td>
+<td>0.0048</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**4938**](../pe-forward-return-4938/)</td>
+<td>和碩</td>
+<td>電腦及週邊設備業</td>
+<td>12.72</td>
+<td>25.17</td>
+<td>🟢 相對低估</td>
+<td>**+8.11%**</td>
+<td>0.0600</td>
+<td>91</td>
+</tr>
+<tr>
+<td>[**2474**](../pe-forward-return-2474/)</td>
+<td>可成</td>
+<td>其他電子業</td>
+<td>11.57</td>
+<td>12.80</td>
+<td>🟡 合理範圍</td>
+<td>**+7.14%**</td>
+<td>0.0258</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2884**](../pe-forward-return-2884/)</td>
+<td>玉山金</td>
+<td>金融保險業</td>
+<td>12.68</td>
+<td>30.33</td>
+<td>🟢 相對低估</td>
+<td>**+6.91%**</td>
+<td>0.4103</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2891**](../pe-forward-return-2891/)</td>
+<td>中信金</td>
+<td>金融保險業</td>
+<td>10.73</td>
+<td>30.46</td>
+<td>🟢 相對低估</td>
+<td>**+5.79%**</td>
+<td>0.0163</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**3260**](../pe-forward-return-3260/)</td>
+<td>威剛</td>
+<td>半導體業</td>
+<td>8.21</td>
+<td>34.83</td>
+<td>🟢 相對低估</td>
+<td>**+5.59%**</td>
+<td>0.0227</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**3022**](../pe-forward-return-3022/)</td>
+<td>威強電</td>
+<td>電腦及週邊設備業</td>
+<td>13.94</td>
+<td>11.49</td>
+<td>🔴 相對高估</td>
+<td>**+5.33%**</td>
+<td>0.2637</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**6285**](../pe-forward-return-6285/)</td>
+<td>啟碁</td>
+<td>通信網路業</td>
+<td>14.84</td>
+<td>13.38</td>
+<td>🟡 合理範圍</td>
+<td>**+4.96%**</td>
+<td>0.4036</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**3045**](../pe-forward-return-3045/)</td>
+<td>台灣大</td>
+<td>通信網路業</td>
+<td>20.63</td>
+<td>16.23</td>
+<td>🔴 相對高估</td>
+<td>**+4.80%**</td>
+<td>0.4656</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2451**](../pe-forward-return-2451/)</td>
+<td>創見</td>
+<td>半導體業</td>
+<td>13.40</td>
+<td>12.85</td>
+<td>🟡 合理範圍</td>
+<td>**+4.62%**</td>
+<td>0.2112</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**6506**](../pe-forward-return-6506/)</td>
+<td>雙邦</td>
+<td>紡織纖維</td>
+<td>14.51</td>
+<td>20.69</td>
+<td>🟢 相對低估</td>
+<td>**+4.59%**</td>
+<td>0.1371</td>
+<td>80</td>
+</tr>
+<tr>
+<td>[**3558**](../pe-forward-return-3558/)</td>
+<td>神準</td>
+<td>通信網路業</td>
+<td>13.47</td>
+<td>14.04</td>
+<td>🟡 合理範圍</td>
+<td>**+4.53%**</td>
+<td>0.0448</td>
+<td>49</td>
+</tr>
+<tr>
+<td>[**2603**](../pe-forward-return-2603/)</td>
+<td>長榮</td>
+<td>航運業</td>
+<td>8.30</td>
+<td>125.81</td>
+<td>🟢 相對低估</td>
+<td>**+4.25%**</td>
+<td>0.0309</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2412**](../pe-forward-return-2412/)</td>
+<td>中華電</td>
+<td>通信網路業</td>
+<td>21.16</td>
+<td>16.55</td>
+<td>🔴 相對高估</td>
+<td>**+4.22%**</td>
+<td>0.8285</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2882**](../pe-forward-return-2882/)</td>
+<td>國泰金</td>
+<td>金融保險業</td>
+<td>11.97</td>
+<td>36.04</td>
+<td>🟢 相對低估</td>
+<td>**+4.20%**</td>
+<td>0.0838</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2324**](../pe-forward-return-2324/)</td>
+<td>仁寶</td>
+<td>電腦及週邊設備業</td>
+<td>16.14</td>
+<td>12.52</td>
+<td>🔴 相對高估</td>
+<td>**+4.15%**</td>
+<td>0.0331</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**6231**](../pe-forward-return-6231/)</td>
+<td>系微</td>
+<td>資訊服務業</td>
+<td>49.69</td>
+<td>48.47</td>
+<td>🟡 合理範圍</td>
+<td>**+3.99%**</td>
+<td>0.1789</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2317**](../pe-forward-return-2317/)</td>
+<td>鴻海</td>
+<td>其他電子業</td>
+<td>11.89</td>
+<td>12.93</td>
+<td>🟡 合理範圍</td>
+<td>**+3.48%**</td>
+<td>0.7531</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2450**](../pe-forward-return-2450/)</td>
+<td>神腦</td>
+<td>通信網路業</td>
+<td>15.24</td>
+<td>15.32</td>
+<td>🟡 合理範圍</td>
+<td>**+2.49%**</td>
+<td>0.2833</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**5203**](../pe-forward-return-5203/)</td>
+<td>訊連</td>
+<td>資訊服務業</td>
+<td>24.56</td>
+<td>14.84</td>
+<td>🔴 相對高估</td>
+<td>**+2.44%**</td>
+<td>0.0033</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**4114**](../pe-forward-return-4114/)</td>
+<td>健喬</td>
+<td>生技醫療業</td>
+<td>861.70</td>
+<td>146.51</td>
+<td>🔴 相對高估</td>
+<td>**+0.86%**</td>
+<td>0.0131</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2354**](../pe-forward-return-2354/)</td>
+<td>鴻準</td>
+<td>其他電子業</td>
+<td>12.09</td>
+<td>16.27</td>
+<td>🟢 相對低估</td>
+<td>**-0.46%**</td>
+<td>0.8122</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**6510**](../pe-forward-return-6510/)</td>
+<td>精測</td>
+<td>半導體業</td>
+<td>48.70</td>
+<td>52.15</td>
+<td>🟡 合理範圍</td>
+<td>**-1.84%**</td>
+<td>0.0670</td>
+<td>22</td>
+</tr>
+<tr>
+<td>[**6462**](../pe-forward-return-6462/)</td>
+<td>神盾</td>
+<td>半導體業</td>
+<td>26.65</td>
+<td>197.38</td>
+<td>🟢 相對低估</td>
+<td>**-3.37%**</td>
+<td>0.7619</td>
+<td>25</td>
+</tr>
+<tr>
+<td>[**9921**](../pe-forward-return-9921/)</td>
+<td>巨大</td>
+<td>運動休閒</td>
+<td>29.84</td>
+<td>17.88</td>
+<td>🔴 相對高估</td>
+<td>**-4.33%**</td>
+<td>0.6361</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**2353**](../pe-forward-return-2353/)</td>
+<td>宏碁</td>
+<td>電腦及週邊設備業</td>
+<td>25.97</td>
+<td>25.74</td>
+<td>🟡 合理範圍</td>
+<td>**-4.74%**</td>
+<td>0.2882</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**6182**](../pe-forward-return-6182/)</td>
+<td>合晶</td>
+<td>半導體業</td>
+<td>63.58</td>
+<td>38.14</td>
+<td>🔴 相對高估</td>
+<td>**-7.29%**</td>
+<td>0.1401</td>
+<td>144</td>
+</tr>
+<tr>
+<td>[**9914**](../pe-forward-return-9914/)</td>
+<td>美利達</td>
+<td>運動休閒</td>
+<td>46.82</td>
+<td>15.32</td>
+<td>🔴 相對高估</td>
+<td>**-16.67%**</td>
+<td>0.5972</td>
+<td>144</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="_3">統計摘要<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">指標</th>
+<th style="text-align: center;">數值</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>平均預期報酬率</strong></td>
+<td style="text-align: center;">+10.69%</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>平均R²值</strong></td>
+<td style="text-align: center;">0.2364</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>最高預期報酬率</strong></td>
+<td style="text-align: center;">+67.03% (6442 光聖)</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>最低預期報酬率</strong></td>
+<td style="text-align: center;">-16.67% (9914 美利達)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_4">📈 估值分布統計<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<h3 id="_5">依估值水準分類<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">估值水準</th>
+<th style="text-align: center;">股票數量</th>
+<th style="text-align: center;">佔比</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">🟢 低估區間</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0.0%</td>
+</tr>
+<tr>
+<td style="text-align: left;">🟡 合理範圍</td>
+<td style="text-align: center;">30</td>
+<td style="text-align: center;">40.0%</td>
+</tr>
+<tr>
+<td style="text-align: left;">🔴 高估區間</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0.0%</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_6">🏢 產業別分析<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h2>
+<h3 id="_7">各產業平均預期報酬率<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">產業別</th>
+<th style="text-align: center;">股票數</th>
+<th style="text-align: center;">平均預期報酬率</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">電子零組件業</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">+18.83%</td>
+</tr>
+<tr>
+<td style="text-align: left;">通信網路業</td>
+<td style="text-align: center;">7</td>
+<td style="text-align: center;">+17.76%</td>
+</tr>
+<tr>
+<td style="text-align: left;">居家生活</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">+17.48%</td>
+</tr>
+<tr>
+<td style="text-align: left;">半導體業</td>
+<td style="text-align: center;">19</td>
+<td style="text-align: center;">+11.52%</td>
+</tr>
+<tr>
+<td style="text-align: left;">資訊服務業</td>
+<td style="text-align: center;">7</td>
+<td style="text-align: center;">+11.17%</td>
+</tr>
+<tr>
+<td style="text-align: left;">文化創意業</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">+11.07%</td>
+</tr>
+<tr>
+<td style="text-align: left;">電子通路業</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">+10.64%</td>
+</tr>
+<tr>
+<td style="text-align: left;">電腦及週邊設備業</td>
+<td style="text-align: center;">12</td>
+<td style="text-align: center;">+9.99%</td>
+</tr>
+<tr>
+<td style="text-align: left;">數位雲端</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">+9.70%</td>
+</tr>
+<tr>
+<td style="text-align: left;">其他業</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">+8.71%</td>
+</tr>
+<tr>
+<td style="text-align: left;">其他電子業</td>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">+8.28%</td>
+</tr>
+<tr>
+<td style="text-align: left;">金融保險業</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">+6.36%</td>
+</tr>
+<tr>
+<td style="text-align: left;">紡織纖維</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">+4.59%</td>
+</tr>
+<tr>
+<td style="text-align: left;">航運業</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">+4.25%</td>
+</tr>
+<tr>
+<td style="text-align: left;">生技醫療業</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">+0.86%</td>
+</tr>
+<tr>
+<td style="text-align: left;">運動休閒</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">-10.50%</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_8">🔍 相關性分析<a class="headerlink" href="#_8" title="Permanent link">&para;</a></h2>
+<h3 id="r2">R²值分布 (模型解釋力)<a class="headerlink" href="#r2" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">R²值範圍</th>
+<th style="text-align: left;">解釋力</th>
+<th style="text-align: center;">股票數</th>
+<th style="text-align: center;">佔比</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">R² ≥ 0.7</td>
+<td style="text-align: left;">強相關</td>
+<td style="text-align: center;">7</td>
+<td style="text-align: center;">9.6%</td>
+</tr>
+<tr>
+<td style="text-align: left;">0.4 ≤ R² &lt; 0.7</td>
+<td style="text-align: left;">中度相關</td>
+<td style="text-align: center;">13</td>
+<td style="text-align: center;">17.8%</td>
+</tr>
+<tr>
+<td style="text-align: left;">R² &lt; 0.4</td>
+<td style="text-align: left;">弱相關</td>
+<td style="text-align: center;">53</td>
+<td style="text-align: center;">72.6%</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="admonition-title">R²值說明</p>
+<p>R²值衡量本益比對未來報酬率的解釋能力。R²越高，表示本益比與報酬率的關係越強，
+模型預測越可靠。R² &lt; 0.4 表示該股票的報酬率可能受其他因素影響更大。</p>
+</div>
+<h2 id="_9">🎯 投資機會分析<a class="headerlink" href="#_9" title="Permanent link">&para;</a></h2>
+<h3 id="top-20-8">Top 20 預期8報酬率最佳標的<a class="headerlink" href="#top-20-8" title="Permanent link">&para;</a></h3>
+<p>基於當前估值水準，以下為預期8年化報酬率最高的20檔股票:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">排名</th>
+<th style="text-align: center;">代號</th>
+<th style="text-align: left;">名稱</th>
+<th style="text-align: left;">產業</th>
+<th style="text-align: center;">目前PE</th>
+<th style="text-align: center;">估值</th>
+<th style="text-align: center;">預期報酬率</th>
+<th style="text-align: center;">R²</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;"><a href="../pe-forward-return-6442/">6442</a></td>
+<td style="text-align: left;">光聖</td>
+<td style="text-align: left;">通信網路業</td>
+<td style="text-align: center;">59.44</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+67.03%</strong></td>
+<td style="text-align: center;">0.440</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2345/">2345</a></td>
+<td style="text-align: left;">智邦</td>
+<td style="text-align: left;">通信網路業</td>
+<td style="text-align: center;">22.65</td>
+<td style="text-align: center;">🟢 相對低估</td>
+<td style="text-align: center;"><strong>+36.26%</strong></td>
+<td style="text-align: center;">0.645</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a href="../pe-forward-return-5274/">5274</a></td>
+<td style="text-align: left;">信驊</td>
+<td style="text-align: left;">半導體業</td>
+<td style="text-align: center;">45.73</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+27.34%</strong></td>
+<td style="text-align: center;">0.356</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2383/">2383</a></td>
+<td style="text-align: left;">台光電</td>
+<td style="text-align: left;">電子零組件業</td>
+<td style="text-align: center;">11.61</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+26.39%</strong></td>
+<td style="text-align: center;">0.018</td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;"><a href="../pe-forward-return-5269/">5269</a></td>
+<td style="text-align: left;">祥碩</td>
+<td style="text-align: left;">半導體業</td>
+<td style="text-align: center;">50.35</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+26.06%</strong></td>
+<td style="text-align: center;">0.734</td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2330/">2330</a></td>
+<td style="text-align: left;">台積電</td>
+<td style="text-align: left;">半導體業</td>
+<td style="text-align: center;">17.35</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+21.45%</strong></td>
+<td style="text-align: center;">0.028</td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td style="text-align: center;"><a href="../pe-forward-return-3653/">3653</a></td>
+<td style="text-align: left;">健策</td>
+<td style="text-align: left;">電子零組件業</td>
+<td style="text-align: center;">30.46</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+20.42%</strong></td>
+<td style="text-align: center;">0.025</td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2377/">2377</a></td>
+<td style="text-align: left;">微星</td>
+<td style="text-align: left;">電腦及週邊設備業</td>
+<td style="text-align: center;">13.12</td>
+<td style="text-align: center;">🟢 相對低估</td>
+<td style="text-align: center;"><strong>+20.27%</strong></td>
+<td style="text-align: center;">0.049</td>
+</tr>
+<tr>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2379/">2379</a></td>
+<td style="text-align: left;">瑞昱</td>
+<td style="text-align: left;">半導體業</td>
+<td style="text-align: center;">16.24</td>
+<td style="text-align: center;">🟡 合理範圍</td>
+<td style="text-align: center;"><strong>+20.11%</strong></td>
+<td style="text-align: center;">0.593</td>
+</tr>
+<tr>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;"><a href="../pe-forward-return-4953/">4953</a></td>
+<td style="text-align: left;">緯軟</td>
+<td style="text-align: left;">資訊服務業</td>
+<td style="text-align: center;">10.67</td>
+<td style="text-align: center;">🟢 相對低估</td>
+<td style="text-align: center;"><strong>+18.59%</strong></td>
+<td style="text-align: center;">0.163</td>
+</tr>
+<tr>
+<td style="text-align: center;">11</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2376/">2376</a></td>
+<td style="text-align: left;">技嘉</td>
+<td style="text-align: left;">電腦及週邊設備業</td>
+<td style="text-align: center;">12.24</td>
+<td style="text-align: center;">🟢 相對低估</td>
+<td style="text-align: center;"><strong>+18.44%</strong></td>
+<td style="text-align: center;">0.110</td>
+</tr>
+<tr>
+<td style="text-align: center;">12</td>
+<td style="text-align: center;"><a href="../pe-forward-return-3026/">3026</a></td>
+<td style="text-align: left;">禾伸堂</td>
+<td style="text-align: left;">電子零組件業</td>
+<td style="text-align: center;">25.45</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+18.35%</strong></td>
+<td style="text-align: center;">0.007</td>
+</tr>
+<tr>
+<td style="text-align: center;">13</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2458/">2458</a></td>
+<td style="text-align: left;">義隆</td>
+<td style="text-align: left;">半導體業</td>
+<td style="text-align: center;">17.87</td>
+<td style="text-align: center;">🟢 相對低估</td>
+<td style="text-align: center;"><strong>+17.49%</strong></td>
+<td style="text-align: center;">0.648</td>
+</tr>
+<tr>
+<td style="text-align: center;">14</td>
+<td style="text-align: center;"><a href="../pe-forward-return-5904/">5904</a></td>
+<td style="text-align: left;">寶雅</td>
+<td style="text-align: left;">居家生活</td>
+<td style="text-align: center;">25.46</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+17.48%</strong></td>
+<td style="text-align: center;">0.906</td>
+</tr>
+<tr>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;"><a href="../pe-forward-return-8016/">8016</a></td>
+<td style="text-align: left;">矽創</td>
+<td style="text-align: left;">半導體業</td>
+<td style="text-align: center;">11.42</td>
+<td style="text-align: center;">🟡 合理範圍</td>
+<td style="text-align: center;"><strong>+16.95%</strong></td>
+<td style="text-align: center;">0.139</td>
+</tr>
+<tr>
+<td style="text-align: center;">16</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2480/">2480</a></td>
+<td style="text-align: left;">敦陽科</td>
+<td style="text-align: left;">資訊服務業</td>
+<td style="text-align: center;">13.95</td>
+<td style="text-align: center;">🟡 合理範圍</td>
+<td style="text-align: center;"><strong>+15.94%</strong></td>
+<td style="text-align: center;">0.016</td>
+</tr>
+<tr>
+<td style="text-align: center;">17</td>
+<td style="text-align: center;"><a href="../pe-forward-return-3029/">3029</a></td>
+<td style="text-align: left;">零壹</td>
+<td style="text-align: left;">資訊服務業</td>
+<td style="text-align: center;">12.45</td>
+<td style="text-align: center;">🟢 相對低估</td>
+<td style="text-align: center;"><strong>+15.04%</strong></td>
+<td style="text-align: center;">0.065</td>
+</tr>
+<tr>
+<td style="text-align: center;">18</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2360/">2360</a></td>
+<td style="text-align: left;">致茂</td>
+<td style="text-align: left;">其他電子業</td>
+<td style="text-align: center;">25.27</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+14.59%</strong></td>
+<td style="text-align: center;">0.004</td>
+</tr>
+<tr>
+<td style="text-align: center;">19</td>
+<td style="text-align: center;"><a href="../pe-forward-return-3034/">3034</a></td>
+<td style="text-align: left;">聯詠</td>
+<td style="text-align: left;">半導體業</td>
+<td style="text-align: center;">13.74</td>
+<td style="text-align: center;">🟡 合理範圍</td>
+<td style="text-align: center;"><strong>+14.21%</strong></td>
+<td style="text-align: center;">0.000</td>
+</tr>
+<tr>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2357/">2357</a></td>
+<td style="text-align: left;">華碩</td>
+<td style="text-align: left;">電腦及週邊設備業</td>
+<td style="text-align: center;">13.35</td>
+<td style="text-align: center;">🟡 合理範圍</td>
+<td style="text-align: center;"><strong>+13.49%</strong></td>
+<td style="text-align: center;">0.015</td>
+</tr>
+</tbody>
+</table>
+<h3 id="bottom-20-8">Bottom 20 預期8報酬率最低標的<a class="headerlink" href="#bottom-20-8" title="Permanent link">&para;</a></h3>
+<p>基於當前估值水準，以下為預期8年化報酬率最低的20檔股票:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">排名</th>
+<th style="text-align: center;">代號</th>
+<th style="text-align: left;">名稱</th>
+<th style="text-align: left;">產業</th>
+<th style="text-align: center;">目前PE</th>
+<th style="text-align: center;">估值</th>
+<th style="text-align: center;">預期報酬率</th>
+<th style="text-align: center;">R²</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;"><a href="../pe-forward-return-9914/">9914</a></td>
+<td style="text-align: left;">美利達</td>
+<td style="text-align: left;">運動休閒</td>
+<td style="text-align: center;">46.82</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>-16.67%</strong></td>
+<td style="text-align: center;">0.597</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;"><a href="../pe-forward-return-6182/">6182</a></td>
+<td style="text-align: left;">合晶</td>
+<td style="text-align: left;">半導體業</td>
+<td style="text-align: center;">63.58</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>-7.29%</strong></td>
+<td style="text-align: center;">0.140</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2353/">2353</a></td>
+<td style="text-align: left;">宏碁</td>
+<td style="text-align: left;">電腦及週邊設備業</td>
+<td style="text-align: center;">25.97</td>
+<td style="text-align: center;">🟡 合理範圍</td>
+<td style="text-align: center;"><strong>-4.74%</strong></td>
+<td style="text-align: center;">0.288</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;"><a href="../pe-forward-return-9921/">9921</a></td>
+<td style="text-align: left;">巨大</td>
+<td style="text-align: left;">運動休閒</td>
+<td style="text-align: center;">29.84</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>-4.33%</strong></td>
+<td style="text-align: center;">0.636</td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;"><a href="../pe-forward-return-6462/">6462</a></td>
+<td style="text-align: left;">神盾</td>
+<td style="text-align: left;">半導體業</td>
+<td style="text-align: center;">26.65</td>
+<td style="text-align: center;">🟢 相對低估</td>
+<td style="text-align: center;"><strong>-3.37%</strong></td>
+<td style="text-align: center;">0.762</td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;"><a href="../pe-forward-return-6510/">6510</a></td>
+<td style="text-align: left;">精測</td>
+<td style="text-align: left;">半導體業</td>
+<td style="text-align: center;">48.70</td>
+<td style="text-align: center;">🟡 合理範圍</td>
+<td style="text-align: center;"><strong>-1.84%</strong></td>
+<td style="text-align: center;">0.067</td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2354/">2354</a></td>
+<td style="text-align: left;">鴻準</td>
+<td style="text-align: left;">其他電子業</td>
+<td style="text-align: center;">12.09</td>
+<td style="text-align: center;">🟢 相對低估</td>
+<td style="text-align: center;"><strong>-0.46%</strong></td>
+<td style="text-align: center;">0.812</td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;"><a href="../pe-forward-return-4114/">4114</a></td>
+<td style="text-align: left;">健喬</td>
+<td style="text-align: left;">生技醫療業</td>
+<td style="text-align: center;">861.70</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+0.86%</strong></td>
+<td style="text-align: center;">0.013</td>
+</tr>
+<tr>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;"><a href="../pe-forward-return-5203/">5203</a></td>
+<td style="text-align: left;">訊連</td>
+<td style="text-align: left;">資訊服務業</td>
+<td style="text-align: center;">24.56</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+2.44%</strong></td>
+<td style="text-align: center;">0.003</td>
+</tr>
+<tr>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2450/">2450</a></td>
+<td style="text-align: left;">神腦</td>
+<td style="text-align: left;">通信網路業</td>
+<td style="text-align: center;">15.24</td>
+<td style="text-align: center;">🟡 合理範圍</td>
+<td style="text-align: center;"><strong>+2.49%</strong></td>
+<td style="text-align: center;">0.283</td>
+</tr>
+<tr>
+<td style="text-align: center;">11</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2317/">2317</a></td>
+<td style="text-align: left;">鴻海</td>
+<td style="text-align: left;">其他電子業</td>
+<td style="text-align: center;">11.89</td>
+<td style="text-align: center;">🟡 合理範圍</td>
+<td style="text-align: center;"><strong>+3.48%</strong></td>
+<td style="text-align: center;">0.753</td>
+</tr>
+<tr>
+<td style="text-align: center;">12</td>
+<td style="text-align: center;"><a href="../pe-forward-return-6231/">6231</a></td>
+<td style="text-align: left;">系微</td>
+<td style="text-align: left;">資訊服務業</td>
+<td style="text-align: center;">49.69</td>
+<td style="text-align: center;">🟡 合理範圍</td>
+<td style="text-align: center;"><strong>+3.99%</strong></td>
+<td style="text-align: center;">0.179</td>
+</tr>
+<tr>
+<td style="text-align: center;">13</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2324/">2324</a></td>
+<td style="text-align: left;">仁寶</td>
+<td style="text-align: left;">電腦及週邊設備業</td>
+<td style="text-align: center;">16.14</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+4.15%</strong></td>
+<td style="text-align: center;">0.033</td>
+</tr>
+<tr>
+<td style="text-align: center;">14</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2882/">2882</a></td>
+<td style="text-align: left;">國泰金</td>
+<td style="text-align: left;">金融保險業</td>
+<td style="text-align: center;">11.97</td>
+<td style="text-align: center;">🟢 相對低估</td>
+<td style="text-align: center;"><strong>+4.20%</strong></td>
+<td style="text-align: center;">0.084</td>
+</tr>
+<tr>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2412/">2412</a></td>
+<td style="text-align: left;">中華電</td>
+<td style="text-align: left;">通信網路業</td>
+<td style="text-align: center;">21.16</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+4.22%</strong></td>
+<td style="text-align: center;">0.829</td>
+</tr>
+<tr>
+<td style="text-align: center;">16</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2603/">2603</a></td>
+<td style="text-align: left;">長榮</td>
+<td style="text-align: left;">航運業</td>
+<td style="text-align: center;">8.30</td>
+<td style="text-align: center;">🟢 相對低估</td>
+<td style="text-align: center;"><strong>+4.25%</strong></td>
+<td style="text-align: center;">0.031</td>
+</tr>
+<tr>
+<td style="text-align: center;">17</td>
+<td style="text-align: center;"><a href="../pe-forward-return-3558/">3558</a></td>
+<td style="text-align: left;">神準</td>
+<td style="text-align: left;">通信網路業</td>
+<td style="text-align: center;">13.47</td>
+<td style="text-align: center;">🟡 合理範圍</td>
+<td style="text-align: center;"><strong>+4.53%</strong></td>
+<td style="text-align: center;">0.045</td>
+</tr>
+<tr>
+<td style="text-align: center;">18</td>
+<td style="text-align: center;"><a href="../pe-forward-return-6506/">6506</a></td>
+<td style="text-align: left;">雙邦</td>
+<td style="text-align: left;">紡織纖維</td>
+<td style="text-align: center;">14.51</td>
+<td style="text-align: center;">🟢 相對低估</td>
+<td style="text-align: center;"><strong>+4.59%</strong></td>
+<td style="text-align: center;">0.137</td>
+</tr>
+<tr>
+<td style="text-align: center;">19</td>
+<td style="text-align: center;"><a href="../pe-forward-return-2451/">2451</a></td>
+<td style="text-align: left;">創見</td>
+<td style="text-align: left;">半導體業</td>
+<td style="text-align: center;">13.40</td>
+<td style="text-align: center;">🟡 合理範圍</td>
+<td style="text-align: center;"><strong>+4.62%</strong></td>
+<td style="text-align: center;">0.211</td>
+</tr>
+<tr>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;"><a href="../pe-forward-return-3045/">3045</a></td>
+<td style="text-align: left;">台灣大</td>
+<td style="text-align: left;">通信網路業</td>
+<td style="text-align: center;">20.63</td>
+<td style="text-align: center;">🔴 相對高估</td>
+<td style="text-align: center;"><strong>+4.80%</strong></td>
+<td style="text-align: center;">0.466</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_10">📚 分析方法說明<a class="headerlink" href="#_10" title="Permanent link">&para;</a></h2>
+<h3 id="_11">本益比與未來報酬率分析框架<a class="headerlink" href="#_11" title="Permanent link">&para;</a></h3>
+<p>本報告採用歷史回測方法，分析本益比與未來8投資報酬率的關係:</p>
+<ol>
+<li><strong>數據來源</strong>: GoodInfo.tw Type 12 (ShowMonthlyK_ChartFlow) 月度收盤價與本益比</li>
+<li><strong>回測方法</strong>: 對每個歷史時點，計算其後8的實際年化報酬率</li>
+<li><strong>統計分析</strong>: 使用線性回歸分析本益比與報酬率的關係</li>
+<li><strong>預測模型</strong>: 基於趨勢線，預測當前本益比下的預期報酬率</li>
+</ol>
+<h3 id="_12">關鍵指標解讀<a class="headerlink" href="#_12" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>預期8年化報酬率</strong>: 根據歷史統計模型，在當前本益比水準下的預期報酬率</li>
+<li><strong>R²值</strong>: 模型解釋力，越高表示本益比與報酬率關係越強</li>
+<li><strong>趨勢線斜率</strong>: 通常為負值，表示高本益比對應低報酬率（均值回歸特性）</li>
+<li><strong>估值水準</strong>: 基於歷史本益比分布，分為低估、合理、高估三個區間</li>
+</ul>
+<div class="admonition warning">
+<p class="admonition-title">重要提醒</p>
+<ul>
+<li>本分析基於歷史數據統計，過去表現不代表未來結果</li>
+<li>實際報酬率受公司基本面、產業趨勢、總體經濟等多重因素影響</li>
+<li>R²值較低的股票，本益比預測能力有限，需特別注意</li>
+<li>應結合財報分析、產業研究等多維度評估，不應單純依據本報告做投資決策</li>
+</ul>
+</div>
+<div class="admonition success">
+<p class="admonition-title">價值投資原則</p>
+<p>歷史數據普遍顯示，在合理或低估的估值水準買入優質企業並長期持有，
+往往能獲得較佳的投資報酬。**耐心等待好價格**是價值投資的核心。</p>
+</div>
+<h2 id="_13">📋 個股詳細報告<a class="headerlink" href="#_13" title="Permanent link">&para;</a></h2>
+<p>以下為各股票的詳細分析報告連結:</p>
+<h3 id="_14">光電業<a class="headerlink" href="#_14" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-3356/">3356 奇偶</a> - 預期報酬率: <strong>N/A</strong> (R²=0.026)</li>
+<li><a href="../pe-forward-return-6125/">6125 廣運</a> - 預期報酬率: <strong>N/A</strong> </li>
+</ul>
+<h3 id="_15">其他業<a class="headerlink" href="#_15" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-9917/">9917 中保科</a> - 預期報酬率: <strong>+8.71%</strong> (R²=0.124)</li>
+</ul>
+<h3 id="_16">其他電子業<a class="headerlink" href="#_16" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-2317/">2317 鴻海</a> - 預期報酬率: <strong>+3.48%</strong> (R²=0.753)</li>
+<li><a href="../pe-forward-return-2354/">2354 鴻準</a> - 預期報酬率: <strong>-0.46%</strong> (R²=0.812)</li>
+<li><a href="../pe-forward-return-2359/">2359 所羅門</a> - 預期報酬率: <strong>+11.63%</strong> (R²=0.000)</li>
+<li><a href="../pe-forward-return-2360/">2360 致茂</a> - 預期報酬率: <strong>+14.59%</strong> (R²=0.004)</li>
+<li><a href="../pe-forward-return-2474/">2474 可成</a> - 預期報酬率: <strong>+7.14%</strong> (R²=0.026)</li>
+<li><a href="../pe-forward-return-5536/">5536 聖暉</a> - 預期報酬率: <strong>+13.28%</strong> (R²=0.003)</li>
+<li><a href="../pe-forward-return-6613/">6613 朋億</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7703/">7703 銳澤</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7728/">7728 光焱科技</a> - 預期報酬率: <strong>N/A</strong> </li>
+</ul>
+<h3 id="_17">半導體業<a class="headerlink" href="#_17" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-2303/">2303 聯電</a> - 預期報酬率: <strong>+11.19%</strong> (R²=0.016)</li>
+<li><a href="../pe-forward-return-2330/">2330 台積電</a> - 預期報酬率: <strong>+21.45%</strong> (R²=0.028)</li>
+<li><a href="../pe-forward-return-2379/">2379 瑞昱</a> - 預期報酬率: <strong>+20.11%</strong> (R²=0.593)</li>
+<li><a href="../pe-forward-return-2408/">2408 南亞科</a> - 預期報酬率: <strong>+10.40%</strong> (R²=0.000)</li>
+<li><a href="../pe-forward-return-2449/">2449 京元電子</a> - 預期報酬率: <strong>+13.21%</strong> (R²=0.009)</li>
+<li><a href="../pe-forward-return-2451/">2451 創見</a> - 預期報酬率: <strong>+4.62%</strong> (R²=0.211)</li>
+<li><a href="../pe-forward-return-2454/">2454 聯發科</a> - 預期報酬率: <strong>+9.75%</strong> (R²=0.011)</li>
+<li><a href="../pe-forward-return-2458/">2458 義隆</a> - 預期報酬率: <strong>+17.49%</strong> (R²=0.648)</li>
+<li><a href="../pe-forward-return-3014/">3014 聯陽</a> - 預期報酬率: <strong>+9.91%</strong> (R²=0.004)</li>
+<li><a href="../pe-forward-return-3034/">3034 聯詠</a> - 預期報酬率: <strong>+14.21%</strong> </li>
+<li><a href="../pe-forward-return-3035/">3035 智原</a> - 預期報酬率: <strong>+10.02%</strong> (R²=0.014)</li>
+<li><a href="../pe-forward-return-3260/">3260 威剛</a> - 預期報酬率: <strong>+5.59%</strong> (R²=0.023)</li>
+<li><a href="../pe-forward-return-3467/">3467 台灣精材</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-3711/">3711 日月光投控</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-4749/">4749 新應材</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-5269/">5269 祥碩</a> - 預期報酬率: <strong>+26.06%</strong> (R²=0.734)</li>
+<li><a href="../pe-forward-return-5274/">5274 信驊</a> - 預期報酬率: <strong>+27.34%</strong> (R²=0.356)</li>
+<li><a href="../pe-forward-return-6182/">6182 合晶</a> - 預期報酬率: <strong>-7.29%</strong> (R²=0.140)</li>
+<li><a href="../pe-forward-return-6462/">6462 神盾</a> - 預期報酬率: <strong>-3.37%</strong> (R²=0.762)</li>
+<li><a href="../pe-forward-return-6510/">6510 精測</a> - 預期報酬率: <strong>-1.84%</strong> (R²=0.067)</li>
+<li><a href="../pe-forward-return-6526/">6526 達發</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-6695/">6695 芯鼎</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-6720/">6720 久昌</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-6996/">6996 力領科技</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7704/">7704 明遠精密</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7712/">7712 博盛半導體</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7734/">7734 印能科技</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7769/">7769 鴻勁</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-8016/">8016 矽創</a> - 預期報酬率: <strong>+16.95%</strong> (R²=0.139)</li>
+<li><a href="../pe-forward-return-8299/">8299 群聯</a> - 預期報酬率: <strong>+13.00%</strong> (R²=0.464)</li>
+</ul>
+<h3 id="_18">居家生活<a class="headerlink" href="#_18" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-5904/">5904 寶雅</a> - 預期報酬率: <strong>+17.48%</strong> (R²=0.906)</li>
+<li><a href="../pe-forward-return-7794/">7794 宏碁智新</a> - 預期報酬率: <strong>N/A</strong> </li>
+</ul>
+<h3 id="_19">數位雲端<a class="headerlink" href="#_19" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-6690/">6690 安碁資訊</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-6763/">6763 綠界科技</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-6811/">6811 宏碁資訊</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-6902/">6902 GOGOLOOK</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-6925/">6925 意藍</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-6997/">6997 博弘</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7547/">7547 碩網</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7722/">7722 LINEPAY</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7737/">7737 凱鈿</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7747/">7747 昕奇雲端</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7765/">7765 中華資安</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7805/">7805 威聯通</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-8454/">8454 富邦媒</a> - 預期報酬率: <strong>+9.70%</strong> (R²=0.199)</li>
+</ul>
+<h3 id="_20">文化創意業<a class="headerlink" href="#_20" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-3293/">3293 鈊象</a> - 預期報酬率: <strong>+11.07%</strong> (R²=0.116)</li>
+</ul>
+<h3 id="_21">汽車工業<a class="headerlink" href="#_21" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-7732/">7732 金興精密</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7736/">7736 虎山</a> - 預期報酬率: <strong>N/A</strong> </li>
+</ul>
+<h3 id="_22">生技醫療業<a class="headerlink" href="#_22" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-4114/">4114 健喬</a> - 預期報酬率: <strong>+0.86%</strong> (R²=0.013)</li>
+<li><a href="../pe-forward-return-6850/">6850 光鼎生技</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-6918/">6918 愛派司</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7713/">7713 威力德生醫</a> - 預期報酬率: <strong>N/A</strong> </li>
+</ul>
+<h3 id="_23">紡織纖維<a class="headerlink" href="#_23" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-6506/">6506 雙邦</a> - 預期報酬率: <strong>+4.59%</strong> (R²=0.137)</li>
+</ul>
+<h3 id="_24">航運業<a class="headerlink" href="#_24" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-2603/">2603 長榮</a> - 預期報酬率: <strong>+4.25%</strong> (R²=0.031)</li>
+<li><a href="../pe-forward-return-2646/">2646 星宇航空</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-6757/">6757 台灣虎航</a> - 預期報酬率: <strong>N/A</strong> </li>
+</ul>
+<h3 id="_25">觀光餐旅<a class="headerlink" href="#_25" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-7705/">7705 三商餐飲</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7708/">7708 全家餐飲</a> - 預期報酬率: <strong>N/A</strong> </li>
+</ul>
+<h3 id="_26">資訊服務業<a class="headerlink" href="#_26" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-2480/">2480 敦陽科</a> - 預期報酬率: <strong>+15.94%</strong> (R²=0.016)</li>
+<li><a href="../pe-forward-return-3029/">3029 零壹</a> - 預期報酬率: <strong>+15.04%</strong> (R²=0.065)</li>
+<li><a href="../pe-forward-return-3158/">3158 嘉實</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-4953/">4953 緯軟</a> - 預期報酬率: <strong>+18.59%</strong> (R²=0.163)</li>
+<li><a href="../pe-forward-return-5203/">5203 訊連</a> - 預期報酬率: <strong>+2.44%</strong> (R²=0.003)</li>
+<li><a href="../pe-forward-return-6123/">6123 上奇</a> - 預期報酬率: <strong>+10.52%</strong> (R²=0.139)</li>
+<li><a href="../pe-forward-return-6214/">6214 精誠</a> - 預期報酬率: <strong>+11.67%</strong> (R²=0.146)</li>
+<li><a href="../pe-forward-return-6231/">6231 系微</a> - 預期報酬率: <strong>+3.99%</strong> (R²=0.179)</li>
+<li><a href="../pe-forward-return-6751/">6751 智聯服務</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-8272/">8272 全景軟體</a> - 預期報酬率: <strong>N/A</strong> </li>
+</ul>
+<h3 id="_27">通信網路業<a class="headerlink" href="#_27" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-2332/">2332 友訊</a> - 預期報酬率: <strong>N/A</strong> (R²=0.003)</li>
+<li><a href="../pe-forward-return-2345/">2345 智邦</a> - 預期報酬率: <strong>+36.26%</strong> (R²=0.645)</li>
+<li><a href="../pe-forward-return-2412/">2412 中華電</a> - 預期報酬率: <strong>+4.22%</strong> (R²=0.829)</li>
+<li><a href="../pe-forward-return-2450/">2450 神腦</a> - 預期報酬率: <strong>+2.49%</strong> (R²=0.283)</li>
+<li><a href="../pe-forward-return-3045/">3045 台灣大</a> - 預期報酬率: <strong>+4.80%</strong> (R²=0.466)</li>
+<li><a href="../pe-forward-return-3558/">3558 神準</a> - 預期報酬率: <strong>+4.53%</strong> (R²=0.045)</li>
+<li><a href="../pe-forward-return-6285/">6285 啟碁</a> - 預期報酬率: <strong>+4.96%</strong> (R²=0.404)</li>
+<li><a href="../pe-forward-return-6442/">6442 光聖</a> - 預期報酬率: <strong>+67.03%</strong> (R²=0.440)</li>
+<li><a href="../pe-forward-return-6561/">6561 是方</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-8045/">8045 達運光電</a> - 預期報酬率: <strong>N/A</strong> </li>
+</ul>
+<h3 id="_28">運動休閒<a class="headerlink" href="#_28" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-9914/">9914 美利達</a> - 預期報酬率: <strong>-16.67%</strong> (R²=0.597)</li>
+<li><a href="../pe-forward-return-9921/">9921 巨大</a> - 預期報酬率: <strong>-4.33%</strong> (R²=0.636)</li>
+</ul>
+<h3 id="_29">金融保險業<a class="headerlink" href="#_29" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-2881/">2881 富邦金</a> - 預期報酬率: <strong>+8.55%</strong> (R²=0.005)</li>
+<li><a href="../pe-forward-return-2882/">2882 國泰金</a> - 預期報酬率: <strong>+4.20%</strong> (R²=0.084)</li>
+<li><a href="../pe-forward-return-2884/">2884 玉山金</a> - 預期報酬率: <strong>+6.91%</strong> (R²=0.410)</li>
+<li><a href="../pe-forward-return-2891/">2891 中信金</a> - 預期報酬率: <strong>+5.79%</strong> (R²=0.016)</li>
+<li><a href="../pe-forward-return-6035/">6035 悠遊卡</a> - 預期報酬率: <strong>N/A</strong> </li>
+</ul>
+<h3 id="_30">電子通路業<a class="headerlink" href="#_30" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-2347/">2347 聯強</a> - 預期報酬率: <strong>+10.61%</strong> (R²=0.618)</li>
+<li><a href="../pe-forward-return-3048/">3048 益登</a> - 預期報酬率: <strong>+8.99%</strong> (R²=0.028)</li>
+<li><a href="../pe-forward-return-5434/">5434 崇越</a> - 預期報酬率: <strong>+12.32%</strong> (R²=0.594)</li>
+</ul>
+<h3 id="_31">電子零組件業<a class="headerlink" href="#_31" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-2308/">2308 台達電</a> - 預期報酬率: <strong>+10.15%</strong> (R²=0.061)</li>
+<li><a href="../pe-forward-return-2383/">2383 台光電</a> - 預期報酬率: <strong>+26.39%</strong> (R²=0.018)</li>
+<li><a href="../pe-forward-return-3026/">3026 禾伸堂</a> - 預期報酬率: <strong>+18.35%</strong> (R²=0.007)</li>
+<li><a href="../pe-forward-return-3653/">3653 健策</a> - 預期報酬率: <strong>+20.42%</strong> (R²=0.025)</li>
+<li><a href="../pe-forward-return-6597/">6597 立誠</a> - 預期報酬率: <strong>N/A</strong> </li>
+</ul>
+<h3 id="_32">電機機械<a class="headerlink" href="#_32" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-6425/">6425 易發</a> - 預期報酬率: <strong>N/A</strong> </li>
+<li><a href="../pe-forward-return-7709/">7709 榮田</a> - 預期報酬率: <strong>N/A</strong> </li>
+</ul>
+<h3 id="_33">電腦及週邊設備業<a class="headerlink" href="#_33" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../pe-forward-return-2301/">2301 光寶科</a> - 預期報酬率: <strong>+13.15%</strong> (R²=0.012)</li>
+<li><a href="../pe-forward-return-2324/">2324 仁寶</a> - 預期報酬率: <strong>+4.15%</strong> (R²=0.033)</li>
+<li><a href="../pe-forward-return-2353/">2353 宏碁</a> - 預期報酬率: <strong>-4.74%</strong> (R²=0.288)</li>
+<li><a href="../pe-forward-return-2356/">2356 英業達</a> - 預期報酬率: <strong>+9.73%</strong> (R²=0.000)</li>
+<li><a href="../pe-forward-return-2357/">2357 華碩</a> - 預期報酬率: <strong>+13.49%</strong> (R²=0.015)</li>
+<li><a href="../pe-forward-return-2376/">2376 技嘉</a> - 預期報酬率: <strong>+18.44%</strong> (R²=0.110)</li>
+<li><a href="../pe-forward-return-2377/">2377 微星</a> - 預期報酬率: <strong>+20.27%</strong> (R²=0.049)</li>
+<li><a href="../pe-forward-return-2382/">2382 廣達</a> - 預期報酬率: <strong>+12.33%</strong> (R²=0.063)</li>
+<li><a href="../pe-forward-return-2395/">2395 研華</a> - 預期報酬率: <strong>+10.60%</strong> (R²=0.791)</li>
+<li><a href="../pe-forward-return-2405/">2405 輔信</a> - 預期報酬率: <strong>N/A</strong> (R²=0.028)</li>
+<li><a href="../pe-forward-return-3022/">3022 威強電</a> - 預期報酬率: <strong>+5.33%</strong> (R²=0.264)</li>
+<li><a href="../pe-forward-return-3231/">3231 緯創</a> - 預期報酬率: <strong>+9.03%</strong> (R²=0.596)</li>
+<li><a href="../pe-forward-return-4938/">4938 和碩</a> - 預期報酬率: <strong>+8.11%</strong> (R²=0.060)</li>
+<li><a href="../pe-forward-return-6669/">6669 緯穎</a> - 預期報酬率: <strong>N/A</strong> </li>
+</ul>
+<hr />
+<p><em>本報告由 Stock Analysis System v1.9.0 自動生成</em>
+<em>數據更新時間: 2026-01-24 12:29:34 CST</em>
+<em>分析股票數量: 121 檔</em></p>
+
+
+
+
+
+
+
+  
+    
+  
+  
+    
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="最後更新">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="January 24, 2026 23:11:10 CST"><span class="timeago" datetime="2026-01-24T23:11:10+08:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="January 24, 2026 23:11:10 CST">2026-01-24</span>
+  </span>
+
+    
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="建立日期">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="December 24, 2025 06:48:23 CST"><span class="timeago" datetime="2025-12-24T06:48:23+08:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="December 24, 2025 06:48:23 CST">2025-12-24</span>
+  </span>
+
+    
+    
+    
+  </aside>
+
+
+  
+
+
+
+  <form class="md-feedback" name="feedback" hidden>
+    <fieldset>
+      <legend class="md-feedback__title">
+        此頁面有幫助嗎？
+      </legend>
+      <div class="md-feedback__inner">
+        <div class="md-feedback__list">
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page was helpful" data-md-value="1">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 9v12H1V9h4m4 12a2 2 0 0 1-2-2V9c0-.55.22-1.05.59-1.41L14.17 1l1.06 1.06c.27.27.44.64.44 1.05l-.03.32L14.69 8H21a2 2 0 0 1 2 2v2c0 .26-.05.5-.14.73l-3.02 7.05C19.54 20.5 18.83 21 18 21H9m0-2h9.03L21 12v-2h-8.79l1.13-5.32L9 9.03V19Z"/></svg>
+            </button>
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page could be improved" data-md-value="0">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 15V3h4v12h-4M15 3a2 2 0 0 1 2 2v10c0 .55-.22 1.05-.59 1.41L9.83 23l-1.06-1.06c-.27-.27-.44-.64-.44-1.06l.03-.31.95-4.57H3a2 2 0 0 1-2-2v-2c0-.26.05-.5.14-.73l3.02-7.05C4.46 3.5 5.17 3 6 3h9m0 2H5.97L3 12v2h8.78l-1.13 5.32L15 14.97V5Z"/></svg>
+            </button>
+          
+        </div>
+        <div class="md-feedback__note">
+          
+            <div data-md-value="1" hidden>
+              
+              
+                
+              
+              謝謝你的反饋！
+            </div>
+          
+            <div data-md-value="0" hidden>
+              
+              
+                
+              
+              Thanks for your feedback! Help us improve this page by using our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
+            </div>
+          
+        </div>
+      </div>
+    </fieldset>
+  </form>
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  回到頂端
+</button>
+        
+      </main>
+      
+        <!-- Footer -->
+<footer class="md-footer">
+
+  <!-- Link to previous and/or next page -->
+  
+    
+  
+
+  <!-- Further information -->
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2016 - 2024 Wen-Chieh Lee
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+   
+    <font color="#B9B9B9">
+      <div class="footer-visit-count" style="display: flex; justify-content: center; align-items: center;">
+    本站訪問量：<script async src="//finicounter.eu.org/finicounter.js"></script>
+    <span id="finicount_views"></span>
+  </div>
+      </font>
+
+      <style>
+        .footer-visit-count {
+            height: fit-content;
+            min-height: 55px; /* 根據實際情況調整此高度 */
+        }
+        </style>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/wenchiehlee" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/in/wen-chieh-lee-8a242b50/" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://scholar.google.com/citations?user=YdrASjsAAAAJ" target="_blank" rel="noopener" title="scholar.google.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M390.9 298.5s0 .1.1.1c9.2 19.4 14.4 41.1 14.4 64C405.3 445.1 338.5 512 256 512s-149.3-66.9-149.3-149.3c0-22.9 5.2-44.6 14.4-64 1.7-3.6 3.6-7.2 5.6-10.7 4.4-7.6 9.4-14.7 15-21.3 27.4-32.6 68.5-53.3 114.4-53.3 33.6 0 64.6 11.1 89.6 29.9 9.1 6.9 17.4 14.7 24.8 23.5 5.6 6.6 10.6 13.8 15 21.3 2 3.4 3.8 7 5.5 10.5zm26.4-18.8c-30.1-58.4-91-98.4-161.3-98.4s-131.2 40-161.3 98.4L0 202.7 256 0l256 202.7-94.7 77.1z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.researchgate.net/profile/Wen-Chieh-Lee-4" target="_blank" rel="noopener" title="www.researchgate.net" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M0 32v448h448V32H0zm262.2 334.4c-6.6 3-33.2 6-50-14.2-9.2-10.6-25.3-33.3-42.2-63.6-8.9 0-14.7 0-21.4-.6v46.4c0 23.5 6 21.2 25.8 23.9v8.1c-6.9-.3-23.1-.8-35.6-.8-13.1 0-26.1.6-33.6.8v-8.1c15.5-2.9 22-1.3 22-23.9V225c0-22.6-6.4-21-22-23.9V193c25.8 1 53.1-.6 70.9-.6 31.7 0 55.9 14.4 55.9 45.6 0 21.1-16.7 42.2-39.2 47.5 13.6 24.2 30 45.6 42.2 58.9 7.2 7.8 17.2 14.7 27.2 14.7v7.3zm22.9-135c-23.3 0-32.2-15.7-32.2-32.2V167c0-12.2 8.8-30.4 34-30.4s30.4 17.9 30.4 17.9l-10.7 7.2s-5.5-12.5-19.7-12.5c-7.9 0-19.7 7.3-19.7 19.7v26.8c0 13.4 6.6 23.3 17.9 23.3 14.1 0 21.5-10.9 21.5-26.8h-17.9v-10.7h30.4c0 20.5 4.7 49.9-34 49.9zm-116.5 44.7c-9.4 0-13.6-.3-20-.8v-69.7c6.4-.6 15-.6 22.5-.6 23.3 0 37.2 12.2 37.2 34.5 0 21.9-15 36.6-39.7 36.6z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="mailto:<wenchiehlee1020@gmail.com>" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M64 112c-8.8 0-16 7.2-16 16v22.1l172.5 141.6c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16h384c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128c0-35.3 28.7-64 64-64h384c35.3 0 64 28.7 64 64v256c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["announce.dismiss", "content.action.edit", "content.action.view", "content.code.annotate", "content.code.copy", "content.tabs.link", "content.tooltips", "navigation.indexes", "navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.prune", "navigation.sections", "navigation.top", "navigation.footer", "navigation.expand", "navigation.indexes", "search.suggest", "search.highlight", "search.share", {"tabs": true}, "toc.follow"], "search": "../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "\u5df2\u8907\u88fd", "clipboard.copy": "\u8907\u88fd", "search.result.more.one": "\u6b64\u9801\u5c1a\u6709 1 \u500b\u7b26\u5408\u7684\u9805\u76ee", "search.result.more.other": "\u6b64\u9801\u5c1a\u6709 # \u500b\u7b26\u5408\u7684\u9805\u76ee", "search.result.none": "\u6c92\u6709\u7b26\u5408\u7684\u9805\u76ee", "search.result.one": "\u627e\u5230 1 \u500b\u7b26\u5408\u7684\u9805\u76ee", "search.result.other": "\u627e\u5230 # \u500b\u7b26\u5408\u7684\u9805\u76ee", "search.result.placeholder": "\u6253\u5b57\u9032\u884c\u641c\u5c0b", "search.result.term.missing": "\u7f3a\u5c11\u5b57\u8a5e", "select.version": "\u9078\u64c7\u7248\u672c"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+        <script src="../../../js/mkdocs-charts-plugin.js"></script>
+      
+        <script src="../../../js/timeago.min.js"></script>
+      
+        <script src="../../../js/timeago_mkdocs_material.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/Wcowin/Wcowin.github.io@main/docs/javascripts/extra.js"></script>
+      
+        <script src="../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+      
+        <script src="../../../javascripts/charts.js"></script>
+      
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+      
+        <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+      
+        <script src="../../../javascripts/tables.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mermaid@10.0.2/dist/add-html-label-6e56ed67.min.js"></script>
+      
+    
+  </body>
+</html>

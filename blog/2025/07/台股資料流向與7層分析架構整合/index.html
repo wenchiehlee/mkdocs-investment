@@ -1,0 +1,2110 @@
+
+<!doctype html>
+<html lang="zh-TW" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="詳解台灣股市資料事件、資料流向路徑，以及與7-Level Stock Information Stack的整合應用">
+      
+      
+        <meta name="author" content="Wen-Chieh Lee">
+      
+      
+        <link rel="canonical" href="https://wenchiehlee.github.io/mkdocs-investment/blog/2025/07/%E5%8F%B0%E8%82%A1%E8%B3%87%E6%96%99%E6%B5%81%E5%90%91%E8%88%877%E5%B1%A4%E5%88%86%E6%9E%90%E6%9E%B6%E6%A7%8B%E6%95%B4%E5%90%88/">
+      
+      
+        <link rel="prev" href="../../06/%E8%82%A1%E7%A5%A8%E8%B3%87%E8%A8%8A%E5%88%86%E6%9E%90%E5%A0%86%E7%96%8A%E6%9E%B6%E6%A7%8B7-level-stock-information-stack/">
+      
+      
+      
+        <link rel="alternate" type="application/rss+xml" title="RSS 訂閱" href="../../../../feed_rss_created.xml">
+        <link rel="alternate" type="application/rss+xml" title="RSS 訂閱內容已更新" href="../../../../feed_rss_updated.xml">
+      
+      <link rel="icon" href="../../../../assets/images/w-purple.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>台股資料流向與7層分析架構整合 - Wen-Chieh Lee的投資堆疊</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+  
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+  
+  <style>.md-tag.md-tag--featured{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 12V4h1V2H7v2h1v8l-2 2v2h5.2v6h1.6v-6H18v-2l-2-2Z"/></svg>');}.md-tag.md-tag--3D{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 7h4a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H5v-2h4v-2H6v-2h3V9H5V7m8 0h3a3 3 0 0 1 3 3v4a3 3 0 0 1-3 3h-3V7m3 8a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1h-1v6h1Z"/></svg>');}.md-tag.md-tag--AI{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 3c3.88 0 7 3.14 7 7 0 2.8-1.63 5.19-4 6.31V21H9v-3H8c-1.11 0-2-.89-2-2v-3H4.5c-.42 0-.66-.5-.42-.81L6 9.66A7.003 7.003 0 0 1 13 3m0-2C8.41 1 4.61 4.42 4.06 8.9L2.5 11h-.03l-.02.03c-.55.76-.62 1.76-.19 2.59.36.69 1 1.17 1.74 1.32V16c0 1.85 1.28 3.42 3 3.87V23h11v-5.5c2.5-1.67 4-4.44 4-7.5 0-4.97-4.04-9-9-9m4.33 8.3-1.96.51 1.44 1.46c.35.34.35.92 0 1.27s-.93.35-1.27 0l-1.45-1.44-.52 1.96c-.12.49-.61.76-1.07.64a.91.91 0 0 1-.66-1.11l.53-1.96-1.96.53a.91.91 0 0 1-1.11-.66c-.12-.45.16-.95.64-1.07l1.96-.52-1.44-1.45a.9.9 0 0 1 1.27-1.27l1.46 1.44.51-1.96c.12-.49.62-.77 1.09-.64.49.13.77.62.64 1.1L14.9 8.1l1.97-.53c.48-.13.97.15 1.1.64.13.47-.15.97-.64 1.09Z"/></svg>');}.md-tag.md-tag--Data{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3C7.58 3 4 4.79 4 7s3.58 4 8 4 8-1.79 8-4-3.58-4-8-4M4 9v3c0 2.21 3.58 4 8 4s8-1.79 8-4V9c0 2.21-3.58 4-8 4s-8-1.79-8-4m0 5v3c0 2.21 3.58 4 8 4s8-1.79 8-4v-3c0 2.21-3.58 4-8 4s-8-1.79-8-4Z"/></svg>');}.md-tag.md-tag--DevOps{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.73 11.93c0 1.72-.02 1.83-.23 2.07-.19.17-.38.23-.76.23l-.51.01-.03-2.27-.02-2.27h.52c.35 0 .6.07.77.21.24.21.26.25.26 2.02M22 7.5v9c0 1.11-.89 2-2 2H4c-1.11 0-2-.89-2-2v-9c0-1.11.89-2 2-2h16c1.11 0 2 .89 2 2M8.93 11.73c-.03-1.84-.05-1.99-.29-2.39-.4-.68-.85-.84-2.36-.84H5v7h1.21c1.33 0 1.89-.17 2.29-.71.41-.53.5-.98.43-3.06m4.19-3.23h-1.48c-1.49 0-1.5 0-1.71.28S9.7 9.21 9.7 12v2.96l.27.27c.25.27.31.27 1.71.27h1.44v-1.19l-1.09-.04-1.1-.03V12.6l.68-.03.66-.04v-1.19h-1.39V9.7h2.24V8.5m5.88.06c0-.06-.3-.06-.66-.06l-.68.06-.59 2.35c-.38 1.48-.62 2.27-.67 2.13-.08-.27-1.14-4.44-1.14-4.49 0-.05-.31-.05-.68-.05h-.69l.41 1.55c.2.87.59 2.28.81 3.15.34 1.35.46 1.65.75 1.94.2.22.45.36.61.36.33 0 .76-.34.9-.73C17.5 14.5 19 8.69 19 8.56Z"/></svg>');}.md-tag.md-tag--IOT{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18V4H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h4v-2H3V6m10 6H9v1.78c-.61.55-1 1.33-1 2.22 0 .89.39 1.67 1 2.22V20h4v-1.78c.61-.55 1-1.34 1-2.22s-.39-1.67-1-2.22V12m-2 5.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5M22 8h-6c-.5 0-1 .5-1 1v10c0 .5.5 1 1 1h6c.5 0 1-.5 1-1V9c0-.5-.5-1-1-1m-1 10h-4v-8h4v8Z"/></svg>');}</style>
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+TC:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Noto Serif TC";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../css/timeago.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/timeline.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/cards.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/link.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/customize.css">
+    
+      <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/tables.css">
+    
+      <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
+    
+    <script>__md_scope=new URL("../../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-913Z6DSVD2"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-913Z6DSVD2",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-913Z6DSVD2",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="deep-purple">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#7" class="md-skip">
+          跳轉到
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="頁首">
+    <a href="../../../.." title="Wen-Chieh Lee的投資堆疊" class="md-header__button md-logo" aria-label="Wen-Chieh Lee的投資堆疊" data-md-component="logo">
+      
+  <img src="../../../../assets/images/w-purple.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Wen-Chieh Lee的投資堆疊
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              台股資料流向與7層分析架構整合
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="deep-purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜尋" placeholder="搜尋" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256l137.3-137.4c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="搜尋">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="分享" aria-label="分享" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="清除" aria-label="清除" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜尋引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/wenchiehlee/mkdocs-investment" title="前往倉庫" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Mkdocs-investment
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="標籤" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../.." class="md-tabs__link">
+        
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 21H2V3h2v16h2v-2h4v2h2v-3h4v3h2v-2h4v4m-4-7h4v2h-4v-2m-6-8h4v3h-4V6m4 9h-4v-5h4v5M6 10h4v2H6v-2m4 6H6v-3h4v3Z"/></svg>
+    
+  
+  首頁
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="../../../" class="md-tabs__link">
+        
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 3v18h18V3H3m15 15H6v-1h12v1m0-2H6v-1h12v1m0-4H6V6h12v6Z"/></svg>
+    
+  
+  部落格
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../../categories/" class="md-tabs__link">
+        
+  
+    
+  
+  分類
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../reports/stage2-cleaning-revenue-report-all/" class="md-tabs__link">
+          
+  
+    
+  
+  台股總覽
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../../tags/" class="md-tabs__link">
+        
+  
+    
+  
+  標簽
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../../about/link/" class="md-tabs__link">
+        
+  
+    
+  
+  友鏈
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../../about/" class="md-tabs__link">
+        
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 11.75A1.25 1.25 0 0 0 7.75 13 1.25 1.25 0 0 0 9 14.25 1.25 1.25 0 0 0 10.25 13 1.25 1.25 0 0 0 9 11.75m6 0A1.25 1.25 0 0 0 13.75 13 1.25 1.25 0 0 0 15 14.25 1.25 1.25 0 0 0 16.25 13 1.25 1.25 0 0 0 15 11.75M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 18c-4.41 0-8-3.59-8-8 0-.29 0-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37a9.974 9.974 0 0 0 10.41 3.97c.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8Z"/></svg>
+    
+  
+  關於
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="導覽列" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../.." title="Wen-Chieh Lee的投資堆疊" class="md-nav__button md-logo" aria-label="Wen-Chieh Lee的投資堆疊" data-md-component="logo">
+      
+  <img src="../../../../assets/images/w-purple.png" alt="logo">
+
+    </a>
+    Wen-Chieh Lee的投資堆疊
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/wenchiehlee/mkdocs-investment" title="前往倉庫" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Mkdocs-investment
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../.." class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 21H2V3h2v16h2v-2h4v2h2v-3h4v3h2v-2h4v4m-4-7h4v2h-4v-2m-6-8h4v3h-4V6m4 9h-4v-5h4v5M6 10h4v2H6v-2m4 6H6v-3h4v3Z"/></svg>
+  
+  <span class="md-ellipsis">
+    首頁
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      <a href="../../../" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 3v18h18V3H3m15 15H6v-1h12v1m0-2H6v-1h12v1m0-4H6V6h12v6Z"/></svg>
+  
+  <span class="md-ellipsis">
+    部落格
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../categories/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    分類
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../../../reports/stage2-cleaning-revenue-report-all/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    台股總覽
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../tags/" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 12V4h1V2H7v2h1v8l-2 2v2h5.2v6h1.6v-6H18v-2l-2-2Z"/></svg>
+  
+  <span class="md-ellipsis">
+    標簽
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../about/link/" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1M8 13h8v-2H8v2m9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1 0 1.71-1.39 3.1-3.1 3.1h-4V17h4a5 5 0 0 0 5-5 5 5 0 0 0-5-5Z"/></svg>
+  
+  <span class="md-ellipsis">
+    友鏈
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../about/" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 11.75A1.25 1.25 0 0 0 7.75 13 1.25 1.25 0 0 0 9 14.25 1.25 1.25 0 0 0 10.25 13 1.25 1.25 0 0 0 9 11.75m6 0A1.25 1.25 0 0 0 13.75 13 1.25 1.25 0 0 0 15 14.25 1.25 1.25 0 0 0 16.25 13 1.25 1.25 0 0 0 15 11.75M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 18c-4.41 0-8-3.59-8-8 0-.29 0-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37a9.974 9.974 0 0 0 10.41 3.97c.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8Z"/></svg>
+  
+  <span class="md-ellipsis">
+    關於
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="目錄">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目錄
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      概述
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      資料流向總覽
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#level-1-3foundational-data-flow" class="md-nav__link">
+    <span class="md-ellipsis">
+      Level 1-3：基礎資料流（Foundational Data Flow）
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Level 1-3：基礎資料流（Foundational Data Flow）">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      台股高頻事件與資料路徑
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      對應報告：月營收 / 股利
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      資料整合流程圖
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      基礎層資料依賴關係
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#level-4-5" class="md-nav__link">
+    <span class="md-ellipsis">
+      Level 4-5：情境與情緒如何「改寫」同一份基本面
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Level 4-5：情境與情緒如何「改寫」同一份基本面">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      情境層資料相互作用
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#level-6-7" class="md-nav__link">
+    <span class="md-ellipsis">
+      Level 6-7：整合與決策資料流
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Level 6-7：整合與決策資料流">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      驗證與回饋機制
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      對應報告：回撤（風控 / 驗證）
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      決策整合流程
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      一套可以落地的「每週例行」流程（建議從這裡開始）
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      實務應用案例：台積電資料流
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="實務應用案例：台積電資料流">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_13" class="md-nav__link">
+    <span class="md-ellipsis">
+      每月資料流循環
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_14" class="md-nav__link">
+    <span class="md-ellipsis">
+      資料流時序圖
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_15" class="md-nav__link">
+    <span class="md-ellipsis">
+      資料品質與維護
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="資料品質與維護">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_16" class="md-nav__link">
+    <span class="md-ellipsis">
+      資料品質檢核表
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_17" class="md-nav__link">
+    <span class="md-ellipsis">
+      資料治理架構
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_18" class="md-nav__link">
+    <span class="md-ellipsis">
+      技術實作要點
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="技術實作要點">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_19" class="md-nav__link">
+    <span class="md-ellipsis">
+      資料管道設計原則（給想做自動化的人）
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_20" class="md-nav__link">
+    <span class="md-ellipsis">
+      系統架構建議
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_21" class="md-nav__link">
+    <span class="md-ellipsis">
+      關鍵成功因素
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="關鍵成功因素">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_22" class="md-nav__link">
+    <span class="md-ellipsis">
+      資料流設計重點
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_23" class="md-nav__link">
+    <span class="md-ellipsis">
+      實施建議
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_24" class="md-nav__link">
+    <span class="md-ellipsis">
+      總結
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_25" class="md-nav__link">
+    <span class="md-ellipsis">
+      相關文章
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+  <div class="md-content md-content--post" data-md-component="content">
+    <div class="md-sidebar md-sidebar--post" data-md-component="sidebar" data-md-type="navigation">
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner md-post">
+          <nav class="md-nav md-nav--primary">
+            <div class="md-post__back">
+              <div class="md-nav__title md-nav__container">
+                <a href="../../../" class="md-nav__link">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+                  <span class="md-ellipsis">
+                    回到主頁
+                  </span>
+                </a>
+              </div>
+            </div>
+            
+              <div class="md-post__authors md-typeset">
+                
+                  <div class="md-profile md-post__profile">
+                    <span class="md-author md-author--long">
+                      <img src="https://github.com/wenchiehlee.png" alt="Wen-Chieh Lee">
+                    </span>
+                    <span class="md-profile__description">
+                      <strong>
+                        
+                          Wen-Chieh Lee
+                        
+                      </strong>
+                      <br>
+                      Senior Software Architect
+                    </span>
+                  </div>
+                
+              </div>
+            
+            <ul class="md-post__meta md-nav__list">
+              <li class="md-nav__item md-nav__item--section">
+                <div class="md-post__title">
+                  <span class="md-ellipsis">
+                    元數據
+                  </span>
+                </div>
+                <nav class="md-nav">
+                  <ul class="md-nav__list">
+                    <li class="md-nav__item">
+                      <div class="md-nav__link">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5v-5Z"/></svg>
+                        <time datetime="2025-07-21 00:00:00" class="md-ellipsis">2025年7月21日</time>
+                      </div>
+                    </li>
+                    
+                    
+                      <li class="md-nav__item">
+                        <div class="md-nav__link">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 3v15h3V3H9m3 2 4 13 3-1-4-13-3 1M5 5v13h3V5H5M3 19v2h18v-2H3Z"/></svg>
+                          <span class="md-ellipsis">
+                            於
+                            
+                              <a href="../../../category/%E6%8A%95%E8%B3%87/">投資</a></span>
+                        </div>
+                      </li>
+                    
+                    
+                      
+                      <li class="md-nav__item">
+                        <div class="md-nav__link">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8m0-18a10 10 0 0 1 10 10 10 10 0 0 1-10 10C6.47 22 2 17.5 2 12A10 10 0 0 1 12 2m.5 5v5.25l4.5 2.67-.75 1.23L11 13V7h1.5Z"/></svg>
+                          <span class="md-ellipsis">
+                            
+                              需要 5 分鐘閱讀時間
+                            
+                          </span>
+                        </div>
+                      </li>
+                    
+                  </ul>
+                </nav>
+              </li>
+            </ul>
+          </nav>
+          
+        </div>
+      </div>
+    </div>
+    <article class="md-content__inner md-typeset">
+      
+        
+  
+  
+
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../../tags/#" class="md-tag">投資</a>
+    
+  
+    
+    
+    
+      <a href="../../../../tags/#" class="md-tag">股票</a>
+    
+  
+    
+    
+    
+      <a href="../../../../tags/#" class="md-tag">資料流向分析</a>
+    
+  
+    
+    
+    
+      <a href="../../../../tags/#" class="md-tag">股票資訊分析堆疊架構</a>
+    
+  
+</nav>
+
+
+  
+    <a href="https://github.com/wenchiehlee/mkdocs-investment/edit/main/docs/blog/posts/2025-07-21 台股資料流向與7層分析架構整合.md" title="編輯此頁" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/wenchiehlee/mkdocs-investment/raw/main/docs/blog/posts/2025-07-21 台股資料流向與7層分析架構整合.md" title="查看此頁原始碼" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
+    </a>
+  
+
+
+<h1 id="7">📊 台股資料流向與7層分析架構整合<a class="headerlink" href="#7" title="Permanent link">&para;</a></h1>
+<h2 id="_1">概述<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
+<p>延續<a href="../../06/%E8%82%A1%E7%A5%A8%E8%B3%87%E8%A8%8A%E5%88%86%E6%9E%90%E5%A0%86%E7%96%8A%E6%9E%B6%E6%A7%8B7-level-stock-information-stack/">股票資訊分析堆疊架構（7-Level Stock Information Stack）</a>，本文聚焦「台股資料事件怎麼一路流到決策」：資料從哪裡來、多久更新一次、會影響哪一層，以及你該在什麼時間點把哪些訊號串起來。</p>
+<p>你可以把它想成一張投資用資料管線圖：<strong>原始資料 → 清理標準化 → 指標/訊號 → 驗證 → 部位決策</strong>。當你理解資料走向，就不容易把「滯後的結論」當成「領先的因子」，也比較能分清楚：行情是基本面驅動、預期差驅動，還是籌碼/情緒驅動。</p>
+<div class="admonition note">
+<p class="admonition-title">本文定位</p>
+<p>這篇用「台股常見資料源 + 7層堆疊」整理資料流向，目標是建立可重複執行的分析流程；不是提供單一買賣點。</p>
+</div>
+<h2 id="_2">資料流向總覽<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>層級</th>
+<th>資料來源類型</th>
+<th>更新頻率</th>
+<th>資料傳遞方向</th>
+<th>下游應用</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Level 1</strong></td>
+<td>🔸結構化財務資料<br>🔸公司公告事件</td>
+<td>📅每月/每季定期</td>
+<td>➡️ L2預期調整<br>➡️ L3籌碼反應<br>➡️ L6驗證回測</td>
+<td>基本面評分<br>估值模型輸入</td>
+</tr>
+<tr>
+<td><strong>Level 2</strong></td>
+<td>🔸法人研究報告<br>🔸預測共識資料</td>
+<td>📊事件驅動更新</td>
+<td>➡️ L3資金流向<br>➡️ L6預期差異</td>
+<td>市場預期基準<br>修正動能追蹤</td>
+</tr>
+<tr>
+<td><strong>Level 3</strong></td>
+<td>🔸交易所即時資料<br>🔸集保結算資料</td>
+<td>⚡每日/即時</td>
+<td>➡️ L5情緒指標<br>➡️ L7部位調整</td>
+<td>籌碼強弱判斷<br>進出場時機</td>
+</tr>
+<tr>
+<td><strong>Level 4</strong></td>
+<td>🔸總經統計資料<br>🔸政策公告</td>
+<td>📈月度/季度</td>
+<td>➡️ 全層級風險調整</td>
+<td>系統性風險評估<br>產業輪動判斷</td>
+</tr>
+<tr>
+<td><strong>Level 5</strong></td>
+<td>🔸社群爬蟲資料<br>🔸搜尋趨勢</td>
+<td>🔄即時監控</td>
+<td>➡️ L3逆向指標<br>➡️ L7風險控管</td>
+<td>極端情緒識別<br>逆向操作時機</td>
+</tr>
+<tr>
+<td><strong>Level 6</strong></td>
+<td>🔸回測驗證結果<br>🔸模型輸出</td>
+<td>🔬批次處理</td>
+<td>➡️ L7策略優化</td>
+<td>策略有效性驗證<br>參數調整建議</td>
+</tr>
+<tr>
+<td><strong>Level 7</strong></td>
+<td>🔸整合決策輸出<br>🔸風險調整建議</td>
+<td>🎯即時運算</td>
+<td>➡️ 執行層</td>
+<td>最終投資決策<br>部位配置指令</td>
+</tr>
+</tbody>
+</table>
+<h2 id="level-1-3foundational-data-flow">Level 1-3：基礎資料流（Foundational Data Flow）<a class="headerlink" href="#level-1-3foundational-data-flow" title="Permanent link">&para;</a></h2>
+<h3 id="_3">台股高頻事件與資料路徑<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>資料事件</th>
+<th>發生時間</th>
+<th>資料路徑</th>
+<th>處理流程</th>
+<th>傳遞至層級</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>月營收公告</strong></td>
+<td>每月10日前</td>
+<td>MOPS ➡️ 資料庫 ➡️ 營收模型</td>
+<td>1. YoY/MoM計算<br>2. 產業比較<br>3. 趨勢分析</td>
+<td>L2: 調整預期<br>L3: 追蹤法人反應</td>
+</tr>
+<tr>
+<td><strong>季報/年報</strong></td>
+<td>依規定期限公告（以公開資訊觀測站/交易所為準）</td>
+<td>MOPS ➡️ 財報解析 ➡️ 財務模型</td>
+<td>1. 財務比率計算<br>2. 品質分數<br>3. 同業比較</td>
+<td>L2: 預測修正<br>L6: 驗證準確度</td>
+</tr>
+<tr>
+<td><strong>法說會</strong></td>
+<td>財報後14天</td>
+<td>公司公告 ➡️ 文字分析 ➡️ 情緒模型</td>
+<td>1. 關鍵字提取<br>2. 語調分析<br>3. 指引解讀</td>
+<td>L2: 更新展望<br>L5: 市場反應</td>
+</tr>
+<tr>
+<td><strong>三大法人買賣</strong></td>
+<td>每日15:00</td>
+<td>證交所 ➡️ 即時資料庫 ➡️ 籌碼模型</td>
+<td>1. 買賣超統計<br>2. 連續性分析<br>3. 資金流向</td>
+<td>L5: 散戶對比<br>L7: 部位調整</td>
+</tr>
+<tr>
+<td><strong>融資融券</strong></td>
+<td>每日20:00</td>
+<td>證交所 ➡️ 籌碼資料庫 ➡️ 散戶指標</td>
+<td>1. 融資使用率<br>2. 券資比計算<br>3. 軋空機會</td>
+<td>L5: 情緒判斷<br>L7: 風險評估</td>
+</tr>
+<tr>
+<td><strong>集保股權</strong></td>
+<td>每週六</td>
+<td>集保中心 ➡️ 股權資料庫 ➡️ 集中度模型</td>
+<td>1. 股東人數變化<br>2. 大戶持股比例<br>3. 籌碼集中度</td>
+<td>L3: 主力動向<br>L6: 籌碼驗證</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_4">對應報告：月營收 / 股利<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h3>
+<p>如果你想把上面的「資料事件 → 路徑 → 下游應用」直接落地成可查閱的清單，本站有把常用報告整理成「總覽（all）」頁面：你可以先用總覽快速篩選，再點進個股做細看。</p>
+<ul>
+<li><a href="../../../../reports/stage2-cleaning-revenue-report-all/">完整營收報告總覽（所有股票）</a></li>
+<li><a href="../../../../reports/stage2-cleaning-dividends-report-all/">完整股利報告總覽（所有股票）</a></li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">一個簡單但很有用的串法</p>
+<p>**月營收（L1）**先看「成長/轉折」→ 再比「是否超出市場預期（L2）」→ 最後觀察「法人/籌碼是否跟上（L3）」；三者同向時，訊號品質通常明顯提升。</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">財報時程提醒</p>
+<p>一般申報期限常見為：Q1 <code>5/15</code>、Q2 <code>8/14</code>、Q3 <code>11/14</code>、年報 <code>3/31</code>；細節以主管機關與公司公告為準。</p>
+</div>
+<h3 id="_5">資料整合流程圖<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h3>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-0-1"> 1</a></span>
+<span class="normal"><a href="#__codelineno-0-2"> 2</a></span>
+<span class="normal"><a href="#__codelineno-0-3"> 3</a></span>
+<span class="normal"><a href="#__codelineno-0-4"> 4</a></span>
+<span class="normal"><a href="#__codelineno-0-5"> 5</a></span>
+<span class="normal"><a href="#__codelineno-0-6"> 6</a></span>
+<span class="normal"><a href="#__codelineno-0-7"> 7</a></span>
+<span class="normal"><a href="#__codelineno-0-8"> 8</a></span>
+<span class="normal"><a href="#__codelineno-0-9"> 9</a></span>
+<span class="normal"><a href="#__codelineno-0-10">10</a></span>
+<span class="normal"><a href="#__codelineno-0-11">11</a></span>
+<span class="normal"><a href="#__codelineno-0-12">12</a></span>
+<span class="normal"><a href="#__codelineno-0-13">13</a></span>
+<span class="normal"><a href="#__codelineno-0-14">14</a></span>
+<span class="normal"><a href="#__codelineno-0-15">15</a></span>
+<span class="normal"><a href="#__codelineno-0-16">16</a></span>
+<span class="normal"><a href="#__codelineno-0-17">17</a></span>
+<span class="normal"><a href="#__codelineno-0-18">18</a></span>
+<span class="normal"><a href="#__codelineno-0-19">19</a></span></pre></div></td><td class="code"><div><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1"></a>[原始資料層]
+<a id="__codelineno-0-2" name="__codelineno-0-2"></a>    ├── 財務資料（MOPS、TEJ）
+<a id="__codelineno-0-3" name="__codelineno-0-3"></a>    ├── 交易資料（TWSE、TPEX）
+<a id="__codelineno-0-4" name="__codelineno-0-4"></a>    └── 研究資料（券商、外資）
+<a id="__codelineno-0-5" name="__codelineno-0-5"></a>           ↓
+<a id="__codelineno-0-6" name="__codelineno-0-6"></a>[資料清理與標準化]
+<a id="__codelineno-0-7" name="__codelineno-0-7"></a>    ├── 資料驗證
+<a id="__codelineno-0-8" name="__codelineno-0-8"></a>    ├── 格式統一
+<a id="__codelineno-0-9" name="__codelineno-0-9"></a>    └── 異常處理
+<a id="__codelineno-0-10" name="__codelineno-0-10"></a>           ↓
+<a id="__codelineno-0-11" name="__codelineno-0-11"></a>[特徵工程層]
+<a id="__codelineno-0-12" name="__codelineno-0-12"></a>    ├── 技術指標計算
+<a id="__codelineno-0-13" name="__codelineno-0-13"></a>    ├── 基本面指標
+<a id="__codelineno-0-14" name="__codelineno-0-14"></a>    └── 籌碼面指標
+<a id="__codelineno-0-15" name="__codelineno-0-15"></a>           ↓
+<a id="__codelineno-0-16" name="__codelineno-0-16"></a>[模型運算層]
+<a id="__codelineno-0-17" name="__codelineno-0-17"></a>    ├── Level 1: 估值模型
+<a id="__codelineno-0-18" name="__codelineno-0-18"></a>    ├── Level 2: 預期調整模型
+<a id="__codelineno-0-19" name="__codelineno-0-19"></a>    └── Level 3: 籌碼評分模型
+</code></pre></div></td></tr></table></div>
+<h3 id="_6">基礎層資料依賴關係<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h3>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-1-1"> 1</a></span>
+<span class="normal"><a href="#__codelineno-1-2"> 2</a></span>
+<span class="normal"><a href="#__codelineno-1-3"> 3</a></span>
+<span class="normal"><a href="#__codelineno-1-4"> 4</a></span>
+<span class="normal"><a href="#__codelineno-1-5"> 5</a></span>
+<span class="normal"><a href="#__codelineno-1-6"> 6</a></span>
+<span class="normal"><a href="#__codelineno-1-7"> 7</a></span>
+<span class="normal"><a href="#__codelineno-1-8"> 8</a></span>
+<span class="normal"><a href="#__codelineno-1-9"> 9</a></span>
+<span class="normal"><a href="#__codelineno-1-10">10</a></span>
+<span class="normal"><a href="#__codelineno-1-11">11</a></span>
+<span class="normal"><a href="#__codelineno-1-12">12</a></span>
+<span class="normal"><a href="#__codelineno-1-13">13</a></span>
+<span class="normal"><a href="#__codelineno-1-14">14</a></span></pre></div></td><td class="code"><div><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1"></a>Level 1 (基本面)
+<a id="__codelineno-1-2" name="__codelineno-1-2"></a>    ├── 營收數據 ──影響──&gt; Level 2 EPS預測調整
+<a id="__codelineno-1-3" name="__codelineno-1-3"></a>    ├── 財報品質 ──影響──&gt; Level 3 法人進出決策
+<a id="__codelineno-1-4" name="__codelineno-1-4"></a>    └── ROE趨勢 ──影響──&gt; Level 6 長期報酬預測
+<a id="__codelineno-1-5" name="__codelineno-1-5"></a>
+<a id="__codelineno-1-6" name="__codelineno-1-6"></a>Level 2 (預期面)
+<a id="__codelineno-1-7" name="__codelineno-1-7"></a>    ├── EPS修正 ──觸發──&gt; Level 3 籌碼變化
+<a id="__codelineno-1-8" name="__codelineno-1-8"></a>    ├── 目標價調整 ──影響──&gt; Level 5 市場情緒
+<a id="__codelineno-1-9" name="__codelineno-1-9"></a>    └── 評等變化 ──導致──&gt; Level 7 部位調整
+<a id="__codelineno-1-10" name="__codelineno-1-10"></a>
+<a id="__codelineno-1-11" name="__codelineno-1-11"></a>Level 3 (籌碼面)
+<a id="__codelineno-1-12" name="__codelineno-1-12"></a>    ├── 法人動向 ──反映──&gt; Level 2 預期變化
+<a id="__codelineno-1-13" name="__codelineno-1-13"></a>    ├── 散戶指標 ──連結──&gt; Level 5 情緒極端
+<a id="__codelineno-1-14" name="__codelineno-1-14"></a>    └── 籌碼集中 ──預示──&gt; Level 6 價格動能
+</code></pre></div></td></tr></table></div>
+<h2 id="level-4-5">Level 4-5：情境與情緒如何「改寫」同一份基本面<a class="headerlink" href="#level-4-5" title="Permanent link">&para;</a></h2>
+<p>Level 4（總經/資金）與 Level 5（情緒/敘事）很多時候不是「新增一個訊號」，而是改變你該怎麼解讀 L1-L3：同樣的成長，在不同資金成本/風險偏好下，市場願意給的估值帶會不同。</p>
+<table>
+<thead>
+<tr>
+<th>情境/情緒資料</th>
+<th>常見台灣來源</th>
+<th style="text-align: right;">更新頻率</th>
+<th>典型影響</th>
+<th>你可以怎麼用</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>利率/匯率/景氣指標</strong></td>
+<td>央行、主計總處、中經院等</td>
+<td style="text-align: right;">月/季</td>
+<td>影響折現率、外資風險偏好、產業順逆風</td>
+<td>決定是否放大/縮小 L1-L3 訊號權重</td>
+</tr>
+<tr>
+<td><strong>政策/法規/產業敘事</strong></td>
+<td>政策公告、法規變動、產業新聞</td>
+<td style="text-align: right;">事件驅動</td>
+<td>改變市場願意給的「估值帶」</td>
+<td>把 L2 的「預期修正」放到正確框架</td>
+</tr>
+<tr>
+<td><strong>市場情緒與過熱</strong></td>
+<td>新聞、論壇、搜尋趨勢、當沖/槓桿</td>
+<td style="text-align: right;">每日/即時</td>
+<td>造成短期偏離、急漲急跌</td>
+<td>用於反向風控：訊號再好也要控槓桿/控部位</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_7">情境層資料相互作用<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h3>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-2-1"> 1</a></span>
+<span class="normal"><a href="#__codelineno-2-2"> 2</a></span>
+<span class="normal"><a href="#__codelineno-2-3"> 3</a></span>
+<span class="normal"><a href="#__codelineno-2-4"> 4</a></span>
+<span class="normal"><a href="#__codelineno-2-5"> 5</a></span>
+<span class="normal"><a href="#__codelineno-2-6"> 6</a></span>
+<span class="normal"><a href="#__codelineno-2-7"> 7</a></span>
+<span class="normal"><a href="#__codelineno-2-8"> 8</a></span>
+<span class="normal"><a href="#__codelineno-2-9"> 9</a></span>
+<span class="normal"><a href="#__codelineno-2-10">10</a></span>
+<span class="normal"><a href="#__codelineno-2-11">11</a></span></pre></div></td><td class="code"><div><pre><span></span><code><a id="__codelineno-2-1" name="__codelineno-2-1"></a>Level 4 (總經資金)
+<a id="__codelineno-2-2" name="__codelineno-2-2"></a>    ├── 利率變化 ──決定──&gt; 資金成本
+<a id="__codelineno-2-3" name="__codelineno-2-3"></a>    ├── 匯率走勢 ──影響──&gt; 外資動向
+<a id="__codelineno-2-4" name="__codelineno-2-4"></a>    └── 產業週期 ──驅動──&gt; 類股輪動
+<a id="__codelineno-2-5" name="__codelineno-2-5"></a>           ↓
+<a id="__codelineno-2-6" name="__codelineno-2-6"></a>    [交互影響]
+<a id="__codelineno-2-7" name="__codelineno-2-7"></a>           ↓
+<a id="__codelineno-2-8" name="__codelineno-2-8"></a>Level 5 (市場情緒)
+<a id="__codelineno-2-9" name="__codelineno-2-9"></a>    ├── VIX指數 ──反映──&gt; 恐慌程度
+<a id="__codelineno-2-10" name="__codelineno-2-10"></a>    ├── 當沖比率 ──顯示──&gt; 投機熱度
+<a id="__codelineno-2-11" name="__codelineno-2-11"></a>    └── 社群熱度 ──預示──&gt; 散戶動向
+</code></pre></div></td></tr></table></div>
+<h2 id="level-6-7">Level 6-7：整合與決策資料流<a class="headerlink" href="#level-6-7" title="Permanent link">&para;</a></h2>
+<h3 id="_8">驗證與回饋機制<a class="headerlink" href="#_8" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>驗證類型</th>
+<th>資料輸入</th>
+<th>驗證方法</th>
+<th>輸出結果</th>
+<th>回饋路徑</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>預測準確度</strong></td>
+<td>L1-L2預測vs實際</td>
+<td>MAE、RMSE計算</td>
+<td>準確率報告</td>
+<td>調整L1-L2模型參數</td>
+</tr>
+<tr>
+<td><strong>訊號有效性</strong></td>
+<td>L3-L5訊號vs績效</td>
+<td>回測勝率統計</td>
+<td>訊號品質分數</td>
+<td>優化L3-L5權重</td>
+</tr>
+<tr>
+<td><strong>風險控管</strong></td>
+<td>L4總經+L5情緒</td>
+<td>VaR、壓力測試</td>
+<td>風險指標儀表板</td>
+<td>更新L7風控閾值</td>
+</tr>
+<tr>
+<td><strong>策略績效</strong></td>
+<td>L7建議vs實際報酬</td>
+<td>Sharpe、Calmar</td>
+<td>績效歸因分析</td>
+<td>策略參數最佳化</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_9">對應報告：回撤（風控 / 驗證）<a class="headerlink" href="#_9" title="Permanent link">&para;</a></h3>
+<p>回撤（drawdown）不是 Level 1-3 的資料來源，而是用歷史價格去量化「最壞情境會跌多深、多久能修復」：通常用在 Level 6（驗證/風險度量）與 Level 7（部位與風控規則）。</p>
+<ul>
+<li><a href="../../../../reports/stage2-cleaning-market-analysis-drawdown-report-all/">市場分析：回撤報告總覽（所有股票）</a>（若尚未產生，請先在 <code>docs/reports/</code> 建立對應報告）</li>
+</ul>
+<h3 id="_10">決策整合流程<a class="headerlink" href="#_10" title="Permanent link">&para;</a></h3>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-3-1"> 1</a></span>
+<span class="normal"><a href="#__codelineno-3-2"> 2</a></span>
+<span class="normal"><a href="#__codelineno-3-3"> 3</a></span>
+<span class="normal"><a href="#__codelineno-3-4"> 4</a></span>
+<span class="normal"><a href="#__codelineno-3-5"> 5</a></span>
+<span class="normal"><a href="#__codelineno-3-6"> 6</a></span>
+<span class="normal"><a href="#__codelineno-3-7"> 7</a></span>
+<span class="normal"><a href="#__codelineno-3-8"> 8</a></span>
+<span class="normal"><a href="#__codelineno-3-9"> 9</a></span>
+<span class="normal"><a href="#__codelineno-3-10">10</a></span>
+<span class="normal"><a href="#__codelineno-3-11">11</a></span>
+<span class="normal"><a href="#__codelineno-3-12">12</a></span>
+<span class="normal"><a href="#__codelineno-3-13">13</a></span>
+<span class="normal"><a href="#__codelineno-3-14">14</a></span>
+<span class="normal"><a href="#__codelineno-3-15">15</a></span>
+<span class="normal"><a href="#__codelineno-3-16">16</a></span></pre></div></td><td class="code"><div><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1"></a>[多層資料匯集]
+<a id="__codelineno-3-2" name="__codelineno-3-2"></a>Level 1-3 基礎面分數 ──┐
+<a id="__codelineno-3-3" name="__codelineno-3-3"></a>                      ├──→ [特徵向量整合] ──→ [機器學習模型]
+<a id="__codelineno-3-4" name="__codelineno-3-4"></a>Level 4-5 情境面指標 ──┘                           ↓
+<a id="__codelineno-3-5" name="__codelineno-3-5"></a>                                          [決策規則引擎]
+<a id="__codelineno-3-6" name="__codelineno-3-6"></a>Level 6 驗證回饋 ─────────────────────────────┘    ↓
+<a id="__codelineno-3-7" name="__codelineno-3-7"></a>                                          [風險調整模組]
+<a id="__codelineno-3-8" name="__codelineno-3-8"></a>                                                   ↓
+<a id="__codelineno-3-9" name="__codelineno-3-9"></a>                                          [最終決策輸出]
+<a id="__codelineno-3-10" name="__codelineno-3-10"></a>                                                   ↓
+<a id="__codelineno-3-11" name="__codelineno-3-11"></a>                                    ┌─────────────┴─────────────┐
+<a id="__codelineno-3-12" name="__codelineno-3-12"></a>                                    ↓                           ↓
+<a id="__codelineno-3-13" name="__codelineno-3-13"></a>                              [執行指令]                   [監控儀表板]
+<a id="__codelineno-3-14" name="__codelineno-3-14"></a>                              • 買賣訊號                   • 即時績效
+<a id="__codelineno-3-15" name="__codelineno-3-15"></a>                              • 部位大小                   • 風險指標  
+<a id="__codelineno-3-16" name="__codelineno-3-16"></a>                              • 停損停利                   • 異常警示
+</code></pre></div></td></tr></table></div>
+<h2 id="_11">一套可以落地的「每週例行」流程（建議從這裡開始）<a class="headerlink" href="#_11" title="Permanent link">&para;</a></h2>
+<ol>
+<li><strong>L1（基本面）</strong>：更新月營收/財報指標，先判斷是「趨勢延續」還是「轉折」。</li>
+<li><strong>L2（預期面）</strong>：把 L1 的變化轉成「預期差」：這次公告是驚喜/失望？是否可能引發 EPS/指引修正？</li>
+<li><strong>L3（籌碼面）</strong>：看資金是否認同：連續買超/賣超、集中度、散戶槓桿是否同步。</li>
+<li><strong>L4-L5（情境/情緒）</strong>：決定要用順風/逆風的權重去看前面三層，並設定風控強度。</li>
+<li><strong>L6（驗證）</strong>：定期檢查規則在不同市況下是否失效（例如高利率時估值邏輯改變）。</li>
+<li><strong>L7（決策）</strong>：把訊號轉成可執行的部位：買多少、分幾次、風險上限、何時撤退。</li>
+</ol>
+<div class="admonition warning">
+<p class="admonition-title">最常見的誤用</p>
+<ul>
+<li>只看 L1 的漂亮數字，忽略 L2 已提前反映（「好消息出盡」）。</li>
+<li>看到法人買超就追（L3），但忽略 L4-L5 其實在縮風險的市況。</li>
+<li>忘了 L6：規則沒驗證，回測只挑順風期。</li>
+</ul>
+</div>
+<h2 id="_12">實務應用案例：台積電資料流<a class="headerlink" href="#_12" title="Permanent link">&para;</a></h2>
+<h3 id="_13">每月資料流循環<a class="headerlink" href="#_13" title="Permanent link">&para;</a></h3>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-4-1"> 1</a></span>
+<span class="normal"><a href="#__codelineno-4-2"> 2</a></span>
+<span class="normal"><a href="#__codelineno-4-3"> 3</a></span>
+<span class="normal"><a href="#__codelineno-4-4"> 4</a></span>
+<span class="normal"><a href="#__codelineno-4-5"> 5</a></span>
+<span class="normal"><a href="#__codelineno-4-6"> 6</a></span>
+<span class="normal"><a href="#__codelineno-4-7"> 7</a></span>
+<span class="normal"><a href="#__codelineno-4-8"> 8</a></span>
+<span class="normal"><a href="#__codelineno-4-9"> 9</a></span>
+<span class="normal"><a href="#__codelineno-4-10">10</a></span>
+<span class="normal"><a href="#__codelineno-4-11">11</a></span>
+<span class="normal"><a href="#__codelineno-4-12">12</a></span>
+<span class="normal"><a href="#__codelineno-4-13">13</a></span>
+<span class="normal"><a href="#__codelineno-4-14">14</a></span>
+<span class="normal"><a href="#__codelineno-4-15">15</a></span></pre></div></td><td class="code"><div><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1"></a>[第一週]
+<a id="__codelineno-4-2" name="__codelineno-4-2"></a>外資目標價更新 ──→ L2預期調整 ──→ 共識目標價重算
+<a id="__codelineno-4-3" name="__codelineno-4-3"></a>
+<a id="__codelineno-4-4" name="__codelineno-4-4"></a>[10日前]  
+<a id="__codelineno-4-5" name="__codelineno-4-5"></a>月營收公布 ──→ L1營收動能更新 ──→ L2預測模型調整 ──→ L6準確度驗證
+<a id="__codelineno-4-6" name="__codelineno-4-6"></a>
+<a id="__codelineno-4-7" name="__codelineno-4-7"></a>[15日前]
+<a id="__codelineno-4-8" name="__codelineno-4-8"></a>董監申報 ──→ L3內部人信心指標 ──→ L7風險評估調整
+<a id="__codelineno-4-9" name="__codelineno-4-9"></a>
+<a id="__codelineno-4-10" name="__codelineno-4-10"></a>[每日收盤]
+<a id="__codelineno-4-11" name="__codelineno-4-11"></a>三大法人買賣超 ──→ L3籌碼健康度 ──→ L5散戶比對 ──→ L7部位微調
+<a id="__codelineno-4-12" name="__codelineno-4-12"></a>
+<a id="__codelineno-4-13" name="__codelineno-4-13"></a>[季報後]
+<a id="__codelineno-4-14" name="__codelineno-4-14"></a>財報公布 ──→ L1財務品質評分 ──→ L2預期差異分析 ──→ L6模型校正
+<a id="__codelineno-4-15" name="__codelineno-4-15"></a>法說會 ──→ L2展望更新 ──→ L4產業位置確認 ──→ L7策略調整
+</code></pre></div></td></tr></table></div>
+<h3 id="_14">資料流時序圖<a class="headerlink" href="#_14" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>時間軸</th>
+<th>事件</th>
+<th>Level 1</th>
+<th>Level 2</th>
+<th>Level 3</th>
+<th>Level 4-5</th>
+<th>Level 6-7</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>T</td>
+<td>營收公布</td>
+<td>📊更新營收</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>T+1hr</td>
+<td>市場反應</td>
+<td>-</td>
+<td>📈調整預測</td>
+<td>💰法人買賣</td>
+<td>📱社群討論</td>
+<td>-</td>
+</tr>
+<tr>
+<td>T+1day</td>
+<td>券商報告</td>
+<td>-</td>
+<td>🎯目標價更新</td>
+<td>📊籌碼變化</td>
+<td>-</td>
+<td>🔍驗證預測</td>
+</tr>
+<tr>
+<td>T+3day</td>
+<td>資料整合</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>🎮策略調整</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_15">資料品質與維護<a class="headerlink" href="#_15" title="Permanent link">&para;</a></h2>
+<h3 id="_16">資料品質檢核表<a class="headerlink" href="#_16" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>檢核項目</th>
+<th>檢核頻率</th>
+<th>品質標準</th>
+<th>異常處理</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>完整性</strong></td>
+<td>每日</td>
+<td>缺值率&lt;5%</td>
+<td>插補或剔除</td>
+</tr>
+<tr>
+<td><strong>時效性</strong></td>
+<td>即時</td>
+<td>延遲&lt;30分鐘</td>
+<td>切換備援源</td>
+</tr>
+<tr>
+<td><strong>一致性</strong></td>
+<td>每日</td>
+<td>交叉驗證誤差&lt;1%</td>
+<td>人工審核</td>
+</tr>
+<tr>
+<td><strong>準確性</strong></td>
+<td>每月</td>
+<td>與官方資料誤差&lt;0.1%</td>
+<td>資料源校正</td>
+</tr>
+</tbody>
+</table>
+<h3 id="_17">資料治理架構<a class="headerlink" href="#_17" title="Permanent link">&para;</a></h3>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-5-1"> 1</a></span>
+<span class="normal"><a href="#__codelineno-5-2"> 2</a></span>
+<span class="normal"><a href="#__codelineno-5-3"> 3</a></span>
+<span class="normal"><a href="#__codelineno-5-4"> 4</a></span>
+<span class="normal"><a href="#__codelineno-5-5"> 5</a></span>
+<span class="normal"><a href="#__codelineno-5-6"> 6</a></span>
+<span class="normal"><a href="#__codelineno-5-7"> 7</a></span>
+<span class="normal"><a href="#__codelineno-5-8"> 8</a></span>
+<span class="normal"><a href="#__codelineno-5-9"> 9</a></span>
+<span class="normal"><a href="#__codelineno-5-10">10</a></span>
+<span class="normal"><a href="#__codelineno-5-11">11</a></span>
+<span class="normal"><a href="#__codelineno-5-12">12</a></span>
+<span class="normal"><a href="#__codelineno-5-13">13</a></span></pre></div></td><td class="code"><div><pre><span></span><code><a id="__codelineno-5-1" name="__codelineno-5-1"></a>[資料治理委員會]
+<a id="__codelineno-5-2" name="__codelineno-5-2"></a>    ├── 資料品質小組
+<a id="__codelineno-5-3" name="__codelineno-5-3"></a>    │   ├── 日常監控
+<a id="__codelineno-5-4" name="__codelineno-5-4"></a>    │   ├── 異常處理
+<a id="__codelineno-5-5" name="__codelineno-5-5"></a>    │   └── 品質報告
+<a id="__codelineno-5-6" name="__codelineno-5-6"></a>    ├── 資料架構小組
+<a id="__codelineno-5-7" name="__codelineno-5-7"></a>    │   ├── 架構優化
+<a id="__codelineno-5-8" name="__codelineno-5-8"></a>    │   ├── 新源評估
+<a id="__codelineno-5-9" name="__codelineno-5-9"></a>    │   └── 技術升級
+<a id="__codelineno-5-10" name="__codelineno-5-10"></a>    └── 業務應用小組
+<a id="__codelineno-5-11" name="__codelineno-5-11"></a>        ├── 需求收集
+<a id="__codelineno-5-12" name="__codelineno-5-12"></a>        ├── 效果評估
+<a id="__codelineno-5-13" name="__codelineno-5-13"></a>        └── 流程改善
+</code></pre></div></td></tr></table></div>
+<h2 id="_18">技術實作要點<a class="headerlink" href="#_18" title="Permanent link">&para;</a></h2>
+<h3 id="_19">資料管道設計原則（給想做自動化的人）<a class="headerlink" href="#_19" title="Permanent link">&para;</a></h3>
+<ol>
+<li><strong>即時性優先</strong>：關鍵資料（如三大法人）採用串流處理</li>
+<li><strong>容錯機制</strong>：每個資料源都有備援方案</li>
+<li><strong>版本控制</strong>：所有資料變更都有追蹤記錄</li>
+<li><strong>監控告警</strong>：異常狀況即時通知相關人員</li>
+</ol>
+<h3 id="_20">系統架構建議<a class="headerlink" href="#_20" title="Permanent link">&para;</a></h3>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-6-1"> 1</a></span>
+<span class="normal"><a href="#__codelineno-6-2"> 2</a></span>
+<span class="normal"><a href="#__codelineno-6-3"> 3</a></span>
+<span class="normal"><a href="#__codelineno-6-4"> 4</a></span>
+<span class="normal"><a href="#__codelineno-6-5"> 5</a></span>
+<span class="normal"><a href="#__codelineno-6-6"> 6</a></span>
+<span class="normal"><a href="#__codelineno-6-7"> 7</a></span>
+<span class="normal"><a href="#__codelineno-6-8"> 8</a></span>
+<span class="normal"><a href="#__codelineno-6-9"> 9</a></span>
+<span class="normal"><a href="#__codelineno-6-10">10</a></span>
+<span class="normal"><a href="#__codelineno-6-11">11</a></span>
+<span class="normal"><a href="#__codelineno-6-12">12</a></span>
+<span class="normal"><a href="#__codelineno-6-13">13</a></span>
+<span class="normal"><a href="#__codelineno-6-14">14</a></span>
+<span class="normal"><a href="#__codelineno-6-15">15</a></span>
+<span class="normal"><a href="#__codelineno-6-16">16</a></span>
+<span class="normal"><a href="#__codelineno-6-17">17</a></span>
+<span class="normal"><a href="#__codelineno-6-18">18</a></span>
+<span class="normal"><a href="#__codelineno-6-19">19</a></span></pre></div></td><td class="code"><div><pre><span></span><code><a id="__codelineno-6-1" name="__codelineno-6-1"></a>[資料收集層]
+<a id="__codelineno-6-2" name="__codelineno-6-2"></a>    ├── 排程爬蟲（Airflow）
+<a id="__codelineno-6-3" name="__codelineno-6-3"></a>    ├── API Gateway
+<a id="__codelineno-6-4" name="__codelineno-6-4"></a>    └── 檔案監控
+<a id="__codelineno-6-5" name="__codelineno-6-5"></a>           ↓
+<a id="__codelineno-6-6" name="__codelineno-6-6"></a>[資料處理層]
+<a id="__codelineno-6-7" name="__codelineno-6-7"></a>    ├── ETL Pipeline（Spark）
+<a id="__codelineno-6-8" name="__codelineno-6-8"></a>    ├── 串流處理（Kafka）
+<a id="__codelineno-6-9" name="__codelineno-6-9"></a>    └── 快取層（Redis）
+<a id="__codelineno-6-10" name="__codelineno-6-10"></a>           ↓
+<a id="__codelineno-6-11" name="__codelineno-6-11"></a>[資料儲存層]
+<a id="__codelineno-6-12" name="__codelineno-6-12"></a>    ├── 時序資料庫（InfluxDB）
+<a id="__codelineno-6-13" name="__codelineno-6-13"></a>    ├── 關聯式資料庫（PostgreSQL）
+<a id="__codelineno-6-14" name="__codelineno-6-14"></a>    └── 文件資料庫（MongoDB）
+<a id="__codelineno-6-15" name="__codelineno-6-15"></a>           ↓
+<a id="__codelineno-6-16" name="__codelineno-6-16"></a>[應用服務層]
+<a id="__codelineno-6-17" name="__codelineno-6-17"></a>    ├── REST API
+<a id="__codelineno-6-18" name="__codelineno-6-18"></a>    ├── GraphQL
+<a id="__codelineno-6-19" name="__codelineno-6-19"></a>    └── WebSocket
+</code></pre></div></td></tr></table></div>
+<h2 id="_21">關鍵成功因素<a class="headerlink" href="#_21" title="Permanent link">&para;</a></h2>
+<h3 id="_22">資料流設計重點<a class="headerlink" href="#_22" title="Permanent link">&para;</a></h3>
+<ol>
+<li><strong>層級獨立性</strong>：每層可獨立運作，降低耦合度</li>
+<li><strong>雙向驗證</strong>：上層預測由下層驗證，下層異常觸發上層調整</li>
+<li><strong>時間同步</strong>：確保跨層級資料的時間一致性</li>
+<li><strong>權重動態</strong>：根據市場狀況調整各層級權重</li>
+</ol>
+<h3 id="_23">實施建議<a class="headerlink" href="#_23" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>階段</th>
+<th>重點工作</th>
+<th>預期成果</th>
+<th>時程建議</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Phase 1</strong></td>
+<td>建立L1-L3基礎資料流</td>
+<td>自動化財務分析</td>
+<td>3個月</td>
+</tr>
+<tr>
+<td><strong>Phase 2</strong></td>
+<td>整合L4-L5情境資料</td>
+<td>市場情緒監控</td>
+<td>2個月</td>
+</tr>
+<tr>
+<td><strong>Phase 3</strong></td>
+<td>實作L6-L7決策系統</td>
+<td>智能投資建議</td>
+<td>4個月</td>
+</tr>
+<tr>
+<td><strong>Phase 4</strong></td>
+<td>優化與擴展</td>
+<td>持續改善</td>
+<td>持續進行</td>
+</tr>
+</tbody>
+</table>
+<h2 id="_24">總結<a class="headerlink" href="#_24" title="Permanent link">&para;</a></h2>
+<p>透過完整的7層資料流架構設計，我們可以：</p>
+<ol>
+<li><strong>系統化處理</strong>：將複雜的投資決策分解為可管理的資料流程</li>
+<li><strong>即時反應</strong>：快速捕捉市場變化並做出相應調整</li>
+<li><strong>持續優化</strong>：透過回饋機制不斷提升預測準確度</li>
+<li><strong>風險控管</strong>：多層級驗證降低單一指標誤判風險</li>
+</ol>
+<p>本架構不僅適用於個別投資人，也可擴展為機構等級的投資決策系統。</p>
+<h2 id="_25">相關文章<a class="headerlink" href="#_25" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../06/%E8%82%A1%E7%A5%A8%E8%B3%87%E8%A8%8A%E5%88%86%E6%9E%90%E5%A0%86%E7%96%8A%E6%9E%B6%E6%A7%8B7-level-stock-information-stack/">股票資訊分析堆疊架構（7-Level Stock Information Stack）</a></li>
+<li>訊號產生機制詳解（即將發布）</li>
+<li>模型實作與回測框架（即將發布）</li>
+</ul>
+
+
+
+
+
+
+
+  
+    
+  
+  
+    
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="最後更新">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="January 24, 2026 19:07:52 CST"><span class="timeago" datetime="2026-01-24T19:07:52+08:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="January 24, 2026 19:07:52 CST">2026-01-24</span>
+  </span>
+
+    
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="建立日期">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="August 4, 2025 12:15:05 CST"><span class="timeago" datetime="2025-08-04T12:15:05+08:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="August 4, 2025 12:15:05 CST">2025-08-04</span>
+  </span>
+
+    
+    
+    
+      
+  <span class="md-source-file__fact">
+    
+      
+  <span class="md-icon" title="貢獻者">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2Z"/></svg>
+  </span>
+  <span>GitHub</span>
+
+    
+    <nav>
+      
+        <a href="https://github.com/wenchiehlee" class="md-author" title="@wenchiehlee">
+          
+          <img src="https://avatars.githubusercontent.com/u/11254719?v=4&size=72" alt="wenchiehlee">
+        </a>
+      
+      
+      
+    </nav>
+  </span>
+
+    
+  </aside>
+
+
+  
+
+
+  
+
+
+  <form class="md-feedback" name="feedback" hidden>
+    <fieldset>
+      <legend class="md-feedback__title">
+        此頁面有幫助嗎？
+      </legend>
+      <div class="md-feedback__inner">
+        <div class="md-feedback__list">
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page was helpful" data-md-value="1">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 9v12H1V9h4m4 12a2 2 0 0 1-2-2V9c0-.55.22-1.05.59-1.41L14.17 1l1.06 1.06c.27.27.44.64.44 1.05l-.03.32L14.69 8H21a2 2 0 0 1 2 2v2c0 .26-.05.5-.14.73l-3.02 7.05C19.54 20.5 18.83 21 18 21H9m0-2h9.03L21 12v-2h-8.79l1.13-5.32L9 9.03V19Z"/></svg>
+            </button>
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page could be improved" data-md-value="0">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 15V3h4v12h-4M15 3a2 2 0 0 1 2 2v10c0 .55-.22 1.05-.59 1.41L9.83 23l-1.06-1.06c-.27-.27-.44-.64-.44-1.06l.03-.31.95-4.57H3a2 2 0 0 1-2-2v-2c0-.26.05-.5.14-.73l3.02-7.05C4.46 3.5 5.17 3 6 3h9m0 2H5.97L3 12v2h8.78l-1.13 5.32L15 14.97V5Z"/></svg>
+            </button>
+          
+        </div>
+        <div class="md-feedback__note">
+          
+            <div data-md-value="1" hidden>
+              
+              
+                
+              
+              謝謝你的反饋！
+            </div>
+          
+            <div data-md-value="0" hidden>
+              
+              
+                
+              
+              Thanks for your feedback! Help us improve this page by using our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
+            </div>
+          
+        </div>
+      </div>
+    </fieldset>
+  </form>
+
+
+
+
+
+
+  <h2 id="__comments">留言</h2>
+  <div id="disqus_thread"></div>
+  <p id="disqus_error" class="md-typeset" style="display:none">
+    無法載入留言系統，請確認瀏覽器允許連線至 Disqus（disqus.com、disquscdn.com），或暫時停用封鎖追蹤/廣告的外掛後重新整理。
+  </p>
+  <script>
+    var disqus_config = function () {
+      // Disqus expects a page object; guard to avoid undefined errors on load
+      this.page = this.page || {};
+      this.page.url = "https://wenchiehlee.github.io/mkdocs-investment/blog/2025/07/%E5%8F%B0%E8%82%A1%E8%B3%87%E6%96%99%E6%B5%81%E5%90%91%E8%88%877%E5%B1%A4%E5%88%86%E6%9E%90%E6%9E%B6%E6%A7%8B%E6%95%B4%E5%90%88/";
+      this.page.identifier = "blog/2025/07/%E5%8F%B0%E8%82%A1%E8%B3%87%E6%96%99%E6%B5%81%E5%90%91%E8%88%877%E5%B1%A4%E5%88%86%E6%9E%90%E6%9E%B6%E6%A7%8B%E6%95%B4%E5%90%88/";
+    };
+
+    (function() {
+      var shortname = "wen-chieh-leede-tou-zi-dui-die";
+      var d = document;
+      var errorShown = false;
+      var showError = function() {
+        if (errorShown) return;
+        errorShown = true;
+        var msg = d.getElementById("disqus_error");
+        if (msg) msg.style.display = "block";
+      };
+
+      if (window.DISQUS) {
+        window.DISQUS.reset({
+          reload: true,
+          config: disqus_config
+        });
+        return;
+      }
+
+      var s = d.createElement("script");
+      s.src = "https://" + shortname + ".disqus.com/embed.js";
+      s.async = true;
+      s.onerror = showError;
+      s.setAttribute("data-timestamp", +new Date());
+      (d.head || d.body).appendChild(s);
+
+      setTimeout(function() {
+        if (!window.DISQUS) showError();
+      }, 5000);
+    })();
+  </script>
+
+      
+    </article>
+  </div>
+
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  回到頂端
+</button>
+        
+      </main>
+      
+        <!-- Footer -->
+<footer class="md-footer">
+
+  <!-- Link to previous and/or next page -->
+  
+    
+      
+        
+      
+      <nav
+        class="md-footer__inner md-grid"
+        aria-label="頁腳"
+        
+      >
+
+        <!-- Link to previous page -->
+        
+          
+          <a
+            href="../../06/%E8%82%A1%E7%A5%A8%E8%B3%87%E8%A8%8A%E5%88%86%E6%9E%90%E5%A0%86%E7%96%8A%E6%9E%B6%E6%A7%8B7-level-stock-information-stack/"
+            class="md-footer__link md-footer__link--prev"
+            aria-label="上一頁: 股票資訊分析堆疊架構（7-Level Stock Information Stack）"
+          >
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256l137.3-137.4c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                上一頁
+              </span>
+              <div class="md-ellipsis">
+                股票資訊分析堆疊架構（7-Level Stock Information Stack）
+              </div>
+            </div>
+            
+          </a>
+        
+
+        <!-- Link to next page -->
+        
+      </nav>
+    
+  
+
+  <!-- Further information -->
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2016 - 2024 Wen-Chieh Lee
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+   
+    <font color="#B9B9B9">
+      <div class="footer-visit-count" style="display: flex; justify-content: center; align-items: center;">
+    本站訪問量：<script async src="//finicounter.eu.org/finicounter.js"></script>
+    <span id="finicount_views"></span>
+  </div>
+      </font>
+
+      <style>
+        .footer-visit-count {
+            height: fit-content;
+            min-height: 55px; /* 根據實際情況調整此高度 */
+        }
+        </style>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/wenchiehlee" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/in/wen-chieh-lee-8a242b50/" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://scholar.google.com/citations?user=YdrASjsAAAAJ" target="_blank" rel="noopener" title="scholar.google.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M390.9 298.5s0 .1.1.1c9.2 19.4 14.4 41.1 14.4 64C405.3 445.1 338.5 512 256 512s-149.3-66.9-149.3-149.3c0-22.9 5.2-44.6 14.4-64 1.7-3.6 3.6-7.2 5.6-10.7 4.4-7.6 9.4-14.7 15-21.3 27.4-32.6 68.5-53.3 114.4-53.3 33.6 0 64.6 11.1 89.6 29.9 9.1 6.9 17.4 14.7 24.8 23.5 5.6 6.6 10.6 13.8 15 21.3 2 3.4 3.8 7 5.5 10.5zm26.4-18.8c-30.1-58.4-91-98.4-161.3-98.4s-131.2 40-161.3 98.4L0 202.7 256 0l256 202.7-94.7 77.1z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.researchgate.net/profile/Wen-Chieh-Lee-4" target="_blank" rel="noopener" title="www.researchgate.net" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M0 32v448h448V32H0zm262.2 334.4c-6.6 3-33.2 6-50-14.2-9.2-10.6-25.3-33.3-42.2-63.6-8.9 0-14.7 0-21.4-.6v46.4c0 23.5 6 21.2 25.8 23.9v8.1c-6.9-.3-23.1-.8-35.6-.8-13.1 0-26.1.6-33.6.8v-8.1c15.5-2.9 22-1.3 22-23.9V225c0-22.6-6.4-21-22-23.9V193c25.8 1 53.1-.6 70.9-.6 31.7 0 55.9 14.4 55.9 45.6 0 21.1-16.7 42.2-39.2 47.5 13.6 24.2 30 45.6 42.2 58.9 7.2 7.8 17.2 14.7 27.2 14.7v7.3zm22.9-135c-23.3 0-32.2-15.7-32.2-32.2V167c0-12.2 8.8-30.4 34-30.4s30.4 17.9 30.4 17.9l-10.7 7.2s-5.5-12.5-19.7-12.5c-7.9 0-19.7 7.3-19.7 19.7v26.8c0 13.4 6.6 23.3 17.9 23.3 14.1 0 21.5-10.9 21.5-26.8h-17.9v-10.7h30.4c0 20.5 4.7 49.9-34 49.9zm-116.5 44.7c-9.4 0-13.6-.3-20-.8v-69.7c6.4-.6 15-.6 22.5-.6 23.3 0 37.2 12.2 37.2 34.5 0 21.9-15 36.6-39.7 36.6z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="mailto:<wenchiehlee1020@gmail.com>" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M64 112c-8.8 0-16 7.2-16 16v22.1l172.5 141.6c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16h384c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128c0-35.3 28.7-64 64-64h384c35.3 0 64 28.7 64 64v256c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../../..", "features": ["announce.dismiss", "content.action.edit", "content.action.view", "content.code.annotate", "content.code.copy", "content.tabs.link", "content.tooltips", "navigation.indexes", "navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.prune", "navigation.sections", "navigation.top", "navigation.footer", "navigation.expand", "navigation.indexes", "search.suggest", "search.highlight", "search.share", {"tabs": true}, "toc.follow"], "search": "../../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "\u5df2\u8907\u88fd", "clipboard.copy": "\u8907\u88fd", "search.result.more.one": "\u6b64\u9801\u5c1a\u6709 1 \u500b\u7b26\u5408\u7684\u9805\u76ee", "search.result.more.other": "\u6b64\u9801\u5c1a\u6709 # \u500b\u7b26\u5408\u7684\u9805\u76ee", "search.result.none": "\u6c92\u6709\u7b26\u5408\u7684\u9805\u76ee", "search.result.one": "\u627e\u5230 1 \u500b\u7b26\u5408\u7684\u9805\u76ee", "search.result.other": "\u627e\u5230 # \u500b\u7b26\u5408\u7684\u9805\u76ee", "search.result.placeholder": "\u6253\u5b57\u9032\u884c\u641c\u5c0b", "search.result.term.missing": "\u7f3a\u5c11\u5b57\u8a5e", "select.version": "\u9078\u64c7\u7248\u672c"}}</script>
+    
+    
+      <script src="../../../../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+        <script src="../../../../js/mkdocs-charts-plugin.js"></script>
+      
+        <script src="../../../../js/timeago.min.js"></script>
+      
+        <script src="../../../../js/timeago_mkdocs_material.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/Wcowin/Wcowin.github.io@main/docs/javascripts/extra.js"></script>
+      
+        <script src="../../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+      
+        <script src="../../../../javascripts/charts.js"></script>
+      
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+      
+        <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+      
+        <script src="../../../../javascripts/tables.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mermaid@10.0.2/dist/add-html-label-6e56ed67.min.js"></script>
+      
+    
+  </body>
+</html>
