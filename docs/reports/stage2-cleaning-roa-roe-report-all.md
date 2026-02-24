@@ -24,8 +24,8 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 # :chart: ROA/ROE 總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-02-24 17:21:03 CST  
-    **:building_construction: 分析股票總數**: 4 檔  
+    **:calendar: 產生時間**: 2026-02-24 21:56:53 CST  
+    **:building_construction: 分析股票總數**: 5 檔  
     **:chart_with_upwards_trend: 報告類型**: 各股盈利能力分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_performance1.csv
 
@@ -43,7 +43,7 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 
 - :page_with_curl: **總處理股票**
     ---
-    **4** 檔
+    **5** 檔
 
 </div>
 
@@ -55,6 +55,7 @@ description: ROA/ROE 總覽 - 所有股票 - 自動產生
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [**3035**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3035/) | 智原 | 半導體業 | 1.66% | 1.17% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-3035/) |
 | [**6510**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6510/) | 精測 | 半導體業 | 3.28% | 2.92% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-6510/) |
+| [**5904**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-5904/) | 寶雅 | 居家生活 | 12.50% | 3.14% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-5904/) |
 | [**7765**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-7765/) | 中華資安 | 數位雲端 | 5.96% | 4.38% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-7765/) |
 | [**2450**](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2450/) | 神腦 | 通信網路業 | 2.69% | 1.59% | [報告](../stage2-cleaning-roa-roe-report/stage2-cleaning-roa-roe-report-2450/) |
 
