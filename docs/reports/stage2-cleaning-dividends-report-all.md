@@ -24,7 +24,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 106 檔) - 自動
 # :bar_chart: 股利分配總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-02-26 12:45:59 CST  
+    **:calendar: 產生時間**: 2026-02-26 17:22:47 CST  
     **:building_construction: 分析股票總數**: 126 檔 (有效 106 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_dividends.csv + cleaned_performance1.csv
@@ -109,7 +109,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 106 檔) - 自動
 <td>聯電</td>
 <td>2.85</td>
 <td>🔽 2.17</td>
-<td>🔽 2.04</td>
+<td>🔽 2.13</td>
 <td>🔽 2.17</td>
 <td>5.79%</td>
 <td>02/25 11:36</td>
@@ -123,7 +123,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 106 檔) - 自動
 <td>台達電</td>
 <td>7.00</td>
 <td>🔼 12.25</td>
-<td>🔼 11.12</td>
+<td>🔼 13.39</td>
 <td>🔼 12.25</td>
 <td>0.73%</td>
 <td>02/25 11:13</td>
@@ -654,8 +654,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 106 檔) - 自動
 <td>[**3029**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3029/)</td>
 <td>零壹</td>
 <td>5.00</td>
-<td>🔼 5.45</td>
-<td>🔼 5.59</td>
+<td>🔼 5.65</td>
+<td>🔼 5.76</td>
 <td>-</td>
 <td>4.42%</td>
 <td>02/25 11:48</td>
@@ -1200,8 +1200,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 106 檔) - 自動
 <td>[**6561**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6561/)</td>
 <td>是方</td>
 <td>19.10</td>
-<td>🔽 14.96</td>
-<td>🔽 15.62</td>
+<td>🔽 15.49</td>
+<td>🔽 15.57</td>
 <td>🔽 9.70</td>
 <td>5.09%</td>
 <td>02/25 11:32</td>
@@ -1256,8 +1256,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 106 檔) - 自動
 <td>[**6690**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6690/)</td>
 <td>安碁資訊</td>
 <td>6.00</td>
-<td>🔽 5.61</td>
-<td>🔼 6.08</td>
+<td>🔼 6.45</td>
+<td>🔼 6.23</td>
 <td>-</td>
 <td>3.45%</td>
 <td>02/25 11:49</td>
@@ -1587,7 +1587,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 106 檔) - 自動
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-02-26 12:45:59
+    - **報告產生時間**: 2026-02-26 17:22:47
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
