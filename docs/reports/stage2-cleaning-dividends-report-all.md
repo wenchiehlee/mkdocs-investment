@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-27
+date: 2026-02-28
 categories:
   - 股票
   - 股利分配
@@ -24,7 +24,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 110 檔) - 自動
 # :bar_chart: 股利分配總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-02-27 21:49:21 CST  
+    **:calendar: 產生時間**: 2026-02-28 07:02:19 CST  
     **:building_construction: 分析股票總數**: 126 檔 (有效 110 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_dividends.csv + cleaned_performance1.csv
@@ -166,7 +166,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 110 檔) - 自動
 <td>12.00</td>
 <td>🔼 22.26</td>
 <td>🔼 23.40</td>
-<td>🔼 27.50</td>
+<td>🔼 27.83</td>
 <td>1.20%</td>
 <td>02/27 11:11</td>
 <td>1.55%</td>
@@ -1244,7 +1244,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 110 檔) - 自動
 <td>145.00</td>
 <td>🔽 141.22</td>
 <td>🔼 146.83</td>
-<td>🔽 142.72</td>
+<td>🔽 141.95</td>
 <td>3.62%</td>
 <td>02/27 11:28</td>
 <td>4.12%</td>
@@ -1643,7 +1643,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 110 檔) - 自動
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-02-27 21:49:21
+    - **報告產生時間**: 2026-02-28 07:02:19
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
