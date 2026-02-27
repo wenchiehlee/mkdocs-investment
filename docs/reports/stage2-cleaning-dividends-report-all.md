@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-26
+date: 2026-02-27
 categories:
   - 股票
   - 股利分配
@@ -24,7 +24,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 108 檔) - 自動
 # :bar_chart: 股利分配總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-02-26 22:00:12 CST  
+    **:calendar: 產生時間**: 2026-02-27 12:41:09 CST  
     **:building_construction: 分析股票總數**: 126 檔 (有效 108 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_dividends.csv + cleaned_performance1.csv
@@ -166,7 +166,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 108 檔) - 自動
 <td>12.00</td>
 <td>🔼 22.26</td>
 <td>🔼 23.40</td>
-<td>🔼 27.83</td>
+<td>🔼 27.50</td>
 <td>1.20%</td>
 <td>02/26 10:47</td>
 <td>1.55%</td>
@@ -346,9 +346,9 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 108 檔) - 自動
 <td>[**2382**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2382/)</td>
 <td>廣達</td>
 <td>13.00</td>
-<td>🔼 14.77</td>
+<td>🔼 14.74</td>
 <td>🔼 14.46</td>
-<td>🔼 14.77</td>
+<td>🔼 14.74</td>
 <td>4.78%</td>
 <td>02/26 10:50</td>
 <td>7.47%</td>
@@ -1244,7 +1244,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 108 檔) - 自動
 <td>74.00</td>
 <td>🔼 136.80</td>
 <td>🔼 142.23</td>
-<td>🔼 139.32</td>
+<td>🔼 138.25</td>
 <td>1.65%</td>
 <td>02/26 11:04</td>
 <td>5.05%</td>
@@ -1615,7 +1615,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 108 檔) - 自動
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-02-26 22:00:12
+    - **報告產生時間**: 2026-02-27 12:41:09
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
