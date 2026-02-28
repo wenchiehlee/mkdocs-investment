@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-28
+date: 2026-03-01
 categories:
   - 股票
   - ROE/ROA
@@ -37,4 +37,4 @@ description: ROA/ROE 報告 悠遊卡 (6035) - 資料不足
 
 ---
 *本報告由 Stock Analysis System 自動生成*
-*產生時間：2026-02-28 21:17:22 CST*
+*產生時間：2026-03-01 03:04:47 CST*
