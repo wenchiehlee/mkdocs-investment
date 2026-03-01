@@ -25,7 +25,7 @@ description: 月營收表 鴻準 (2354) - 自動產生
     **:building_construction: 公司名稱**: 鴻準  
     **:identification_card: 股票代號**: 2354  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 鴻準 (2354) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **3.43** | **6.16** | **8.35** |
-| **P/E倍數** | **12.16** | **17.01** | **25.92** |
+| **EPS(元)** | **3.41** | **6.13** | **8.33** |
+| **P/E倍數** | **12.15** | **17.05** | **25.93** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 鴻準 歷史平均獲利能力 (σup=2.19, σlo=2.73)
-    - **P/Ebase**: 鴻準 歷史平均估值水準 (σup=8.91, σlo=4.85)
+    - **EPSbase**: 鴻準 歷史平均獲利能力 (σup=2.20, σlo=2.72)
+    - **P/Ebase**: 鴻準 歷史平均估值水準 (σup=8.88, σlo=4.90)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -180,7 +180,7 @@ description: 月營收表 鴻準 (2354) - 自動產生
 | **2017/11** | **201.8** | <span style="color: #FF7F7F; font-weight: bold;">+141</span> | <span style="color: #FF7F7F; font-weight: bold;">+72.1</span> | **83.4** | <span style="color: #8B0000; font-weight: bold;">7.09</span> | <span style="color: #006400; font-weight: bold;">11.75</span> |
 | **2017/10** | **212.5** | <span style="color: #FF7F7F; font-weight: bold;">+176.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+63.4</span> | **96.1** | <span style="color: #8B0000; font-weight: bold;">7.14</span> | <span style="color: #004225; font-weight: bold;">13.46</span> |
 | **2017/09** | **207.7** | <span style="color: #FF7F7F; font-weight: bold;">+165.2</span> | <span style="color: #FF6347; font-weight: bold;">+48.7</span> | **88.5** | <span style="color: #8B0000; font-weight: bold;">7.18</span> | <span style="color: #004225; font-weight: bold;">12.32</span> |
-| **2017/08** | **149.1** | <span style="color: #FF7F7F; font-weight: bold;">+94.2</span> | <span style="color: #FF4500; font-weight: bold;">+31</span> | **95.8** | <span style="color: #8B0000; font-weight: bold;">7.23</span> | <span style="color: #004225; font-weight: bold;">13.25</span> |
+| **2017/08** | **149.1** | <span style="color: #FF7F7F; font-weight: bold;">+94.2</span> | <span style="color: #FF4500; font-weight: bold;">+31</span> | **95.8** | <span style="color: #B22222; font-weight: bold;">7.23</span> | <span style="color: #004225; font-weight: bold;">13.25</span> |
 | **2017/07** | **114.1** | <span style="color: #FF7F7F; font-weight: bold;">+66.3</span> | <span style="color: #B22222; font-weight: bold;">+19.9</span> | **90.8** | <span style="color: #B22222; font-weight: bold;">7.28</span> | <span style="color: #004225; font-weight: bold;">12.48</span> |
 | **2017/06** | **101.4** | <span style="color: #FF7F7F; font-weight: bold;">+67</span> | <span style="color: #B22222; font-weight: bold;">+11.2</span> | **91.8** | <span style="color: #B22222; font-weight: bold;">7.32</span> | <span style="color: #004225; font-weight: bold;">12.54</span> |
 | **2017/05** | **64** | <span style="color: #002818; font-weight: bold;">-1.23</span> | <span style="color: #8B0000; font-weight: bold;">+0.19</span> | **85.2** | <span style="color: #B22222; font-weight: bold;">7.36</span> | <span style="color: #006400; font-weight: bold;">11.57</span> |
@@ -283,14 +283,14 @@ description: 月營收表 鴻準 (2354) - 自動產生
 | **2009/04** | **123.1** | <span style="color: #8B0000; font-weight: bold;">+8.57</span> | <span style="color: #B22222; font-weight: bold;">+11.6</span> | **91** | <span style="color: #8B0000; font-weight: bold;">7.03</span> | <span style="color: #004225; font-weight: bold;">12.95</span> |
 | **2009/03** | **124.2** | <span style="color: #002818; font-weight: bold;">-6.58</span> | <span style="color: #B22222; font-weight: bold;">+12.6</span> | **89.9** | <span style="color: #8B0000; font-weight: bold;">7.1</span> | <span style="color: #004225; font-weight: bold;">12.66</span> |
 | **2009/02** | **125.1** | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | <span style="color: #DC143C; font-weight: bold;">+24.1</span> | **81** | <span style="color: #8B0000; font-weight: bold;">7.17</span> | <span style="color: #006400; font-weight: bold;">11.29</span> |
-| **2009/01** | **149** | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | **68.1** | <span style="color: #8B0000; font-weight: bold;">7.25</span> | <span style="color: #228B22; font-weight: bold;">9.4</span> |
+| **2009/01** | **149** | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | **68.1** | <span style="color: #B22222; font-weight: bold;">7.25</span> | <span style="color: #228B22; font-weight: bold;">9.4</span> |
 | **2008/12** | **159.2** | <span style="color: #DC143C; font-weight: bold;">+23.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **77.2** | <span style="color: #B22222; font-weight: bold;">7.32</span> | <span style="color: #006400; font-weight: bold;">10.55</span> |
 | **2008/11** | **195.5** | <span style="color: #FF7F7F; font-weight: bold;">+53.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | **68.9** | <span style="color: #B22222; font-weight: bold;">7.7</span> | <span style="color: #228B22; font-weight: bold;">8.94</span> |
 | **2008/10** | **167.2** | <span style="color: #DC143C; font-weight: bold;">+25.9</span> | <span style="color: #B22222; font-weight: bold;">+18.6</span> | **81.5** | <span style="color: #B22222; font-weight: bold;">8.09</span> | <span style="color: #006400; font-weight: bold;">10.08</span> |
 | **2008/09** | **147.8** | <span style="color: #8B0000; font-weight: bold;">+0.39</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **101.5** | <span style="color: #DC143C; font-weight: bold;">8.47</span> | <span style="color: #006400; font-weight: bold;">11.98</span> |
 | **2008/08** | **141.3** | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | <span style="color: #DC143C; font-weight: bold;">+20.7</span> | **157.5** | <span style="color: #DC143C; font-weight: bold;">8.85</span> | <span style="color: #8B0000; font-weight: bold;">17.79</span> |
 | **2008/07** | **120.4** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | **141.5** | <span style="color: #DC143C; font-weight: bold;">9.24</span> | <span style="color: #002818; font-weight: bold;">15.32</span> |
-| **2008/06** | **123.7** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | **140.5** | <span style="color: #FF4500; font-weight: bold;">9.62</span> | <span style="color: #002818; font-weight: bold;">14.6</span> |
+| **2008/06** | **123.7** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | **140.5** | <span style="color: #FF4500; font-weight: bold;">9.62</span> | <span style="color: #004225; font-weight: bold;">14.6</span> |
 | **2008/05** | **111.1** | <span style="color: #8B0000; font-weight: bold;">+8.68</span> | <span style="color: #DC143C; font-weight: bold;">+23.7</span> | **176.5** | <span style="color: #FF4500; font-weight: bold;">10.0</span> | <span style="color: #8B0000; font-weight: bold;">17.64</span> |
 | **2008/04** | **113.4** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #DC143C; font-weight: bold;">+27.9</span> | **196.5** | <span style="color: #FF4500; font-weight: bold;">10.39</span> | <span style="color: #8B0000; font-weight: bold;">18.92</span> |
 | **2008/03** | **132.9** | <span style="color: #FF6347; font-weight: bold;">+44.2</span> | <span style="color: #FF4500; font-weight: bold;">+32.3</span> | **180** | <span style="color: #FF6347; font-weight: bold;">10.77</span> | <span style="color: #002818; font-weight: bold;">16.71</span> |
@@ -318,7 +318,7 @@ description: 月營收表 鴻準 (2354) - 自動產生
 | **2006/05** | **62.08** | <span style="color: #FF7F7F; font-weight: bold;">+104</span> | <span style="color: #8B0000; font-weight: bold;">+2.45</span> | **255** | <span style="color: #FF4500; font-weight: bold;">9.71</span> | <span style="color: #DC143C; font-weight: bold;">26.26</span> |
 | **2006/04** | **48.37** | <span style="color: #FF7F7F; font-weight: bold;">+73.4</span> | <span style="color: #004225; font-weight: bold;">-15.1</span> | **239.5** | <span style="color: #FF4500; font-weight: bold;">9.71</span> | <span style="color: #B22222; font-weight: bold;">24.67</span> |
 | **2006/03** | **44.46** | <span style="color: #B22222; font-weight: bold;">+19</span> | <span style="color: #228B22; font-weight: bold;">-31.9</span> | **206.5** | <span style="color: #FF4500; font-weight: bold;">9.71</span> | <span style="color: #8B0000; font-weight: bold;">21.27</span> |
-| **2006/02** | **25.64** | <span style="color: #90EE90; font-weight: bold;">-51.2</span> | <span style="color: #32CD32; font-weight: bold;">-49.1</span> | **158.5** | <span style="color: #FF4500; font-weight: bold;">9.71</span> | <span style="color: #002818; font-weight: bold;">16.32</span> |
+| **2006/02** | **25.64** | <span style="color: #90EE90; font-weight: bold;">-51.2</span> | <span style="color: #32CD32; font-weight: bold;">-49.1</span> | **158.5** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 鴻準 (2354) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

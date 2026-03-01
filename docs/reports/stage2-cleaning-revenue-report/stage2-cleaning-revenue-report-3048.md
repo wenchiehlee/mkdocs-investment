@@ -25,7 +25,7 @@ description: 月營收表 益登 (3048) - 自動產生
     **:building_construction: 公司名稱**: 益登  
     **:identification_card: 股票代號**: 3048  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 益登 (3048) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **0.33** | **1.44** | **2.76** |
-| **P/E倍數** | **11.23** | **21.15** | **342.20** |
+| **P/E倍數** | **11.22** | **21.22** | **332.67** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 益登 歷史平均獲利能力 (σup=1.33, σlo=1.11)
-    - **P/Ebase**: 益登 歷史平均估值水準 (σup=321.05, σlo=9.91)
+    - **P/Ebase**: 益登 歷史平均估值水準 (σup=311.45, σlo=10.00)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -318,7 +318,7 @@ description: 月營收表 益登 (3048) - 自動產生
 | **2006/05** | **-** | N/A | N/A | **18.5** | <span style="color: #002818; font-weight: bold;">1.02</span> | <span style="color: #002818; font-weight: bold;">18.14</span> |
 | **2006/04** | **-** | N/A | N/A | **20.8** | <span style="color: #002818; font-weight: bold;">1.02</span> | <span style="color: #002818; font-weight: bold;">20.39</span> |
 | **2006/03** | **-** | N/A | N/A | **19.45** | <span style="color: #002818; font-weight: bold;">1.02</span> | <span style="color: #002818; font-weight: bold;">19.07</span> |
-| **2006/02** | **-** | N/A | N/A | **18.4** | <span style="color: #002818; font-weight: bold;">1.02</span> | <span style="color: #002818; font-weight: bold;">18.04</span> |
+| **2006/02** | **-** | N/A | N/A | **18.4** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 益登 (3048) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

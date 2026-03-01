@@ -25,7 +25,7 @@ description: 月營收表 長榮 (2603) - 自動產生
     **:building_construction: 公司名稱**: 長榮  
     **:identification_card: 股票代號**: 2603  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 長榮 (2603) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.39** | **12.46** | **53.16** |
-| **P/E倍數** | **9.44** | **81.48** | **536.70** |
+| **EPS(元)** | **0.39** | **12.63** | **53.02** |
+| **P/E倍數** | **9.39** | **80.62** | **542.46** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 長榮 歷史平均獲利能力 (σup=40.71, σlo=12.07)
-    - **P/Ebase**: 長榮 歷史平均估值水準 (σup=455.22, σlo=72.04)
+    - **EPSbase**: 長榮 歷史平均獲利能力 (σup=40.39, σlo=12.24)
+    - **P/Ebase**: 長榮 歷史平均估值水準 (σup=461.84, σlo=71.23)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -120,7 +120,7 @@ description: 月營收表 長榮 (2603) - 自動產生
 | **2022/11** | **360.9** | <span style="color: #006400; font-weight: bold;">-29.3</span> | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | **163** | <span style="color: #FF4500; font-weight: bold;">83.61</span> | <span style="color: #006400; font-weight: bold;">1.95</span> |
 | **2022/10** | **456.5** | <span style="color: #004225; font-weight: bold;">-13.4</span> | <span style="color: #FF6347; font-weight: bold;">+45.5</span> | **137.5** | <span style="color: #FF4500; font-weight: bold;">80.15</span> | <span style="color: #006400; font-weight: bold;">1.72</span> |
 | **2022/09** | **501.9** | <span style="color: #8B0000; font-weight: bold;">+5.49</span> | <span style="color: #FF7F7F; font-weight: bold;">+54.8</span> | **146** | <span style="color: #FF4500; font-weight: bold;">76.69</span> | <span style="color: #006400; font-weight: bold;">1.9</span> |
-| **2022/08** | **574.4** | <span style="color: #B22222; font-weight: bold;">+14.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+63.1</span> | **88.3** | <span style="color: #DC143C; font-weight: bold;">73.24</span> | <span style="color: #006400; font-weight: bold;">1.21</span> |
+| **2022/08** | **574.4** | <span style="color: #B22222; font-weight: bold;">+14.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+63.1</span> | **88.3** | <span style="color: #FF4500; font-weight: bold;">73.24</span> | <span style="color: #006400; font-weight: bold;">1.21</span> |
 | **2022/07** | **628** | <span style="color: #FF4500; font-weight: bold;">+36.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+73.3</span> | **95.5** | <span style="color: #DC143C; font-weight: bold;">69.78</span> | <span style="color: #006400; font-weight: bold;">1.37</span> |
 | **2022/06** | **603.3** | <span style="color: #FF7F7F; font-weight: bold;">+59.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+82.1</span> | **84.6** | <span style="color: #DC143C; font-weight: bold;">66.32</span> | <span style="color: #006400; font-weight: bold;">1.28</span> |
 | **2022/05** | **584.6** | <span style="color: #FF7F7F; font-weight: bold;">+69.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+87.6</span> | **140.5** | <span style="color: #DC143C; font-weight: bold;">62.86</span> | <span style="color: #006400; font-weight: bold;">2.24</span> |
@@ -166,7 +166,7 @@ description: 月營收表 長榮 (2603) - 自動產生
 | **2019/01** | **168.3** | <span style="color: #DC143C; font-weight: bold;">+29</span> | <span style="color: #DC143C; font-weight: bold;">+29</span> | **11.95** | <span style="color: #006400; font-weight: bold;">0.07</span> | <span style="color: #8B0000; font-weight: bold;">181.5</span> |
 | **2018/12** | **171.4** | <span style="color: #FF4500; font-weight: bold;">+38.6</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **11.9** | <span style="color: #006400; font-weight: bold;">0.07</span> | <span style="color: #8B0000; font-weight: bold;">170.0</span> |
 | **2018/11** | **163.6** | <span style="color: #DC143C; font-weight: bold;">+29.9</span> | <span style="color: #B22222; font-weight: bold;">+10.1</span> | **11.65** | <span style="color: #006400; font-weight: bold;">0.23</span> | <span style="color: #002818; font-weight: bold;">51.02</span> |
-| **2018/10** | **152.7** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #8B0000; font-weight: bold;">+8.11</span> | **11.4** | <span style="color: #004225; font-weight: bold;">0.39</span> | <span style="color: #004225; font-weight: bold;">29.48</span> |
+| **2018/10** | **152.7** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #8B0000; font-weight: bold;">+8.11</span> | **11.4** | <span style="color: #006400; font-weight: bold;">0.39</span> | <span style="color: #004225; font-weight: bold;">29.48</span> |
 | **2018/09** | **153.1** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #8B0000; font-weight: bold;">+6.49</span> | **12.8** | <span style="color: #004225; font-weight: bold;">0.55</span> | <span style="color: #004225; font-weight: bold;">23.49</span> |
 | **2018/08** | **149.6** | <span style="color: #8B0000; font-weight: bold;">+8.67</span> | <span style="color: #8B0000; font-weight: bold;">+5.5</span> | **13.05** | <span style="color: #004225; font-weight: bold;">0.7</span> | <span style="color: #004225; font-weight: bold;">18.55</span> |
 | **2018/07** | **144.8** | <span style="color: #8B0000; font-weight: bold;">+1.18</span> | <span style="color: #8B0000; font-weight: bold;">+4.99</span> | **13.85** | <span style="color: #004225; font-weight: bold;">0.86</span> | <span style="color: #004225; font-weight: bold;">16.07</span> |
@@ -181,7 +181,7 @@ description: 月營收表 長榮 (2603) - 自動產生
 | **2017/10** | **124.3** | <span style="color: #B22222; font-weight: bold;">+15.7</span> | <span style="color: #DC143C; font-weight: bold;">+24.2</span> | **18.05** | <span style="color: #004225; font-weight: bold;">1.33</span> | <span style="color: #004225; font-weight: bold;">13.59</span> |
 | **2017/09** | **134.5** | <span style="color: #B22222; font-weight: bold;">+19.9</span> | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | **18.25** | <span style="color: #004225; font-weight: bold;">1.01</span> | <span style="color: #004225; font-weight: bold;">18.11</span> |
 | **2017/08** | **137.6** | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | <span style="color: #DC143C; font-weight: bold;">+26</span> | **23** | <span style="color: #004225; font-weight: bold;">0.69</span> | <span style="color: #004225; font-weight: bold;">33.5</span> |
-| **2017/07** | **143.1** | <span style="color: #FF4500; font-weight: bold;">+35.4</span> | <span style="color: #DC143C; font-weight: bold;">+24.6</span> | **16.55** | <span style="color: #006400; font-weight: bold;">0.37</span> | <span style="color: #004225; font-weight: bold;">45.24</span> |
+| **2017/07** | **143.1** | <span style="color: #FF4500; font-weight: bold;">+35.4</span> | <span style="color: #DC143C; font-weight: bold;">+24.6</span> | **16.55** | <span style="color: #006400; font-weight: bold;">0.37</span> | <span style="color: #002818; font-weight: bold;">45.24</span> |
 | **2017/06** | **126.5** | <span style="color: #DC143C; font-weight: bold;">+24.2</span> | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | **15.45** | <span style="color: #006400; font-weight: bold;">0.04</span> | <span style="color: #B22222; font-weight: bold;">343.3</span> |
 | **2017/05** | **135.3** | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.3</span> | **15.1** | <span style="color: #006400; font-weight: bold;">-0.28</span> | N/A |
 | **2017/04** | **108.2** | <span style="color: #DC143C; font-weight: bold;">+28.4</span> | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | **13.3** | <span style="color: #006400; font-weight: bold;">-0.6</span> | N/A |
@@ -403,7 +403,7 @@ description: 月營收表 長榮 (2603) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

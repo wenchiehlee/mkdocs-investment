@@ -25,7 +25,7 @@ description: 月營收表 智聯服務 (6751) - 自動產生
     **:building_construction: 公司名稱**: 智聯服務  
     **:identification_card: 股票代號**: 6751  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.06** | **2.98** | **4.09** |
-| **P/E倍數** | **13.60** | **23.90** | **36.40** |
+| **EPS(元)** | **2.07** | **3.02** | **4.18** |
+| **P/E倍數** | **13.45** | **23.68** | **36.33** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 智聯服務 歷史平均獲利能力 (σup=1.11, σlo=0.92)
-    - **P/Ebase**: 智聯服務 歷史平均估值水準 (σup=12.50, σlo=10.30)
+    - **EPSbase**: 智聯服務 歷史平均獲利能力 (σup=1.16, σlo=0.95)
+    - **P/Ebase**: 智聯服務 歷史平均估值水準 (σup=12.65, σlo=10.23)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -81,7 +81,7 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
 | **2026/01** | **1.26** | <span style="color: #002818; font-weight: bold;">-1.77</span> | <span style="color: #002818; font-weight: bold;">-1.77</span> | **64** | <span style="color: #FF6347; font-weight: bold;">5.63</span> | <span style="color: #006400; font-weight: bold;">11.37</span> |
 | **2025/12** | **1.39** | <span style="color: #228B22; font-weight: bold;">-33.8</span> | <span style="color: #002818; font-weight: bold;">-2.45</span> | **55** | <span style="color: #FF6347; font-weight: bold;">5.63</span> | <span style="color: #006400; font-weight: bold;">9.77</span> |
-| **2025/11** | **0.871** | <span style="color: #228B22; font-weight: bold;">-38.6</span> | <span style="color: #8B0000; font-weight: bold;">+1.67</span> | **56.2** | <span style="color: #FF6347; font-weight: bold;">5.23</span> | <span style="color: #006400; font-weight: bold;">10.75</span> |
+| **2025/11** | **0.871** | <span style="color: #228B22; font-weight: bold;">-38.6</span> | <span style="color: #8B0000; font-weight: bold;">+1.67</span> | **56.2** | <span style="color: #FF4500; font-weight: bold;">5.23</span> | <span style="color: #006400; font-weight: bold;">10.75</span> |
 | **2025/10** | **1.07** | <span style="color: #32CD32; font-weight: bold;">-42.7</span> | <span style="color: #8B0000; font-weight: bold;">+5.61</span> | **43.8** | <span style="color: #FF4500; font-weight: bold;">4.83</span> | <span style="color: #006400; font-weight: bold;">9.07</span> |
 | **2025/09** | **1.03** | <span style="color: #006400; font-weight: bold;">-29.9</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **44.8** | <span style="color: #DC143C; font-weight: bold;">4.43</span> | <span style="color: #006400; font-weight: bold;">10.11</span> |
 | **2025/08** | **1.13** | <span style="color: #002818; font-weight: bold;">-9.38</span> | <span style="color: #B22222; font-weight: bold;">+18.3</span> | **47.5** | <span style="color: #B22222; font-weight: bold;">4.03</span> | <span style="color: #006400; font-weight: bold;">11.79</span> |
@@ -110,7 +110,7 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 | **2023/09** | **1.44** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #FF4500; font-weight: bold;">+30</span> | **87.5** | <span style="color: #8B0000; font-weight: bold;">3.32</span> | <span style="color: #8B0000; font-weight: bold;">26.4</span> |
 | **2023/08** | **1.62** | <span style="color: #FF7F7F; font-weight: bold;">+83.7</span> | <span style="color: #FF4500; font-weight: bold;">+32.4</span> | **83.9** | <span style="color: #8B0000; font-weight: bold;">3.4</span> | <span style="color: #8B0000; font-weight: bold;">24.7</span> |
 | **2023/07** | **1.54** | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | **100** | <span style="color: #8B0000; font-weight: bold;">3.48</span> | <span style="color: #8B0000; font-weight: bold;">28.75</span> |
-| **2023/06** | **1.27** | <span style="color: #8B0000; font-weight: bold;">+8.22</span> | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | **102** | <span style="color: #B22222; font-weight: bold;">3.56</span> | <span style="color: #8B0000; font-weight: bold;">28.65</span> |
+| **2023/06** | **1.27** | <span style="color: #8B0000; font-weight: bold;">+8.22</span> | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | **102** | <span style="color: #8B0000; font-weight: bold;">3.56</span> | <span style="color: #8B0000; font-weight: bold;">28.65</span> |
 | **2023/05** | **1.35** | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | **111.5** | <span style="color: #B22222; font-weight: bold;">3.64</span> | <span style="color: #B22222; font-weight: bold;">30.62</span> |
 | **2023/04** | **1.55** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.9</span> | **139** | <span style="color: #B22222; font-weight: bold;">3.72</span> | <span style="color: #DC143C; font-weight: bold;">37.33</span> |
 | **2023/03** | **1.71** | <span style="color: #FF4500; font-weight: bold;">+30.5</span> | <span style="color: #FF4500; font-weight: bold;">+33.5</span> | **95** | <span style="color: #B22222; font-weight: bold;">3.8</span> | <span style="color: #8B0000; font-weight: bold;">24.97</span> |
@@ -252,7 +252,7 @@ description: 月營收表 智聯服務 (6751) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

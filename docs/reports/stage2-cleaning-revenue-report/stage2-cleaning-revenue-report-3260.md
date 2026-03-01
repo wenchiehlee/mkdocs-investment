@@ -25,7 +25,7 @@ description: 月營收表 威剛 (3260) - 自動產生
     **:building_construction: 公司名稱**: 威剛  
     **:identification_card: 股票代號**: 3260  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 威剛 (3260) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-0.85** | **4.30** | **8.29** |
-| **P/E倍數** | **12.94** | **30.64** | **231.61** |
+| **EPS(元)** | **-0.85** | **4.30** | **8.28** |
+| **P/E倍數** | **13.03** | **30.73** | **231.65** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 威剛 歷史平均獲利能力 (σup=3.99, σlo=5.14)
-    - **P/Ebase**: 威剛 歷史平均估值水準 (σup=200.96, σlo=17.70)
+    - **EPSbase**: 威剛 歷史平均獲利能力 (σup=3.98, σlo=5.14)
+    - **P/Ebase**: 威剛 歷史平均估值水準 (σup=200.92, σlo=17.70)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -318,7 +318,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 | **2006/05** | **-** | N/A | N/A | **110.5** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">9.35</span> |
 | **2006/04** | **-** | N/A | N/A | **104** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">8.8</span> |
 | **2006/03** | **-** | N/A | N/A | **93.7** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">7.93</span> |
-| **2006/02** | **-** | N/A | N/A | **94.1** | <span style="color: #FF4500; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">7.96</span> |
+| **2006/02** | **-** | N/A | N/A | **94.1** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

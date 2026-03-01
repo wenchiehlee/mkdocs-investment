@@ -25,7 +25,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
     **:building_construction: 公司名稱**: 聯陽  
     **:identification_card: 股票代號**: 3014  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 聯陽 (3014) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-0.28** | **3.64** | **8.52** |
-| **P/E倍數** | **12.58** | **18.42** | **72.93** |
+| **EPS(元)** | **-0.27** | **3.68** | **8.53** |
+| **P/E倍數** | **12.60** | **18.43** | **72.94** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 聯陽 歷史平均獲利能力 (σup=4.87, σlo=3.92)
-    - **P/Ebase**: 聯陽 歷史平均估值水準 (σup=54.51, σlo=5.84)
+    - **EPSbase**: 聯陽 歷史平均獲利能力 (σup=4.86, σlo=3.95)
+    - **P/Ebase**: 聯陽 歷史平均估值水準 (σup=54.51, σlo=5.83)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -90,7 +90,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 | **2025/05** | **6.47** | <span style="color: #B22222; font-weight: bold;">+15.2</span> | <span style="color: #B22222; font-weight: bold;">+17.1</span> | **135** | <span style="color: #DC143C; font-weight: bold;">9.92</span> | <span style="color: #004225; font-weight: bold;">13.61</span> |
 | **2025/04** | **6.57** | <span style="color: #DC143C; font-weight: bold;">+28.9</span> | <span style="color: #B22222; font-weight: bold;">+17.7</span> | **129.5** | <span style="color: #DC143C; font-weight: bold;">9.96</span> | <span style="color: #004225; font-weight: bold;">13.01</span> |
 | **2025/03** | **5.15** | <span style="color: #8B0000; font-weight: bold;">+5.48</span> | <span style="color: #B22222; font-weight: bold;">+13.9</span> | **139.5** | <span style="color: #DC143C; font-weight: bold;">9.99</span> | <span style="color: #004225; font-weight: bold;">13.96</span> |
-| **2025/02** | **5.36** | <span style="color: #FF4500; font-weight: bold;">+34.1</span> | <span style="color: #B22222; font-weight: bold;">+17.9</span> | **155.5** | <span style="color: #DC143C; font-weight: bold;">10.03</span> | <span style="color: #002818; font-weight: bold;">15.51</span> |
+| **2025/02** | **5.36** | <span style="color: #FF4500; font-weight: bold;">+34.1</span> | <span style="color: #B22222; font-weight: bold;">+17.9</span> | **155.5** | <span style="color: #DC143C; font-weight: bold;">10.03</span> | <span style="color: #004225; font-weight: bold;">15.51</span> |
 | **2025/01** | **6.72** | <span style="color: #8B0000; font-weight: bold;">+7.49</span> | <span style="color: #8B0000; font-weight: bold;">+7.49</span> | **142** | <span style="color: #DC143C; font-weight: bold;">10.06</span> | <span style="color: #004225; font-weight: bold;">14.11</span> |
 | **2024/12** | **4.79** | <span style="color: #8B0000; font-weight: bold;">+1.11</span> | <span style="color: #8B0000; font-weight: bold;">+5.67</span> | **150** | <span style="color: #DC143C; font-weight: bold;">10.1</span> | <span style="color: #004225; font-weight: bold;">14.85</span> |
 | **2024/11** | **5.68** | <span style="color: #B22222; font-weight: bold;">+17.6</span> | <span style="color: #8B0000; font-weight: bold;">+6.04</span> | **140.5** | <span style="color: #DC143C; font-weight: bold;">10.08</span> | <span style="color: #004225; font-weight: bold;">13.94</span> |
@@ -111,7 +111,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 | **2023/08** | **5.97** | <span style="color: #FF7F7F; font-weight: bold;">+59.3</span> | <span style="color: #B22222; font-weight: bold;">+12.3</span> | **143.5** | <span style="color: #DC143C; font-weight: bold;">9.09</span> | <span style="color: #002818; font-weight: bold;">15.78</span> |
 | **2023/07** | **5.47** | <span style="color: #FF7F7F; font-weight: bold;">+51.4</span> | <span style="color: #8B0000; font-weight: bold;">+7.01</span> | **154.5** | <span style="color: #DC143C; font-weight: bold;">8.9</span> | <span style="color: #002818; font-weight: bold;">17.36</span> |
 | **2023/06** | **5.74** | <span style="color: #FF6347; font-weight: bold;">+46.9</span> | <span style="color: #8B0000; font-weight: bold;">+1.63</span> | **112.5** | <span style="color: #DC143C; font-weight: bold;">8.71</span> | <span style="color: #004225; font-weight: bold;">12.92</span> |
-| **2023/05** | **5.72** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #002818; font-weight: bold;">-5.18</span> | **112** | <span style="color: #DC143C; font-weight: bold;">8.52</span> | <span style="color: #004225; font-weight: bold;">13.15</span> |
+| **2023/05** | **5.72** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #002818; font-weight: bold;">-5.18</span> | **112** | <span style="color: #B22222; font-weight: bold;">8.52</span> | <span style="color: #004225; font-weight: bold;">13.15</span> |
 | **2023/04** | **5.65** | <span style="color: #8B0000; font-weight: bold;">+9.7</span> | <span style="color: #004225; font-weight: bold;">-11.3</span> | **88.5** | <span style="color: #B22222; font-weight: bold;">8.33</span> | <span style="color: #006400; font-weight: bold;">10.63</span> |
 | **2023/03** | **5.06** | <span style="color: #002818; font-weight: bold;">-7.83</span> | <span style="color: #004225; font-weight: bold;">-18</span> | **89.8** | <span style="color: #B22222; font-weight: bold;">8.14</span> | <span style="color: #006400; font-weight: bold;">11.04</span> |
 | **2023/02** | **3.76** | <span style="color: #006400; font-weight: bold;">-22</span> | <span style="color: #006400; font-weight: bold;">-23.2</span> | **88.9** | <span style="color: #B22222; font-weight: bold;">7.94</span> | <span style="color: #006400; font-weight: bold;">11.19</span> |
@@ -128,13 +128,13 @@ description: 月營收表 聯陽 (3014) - 自動產生
 | **2022/03** | **5.49** | <span style="color: #8B0000; font-weight: bold;">+1.24</span> | <span style="color: #8B0000; font-weight: bold;">+5.83</span> | **112** | <span style="color: #DC143C; font-weight: bold;">10.3</span> | <span style="color: #006400; font-weight: bold;">10.88</span> |
 | **2022/02** | **4.82** | <span style="color: #8B0000; font-weight: bold;">+3.3</span> | <span style="color: #8B0000; font-weight: bold;">+8.37</span> | **108** | <span style="color: #DC143C; font-weight: bold;">10.6</span> | <span style="color: #006400; font-weight: bold;">10.19</span> |
 | **2022/01** | **5.8** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **99.8** | <span style="color: #DC143C; font-weight: bold;">10.91</span> | <span style="color: #228B22; font-weight: bold;">9.15</span> |
-| **2021/12** | **5.33** | <span style="color: #B22222; font-weight: bold;">+16.2</span> | <span style="color: #FF6347; font-weight: bold;">+49.1</span> | **108.5** | <span style="color: #FF4500; font-weight: bold;">11.21</span> | <span style="color: #006400; font-weight: bold;">9.68</span> |
+| **2021/12** | **5.33** | <span style="color: #B22222; font-weight: bold;">+16.2</span> | <span style="color: #FF6347; font-weight: bold;">+49.1</span> | **108.5** | <span style="color: #FF4500; font-weight: bold;">11.21</span> | <span style="color: #228B22; font-weight: bold;">9.68</span> |
 | **2021/11** | **5.71** | <span style="color: #FF4500; font-weight: bold;">+31</span> | <span style="color: #FF7F7F; font-weight: bold;">+52.6</span> | **104.5** | <span style="color: #DC143C; font-weight: bold;">10.76</span> | <span style="color: #006400; font-weight: bold;">9.71</span> |
 | **2021/10** | **6.08** | <span style="color: #FF4500; font-weight: bold;">+31</span> | <span style="color: #FF7F7F; font-weight: bold;">+55</span> | **104** | <span style="color: #DC143C; font-weight: bold;">10.31</span> | <span style="color: #006400; font-weight: bold;">10.08</span> |
 | **2021/09** | **7.1** | <span style="color: #FF4500; font-weight: bold;">+38.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.2</span> | **99.5** | <span style="color: #DC143C; font-weight: bold;">9.87</span> | <span style="color: #006400; font-weight: bold;">10.09</span> |
 | **2021/08** | **7.05** | <span style="color: #FF6347; font-weight: bold;">+44.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+61.6</span> | **113** | <span style="color: #DC143C; font-weight: bold;">9.42</span> | <span style="color: #006400; font-weight: bold;">12.0</span> |
 | **2021/07** | **7.06** | <span style="color: #FF7F7F; font-weight: bold;">+53</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.9</span> | **126** | <span style="color: #DC143C; font-weight: bold;">8.97</span> | <span style="color: #004225; font-weight: bold;">14.05</span> |
-| **2021/06** | **6.26** | <span style="color: #FF7F7F; font-weight: bold;">+51.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+67.6</span> | **121.5** | <span style="color: #DC143C; font-weight: bold;">8.52</span> | <span style="color: #004225; font-weight: bold;">14.26</span> |
+| **2021/06** | **6.26** | <span style="color: #FF7F7F; font-weight: bold;">+51.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+67.6</span> | **121.5** | <span style="color: #B22222; font-weight: bold;">8.52</span> | <span style="color: #004225; font-weight: bold;">14.26</span> |
 | **2021/05** | **6.29** | <span style="color: #FF7F7F; font-weight: bold;">+62.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+71.8</span> | **119.5** | <span style="color: #B22222; font-weight: bold;">8.07</span> | <span style="color: #004225; font-weight: bold;">14.8</span> |
 | **2021/04** | **5.76** | <span style="color: #FF7F7F; font-weight: bold;">+62.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+74.9</span> | **121** | <span style="color: #B22222; font-weight: bold;">7.62</span> | <span style="color: #002818; font-weight: bold;">15.87</span> |
 | **2021/03** | **5.42** | <span style="color: #FF7F7F; font-weight: bold;">+69.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+80.2</span> | **97.3** | <span style="color: #B22222; font-weight: bold;">7.18</span> | <span style="color: #004225; font-weight: bold;">13.56</span> |
@@ -182,7 +182,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 | **2017/09** | **3.19** | <span style="color: #8B0000; font-weight: bold;">+1.61</span> | <span style="color: #002818; font-weight: bold;">-0.55</span> | **33.55** | <span style="color: #002818; font-weight: bold;">2.45</span> | <span style="color: #004225; font-weight: bold;">13.71</span> |
 | **2017/08** | **2.84** | <span style="color: #002818; font-weight: bold;">-5.3</span> | <span style="color: #002818; font-weight: bold;">-0.88</span> | **33.8** | <span style="color: #002818; font-weight: bold;">2.44</span> | <span style="color: #004225; font-weight: bold;">13.85</span> |
 | **2017/07** | **2.72** | <span style="color: #8B0000; font-weight: bold;">+4.12</span> | <span style="color: #002818; font-weight: bold;">-0.12</span> | **32.7** | <span style="color: #002818; font-weight: bold;">2.43</span> | <span style="color: #004225; font-weight: bold;">13.44</span> |
-| **2017/06** | **2.49** | <span style="color: #004225; font-weight: bold;">-12.1</span> | <span style="color: #002818; font-weight: bold;">-0.87</span> | **37.6** | <span style="color: #002818; font-weight: bold;">2.42</span> | <span style="color: #002818; font-weight: bold;">15.51</span> |
+| **2017/06** | **2.49** | <span style="color: #004225; font-weight: bold;">-12.1</span> | <span style="color: #002818; font-weight: bold;">-0.87</span> | **37.6** | <span style="color: #002818; font-weight: bold;">2.42</span> | <span style="color: #004225; font-weight: bold;">15.51</span> |
 | **2017/05** | **2.4** | <span style="color: #002818; font-weight: bold;">-0.29</span> | <span style="color: #8B0000; font-weight: bold;">+1.75</span> | **38.1** | <span style="color: #002818; font-weight: bold;">2.42</span> | <span style="color: #002818; font-weight: bold;">15.76</span> |
 | **2017/04** | **2.55** | <span style="color: #8B0000; font-weight: bold;">+6.72</span> | <span style="color: #8B0000; font-weight: bold;">+2.26</span> | **35.3** | <span style="color: #002818; font-weight: bold;">2.41</span> | <span style="color: #004225; font-weight: bold;">14.65</span> |
 | **2017/03** | **2.49** | <span style="color: #8B0000; font-weight: bold;">+4.33</span> | <span style="color: #8B0000; font-weight: bold;">+0.81</span> | **35.35** | <span style="color: #002818; font-weight: bold;">2.4</span> | <span style="color: #004225; font-weight: bold;">14.71</span> |
@@ -245,7 +245,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 | **2012/06** | **-** | N/A | N/A | **26.3** | <span style="color: #32CD32; font-weight: bold;">-5.07</span> | N/A |
 | **2012/05** | **-** | N/A | N/A | **25.2** | <span style="color: #32CD32; font-weight: bold;">-6.1</span> | N/A |
 | **2012/04** | **-** | N/A | N/A | **24.85** | <span style="color: #32CD32; font-weight: bold;">-7.12</span> | N/A |
-| **2012/03** | **-** | N/A | N/A | **27.8** | <span style="color: #90EE90; font-weight: bold;">-8.14</span> | N/A |
+| **2012/03** | **-** | N/A | N/A | **27.8** | <span style="color: #32CD32; font-weight: bold;">-8.14</span> | N/A |
 | **2012/02** | **-** | N/A | N/A | **32.75** | <span style="color: #90EE90; font-weight: bold;">-9.17</span> | N/A |
 | **2012/01** | **-** | N/A | N/A | **27.5** | <span style="color: #90EE90; font-weight: bold;">-10.2</span> | N/A |
 | **2011/12** | **-** | N/A | N/A | **23.5** | <span style="color: #90EE90; font-weight: bold;">-11.22</span> | N/A |
@@ -318,7 +318,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 | **2006/05** | **-** | N/A | N/A | **26.05** | <span style="color: #002818; font-weight: bold;">2.29</span> | <span style="color: #006400; font-weight: bold;">11.38</span> |
 | **2006/04** | **-** | N/A | N/A | **26.9** | <span style="color: #002818; font-weight: bold;">2.29</span> | <span style="color: #006400; font-weight: bold;">11.75</span> |
 | **2006/03** | **-** | N/A | N/A | **25.9** | <span style="color: #002818; font-weight: bold;">2.29</span> | <span style="color: #006400; font-weight: bold;">11.31</span> |
-| **2006/02** | **-** | N/A | N/A | **23.7** | <span style="color: #002818; font-weight: bold;">2.29</span> | <span style="color: #006400; font-weight: bold;">10.35</span> |
+| **2006/02** | **-** | N/A | N/A | **23.7** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

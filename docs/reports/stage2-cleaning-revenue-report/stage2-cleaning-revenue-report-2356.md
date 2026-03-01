@@ -25,7 +25,7 @@ description: 月營收表 英業達 (2356) - 自動產生
     **:building_construction: 公司名稱**: 英業達  
     **:identification_card: 股票代號**: 2356  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 英業達 (2356) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.32** | **1.78** | **2.14** |
-| **P/E倍數** | **10.44** | **13.91** | **21.10** |
+| **EPS(元)** | **1.32** | **1.78** | **2.15** |
+| **P/E倍數** | **10.51** | **13.96** | **21.21** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 英業達 歷史平均獲利能力 (σup=0.37, σlo=0.46)
-    - **P/Ebase**: 英業達 歷史平均估值水準 (σup=7.18, σlo=3.47)
+    - **P/Ebase**: 英業達 歷史平均估值水準 (σup=7.25, σlo=3.45)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -84,7 +84,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2025/11** | **521.6** | <span style="color: #004225; font-weight: bold;">-14.3</span> | <span style="color: #8B0000; font-weight: bold;">+9.19</span> | **43.6** | <span style="color: #FF4500; font-weight: bold;">2.47</span> | <span style="color: #B22222; font-weight: bold;">17.65</span> |
 | **2025/10** | **547.7** | <span style="color: #004225; font-weight: bold;">-15.3</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **45.9** | <span style="color: #FF4500; font-weight: bold;">2.43</span> | <span style="color: #B22222; font-weight: bold;">18.89</span> |
 | **2025/09** | **605.6** | <span style="color: #8B0000; font-weight: bold;">+7.65</span> | <span style="color: #B22222; font-weight: bold;">+15.9</span> | **45.75** | <span style="color: #FF4500; font-weight: bold;">2.39</span> | <span style="color: #B22222; font-weight: bold;">19.14</span> |
-| **2025/08** | **613** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #B22222; font-weight: bold;">+17.1</span> | **41.15** | <span style="color: #FF4500; font-weight: bold;">2.35</span> | <span style="color: #B22222; font-weight: bold;">17.51</span> |
+| **2025/08** | **613** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #B22222; font-weight: bold;">+17.1</span> | **41.15** | <span style="color: #FF4500; font-weight: bold;">2.35</span> | <span style="color: #8B0000; font-weight: bold;">17.51</span> |
 | **2025/07** | **544.2** | <span style="color: #002818; font-weight: bold;">-2</span> | <span style="color: #B22222; font-weight: bold;">+17</span> | **44.5** | <span style="color: #DC143C; font-weight: bold;">2.31</span> | <span style="color: #B22222; font-weight: bold;">19.26</span> |
 | **2025/06** | **632.7** | <span style="color: #DC143C; font-weight: bold;">+24.2</span> | <span style="color: #DC143C; font-weight: bold;">+20.7</span> | **42.3** | <span style="color: #DC143C; font-weight: bold;">2.27</span> | <span style="color: #B22222; font-weight: bold;">18.63</span> |
 | **2025/05** | **612** | <span style="color: #B22222; font-weight: bold;">+17.3</span> | <span style="color: #B22222; font-weight: bold;">+19.9</span> | **42.15** | <span style="color: #DC143C; font-weight: bold;">2.23</span> | <span style="color: #B22222; font-weight: bold;">18.9</span> |
@@ -105,7 +105,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2024/02** | **366.5** | <span style="color: #8B0000; font-weight: bold;">+2.26</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **55** | <span style="color: #002818; font-weight: bold;">1.76</span> | <span style="color: #FF6347; font-weight: bold;">31.19</span> |
 | **2024/01** | **441.3** | <span style="color: #B22222; font-weight: bold;">+18.5</span> | <span style="color: #B22222; font-weight: bold;">+18.5</span> | **54.9** | <span style="color: #002818; font-weight: bold;">1.74</span> | <span style="color: #FF6347; font-weight: bold;">31.61</span> |
 | **2023/12** | **435.3** | <span style="color: #8B0000; font-weight: bold;">+7.94</span> | <span style="color: #002818; font-weight: bold;">-4.98</span> | **52.8** | <span style="color: #002818; font-weight: bold;">1.71</span> | <span style="color: #FF6347; font-weight: bold;">30.88</span> |
-| **2023/11** | **441.4** | <span style="color: #000000; font-weight: bold;">0</span> | <span style="color: #002818; font-weight: bold;">-6.02</span> | **42.4** | <span style="color: #002818; font-weight: bold;">1.71</span> | <span style="color: #FF4500; font-weight: bold;">24.8</span> |
+| **2023/11** | **441.4** | <span style="color: #000000; font-weight: bold;">0</span> | <span style="color: #002818; font-weight: bold;">-6.02</span> | **42.4** | <span style="color: #002818; font-weight: bold;">1.71</span> | <span style="color: #DC143C; font-weight: bold;">24.8</span> |
 | **2023/10** | **404** | <span style="color: #004225; font-weight: bold;">-19.7</span> | <span style="color: #002818; font-weight: bold;">-6.6</span> | **40.2** | <span style="color: #002818; font-weight: bold;">1.71</span> | <span style="color: #DC143C; font-weight: bold;">23.51</span> |
 | **2023/09** | **475.3** | <span style="color: #002818; font-weight: bold;">-6.74</span> | <span style="color: #002818; font-weight: bold;">-4.99</span> | **49** | <span style="color: #002818; font-weight: bold;">1.71</span> | <span style="color: #FF6347; font-weight: bold;">28.65</span> |
 | **2023/08** | **464.8** | <span style="color: #8B0000; font-weight: bold;">+4.74</span> | <span style="color: #002818; font-weight: bold;">-4.74</span> | **56.4** | <span style="color: #002818; font-weight: bold;">1.71</span> | <span style="color: #FF6347; font-weight: bold;">32.98</span> |
@@ -127,7 +127,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2022/04** | **441.6** | <span style="color: #B22222; font-weight: bold;">+15.6</span> | <span style="color: #B22222; font-weight: bold;">+15.3</span> | **25.4** | <span style="color: #8B0000; font-weight: bold;">1.78</span> | <span style="color: #8B0000; font-weight: bold;">14.24</span> |
 | **2022/03** | **535.7** | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | <span style="color: #B22222; font-weight: bold;">+15.2</span> | **24.7** | <span style="color: #8B0000; font-weight: bold;">1.79</span> | <span style="color: #002818; font-weight: bold;">13.78</span> |
 | **2022/02** | **355.9** | <span style="color: #B22222; font-weight: bold;">+13.1</span> | <span style="color: #8B0000; font-weight: bold;">+6.18</span> | **25.65** | <span style="color: #8B0000; font-weight: bold;">1.8</span> | <span style="color: #8B0000; font-weight: bold;">14.24</span> |
-| **2022/01** | **396.4** | <span style="color: #8B0000; font-weight: bold;">+0.65</span> | <span style="color: #8B0000; font-weight: bold;">+0.65</span> | **25.2** | <span style="color: #8B0000; font-weight: bold;">1.81</span> | <span style="color: #8B0000; font-weight: bold;">13.92</span> |
+| **2022/01** | **396.4** | <span style="color: #8B0000; font-weight: bold;">+0.65</span> | <span style="color: #8B0000; font-weight: bold;">+0.65</span> | **25.2** | <span style="color: #8B0000; font-weight: bold;">1.81</span> | <span style="color: #002818; font-weight: bold;">13.92</span> |
 | **2021/12** | **521.6** | <span style="color: #DC143C; font-weight: bold;">+20.7</span> | <span style="color: #8B0000; font-weight: bold;">+2.25</span> | **24.95** | <span style="color: #8B0000; font-weight: bold;">1.82</span> | <span style="color: #002818; font-weight: bold;">13.71</span> |
 | **2021/11** | **479.9** | <span style="color: #B22222; font-weight: bold;">+19.5</span> | <span style="color: #8B0000; font-weight: bold;">+0.53</span> | **25.8** | <span style="color: #8B0000; font-weight: bold;">1.84</span> | <span style="color: #8B0000; font-weight: bold;">14.0</span> |
 | **2021/10** | **478.5** | <span style="color: #B22222; font-weight: bold;">+13.6</span> | <span style="color: #002818; font-weight: bold;">-1.25</span> | **26.55** | <span style="color: #8B0000; font-weight: bold;">1.87</span> | <span style="color: #8B0000; font-weight: bold;">14.22</span> |
@@ -154,7 +154,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2020/01** | **293.8** | <span style="color: #228B22; font-weight: bold;">-35.4</span> | <span style="color: #228B22; font-weight: bold;">-35.4</span> | **22.95** | <span style="color: #002818; font-weight: bold;">1.59</span> | <span style="color: #8B0000; font-weight: bold;">14.46</span> |
 | **2019/12** | **433.8** | <span style="color: #002818; font-weight: bold;">-7.73</span> | <span style="color: #002818; font-weight: bold;">-1.16</span> | **22.85** | <span style="color: #004225; font-weight: bold;">1.54</span> | <span style="color: #8B0000; font-weight: bold;">14.84</span> |
 | **2019/11** | **380.4** | <span style="color: #002818; font-weight: bold;">-6.91</span> | <span style="color: #002818; font-weight: bold;">-0.49</span> | **22.85** | <span style="color: #002818; font-weight: bold;">1.56</span> | <span style="color: #8B0000; font-weight: bold;">14.62</span> |
-| **2019/10** | **481.8** | <span style="color: #8B0000; font-weight: bold;">+4.26</span> | <span style="color: #8B0000; font-weight: bold;">+0.13</span> | **22.1** | <span style="color: #002818; font-weight: bold;">1.59</span> | <span style="color: #8B0000; font-weight: bold;">13.94</span> |
+| **2019/10** | **481.8** | <span style="color: #8B0000; font-weight: bold;">+4.26</span> | <span style="color: #8B0000; font-weight: bold;">+0.13</span> | **22.1** | <span style="color: #002818; font-weight: bold;">1.59</span> | <span style="color: #002818; font-weight: bold;">13.94</span> |
 | **2019/09** | **452.1** | <span style="color: #002818; font-weight: bold;">-5.88</span> | <span style="color: #002818; font-weight: bold;">-0.37</span> | **21.4** | <span style="color: #002818; font-weight: bold;">1.61</span> | <span style="color: #002818; font-weight: bold;">13.31</span> |
 | **2019/08** | **414** | <span style="color: #004225; font-weight: bold;">-17</span> | <span style="color: #8B0000; font-weight: bold;">+0.43</span> | **21.5** | <span style="color: #002818; font-weight: bold;">1.63</span> | <span style="color: #002818; font-weight: bold;">13.19</span> |
 | **2019/07** | **420.9** | <span style="color: #002818; font-weight: bold;">-2.48</span> | <span style="color: #8B0000; font-weight: bold;">+3.59</span> | **23.3** | <span style="color: #002818; font-weight: bold;">1.65</span> | <span style="color: #8B0000; font-weight: bold;">14.1</span> |
@@ -164,7 +164,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2019/03** | **433.8** | <span style="color: #8B0000; font-weight: bold;">+9.82</span> | <span style="color: #8B0000; font-weight: bold;">+9.59</span> | **23.45** | <span style="color: #002818; font-weight: bold;">1.74</span> | <span style="color: #002818; font-weight: bold;">13.46</span> |
 | **2019/02** | **260.2** | <span style="color: #002818; font-weight: bold;">-9.91</span> | <span style="color: #8B0000; font-weight: bold;">+9.45</span> | **23.8** | <span style="color: #002818; font-weight: bold;">1.76</span> | <span style="color: #002818; font-weight: bold;">13.48</span> |
 | **2019/01** | **454.7** | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | **23.65** | <span style="color: #8B0000; font-weight: bold;">1.79</span> | <span style="color: #002818; font-weight: bold;">13.23</span> |
-| **2018/12** | **470.2** | <span style="color: #8B0000; font-weight: bold;">+5.77</span> | <span style="color: #8B0000; font-weight: bold;">+8.41</span> | **22.05** | <span style="color: #8B0000; font-weight: bold;">1.81</span> | <span style="color: #002818; font-weight: bold;">12.18</span> |
+| **2018/12** | **470.2** | <span style="color: #8B0000; font-weight: bold;">+5.77</span> | <span style="color: #8B0000; font-weight: bold;">+8.41</span> | **22.05** | <span style="color: #8B0000; font-weight: bold;">1.81</span> | <span style="color: #004225; font-weight: bold;">12.18</span> |
 | **2018/11** | **408.6** | <span style="color: #002818; font-weight: bold;">-9.28</span> | <span style="color: #8B0000; font-weight: bold;">+8.69</span> | **22.1** | <span style="color: #8B0000; font-weight: bold;">1.82</span> | <span style="color: #004225; font-weight: bold;">12.17</span> |
 | **2018/10** | **462.1** | <span style="color: #8B0000; font-weight: bold;">+7.01</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **24.95** | <span style="color: #8B0000; font-weight: bold;">1.82</span> | <span style="color: #002818; font-weight: bold;">13.7</span> |
 | **2018/09** | **480.4** | <span style="color: #B22222; font-weight: bold;">+11.8</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **27.4** | <span style="color: #8B0000; font-weight: bold;">1.83</span> | <span style="color: #8B0000; font-weight: bold;">14.99</span> |
@@ -195,7 +195,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2016/08** | **377.8** | <span style="color: #B22222; font-weight: bold;">+15.5</span> | <span style="color: #B22222; font-weight: bold;">+12.8</span> | **23.55** | <span style="color: #002818; font-weight: bold;">1.56</span> | <span style="color: #8B0000; font-weight: bold;">15.06</span> |
 | **2016/07** | **348.2** | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **24.75** | <span style="color: #002818; font-weight: bold;">1.56</span> | <span style="color: #8B0000; font-weight: bold;">15.85</span> |
 | **2016/06** | **402.1** | <span style="color: #DC143C; font-weight: bold;">+28.9</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **22.85** | <span style="color: #002818; font-weight: bold;">1.56</span> | <span style="color: #8B0000; font-weight: bold;">14.65</span> |
-| **2016/05** | **341.8** | <span style="color: #DC143C; font-weight: bold;">+20.1</span> | <span style="color: #8B0000; font-weight: bold;">+9.87</span> | **21.7** | <span style="color: #002818; font-weight: bold;">1.56</span> | <span style="color: #8B0000; font-weight: bold;">13.93</span> |
+| **2016/05** | **341.8** | <span style="color: #DC143C; font-weight: bold;">+20.1</span> | <span style="color: #8B0000; font-weight: bold;">+9.87</span> | **21.7** | <span style="color: #002818; font-weight: bold;">1.56</span> | <span style="color: #002818; font-weight: bold;">13.93</span> |
 | **2016/04** | **339.4** | <span style="color: #8B0000; font-weight: bold;">+9.35</span> | <span style="color: #8B0000; font-weight: bold;">+7.44</span> | **21.35** | <span style="color: #002818; font-weight: bold;">1.56</span> | <span style="color: #002818; font-weight: bold;">13.72</span> |
 | **2016/03** | **364.8** | <span style="color: #8B0000; font-weight: bold;">+7.93</span> | <span style="color: #8B0000; font-weight: bold;">+6.78</span> | **20.4** | <span style="color: #002818; font-weight: bold;">1.56</span> | <span style="color: #002818; font-weight: bold;">13.12</span> |
 | **2016/02** | **287.7** | <span style="color: #B22222; font-weight: bold;">+12.3</span> | <span style="color: #8B0000; font-weight: bold;">+6.08</span> | **23.8** | <span style="color: #002818; font-weight: bold;">1.55</span> | <span style="color: #8B0000; font-weight: bold;">15.32</span> |
@@ -207,7 +207,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2015/08** | **327** | <span style="color: #8B0000; font-weight: bold;">+4.46</span> | <span style="color: #004225; font-weight: bold;">-14.4</span> | **14.9** | <span style="color: #002818; font-weight: bold;">1.69</span> | <span style="color: #006400; font-weight: bold;">8.8</span> |
 | **2015/07** | **322.1** | <span style="color: #002818; font-weight: bold;">-3.15</span> | <span style="color: #004225; font-weight: bold;">-16.7</span> | **17.95** | <span style="color: #002818; font-weight: bold;">1.73</span> | <span style="color: #006400; font-weight: bold;">10.38</span> |
 | **2015/06** | **312** | <span style="color: #002818; font-weight: bold;">-9.68</span> | <span style="color: #004225; font-weight: bold;">-18.8</span> | **21.35** | <span style="color: #002818; font-weight: bold;">1.76</span> | <span style="color: #004225; font-weight: bold;">12.1</span> |
-| **2015/05** | **284.6** | <span style="color: #004225; font-weight: bold;">-18.1</span> | <span style="color: #006400; font-weight: bold;">-20.4</span> | **22** | <span style="color: #8B0000; font-weight: bold;">1.8</span> | <span style="color: #002818; font-weight: bold;">12.22</span> |
+| **2015/05** | **284.6** | <span style="color: #004225; font-weight: bold;">-18.1</span> | <span style="color: #006400; font-weight: bold;">-20.4</span> | **22** | <span style="color: #8B0000; font-weight: bold;">1.8</span> | <span style="color: #004225; font-weight: bold;">12.22</span> |
 | **2015/04** | **310.3** | <span style="color: #004225; font-weight: bold;">-12.8</span> | <span style="color: #006400; font-weight: bold;">-21</span> | **21.7** | <span style="color: #8B0000; font-weight: bold;">1.84</span> | <span style="color: #004225; font-weight: bold;">11.81</span> |
 | **2015/03** | **338** | <span style="color: #004225; font-weight: bold;">-17</span> | <span style="color: #006400; font-weight: bold;">-23.5</span> | **22.65** | <span style="color: #8B0000; font-weight: bold;">1.87</span> | <span style="color: #004225; font-weight: bold;">12.1</span> |
 | **2015/02** | **256.3** | <span style="color: #006400; font-weight: bold;">-23.7</span> | <span style="color: #006400; font-weight: bold;">-26.9</span> | **24.1** | <span style="color: #8B0000; font-weight: bold;">1.91</span> | <span style="color: #002818; font-weight: bold;">12.63</span> |
@@ -241,7 +241,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2012/10** | **-** | N/A | N/A | **9.99** | <span style="color: #228B22; font-weight: bold;">0.89</span> | <span style="color: #004225; font-weight: bold;">11.22</span> |
 | **2012/09** | **-** | N/A | N/A | **11.6** | <span style="color: #228B22; font-weight: bold;">0.88</span> | <span style="color: #002818; font-weight: bold;">13.18</span> |
 | **2012/08** | **-** | N/A | N/A | **9.8** | <span style="color: #228B22; font-weight: bold;">0.87</span> | <span style="color: #004225; font-weight: bold;">11.26</span> |
-| **2012/07** | **-** | N/A | N/A | **8.99** | <span style="color: #32CD32; font-weight: bold;">0.86</span> | <span style="color: #004225; font-weight: bold;">10.45</span> |
+| **2012/07** | **-** | N/A | N/A | **8.99** | <span style="color: #32CD32; font-weight: bold;">0.86</span> | <span style="color: #006400; font-weight: bold;">10.45</span> |
 | **2012/06** | **-** | N/A | N/A | **9.63** | <span style="color: #32CD32; font-weight: bold;">0.85</span> | <span style="color: #004225; font-weight: bold;">11.33</span> |
 | **2012/05** | **-** | N/A | N/A | **9.93** | <span style="color: #32CD32; font-weight: bold;">0.84</span> | <span style="color: #004225; font-weight: bold;">11.82</span> |
 | **2012/04** | **-** | N/A | N/A | **11.25** | <span style="color: #32CD32; font-weight: bold;">0.83</span> | <span style="color: #002818; font-weight: bold;">13.55</span> |
@@ -266,7 +266,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2010/09** | **-** | N/A | N/A | **16.25** | <span style="color: #006400; font-weight: bold;">1.3</span> | <span style="color: #002818; font-weight: bold;">12.55</span> |
 | **2010/08** | **-** | N/A | N/A | **15.75** | <span style="color: #004225; font-weight: bold;">1.33</span> | <span style="color: #004225; font-weight: bold;">11.81</span> |
 | **2010/07** | **-** | N/A | N/A | **17** | <span style="color: #004225; font-weight: bold;">1.37</span> | <span style="color: #002818; font-weight: bold;">12.39</span> |
-| **2010/06** | **-** | N/A | N/A | **17.2** | <span style="color: #004225; font-weight: bold;">1.41</span> | <span style="color: #002818; font-weight: bold;">12.2</span> |
+| **2010/06** | **-** | N/A | N/A | **17.2** | <span style="color: #004225; font-weight: bold;">1.41</span> | <span style="color: #004225; font-weight: bold;">12.2</span> |
 | **2010/05** | **-** | N/A | N/A | **17.45** | <span style="color: #004225; font-weight: bold;">1.45</span> | <span style="color: #004225; font-weight: bold;">12.05</span> |
 | **2010/04** | **-** | N/A | N/A | **18.25** | <span style="color: #004225; font-weight: bold;">1.49</span> | <span style="color: #002818; font-weight: bold;">12.28</span> |
 | **2010/03** | **-** | N/A | N/A | **18.15** | <span style="color: #004225; font-weight: bold;">1.52</span> | <span style="color: #004225; font-weight: bold;">11.9</span> |
@@ -297,8 +297,8 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2008/02** | **-** | N/A | N/A | **18.2** | <span style="color: #DC143C; font-weight: bold;">2.28</span> | <span style="color: #228B22; font-weight: bold;">7.98</span> |
 | **2008/01** | **-** | N/A | N/A | **16.8** | <span style="color: #DC143C; font-weight: bold;">2.3</span> | <span style="color: #228B22; font-weight: bold;">7.3</span> |
 | **2007/12** | **-** | N/A | N/A | **18.8** | <span style="color: #DC143C; font-weight: bold;">2.32</span> | <span style="color: #228B22; font-weight: bold;">8.1</span> |
-| **2007/11** | **-** | N/A | N/A | **18** | <span style="color: #FF4500; font-weight: bold;">2.33</span> | <span style="color: #228B22; font-weight: bold;">7.72</span> |
-| **2007/10** | **-** | N/A | N/A | **20.5** | <span style="color: #FF4500; font-weight: bold;">2.34</span> | <span style="color: #006400; font-weight: bold;">8.75</span> |
+| **2007/11** | **-** | N/A | N/A | **18** | <span style="color: #DC143C; font-weight: bold;">2.33</span> | <span style="color: #228B22; font-weight: bold;">7.72</span> |
+| **2007/10** | **-** | N/A | N/A | **20.5** | <span style="color: #FF4500; font-weight: bold;">2.34</span> | <span style="color: #228B22; font-weight: bold;">8.75</span> |
 | **2007/09** | **-** | N/A | N/A | **20.4** | <span style="color: #FF4500; font-weight: bold;">2.35</span> | <span style="color: #228B22; font-weight: bold;">8.67</span> |
 | **2007/08** | **-** | N/A | N/A | **21.05** | <span style="color: #FF4500; font-weight: bold;">2.36</span> | <span style="color: #006400; font-weight: bold;">8.91</span> |
 | **2007/07** | **-** | N/A | N/A | **23** | <span style="color: #FF4500; font-weight: bold;">2.37</span> | <span style="color: #006400; font-weight: bold;">9.69</span> |
@@ -318,7 +318,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 | **2006/05** | **-** | N/A | N/A | **21.8** | <span style="color: #FF4500; font-weight: bold;">2.45</span> | <span style="color: #006400; font-weight: bold;">8.9</span> |
 | **2006/04** | **-** | N/A | N/A | **23.05** | <span style="color: #FF4500; font-weight: bold;">2.45</span> | <span style="color: #006400; font-weight: bold;">9.41</span> |
 | **2006/03** | **-** | N/A | N/A | **18.1** | <span style="color: #FF4500; font-weight: bold;">2.45</span> | <span style="color: #228B22; font-weight: bold;">7.39</span> |
-| **2006/02** | **-** | N/A | N/A | **19.95** | <span style="color: #FF4500; font-weight: bold;">2.45</span> | <span style="color: #228B22; font-weight: bold;">8.14</span> |
+| **2006/02** | **-** | N/A | N/A | **19.95** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 英業達 (2356) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -25,7 +25,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
     **:building_construction: 公司名稱**: 鴻海  
     **:identification_card: 股票代號**: 2317  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,14 +62,14 @@ description: 月營收表 鴻海 (2317) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **8.15** | **9.25** | **11.29** |
-| **P/E倍數** | **10.00** | **12.47** | **16.76** |
+| **EPS(元)** | **8.15** | **9.26** | **11.33** |
+| **P/E倍數** | **10.00** | **12.47** | **16.75** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 鴻海 歷史平均獲利能力 (σup=2.04, σlo=1.10)
+    - **EPSbase**: 鴻海 歷史平均獲利能力 (σup=2.07, σlo=1.11)
     - **P/Ebase**: 鴻海 歷史平均估值水準 (σup=4.29, σlo=2.47)
 
 
@@ -86,7 +86,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
 | **2025/09** | **8371** | <span style="color: #B22222; font-weight: bold;">+14.2</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **216** | <span style="color: #FF4500; font-weight: bold;">13.04</span> | <span style="color: #B22222; font-weight: bold;">16.56</span> |
 | **2025/08** | **6065** | <span style="color: #B22222; font-weight: bold;">+10.6</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **203.5** | <span style="color: #FF4500; font-weight: bold;">12.82</span> | <span style="color: #B22222; font-weight: bold;">15.88</span> |
 | **2025/07** | **6139** | <span style="color: #8B0000; font-weight: bold;">+7.25</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **178** | <span style="color: #FF4500; font-weight: bold;">12.59</span> | <span style="color: #8B0000; font-weight: bold;">14.14</span> |
-| **2025/06** | **5402** | <span style="color: #B22222; font-weight: bold;">+10.1</span> | <span style="color: #B22222; font-weight: bold;">+19.7</span> | **161** | <span style="color: #FF4500; font-weight: bold;">12.36</span> | <span style="color: #8B0000; font-weight: bold;">13.02</span> |
+| **2025/06** | **5402** | <span style="color: #B22222; font-weight: bold;">+10.1</span> | <span style="color: #B22222; font-weight: bold;">+19.7</span> | **161** | <span style="color: #DC143C; font-weight: bold;">12.36</span> | <span style="color: #8B0000; font-weight: bold;">13.02</span> |
 | **2025/05** | **6157** | <span style="color: #B22222; font-weight: bold;">+11.9</span> | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | **156** | <span style="color: #DC143C; font-weight: bold;">12.14</span> | <span style="color: #8B0000; font-weight: bold;">12.85</span> |
 | **2025/04** | **6414** | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | <span style="color: #DC143C; font-weight: bold;">+24.6</span> | **141.5** | <span style="color: #DC143C; font-weight: bold;">11.91</span> | <span style="color: #002818; font-weight: bold;">11.88</span> |
 | **2025/03** | **5521** | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #DC143C; font-weight: bold;">+24.2</span> | **146** | <span style="color: #DC143C; font-weight: bold;">11.69</span> | <span style="color: #8B0000; font-weight: bold;">12.49</span> |
@@ -159,7 +159,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
 | **2019/08** | **3988** | <span style="color: #8B0000; font-weight: bold;">+0.51</span> | <span style="color: #8B0000; font-weight: bold;">+3.88</span> | **74.2** | <span style="color: #004225; font-weight: bold;">8.22</span> | <span style="color: #006400; font-weight: bold;">9.02</span> |
 | **2019/07** | **3980** | <span style="color: #8B0000; font-weight: bold;">+0.61</span> | <span style="color: #8B0000; font-weight: bold;">+4.42</span> | **78.6** | <span style="color: #004225; font-weight: bold;">8.2</span> | <span style="color: #006400; font-weight: bold;">9.59</span> |
 | **2019/06** | **3965** | <span style="color: #8B0000; font-weight: bold;">+1.7</span> | <span style="color: #8B0000; font-weight: bold;">+5.13</span> | **77.4** | <span style="color: #004225; font-weight: bold;">8.18</span> | <span style="color: #006400; font-weight: bold;">9.47</span> |
-| **2019/05** | **3842** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #8B0000; font-weight: bold;">+5.91</span> | **73.9** | <span style="color: #004225; font-weight: bold;">8.15</span> | <span style="color: #006400; font-weight: bold;">9.07</span> |
+| **2019/05** | **3842** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #8B0000; font-weight: bold;">+5.91</span> | **73.9** | <span style="color: #006400; font-weight: bold;">8.15</span> | <span style="color: #006400; font-weight: bold;">9.07</span> |
 | **2019/04** | **3798** | <span style="color: #B22222; font-weight: bold;">+10.4</span> | <span style="color: #8B0000; font-weight: bold;">+4.7</span> | **86.9** | <span style="color: #006400; font-weight: bold;">8.13</span> | <span style="color: #004225; font-weight: bold;">10.69</span> |
 | **2019/03** | **3766** | <span style="color: #8B0000; font-weight: bold;">+7.86</span> | <span style="color: #8B0000; font-weight: bold;">+2.79</span> | **73.5** | <span style="color: #006400; font-weight: bold;">8.1</span> | <span style="color: #006400; font-weight: bold;">9.07</span> |
 | **2019/02** | **2656** | <span style="color: #002818; font-weight: bold;">-4.38</span> | <span style="color: #8B0000; font-weight: bold;">+0.19</span> | **72.7** | <span style="color: #006400; font-weight: bold;">8.08</span> | <span style="color: #006400; font-weight: bold;">9.0</span> |
@@ -225,7 +225,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
 | **2014/02** | **2606** | <span style="color: #B22222; font-weight: bold;">+10.9</span> | <span style="color: #8B0000; font-weight: bold;">+4.84</span> | **84** | <span style="color: #004225; font-weight: bold;">8.28</span> | <span style="color: #004225; font-weight: bold;">10.15</span> |
 | **2014/01** | **3146** | <span style="color: #8B0000; font-weight: bold;">+0.32</span> | <span style="color: #8B0000; font-weight: bold;">+0.32</span> | **84.9** | <span style="color: #004225; font-weight: bold;">8.22</span> | <span style="color: #004225; font-weight: bold;">10.33</span> |
 | **2013/12** | **4909** | <span style="color: #B22222; font-weight: bold;">+18.9</span> | <span style="color: #8B0000; font-weight: bold;">+1.24</span> | **80.1** | <span style="color: #004225; font-weight: bold;">8.16</span> | <span style="color: #006400; font-weight: bold;">9.82</span> |
-| **2013/11** | **4562** | <span style="color: #B22222; font-weight: bold;">+18</span> | <span style="color: #002818; font-weight: bold;">-0.83</span> | **78** | <span style="color: #004225; font-weight: bold;">8.15</span> | <span style="color: #006400; font-weight: bold;">9.57</span> |
+| **2013/11** | **4562** | <span style="color: #B22222; font-weight: bold;">+18</span> | <span style="color: #002818; font-weight: bold;">-0.83</span> | **78** | <span style="color: #006400; font-weight: bold;">8.15</span> | <span style="color: #006400; font-weight: bold;">9.57</span> |
 | **2013/10** | **3826** | <span style="color: #B22222; font-weight: bold;">+13.1</span> | <span style="color: #002818; font-weight: bold;">-3.18</span> | **74.5** | <span style="color: #006400; font-weight: bold;">8.14</span> | <span style="color: #006400; font-weight: bold;">9.16</span> |
 | **2013/09** | **3379** | <span style="color: #B22222; font-weight: bold;">+14.3</span> | <span style="color: #002818; font-weight: bold;">-5.17</span> | **75.9** | <span style="color: #006400; font-weight: bold;">8.12</span> | <span style="color: #006400; font-weight: bold;">9.34</span> |
 | **2013/08** | **2804** | <span style="color: #8B0000; font-weight: bold;">+2.55</span> | <span style="color: #002818; font-weight: bold;">-7.5</span> | **81.2** | <span style="color: #006400; font-weight: bold;">8.11</span> | <span style="color: #004225; font-weight: bold;">10.01</span> |
@@ -262,7 +262,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
 | **2011/01** | **-** | N/A | N/A | **125** | <span style="color: #006400; font-weight: bold;">7.98</span> | <span style="color: #B22222; font-weight: bold;">15.66</span> |
 | **2010/12** | **-** | N/A | N/A | **117.5** | <span style="color: #006400; font-weight: bold;">8.01</span> | <span style="color: #B22222; font-weight: bold;">14.67</span> |
 | **2010/11** | **-** | N/A | N/A | **108.5** | <span style="color: #006400; font-weight: bold;">8.08</span> | <span style="color: #8B0000; font-weight: bold;">13.43</span> |
-| **2010/10** | **-** | N/A | N/A | **116** | <span style="color: #004225; font-weight: bold;">8.15</span> | <span style="color: #8B0000; font-weight: bold;">14.24</span> |
+| **2010/10** | **-** | N/A | N/A | **116** | <span style="color: #006400; font-weight: bold;">8.15</span> | <span style="color: #8B0000; font-weight: bold;">14.24</span> |
 | **2010/09** | **-** | N/A | N/A | **117.5** | <span style="color: #004225; font-weight: bold;">8.22</span> | <span style="color: #8B0000; font-weight: bold;">14.3</span> |
 | **2010/08** | **-** | N/A | N/A | **113** | <span style="color: #004225; font-weight: bold;">8.29</span> | <span style="color: #8B0000; font-weight: bold;">13.64</span> |
 | **2010/07** | **-** | N/A | N/A | **129** | <span style="color: #004225; font-weight: bold;">8.36</span> | <span style="color: #B22222; font-weight: bold;">15.44</span> |
@@ -296,7 +296,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
 | **2008/03** | **-** | N/A | N/A | **174** | <span style="color: #B22222; font-weight: bold;">11.12</span> | <span style="color: #B22222; font-weight: bold;">15.64</span> |
 | **2008/02** | **-** | N/A | N/A | **188** | <span style="color: #DC143C; font-weight: bold;">11.53</span> | <span style="color: #B22222; font-weight: bold;">16.3</span> |
 | **2008/01** | **-** | N/A | N/A | **169.5** | <span style="color: #DC143C; font-weight: bold;">11.94</span> | <span style="color: #8B0000; font-weight: bold;">14.19</span> |
-| **2007/12** | **-** | N/A | N/A | **202** | <span style="color: #FF4500; font-weight: bold;">12.35</span> | <span style="color: #B22222; font-weight: bold;">16.36</span> |
+| **2007/12** | **-** | N/A | N/A | **202** | <span style="color: #DC143C; font-weight: bold;">12.35</span> | <span style="color: #B22222; font-weight: bold;">16.36</span> |
 | **2007/11** | **-** | N/A | N/A | **206** | <span style="color: #DC143C; font-weight: bold;">12.29</span> | <span style="color: #DC143C; font-weight: bold;">16.77</span> |
 | **2007/10** | **-** | N/A | N/A | **246** | <span style="color: #DC143C; font-weight: bold;">12.22</span> | <span style="color: #FF4500; font-weight: bold;">20.13</span> |
 | **2007/09** | **-** | N/A | N/A | **247** | <span style="color: #DC143C; font-weight: bold;">12.16</span> | <span style="color: #FF4500; font-weight: bold;">20.31</span> |
@@ -403,7 +403,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

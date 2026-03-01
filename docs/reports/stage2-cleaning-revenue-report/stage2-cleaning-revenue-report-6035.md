@@ -25,7 +25,7 @@ description: 月營收表 悠遊卡 (6035) - 自動產生
     **:building_construction: 公司名稱**: 悠遊卡  
     **:identification_card: 股票代號**: 6035  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 悠遊卡 (6035) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.90** | **3.11** | **3.31** |
-| **P/E倍數** | **21.35** | **26.85** | **37.87** |
+| **EPS(元)** | **2.90** | **3.12** | **3.31** |
+| **P/E倍數** | **21.01** | **26.57** | **37.81** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 悠遊卡 歷史平均獲利能力 (σup=0.20, σlo=0.21)
-    - **P/Ebase**: 悠遊卡 歷史平均估值水準 (σup=11.02, σlo=5.50)
+    - **EPSbase**: 悠遊卡 歷史平均獲利能力 (σup=0.19, σlo=0.22)
+    - **P/Ebase**: 悠遊卡 歷史平均估值水準 (σup=11.24, σlo=5.56)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -92,7 +92,7 @@ description: 月營收表 悠遊卡 (6035) - 自動產生
 | **2025/03** | **1.65** | <span style="color: #8B0000; font-weight: bold;">+5.78</span> | <span style="color: #8B0000; font-weight: bold;">+0.43</span> | **66.7** | <span style="color: #DC143C; font-weight: bold;">3.33</span> | <span style="color: #006400; font-weight: bold;">20.03</span> |
 | **2025/02** | **1.53** | <span style="color: #8B0000; font-weight: bold;">+0.23</span> | <span style="color: #002818; font-weight: bold;">-2.15</span> | **68.1** | <span style="color: #DC143C; font-weight: bold;">3.33</span> | <span style="color: #006400; font-weight: bold;">20.45</span> |
 | **2025/01** | **1.63** | <span style="color: #002818; font-weight: bold;">-4.29</span> | <span style="color: #002818; font-weight: bold;">-4.29</span> | **64.3** | <span style="color: #DC143C; font-weight: bold;">3.33</span> | <span style="color: #006400; font-weight: bold;">19.31</span> |
-| **2024/12** | **1.85** | <span style="color: #004225; font-weight: bold;">-19.9</span> | <span style="color: #8B0000; font-weight: bold;">+1.88</span> | **70.3** | <span style="color: #DC143C; font-weight: bold;">3.33</span> | <span style="color: #006400; font-weight: bold;">21.11</span> |
+| **2024/12** | **1.85** | <span style="color: #004225; font-weight: bold;">-19.9</span> | <span style="color: #8B0000; font-weight: bold;">+1.88</span> | **70.3** | <span style="color: #DC143C; font-weight: bold;">3.33</span> | <span style="color: #004225; font-weight: bold;">21.11</span> |
 | **2024/11** | **1.45** | <span style="color: #002818; font-weight: bold;">-1.02</span> | <span style="color: #8B0000; font-weight: bold;">+4.84</span> | **80.7** | <span style="color: #B22222; font-weight: bold;">3.29</span> | <span style="color: #002818; font-weight: bold;">24.52</span> |
 | **2024/10** | **1.71** | <span style="color: #8B0000; font-weight: bold;">+4.65</span> | <span style="color: #8B0000; font-weight: bold;">+5.4</span> | **83.3** | <span style="color: #B22222; font-weight: bold;">3.25</span> | <span style="color: #002818; font-weight: bold;">25.6</span> |
 | **2024/09** | **1.55** | <span style="color: #8B0000; font-weight: bold;">+4.95</span> | <span style="color: #8B0000; font-weight: bold;">+5.49</span> | **81** | <span style="color: #B22222; font-weight: bold;">3.22</span> | <span style="color: #002818; font-weight: bold;">25.19</span> |
@@ -218,7 +218,7 @@ description: 月營收表 悠遊卡 (6035) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

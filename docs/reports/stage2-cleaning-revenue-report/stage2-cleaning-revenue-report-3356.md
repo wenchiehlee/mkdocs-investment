@@ -25,7 +25,7 @@ description: 月營收表 奇偶 (3356) - 自動產生
     **:building_construction: 公司名稱**: 奇偶  
     **:identification_card: 股票代號**: 3356  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,14 +62,14 @@ description: 月營收表 奇偶 (3356) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.36** | **5.69** | **9.92** |
-| **P/E倍數** | **14.21** | **22.70** | **93.01** |
+| **EPS(元)** | **1.38** | **5.66** | **9.91** |
+| **P/E倍數** | **14.20** | **22.70** | **93.01** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 奇偶 歷史平均獲利能力 (σup=4.23, σlo=4.33)
+    - **EPSbase**: 奇偶 歷史平均獲利能力 (σup=4.24, σlo=4.29)
     - **P/Ebase**: 奇偶 歷史平均估值水準 (σup=70.31, σlo=8.50)
 
 
@@ -115,7 +115,7 @@ description: 月營收表 奇偶 (3356) - 自動產生
 | **2023/04** | **0.992** | <span style="color: #002818; font-weight: bold;">-1.74</span> | <span style="color: #8B0000; font-weight: bold;">+1.71</span> | **37.25** | <span style="color: #004225; font-weight: bold;">1.86</span> | <span style="color: #002818; font-weight: bold;">20.03</span> |
 | **2023/03** | **0.941** | <span style="color: #004225; font-weight: bold;">-16.5</span> | <span style="color: #8B0000; font-weight: bold;">+2.99</span> | **42.7** | <span style="color: #004225; font-weight: bold;">1.69</span> | <span style="color: #8B0000; font-weight: bold;">25.23</span> |
 | **2023/02** | **0.906** | <span style="color: #B22222; font-weight: bold;">+13.9</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **39.3** | <span style="color: #004225; font-weight: bold;">1.52</span> | <span style="color: #8B0000; font-weight: bold;">25.77</span> |
-| **2023/01** | **0.99** | <span style="color: #B22222; font-weight: bold;">+19</span> | <span style="color: #B22222; font-weight: bold;">+19</span> | **38.85** | <span style="color: #004225; font-weight: bold;">1.36</span> | <span style="color: #8B0000; font-weight: bold;">28.62</span> |
+| **2023/01** | **0.99** | <span style="color: #B22222; font-weight: bold;">+19</span> | <span style="color: #B22222; font-weight: bold;">+19</span> | **38.85** | <span style="color: #006400; font-weight: bold;">1.36</span> | <span style="color: #8B0000; font-weight: bold;">28.62</span> |
 | **2022/12** | **0.999** | <span style="color: #002818; font-weight: bold;">-4.03</span> | <span style="color: #8B0000; font-weight: bold;">+5.81</span> | **38.75** | <span style="color: #006400; font-weight: bold;">1.19</span> | <span style="color: #8B0000; font-weight: bold;">32.56</span> |
 | **2022/11** | **1.24** | <span style="color: #8B0000; font-weight: bold;">+6.76</span> | <span style="color: #8B0000; font-weight: bold;">+6.71</span> | **44.4** | <span style="color: #006400; font-weight: bold;">1.25</span> | <span style="color: #8B0000; font-weight: bold;">35.38</span> |
 | **2022/10** | **1.32** | <span style="color: #B22222; font-weight: bold;">+19.1</span> | <span style="color: #8B0000; font-weight: bold;">+6.7</span> | **33.2** | <span style="color: #006400; font-weight: bold;">1.32</span> | <span style="color: #8B0000; font-weight: bold;">25.15</span> |
@@ -318,7 +318,7 @@ description: 月營收表 奇偶 (3356) - 自動產生
 | **2006/05** | **0.902** | <span style="color: #B22222; font-weight: bold;">+18</span> | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | **135.5** | <span style="color: #DC143C; font-weight: bold;">11.16</span> | <span style="color: #006400; font-weight: bold;">12.14</span> |
 | **2006/04** | **0.873** | <span style="color: #8B0000; font-weight: bold;">+9.9</span> | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | **130.5** | <span style="color: #DC143C; font-weight: bold;">11.16</span> | <span style="color: #006400; font-weight: bold;">11.69</span> |
 | **2006/03** | **1.1** | <span style="color: #FF4500; font-weight: bold;">+39.6</span> | <span style="color: #FF4500; font-weight: bold;">+30</span> | **118.5** | <span style="color: #DC143C; font-weight: bold;">11.16</span> | <span style="color: #006400; font-weight: bold;">10.62</span> |
-| **2006/02** | **0.869** | <span style="color: #FF4500; font-weight: bold;">+31.3</span> | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | **110** | <span style="color: #DC143C; font-weight: bold;">11.16</span> | <span style="color: #228B22; font-weight: bold;">9.86</span> |
+| **2006/02** | **0.869** | <span style="color: #FF4500; font-weight: bold;">+31.3</span> | <span style="color: #DC143C; font-weight: bold;">+24.8</span> | **110** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 奇偶 (3356) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

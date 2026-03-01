@@ -25,7 +25,7 @@ description: 月營收表 中信金 (2891) - 自動產生
     **:building_construction: 公司名稱**: 中信金  
     **:identification_card: 股票代號**: 2891  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 中信金 (2891) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **0.47** | **1.72** | **2.64** |
-| **P/E倍數** | **11.02** | **21.89** | **400.47** |
+| **EPS(元)** | **0.51** | **1.75** | **2.66** |
+| **P/E倍數** | **11.04** | **21.86** | **400.44** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 中信金 歷史平均獲利能力 (σup=0.91, σlo=1.25)
-    - **P/Ebase**: 中信金 歷史平均估值水準 (σup=378.58, σlo=10.86)
+    - **EPSbase**: 中信金 歷史平均獲利能力 (σup=0.91, σlo=1.24)
+    - **P/Ebase**: 中信金 歷史平均估值水準 (σup=378.59, σlo=10.82)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -139,7 +139,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 | **2021/04** | **123.2** | <span style="color: #228B22; font-weight: bold;">-34.2</span> | <span style="color: #006400; font-weight: bold;">-26.6</span> | **22.8** | <span style="color: #B22222; font-weight: bold;">2.34</span> | <span style="color: #006400; font-weight: bold;">9.73</span> |
 | **2021/03** | **126.8** | <span style="color: #002818; font-weight: bold;">-2.4</span> | <span style="color: #006400; font-weight: bold;">-24.3</span> | **22.1** | <span style="color: #B22222; font-weight: bold;">2.3</span> | <span style="color: #006400; font-weight: bold;">9.63</span> |
 | **2021/02** | **132** | <span style="color: #32CD32; font-weight: bold;">-40.9</span> | <span style="color: #006400; font-weight: bold;">-30</span> | **20** | <span style="color: #B22222; font-weight: bold;">2.25</span> | <span style="color: #006400; font-weight: bold;">8.9</span> |
-| **2021/01** | **217.1** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #006400; font-weight: bold;">-21.2</span> | **19** | <span style="color: #B22222; font-weight: bold;">2.2</span> | <span style="color: #006400; font-weight: bold;">8.64</span> |
+| **2021/01** | **217.1** | <span style="color: #006400; font-weight: bold;">-21.2</span> | <span style="color: #006400; font-weight: bold;">-21.2</span> | **19** | <span style="color: #8B0000; font-weight: bold;">2.2</span> | <span style="color: #006400; font-weight: bold;">8.64</span> |
 | **2020/12** | **80.02** | <span style="color: #90EE90; font-weight: bold;">-64.6</span> | <span style="color: #006400; font-weight: bold;">-26.6</span> | **19.7** | <span style="color: #8B0000; font-weight: bold;">2.15</span> | <span style="color: #006400; font-weight: bold;">9.16</span> |
 | **2020/11** | **130.1** | <span style="color: #32CD32; font-weight: bold;">-41.6</span> | <span style="color: #006400; font-weight: bold;">-23</span> | **19.15** | <span style="color: #8B0000; font-weight: bold;">2.15</span> | <span style="color: #006400; font-weight: bold;">8.9</span> |
 | **2020/10** | **130.7** | <span style="color: #228B22; font-weight: bold;">-39</span> | <span style="color: #006400; font-weight: bold;">-21.1</span> | **18.05** | <span style="color: #8B0000; font-weight: bold;">2.15</span> | <span style="color: #006400; font-weight: bold;">8.39</span> |
@@ -190,7 +190,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 | **2017/01** | **382.6** | <span style="color: #FF7F7F; font-weight: bold;">+50.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+50.1</span> | **17.8** | <span style="color: #002818; font-weight: bold;">1.47</span> | <span style="color: #004225; font-weight: bold;">12.11</span> |
 | **2016/12** | **317.2** | <span style="color: #B22222; font-weight: bold;">+12</span> | <span style="color: #FF6347; font-weight: bold;">+48.3</span> | **17.65** | <span style="color: #002818; font-weight: bold;">1.43</span> | <span style="color: #004225; font-weight: bold;">12.34</span> |
 | **2016/11** | **276** | <span style="color: #FF6347; font-weight: bold;">+48.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.8</span> | **17.5** | <span style="color: #002818; font-weight: bold;">1.49</span> | <span style="color: #004225; font-weight: bold;">11.78</span> |
-| **2016/10** | **247.6** | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+54.3</span> | **17** | <span style="color: #002818; font-weight: bold;">1.54</span> | <span style="color: #004225; font-weight: bold;">11.03</span> |
+| **2016/10** | **247.6** | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+54.3</span> | **17** | <span style="color: #002818; font-weight: bold;">1.54</span> | <span style="color: #006400; font-weight: bold;">11.03</span> |
 | **2016/09** | **270** | <span style="color: #FF7F7F; font-weight: bold;">+54.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.5</span> | **18.2** | <span style="color: #002818; font-weight: bold;">1.6</span> | <span style="color: #004225; font-weight: bold;">11.39</span> |
 | **2016/08** | **279.3** | <span style="color: #FF7F7F; font-weight: bold;">+87.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+59</span> | **18.35** | <span style="color: #002818; font-weight: bold;">1.65</span> | <span style="color: #004225; font-weight: bold;">11.1</span> |
 | **2016/07** | **297.4** | <span style="color: #FF7F7F; font-weight: bold;">+85.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+55.4</span> | **17.6** | <span style="color: #002818; font-weight: bold;">1.71</span> | <span style="color: #006400; font-weight: bold;">10.3</span> |
@@ -262,7 +262,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 | **2011/01** | **-** | N/A | N/A | **24.8** | <span style="color: #002818; font-weight: bold;">1.34</span> | <span style="color: #002818; font-weight: bold;">18.45</span> |
 | **2010/12** | **-** | N/A | N/A | **21.4** | <span style="color: #002818; font-weight: bold;">1.32</span> | <span style="color: #004225; font-weight: bold;">16.21</span> |
 | **2010/11** | **-** | N/A | N/A | **18.35** | <span style="color: #002818; font-weight: bold;">1.22</span> | <span style="color: #004225; font-weight: bold;">15.01</span> |
-| **2010/10** | **-** | N/A | N/A | **19.1** | <span style="color: #002818; font-weight: bold;">1.12</span> | <span style="color: #002818; font-weight: bold;">16.98</span> |
+| **2010/10** | **-** | N/A | N/A | **19.1** | <span style="color: #004225; font-weight: bold;">1.12</span> | <span style="color: #002818; font-weight: bold;">16.98</span> |
 | **2010/09** | **-** | N/A | N/A | **19.7** | <span style="color: #004225; font-weight: bold;">1.03</span> | <span style="color: #002818; font-weight: bold;">19.17</span> |
 | **2010/08** | **-** | N/A | N/A | **17.95** | <span style="color: #004225; font-weight: bold;">0.93</span> | <span style="color: #002818; font-weight: bold;">19.3</span> |
 | **2010/07** | **-** | N/A | N/A | **19.2** | <span style="color: #004225; font-weight: bold;">0.83</span> | <span style="color: #8B0000; font-weight: bold;">23.06</span> |
@@ -275,7 +275,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 | **2009/12** | **-** | N/A | N/A | **19.95** | <span style="color: #006400; font-weight: bold;">0.15</span> | <span style="color: #8B0000; font-weight: bold;">133.0</span> |
 | **2009/11** | **-** | N/A | N/A | **18.6** | <span style="color: #006400; font-weight: bold;">0.26</span> | <span style="color: #8B0000; font-weight: bold;">70.63</span> |
 | **2009/10** | **-** | N/A | N/A | **20** | <span style="color: #006400; font-weight: bold;">0.38</span> | <span style="color: #8B0000; font-weight: bold;">53.1</span> |
-| **2009/09** | **-** | N/A | N/A | **20.85** | <span style="color: #004225; font-weight: bold;">0.49</span> | <span style="color: #8B0000; font-weight: bold;">42.55</span> |
+| **2009/09** | **-** | N/A | N/A | **20.85** | <span style="color: #006400; font-weight: bold;">0.49</span> | <span style="color: #8B0000; font-weight: bold;">42.55</span> |
 | **2009/08** | **-** | N/A | N/A | **18.3** | <span style="color: #004225; font-weight: bold;">0.6</span> | <span style="color: #8B0000; font-weight: bold;">30.33</span> |
 | **2009/07** | **-** | N/A | N/A | **20.75** | <span style="color: #004225; font-weight: bold;">0.72</span> | <span style="color: #8B0000; font-weight: bold;">28.95</span> |
 | **2009/06** | **-** | N/A | N/A | **19.8** | <span style="color: #004225; font-weight: bold;">0.83</span> | <span style="color: #8B0000; font-weight: bold;">23.86</span> |
@@ -300,7 +300,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 | **2007/11** | **-** | N/A | N/A | **23.4** | <span style="color: #002818; font-weight: bold;">1.24</span> | <span style="color: #002818; font-weight: bold;">18.81</span> |
 | **2007/10** | **-** | N/A | N/A | **23.6** | <span style="color: #004225; font-weight: bold;">1.0</span> | <span style="color: #8B0000; font-weight: bold;">23.64</span> |
 | **2007/09** | **-** | N/A | N/A | **24.1** | <span style="color: #004225; font-weight: bold;">0.75</span> | <span style="color: #8B0000; font-weight: bold;">32.03</span> |
-| **2007/08** | **-** | N/A | N/A | **24.8** | <span style="color: #004225; font-weight: bold;">0.51</span> | <span style="color: #8B0000; font-weight: bold;">48.95</span> |
+| **2007/08** | **-** | N/A | N/A | **24.8** | <span style="color: #006400; font-weight: bold;">0.51</span> | <span style="color: #8B0000; font-weight: bold;">48.95</span> |
 | **2007/07** | **-** | N/A | N/A | **26** | <span style="color: #006400; font-weight: bold;">0.26</span> | <span style="color: #8B0000; font-weight: bold;">99.68</span> |
 | **2007/06** | **-** | N/A | N/A | **25.6** | <span style="color: #006400; font-weight: bold;">0.02</span> | <span style="color: #FF7F7F; font-weight: bold;">1707.0</span> |
 | **2007/05** | **-** | N/A | N/A | **25.05** | <span style="color: #228B22; font-weight: bold;">-0.23</span> | N/A |
@@ -318,7 +318,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 | **2006/05** | **-** | N/A | N/A | **25.8** | <span style="color: #32CD32; font-weight: bold;">-1.46</span> | N/A |
 | **2006/04** | **-** | N/A | N/A | **26.2** | <span style="color: #32CD32; font-weight: bold;">-1.46</span> | N/A |
 | **2006/03** | **-** | N/A | N/A | **23.05** | <span style="color: #32CD32; font-weight: bold;">-1.46</span> | N/A |
-| **2006/02** | **-** | N/A | N/A | **27.3** | <span style="color: #32CD32; font-weight: bold;">-1.46</span> | N/A |
+| **2006/02** | **-** | N/A | N/A | **27.3** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 中信金 (2891) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

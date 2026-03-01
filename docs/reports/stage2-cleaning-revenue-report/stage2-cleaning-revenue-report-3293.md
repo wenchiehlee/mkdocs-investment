@@ -25,7 +25,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
     **:building_construction: 公司名稱**: 鈊象  
     **:identification_card: 股票代號**: 3293  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 鈊象 (3293) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **9.84** | **21.60** | **45.32** |
-| **P/E倍數** | **13.21** | **19.13** | **33.34** |
+| **EPS(元)** | **9.85** | **21.66** | **45.24** |
+| **P/E倍數** | **13.23** | **19.13** | **33.34** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 鈊象 歷史平均獲利能力 (σup=23.73, σlo=11.76)
-    - **P/Ebase**: 鈊象 歷史平均估值水準 (σup=14.21, σlo=5.93)
+    - **EPSbase**: 鈊象 歷史平均獲利能力 (σup=23.58, σlo=11.82)
+    - **P/Ebase**: 鈊象 歷史平均估值水準 (σup=14.21, σlo=5.91)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -291,7 +291,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 | **2008/08** | **-** | N/A | N/A | **192** | <span style="color: #004225; font-weight: bold;">14.68</span> | <span style="color: #006400; font-weight: bold;">13.08</span> |
 | **2008/07** | **-** | N/A | N/A | **198.5** | <span style="color: #004225; font-weight: bold;">15.03</span> | <span style="color: #006400; font-weight: bold;">13.2</span> |
 | **2008/06** | **-** | N/A | N/A | **225.5** | <span style="color: #004225; font-weight: bold;">15.39</span> | <span style="color: #004225; font-weight: bold;">14.65</span> |
-| **2008/05** | **-** | N/A | N/A | **261** | <span style="color: #002818; font-weight: bold;">15.75</span> | <span style="color: #002818; font-weight: bold;">16.57</span> |
+| **2008/05** | **-** | N/A | N/A | **261** | <span style="color: #004225; font-weight: bold;">15.75</span> | <span style="color: #002818; font-weight: bold;">16.57</span> |
 | **2008/04** | **-** | N/A | N/A | **258** | <span style="color: #002818; font-weight: bold;">16.1</span> | <span style="color: #004225; font-weight: bold;">16.02</span> |
 | **2008/03** | **-** | N/A | N/A | **254** | <span style="color: #002818; font-weight: bold;">16.46</span> | <span style="color: #004225; font-weight: bold;">15.43</span> |
 | **2008/02** | **-** | N/A | N/A | **219** | <span style="color: #002818; font-weight: bold;">16.82</span> | <span style="color: #006400; font-weight: bold;">13.02</span> |
@@ -309,7 +309,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 | **2007/02** | **-** | N/A | N/A | **279** | <span style="color: #004225; font-weight: bold;">13.66</span> | <span style="color: #8B0000; font-weight: bold;">20.42</span> |
 | **2007/01** | **-** | N/A | N/A | **273** | <span style="color: #004225; font-weight: bold;">13.28</span> | <span style="color: #8B0000; font-weight: bold;">20.56</span> |
 | **2006/12** | **-** | N/A | N/A | **285** | <span style="color: #004225; font-weight: bold;">12.89</span> | <span style="color: #8B0000; font-weight: bold;">22.11</span> |
-| **2006/11** | **-** | N/A | N/A | **208.5** | <span style="color: #004225; font-weight: bold;">12.89</span> | <span style="color: #002818; font-weight: bold;">16.18</span> |
+| **2006/11** | **-** | N/A | N/A | **208.5** | <span style="color: #004225; font-weight: bold;">12.89</span> | <span style="color: #004225; font-weight: bold;">16.18</span> |
 | **2006/10** | **-** | N/A | N/A | **188** | <span style="color: #004225; font-weight: bold;">12.89</span> | <span style="color: #004225; font-weight: bold;">14.58</span> |
 | **2006/09** | **-** | N/A | N/A | **231.5** | <span style="color: #004225; font-weight: bold;">12.89</span> | <span style="color: #002818; font-weight: bold;">17.96</span> |
 | **2006/08** | **-** | N/A | N/A | **246** | <span style="color: #004225; font-weight: bold;">12.89</span> | <span style="color: #002818; font-weight: bold;">19.08</span> |
@@ -414,7 +414,7 @@ description: 月營收表 鈊象 (3293) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

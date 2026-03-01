@@ -25,7 +25,7 @@ description: 月營收表 輔信 (2405) - 自動產生
     **:building_construction: 公司名稱**: 輔信  
     **:identification_card: 股票代號**: 2405  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 輔信 (2405) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **-0.96** | **-0.12** | **0.43** |
-| **P/E倍數** | **42.89** | **154.04** | **541.09** |
+| **P/E倍數** | **42.86** | **153.52** | **546.11** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 輔信 歷史平均獲利能力 (σup=0.55, σlo=0.84)
-    - **P/Ebase**: 輔信 歷史平均估值水準 (σup=387.05, σlo=111.15)
+    - **P/Ebase**: 輔信 歷史平均估值水準 (σup=392.59, σlo=110.66)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -83,7 +83,7 @@ description: 月營收表 輔信 (2405) - 自動產生
 | **2025/12** | **1.37** | <span style="color: #B22222; font-weight: bold;">+10.6</span> | <span style="color: #8B0000; font-weight: bold;">+4.47</span> | **17.8** | <span style="color: #002818; font-weight: bold;">-0.17</span> | N/A |
 | **2025/11** | **1.73** | <span style="color: #DC143C; font-weight: bold;">+28.7</span> | <span style="color: #8B0000; font-weight: bold;">+3.97</span> | **17.5** | <span style="color: #002818; font-weight: bold;">-0.15</span> | N/A |
 | **2025/10** | **1.46** | <span style="color: #8B0000; font-weight: bold;">+3.75</span> | <span style="color: #8B0000; font-weight: bold;">+1.61</span> | **18.6** | <span style="color: #002818; font-weight: bold;">-0.14</span> | N/A |
-| **2025/09** | **1.6** | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #8B0000; font-weight: bold;">+1.37</span> | **19.05** | <span style="color: #002818; font-weight: bold;">-0.12</span> | N/A |
+| **2025/09** | **1.6** | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | <span style="color: #8B0000; font-weight: bold;">+1.37</span> | **19.05** | <span style="color: #8B0000; font-weight: bold;">-0.12</span> | N/A |
 | **2025/08** | **1.51** | <span style="color: #DC143C; font-weight: bold;">+22.6</span> | <span style="color: #002818; font-weight: bold;">-1.39</span> | **19.2** | <span style="color: #8B0000; font-weight: bold;">-0.1</span> | N/A |
 | **2025/07** | **1.35** | <span style="color: #002818; font-weight: bold;">-9.54</span> | <span style="color: #002818; font-weight: bold;">-4.3</span> | **16.2** | <span style="color: #8B0000; font-weight: bold;">-0.09</span> | N/A |
 | **2025/06** | **1.34** | <span style="color: #002818; font-weight: bold;">-2.48</span> | <span style="color: #002818; font-weight: bold;">-3.4</span> | **16.05** | <span style="color: #8B0000; font-weight: bold;">-0.07</span> | N/A |
@@ -105,7 +105,7 @@ description: 月營收表 輔信 (2405) - 自動產生
 | **2024/02** | **1.3** | <span style="color: #8B0000; font-weight: bold;">+4.97</span> | <span style="color: #8B0000; font-weight: bold;">+4.76</span> | **20.45** | <span style="color: #8B0000; font-weight: bold;">0.04</span> | <span style="color: #B22222; font-weight: bold;">533.5</span> |
 | **2024/01** | **1.54** | <span style="color: #8B0000; font-weight: bold;">+4.59</span> | <span style="color: #8B0000; font-weight: bold;">+4.59</span> | **17.1** | <span style="color: #8B0000; font-weight: bold;">0.04</span> | <span style="color: #B22222; font-weight: bold;">436.6</span> |
 | **2023/12** | **1.43** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #002818; font-weight: bold;">-1.43</span> | **18.15** | <span style="color: #8B0000; font-weight: bold;">0.04</span> | <span style="color: #B22222; font-weight: bold;">453.8</span> |
-| **2023/11** | **1.64** | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | <span style="color: #002818; font-weight: bold;">-2.8</span> | **17.45** | <span style="color: #8B0000; font-weight: bold;">0.05</span> | <span style="color: #B22222; font-weight: bold;">349.0</span> |
+| **2023/11** | **1.64** | <span style="color: #DC143C; font-weight: bold;">+23.2</span> | <span style="color: #002818; font-weight: bold;">-2.8</span> | **17.45** | <span style="color: #8B0000; font-weight: bold;">0.05</span> | <span style="color: #8B0000; font-weight: bold;">349.0</span> |
 | **2023/10** | **1.28** | <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #002818; font-weight: bold;">-5.14</span> | **16.25** | <span style="color: #8B0000; font-weight: bold;">0.06</span> | <span style="color: #8B0000; font-weight: bold;">270.8</span> |
 | **2023/09** | **1.52** | <span style="color: #8B0000; font-weight: bold;">+1.99</span> | <span style="color: #002818; font-weight: bold;">-4.25</span> | **16.25** | <span style="color: #8B0000; font-weight: bold;">0.07</span> | <span style="color: #8B0000; font-weight: bold;">232.1</span> |
 | **2023/08** | **1.56** | <span style="color: #FF4500; font-weight: bold;">+31.9</span> | <span style="color: #002818; font-weight: bold;">-5.04</span> | **14** | <span style="color: #8B0000; font-weight: bold;">0.08</span> | <span style="color: #8B0000; font-weight: bold;">175.0</span> |
@@ -290,7 +290,7 @@ description: 月營收表 輔信 (2405) - 自動產生
 | **2008/09** | **-** | N/A | N/A | **8.28** | <span style="color: #B22222; font-weight: bold;">0.26</span> | <span style="color: #006400; font-weight: bold;">31.25</span> |
 | **2008/08** | **-** | N/A | N/A | **13** | <span style="color: #B22222; font-weight: bold;">0.26</span> | <span style="color: #004225; font-weight: bold;">49.37</span> |
 | **2008/07** | **-** | N/A | N/A | **11** | <span style="color: #B22222; font-weight: bold;">0.26</span> | <span style="color: #006400; font-weight: bold;">42.04</span> |
-| **2008/06** | **-** | N/A | N/A | **11.15** | <span style="color: #B22222; font-weight: bold;">0.26</span> | <span style="color: #006400; font-weight: bold;">42.88</span> |
+| **2008/06** | **-** | N/A | N/A | **11.15** | <span style="color: #B22222; font-weight: bold;">0.26</span> | <span style="color: #004225; font-weight: bold;">42.88</span> |
 | **2008/05** | **-** | N/A | N/A | **14.15** | <span style="color: #B22222; font-weight: bold;">0.26</span> | <span style="color: #004225; font-weight: bold;">54.77</span> |
 | **2008/04** | **-** | N/A | N/A | **14.1** | <span style="color: #B22222; font-weight: bold;">0.26</span> | <span style="color: #004225; font-weight: bold;">54.94</span> |
 | **2008/03** | **-** | N/A | N/A | **12.55** | <span style="color: #B22222; font-weight: bold;">0.26</span> | <span style="color: #004225; font-weight: bold;">49.22</span> |
@@ -318,7 +318,7 @@ description: 月營收表 輔信 (2405) - 自動產生
 | **2006/05** | **-** | N/A | N/A | **12.9** | <span style="color: #8B0000; font-weight: bold;">0.05</span> | <span style="color: #8B0000; font-weight: bold;">258.0</span> |
 | **2006/04** | **-** | N/A | N/A | **13.25** | <span style="color: #8B0000; font-weight: bold;">0.05</span> | <span style="color: #8B0000; font-weight: bold;">265.0</span> |
 | **2006/03** | **-** | N/A | N/A | **11.55** | <span style="color: #8B0000; font-weight: bold;">0.05</span> | <span style="color: #8B0000; font-weight: bold;">231.0</span> |
-| **2006/02** | **-** | N/A | N/A | **11.05** | <span style="color: #8B0000; font-weight: bold;">0.05</span> | <span style="color: #8B0000; font-weight: bold;">221.0</span> |
+| **2006/02** | **-** | N/A | N/A | **11.05** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 輔信 (2405) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

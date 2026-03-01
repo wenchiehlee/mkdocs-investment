@@ -25,7 +25,7 @@ description: 月營收表 精誠 (6214) - 自動產生
     **:building_construction: 公司名稱**: 精誠  
     **:identification_card: 股票代號**: 6214  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 精誠 (6214) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.75** | **4.06** | **5.98** |
-| **P/E倍數** | **12.19** | **17.35** | **36.47** |
+| **EPS(元)** | **1.75** | **4.07** | **5.99** |
+| **P/E倍數** | **12.24** | **17.38** | **36.49** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 精誠 歷史平均獲利能力 (σup=1.92, σlo=2.31)
-    - **P/Ebase**: 精誠 歷史平均估值水準 (σup=19.12, σlo=5.16)
+    - **EPSbase**: 精誠 歷史平均獲利能力 (σup=1.92, σlo=2.33)
+    - **P/Ebase**: 精誠 歷史平均估值水準 (σup=19.10, σlo=5.14)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -118,7 +118,7 @@ description: 月營收表 精誠 (6214) - 自動產生
 | **2023/01** | **29.98** | <span style="color: #B22222; font-weight: bold;">+17.6</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **74.3** | <span style="color: #8B0000; font-weight: bold;">4.54</span> | <span style="color: #002818; font-weight: bold;">16.38</span> |
 | **2022/12** | **39.78** | <span style="color: #DC143C; font-weight: bold;">+21.2</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **69.5** | <span style="color: #8B0000; font-weight: bold;">4.4</span> | <span style="color: #002818; font-weight: bold;">15.8</span> |
 | **2022/11** | **24.5** | <span style="color: #DC143C; font-weight: bold;">+25</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **69.9** | <span style="color: #8B0000; font-weight: bold;">4.44</span> | <span style="color: #002818; font-weight: bold;">15.74</span> |
-| **2022/10** | **27.43** | <span style="color: #B22222; font-weight: bold;">+17.6</span> | <span style="color: #8B0000; font-weight: bold;">+9.94</span> | **66.2** | <span style="color: #8B0000; font-weight: bold;">4.48</span> | <span style="color: #002818; font-weight: bold;">14.77</span> |
+| **2022/10** | **27.43** | <span style="color: #B22222; font-weight: bold;">+17.6</span> | <span style="color: #8B0000; font-weight: bold;">+9.94</span> | **66.2** | <span style="color: #8B0000; font-weight: bold;">4.48</span> | <span style="color: #004225; font-weight: bold;">14.77</span> |
 | **2022/09** | **28.76** | <span style="color: #B22222; font-weight: bold;">+17.6</span> | <span style="color: #8B0000; font-weight: bold;">+9.13</span> | **69.5** | <span style="color: #8B0000; font-weight: bold;">4.53</span> | <span style="color: #002818; font-weight: bold;">15.36</span> |
 | **2022/08** | **28.18** | <span style="color: #8B0000; font-weight: bold;">+0.61</span> | <span style="color: #8B0000; font-weight: bold;">+8.07</span> | **73.2** | <span style="color: #8B0000; font-weight: bold;">4.57</span> | <span style="color: #002818; font-weight: bold;">16.03</span> |
 | **2022/07** | **28.53** | <span style="color: #B22222; font-weight: bold;">+12.5</span> | <span style="color: #8B0000; font-weight: bold;">+9.32</span> | **73.5** | <span style="color: #8B0000; font-weight: bold;">4.61</span> | <span style="color: #002818; font-weight: bold;">15.95</span> |
@@ -161,7 +161,7 @@ description: 月營收表 精誠 (6214) - 自動產生
 | **2019/06** | **20.57** | <span style="color: #002818; font-weight: bold;">-3.58</span> | <span style="color: #B22222; font-weight: bold;">+15.4</span> | **76.7** | <span style="color: #B22222; font-weight: bold;">5.79</span> | <span style="color: #004225; font-weight: bold;">13.25</span> |
 | **2019/05** | **14.64** | <span style="color: #B22222; font-weight: bold;">+15.3</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **75** | <span style="color: #B22222; font-weight: bold;">5.54</span> | <span style="color: #004225; font-weight: bold;">13.55</span> |
 | **2019/04** | **19.04** | <span style="color: #FF4500; font-weight: bold;">+32.7</span> | <span style="color: #DC143C; font-weight: bold;">+22.7</span> | **67.9** | <span style="color: #B22222; font-weight: bold;">5.28</span> | <span style="color: #004225; font-weight: bold;">12.85</span> |
-| **2019/03** | **16.57** | <span style="color: #8B0000; font-weight: bold;">+5.8</span> | <span style="color: #B22222; font-weight: bold;">+19.2</span> | **67.9** | <span style="color: #B22222; font-weight: bold;">5.03</span> | <span style="color: #004225; font-weight: bold;">13.5</span> |
+| **2019/03** | **16.57** | <span style="color: #8B0000; font-weight: bold;">+5.8</span> | <span style="color: #B22222; font-weight: bold;">+19.2</span> | **67.9** | <span style="color: #8B0000; font-weight: bold;">5.03</span> | <span style="color: #004225; font-weight: bold;">13.5</span> |
 | **2019/02** | **12.33** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #DC143C; font-weight: bold;">+27.4</span> | **65.4** | <span style="color: #8B0000; font-weight: bold;">4.78</span> | <span style="color: #004225; font-weight: bold;">13.69</span> |
 | **2019/01** | **20.51** | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | **64.6** | <span style="color: #8B0000; font-weight: bold;">4.52</span> | <span style="color: #004225; font-weight: bold;">14.28</span> |
 | **2018/12** | **24.77** | <span style="color: #B22222; font-weight: bold;">+14.7</span> | <span style="color: #B22222; font-weight: bold;">+15.7</span> | **61.5** | <span style="color: #8B0000; font-weight: bold;">4.27</span> | <span style="color: #004225; font-weight: bold;">14.4</span> |
@@ -270,7 +270,7 @@ description: 月營收表 精誠 (6214) - 自動產生
 | **2010/05** | **9.84** | N/A | N/A | **41.5** | <span style="color: #B22222; font-weight: bold;">5.2</span> | <span style="color: #228B22; font-weight: bold;">7.99</span> |
 | **2010/04** | **-** | N/A | N/A | **48** | <span style="color: #B22222; font-weight: bold;">5.32</span> | <span style="color: #228B22; font-weight: bold;">9.02</span> |
 | **2010/03** | **-** | N/A | N/A | **50.1** | <span style="color: #B22222; font-weight: bold;">5.45</span> | <span style="color: #228B22; font-weight: bold;">9.19</span> |
-| **2010/02** | **-** | N/A | N/A | **39.2** | <span style="color: #B22222; font-weight: bold;">5.58</span> | <span style="color: #228B22; font-weight: bold;">7.03</span> |
+| **2010/02** | **-** | N/A | N/A | **39.2** | <span style="color: #B22222; font-weight: bold;">5.58</span> | <span style="color: #32CD32; font-weight: bold;">7.03</span> |
 | **2010/01** | **-** | N/A | N/A | **42.65** | <span style="color: #B22222; font-weight: bold;">5.7</span> | <span style="color: #228B22; font-weight: bold;">7.48</span> |
 | **2009/12** | **-** | N/A | N/A | **50.9** | <span style="color: #B22222; font-weight: bold;">5.83</span> | <span style="color: #228B22; font-weight: bold;">8.73</span> |
 | **2009/11** | **-** | N/A | N/A | **41.5** | <span style="color: #B22222; font-weight: bold;">5.12</span> | <span style="color: #228B22; font-weight: bold;">8.1</span> |
@@ -306,7 +306,7 @@ description: 月營收表 精誠 (6214) - 自動產生
 | **2007/05** | **-** | N/A | N/A | **34.95** | <span style="color: #002818; font-weight: bold;">3.4</span> | <span style="color: #006400; font-weight: bold;">10.26</span> |
 | **2007/04** | **-** | N/A | N/A | **34.75** | <span style="color: #002818; font-weight: bold;">3.46</span> | <span style="color: #006400; font-weight: bold;">10.04</span> |
 | **2007/03** | **-** | N/A | N/A | **36.7** | <span style="color: #002818; font-weight: bold;">3.52</span> | <span style="color: #006400; font-weight: bold;">10.44</span> |
-| **2007/02** | **-** | N/A | N/A | **34.5** | <span style="color: #002818; font-weight: bold;">3.57</span> | <span style="color: #006400; font-weight: bold;">9.66</span> |
+| **2007/02** | **-** | N/A | N/A | **34.5** | <span style="color: #002818; font-weight: bold;">3.57</span> | <span style="color: #228B22; font-weight: bold;">9.66</span> |
 | **2007/01** | **-** | N/A | N/A | **34.1** | <span style="color: #002818; font-weight: bold;">3.62</span> | <span style="color: #228B22; font-weight: bold;">9.41</span> |
 | **2006/12** | **-** | N/A | N/A | **38.9** | <span style="color: #002818; font-weight: bold;">3.68</span> | <span style="color: #006400; font-weight: bold;">10.57</span> |
 | **2006/11** | **-** | N/A | N/A | **32.1** | <span style="color: #002818; font-weight: bold;">3.68</span> | <span style="color: #228B22; font-weight: bold;">8.72</span> |
@@ -318,7 +318,7 @@ description: 月營收表 精誠 (6214) - 自動產生
 | **2006/05** | **-** | N/A | N/A | **31.25** | <span style="color: #002818; font-weight: bold;">3.68</span> | <span style="color: #228B22; font-weight: bold;">8.49</span> |
 | **2006/04** | **-** | N/A | N/A | **31.55** | <span style="color: #002818; font-weight: bold;">3.68</span> | <span style="color: #228B22; font-weight: bold;">8.57</span> |
 | **2006/03** | **-** | N/A | N/A | **29.3** | <span style="color: #002818; font-weight: bold;">3.68</span> | <span style="color: #228B22; font-weight: bold;">7.96</span> |
-| **2006/02** | **-** | N/A | N/A | **30.5** | <span style="color: #002818; font-weight: bold;">3.68</span> | <span style="color: #228B22; font-weight: bold;">8.29</span> |
+| **2006/02** | **-** | N/A | N/A | **30.5** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 精誠 (6214) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

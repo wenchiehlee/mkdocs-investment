@@ -25,7 +25,7 @@ description: 月營收表 美利達 (9914) - 自動產生
     **:building_construction: 公司名稱**: 美利達  
     **:identification_card: 股票代號**: 9914  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 美利達 (9914) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.74** | **6.88** | **11.07** |
-| **P/E倍數** | **13.65** | **23.72** | **134.35** |
+| **EPS(元)** | **2.64** | **6.86** | **11.06** |
+| **P/E倍數** | **13.72** | **23.80** | **134.41** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 美利達 歷史平均獲利能力 (σup=4.18, σlo=4.15)
-    - **P/Ebase**: 美利達 歷史平均估值水準 (σup=110.63, σlo=10.07)
+    - **EPSbase**: 美利達 歷史平均獲利能力 (σup=4.21, σlo=4.21)
+    - **P/Ebase**: 美利達 歷史平均估值水準 (σup=110.60, σlo=10.08)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -111,7 +111,7 @@ description: 月營收表 美利達 (9914) - 自動產生
 | **2023/08** | **20.43** | <span style="color: #228B22; font-weight: bold;">-32.4</span> | <span style="color: #004225; font-weight: bold;">-11.3</span> | **193** | <span style="color: #8B0000; font-weight: bold;">7.55</span> | <span style="color: #8B0000; font-weight: bold;">25.55</span> |
 | **2023/07** | **27.46** | <span style="color: #004225; font-weight: bold;">-15.7</span> | <span style="color: #002818; font-weight: bold;">-8.16</span> | **216.5** | <span style="color: #8B0000; font-weight: bold;">8.03</span> | <span style="color: #8B0000; font-weight: bold;">26.97</span> |
 | **2023/06** | **21.54** | <span style="color: #006400; font-weight: bold;">-28</span> | <span style="color: #002818; font-weight: bold;">-6.72</span> | **222** | <span style="color: #8B0000; font-weight: bold;">8.5</span> | <span style="color: #8B0000; font-weight: bold;">26.12</span> |
-| **2023/05** | **28.84** | <span style="color: #002818; font-weight: bold;">-6.47</span> | <span style="color: #002818; font-weight: bold;">-2.15</span> | **194.5** | <span style="color: #8B0000; font-weight: bold;">8.97</span> | <span style="color: #002818; font-weight: bold;">21.68</span> |
+| **2023/05** | **28.84** | <span style="color: #002818; font-weight: bold;">-6.47</span> | <span style="color: #002818; font-weight: bold;">-2.15</span> | **194.5** | <span style="color: #B22222; font-weight: bold;">8.97</span> | <span style="color: #002818; font-weight: bold;">21.68</span> |
 | **2023/04** | **24.05** | <span style="color: #004225; font-weight: bold;">-11.2</span> | <span style="color: #002818; font-weight: bold;">-0.93</span> | **171.5** | <span style="color: #B22222; font-weight: bold;">9.45</span> | <span style="color: #004225; font-weight: bold;">18.15</span> |
 | **2023/03** | **33.74** | <span style="color: #8B0000; font-weight: bold;">+1.09</span> | <span style="color: #8B0000; font-weight: bold;">+2.45</span> | **168.5** | <span style="color: #B22222; font-weight: bold;">9.92</span> | <span style="color: #004225; font-weight: bold;">16.99</span> |
 | **2023/02** | **27** | <span style="color: #B22222; font-weight: bold;">+17.5</span> | <span style="color: #8B0000; font-weight: bold;">+3.39</span> | **180** | <span style="color: #B22222; font-weight: bold;">10.39</span> | <span style="color: #004225; font-weight: bold;">17.32</span> |
@@ -176,7 +176,7 @@ description: 月營收表 美利達 (9914) - 自動產生
 | **2018/03** | **23.22** | <span style="color: #B22222; font-weight: bold;">+19.6</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **133.5** | <span style="color: #004225; font-weight: bold;">3.43</span> | <span style="color: #8B0000; font-weight: bold;">38.89</span> |
 | **2018/02** | **15.58** | <span style="color: #8B0000; font-weight: bold;">+6.52</span> | <span style="color: #DC143C; font-weight: bold;">+20.9</span> | **128.5** | <span style="color: #004225; font-weight: bold;">3.18</span> | <span style="color: #8B0000; font-weight: bold;">40.43</span> |
 | **2018/01** | **18.83** | <span style="color: #FF4500; font-weight: bold;">+36.1</span> | <span style="color: #FF4500; font-weight: bold;">+36.1</span> | **137.5** | <span style="color: #004225; font-weight: bold;">2.92</span> | <span style="color: #8B0000; font-weight: bold;">47.02</span> |
-| **2017/12** | **18** | <span style="color: #8B0000; font-weight: bold;">+6.1</span> | <span style="color: #002818; font-weight: bold;">-2.08</span> | **125** | <span style="color: #006400; font-weight: bold;">2.67</span> | <span style="color: #8B0000; font-weight: bold;">46.82</span> |
+| **2017/12** | **18** | <span style="color: #8B0000; font-weight: bold;">+6.1</span> | <span style="color: #002818; font-weight: bold;">-2.08</span> | **125** | <span style="color: #004225; font-weight: bold;">2.67</span> | <span style="color: #8B0000; font-weight: bold;">46.82</span> |
 | **2017/11** | **20.62** | <span style="color: #8B0000; font-weight: bold;">+3.49</span> | <span style="color: #002818; font-weight: bold;">-2.73</span> | **124** | <span style="color: #004225; font-weight: bold;">2.98</span> | <span style="color: #8B0000; font-weight: bold;">41.58</span> |
 | **2017/10** | **18.41** | <span style="color: #8B0000; font-weight: bold;">+5.76</span> | <span style="color: #002818; font-weight: bold;">-3.38</span> | **140.5** | <span style="color: #004225; font-weight: bold;">3.3</span> | <span style="color: #8B0000; font-weight: bold;">42.64</span> |
 | **2017/09** | **19.76** | <span style="color: #002818; font-weight: bold;">-1.87</span> | <span style="color: #002818; font-weight: bold;">-4.3</span> | **135.5** | <span style="color: #004225; font-weight: bold;">3.61</span> | <span style="color: #8B0000; font-weight: bold;">37.56</span> |
@@ -206,7 +206,7 @@ description: 月營收表 美利達 (9914) - 自動產生
 | **2015/09** | **26.34** | <span style="color: #B22222; font-weight: bold;">+11.2</span> | <span style="color: #8B0000; font-weight: bold;">+7.79</span> | **177** | <span style="color: #B22222; font-weight: bold;">10.43</span> | <span style="color: #004225; font-weight: bold;">16.97</span> |
 | **2015/08** | **25.98** | <span style="color: #8B0000; font-weight: bold;">+8.01</span> | <span style="color: #8B0000; font-weight: bold;">+7.33</span> | **177** | <span style="color: #B22222; font-weight: bold;">10.51</span> | <span style="color: #004225; font-weight: bold;">16.84</span> |
 | **2015/07** | **32.69** | <span style="color: #B22222; font-weight: bold;">+10.7</span> | <span style="color: #8B0000; font-weight: bold;">+7.23</span> | **196** | <span style="color: #B22222; font-weight: bold;">10.6</span> | <span style="color: #004225; font-weight: bold;">18.49</span> |
-| **2015/06** | **25.65** | <span style="color: #002818; font-weight: bold;">-1.98</span> | <span style="color: #8B0000; font-weight: bold;">+6.41</span> | **200** | <span style="color: #B22222; font-weight: bold;">10.68</span> | <span style="color: #002818; font-weight: bold;">18.72</span> |
+| **2015/06** | **25.65** | <span style="color: #002818; font-weight: bold;">-1.98</span> | <span style="color: #8B0000; font-weight: bold;">+6.41</span> | **200** | <span style="color: #B22222; font-weight: bold;">10.68</span> | <span style="color: #004225; font-weight: bold;">18.72</span> |
 | **2015/05** | **21.33** | <span style="color: #8B0000; font-weight: bold;">+1.71</span> | <span style="color: #8B0000; font-weight: bold;">+8.65</span> | **221.5** | <span style="color: #B22222; font-weight: bold;">10.77</span> | <span style="color: #002818; font-weight: bold;">20.56</span> |
 | **2015/04** | **23.37** | <span style="color: #B22222; font-weight: bold;">+14.2</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **230** | <span style="color: #B22222; font-weight: bold;">10.86</span> | <span style="color: #002818; font-weight: bold;">21.19</span> |
 | **2015/03** | **24.23** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #8B0000; font-weight: bold;">+9.21</span> | **246** | <span style="color: #B22222; font-weight: bold;">10.94</span> | <span style="color: #002818; font-weight: bold;">22.48</span> |
@@ -248,7 +248,7 @@ description: 月營收表 美利達 (9914) - 自動產生
 | **2012/03** | **-** | N/A | N/A | **94.8** | <span style="color: #8B0000; font-weight: bold;">7.55</span> | <span style="color: #006400; font-weight: bold;">12.56</span> |
 | **2012/02** | **-** | N/A | N/A | **83.3** | <span style="color: #8B0000; font-weight: bold;">7.48</span> | <span style="color: #006400; font-weight: bold;">11.14</span> |
 | **2012/01** | **-** | N/A | N/A | **72** | <span style="color: #8B0000; font-weight: bold;">7.4</span> | <span style="color: #006400; font-weight: bold;">9.73</span> |
-| **2011/12** | **-** | N/A | N/A | **63.2** | <span style="color: #8B0000; font-weight: bold;">7.33</span> | <span style="color: #006400; font-weight: bold;">8.62</span> |
+| **2011/12** | **-** | N/A | N/A | **63.2** | <span style="color: #8B0000; font-weight: bold;">7.33</span> | <span style="color: #228B22; font-weight: bold;">8.62</span> |
 | **2011/11** | **-** | N/A | N/A | **66.5** | <span style="color: #8B0000; font-weight: bold;">7.14</span> | <span style="color: #006400; font-weight: bold;">9.31</span> |
 | **2011/10** | **-** | N/A | N/A | **72.5** | <span style="color: #8B0000; font-weight: bold;">6.95</span> | <span style="color: #006400; font-weight: bold;">10.43</span> |
 | **2011/09** | **-** | N/A | N/A | **67.9** | <span style="color: #002818; font-weight: bold;">6.76</span> | <span style="color: #006400; font-weight: bold;">10.05</span> |
@@ -266,8 +266,8 @@ description: 月營收表 美利達 (9914) - 自動產生
 | **2010/09** | **-** | N/A | N/A | **54** | <span style="color: #002818; font-weight: bold;">4.92</span> | <span style="color: #006400; font-weight: bold;">10.98</span> |
 | **2010/08** | **-** | N/A | N/A | **53.7** | <span style="color: #002818; font-weight: bold;">4.88</span> | <span style="color: #006400; font-weight: bold;">11.01</span> |
 | **2010/07** | **-** | N/A | N/A | **52.1** | <span style="color: #002818; font-weight: bold;">4.84</span> | <span style="color: #006400; font-weight: bold;">10.77</span> |
-| **2010/06** | **-** | N/A | N/A | **45.1** | <span style="color: #004225; font-weight: bold;">4.8</span> | <span style="color: #006400; font-weight: bold;">9.41</span> |
-| **2010/05** | **-** | N/A | N/A | **45.8** | <span style="color: #004225; font-weight: bold;">4.75</span> | <span style="color: #006400; font-weight: bold;">9.63</span> |
+| **2010/06** | **-** | N/A | N/A | **45.1** | <span style="color: #002818; font-weight: bold;">4.8</span> | <span style="color: #006400; font-weight: bold;">9.41</span> |
+| **2010/05** | **-** | N/A | N/A | **45.8** | <span style="color: #002818; font-weight: bold;">4.75</span> | <span style="color: #006400; font-weight: bold;">9.63</span> |
 | **2010/04** | **-** | N/A | N/A | **48.3** | <span style="color: #004225; font-weight: bold;">4.71</span> | <span style="color: #006400; font-weight: bold;">10.25</span> |
 | **2010/03** | **-** | N/A | N/A | **48.4** | <span style="color: #004225; font-weight: bold;">4.67</span> | <span style="color: #006400; font-weight: bold;">10.36</span> |
 | **2010/02** | **-** | N/A | N/A | **45.8** | <span style="color: #004225; font-weight: bold;">4.63</span> | <span style="color: #006400; font-weight: bold;">9.89</span> |
@@ -275,7 +275,7 @@ description: 月營收表 美利達 (9914) - 自動產生
 | **2009/12** | **-** | N/A | N/A | **52** | <span style="color: #004225; font-weight: bold;">4.55</span> | <span style="color: #006400; font-weight: bold;">11.43</span> |
 | **2009/11** | **-** | N/A | N/A | **52.8** | <span style="color: #004225; font-weight: bold;">4.63</span> | <span style="color: #006400; font-weight: bold;">11.4</span> |
 | **2009/10** | **-** | N/A | N/A | **53.1** | <span style="color: #004225; font-weight: bold;">4.71</span> | <span style="color: #006400; font-weight: bold;">11.27</span> |
-| **2009/09** | **-** | N/A | N/A | **53.8** | <span style="color: #004225; font-weight: bold;">4.79</span> | <span style="color: #006400; font-weight: bold;">11.23</span> |
+| **2009/09** | **-** | N/A | N/A | **53.8** | <span style="color: #002818; font-weight: bold;">4.79</span> | <span style="color: #006400; font-weight: bold;">11.23</span> |
 | **2009/08** | **-** | N/A | N/A | **50.6** | <span style="color: #002818; font-weight: bold;">4.87</span> | <span style="color: #006400; font-weight: bold;">10.38</span> |
 | **2009/07** | **-** | N/A | N/A | **57.3** | <span style="color: #002818; font-weight: bold;">4.95</span> | <span style="color: #006400; font-weight: bold;">11.57</span> |
 | **2009/06** | **-** | N/A | N/A | **52** | <span style="color: #002818; font-weight: bold;">5.04</span> | <span style="color: #006400; font-weight: bold;">10.33</span> |
@@ -302,7 +302,7 @@ description: 月營收表 美利達 (9914) - 自動產生
 | **2007/09** | **-** | N/A | N/A | **73.1** | <span style="color: #002818; font-weight: bold;">5.48</span> | <span style="color: #006400; font-weight: bold;">13.33</span> |
 | **2007/08** | **-** | N/A | N/A | **75.4** | <span style="color: #002818; font-weight: bold;">5.25</span> | <span style="color: #004225; font-weight: bold;">14.35</span> |
 | **2007/07** | **-** | N/A | N/A | **70.4** | <span style="color: #002818; font-weight: bold;">5.02</span> | <span style="color: #004225; font-weight: bold;">14.02</span> |
-| **2007/06** | **-** | N/A | N/A | **55** | <span style="color: #004225; font-weight: bold;">4.79</span> | <span style="color: #006400; font-weight: bold;">11.48</span> |
+| **2007/06** | **-** | N/A | N/A | **55** | <span style="color: #002818; font-weight: bold;">4.79</span> | <span style="color: #006400; font-weight: bold;">11.48</span> |
 | **2007/05** | **-** | N/A | N/A | **47.8** | <span style="color: #004225; font-weight: bold;">4.56</span> | <span style="color: #006400; font-weight: bold;">10.49</span> |
 | **2007/04** | **-** | N/A | N/A | **49.4** | <span style="color: #004225; font-weight: bold;">4.33</span> | <span style="color: #006400; font-weight: bold;">11.42</span> |
 | **2007/03** | **-** | N/A | N/A | **38.3** | <span style="color: #004225; font-weight: bold;">4.1</span> | <span style="color: #006400; font-weight: bold;">9.35</span> |
@@ -318,7 +318,7 @@ description: 月營收表 美利達 (9914) - 自動產生
 | **2006/05** | **-** | N/A | N/A | **22** | <span style="color: #004225; font-weight: bold;">3.4</span> | <span style="color: #228B22; font-weight: bold;">6.47</span> |
 | **2006/04** | **-** | N/A | N/A | **22.45** | <span style="color: #004225; font-weight: bold;">3.4</span> | <span style="color: #228B22; font-weight: bold;">6.6</span> |
 | **2006/03** | **-** | N/A | N/A | **21.2** | <span style="color: #004225; font-weight: bold;">3.4</span> | <span style="color: #228B22; font-weight: bold;">6.24</span> |
-| **2006/02** | **-** | N/A | N/A | **20.5** | <span style="color: #004225; font-weight: bold;">3.4</span> | <span style="color: #228B22; font-weight: bold;">6.03</span> |
+| **2006/02** | **-** | N/A | N/A | **20.5** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 美利達 (9914) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

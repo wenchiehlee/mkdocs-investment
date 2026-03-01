@@ -25,7 +25,7 @@ description: 月營收表 仁寶 (2324) - 自動產生
     **:building_construction: 公司名稱**: 仁寶  
     **:identification_card: 股票代號**: 2324  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 仁寶 (2324) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.65** | **2.36** | **3.96** |
-| **P/E倍數** | **9.18** | **12.68** | **19.63** |
+| **EPS(元)** | **1.65** | **2.35** | **3.96** |
+| **P/E倍數** | **9.19** | **12.72** | **19.73** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 仁寶 歷史平均獲利能力 (σup=1.60, σlo=0.71)
-    - **P/Ebase**: 仁寶 歷史平均估值水準 (σup=6.94, σlo=3.50)
+    - **P/Ebase**: 仁寶 歷史平均估值水準 (σup=7.01, σlo=3.52)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -94,7 +94,7 @@ description: 月營收表 仁寶 (2324) - 自動產生
 | **2025/01** | **553.3** | <span style="color: #004225; font-weight: bold;">-13.6</span> | <span style="color: #004225; font-weight: bold;">-13.6</span> | **36.65** | <span style="color: #002818; font-weight: bold;">2.23</span> | <span style="color: #B22222; font-weight: bold;">16.41</span> |
 | **2024/12** | **640.6** | <span style="color: #002818; font-weight: bold;">-7.88</span> | <span style="color: #002818; font-weight: bold;">-3.84</span> | **37.65** | <span style="color: #002818; font-weight: bold;">2.3</span> | <span style="color: #B22222; font-weight: bold;">16.37</span> |
 | **2024/11** | **796.7** | <span style="color: #002818; font-weight: bold;">-5.87</span> | <span style="color: #002818; font-weight: bold;">-3.52</span> | **36.85** | <span style="color: #002818; font-weight: bold;">2.26</span> | <span style="color: #B22222; font-weight: bold;">16.34</span> |
-| **2024/10** | **854.5** | <span style="color: #002818; font-weight: bold;">-2.33</span> | <span style="color: #002818; font-weight: bold;">-3.27</span> | **35.85** | <span style="color: #002818; font-weight: bold;">2.21</span> | <span style="color: #B22222; font-weight: bold;">16.22</span> |
+| **2024/10** | **854.5** | <span style="color: #002818; font-weight: bold;">-2.33</span> | <span style="color: #002818; font-weight: bold;">-3.27</span> | **35.85** | <span style="color: #002818; font-weight: bold;">2.21</span> | <span style="color: #8B0000; font-weight: bold;">16.22</span> |
 | **2024/09** | **837.7** | <span style="color: #002818; font-weight: bold;">-1.6</span> | <span style="color: #002818; font-weight: bold;">-3.39</span> | **33.3** | <span style="color: #002818; font-weight: bold;">2.16</span> | <span style="color: #8B0000; font-weight: bold;">15.38</span> |
 | **2024/08** | **841.1** | <span style="color: #8B0000; font-weight: bold;">+2.9</span> | <span style="color: #002818; font-weight: bold;">-3.64</span> | **33.2** | <span style="color: #002818; font-weight: bold;">2.12</span> | <span style="color: #8B0000; font-weight: bold;">15.66</span> |
 | **2024/07** | **764.4** | <span style="color: #002818; font-weight: bold;">-9.9</span> | <span style="color: #002818; font-weight: bold;">-4.63</span> | **31.45** | <span style="color: #002818; font-weight: bold;">2.07</span> | <span style="color: #8B0000; font-weight: bold;">15.16</span> |
@@ -120,7 +120,7 @@ description: 月營收表 仁寶 (2324) - 自動產生
 | **2022/11** | **813.4** | <span style="color: #228B22; font-weight: bold;">-34</span> | <span style="color: #002818; font-weight: bold;">-9.67</span> | **21.65** | <span style="color: #004225; font-weight: bold;">1.77</span> | <span style="color: #002818; font-weight: bold;">12.21</span> |
 | **2022/10** | **948.5** | <span style="color: #004225; font-weight: bold;">-18.8</span> | <span style="color: #002818; font-weight: bold;">-6.63</span> | **21.1** | <span style="color: #004225; font-weight: bold;">1.87</span> | <span style="color: #002818; font-weight: bold;">11.25</span> |
 | **2022/09** | **1046** | <span style="color: #004225; font-weight: bold;">-17.3</span> | <span style="color: #002818; font-weight: bold;">-4.99</span> | **21.7** | <span style="color: #004225; font-weight: bold;">1.98</span> | <span style="color: #002818; font-weight: bold;">10.97</span> |
-| **2022/08** | **888.4** | <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #002818; font-weight: bold;">-2.88</span> | **22.75** | <span style="color: #002818; font-weight: bold;">2.08</span> | <span style="color: #002818; font-weight: bold;">10.94</span> |
+| **2022/08** | **888.4** | <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #002818; font-weight: bold;">-2.88</span> | **22.75** | <span style="color: #002818; font-weight: bold;">2.08</span> | <span style="color: #004225; font-weight: bold;">10.94</span> |
 | **2022/07** | **976.3** | <span style="color: #002818; font-weight: bold;">-9.59</span> | <span style="color: #002818; font-weight: bold;">-1.22</span> | **22.8** | <span style="color: #002818; font-weight: bold;">2.18</span> | <span style="color: #004225; font-weight: bold;">10.45</span> |
 | **2022/06** | **1225** | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | <span style="color: #8B0000; font-weight: bold;">+0.47</span> | **22.75** | <span style="color: #002818; font-weight: bold;">2.28</span> | <span style="color: #004225; font-weight: bold;">9.96</span> |
 | **2022/05** | **892.7** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #002818; font-weight: bold;">-6.48</span> | **23** | <span style="color: #8B0000; font-weight: bold;">2.39</span> | <span style="color: #004225; font-weight: bold;">9.63</span> |
@@ -199,7 +199,7 @@ description: 月營收表 仁寶 (2324) - 自動產生
 | **2016/04** | **463.1** | <span style="color: #006400; font-weight: bold;">-24.9</span> | <span style="color: #004225; font-weight: bold;">-14.2</span> | **19** | <span style="color: #004225; font-weight: bold;">1.97</span> | <span style="color: #004225; font-weight: bold;">9.66</span> |
 | **2016/03** | **695.8** | <span style="color: #002818; font-weight: bold;">-7.16</span> | <span style="color: #004225; font-weight: bold;">-10.9</span> | **20.2** | <span style="color: #004225; font-weight: bold;">1.98</span> | <span style="color: #004225; font-weight: bold;">10.21</span> |
 | **2016/02** | **509.8** | <span style="color: #002818; font-weight: bold;">-6.64</span> | <span style="color: #004225; font-weight: bold;">-13.2</span> | **19.5** | <span style="color: #004225; font-weight: bold;">1.99</span> | <span style="color: #004225; font-weight: bold;">9.81</span> |
-| **2016/01** | **560.8** | <span style="color: #004225; font-weight: bold;">-18.4</span> | <span style="color: #004225; font-weight: bold;">-18.4</span> | **19.05** | <span style="color: #004225; font-weight: bold;">2.0</span> | <span style="color: #004225; font-weight: bold;">9.53</span> |
+| **2016/01** | **560.8** | <span style="color: #004225; font-weight: bold;">-18.4</span> | <span style="color: #004225; font-weight: bold;">-18.4</span> | **19.05** | <span style="color: #002818; font-weight: bold;">2.0</span> | <span style="color: #004225; font-weight: bold;">9.53</span> |
 | **2015/12** | **831.7** | <span style="color: #8B0000; font-weight: bold;">+0.3</span> | <span style="color: #8B0000; font-weight: bold;">+0.16</span> | **18.5** | <span style="color: #002818; font-weight: bold;">2.01</span> | <span style="color: #004225; font-weight: bold;">9.2</span> |
 | **2015/11** | **778.9** | <span style="color: #002818; font-weight: bold;">-5.52</span> | <span style="color: #8B0000; font-weight: bold;">+0.15</span> | **18.1** | <span style="color: #004225; font-weight: bold;">1.98</span> | <span style="color: #006400; font-weight: bold;">9.15</span> |
 | **2015/10** | **731** | <span style="color: #002818; font-weight: bold;">-9.91</span> | <span style="color: #8B0000; font-weight: bold;">+0.84</span> | **20.3** | <span style="color: #004225; font-weight: bold;">1.95</span> | <span style="color: #004225; font-weight: bold;">10.43</span> |
@@ -228,8 +228,8 @@ description: 月營收表 仁寶 (2324) - 自動產生
 | **2013/11** | **659.7** | <span style="color: #8B0000; font-weight: bold;">+3.77</span> | <span style="color: #8B0000; font-weight: bold;">+0.71</span> | **22.35** | <span style="color: #32CD32; font-weight: bold;">0.64</span> | <span style="color: #FF7F7F; font-weight: bold;">34.65</span> |
 | **2013/10** | **627.7** | <span style="color: #8B0000; font-weight: bold;">+3.91</span> | <span style="color: #8B0000; font-weight: bold;">+0.36</span> | **23** | <span style="color: #32CD32; font-weight: bold;">0.72</span> | <span style="color: #FF6347; font-weight: bold;">31.94</span> |
 | **2013/09** | **619.4** | <span style="color: #002818; font-weight: bold;">-4.93</span> | <span style="color: #002818; font-weight: bold;">-0.05</span> | **21.6** | <span style="color: #32CD32; font-weight: bold;">0.8</span> | <span style="color: #FF6347; font-weight: bold;">27.17</span> |
-| **2013/08** | **521** | <span style="color: #8B0000; font-weight: bold;">+0.74</span> | <span style="color: #8B0000; font-weight: bold;">+0.67</span> | **20.15** | <span style="color: #32CD32; font-weight: bold;">0.87</span> | <span style="color: #FF4500; font-weight: bold;">23.16</span> |
-| **2013/07** | **508.6** | <span style="color: #002818; font-weight: bold;">-9.24</span> | <span style="color: #8B0000; font-weight: bold;">+0.66</span> | **20.8** | <span style="color: #32CD32; font-weight: bold;">0.94</span> | <span style="color: #DC143C; font-weight: bold;">22.01</span> |
+| **2013/08** | **521** | <span style="color: #8B0000; font-weight: bold;">+0.74</span> | <span style="color: #8B0000; font-weight: bold;">+0.67</span> | **20.15** | <span style="color: #32CD32; font-weight: bold;">0.87</span> | <span style="color: #DC143C; font-weight: bold;">23.16</span> |
+| **2013/07** | **508.6** | <span style="color: #002818; font-weight: bold;">-9.24</span> | <span style="color: #8B0000; font-weight: bold;">+0.66</span> | **20.8** | <span style="color: #228B22; font-weight: bold;">0.94</span> | <span style="color: #DC143C; font-weight: bold;">22.01</span> |
 | **2013/06** | **570** | <span style="color: #002818; font-weight: bold;">-9.27</span> | <span style="color: #8B0000; font-weight: bold;">+2.36</span> | **16.85** | <span style="color: #228B22; font-weight: bold;">1.02</span> | <span style="color: #B22222; font-weight: bold;">16.52</span> |
 | **2013/05** | **530.2** | <span style="color: #8B0000; font-weight: bold;">+2.77</span> | <span style="color: #8B0000; font-weight: bold;">+5.13</span> | **18.45** | <span style="color: #228B22; font-weight: bold;">1.1</span> | <span style="color: #B22222; font-weight: bold;">16.85</span> |
 | **2013/04** | **571.2** | <span style="color: #B22222; font-weight: bold;">+13.1</span> | <span style="color: #8B0000; font-weight: bold;">+5.7</span> | **19.1** | <span style="color: #228B22; font-weight: bold;">1.17</span> | <span style="color: #B22222; font-weight: bold;">16.32</span> |
@@ -242,7 +242,7 @@ description: 月營收表 仁寶 (2324) - 自動產生
 | **2012/09** | **645.2** | <span style="color: #B22222; font-weight: bold;">+12.9</span> | <span style="color: #002818; font-weight: bold;">-4.19</span> | **26.35** | <span style="color: #004225; font-weight: bold;">1.74</span> | <span style="color: #8B0000; font-weight: bold;">15.19</span> |
 | **2012/08** | **517.6** | <span style="color: #004225; font-weight: bold;">-10.2</span> | <span style="color: #002818; font-weight: bold;">-6.3</span> | **26.25** | <span style="color: #004225; font-weight: bold;">1.82</span> | <span style="color: #8B0000; font-weight: bold;">14.4</span> |
 | **2012/07** | **560.8** | <span style="color: #002818; font-weight: bold;">-3.33</span> | <span style="color: #002818; font-weight: bold;">-5.73</span> | **28.2** | <span style="color: #004225; font-weight: bold;">1.91</span> | <span style="color: #8B0000; font-weight: bold;">14.75</span> |
-| **2012/06** | **629.8** | <span style="color: #8B0000; font-weight: bold;">+6.27</span> | <span style="color: #002818; font-weight: bold;">-6.14</span> | **27.35** | <span style="color: #004225; font-weight: bold;">2.0</span> | <span style="color: #8B0000; font-weight: bold;">13.68</span> |
+| **2012/06** | **629.8** | <span style="color: #8B0000; font-weight: bold;">+6.27</span> | <span style="color: #002818; font-weight: bold;">-6.14</span> | **27.35** | <span style="color: #002818; font-weight: bold;">2.0</span> | <span style="color: #8B0000; font-weight: bold;">13.68</span> |
 | **2012/05** | **515.8** | <span style="color: #004225; font-weight: bold;">-10.9</span> | <span style="color: #002818; font-weight: bold;">-8.69</span> | **30.8** | <span style="color: #002818; font-weight: bold;">2.09</span> | <span style="color: #8B0000; font-weight: bold;">14.75</span> |
 | **2012/04** | **504.8** | <span style="color: #004225; font-weight: bold;">-14.7</span> | <span style="color: #002818; font-weight: bold;">-8.12</span> | **33.6** | <span style="color: #002818; font-weight: bold;">2.18</span> | <span style="color: #8B0000; font-weight: bold;">15.44</span> |
 | **2012/03** | **592.4** | <span style="color: #004225; font-weight: bold;">-14.9</span> | <span style="color: #002818; font-weight: bold;">-5.85</span> | **33.2** | <span style="color: #002818; font-weight: bold;">2.26</span> | <span style="color: #8B0000; font-weight: bold;">14.66</span> |
@@ -403,7 +403,7 @@ description: 月營收表 仁寶 (2324) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

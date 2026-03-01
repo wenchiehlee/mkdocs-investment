@@ -25,7 +25,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
     **:building_construction: 公司名稱**: 富邦媒  
     **:identification_card: 股票代號**: 8454  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **9.03** | **12.01** | **15.34** |
-| **P/E倍數** | **25.38** | **36.29** | **68.43** |
+| **EPS(元)** | **9.05** | **12.01** | **15.34** |
+| **P/E倍數** | **25.23** | **36.14** | **68.39** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 富邦媒 歷史平均獲利能力 (σup=3.33, σlo=2.98)
-    - **P/Ebase**: 富邦媒 歷史平均估值水準 (σup=32.14, σlo=10.91)
+    - **EPSbase**: 富邦媒 歷史平均獲利能力 (σup=3.33, σlo=2.96)
+    - **P/Ebase**: 富邦媒 歷史平均估值水準 (σup=32.25, σlo=10.91)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -199,7 +199,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 | **2016/04** | **21.51** | <span style="color: #8B0000; font-weight: bold;">+4.9</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **210** | <span style="color: #006400; font-weight: bold;">7.8</span> | <span style="color: #004225; font-weight: bold;">26.91</span> |
 | **2016/03** | **22.34** | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **214** | <span style="color: #006400; font-weight: bold;">7.72</span> | <span style="color: #004225; font-weight: bold;">27.71</span> |
 | **2016/02** | **20.85** | <span style="color: #8B0000; font-weight: bold;">+3.44</span> | <span style="color: #B22222; font-weight: bold;">+12.9</span> | **214** | <span style="color: #006400; font-weight: bold;">7.64</span> | <span style="color: #004225; font-weight: bold;">28.0</span> |
-| **2016/01** | **26.87** | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **212** | <span style="color: #006400; font-weight: bold;">7.56</span> | <span style="color: #004225; font-weight: bold;">28.04</span> |
+| **2016/01** | **26.87** | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **212** | <span style="color: #228B22; font-weight: bold;">7.56</span> | <span style="color: #004225; font-weight: bold;">28.04</span> |
 | **2015/12** | **24.22** | <span style="color: #B22222; font-weight: bold;">+12</span> | <span style="color: #8B0000; font-weight: bold;">+7.29</span> | **213.5** | <span style="color: #228B22; font-weight: bold;">7.48</span> | <span style="color: #004225; font-weight: bold;">28.54</span> |
 | **2015/11** | **22.21** | <span style="color: #8B0000; font-weight: bold;">+6.84</span> | <span style="color: #8B0000; font-weight: bold;">+6.82</span> | **217.5** | <span style="color: #006400; font-weight: bold;">7.62</span> | <span style="color: #004225; font-weight: bold;">28.56</span> |
 | **2015/10** | **22.1** | <span style="color: #8B0000; font-weight: bold;">+5.55</span> | <span style="color: #8B0000; font-weight: bold;">+6.81</span> | **186** | <span style="color: #006400; font-weight: bold;">7.75</span> | <span style="color: #006400; font-weight: bold;">23.99</span> |
@@ -320,7 +320,7 @@ description: 月營收表 富邦媒 (8454) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

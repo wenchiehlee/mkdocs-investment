@@ -25,7 +25,7 @@ description: 月營收表 金興精密 (7732) - 自動產生
     **:building_construction: 公司名稱**: 金興精密  
     **:identification_card: 股票代號**: 7732  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 金興精密 (7732) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **1.92** | **1.92** | **2.92** |
-| **P/E倍數** | **19.32** | **20.61** | **22.08** |
+| **P/E倍數** | **19.32** | **20.62** | **21.98** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 金興精密 歷史平均獲利能力 (σup=1.00, σlo=0.00)
-    - **P/Ebase**: 金興精密 歷史平均估值水準 (σup=1.47, σlo=1.29)
+    - **P/Ebase**: 金興精密 歷史平均估值水準 (σup=1.36, σlo=1.30)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -90,8 +90,8 @@ description: 月營收表 金興精密 (7732) - 自動產生
 | **2025/05** | **1.04** | <span style="color: #004225; font-weight: bold;">-11.5</span> | <span style="color: #8B0000; font-weight: bold;">+3.31</span> | **42.45** | <span style="color: #004225; font-weight: bold;">1.92</span> | <span style="color: #DC143C; font-weight: bold;">22.11</span> |
 | **2025/04** | **1.1** | <span style="color: #002818; font-weight: bold;">-5.65</span> | <span style="color: #8B0000; font-weight: bold;">+7.54</span> | **41.85** | <span style="color: #004225; font-weight: bold;">1.92</span> | <span style="color: #B22222; font-weight: bold;">21.8</span> |
 | **2025/03** | **1.42** | <span style="color: #8B0000; font-weight: bold;">+0.66</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **38.75** | <span style="color: #004225; font-weight: bold;">1.92</span> | <span style="color: #002818; font-weight: bold;">20.18</span> |
-| **2025/02** | **1.01** | <span style="color: #B22222; font-weight: bold;">+14.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.8</span> | **43.7** | <span style="color: #004225; font-weight: bold;">1.92</span> | <span style="color: #DC143C; font-weight: bold;">22.76</span> |
-| **2025/01** | **0.894** | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | **43.5** | <span style="color: #004225; font-weight: bold;">1.92</span> | <span style="color: #DC143C; font-weight: bold;">22.66</span> |
+| **2025/02** | **1.01** | <span style="color: #B22222; font-weight: bold;">+14.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.8</span> | **43.7** | <span style="color: #004225; font-weight: bold;">1.92</span> | <span style="color: #FF4500; font-weight: bold;">22.76</span> |
+| **2025/01** | **0.894** | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | **43.5** | <span style="color: #004225; font-weight: bold;">1.92</span> | <span style="color: #FF4500; font-weight: bold;">22.66</span> |
 | **2024/12** | **1** | <span style="color: #8B0000; font-weight: bold;">+5.17</span> | <span style="color: #8B0000; font-weight: bold;">+5.02</span> | **-** | N/A | N/A |
 | **2024/11** | **0.899** | <span style="color: #DC143C; font-weight: bold;">+25.2</span> | <span style="color: #8B0000; font-weight: bold;">+5.01</span> | **-** | N/A | N/A |
 | **2024/10** | **0.571** | <span style="color: #002818; font-weight: bold;">-1.86</span> | <span style="color: #8B0000; font-weight: bold;">+3.33</span> | **-** | N/A | N/A |
@@ -200,7 +200,7 @@ description: 月營收表 金興精密 (7732) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

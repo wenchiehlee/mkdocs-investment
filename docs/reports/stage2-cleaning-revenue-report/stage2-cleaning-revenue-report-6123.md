@@ -25,7 +25,7 @@ description: 月營收表 上奇 (6123) - 自動產生
     **:building_construction: 公司名稱**: 上奇  
     **:identification_card: 股票代號**: 6123  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 上奇 (6123) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.08** | **3.04** | **4.14** |
-| **P/E倍數** | **9.82** | **12.94** | **17.41** |
+| **EPS(元)** | **2.09** | **3.04** | **4.15** |
+| **P/E倍數** | **9.90** | **12.97** | **17.45** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 上奇 歷史平均獲利能力 (σup=1.11, σlo=0.96)
-    - **P/Ebase**: 上奇 歷史平均估值水準 (σup=4.48, σlo=3.11)
+    - **EPSbase**: 上奇 歷史平均獲利能力 (σup=1.11, σlo=0.95)
+    - **P/Ebase**: 上奇 歷史平均估值水準 (σup=4.47, σlo=3.08)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -114,7 +114,7 @@ description: 月營收表 上奇 (6123) - 自動產生
 | **2023/05** | **3.78** | <span style="color: #002818; font-weight: bold;">-6.62</span> | <span style="color: #8B0000; font-weight: bold;">+0.31</span> | **73.3** | <span style="color: #FF4500; font-weight: bold;">4.85</span> | <span style="color: #8B0000; font-weight: bold;">15.12</span> |
 | **2023/04** | **3.75** | <span style="color: #002818; font-weight: bold;">-9.98</span> | <span style="color: #8B0000; font-weight: bold;">+2.08</span> | **70.2** | <span style="color: #FF4500; font-weight: bold;">4.98</span> | <span style="color: #8B0000; font-weight: bold;">14.11</span> |
 | **2023/03** | **4.91** | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | <span style="color: #8B0000; font-weight: bold;">+6.39</span> | **68.5** | <span style="color: #FF4500; font-weight: bold;">5.11</span> | <span style="color: #8B0000; font-weight: bold;">13.42</span> |
-| **2023/02** | **3.96** | <span style="color: #8B0000; font-weight: bold;">+8.49</span> | <span style="color: #002818; font-weight: bold;">-5.35</span> | **67.8** | <span style="color: #FF4500; font-weight: bold;">5.23</span> | <span style="color: #8B0000; font-weight: bold;">12.96</span> |
+| **2023/02** | **3.96** | <span style="color: #8B0000; font-weight: bold;">+8.49</span> | <span style="color: #002818; font-weight: bold;">-5.35</span> | **67.8** | <span style="color: #FF4500; font-weight: bold;">5.23</span> | <span style="color: #002818; font-weight: bold;">12.96</span> |
 | **2023/01** | **3.52** | <span style="color: #004225; font-weight: bold;">-17.2</span> | <span style="color: #004225; font-weight: bold;">-17.2</span> | **56.3** | <span style="color: #FF6347; font-weight: bold;">5.36</span> | <span style="color: #004225; font-weight: bold;">10.5</span> |
 | **2022/12** | **3.82** | <span style="color: #8B0000; font-weight: bold;">+4.88</span> | <span style="color: #8B0000; font-weight: bold;">+7.11</span> | **53.6** | <span style="color: #FF6347; font-weight: bold;">5.49</span> | <span style="color: #006400; font-weight: bold;">9.76</span> |
 | **2022/11** | **4.54** | <span style="color: #FF4500; font-weight: bold;">+33.8</span> | <span style="color: #8B0000; font-weight: bold;">+7.28</span> | **55.2** | <span style="color: #FF6347; font-weight: bold;">5.44</span> | <span style="color: #004225; font-weight: bold;">10.15</span> |
@@ -122,7 +122,7 @@ description: 月營收表 上奇 (6123) - 自動產生
 | **2022/09** | **5.34** | <span style="color: #FF7F7F; font-weight: bold;">+54.5</span> | <span style="color: #8B0000; font-weight: bold;">+0.36</span> | **54.8** | <span style="color: #FF6347; font-weight: bold;">5.34</span> | <span style="color: #004225; font-weight: bold;">10.27</span> |
 | **2022/08** | **5.16** | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | <span style="color: #002818; font-weight: bold;">-4.89</span> | **55.8** | <span style="color: #FF6347; font-weight: bold;">5.28</span> | <span style="color: #004225; font-weight: bold;">10.56</span> |
 | **2022/07** | **4.85** | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | <span style="color: #002818; font-weight: bold;">-8.46</span> | **53.1** | <span style="color: #FF4500; font-weight: bold;">5.23</span> | <span style="color: #004225; font-weight: bold;">10.15</span> |
-| **2022/06** | **4.05** | <span style="color: #8B0000; font-weight: bold;">+9.08</span> | <span style="color: #004225; font-weight: bold;">-13.2</span> | **51.2** | <span style="color: #FF4500; font-weight: bold;">5.18</span> | <span style="color: #004225; font-weight: bold;">9.88</span> |
+| **2022/06** | **4.05** | <span style="color: #8B0000; font-weight: bold;">+9.08</span> | <span style="color: #004225; font-weight: bold;">-13.2</span> | **51.2** | <span style="color: #FF4500; font-weight: bold;">5.18</span> | <span style="color: #006400; font-weight: bold;">9.88</span> |
 | **2022/05** | **4.04** | <span style="color: #8B0000; font-weight: bold;">+6.2</span> | <span style="color: #004225; font-weight: bold;">-16.7</span> | **54.8** | <span style="color: #FF4500; font-weight: bold;">5.13</span> | <span style="color: #004225; font-weight: bold;">10.69</span> |
 | **2022/04** | **4.16** | <span style="color: #004225; font-weight: bold;">-17.7</span> | <span style="color: #006400; font-weight: bold;">-21</span> | **53.6** | <span style="color: #FF4500; font-weight: bold;">5.08</span> | <span style="color: #004225; font-weight: bold;">10.56</span> |
 | **2022/03** | **3.74** | <span style="color: #006400; font-weight: bold;">-26</span> | <span style="color: #006400; font-weight: bold;">-22.2</span> | **54.9** | <span style="color: #FF4500; font-weight: bold;">5.03</span> | <span style="color: #004225; font-weight: bold;">10.93</span> |
@@ -162,7 +162,7 @@ description: 月營收表 上奇 (6123) - 自動產生
 | **2019/05** | **3.36** | <span style="color: #B22222; font-weight: bold;">+17.8</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **45.6** | <span style="color: #B22222; font-weight: bold;">3.68</span> | <span style="color: #002818; font-weight: bold;">12.4</span> |
 | **2019/04** | **3.65** | <span style="color: #FF6347; font-weight: bold;">+40.5</span> | <span style="color: #DC143C; font-weight: bold;">+27.3</span> | **46.75** | <span style="color: #B22222; font-weight: bold;">3.67</span> | <span style="color: #002818; font-weight: bold;">12.73</span> |
 | **2019/03** | **4.13** | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | **46.35** | <span style="color: #B22222; font-weight: bold;">3.67</span> | <span style="color: #002818; font-weight: bold;">12.63</span> |
-| **2019/02** | **2.98** | <span style="color: #FF4500; font-weight: bold;">+36.2</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **41.9** | <span style="color: #B22222; font-weight: bold;">3.67</span> | <span style="color: #002818; font-weight: bold;">11.43</span> |
+| **2019/02** | **2.98** | <span style="color: #FF4500; font-weight: bold;">+36.2</span> | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | **41.9** | <span style="color: #B22222; font-weight: bold;">3.67</span> | <span style="color: #004225; font-weight: bold;">11.43</span> |
 | **2019/01** | **3.54** | <span style="color: #B22222; font-weight: bold;">+11</span> | <span style="color: #B22222; font-weight: bold;">+11</span> | **40.2** | <span style="color: #B22222; font-weight: bold;">3.66</span> | <span style="color: #004225; font-weight: bold;">10.97</span> |
 | **2018/12** | **3.51** | <span style="color: #002818; font-weight: bold;">-3.26</span> | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | **38.3** | <span style="color: #B22222; font-weight: bold;">3.66</span> | <span style="color: #004225; font-weight: bold;">10.46</span> |
 | **2018/11** | **4.36** | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | <span style="color: #DC143C; font-weight: bold;">+26.1</span> | **40.1** | <span style="color: #B22222; font-weight: bold;">3.61</span> | <span style="color: #004225; font-weight: bold;">11.11</span> |
@@ -238,7 +238,7 @@ description: 月營收表 上奇 (6123) - 自動產生
 | **2013/01** | **2.78** | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | **28.8** | <span style="color: #004225; font-weight: bold;">2.41</span> | <span style="color: #002818; font-weight: bold;">11.95</span> |
 | **2012/12** | **3.73** | <span style="color: #000000; font-weight: bold;">0</span> | <span style="color: #8B0000; font-weight: bold;">+6.69</span> | **27.75** | <span style="color: #004225; font-weight: bold;">2.51</span> | <span style="color: #004225; font-weight: bold;">11.06</span> |
 | **2012/11** | **3.15** | <span style="color: #8B0000; font-weight: bold;">+1.25</span> | <span style="color: #8B0000; font-weight: bold;">+7.5</span> | **28.2** | <span style="color: #004225; font-weight: bold;">2.53</span> | <span style="color: #004225; font-weight: bold;">11.13</span> |
-| **2012/10** | **2.68** | <span style="color: #004225; font-weight: bold;">-14.3</span> | <span style="color: #8B0000; font-weight: bold;">+8.2</span> | **28.15** | <span style="color: #002818; font-weight: bold;">2.56</span> | <span style="color: #004225; font-weight: bold;">11.01</span> |
+| **2012/10** | **2.68** | <span style="color: #004225; font-weight: bold;">-14.3</span> | <span style="color: #8B0000; font-weight: bold;">+8.2</span> | **28.15** | <span style="color: #004225; font-weight: bold;">2.56</span> | <span style="color: #004225; font-weight: bold;">11.01</span> |
 | **2012/09** | **3.38** | <span style="color: #8B0000; font-weight: bold;">+3.16</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **35.3** | <span style="color: #002818; font-weight: bold;">2.58</span> | <span style="color: #8B0000; font-weight: bold;">13.68</span> |
 | **2012/08** | **3.62** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #B22222; font-weight: bold;">+12.3</span> | **37.5** | <span style="color: #002818; font-weight: bold;">2.6</span> | <span style="color: #8B0000; font-weight: bold;">14.4</span> |
 | **2012/07** | **2.92** | <span style="color: #8B0000; font-weight: bold;">+3.48</span> | <span style="color: #B22222; font-weight: bold;">+12.6</span> | **35.2** | <span style="color: #002818; font-weight: bold;">2.63</span> | <span style="color: #8B0000; font-weight: bold;">13.4</span> |
@@ -252,7 +252,7 @@ description: 月營收表 上奇 (6123) - 自動產生
 | **2011/11** | **3.11** | <span style="color: #8B0000; font-weight: bold;">+9.66</span> | <span style="color: #DC143C; font-weight: bold;">+27.4</span> | **33** | <span style="color: #002818; font-weight: bold;">2.85</span> | <span style="color: #002818; font-weight: bold;">11.57</span> |
 | **2011/10** | **3.13** | <span style="color: #FF4500; font-weight: bold;">+36.3</span> | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | **36** | <span style="color: #002818; font-weight: bold;">2.91</span> | <span style="color: #002818; font-weight: bold;">12.36</span> |
 | **2011/09** | **3.27** | <span style="color: #DC143C; font-weight: bold;">+20.7</span> | <span style="color: #DC143C; font-weight: bold;">+29</span> | **34.4** | <span style="color: #002818; font-weight: bold;">2.98</span> | <span style="color: #002818; font-weight: bold;">11.56</span> |
-| **2011/08** | **3.27** | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | <span style="color: #FF4500; font-weight: bold;">+30.3</span> | **33.2** | <span style="color: #8B0000; font-weight: bold;">3.04</span> | <span style="color: #004225; font-weight: bold;">10.93</span> |
+| **2011/08** | **3.27** | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | <span style="color: #FF4500; font-weight: bold;">+30.3</span> | **33.2** | <span style="color: #002818; font-weight: bold;">3.04</span> | <span style="color: #004225; font-weight: bold;">10.93</span> |
 | **2011/07** | **2.83** | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | <span style="color: #FF4500; font-weight: bold;">+31.3</span> | **35.05** | <span style="color: #8B0000; font-weight: bold;">3.1</span> | <span style="color: #004225; font-weight: bold;">11.31</span> |
 | **2011/06** | **2.97** | <span style="color: #002818; font-weight: bold;">-5.76</span> | <span style="color: #FF4500; font-weight: bold;">+32.2</span> | **38.05** | <span style="color: #8B0000; font-weight: bold;">3.16</span> | <span style="color: #002818; font-weight: bold;">12.04</span> |
 | **2011/05** | **3** | <span style="color: #FF6347; font-weight: bold;">+40.9</span> | <span style="color: #FF6347; font-weight: bold;">+46.6</span> | **45.3** | <span style="color: #8B0000; font-weight: bold;">3.22</span> | <span style="color: #8B0000; font-weight: bold;">14.06</span> |
@@ -276,7 +276,7 @@ description: 月營收表 上奇 (6123) - 自動產生
 | **2009/11** | **-** | N/A | N/A | **22** | <span style="color: #006400; font-weight: bold;">1.78</span> | <span style="color: #002818; font-weight: bold;">12.39</span> |
 | **2009/10** | **-** | N/A | N/A | **20** | <span style="color: #006400; font-weight: bold;">1.84</span> | <span style="color: #004225; font-weight: bold;">10.86</span> |
 | **2009/09** | **-** | N/A | N/A | **22.2** | <span style="color: #006400; font-weight: bold;">1.91</span> | <span style="color: #002818; font-weight: bold;">11.64</span> |
-| **2009/08** | **-** | N/A | N/A | **16.35** | <span style="color: #006400; font-weight: bold;">1.97</span> | <span style="color: #006400; font-weight: bold;">8.29</span> |
+| **2009/08** | **-** | N/A | N/A | **16.35** | <span style="color: #006400; font-weight: bold;">1.97</span> | <span style="color: #228B22; font-weight: bold;">8.29</span> |
 | **2009/07** | **-** | N/A | N/A | **17.45** | <span style="color: #006400; font-weight: bold;">2.04</span> | <span style="color: #006400; font-weight: bold;">8.56</span> |
 | **2009/06** | **-** | N/A | N/A | **15.05** | <span style="color: #004225; font-weight: bold;">2.1</span> | <span style="color: #228B22; font-weight: bold;">7.15</span> |
 | **2009/05** | **-** | N/A | N/A | **16.2** | <span style="color: #004225; font-weight: bold;">2.17</span> | <span style="color: #228B22; font-weight: bold;">7.46</span> |
@@ -300,8 +300,8 @@ description: 月營收表 上奇 (6123) - 自動產生
 | **2007/11** | **-** | N/A | N/A | **19.85** | <span style="color: #004225; font-weight: bold;">2.2</span> | <span style="color: #006400; font-weight: bold;">9.01</span> |
 | **2007/10** | **-** | N/A | N/A | **25.25** | <span style="color: #004225; font-weight: bold;">2.17</span> | <span style="color: #002818; font-weight: bold;">11.61</span> |
 | **2007/09** | **-** | N/A | N/A | **27.2** | <span style="color: #004225; font-weight: bold;">2.15</span> | <span style="color: #002818; font-weight: bold;">12.67</span> |
-| **2007/08** | **-** | N/A | N/A | **27.5** | <span style="color: #004225; font-weight: bold;">2.12</span> | <span style="color: #8B0000; font-weight: bold;">12.97</span> |
-| **2007/07** | **-** | N/A | N/A | **30.3** | <span style="color: #004225; font-weight: bold;">2.09</span> | <span style="color: #8B0000; font-weight: bold;">14.48</span> |
+| **2007/08** | **-** | N/A | N/A | **27.5** | <span style="color: #004225; font-weight: bold;">2.12</span> | <span style="color: #002818; font-weight: bold;">12.97</span> |
+| **2007/07** | **-** | N/A | N/A | **30.3** | <span style="color: #006400; font-weight: bold;">2.09</span> | <span style="color: #8B0000; font-weight: bold;">14.48</span> |
 | **2007/06** | **-** | N/A | N/A | **26.55** | <span style="color: #006400; font-weight: bold;">2.06</span> | <span style="color: #002818; font-weight: bold;">12.86</span> |
 | **2007/05** | **-** | N/A | N/A | **24.25** | <span style="color: #006400; font-weight: bold;">2.04</span> | <span style="color: #002818; font-weight: bold;">11.9</span> |
 | **2007/04** | **-** | N/A | N/A | **25.55** | <span style="color: #006400; font-weight: bold;">2.01</span> | <span style="color: #002818; font-weight: bold;">12.71</span> |
@@ -318,7 +318,7 @@ description: 月營收表 上奇 (6123) - 自動產生
 | **2006/05** | **-** | N/A | N/A | **16.05** | <span style="color: #006400; font-weight: bold;">1.9</span> | <span style="color: #006400; font-weight: bold;">8.45</span> |
 | **2006/04** | **-** | N/A | N/A | **13.95** | <span style="color: #006400; font-weight: bold;">1.9</span> | <span style="color: #228B22; font-weight: bold;">7.34</span> |
 | **2006/03** | **-** | N/A | N/A | **11** | <span style="color: #006400; font-weight: bold;">1.9</span> | <span style="color: #32CD32; font-weight: bold;">5.79</span> |
-| **2006/02** | **-** | N/A | N/A | **11.65** | <span style="color: #006400; font-weight: bold;">1.9</span> | <span style="color: #32CD32; font-weight: bold;">6.13</span> |
+| **2006/02** | **-** | N/A | N/A | **11.65** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 上奇 (6123) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

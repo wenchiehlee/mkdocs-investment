@@ -25,7 +25,7 @@ description: 月營收表 系微 (6231) - 自動產生
     **:building_construction: 公司名稱**: 系微  
     **:identification_card: 股票代號**: 6231  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 系微 (6231) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.03** | **3.62** | **6.57** |
-| **P/E倍數** | **21.19** | **40.06** | **105.77** |
+| **EPS(元)** | **1.05** | **3.65** | **6.59** |
+| **P/E倍數** | **21.22** | **39.87** | **106.03** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 系微 歷史平均獲利能力 (σup=2.95, σlo=2.59)
-    - **P/Ebase**: 系微 歷史平均估值水準 (σup=65.71, σlo=18.87)
+    - **EPSbase**: 系微 歷史平均獲利能力 (σup=2.94, σlo=2.60)
+    - **P/Ebase**: 系微 歷史平均估值水準 (σup=66.16, σlo=18.65)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -175,7 +175,7 @@ description: 月營收表 系微 (6231) - 自動產生
 | **2018/04** | **0.805** | <span style="color: #FF4500; font-weight: bold;">+31.9</span> | <span style="color: #8B0000; font-weight: bold;">+7.1</span> | **36.4** | <span style="color: #004225; font-weight: bold;">1.23</span> | <span style="color: #004225; font-weight: bold;">29.51</span> |
 | **2018/03** | **0.796** | <span style="color: #004225; font-weight: bold;">-14.6</span> | <span style="color: #002818; font-weight: bold;">-0.78</span> | **41.75** | <span style="color: #004225; font-weight: bold;">1.17</span> | <span style="color: #002818; font-weight: bold;">35.68</span> |
 | **2018/02** | **0.393** | <span style="color: #8B0000; font-weight: bold;">+9.01</span> | <span style="color: #B22222; font-weight: bold;">+12.3</span> | **40.3** | <span style="color: #004225; font-weight: bold;">1.11</span> | <span style="color: #002818; font-weight: bold;">36.42</span> |
-| **2018/01** | **0.713** | <span style="color: #B22222; font-weight: bold;">+14.2</span> | <span style="color: #B22222; font-weight: bold;">+14.2</span> | **46.85** | <span style="color: #004225; font-weight: bold;">1.04</span> | <span style="color: #8B0000; font-weight: bold;">44.9</span> |
+| **2018/01** | **0.713** | <span style="color: #B22222; font-weight: bold;">+14.2</span> | <span style="color: #B22222; font-weight: bold;">+14.2</span> | **46.85** | <span style="color: #006400; font-weight: bold;">1.04</span> | <span style="color: #8B0000; font-weight: bold;">44.9</span> |
 | **2017/12** | **0.735** | <span style="color: #002818; font-weight: bold;">-5.41</span> | <span style="color: #8B0000; font-weight: bold;">+9.28</span> | **48.7** | <span style="color: #006400; font-weight: bold;">0.98</span> | <span style="color: #8B0000; font-weight: bold;">49.69</span> |
 | **2017/11** | **0.553** | <span style="color: #8B0000; font-weight: bold;">+0.84</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **55.7** | <span style="color: #006400; font-weight: bold;">0.82</span> | <span style="color: #8B0000; font-weight: bold;">68.27</span> |
 | **2017/10** | **0.794** | <span style="color: #DC143C; font-weight: bold;">+21.3</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **57.6** | <span style="color: #006400; font-weight: bold;">0.65</span> | <span style="color: #B22222; font-weight: bold;">88.39</span> |
@@ -202,7 +202,7 @@ description: 月營收表 系微 (6231) - 自動產生
 | **2016/01** | **0.609** | <span style="color: #006400; font-weight: bold;">-26.6</span> | <span style="color: #006400; font-weight: bold;">-26.6</span> | **22.6** | <span style="color: #006400; font-weight: bold;">0.96</span> | <span style="color: #004225; font-weight: bold;">23.48</span> |
 | **2015/12** | **0.869** | <span style="color: #8B0000; font-weight: bold;">+6.61</span> | <span style="color: #002818; font-weight: bold;">-4</span> | **24.85** | <span style="color: #004225; font-weight: bold;">1.14</span> | <span style="color: #004225; font-weight: bold;">21.8</span> |
 | **2015/11** | **0.543** | <span style="color: #004225; font-weight: bold;">-17.7</span> | <span style="color: #002818; font-weight: bold;">-5.1</span> | **28.55** | <span style="color: #004225; font-weight: bold;">1.09</span> | <span style="color: #004225; font-weight: bold;">26.17</span> |
-| **2015/10** | **0.717** | <span style="color: #8B0000; font-weight: bold;">+1.86</span> | <span style="color: #002818; font-weight: bold;">-3.94</span> | **31.5** | <span style="color: #004225; font-weight: bold;">1.04</span> | <span style="color: #004225; font-weight: bold;">30.24</span> |
+| **2015/10** | **0.717** | <span style="color: #8B0000; font-weight: bold;">+1.86</span> | <span style="color: #002818; font-weight: bold;">-3.94</span> | **31.5** | <span style="color: #006400; font-weight: bold;">1.04</span> | <span style="color: #004225; font-weight: bold;">30.24</span> |
 | **2015/09** | **0.806** | <span style="color: #002818; font-weight: bold;">-1.38</span> | <span style="color: #002818; font-weight: bold;">-4.58</span> | **27.4** | <span style="color: #006400; font-weight: bold;">0.99</span> | <span style="color: #004225; font-weight: bold;">27.61</span> |
 | **2015/08** | **0.523** | <span style="color: #006400; font-weight: bold;">-24.8</span> | <span style="color: #002818; font-weight: bold;">-5.04</span> | **26.55** | <span style="color: #006400; font-weight: bold;">0.94</span> | <span style="color: #004225; font-weight: bold;">28.14</span> |
 | **2015/07** | **0.643** | <span style="color: #002818; font-weight: bold;">-6.64</span> | <span style="color: #002818; font-weight: bold;">-2.28</span> | **31.8** | <span style="color: #006400; font-weight: bold;">0.89</span> | <span style="color: #002818; font-weight: bold;">35.56</span> |
@@ -285,7 +285,7 @@ description: 月營收表 系微 (6231) - 自動產生
 | **2009/02** | **0.508** | <span style="color: #FF7F7F; font-weight: bold;">+100.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+80</span> | **80.9** | <span style="color: #8B0000; font-weight: bold;">4.34</span> | <span style="color: #006400; font-weight: bold;">18.63</span> |
 | **2009/01** | **0.593** | <span style="color: #FF7F7F; font-weight: bold;">+65.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+65.3</span> | **59.5** | <span style="color: #8B0000; font-weight: bold;">4.09</span> | <span style="color: #006400; font-weight: bold;">14.54</span> |
 | **2008/12** | **0.695** | <span style="color: #B22222; font-weight: bold;">+18.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+55.6</span> | **57.6** | <span style="color: #8B0000; font-weight: bold;">3.84</span> | <span style="color: #006400; font-weight: bold;">15.0</span> |
-| **2008/11** | **0.594** | <span style="color: #FF7F7F; font-weight: bold;">+147</span> | <span style="color: #FF7F7F; font-weight: bold;">+62.7</span> | **49.5** | <span style="color: #8B0000; font-weight: bold;">3.64</span> | <span style="color: #006400; font-weight: bold;">13.59</span> |
+| **2008/11** | **0.594** | <span style="color: #FF7F7F; font-weight: bold;">+147</span> | <span style="color: #FF7F7F; font-weight: bold;">+62.7</span> | **49.5** | <span style="color: #002818; font-weight: bold;">3.64</span> | <span style="color: #006400; font-weight: bold;">13.59</span> |
 | **2008/10** | **0.499** | <span style="color: #FF7F7F; font-weight: bold;">+65.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+55.4</span> | **47.6** | <span style="color: #002818; font-weight: bold;">3.44</span> | <span style="color: #006400; font-weight: bold;">13.82</span> |
 | **2008/09** | **0.627** | <span style="color: #FF7F7F; font-weight: bold;">+63.1</span> | <span style="color: #FF7F7F; font-weight: bold;">+54.1</span> | **54.9** | <span style="color: #002818; font-weight: bold;">3.25</span> | <span style="color: #006400; font-weight: bold;">16.91</span> |
 | **2008/08** | **0.465** | <span style="color: #FF7F7F; font-weight: bold;">+80.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+52.5</span> | **97.9** | <span style="color: #002818; font-weight: bold;">3.05</span> | <span style="color: #002818; font-weight: bold;">32.1</span> |
@@ -318,7 +318,7 @@ description: 月營收表 系微 (6231) - 自動產生
 | **2006/05** | **-** | N/A | N/A | **36.3** | <span style="color: #006400; font-weight: bold;">0.52</span> | <span style="color: #8B0000; font-weight: bold;">69.81</span> |
 | **2006/04** | **-** | N/A | N/A | **38** | <span style="color: #006400; font-weight: bold;">0.52</span> | <span style="color: #B22222; font-weight: bold;">73.08</span> |
 | **2006/03** | **-** | N/A | N/A | **32** | <span style="color: #006400; font-weight: bold;">0.52</span> | <span style="color: #8B0000; font-weight: bold;">61.54</span> |
-| **2006/02** | **-** | N/A | N/A | **38** | <span style="color: #006400; font-weight: bold;">0.52</span> | <span style="color: #B22222; font-weight: bold;">73.08</span> |
+| **2006/02** | **-** | N/A | N/A | **38** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 系微 (6231) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

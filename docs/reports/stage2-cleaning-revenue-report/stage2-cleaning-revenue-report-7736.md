@@ -25,7 +25,7 @@ description: 月營收表 虎山 (7736) - 自動產生
     **:building_construction: 公司名稱**: 虎山  
     **:identification_card: 股票代號**: 7736  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 虎山 (7736) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **5.49** | **5.49** | **6.49** |
-| **P/E倍數** | **16.63** | **17.91** | **19.59** |
+| **P/E倍數** | **16.55** | **17.77** | **19.57** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 虎山 歷史平均獲利能力 (σup=1.00, σlo=0.00)
-    - **P/Ebase**: 虎山 歷史平均估值水準 (σup=1.67, σlo=1.28)
+    - **P/Ebase**: 虎山 歷史平均估值水準 (σup=1.80, σlo=1.22)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -82,9 +82,9 @@ description: 月營收表 虎山 (7736) - 自動產生
 | **2026/01** | **1.33** | <span style="color: #8B0000; font-weight: bold;">+2.96</span> | <span style="color: #8B0000; font-weight: bold;">+2.96</span> | **87.2** | <span style="color: #004225; font-weight: bold;">5.49</span> | <span style="color: #228B22; font-weight: bold;">15.88</span> |
 | **2025/12** | **1.15** | <span style="color: #004225; font-weight: bold;">-10.2</span> | <span style="color: #DC143C; font-weight: bold;">+22.4</span> | **90** | <span style="color: #004225; font-weight: bold;">5.49</span> | <span style="color: #006400; font-weight: bold;">16.39</span> |
 | **2025/11** | **1.37** | <span style="color: #8B0000; font-weight: bold;">+5.45</span> | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | **92** | <span style="color: #004225; font-weight: bold;">5.49</span> | <span style="color: #004225; font-weight: bold;">16.76</span> |
-| **2025/10** | **1.33** | <span style="color: #8B0000; font-weight: bold;">+2.29</span> | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | **94.3** | <span style="color: #004225; font-weight: bold;">5.49</span> | <span style="color: #004225; font-weight: bold;">17.18</span> |
+| **2025/10** | **1.33** | <span style="color: #8B0000; font-weight: bold;">+2.29</span> | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | **94.3** | <span style="color: #004225; font-weight: bold;">5.49</span> | <span style="color: #002818; font-weight: bold;">17.18</span> |
 | **2025/09** | **1.44** | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | <span style="color: #FF4500; font-weight: bold;">+31.7</span> | **92.6** | <span style="color: #004225; font-weight: bold;">5.49</span> | <span style="color: #004225; font-weight: bold;">16.87</span> |
-| **2025/08** | **1.45** | <span style="color: #8B0000; font-weight: bold;">+3.36</span> | <span style="color: #FF4500; font-weight: bold;">+32.9</span> | **94.6** | <span style="color: #004225; font-weight: bold;">5.49</span> | <span style="color: #004225; font-weight: bold;">17.23</span> |
+| **2025/08** | **1.45** | <span style="color: #8B0000; font-weight: bold;">+3.36</span> | <span style="color: #FF4500; font-weight: bold;">+32.9</span> | **94.6** | <span style="color: #004225; font-weight: bold;">5.49</span> | <span style="color: #002818; font-weight: bold;">17.23</span> |
 | **2025/07** | **1.4** | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | <span style="color: #FF4500; font-weight: bold;">+38.7</span> | **101** | <span style="color: #004225; font-weight: bold;">5.49</span> | <span style="color: #8B0000; font-weight: bold;">18.4</span> |
 | **2025/06** | **1.57** | <span style="color: #B22222; font-weight: bold;">+15.5</span> | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | **100.5** | <span style="color: #004225; font-weight: bold;">5.49</span> | <span style="color: #8B0000; font-weight: bold;">18.31</span> |
 | **2025/05** | **1.24** | <span style="color: #FF6347; font-weight: bold;">+45.3</span> | <span style="color: #FF6347; font-weight: bold;">+46</span> | **107** | <span style="color: #004225; font-weight: bold;">5.49</span> | <span style="color: #B22222; font-weight: bold;">19.49</span> |
@@ -199,7 +199,7 @@ description: 月營收表 虎山 (7736) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

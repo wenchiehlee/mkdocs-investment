@@ -25,7 +25,7 @@ description: 月營收表 中保科 (9917) - 自動產生
     **:building_construction: 公司名稱**: 中保科  
     **:identification_card: 股票代號**: 9917  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 中保科 (9917) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **3.50** | **4.58** | **5.63** |
-| **P/E倍數** | **15.07** | **18.18** | **28.33** |
+| **EPS(元)** | **3.51** | **4.59** | **5.64** |
+| **P/E倍數** | **15.09** | **18.19** | **28.34** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 中保科 歷史平均獲利能力 (σup=1.05, σlo=1.08)
-    - **P/Ebase**: 中保科 歷史平均估值水準 (σup=10.15, σlo=3.11)
+    - **P/Ebase**: 中保科 歷史平均估值水準 (σup=10.15, σlo=3.10)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -132,7 +132,7 @@ description: 月營收表 中保科 (9917) - 自動產生
 | **2021/11** | **11.96** | <span style="color: #8B0000; font-weight: bold;">+3.56</span> | <span style="color: #8B0000; font-weight: bold;">+2.52</span> | **104.5** | <span style="color: #DC143C; font-weight: bold;">5.7</span> | <span style="color: #8B0000; font-weight: bold;">18.32</span> |
 | **2021/10** | **11.68** | <span style="color: #8B0000; font-weight: bold;">+3.09</span> | <span style="color: #8B0000; font-weight: bold;">+2.41</span> | **100.5** | <span style="color: #DC143C; font-weight: bold;">5.68</span> | <span style="color: #002818; font-weight: bold;">17.7</span> |
 | **2021/09** | **11.67** | <span style="color: #002818; font-weight: bold;">-1.52</span> | <span style="color: #8B0000; font-weight: bold;">+2.33</span> | **97.6** | <span style="color: #DC143C; font-weight: bold;">5.65</span> | <span style="color: #002818; font-weight: bold;">17.27</span> |
-| **2021/08** | **11.27** | <span style="color: #002818; font-weight: bold;">-1.13</span> | <span style="color: #8B0000; font-weight: bold;">+2.84</span> | **98.5** | <span style="color: #DC143C; font-weight: bold;">5.63</span> | <span style="color: #002818; font-weight: bold;">17.51</span> |
+| **2021/08** | **11.27** | <span style="color: #002818; font-weight: bold;">-1.13</span> | <span style="color: #8B0000; font-weight: bold;">+2.84</span> | **98.5** | <span style="color: #B22222; font-weight: bold;">5.63</span> | <span style="color: #002818; font-weight: bold;">17.51</span> |
 | **2021/07** | **11.22** | <span style="color: #8B0000; font-weight: bold;">+0.68</span> | <span style="color: #8B0000; font-weight: bold;">+3.42</span> | **94** | <span style="color: #B22222; font-weight: bold;">5.6</span> | <span style="color: #002818; font-weight: bold;">16.78</span> |
 | **2021/06** | **11.18** | <span style="color: #002818; font-weight: bold;">-5.38</span> | <span style="color: #8B0000; font-weight: bold;">+3.88</span> | **94.1** | <span style="color: #B22222; font-weight: bold;">5.58</span> | <span style="color: #002818; font-weight: bold;">16.88</span> |
 | **2021/05** | **11.62** | <span style="color: #8B0000; font-weight: bold;">+2.92</span> | <span style="color: #8B0000; font-weight: bold;">+5.85</span> | **91.8** | <span style="color: #B22222; font-weight: bold;">5.55</span> | <span style="color: #004225; font-weight: bold;">16.54</span> |
@@ -223,7 +223,7 @@ description: 月營收表 中保科 (9917) - 自動產生
 | **2014/04** | **10.46** | <span style="color: #002818; font-weight: bold;">-0.68</span> | <span style="color: #8B0000; font-weight: bold;">+2.02</span> | **76.6** | <span style="color: #8B0000; font-weight: bold;">4.63</span> | <span style="color: #004225; font-weight: bold;">16.56</span> |
 | **2014/03** | **10.61** | <span style="color: #002818; font-weight: bold;">-1.87</span> | <span style="color: #8B0000; font-weight: bold;">+2.96</span> | **78.1** | <span style="color: #8B0000; font-weight: bold;">4.61</span> | <span style="color: #002818; font-weight: bold;">16.93</span> |
 | **2014/02** | **9.93** | <span style="color: #8B0000; font-weight: bold;">+1.79</span> | <span style="color: #8B0000; font-weight: bold;">+5.62</span> | **77.1** | <span style="color: #8B0000; font-weight: bold;">4.6</span> | <span style="color: #002818; font-weight: bold;">16.77</span> |
-| **2014/01** | **10.89** | <span style="color: #8B0000; font-weight: bold;">+9.37</span> | <span style="color: #8B0000; font-weight: bold;">+9.37</span> | **76.7** | <span style="color: #8B0000; font-weight: bold;">4.58</span> | <span style="color: #002818; font-weight: bold;">16.73</span> |
+| **2014/01** | **10.89** | <span style="color: #8B0000; font-weight: bold;">+9.37</span> | <span style="color: #8B0000; font-weight: bold;">+9.37</span> | **76.7** | <span style="color: #002818; font-weight: bold;">4.58</span> | <span style="color: #002818; font-weight: bold;">16.73</span> |
 | **2013/12** | **11.32** | <span style="color: #B22222; font-weight: bold;">+10.6</span> | <span style="color: #8B0000; font-weight: bold;">+4.59</span> | **74.8** | <span style="color: #002818; font-weight: bold;">4.57</span> | <span style="color: #004225; font-weight: bold;">16.37</span> |
 | **2013/11** | **11.02** | <span style="color: #B22222; font-weight: bold;">+10.9</span> | <span style="color: #8B0000; font-weight: bold;">+4.03</span> | **72.6** | <span style="color: #002818; font-weight: bold;">4.55</span> | <span style="color: #004225; font-weight: bold;">15.96</span> |
 | **2013/10** | **10.48** | <span style="color: #8B0000; font-weight: bold;">+6.34</span> | <span style="color: #8B0000; font-weight: bold;">+3.36</span> | **71.2** | <span style="color: #002818; font-weight: bold;">4.53</span> | <span style="color: #004225; font-weight: bold;">15.72</span> |
@@ -314,11 +314,11 @@ description: 月營收表 中保科 (9917) - 自動產生
 | **2006/09** | **-** | N/A | N/A | **54.8** | <span style="color: #004225; font-weight: bold;">3.94</span> | <span style="color: #006400; font-weight: bold;">13.91</span> |
 | **2006/08** | **-** | N/A | N/A | **58.4** | <span style="color: #004225; font-weight: bold;">3.94</span> | <span style="color: #006400; font-weight: bold;">14.82</span> |
 | **2006/07** | **-** | N/A | N/A | **57.4** | <span style="color: #004225; font-weight: bold;">3.94</span> | <span style="color: #006400; font-weight: bold;">14.57</span> |
-| **2006/06** | **-** | N/A | N/A | **59.4** | <span style="color: #004225; font-weight: bold;">3.94</span> | <span style="color: #004225; font-weight: bold;">15.08</span> |
+| **2006/06** | **-** | N/A | N/A | **59.4** | <span style="color: #004225; font-weight: bold;">3.94</span> | <span style="color: #006400; font-weight: bold;">15.08</span> |
 | **2006/05** | **-** | N/A | N/A | **54.5** | <span style="color: #004225; font-weight: bold;">3.94</span> | <span style="color: #006400; font-weight: bold;">13.83</span> |
 | **2006/04** | **-** | N/A | N/A | **53** | <span style="color: #004225; font-weight: bold;">3.94</span> | <span style="color: #228B22; font-weight: bold;">13.45</span> |
 | **2006/03** | **-** | N/A | N/A | **49** | <span style="color: #004225; font-weight: bold;">3.94</span> | <span style="color: #228B22; font-weight: bold;">12.44</span> |
-| **2006/02** | **-** | N/A | N/A | **53** | <span style="color: #004225; font-weight: bold;">3.94</span> | <span style="color: #228B22; font-weight: bold;">13.45</span> |
+| **2006/02** | **-** | N/A | N/A | **53** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 中保科 (9917) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

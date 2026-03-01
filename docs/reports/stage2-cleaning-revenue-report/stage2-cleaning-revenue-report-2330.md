@@ -25,7 +25,7 @@ description: 月營收表 台積電 (2330) - 自動產生
     **:building_construction: 公司名稱**: 台積電  
     **:identification_card: 股票代號**: 2330  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 台積電 (2330) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **7.32** | **15.82** | **38.33** |
-| **P/E倍數** | **13.56** | **16.69** | **22.91** |
+| **EPS(元)** | **7.40** | **16.23** | **40.20** |
+| **P/E倍數** | **13.58** | **16.71** | **22.92** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 台積電 歷史平均獲利能力 (σup=22.52, σlo=8.50)
-    - **P/Ebase**: 台積電 歷史平均估值水準 (σup=6.22, σlo=3.13)
+    - **EPSbase**: 台積電 歷史平均獲利能力 (σup=23.97, σlo=8.83)
+    - **P/Ebase**: 台積電 歷史平均估值水準 (σup=6.21, σlo=3.12)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,26 +79,26 @@ description: 月營收表 台積電 (2330) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/01** | **4013** | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | **1775** | <span style="color: #FF6347; font-weight: bold;">61.2</span> | <span style="color: #FF4500; font-weight: bold;">29.0</span> |
-| **2025/12** | **3350** | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | **1550** | <span style="color: #FF6347; font-weight: bold;">61.2</span> | <span style="color: #DC143C; font-weight: bold;">25.33</span> |
-| **2025/11** | **3436** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | **1440** | <span style="color: #FF4500; font-weight: bold;">59.87</span> | <span style="color: #DC143C; font-weight: bold;">24.05</span> |
-| **2025/10** | **3675** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #FF4500; font-weight: bold;">+33.8</span> | **1500** | <span style="color: #FF4500; font-weight: bold;">58.54</span> | <span style="color: #DC143C; font-weight: bold;">25.62</span> |
-| **2025/09** | **3310** | <span style="color: #FF4500; font-weight: bold;">+31.4</span> | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | **1305** | <span style="color: #FF4500; font-weight: bold;">57.21</span> | <span style="color: #B22222; font-weight: bold;">22.81</span> |
-| **2025/08** | **3358** | <span style="color: #FF4500; font-weight: bold;">+33.8</span> | <span style="color: #FF4500; font-weight: bold;">+37.1</span> | **1160** | <span style="color: #FF4500; font-weight: bold;">55.88</span> | <span style="color: #B22222; font-weight: bold;">20.76</span> |
-| **2025/07** | **3232** | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | **1160** | <span style="color: #FF4500; font-weight: bold;">54.55</span> | <span style="color: #B22222; font-weight: bold;">21.26</span> |
-| **2025/06** | **2637** | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | <span style="color: #FF6347; font-weight: bold;">+40</span> | **1060** | <span style="color: #FF4500; font-weight: bold;">53.22</span> | <span style="color: #B22222; font-weight: bold;">19.92</span> |
-| **2025/05** | **3205** | <span style="color: #FF4500; font-weight: bold;">+39.6</span> | <span style="color: #FF6347; font-weight: bold;">+42.6</span> | **967** | <span style="color: #FF4500; font-weight: bold;">51.9</span> | <span style="color: #8B0000; font-weight: bold;">18.63</span> |
-| **2025/04** | **3496** | <span style="color: #FF6347; font-weight: bold;">+48.1</span> | <span style="color: #FF6347; font-weight: bold;">+43.5</span> | **908** | <span style="color: #FF4500; font-weight: bold;">50.57</span> | <span style="color: #8B0000; font-weight: bold;">17.96</span> |
-| **2025/03** | **2860** | <span style="color: #FF6347; font-weight: bold;">+46.5</span> | <span style="color: #FF6347; font-weight: bold;">+41.6</span> | **910** | <span style="color: #DC143C; font-weight: bold;">49.24</span> | <span style="color: #8B0000; font-weight: bold;">18.48</span> |
-| **2025/02** | **2600** | <span style="color: #FF6347; font-weight: bold;">+43.1</span> | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | **1040** | <span style="color: #DC143C; font-weight: bold;">47.91</span> | <span style="color: #B22222; font-weight: bold;">21.71</span> |
-| **2025/01** | **2933** | <span style="color: #FF4500; font-weight: bold;">+35.9</span> | <span style="color: #FF4500; font-weight: bold;">+35.9</span> | **1135** | <span style="color: #DC143C; font-weight: bold;">46.58</span> | <span style="color: #DC143C; font-weight: bold;">24.37</span> |
+| **2026/01** | **4013** | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | **1775** | <span style="color: #FF6347; font-weight: bold;">66.26</span> | <span style="color: #FF4500; font-weight: bold;">26.79</span> |
+| **2025/12** | **3350** | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | **1550** | <span style="color: #FF6347; font-weight: bold;">66.26</span> | <span style="color: #DC143C; font-weight: bold;">23.39</span> |
+| **2025/11** | **3436** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | **1440** | <span style="color: #FF6347; font-weight: bold;">64.51</span> | <span style="color: #B22222; font-weight: bold;">22.32</span> |
+| **2025/10** | **3675** | <span style="color: #B22222; font-weight: bold;">+16.9</span> | <span style="color: #FF4500; font-weight: bold;">+33.8</span> | **1500** | <span style="color: #FF4500; font-weight: bold;">62.76</span> | <span style="color: #DC143C; font-weight: bold;">23.9</span> |
+| **2025/09** | **3310** | <span style="color: #FF4500; font-weight: bold;">+31.4</span> | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | **1305** | <span style="color: #FF4500; font-weight: bold;">61.01</span> | <span style="color: #B22222; font-weight: bold;">21.39</span> |
+| **2025/08** | **3358** | <span style="color: #FF4500; font-weight: bold;">+33.8</span> | <span style="color: #FF4500; font-weight: bold;">+37.1</span> | **1160** | <span style="color: #FF4500; font-weight: bold;">59.26</span> | <span style="color: #8B0000; font-weight: bold;">19.58</span> |
+| **2025/07** | **3232** | <span style="color: #DC143C; font-weight: bold;">+25.8</span> | <span style="color: #FF4500; font-weight: bold;">+37.6</span> | **1160** | <span style="color: #FF4500; font-weight: bold;">57.51</span> | <span style="color: #B22222; font-weight: bold;">20.17</span> |
+| **2025/06** | **2637** | <span style="color: #DC143C; font-weight: bold;">+26.9</span> | <span style="color: #FF6347; font-weight: bold;">+40</span> | **1060** | <span style="color: #FF4500; font-weight: bold;">55.76</span> | <span style="color: #8B0000; font-weight: bold;">19.01</span> |
+| **2025/05** | **3205** | <span style="color: #FF4500; font-weight: bold;">+39.6</span> | <span style="color: #FF6347; font-weight: bold;">+42.6</span> | **967** | <span style="color: #FF4500; font-weight: bold;">54.0</span> | <span style="color: #8B0000; font-weight: bold;">17.91</span> |
+| **2025/04** | **3496** | <span style="color: #FF6347; font-weight: bold;">+48.1</span> | <span style="color: #FF6347; font-weight: bold;">+43.5</span> | **908** | <span style="color: #FF4500; font-weight: bold;">52.25</span> | <span style="color: #8B0000; font-weight: bold;">17.38</span> |
+| **2025/03** | **2860** | <span style="color: #FF6347; font-weight: bold;">+46.5</span> | <span style="color: #FF6347; font-weight: bold;">+41.6</span> | **910** | <span style="color: #DC143C; font-weight: bold;">50.5</span> | <span style="color: #8B0000; font-weight: bold;">18.02</span> |
+| **2025/02** | **2600** | <span style="color: #FF6347; font-weight: bold;">+43.1</span> | <span style="color: #FF4500; font-weight: bold;">+39.2</span> | **1040** | <span style="color: #DC143C; font-weight: bold;">48.75</span> | <span style="color: #B22222; font-weight: bold;">21.33</span> |
+| **2025/01** | **2933** | <span style="color: #FF4500; font-weight: bold;">+35.9</span> | <span style="color: #FF4500; font-weight: bold;">+35.9</span> | **1135** | <span style="color: #DC143C; font-weight: bold;">47.0</span> | <span style="color: #DC143C; font-weight: bold;">24.15</span> |
 | **2024/12** | **2782** | <span style="color: #FF7F7F; font-weight: bold;">+57.8</span> | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | **1075** | <span style="color: #DC143C; font-weight: bold;">45.25</span> | <span style="color: #DC143C; font-weight: bold;">23.76</span> |
 | **2024/11** | **2761** | <span style="color: #FF4500; font-weight: bold;">+34</span> | <span style="color: #FF4500; font-weight: bold;">+31.8</span> | **996** | <span style="color: #DC143C; font-weight: bold;">44.17</span> | <span style="color: #B22222; font-weight: bold;">22.55</span> |
 | **2024/10** | **3142** | <span style="color: #DC143C; font-weight: bold;">+29.2</span> | <span style="color: #FF4500; font-weight: bold;">+31.5</span> | **1030** | <span style="color: #DC143C; font-weight: bold;">43.1</span> | <span style="color: #DC143C; font-weight: bold;">23.9</span> |
 | **2024/09** | **2519** | <span style="color: #FF4500; font-weight: bold;">+39.6</span> | <span style="color: #FF4500; font-weight: bold;">+31.9</span> | **957** | <span style="color: #DC143C; font-weight: bold;">42.02</span> | <span style="color: #B22222; font-weight: bold;">22.77</span> |
 | **2024/08** | **2509** | <span style="color: #FF4500; font-weight: bold;">+33</span> | <span style="color: #FF4500; font-weight: bold;">+30.8</span> | **944** | <span style="color: #DC143C; font-weight: bold;">40.95</span> | <span style="color: #DC143C; font-weight: bold;">23.05</span> |
-| **2024/07** | **2570** | <span style="color: #FF6347; font-weight: bold;">+44.7</span> | <span style="color: #FF4500; font-weight: bold;">+30.5</span> | **934** | <span style="color: #DC143C; font-weight: bold;">39.87</span> | <span style="color: #DC143C; font-weight: bold;">23.43</span> |
-| **2024/06** | **2079** | <span style="color: #FF4500; font-weight: bold;">+32.9</span> | <span style="color: #DC143C; font-weight: bold;">+28</span> | **966** | <span style="color: #DC143C; font-weight: bold;">38.8</span> | <span style="color: #DC143C; font-weight: bold;">24.9</span> |
+| **2024/07** | **2570** | <span style="color: #FF6347; font-weight: bold;">+44.7</span> | <span style="color: #FF4500; font-weight: bold;">+30.5</span> | **934** | <span style="color: #B22222; font-weight: bold;">39.87</span> | <span style="color: #DC143C; font-weight: bold;">23.43</span> |
+| **2024/06** | **2079** | <span style="color: #FF4500; font-weight: bold;">+32.9</span> | <span style="color: #DC143C; font-weight: bold;">+28</span> | **966** | <span style="color: #B22222; font-weight: bold;">38.8</span> | <span style="color: #DC143C; font-weight: bold;">24.9</span> |
 | **2024/05** | **2296** | <span style="color: #FF4500; font-weight: bold;">+30.1</span> | <span style="color: #DC143C; font-weight: bold;">+27</span> | **821** | <span style="color: #B22222; font-weight: bold;">37.72</span> | <span style="color: #B22222; font-weight: bold;">21.77</span> |
 | **2024/04** | **2360** | <span style="color: #FF7F7F; font-weight: bold;">+59.6</span> | <span style="color: #DC143C; font-weight: bold;">+26.2</span> | **790** | <span style="color: #B22222; font-weight: bold;">36.64</span> | <span style="color: #B22222; font-weight: bold;">21.56</span> |
 | **2024/03** | **1952** | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | <span style="color: #B22222; font-weight: bold;">+16.5</span> | **779** | <span style="color: #B22222; font-weight: bold;">35.57</span> | <span style="color: #B22222; font-weight: bold;">21.9</span> |
@@ -115,11 +115,11 @@ description: 月營收表 台積電 (2330) - 自動產生
 | **2023/04** | **1479** | <span style="color: #004225; font-weight: bold;">-14.3</span> | <span style="color: #002818; font-weight: bold;">-1.07</span> | **502** | <span style="color: #B22222; font-weight: bold;">36.91</span> | <span style="color: #004225; font-weight: bold;">13.6</span> |
 | **2023/03** | **1454** | <span style="color: #004225; font-weight: bold;">-15.4</span> | <span style="color: #8B0000; font-weight: bold;">+3.57</span> | **533** | <span style="color: #B22222; font-weight: bold;">37.48</span> | <span style="color: #004225; font-weight: bold;">14.22</span> |
 | **2023/02** | **1632** | <span style="color: #B22222; font-weight: bold;">+11</span> | <span style="color: #B22222; font-weight: bold;">+13.8</span> | **511** | <span style="color: #B22222; font-weight: bold;">38.06</span> | <span style="color: #006400; font-weight: bold;">13.43</span> |
-| **2023/01** | **2001** | <span style="color: #B22222; font-weight: bold;">+16.2</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **522** | <span style="color: #DC143C; font-weight: bold;">38.63</span> | <span style="color: #006400; font-weight: bold;">13.51</span> |
-| **2022/12** | **1926** | <span style="color: #DC143C; font-weight: bold;">+23.9</span> | <span style="color: #FF6347; font-weight: bold;">+42.6</span> | **448.5** | <span style="color: #DC143C; font-weight: bold;">39.2</span> | <span style="color: #228B22; font-weight: bold;">11.44</span> |
+| **2023/01** | **2001** | <span style="color: #B22222; font-weight: bold;">+16.2</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **522** | <span style="color: #B22222; font-weight: bold;">38.63</span> | <span style="color: #006400; font-weight: bold;">13.51</span> |
+| **2022/12** | **1926** | <span style="color: #DC143C; font-weight: bold;">+23.9</span> | <span style="color: #FF6347; font-weight: bold;">+42.6</span> | **448.5** | <span style="color: #B22222; font-weight: bold;">39.2</span> | <span style="color: #228B22; font-weight: bold;">11.44</span> |
 | **2022/11** | **2227** | <span style="color: #FF7F7F; font-weight: bold;">+50.2</span> | <span style="color: #FF6347; font-weight: bold;">+44.6</span> | **490** | <span style="color: #B22222; font-weight: bold;">37.85</span> | <span style="color: #006400; font-weight: bold;">12.95</span> |
 | **2022/10** | **2103** | <span style="color: #FF7F7F; font-weight: bold;">+56.3</span> | <span style="color: #FF6347; font-weight: bold;">+44</span> | **390** | <span style="color: #B22222; font-weight: bold;">36.5</span> | <span style="color: #228B22; font-weight: bold;">10.68</span> |
-| **2022/09** | **2082** | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | <span style="color: #FF6347; font-weight: bold;">+42.6</span> | **422** | <span style="color: #B22222; font-weight: bold;">35.15</span> | <span style="color: #006400; font-weight: bold;">12.0</span> |
+| **2022/09** | **2082** | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | <span style="color: #FF6347; font-weight: bold;">+42.6</span> | **422** | <span style="color: #B22222; font-weight: bold;">35.15</span> | <span style="color: #228B22; font-weight: bold;">12.0</span> |
 | **2022/08** | **2181** | <span style="color: #FF7F7F; font-weight: bold;">+58.7</span> | <span style="color: #FF6347; font-weight: bold;">+43.5</span> | **505** | <span style="color: #B22222; font-weight: bold;">33.8</span> | <span style="color: #004225; font-weight: bold;">14.94</span> |
 | **2022/07** | **1868** | <span style="color: #FF6347; font-weight: bold;">+49.9</span> | <span style="color: #FF6347; font-weight: bold;">+41.1</span> | **509** | <span style="color: #B22222; font-weight: bold;">32.45</span> | <span style="color: #002818; font-weight: bold;">15.68</span> |
 | **2022/06** | **1759** | <span style="color: #B22222; font-weight: bold;">+18.4</span> | <span style="color: #FF4500; font-weight: bold;">+39.6</span> | **476** | <span style="color: #B22222; font-weight: bold;">31.11</span> | <span style="color: #002818; font-weight: bold;">15.3</span> |
@@ -147,7 +147,7 @@ description: 月營收表 台積電 (2330) - 自動產生
 | **2020/08** | **1229** | <span style="color: #B22222; font-weight: bold;">+15.8</span> | <span style="color: #FF4500; font-weight: bold;">+30.7</span> | **426.5** | <span style="color: #8B0000; font-weight: bold;">17.75</span> | <span style="color: #DC143C; font-weight: bold;">24.02</span> |
 | **2020/07** | **1060** | <span style="color: #DC143C; font-weight: bold;">+25</span> | <span style="color: #FF4500; font-weight: bold;">+33.6</span> | **425.5** | <span style="color: #8B0000; font-weight: bold;">17.2</span> | <span style="color: #DC143C; font-weight: bold;">24.74</span> |
 | **2020/06** | **1209** | <span style="color: #FF6347; font-weight: bold;">+40.8</span> | <span style="color: #FF4500; font-weight: bold;">+35.2</span> | **313** | <span style="color: #8B0000; font-weight: bold;">16.64</span> | <span style="color: #8B0000; font-weight: bold;">18.8</span> |
-| **2020/05** | **938.2** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | **292** | <span style="color: #8B0000; font-weight: bold;">16.09</span> | <span style="color: #8B0000; font-weight: bold;">18.15</span> |
+| **2020/05** | **938.2** | <span style="color: #B22222; font-weight: bold;">+16.6</span> | <span style="color: #FF4500; font-weight: bold;">+33.9</span> | **292** | <span style="color: #002818; font-weight: bold;">16.09</span> | <span style="color: #8B0000; font-weight: bold;">18.15</span> |
 | **2020/04** | **960** | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | <span style="color: #FF4500; font-weight: bold;">+38.6</span> | **304.5** | <span style="color: #002818; font-weight: bold;">15.54</span> | <span style="color: #8B0000; font-weight: bold;">19.6</span> |
 | **2020/03** | **1135** | <span style="color: #FF6347; font-weight: bold;">+42.4</span> | <span style="color: #FF6347; font-weight: bold;">+42</span> | **274** | <span style="color: #002818; font-weight: bold;">14.98</span> | <span style="color: #8B0000; font-weight: bold;">18.29</span> |
 | **2020/02** | **933.9** | <span style="color: #FF7F7F; font-weight: bold;">+53.4</span> | <span style="color: #FF6347; font-weight: bold;">+41.8</span> | **316** | <span style="color: #002818; font-weight: bold;">14.43</span> | <span style="color: #B22222; font-weight: bold;">21.9</span> |
@@ -201,7 +201,7 @@ description: 月營收表 台積電 (2330) - 自動產生
 | **2016/02** | **595.5** | <span style="color: #002818; font-weight: bold;">-4.93</span> | <span style="color: #004225; font-weight: bold;">-12.9</span> | **149** | <span style="color: #002818; font-weight: bold;">12.0</span> | <span style="color: #006400; font-weight: bold;">12.42</span> |
 | **2016/01** | **708.6** | <span style="color: #004225; font-weight: bold;">-18.7</span> | <span style="color: #004225; font-weight: bold;">-18.7</span> | **142** | <span style="color: #002818; font-weight: bold;">11.91</span> | <span style="color: #228B22; font-weight: bold;">11.92</span> |
 | **2015/12** | **583.5** | <span style="color: #004225; font-weight: bold;">-16</span> | <span style="color: #B22222; font-weight: bold;">+10.6</span> | **143** | <span style="color: #002818; font-weight: bold;">11.82</span> | <span style="color: #006400; font-weight: bold;">12.1</span> |
-| **2015/11** | **634.3** | <span style="color: #004225; font-weight: bold;">-12.2</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **139** | <span style="color: #002818; font-weight: bold;">11.68</span> | <span style="color: #228B22; font-weight: bold;">11.9</span> |
+| **2015/11** | **634.3** | <span style="color: #004225; font-weight: bold;">-12.2</span> | <span style="color: #B22222; font-weight: bold;">+13.2</span> | **139** | <span style="color: #004225; font-weight: bold;">11.68</span> | <span style="color: #228B22; font-weight: bold;">11.9</span> |
 | **2015/10** | **817.4** | <span style="color: #8B0000; font-weight: bold;">+1.24</span> | <span style="color: #B22222; font-weight: bold;">+16.2</span> | **136.5** | <span style="color: #004225; font-weight: bold;">11.55</span> | <span style="color: #228B22; font-weight: bold;">11.82</span> |
 | **2015/09** | **645.1** | <span style="color: #004225; font-weight: bold;">-13.8</span> | <span style="color: #B22222; font-weight: bold;">+18.4</span> | **130** | <span style="color: #004225; font-weight: bold;">11.41</span> | <span style="color: #228B22; font-weight: bold;">11.39</span> |
 | **2015/08** | **670.4** | <span style="color: #002818; font-weight: bold;">-3.23</span> | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | **129** | <span style="color: #004225; font-weight: bold;">11.27</span> | <span style="color: #228B22; font-weight: bold;">11.44</span> |
@@ -271,7 +271,7 @@ description: 月營收表 台積電 (2330) - 自動產生
 | **2010/04** | **338.1** | <span style="color: #FF7F7F; font-weight: bold;">+50.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+103.4</span> | **61.8** | <span style="color: #006400; font-weight: bold;">4.38</span> | <span style="color: #004225; font-weight: bold;">14.11</span> |
 | **2010/03** | **319.2** | <span style="color: #FF7F7F; font-weight: bold;">+124.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+133.4</span> | **61.5** | <span style="color: #006400; font-weight: bold;">4.15</span> | <span style="color: #004225; font-weight: bold;">14.83</span> |
 | **2010/02** | **301.3** | <span style="color: #FF7F7F; font-weight: bold;">+147.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+138.2</span> | **58.8** | <span style="color: #006400; font-weight: bold;">3.92</span> | <span style="color: #004225; font-weight: bold;">15.02</span> |
-| **2010/01** | **301.4** | <span style="color: #FF7F7F; font-weight: bold;">+129.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+129.6</span> | **61.5** | <span style="color: #006400; font-weight: bold;">3.68</span> | <span style="color: #8B0000; font-weight: bold;">16.7</span> |
+| **2010/01** | **301.4** | <span style="color: #FF7F7F; font-weight: bold;">+129.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+129.6</span> | **61.5** | <span style="color: #006400; font-weight: bold;">3.68</span> | <span style="color: #002818; font-weight: bold;">16.7</span> |
 | **2009/12** | **315.5** | <span style="color: #FF7F7F; font-weight: bold;">+118.7</span> | <span style="color: #004225; font-weight: bold;">-11.2</span> | **64.5** | <span style="color: #006400; font-weight: bold;">3.45</span> | <span style="color: #8B0000; font-weight: bold;">18.7</span> |
 | **2009/11** | **303.2** | <span style="color: #FF6347; font-weight: bold;">+46.9</span> | <span style="color: #004225; font-weight: bold;">-17.1</span> | **61.1** | <span style="color: #006400; font-weight: bold;">3.48</span> | <span style="color: #8B0000; font-weight: bold;">17.54</span> |
 | **2009/10** | **302.2** | <span style="color: #8B0000; font-weight: bold;">+2.47</span> | <span style="color: #006400; font-weight: bold;">-21.5</span> | **60** | <span style="color: #006400; font-weight: bold;">3.52</span> | <span style="color: #8B0000; font-weight: bold;">17.05</span> |
@@ -318,7 +318,7 @@ description: 月營收表 台積電 (2330) - 自動產生
 | **2006/05** | **271.2** | N/A | N/A | **60.3** | <span style="color: #006400; font-weight: bold;">4.93</span> | <span style="color: #006400; font-weight: bold;">12.23</span> |
 | **2006/04** | **273.9** | N/A | N/A | **68.1** | <span style="color: #006400; font-weight: bold;">4.93</span> | <span style="color: #004225; font-weight: bold;">13.81</span> |
 | **2006/03** | **-** | N/A | N/A | **64.2** | <span style="color: #006400; font-weight: bold;">4.93</span> | <span style="color: #006400; font-weight: bold;">13.02</span> |
-| **2006/02** | **-** | N/A | N/A | **60.9** | <span style="color: #006400; font-weight: bold;">4.93</span> | <span style="color: #006400; font-weight: bold;">12.35</span> |
+| **2006/02** | **-** | N/A | N/A | **60.9** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 台積電 (2330) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

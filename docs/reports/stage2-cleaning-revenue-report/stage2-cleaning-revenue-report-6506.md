@@ -25,7 +25,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
     **:building_construction: 公司名稱**: 雙邦  
     **:identification_card: 股票代號**: 6506  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 雙邦 (6506) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **0.60** | **1.16** | **1.96** |
-| **P/E倍數** | **15.23** | **31.45** | **360.78** |
+| **P/E倍數** | **15.19** | **31.38** | **354.79** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 雙邦 歷史平均獲利能力 (σup=0.79, σlo=0.56)
-    - **P/Ebase**: 雙邦 歷史平均估值水準 (σup=329.33, σlo=16.22)
+    - **P/Ebase**: 雙邦 歷史平均估值水準 (σup=323.41, σlo=16.19)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -99,7 +99,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
 | **2024/08** | **1.61** | <span style="color: #B22222; font-weight: bold;">+12.6</span> | <span style="color: #B22222; font-weight: bold;">+19.6</span> | **17.4** | <span style="color: #006400; font-weight: bold;">0.5</span> | <span style="color: #8B0000; font-weight: bold;">34.57</span> |
 | **2024/07** | **1.38** | <span style="color: #DC143C; font-weight: bold;">+23.5</span> | <span style="color: #DC143C; font-weight: bold;">+20.6</span> | **17.1** | <span style="color: #006400; font-weight: bold;">0.44</span> | <span style="color: #8B0000; font-weight: bold;">38.72</span> |
 | **2024/06** | **1.31** | <span style="color: #B22222; font-weight: bold;">+13.4</span> | <span style="color: #DC143C; font-weight: bold;">+20.2</span> | **18.15** | <span style="color: #006400; font-weight: bold;">0.38</span> | <span style="color: #8B0000; font-weight: bold;">47.76</span> |
-| **2024/05** | **1.67** | <span style="color: #FF7F7F; font-weight: bold;">+57.7</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **18.5** | <span style="color: #006400; font-weight: bold;">0.32</span> | <span style="color: #8B0000; font-weight: bold;">58.12</span> |
+| **2024/05** | **1.67** | <span style="color: #FF7F7F; font-weight: bold;">+57.7</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **18.5** | <span style="color: #228B22; font-weight: bold;">0.32</span> | <span style="color: #8B0000; font-weight: bold;">58.12</span> |
 | **2024/04** | **1.91** | <span style="color: #FF7F7F; font-weight: bold;">+63.1</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **16.85** | <span style="color: #228B22; font-weight: bold;">0.26</span> | <span style="color: #8B0000; font-weight: bold;">65.65</span> |
 | **2024/03** | **1.92** | <span style="color: #8B0000; font-weight: bold;">+6.89</span> | <span style="color: #8B0000; font-weight: bold;">+2.95</span> | **17.1** | <span style="color: #228B22; font-weight: bold;">0.19</span> | <span style="color: #8B0000; font-weight: bold;">87.69</span> |
 | **2024/02** | **1.34** | <span style="color: #004225; font-weight: bold;">-18.6</span> | <span style="color: #8B0000; font-weight: bold;">+0.56</span> | **17.2** | <span style="color: #228B22; font-weight: bold;">0.13</span> | <span style="color: #8B0000; font-weight: bold;">129.0</span> |
@@ -214,7 +214,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
 | **2015/01** | **1.88** | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | **16.4** | <span style="color: #002818; font-weight: bold;">1.12</span> | <span style="color: #006400; font-weight: bold;">14.64</span> |
 | **2014/12** | **1.42** | <span style="color: #002818; font-weight: bold;">-3.33</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **15.95** | <span style="color: #002818; font-weight: bold;">1.08</span> | <span style="color: #006400; font-weight: bold;">14.77</span> |
 | **2014/11** | **1.15** | <span style="color: #002818; font-weight: bold;">-1.69</span> | <span style="color: #B22222; font-weight: bold;">+11.4</span> | **15.2** | <span style="color: #002818; font-weight: bold;">1.05</span> | <span style="color: #006400; font-weight: bold;">14.43</span> |
-| **2014/10** | **1.34** | <span style="color: #8B0000; font-weight: bold;">+9.91</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **15.6** | <span style="color: #002818; font-weight: bold;">1.03</span> | <span style="color: #006400; font-weight: bold;">15.19</span> |
+| **2014/10** | **1.34** | <span style="color: #8B0000; font-weight: bold;">+9.91</span> | <span style="color: #B22222; font-weight: bold;">+12.4</span> | **15.6** | <span style="color: #002818; font-weight: bold;">1.03</span> | <span style="color: #004225; font-weight: bold;">15.19</span> |
 | **2014/09** | **1.37** | <span style="color: #8B0000; font-weight: bold;">+5.28</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **17.15** | <span style="color: #002818; font-weight: bold;">1.0</span> | <span style="color: #004225; font-weight: bold;">17.15</span> |
 | **2014/08** | **1.41** | <span style="color: #8B0000; font-weight: bold;">+8.31</span> | <span style="color: #B22222; font-weight: bold;">+13.4</span> | **18.85** | <span style="color: #002818; font-weight: bold;">0.97</span> | <span style="color: #004225; font-weight: bold;">19.37</span> |
 | **2014/07** | **1.66** | <span style="color: #8B0000; font-weight: bold;">+4.34</span> | <span style="color: #B22222; font-weight: bold;">+14</span> | **20.85** | <span style="color: #002818; font-weight: bold;">0.95</span> | <span style="color: #004225; font-weight: bold;">22.02</span> |
@@ -229,7 +229,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
 | **2013/10** | **1.22** | <span style="color: #DC143C; font-weight: bold;">+23.9</span> | <span style="color: #B22222; font-weight: bold;">+11.5</span> | **12.65** | <span style="color: #004225; font-weight: bold;">0.7</span> | <span style="color: #004225; font-weight: bold;">18.16</span> |
 | **2013/09** | **1.3** | <span style="color: #DC143C; font-weight: bold;">+21.9</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **13.95** | <span style="color: #004225; font-weight: bold;">0.66</span> | <span style="color: #004225; font-weight: bold;">20.98</span> |
 | **2013/08** | **1.3** | <span style="color: #8B0000; font-weight: bold;">+2.97</span> | <span style="color: #8B0000; font-weight: bold;">+9.37</span> | **13.15** | <span style="color: #004225; font-weight: bold;">0.63</span> | <span style="color: #004225; font-weight: bold;">20.76</span> |
-| **2013/07** | **1.59** | <span style="color: #FF7F7F; font-weight: bold;">+56.9</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **11.5** | <span style="color: #004225; font-weight: bold;">0.6</span> | <span style="color: #004225; font-weight: bold;">19.11</span> |
+| **2013/07** | **1.59** | <span style="color: #FF7F7F; font-weight: bold;">+56.9</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **11.5** | <span style="color: #006400; font-weight: bold;">0.6</span> | <span style="color: #004225; font-weight: bold;">19.11</span> |
 | **2013/06** | **1.32** | <span style="color: #FF4500; font-weight: bold;">+36.1</span> | <span style="color: #8B0000; font-weight: bold;">+4.96</span> | **11.45** | <span style="color: #006400; font-weight: bold;">0.57</span> | <span style="color: #004225; font-weight: bold;">20.09</span> |
 | **2013/05** | **1.99** | <span style="color: #B22222; font-weight: bold;">+19.3</span> | <span style="color: #8B0000; font-weight: bold;">+1.26</span> | **11.75** | <span style="color: #006400; font-weight: bold;">0.54</span> | <span style="color: #004225; font-weight: bold;">21.83</span> |
 | **2013/04** | **1.91** | <span style="color: #B22222; font-weight: bold;">+14.8</span> | <span style="color: #006400; font-weight: bold;">-23.1</span> | **11.3** | <span style="color: #006400; font-weight: bold;">0.51</span> | <span style="color: #004225; font-weight: bold;">22.3</span> |
@@ -238,7 +238,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
 | **2013/01** | **1.16** | <span style="color: #DC143C; font-weight: bold;">+22.8</span> | <span style="color: #DC143C; font-weight: bold;">+22.8</span> | **12.1** | <span style="color: #006400; font-weight: bold;">0.41</span> | <span style="color: #002818; font-weight: bold;">29.39</span> |
 | **2012/12** | **-** | N/A | N/A | **12.05** | <span style="color: #006400; font-weight: bold;">0.38</span> | <span style="color: #8B0000; font-weight: bold;">31.71</span> |
 | **2012/11** | **-** | N/A | N/A | **12.35** | <span style="color: #006400; font-weight: bold;">0.38</span> | <span style="color: #8B0000; font-weight: bold;">32.57</span> |
-| **2012/10** | **-** | N/A | N/A | **11.9** | <span style="color: #006400; font-weight: bold;">0.38</span> | <span style="color: #002818; font-weight: bold;">31.45</span> |
+| **2012/10** | **-** | N/A | N/A | **11.9** | <span style="color: #006400; font-weight: bold;">0.38</span> | <span style="color: #8B0000; font-weight: bold;">31.45</span> |
 | **2012/09** | **-** | N/A | N/A | **12.35** | <span style="color: #006400; font-weight: bold;">0.38</span> | <span style="color: #8B0000; font-weight: bold;">32.72</span> |
 | **2012/08** | **-** | N/A | N/A | **12** | <span style="color: #006400; font-weight: bold;">0.38</span> | <span style="color: #8B0000; font-weight: bold;">31.86</span> |
 | **2012/07** | **-** | N/A | N/A | **11.6** | <span style="color: #006400; font-weight: bold;">0.38</span> | <span style="color: #002818; font-weight: bold;">30.86</span> |
@@ -414,7 +414,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
