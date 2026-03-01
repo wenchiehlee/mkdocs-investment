@@ -25,13 +25,13 @@ description: 月營收表 鴻準 (2354) - 自動產生
     **:building_construction: 公司名稱**: 鴻準  
     **:identification_card: 股票代號**: 2354  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
+    **:clock3: 更新時間**: 2026-03-02 04:57:52 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | **240** 個月 | 2006/02 至 2026/01 |
+| <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | **239** 個月 | 2006/03 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 鴻準 (2354) - 自動產生
 | **2006/05** | **62.08** | <span style="color: #FF7F7F; font-weight: bold;">+104</span> | <span style="color: #8B0000; font-weight: bold;">+2.45</span> | **255** | <span style="color: #FF4500; font-weight: bold;">9.71</span> | <span style="color: #DC143C; font-weight: bold;">26.26</span> |
 | **2006/04** | **48.37** | <span style="color: #FF7F7F; font-weight: bold;">+73.4</span> | <span style="color: #004225; font-weight: bold;">-15.1</span> | **239.5** | <span style="color: #FF4500; font-weight: bold;">9.71</span> | <span style="color: #B22222; font-weight: bold;">24.67</span> |
 | **2006/03** | **44.46** | <span style="color: #B22222; font-weight: bold;">+19</span> | <span style="color: #228B22; font-weight: bold;">-31.9</span> | **206.5** | <span style="color: #FF4500; font-weight: bold;">9.71</span> | <span style="color: #8B0000; font-weight: bold;">21.27</span> |
-| **2006/02** | **25.64** | <span style="color: #90EE90; font-weight: bold;">-51.2</span> | <span style="color: #32CD32; font-weight: bold;">-49.1</span> | **158.5** | N/A | N/A |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 鴻準 (2354) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 03:08:27 CST
+- **產生時間**: 2026-03-02 04:57:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

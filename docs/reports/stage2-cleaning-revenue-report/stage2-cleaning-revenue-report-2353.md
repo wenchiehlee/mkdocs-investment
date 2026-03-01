@@ -25,13 +25,13 @@ description: 月營收表 宏碁 (2353) - 自動產生
     **:building_construction: 公司名稱**: 宏碁  
     **:identification_card: 股票代號**: 2353  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
+    **:clock3: 更新時間**: 2026-03-02 04:57:52 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+39.8</span> | <span style="color: #FF4500; font-weight: bold;">+39.8</span> | **240** 個月 | 2006/02 至 2026/01 |
+| <span style="color: #FF4500; font-weight: bold;">+39.8</span> | <span style="color: #FF4500; font-weight: bold;">+39.8</span> | **239** 個月 | 2006/03 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 宏碁 (2353) - 自動產生
 | **2006/05** | **243.2** | <span style="color: #8B0000; font-weight: bold;">+6.35</span> | <span style="color: #B22222; font-weight: bold;">+19.6</span> | **52.4** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #006400; font-weight: bold;">11.78</span> |
 | **2006/04** | **213** | <span style="color: #B22222; font-weight: bold;">+11.9</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **61.8** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #004225; font-weight: bold;">13.89</span> |
 | **2006/03** | **316** | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | <span style="color: #DC143C; font-weight: bold;">+26.4</span> | **59.7** | <span style="color: #DC143C; font-weight: bold;">4.45</span> | <span style="color: #006400; font-weight: bold;">13.42</span> |
-| **2006/02** | **270.5** | <span style="color: #FF4500; font-weight: bold;">+35.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | **72** | N/A | N/A |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 宏碁 (2353) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 03:08:27 CST
+- **產生時間**: 2026-03-02 04:57:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
