@@ -24,7 +24,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 112 檔) - 自動
 # :bar_chart: 股利分配總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-03-05 12:38:04 CST  
+    **:calendar: 產生時間**: 2026-03-05 17:19:12 CST  
     **:building_construction: 分析股票總數**: 126 檔 (有效 112 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_dividends.csv + cleaned_performance1.csv
@@ -346,14 +346,14 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 112 檔) - 自動
 <td>[**2382**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2382/)</td>
 <td>廣達</td>
 <td>15.60</td>
-<td>🔼 16.75</td>
-<td>🔼 15.70</td>
-<td>🔼 16.75</td>
+<td>🔽 15.47</td>
+<td>🔼 15.83</td>
+<td>🔽 15.47</td>
 <td>11.10%</td>
 <td>03/04 11:05</td>
 <td>11.60%</td>
 <td>10.30%</td>
-<td>114%</td>
+<td>80%</td>
 <td>🔴 5.5</td>
 </tr>
 <tr>
@@ -402,8 +402,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 112 檔) - 自動
 <td>[**2408**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2408/)</td>
 <td>南亞科</td>
 <td>0.00</td>
-<td>-</td>
-<td>-</td>
+<td>🔼 1.08</td>
+<td>🔼 1.04</td>
 <td>-</td>
 <td>0.00%</td>
 <td>03/04 11:57</td>
@@ -458,8 +458,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 112 檔) - 自動
 <td>[**2451**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2451/)</td>
 <td>創見</td>
 <td>6.09</td>
-<td>🔼 6.60</td>
-<td>🔼 6.77</td>
+<td>🔼 14.46</td>
+<td>🔼 13.74</td>
 <td>-</td>
 <td>3.11%</td>
 <td>03/04 11:07</td>
@@ -500,8 +500,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 112 檔) - 自動
 <td>[**2474**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2474/)</td>
 <td>可成</td>
 <td>11.49</td>
-<td>🔽 8.10</td>
-<td>🔽 10.02</td>
+<td>🔽 6.45</td>
+<td>🔽 8.67</td>
 <td>-</td>
 <td>5.52%</td>
 <td>03/04 11:09</td>
@@ -640,8 +640,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 112 檔) - 自動
 <td>[**3026**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3026/)</td>
 <td>禾伸堂</td>
 <td>5.50</td>
-<td>🔽 5.16</td>
-<td>🔽 5.18</td>
+<td>🔽 5.36</td>
+<td>🔼 5.56</td>
 <td>-</td>
 <td>5.39%</td>
 <td>03/04 11:10</td>
@@ -1606,8 +1606,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 112 檔) - 自動
 <td>[**8454**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8454/)</td>
 <td>富邦媒</td>
 <td>12.80</td>
-<td>🔽 9.36</td>
-<td>🔽 10.36</td>
+<td>🔽 9.51</td>
+<td>🔽 9.60</td>
 <td>-</td>
 <td>6.17%</td>
 <td>03/04 11:39</td>
@@ -1671,7 +1671,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 112 檔) - 自動
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-03-05 12:38:04
+    - **報告產生時間**: 2026-03-05 17:19:12
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
