@@ -24,14 +24,14 @@ description: 月營收表 威剛 (3260) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 威剛  
     **:identification_card: 股票代號**: 3260  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-07 01:12:15 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-07 05:05:41 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+198.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+198.9</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #FF7F7F; font-weight: bold;">+114.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+153</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 | **5月** | -- | 4,169<br/><span style="color: #DC143C;">(+29.20%)</span> | 3,227<br/><span style="color: #FF4500;">(+31.50%)</span> | 2,454<br/><span style="color: #004225;">(-12.50%)</span> | 2,806<br/><span style="color: #006400;">(-22.80%)</span> |
 | **4月** | -- | 3,917<br/><span style="color: #8B0000;">(+1.78%)</span> | 3,847<br/><span style="color: #FF7F7F;">(+80.80%)</span> | 2,129<br/><span style="color: #006400;">(-26.80%)</span> | 2,907<br/><span style="color: #004225;">(-19.30%)</span> |
 | **3月** | -- | 3,743<br/><span style="color: #002818;">(-5.83%)</span> | 3,975<br/><span style="color: #FF7F7F;">(+56.60%)</span> | 2,539<br/><span style="color: #006400;">(-22.00%)</span> | 3,254<br/><span style="color: #002818;">(-2.94%)</span> |
-| **2月** | -- | 3,343<br/><span style="color: #8B0000;">(+0.07%)</span> | 3,340<br/><span style="color: #FF4500;">(+34.00%)</span> | 2,493<br/><span style="color: #006400;">(-21.70%)</span> | 3,186<br/><span style="color: #B22222;">(+13.30%)</span> |
+| **2月** | 7,164<br/><span style="color: #FF7F7F;">(+114.30%)</span> | 3,343<br/><span style="color: #8B0000;">(+0.07%)</span> | 3,340<br/><span style="color: #FF4500;">(+34.00%)</span> | 2,493<br/><span style="color: #006400;">(-21.70%)</span> | 3,186<br/><span style="color: #B22222;">(+13.30%)</span> |
 | **1月** | 8,412<br/><span style="color: #FF7F7F;">(+198.90%)</span> | 2,814<br/><span style="color: #006400;">(-21.10%)</span> | 3,565<br/><span style="color: #FF7F7F;">(+63.80%)</span> | 2,177<br/><span style="color: #228B22;">(-34.40%)</span> | 3,321<br/><span style="color: #B22222;">(+13.30%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **71.64** | <span style="color: #FF7F7F; font-weight: bold;">+114.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+153</span> | **285.5** | <span style="color: #FF4500; font-weight: bold;">11.05</span> | <span style="color: #002818; font-weight: bold;">25.84</span> |
 | **2026/01** | **84.12** | <span style="color: #FF7F7F; font-weight: bold;">+198.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+198.9</span> | **363.5** | <span style="color: #FF4500; font-weight: bold;">11.05</span> | <span style="color: #8B0000; font-weight: bold;">32.9</span> |
 | **2025/12** | **58.1** | <span style="color: #FF7F7F; font-weight: bold;">+101.2</span> | <span style="color: #FF4500; font-weight: bold;">+32.5</span> | **279.5** | <span style="color: #FF4500; font-weight: bold;">11.05</span> | <span style="color: #002818; font-weight: bold;">25.29</span> |
 | **2025/11** | **55.98** | <span style="color: #FF7F7F; font-weight: bold;">+60.2</span> | <span style="color: #DC143C; font-weight: bold;">+27.1</span> | **177.5** | <span style="color: #FF4500; font-weight: bold;">10.9</span> | <span style="color: #004225; font-weight: bold;">16.28</span> |
@@ -413,7 +414,7 @@ description: 月營收表 威剛 (3260) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-07 01:12:15 CST
+- **產生時間**: 2026-03-07 05:05:41 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

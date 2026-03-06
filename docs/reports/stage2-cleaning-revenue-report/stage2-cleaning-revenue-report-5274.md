@@ -24,14 +24,14 @@ description: 月營收表 信驊 (5274) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 信驊  
     **:identification_card: 股票代號**: 5274  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-07 01:12:15 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-07 05:05:41 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+28.5</span> | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | **169** 個月 | 2012/01 至 2026/01 |
+| <span style="color: #FF7F7F; font-weight: bold;">+65.9</span> | <span style="color: #FF6347; font-weight: bold;">+45.9</span> | **170** 個月 | 2012/01 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 信驊 (5274) - 自動產生
 | **5月** | -- | 760<br/><span style="color: #FF7F7F;">(+74.50%)</span> | 434<br/><span style="color: #FF7F7F;">(+92.90%)</span> | 225<br/><span style="color: #90EE90;">(-51.50%)</span> | 466<br/><span style="color: #FF7F7F;">(+52.70%)</span> |
 | **4月** | -- | 704<br/><span style="color: #FF7F7F;">(+69.40%)</span> | 416<br/><span style="color: #FF7F7F;">(+82.40%)</span> | 227<br/><span style="color: #32CD32;">(-49.80%)</span> | 454<br/><span style="color: #FF7F7F;">(+60.70%)</span> |
 | **3月** | -- | 755<br/><span style="color: #FF7F7F;">(+110.30%)</span> | 359<br/><span style="color: #FF7F7F;">(+59.00%)</span> | 225<br/><span style="color: #32CD32;">(-47.80%)</span> | 433<br/><span style="color: #FF7F7F;">(+66.30%)</span> |
-| **2月** | -- | 609<br/><span style="color: #FF7F7F;">(+108.60%)</span> | 292<br/><span style="color: #FF4500;">(+30.90%)</span> | 223<br/><span style="color: #228B22;">(-33.20%)</span> | 334<br/><span style="color: #FF4500;">(+32.50%)</span> |
+| **2月** | 1,011<br/><span style="color: #FF7F7F;">(+65.90%)</span> | 609<br/><span style="color: #FF7F7F;">(+108.60%)</span> | 292<br/><span style="color: #FF4500;">(+30.90%)</span> | 223<br/><span style="color: #228B22;">(-33.20%)</span> | 334<br/><span style="color: #FF4500;">(+32.50%)</span> |
 | **1月** | 900<br/><span style="color: #DC143C;">(+28.50%)</span> | 701<br/><span style="color: #FF7F7F;">(+93.40%)</span> | 362<br/><span style="color: #FF7F7F;">(+64.30%)</span> | 220<br/><span style="color: #32CD32;">(-42.70%)</span> | 385<br/><span style="color: #FF7F7F;">(+61.50%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 信驊 (5274) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **10.11** | <span style="color: #FF7F7F; font-weight: bold;">+65.9</span> | <span style="color: #FF6347; font-weight: bold;">+45.9</span> | **9730** | <span style="color: #FF6347; font-weight: bold;">97.17</span> | <span style="color: #FF4500; font-weight: bold;">100.1</span> |
 | **2026/01** | **9** | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | <span style="color: #DC143C; font-weight: bold;">+28.5</span> | **8880** | <span style="color: #FF6347; font-weight: bold;">97.17</span> | <span style="color: #FF4500; font-weight: bold;">91.39</span> |
 | **2025/12** | **8.72** | <span style="color: #B22222; font-weight: bold;">+18.4</span> | <span style="color: #FF6347; font-weight: bold;">+40.6</span> | **7260** | <span style="color: #FF6347; font-weight: bold;">97.17</span> | <span style="color: #DC143C; font-weight: bold;">74.71</span> |
 | **2025/11** | **8.4** | <span style="color: #DC143C; font-weight: bold;">+23.4</span> | <span style="color: #FF6347; font-weight: bold;">+43.5</span> | **7315** | <span style="color: #FF6347; font-weight: bold;">94.74</span> | <span style="color: #DC143C; font-weight: bold;">77.21</span> |
@@ -343,7 +344,7 @@ description: 月營收表 信驊 (5274) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-07 01:12:15 CST
+- **產生時間**: 2026-03-07 05:05:41 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

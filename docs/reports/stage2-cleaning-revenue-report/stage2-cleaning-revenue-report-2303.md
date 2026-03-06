@@ -24,14 +24,14 @@ description: 月營收表 聯電 (2303) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 聯電  
     **:identification_card: 股票代號**: 2303  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-07 01:12:15 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-07 05:05:41 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+5.32</span> | <span style="color: #8B0000; font-weight: bold;">+5.32</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #8B0000; font-weight: bold;">+6.32</span> | <span style="color: #8B0000; font-weight: bold;">+5.8</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 聯電 (2303) - 自動產生
 | **5月** | -- | 19,480<br/><span style="color: #002818;">(-0.15%)</span> | 19,510<br/><span style="color: #8B0000;">(+3.89%)</span> | 18,780<br/><span style="color: #006400;">(-23.10%)</span> | 24,430<br/><span style="color: #FF6347;">(+42.10%)</span> |
 | **4月** | -- | 20,450<br/><span style="color: #8B0000;">(+3.61%)</span> | 19,740<br/><span style="color: #8B0000;">(+6.93%)</span> | 18,460<br/><span style="color: #004225;">(-19.00%)</span> | 22,800<br/><span style="color: #FF4500;">(+39.20%)</span> |
 | **3月** | -- | 19,860<br/><span style="color: #8B0000;">(+9.31%)</span> | 18,170<br/><span style="color: #8B0000;">(+2.70%)</span> | 17,690<br/><span style="color: #006400;">(-20.10%)</span> | 22,140<br/><span style="color: #FF4500;">(+33.20%)</span> |
-| **2月** | -- | 18,190<br/><span style="color: #8B0000;">(+4.25%)</span> | 17,450<br/><span style="color: #8B0000;">(+3.07%)</span> | 16,930<br/><span style="color: #004225;">(-18.60%)</span> | 20,810<br/><span style="color: #FF4500;">(+39.20%)</span> |
+| **2月** | 19,350<br/><span style="color: #8B0000;">(+6.32%)</span> | 18,190<br/><span style="color: #8B0000;">(+4.25%)</span> | 17,450<br/><span style="color: #8B0000;">(+3.07%)</span> | 16,930<br/><span style="color: #004225;">(-18.60%)</span> | 20,810<br/><span style="color: #FF4500;">(+39.20%)</span> |
 | **1月** | 20,860<br/><span style="color: #8B0000;">(+5.32%)</span> | 19,810<br/><span style="color: #8B0000;">(+4.17%)</span> | 19,010<br/><span style="color: #002818;">(-2.93%)</span> | 19,590<br/><span style="color: #002818;">(-4.31%)</span> | 20,470<br/><span style="color: #FF4500;">(+31.80%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 聯電 (2303) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **193.5** | <span style="color: #8B0000; font-weight: bold;">+6.32</span> | <span style="color: #8B0000; font-weight: bold;">+5.8</span> | **65.4** | <span style="color: #B22222; font-weight: bold;">3.34</span> | <span style="color: #8B0000; font-weight: bold;">19.58</span> |
 | **2026/01** | **208.6** | <span style="color: #8B0000; font-weight: bold;">+5.32</span> | <span style="color: #8B0000; font-weight: bold;">+5.32</span> | **62.4** | <span style="color: #B22222; font-weight: bold;">3.34</span> | <span style="color: #8B0000; font-weight: bold;">18.68</span> |
 | **2025/12** | **192.8** | <span style="color: #8B0000; font-weight: bold;">+1.66</span> | <span style="color: #8B0000; font-weight: bold;">+2.26</span> | **49.25** | <span style="color: #B22222; font-weight: bold;">3.34</span> | <span style="color: #002818; font-weight: bold;">14.75</span> |
 | **2025/11** | **212.3** | <span style="color: #8B0000; font-weight: bold;">+5.9</span> | <span style="color: #8B0000; font-weight: bold;">+2.31</span> | **45.8** | <span style="color: #B22222; font-weight: bold;">3.38</span> | <span style="color: #002818; font-weight: bold;">13.56</span> |
@@ -413,7 +414,7 @@ description: 月營收表 聯電 (2303) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-07 01:12:15 CST
+- **產生時間**: 2026-03-07 05:05:41 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

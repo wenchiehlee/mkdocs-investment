@@ -24,14 +24,14 @@ description: 月營收表 鴻準 (2354) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 鴻準  
     **:identification_card: 股票代號**: 2354  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-07 01:12:15 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-07 05:05:41 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #006400; font-weight: bold;">-23.5</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 鴻準 (2354) - 自動產生
 | **5月** | -- | 14,750<br/><span style="color: #FF7F7F;">(+249.60%)</span> | 4,220<br/><span style="color: #004225;">(-19.50%)</span> | 5,240<br/><span style="color: #006400;">(-28.70%)</span> | 7,350<br/><span style="color: #004225;">(-11.10%)</span> |
 | **4月** | -- | 12,890<br/><span style="color: #FF7F7F;">(+290.20%)</span> | 3,303<br/><span style="color: #228B22;">(-34.20%)</span> | 5,020<br/><span style="color: #004225;">(-17.10%)</span> | 6,057<br/><span style="color: #004225;">(-11.40%)</span> |
 | **3月** | -- | 12,050<br/><span style="color: #FF7F7F;">(+280.80%)</span> | 3,165<br/><span style="color: #90EE90;">(-61.30%)</span> | 8,173<br/><span style="color: #002818;">(-6.82%)</span> | 8,772<br/><span style="color: #FF6347;">(+42.80%)</span> |
-| **2月** | -- | 9,419<br/><span style="color: #FF7F7F;">(+322.80%)</span> | 2,228<br/><span style="color: #90EE90;">(-64.90%)</span> | 6,355<br/><span style="color: #B22222;">(+11.30%)</span> | 5,710<br/><span style="color: #DC143C;">(+23.90%)</span> |
+| **2月** | 7,202<br/><span style="color: #006400;">(-23.50%)</span> | 9,419<br/><span style="color: #FF7F7F;">(+322.80%)</span> | 2,228<br/><span style="color: #90EE90;">(-64.90%)</span> | 6,355<br/><span style="color: #B22222;">(+11.30%)</span> | 5,710<br/><span style="color: #DC143C;">(+23.90%)</span> |
 | **1月** | 13,390<br/><span style="color: #FF7F7F;">(+57.50%)</span> | 8,503<br/><span style="color: #FF7F7F;">(+146.60%)</span> | 3,447<br/><span style="color: #90EE90;">(-62.60%)</span> | 9,220<br/><span style="color: #8B0000;">(+1.70%)</span> | 9,065<br/><span style="color: #002818;">(-3.26%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 鴻準 (2354) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **72.02** | <span style="color: #006400; font-weight: bold;">-23.5</span> | <span style="color: #B22222; font-weight: bold;">+14.9</span> | **59.5** | <span style="color: #006400; font-weight: bold;">2.32</span> | <span style="color: #B22222; font-weight: bold;">25.65</span> |
 | **2026/01** | **133.9** | <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+57.5</span> | **57.4** | <span style="color: #006400; font-weight: bold;">2.32</span> | <span style="color: #B22222; font-weight: bold;">24.74</span> |
 | **2025/12** | **138.5** | <span style="color: #002818; font-weight: bold;">-8.56</span> | <span style="color: #FF7F7F; font-weight: bold;">+106.2</span> | **61.7** | <span style="color: #006400; font-weight: bold;">2.32</span> | <span style="color: #DC143C; font-weight: bold;">26.59</span> |
 | **2025/11** | **138.3** | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | **65.2** | <span style="color: #006400; font-weight: bold;">2.34</span> | <span style="color: #DC143C; font-weight: bold;">27.89</span> |
@@ -413,7 +414,7 @@ description: 月營收表 鴻準 (2354) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-07 01:12:15 CST
+- **產生時間**: 2026-03-07 05:05:41 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,7 +24,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 114 檔) - 自動
 # :bar_chart: 股利分配總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-03-07 01:14:44 CST  
+    **:calendar: 產生時間**: 2026-03-07 05:08:19 CST  
     **:building_construction: 分析股票總數**: 126 檔 (有效 114 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_dividends.csv + cleaned_performance1.csv
@@ -346,9 +346,9 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 114 檔) - 自動
 <td>[**2382**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2382/)</td>
 <td>廣達</td>
 <td>15.60</td>
-<td>🔽 15.47</td>
+<td>🔽 15.42</td>
 <td>🔼 15.83</td>
-<td>🔽 15.47</td>
+<td>🔽 15.42</td>
 <td>5.40%</td>
 <td>03/06 14:33</td>
 <td>5.81%</td>
@@ -864,9 +864,9 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 114 檔) - 自動
 <td>[**3711**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3711/)</td>
 <td>日月光投控</td>
 <td>5.30</td>
-<td>🔼 7.90</td>
+<td>🔼 7.93</td>
 <td>🔽 5.11</td>
-<td>🔼 8.27</td>
+<td>🔼 8.30</td>
 <td>2.11%</td>
 <td>03/06 15:23</td>
 <td>4.61%</td>
@@ -1699,7 +1699,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 114 檔) - 自動
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-03-07 01:14:44
+    - **報告產生時間**: 2026-03-07 05:08:19
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)

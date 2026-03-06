@@ -24,14 +24,14 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 貿聯-KY  
     **:identification_card: 股票代號**: 3665  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-07 01:12:15 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-07 05:05:41 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+34.2</span> | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | **179** 個月 | 2011/03 至 2026/01 |
+| <span style="color: #DC143C; font-weight: bold;">+27.7</span> | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | **180** 個月 | 2011/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 | **5月** | -- | 5,201<br/><span style="color: #DC143C;">(+20.40%)</span> | 4,320<br/><span style="color: #002818;">(-2.29%)</span> | 4,421<br/><span style="color: #002818;">(-4.97%)</span> | 4,652<br/><span style="color: #FF7F7F;">(+100.80%)</span> |
 | **4月** | -- | 6,228<br/><span style="color: #FF4500;">(+38.30%)</span> | 4,502<br/><span style="color: #8B0000;">(+4.48%)</span> | 4,308<br/><span style="color: #002818;">(-0.03%)</span> | 4,310<br/><span style="color: #FF7F7F;">(+86.00%)</span> |
 | **3月** | -- | 5,739<br/><span style="color: #FF4500;">(+34.40%)</span> | 4,271<br/><span style="color: #002818;">(-6.75%)</span> | 4,580<br/><span style="color: #8B0000;">(+4.93%)</span> | 4,365<br/><span style="color: #FF7F7F;">(+100.40%)</span> |
-| **2月** | -- | 5,002<br/><span style="color: #FF4500;">(+30.40%)</span> | 3,836<br/><span style="color: #002818;">(-4.28%)</span> | 4,008<br/><span style="color: #002818;">(-1.47%)</span> | 4,068<br/><span style="color: #FF7F7F;">(+121.00%)</span> |
+| **2月** | 6,388<br/><span style="color: #DC143C;">(+27.70%)</span> | 5,002<br/><span style="color: #FF4500;">(+30.40%)</span> | 3,836<br/><span style="color: #002818;">(-4.28%)</span> | 4,008<br/><span style="color: #002818;">(-1.47%)</span> | 4,068<br/><span style="color: #FF7F7F;">(+121.00%)</span> |
 | **1月** | 7,456<br/><span style="color: #FF4500;">(+34.20%)</span> | 5,556<br/><span style="color: #FF4500;">(+30.50%)</span> | 4,256<br/><span style="color: #8B0000;">(+4.41%)</span> | 4,076<br/><span style="color: #DC143C;">(+26.90%)</span> | 3,211<br/><span style="color: #FF7F7F;">(+51.90%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **63.88** | <span style="color: #DC143C; font-weight: bold;">+27.7</span> | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | **1410** | <span style="color: #FF6347; font-weight: bold;">40.56</span> | <span style="color: #FF6347; font-weight: bold;">34.76</span> |
 | **2026/01** | **74.56** | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | <span style="color: #FF4500; font-weight: bold;">+34.2</span> | **1300** | <span style="color: #FF6347; font-weight: bold;">40.56</span> | <span style="color: #FF4500; font-weight: bold;">32.05</span> |
 | **2025/12** | **66.41** | <span style="color: #FF6347; font-weight: bold;">+43</span> | <span style="color: #FF4500; font-weight: bold;">+31.7</span> | **1520** | <span style="color: #FF6347; font-weight: bold;">40.56</span> | <span style="color: #FF6347; font-weight: bold;">37.48</span> |
 | **2025/11** | **65.39** | <span style="color: #FF4500; font-weight: bold;">+33.2</span> | <span style="color: #FF4500; font-weight: bold;">+30.6</span> | **1610** | <span style="color: #FF6347; font-weight: bold;">39.3</span> | <span style="color: #FF7F7F; font-weight: bold;">40.97</span> |
@@ -353,7 +354,7 @@ description: 月營收表 貿聯-KY (3665) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-07 01:12:15 CST
+- **產生時間**: 2026-03-07 05:05:41 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
