@@ -3,7 +3,7 @@
     "stock_code": "6425",
     "company_name": "易發",
     "industry": "電機機械",
-    "generated_at": "2026-02-21T12:38:29.388162",
+    "generated_at": "2026-03-07T12:35:52.436947",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -393,6 +393,15 @@
       "start_year": 2025
     },
     {
+      "horizon": "1y",
+      "horizon_label": "1年",
+      "start_date": "2025-02-14",
+      "pe_ratio": 346.2,
+      "forward_return": 0.43,
+      "start_price": 70.4,
+      "start_year": 2025
+    },
+    {
       "horizon": "2y",
       "horizon_label": "2年",
       "start_date": "2022-09-15",
@@ -508,6 +517,15 @@
       "forward_return": 49.82,
       "start_price": 20.9,
       "start_year": 2023
+    },
+    {
+      "horizon": "3y",
+      "horizon_label": "3年",
+      "start_date": "2023-02-14",
+      "pe_ratio": 29.93,
+      "forward_return": 53.39,
+      "start_price": 20.0,
+      "start_year": 2023
     }
   ],
   "statistics": {
@@ -551,12 +569,12 @@
     },
     "1y": {
       "horizon_label": "1年",
-      "avg_pe": 125.19,
-      "avg_return": 35.0,
-      "r_squared": 0.1122,
-      "slope": -0.2711,
-      "intercept": 109.4298,
-      "data_points": 73,
+      "avg_pe": 140.98,
+      "avg_return": 34.54,
+      "r_squared": 0.1362,
+      "slope": -0.2808,
+      "intercept": 109.7111,
+      "data_points": 74,
       "best_buy": {
         "date": "2023-04",
         "pe": 96.69,
@@ -589,12 +607,12 @@
     },
     "3y": {
       "horizon_label": "3年",
-      "avg_pe": 39.91,
-      "avg_return": 15.93,
-      "r_squared": 0.5733,
-      "slope": -0.1561,
-      "intercept": 60.3937,
-      "data_points": 49,
+      "avg_pe": 38.25,
+      "avg_return": 16.68,
+      "r_squared": 0.5484,
+      "slope": -0.1514,
+      "intercept": 59.8227,
+      "data_points": 50,
       "best_buy": {
         "date": "2022-11",
         "pe": 23.88,
@@ -609,11 +627,11 @@
     "4y": {
       "horizon_label": "4年",
       "avg_pe": null,
-      "avg_return": 13.78,
+      "avg_return": 14.18,
       "r_squared": 0.0,
       "slope": 0.0,
       "intercept": 0.0,
-      "data_points": 37,
+      "data_points": 38,
       "best_buy": {
         "date": "2020-03",
         "pe": null,
@@ -628,11 +646,11 @@
     "5y": {
       "horizon_label": "5年",
       "avg_pe": null,
-      "avg_return": 16.43,
+      "avg_return": 16.46,
       "r_squared": 0.0,
       "slope": 0.0,
       "intercept": 0.0,
-      "data_points": 25,
+      "data_points": 26,
       "best_buy": {
         "date": "2019-11",
         "pe": null,

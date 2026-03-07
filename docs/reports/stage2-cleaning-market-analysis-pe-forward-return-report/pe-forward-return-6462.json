@@ -3,7 +3,7 @@
     "stock_code": "6462",
     "company_name": "神盾",
     "industry": "半導體業",
-    "generated_at": "2026-02-21T12:38:36.135941",
+    "generated_at": "2026-03-07T12:35:59.119915",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -3932,6 +3932,15 @@
       "start_year": 2021
     },
     {
+      "horizon": "5y",
+      "horizon_label": "5年",
+      "start_date": "2021-02-14",
+      "pe_ratio": 21.77,
+      "forward_return": -0.88,
+      "start_price": 154.5,
+      "start_year": 2021
+    },
+    {
       "horizon": "6y",
       "horizon_label": "6年",
       "start_date": "2016-06-15",
@@ -4506,6 +4515,15 @@
       "forward_return": -3.76,
       "start_price": 221.0,
       "start_year": 2018
+    },
+    {
+      "horizon": "8y",
+      "horizon_label": "8年",
+      "start_date": "2018-02-14",
+      "pe_ratio": 18.76,
+      "forward_return": 0.47,
+      "start_price": 163.0,
+      "start_year": 2018
     }
   ],
   "statistics": {
@@ -4550,11 +4568,11 @@
     "1y": {
       "horizon_label": "1年",
       "avg_pe": 76.31,
-      "avg_return": 16.86,
+      "avg_return": 16.58,
       "r_squared": 0.0083,
       "slope": 0.0215,
       "intercept": -2.9544,
-      "data_points": 110,
+      "data_points": 111,
       "best_buy": {
         "date": "2023-02",
         "pe": null,
@@ -4588,11 +4606,11 @@
     "3y": {
       "horizon_label": "3年",
       "avg_pe": 76.31,
-      "avg_return": 2.45,
+      "avg_return": 2.61,
       "r_squared": 0.0609,
       "slope": 0.0192,
       "intercept": -4.3381,
-      "data_points": 86,
+      "data_points": 87,
       "best_buy": {
         "date": "2022-10",
         "pe": null,
@@ -4607,11 +4625,11 @@
     "4y": {
       "horizon_label": "4年",
       "avg_pe": 76.31,
-      "avg_return": -1.9,
+      "avg_return": -1.79,
       "r_squared": 0.0148,
       "slope": 0.0058,
       "intercept": -3.8774,
-      "data_points": 74,
+      "data_points": 75,
       "best_buy": {
         "date": "2020-03",
         "pe": 12.61,
@@ -4625,12 +4643,12 @@
     },
     "5y": {
       "horizon_label": "5年",
-      "avg_pe": 79.12,
-      "avg_return": -2.75,
-      "r_squared": 0.0019,
-      "slope": 0.0014,
-      "intercept": -3.6979,
-      "data_points": 62,
+      "avg_pe": 78.11,
+      "avg_return": -2.72,
+      "r_squared": 0.0017,
+      "slope": 0.0013,
+      "intercept": -3.6437,
+      "data_points": 63,
       "best_buy": {
         "date": "2019-02",
         "pe": 21.05,
@@ -4663,12 +4681,12 @@
     },
     "8y": {
       "horizon_label": "8年",
-      "avg_pe": 188.79,
-      "avg_return": 0.76,
-      "r_squared": 0.7653,
-      "slope": 0.0103,
-      "intercept": -3.6689,
-      "data_points": 26,
+      "avg_pe": 180.7,
+      "avg_return": 0.75,
+      "r_squared": 0.7149,
+      "slope": 0.01,
+      "intercept": -3.4213,
+      "data_points": 27,
       "best_buy": {
         "date": "2016-02",
         "pe": null,
