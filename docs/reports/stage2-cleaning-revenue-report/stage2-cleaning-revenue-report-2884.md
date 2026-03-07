@@ -24,14 +24,14 @@ description: 月營收表 玉山金 (2884) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 玉山金  
     **:identification_card: 股票代號**: 2884  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-08 01:03:51 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-08 04:57:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF6347; font-weight: bold;">+40.5</span> | <span style="color: #FF6347; font-weight: bold;">+40.5</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #8B0000; font-weight: bold;">+4</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 | **5月** | -- | 7,422<br/><span style="color: #8B0000;">(+8.02%)</span> | 6,870<br/><span style="color: #FF6347;">(+41.70%)</span> | 4,848<br/><span style="color: #002818;">(-2.84%)</span> | 4,990<br/><span style="color: #8B0000;">(+9.40%)</span> |
 | **4月** | -- | 6,797<br/><span style="color: #B22222;">(+18.80%)</span> | 5,721<br/><span style="color: #8B0000;">(+5.10%)</span> | 5,443<br/><span style="color: #FF4500;">(+37.50%)</span> | 3,959<br/><span style="color: #006400;">(-21.50%)</span> |
 | **3月** | -- | 7,659<br/><span style="color: #DC143C;">(+23.50%)</span> | 6,203<br/><span style="color: #8B0000;">(+4.78%)</span> | 5,920<br/><span style="color: #DC143C;">(+26.40%)</span> | 4,683<br/><span style="color: #002818;">(-4.02%)</span> |
-| **2月** | -- | 7,191<br/><span style="color: #FF7F7F;">(+56.30%)</span> | 4,600<br/><span style="color: #DC143C;">(+27.30%)</span> | 3,614<br/><span style="color: #002818;">(-5.78%)</span> | 3,836<br/><span style="color: #002818;">(-7.63%)</span> |
+| **2月** | 7,479<br/><span style="color: #8B0000;">(+4.00%)</span> | 7,191<br/><span style="color: #FF7F7F;">(+56.30%)</span> | 4,600<br/><span style="color: #DC143C;">(+27.30%)</span> | 3,614<br/><span style="color: #002818;">(-5.78%)</span> | 3,836<br/><span style="color: #002818;">(-7.63%)</span> |
 | **1月** | 9,246<br/><span style="color: #FF6347;">(+40.50%)</span> | 6,580<br/><span style="color: #002818;">(-1.53%)</span> | 6,681<br/><span style="color: #8B0000;">(+6.53%)</span> | 6,272<br/><span style="color: #DC143C;">(+24.50%)</span> | 5,037<br/><span style="color: #8B0000;">(+8.06%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **74.79** | <span style="color: #8B0000; font-weight: bold;">+4</span> | <span style="color: #DC143C; font-weight: bold;">+21.4</span> | **35.1** | <span style="color: #FF6347; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">18.09</span> |
 | **2026/01** | **92.46** | <span style="color: #FF6347; font-weight: bold;">+40.5</span> | <span style="color: #FF6347; font-weight: bold;">+40.5</span> | **33.4** | <span style="color: #FF6347; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">17.22</span> |
 | **2025/12** | **77.74** | <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **33.75** | <span style="color: #FF6347; font-weight: bold;">1.94</span> | <span style="color: #004225; font-weight: bold;">17.4</span> |
 | **2025/11** | **80.94** | <span style="color: #FF6347; font-weight: bold;">+46.6</span> | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | **30.35** | <span style="color: #FF6347; font-weight: bold;">1.91</span> | <span style="color: #004225; font-weight: bold;">15.86</span> |
@@ -413,7 +414,7 @@ description: 月營收表 玉山金 (2884) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-08 01:03:51 CST
+- **產生時間**: 2026-03-08 04:57:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

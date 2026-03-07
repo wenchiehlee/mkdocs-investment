@@ -24,14 +24,14 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 瑞昱  
     **:identification_card: 股票代號**: 2379  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-08 01:03:51 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-08 04:57:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #002818; font-weight: bold;">-7.41</span> | <span style="color: #8B0000; font-weight: bold;">+3.75</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 | **5月** | -- | 10,280<br/><span style="color: #002818;">(-1.02%)</span> | 10,380<br/><span style="color: #B22222;">(+15.10%)</span> | 9,019<br/><span style="color: #004225;">(-13.70%)</span> | 10,450<br/><span style="color: #DC143C;">(+21.80%)</span> |
 | **4月** | -- | 11,430<br/><span style="color: #B22222;">(+13.50%)</span> | 10,070<br/><span style="color: #DC143C;">(+21.80%)</span> | 8,263<br/><span style="color: #006400;">(-20.60%)</span> | 10,410<br/><span style="color: #FF4500;">(+33.20%)</span> |
 | **3月** | -- | 11,830<br/><span style="color: #FF4500;">(+30.90%)</span> | 9,040<br/><span style="color: #B22222;">(+13.90%)</span> | 7,937<br/><span style="color: #006400;">(-24.00%)</span> | 10,450<br/><span style="color: #DC143C;">(+29.70%)</span> |
-| **2月** | -- | 11,320<br/><span style="color: #FF6347;">(+44.70%)</span> | 7,823<br/><span style="color: #DC143C;">(+26.20%)</span> | 6,197<br/><span style="color: #228B22;">(-31.90%)</span> | 9,104<br/><span style="color: #DC143C;">(+29.60%)</span> |
+| **2月** | 10,480<br/><span style="color: #002818;">(-7.41%)</span> | 11,320<br/><span style="color: #FF6347;">(+44.70%)</span> | 7,823<br/><span style="color: #DC143C;">(+26.20%)</span> | 6,197<br/><span style="color: #228B22;">(-31.90%)</span> | 9,104<br/><span style="color: #DC143C;">(+29.60%)</span> |
 | **1月** | 13,580<br/><span style="color: #B22222;">(+14.40%)</span> | 11,870<br/><span style="color: #FF4500;">(+35.50%)</span> | 8,760<br/><span style="color: #FF7F7F;">(+59.50%)</span> | 5,491<br/><span style="color: #32CD32;">(-46.20%)</span> | 10,200<br/><span style="color: #DC143C;">(+23.60%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **104.8** | <span style="color: #002818; font-weight: bold;">-7.41</span> | <span style="color: #8B0000; font-weight: bold;">+3.75</span> | **481.5** | <span style="color: #DC143C; font-weight: bold;">28.77</span> | <span style="color: #002818; font-weight: bold;">16.74</span> |
 | **2026/01** | **135.8** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #B22222; font-weight: bold;">+14.4</span> | **483.5** | <span style="color: #DC143C; font-weight: bold;">28.77</span> | <span style="color: #002818; font-weight: bold;">16.81</span> |
 | **2025/12** | **83.33** | <span style="color: #002818; font-weight: bold;">-3.94</span> | <span style="color: #8B0000; font-weight: bold;">+8.21</span> | **489** | <span style="color: #DC143C; font-weight: bold;">28.77</span> | <span style="color: #002818; font-weight: bold;">17.0</span> |
 | **2025/11** | **88.82** | <span style="color: #8B0000; font-weight: bold;">+1.83</span> | <span style="color: #8B0000; font-weight: bold;">+9.22</span> | **521** | <span style="color: #DC143C; font-weight: bold;">28.86</span> | <span style="color: #002818; font-weight: bold;">18.05</span> |
@@ -413,7 +414,7 @@ description: 月營收表 瑞昱 (2379) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-08 01:03:51 CST
+- **產生時間**: 2026-03-08 04:57:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 智邦 (2345) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 智邦  
     **:identification_card: 股票代號**: 2345  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-08 01:03:51 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-08 04:57:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+71.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+71.9</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #FF7F7F; font-weight: bold;">+82.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+77.4</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 智邦 (2345) - 自動產生
 | **5月** | -- | 18,280<br/><span style="color: #FF7F7F;">(+108.30%)</span> | 8,777<br/><span style="color: #FF4500;">(+35.60%)</span> | 6,473<br/><span style="color: #8B0000;">(+5.14%)</span> | 6,156<br/><span style="color: #DC143C;">(+25.30%)</span> |
 | **4月** | -- | 17,780<br/><span style="color: #FF7F7F;">(+153.40%)</span> | 7,017<br/><span style="color: #B22222;">(+11.00%)</span> | 6,322<br/><span style="color: #B22222;">(+12.40%)</span> | 5,626<br/><span style="color: #DC143C;">(+21.60%)</span> |
 | **3月** | -- | 17,320<br/><span style="color: #FF7F7F;">(+127.30%)</span> | 7,618<br/><span style="color: #8B0000;">(+4.29%)</span> | 7,304<br/><span style="color: #8B0000;">(+8.21%)</span> | 6,750<br/><span style="color: #FF4500;">(+30.00%)</span> |
-| **2月** | -- | 12,910<br/><span style="color: #FF7F7F;">(+141.50%)</span> | 5,345<br/><span style="color: #004225;">(-12.60%)</span> | 6,112<br/><span style="color: #FF7F7F;">(+64.20%)</span> | 3,721<br/><span style="color: #8B0000;">(+2.43%)</span> |
+| **2月** | 23,580<br/><span style="color: #FF7F7F;">(+82.70%)</span> | 12,910<br/><span style="color: #FF7F7F;">(+141.50%)</span> | 5,345<br/><span style="color: #004225;">(-12.60%)</span> | 6,112<br/><span style="color: #FF7F7F;">(+64.20%)</span> | 3,721<br/><span style="color: #8B0000;">(+2.43%)</span> |
 | **1月** | 21,530<br/><span style="color: #FF7F7F;">(+71.90%)</span> | 12,530<br/><span style="color: #FF7F7F;">(+112.80%)</span> | 5,885<br/><span style="color: #002818;">(-6.13%)</span> | 6,270<br/><span style="color: #B22222;">(+19.20%)</span> | 5,259<br/><span style="color: #DC143C;">(+20.20%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 智邦 (2345) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **235.8** | <span style="color: #FF7F7F; font-weight: bold;">+82.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+77.4</span> | **1400** | <span style="color: #FF6347; font-weight: bold;">40.28</span> | <span style="color: #002818; font-weight: bold;">34.76</span> |
 | **2026/01** | **215.3** | <span style="color: #FF7F7F; font-weight: bold;">+71.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+71.9</span> | **1115** | <span style="color: #FF6347; font-weight: bold;">40.28</span> | <span style="color: #004225; font-weight: bold;">27.68</span> |
 | **2025/12** | **260.5** | <span style="color: #FF7F7F; font-weight: bold;">+67.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+124.8</span> | **1185** | <span style="color: #FF6347; font-weight: bold;">40.28</span> | <span style="color: #002818; font-weight: bold;">29.42</span> |
 | **2025/11** | **225.5** | <span style="color: #FF7F7F; font-weight: bold;">+79.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+134.2</span> | **1025** | <span style="color: #FF6347; font-weight: bold;">38.71</span> | <span style="color: #004225; font-weight: bold;">26.48</span> |
@@ -413,7 +414,7 @@ description: 月營收表 智邦 (2345) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-08 01:03:51 CST
+- **產生時間**: 2026-03-08 04:57:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

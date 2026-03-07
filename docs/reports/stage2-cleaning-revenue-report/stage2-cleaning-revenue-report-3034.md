@@ -24,14 +24,14 @@ description: 月營收表 聯詠 (3034) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 聯詠  
     **:identification_card: 股票代號**: 3034  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-08 01:03:51 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-08 04:57:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #004225; font-weight: bold;">-10.2</span> | <span style="color: #004225; font-weight: bold;">-10.2</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #006400; font-weight: bold;">-23.8</span> | <span style="color: #004225; font-weight: bold;">-17.3</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 聯詠 (3034) - 自動產生
 | **5月** | -- | 8,607<br/><span style="color: #8B0000;">(+1.99%)</span> | 8,439<br/><span style="color: #004225;">(-17.50%)</span> | 10,230<br/><span style="color: #002818;">(-6.90%)</span> | 10,980<br/><span style="color: #002818;">(-4.05%)</span> |
 | **4月** | -- | 9,119<br/><span style="color: #8B0000;">(+9.48%)</span> | 8,329<br/><span style="color: #004225;">(-16.40%)</span> | 9,961<br/><span style="color: #004225;">(-19.10%)</span> | 12,320<br/><span style="color: #B22222;">(+11.10%)</span> |
 | **3月** | -- | 9,372<br/><span style="color: #8B0000;">(+9.29%)</span> | 8,575<br/><span style="color: #002818;">(-6.59%)</span> | 9,181<br/><span style="color: #006400;">(-26.40%)</span> | 12,470<br/><span style="color: #FF4500;">(+30.80%)</span> |
-| **2月** | -- | 9,267<br/><span style="color: #DC143C;">(+29.90%)</span> | 7,133<br/><span style="color: #002818;">(-6.65%)</span> | 7,641<br/><span style="color: #228B22;">(-34.80%)</span> | 11,720<br/><span style="color: #FF4500;">(+34.50%)</span> |
+| **2月** | 7,059<br/><span style="color: #006400;">(-23.80%)</span> | 9,267<br/><span style="color: #DC143C;">(+29.90%)</span> | 7,133<br/><span style="color: #002818;">(-6.65%)</span> | 7,641<br/><span style="color: #228B22;">(-34.80%)</span> | 11,720<br/><span style="color: #FF4500;">(+34.50%)</span> |
 | **1月** | 7,617<br/><span style="color: #004225;">(-10.20%)</span> | 8,481<br/><span style="color: #002818;">(-2.73%)</span> | 8,720<br/><span style="color: #DC143C;">(+20.70%)</span> | 7,223<br/><span style="color: #32CD32;">(-41.40%)</span> | 12,320<br/><span style="color: #FF7F7F;">(+51.60%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 聯詠 (3034) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **70.59** | <span style="color: #006400; font-weight: bold;">-23.8</span> | <span style="color: #004225; font-weight: bold;">-17.3</span> | **393** | <span style="color: #8B0000; font-weight: bold;">28.69</span> | <span style="color: #8B0000; font-weight: bold;">13.7</span> |
 | **2026/01** | **76.17** | <span style="color: #004225; font-weight: bold;">-10.2</span> | <span style="color: #004225; font-weight: bold;">-10.2</span> | **375** | <span style="color: #8B0000; font-weight: bold;">28.69</span> | <span style="color: #8B0000; font-weight: bold;">13.07</span> |
 | **2025/12** | **73.2** | <span style="color: #004225; font-weight: bold;">-14.2</span> | <span style="color: #002818; font-weight: bold;">-2.06</span> | **374** | <span style="color: #8B0000; font-weight: bold;">28.69</span> | <span style="color: #8B0000; font-weight: bold;">13.04</span> |
 | **2025/11** | **76.19** | <span style="color: #002818; font-weight: bold;">-7.23</span> | <span style="color: #002818; font-weight: bold;">-0.97</span> | **389.5** | <span style="color: #8B0000; font-weight: bold;">29.08</span> | <span style="color: #8B0000; font-weight: bold;">13.39</span> |
@@ -413,7 +414,7 @@ description: 月營收表 聯詠 (3034) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-08 01:03:51 CST
+- **產生時間**: 2026-03-08 04:57:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

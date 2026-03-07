@@ -24,14 +24,14 @@ description: 月營收表 聯強 (2347) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 聯強  
     **:identification_card: 股票代號**: 2347  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-08 01:03:51 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-08 04:57:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+39.3</span> | <span style="color: #FF4500; font-weight: bold;">+39.3</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #8B0000; font-weight: bold;">+5.77</span> | <span style="color: #DC143C; font-weight: bold;">+22.7</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 聯強 (2347) - 自動產生
 | **5月** | -- | 29,520<br/><span style="color: #004225;">(-10.50%)</span> | 33,000<br/><span style="color: #B22222;">(+12.50%)</span> | 29,339<br/><span style="color: #002818;">(-9.78%)</span> | 32,520<br/><span style="color: #8B0000;">(+3.52%)</span> |
 | **4月** | -- | 31,089<br/><span style="color: #8B0000;">(+2.51%)</span> | 30,330<br/><span style="color: #8B0000;">(+9.36%)</span> | 27,730<br/><span style="color: #002818;">(-4.83%)</span> | 29,139<br/><span style="color: #002818;">(-7.95%)</span> |
 | **3月** | -- | 34,040<br/><span style="color: #002818;">(-3.85%)</span> | 35,400<br/><span style="color: #8B0000;">(+0.93%)</span> | 35,080<br/><span style="color: #004225;">(-14.10%)</span> | 40,830<br/><span style="color: #DC143C;">(+23.00%)</span> |
-| **2月** | -- | 28,220<br/><span style="color: #8B0000;">(+3.92%)</span> | 27,160<br/><span style="color: #8B0000;">(+6.58%)</span> | 25,480<br/><span style="color: #002818;">(-3.78%)</span> | 26,480<br/><span style="color: #B22222;">(+19.40%)</span> |
+| **2月** | 29,720<br/><span style="color: #8B0000;">(+5.77%)</span> | 28,089<br/><span style="color: #8B0000;">(+3.45%)</span> | 27,160<br/><span style="color: #8B0000;">(+6.58%)</span> | 25,480<br/><span style="color: #002818;">(-3.78%)</span> | 26,480<br/><span style="color: #B22222;">(+19.40%)</span> |
 | **1月** | 40,700<br/><span style="color: #FF4500;">(+39.30%)</span> | 29,210<br/><span style="color: #006400;">(-29.10%)</span> | 41,190<br/><span style="color: #FF6347;">(+46.90%)</span> | 28,039<br/><span style="color: #004225;">(-16.40%)</span> | 33,550<br/><span style="color: #8B0000;">(+7.00%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 聯強 (2347) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **297.2** | <span style="color: #8B0000; font-weight: bold;">+5.77</span> | <span style="color: #DC143C; font-weight: bold;">+22.7</span> | **71.9** | <span style="color: #8B0000; font-weight: bold;">5.18</span> | <span style="color: #8B0000; font-weight: bold;">13.88</span> |
 | **2026/01** | **407** | <span style="color: #FF4500; font-weight: bold;">+39.3</span> | <span style="color: #FF4500; font-weight: bold;">+39.3</span> | **65.5** | <span style="color: #8B0000; font-weight: bold;">5.18</span> | <span style="color: #002818; font-weight: bold;">12.64</span> |
 | **2025/12** | **470.3** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #002818; font-weight: bold;">-3.59</span> | **57.9** | <span style="color: #8B0000; font-weight: bold;">5.18</span> | <span style="color: #004225; font-weight: bold;">11.18</span> |
 | **2025/11** | **414.1** | <span style="color: #B22222; font-weight: bold;">+15.6</span> | <span style="color: #002818; font-weight: bold;">-5.5</span> | **62.9** | <span style="color: #8B0000; font-weight: bold;">5.21</span> | <span style="color: #002818; font-weight: bold;">12.08</span> |
@@ -90,7 +91,7 @@ description: 月營收表 聯強 (2347) - 自動產生
 | **2025/05** | **295.2** | <span style="color: #004225; font-weight: bold;">-10.5</span> | <span style="color: #002818; font-weight: bold;">-8.9</span> | **71.2** | <span style="color: #8B0000; font-weight: bold;">5.38</span> | <span style="color: #002818; font-weight: bold;">13.24</span> |
 | **2025/04** | **310.9** | <span style="color: #8B0000; font-weight: bold;">+2.51</span> | <span style="color: #002818; font-weight: bold;">-8.64</span> | **70.9** | <span style="color: #8B0000; font-weight: bold;">5.41</span> | <span style="color: #002818; font-weight: bold;">13.11</span> |
 | **2025/03** | **340.4** | <span style="color: #002818; font-weight: bold;">-3.85</span> | <span style="color: #004225; font-weight: bold;">-12</span> | **71.4** | <span style="color: #8B0000; font-weight: bold;">5.44</span> | <span style="color: #002818; font-weight: bold;">13.14</span> |
-| **2025/02** | **282.2** | <span style="color: #8B0000; font-weight: bold;">+3.92</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **70.5** | <span style="color: #8B0000; font-weight: bold;">5.46</span> | <span style="color: #002818; font-weight: bold;">12.9</span> |
+| **2025/02** | **280.9** | <span style="color: #8B0000; font-weight: bold;">+3.45</span> | <span style="color: #004225; font-weight: bold;">-16.2</span> | **70.5** | <span style="color: #8B0000; font-weight: bold;">5.46</span> | <span style="color: #002818; font-weight: bold;">12.9</span> |
 | **2025/01** | **292.1** | <span style="color: #006400; font-weight: bold;">-29.1</span> | <span style="color: #006400; font-weight: bold;">-29.1</span> | **71.2** | <span style="color: #8B0000; font-weight: bold;">5.49</span> | <span style="color: #002818; font-weight: bold;">12.97</span> |
 | **2024/12** | **413.1** | <span style="color: #002818; font-weight: bold;">-1.98</span> | <span style="color: #8B0000; font-weight: bold;">+7.56</span> | **70.8** | <span style="color: #8B0000; font-weight: bold;">5.52</span> | <span style="color: #002818; font-weight: bold;">12.83</span> |
 | **2024/11** | **358.1** | <span style="color: #002818; font-weight: bold;">-7.43</span> | <span style="color: #8B0000; font-weight: bold;">+8.7</span> | **75.6** | <span style="color: #8B0000; font-weight: bold;">5.42</span> | <span style="color: #8B0000; font-weight: bold;">13.94</span> |
@@ -413,7 +414,7 @@ description: 月營收表 聯強 (2347) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-08 01:03:51 CST
+- **產生時間**: 2026-03-08 04:57:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

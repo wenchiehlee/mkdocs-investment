@@ -24,14 +24,14 @@ description: 月營收表 京元電子 (2449) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 京元電子  
     **:identification_card: 股票代號**: 2449  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-08 01:03:51 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-08 04:57:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF6347; font-weight: bold;">+41.3</span> | <span style="color: #FF6347; font-weight: bold;">+41.3</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #FF6347; font-weight: bold;">+41</span> | <span style="color: #FF6347; font-weight: bold;">+41.2</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 | **5月** | -- | 2,765<br/><span style="color: #DC143C;">(+24.70%)</span> | 2,217<br/><span style="color: #B22222;">(+11.80%)</span> | 1,982<br/><span style="color: #32CD32;">(-40.20%)</span> | 3,315<br/><span style="color: #B22222;">(+15.80%)</span> |
 | **4月** | -- | 2,782<br/><span style="color: #FF4500;">(+33.80%)</span> | 2,079<br/><span style="color: #B22222;">(+11.40%)</span> | 1,866<br/><span style="color: #32CD32;">(-44.80%)</span> | 3,382<br/><span style="color: #DC143C;">(+22.60%)</span> |
 | **3月** | -- | 2,644<br/><span style="color: #DC143C;">(+24.30%)</span> | 2,128<br/><span style="color: #006400;">(-21.30%)</span> | 2,703<br/><span style="color: #004225;">(-17.80%)</span> | 3,289<br/><span style="color: #DC143C;">(+23.40%)</span> |
-| **2月** | -- | 2,286<br/><span style="color: #DC143C;">(+21.30%)</span> | 1,885<br/><span style="color: #006400;">(-24.50%)</span> | 2,498<br/><span style="color: #002818;">(-4.15%)</span> | 2,606<br/><span style="color: #8B0000;">(+8.35%)</span> |
+| **2月** | 3,225<br/><span style="color: #FF6347;">(+41.00%)</span> | 2,286<br/><span style="color: #DC143C;">(+21.30%)</span> | 1,885<br/><span style="color: #006400;">(-24.50%)</span> | 2,498<br/><span style="color: #002818;">(-4.15%)</span> | 2,606<br/><span style="color: #8B0000;">(+8.35%)</span> |
 | **1月** | 3,370<br/><span style="color: #FF6347;">(+41.30%)</span> | 2,385<br/><span style="color: #DC143C;">(+21.40%)</span> | 1,964<br/><span style="color: #006400;">(-23.40%)</span> | 2,564<br/><span style="color: #004225;">(-17.00%)</span> | 3,089<br/><span style="color: #DC143C;">(+20.70%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **32.25** | <span style="color: #FF6347; font-weight: bold;">+41</span> | <span style="color: #FF6347; font-weight: bold;">+41.2</span> | **327** | <span style="color: #FF6347; font-weight: bold;">8.83</span> | <span style="color: #8B0000; font-weight: bold;">37.03</span> |
 | **2026/01** | **33.7** | <span style="color: #FF6347; font-weight: bold;">+41.3</span> | <span style="color: #FF6347; font-weight: bold;">+41.3</span> | **296** | <span style="color: #FF6347; font-weight: bold;">8.83</span> | <span style="color: #8B0000; font-weight: bold;">33.52</span> |
 | **2025/12** | **32.54** | <span style="color: #FF4500; font-weight: bold;">+33</span> | <span style="color: #FF4500; font-weight: bold;">+30.1</span> | **247.5** | <span style="color: #FF6347; font-weight: bold;">8.83</span> | <span style="color: #8B0000; font-weight: bold;">28.03</span> |
 | **2025/11** | **32.93** | <span style="color: #FF4500; font-weight: bold;">+34.9</span> | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | **229** | <span style="color: #FF6347; font-weight: bold;">8.62</span> | <span style="color: #8B0000; font-weight: bold;">26.55</span> |
@@ -413,7 +414,7 @@ description: 月營收表 京元電子 (2449) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-08 01:03:51 CST
+- **產生時間**: 2026-03-08 04:57:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 神準 (3558) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 神準  
     **:identification_card: 股票代號**: 3558  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-08 01:03:51 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-08 04:57:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #004225; font-weight: bold;">-18.7</span> | <span style="color: #004225; font-weight: bold;">-18.7</span> | **226** 個月 | 2007/04 至 2026/01 |
+| <span style="color: #006400; font-weight: bold;">-23</span> | <span style="color: #006400; font-weight: bold;">-21</span> | **227** 個月 | 2007/04 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 神準 (3558) - 自動產生
 | **5月** | -- | 1,321<br/><span style="color: #FF7F7F;">(+55.00%)</span> | 852<br/><span style="color: #006400;">(-23.60%)</span> | 1,115<br/><span style="color: #002818;">(-6.50%)</span> | 1,193<br/><span style="color: #FF7F7F;">(+69.20%)</span> |
 | **4月** | -- | 1,401<br/><span style="color: #FF7F7F;">(+60.20%)</span> | 875<br/><span style="color: #228B22;">(-39.10%)</span> | 1,438<br/><span style="color: #FF7F7F;">(+61.70%)</span> | 889<br/><span style="color: #DC143C;">(+25.70%)</span> |
 | **3月** | -- | 1,423<br/><span style="color: #FF7F7F;">(+69.90%)</span> | 838<br/><span style="color: #32CD32;">(-49.90%)</span> | 1,672<br/><span style="color: #FF6347;">(+41.80%)</span> | 1,179<br/><span style="color: #FF7F7F;">(+64.40%)</span> |
-| **2月** | -- | 1,354<br/><span style="color: #FF7F7F;">(+63.80%)</span> | 827<br/><span style="color: #32CD32;">(-43.70%)</span> | 1,469<br/><span style="color: #FF7F7F;">(+96.50%)</span> | 747<br/><span style="color: #FF4500;">(+33.50%)</span> |
+| **2月** | 1,042<br/><span style="color: #006400;">(-23.00%)</span> | 1,354<br/><span style="color: #FF7F7F;">(+63.80%)</span> | 827<br/><span style="color: #32CD32;">(-43.70%)</span> | 1,469<br/><span style="color: #FF7F7F;">(+96.50%)</span> | 747<br/><span style="color: #FF4500;">(+33.50%)</span> |
 | **1月** | 990<br/><span style="color: #004225;">(-18.70%)</span> | 1,217<br/><span style="color: #8B0000;">(+1.98%)</span> | 1,193<br/><span style="color: #004225;">(-12.70%)</span> | 1,367<br/><span style="color: #FF6347;">(+46.10%)</span> | 936<br/><span style="color: #FF4500;">(+32.80%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 神準 (3558) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **10.42** | <span style="color: #006400; font-weight: bold;">-23</span> | <span style="color: #006400; font-weight: bold;">-21</span> | **143** | <span style="color: #006400; font-weight: bold;">6.61</span> | <span style="color: #B22222; font-weight: bold;">21.63</span> |
 | **2026/01** | **9.9** | <span style="color: #004225; font-weight: bold;">-18.7</span> | <span style="color: #004225; font-weight: bold;">-18.7</span> | **135** | <span style="color: #006400; font-weight: bold;">6.61</span> | <span style="color: #8B0000; font-weight: bold;">20.42</span> |
 | **2025/12** | **12.51** | <span style="color: #002818; font-weight: bold;">-1.13</span> | <span style="color: #DC143C; font-weight: bold;">+25.4</span> | **130.5** | <span style="color: #006400; font-weight: bold;">6.61</span> | <span style="color: #8B0000; font-weight: bold;">19.74</span> |
 | **2025/11** | **10.4** | <span style="color: #004225; font-weight: bold;">-13.2</span> | <span style="color: #DC143C; font-weight: bold;">+28.6</span> | **133.5** | <span style="color: #228B22; font-weight: bold;">6.45</span> | <span style="color: #B22222; font-weight: bold;">20.69</span> |
@@ -400,7 +401,7 @@ description: 月營收表 神準 (3558) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-08 01:03:51 CST
+- **產生時間**: 2026-03-08 04:57:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
