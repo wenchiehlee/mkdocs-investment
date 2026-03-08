@@ -1,0 +1,3418 @@
+
+<!doctype html>
+<html lang="zh-TW" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="2474 可成 (其他電子業) 本益比與6年期未來報酬率關係分析">
+      
+      
+        <meta name="author" content="Wen-Chieh Lee">
+      
+      
+        <link rel="canonical" href="https://wenchiehlee.github.io/mkdocs-investment/reports/stage2-cleaning-market-analysis-pe-forward-return-report/market-analysis-pe-forward-return-2474-6y-tr/">
+      
+      
+      
+      
+        <link rel="alternate" type="application/rss+xml" title="RSS 訂閱" href="../../../feed_rss_created.xml">
+        <link rel="alternate" type="application/rss+xml" title="RSS 訂閱內容已更新" href="../../../feed_rss_updated.xml">
+      
+      <link rel="icon" href="../../../assets/images/w-purple.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>2474 可成 - 本益比與未來報酬率分析 - Wen-Chieh Lee的投資堆疊</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+  
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+    
+    
+      
+    
+    
+  
+  
+  <style>.md-tag.md-tag--featured{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 12V4h1V2H7v2h1v8l-2 2v2h5.2v6h1.6v-6H18v-2l-2-2Z"/></svg>');}.md-tag.md-tag--3D{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 7h4a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H5v-2h4v-2H6v-2h3V9H5V7m8 0h3a3 3 0 0 1 3 3v4a3 3 0 0 1-3 3h-3V7m3 8a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1h-1v6h1Z"/></svg>');}.md-tag.md-tag--AI{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 3c3.88 0 7 3.14 7 7 0 2.8-1.63 5.19-4 6.31V21H9v-3H8c-1.11 0-2-.89-2-2v-3H4.5c-.42 0-.66-.5-.42-.81L6 9.66A7.003 7.003 0 0 1 13 3m0-2C8.41 1 4.61 4.42 4.06 8.9L2.5 11h-.03l-.02.03c-.55.76-.62 1.76-.19 2.59.36.69 1 1.17 1.74 1.32V16c0 1.85 1.28 3.42 3 3.87V23h11v-5.5c2.5-1.67 4-4.44 4-7.5 0-4.97-4.04-9-9-9m4.33 8.3-1.96.51 1.44 1.46c.35.34.35.92 0 1.27s-.93.35-1.27 0l-1.45-1.44-.52 1.96c-.12.49-.61.76-1.07.64a.91.91 0 0 1-.66-1.11l.53-1.96-1.96.53a.91.91 0 0 1-1.11-.66c-.12-.45.16-.95.64-1.07l1.96-.52-1.44-1.45a.9.9 0 0 1 1.27-1.27l1.46 1.44.51-1.96c.12-.49.62-.77 1.09-.64.49.13.77.62.64 1.1L14.9 8.1l1.97-.53c.48-.13.97.15 1.1.64.13.47-.15.97-.64 1.09Z"/></svg>');}.md-tag.md-tag--Data{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3C7.58 3 4 4.79 4 7s3.58 4 8 4 8-1.79 8-4-3.58-4-8-4M4 9v3c0 2.21 3.58 4 8 4s8-1.79 8-4V9c0 2.21-3.58 4-8 4s-8-1.79-8-4m0 5v3c0 2.21 3.58 4 8 4s8-1.79 8-4v-3c0 2.21-3.58 4-8 4s-8-1.79-8-4Z"/></svg>');}.md-tag.md-tag--DevOps{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.73 11.93c0 1.72-.02 1.83-.23 2.07-.19.17-.38.23-.76.23l-.51.01-.03-2.27-.02-2.27h.52c.35 0 .6.07.77.21.24.21.26.25.26 2.02M22 7.5v9c0 1.11-.89 2-2 2H4c-1.11 0-2-.89-2-2v-9c0-1.11.89-2 2-2h16c1.11 0 2 .89 2 2M8.93 11.73c-.03-1.84-.05-1.99-.29-2.39-.4-.68-.85-.84-2.36-.84H5v7h1.21c1.33 0 1.89-.17 2.29-.71.41-.53.5-.98.43-3.06m4.19-3.23h-1.48c-1.49 0-1.5 0-1.71.28S9.7 9.21 9.7 12v2.96l.27.27c.25.27.31.27 1.71.27h1.44v-1.19l-1.09-.04-1.1-.03V12.6l.68-.03.66-.04v-1.19h-1.39V9.7h2.24V8.5m5.88.06c0-.06-.3-.06-.66-.06l-.68.06-.59 2.35c-.38 1.48-.62 2.27-.67 2.13-.08-.27-1.14-4.44-1.14-4.49 0-.05-.31-.05-.68-.05h-.69l.41 1.55c.2.87.59 2.28.81 3.15.34 1.35.46 1.65.75 1.94.2.22.45.36.61.36.33 0 .76-.34.9-.73C17.5 14.5 19 8.69 19 8.56Z"/></svg>');}.md-tag.md-tag--IOT{--md-tag-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18V4H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h4v-2H3V6m10 6H9v1.78c-.61.55-1 1.33-1 2.22 0 .89.39 1.67 1 2.22V20h4v-1.78c.61-.55 1-1.34 1-2.22s-.39-1.67-1-2.22V12m-2 5.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5M22 8h-6c-.5 0-1 .5-1 1v10c0 .5.5 1 1 1h6c.5 0 1-.5 1-1V9c0-.5-.5-1-1-1m-1 10h-4v-8h4v8Z"/></svg>');}</style>
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+TC:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Noto Serif TC";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../css/timeago.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/timeline.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/cards.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/link.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/customize.css">
+    
+      <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/tables.css">
+    
+      <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-913Z6DSVD2"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-913Z6DSVD2",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-913Z6DSVD2",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="deep-purple">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#2474-" class="md-skip">
+          跳轉到
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="頁首">
+    <a href="../../.." title="Wen-Chieh Lee的投資堆疊" class="md-header__button md-logo" aria-label="Wen-Chieh Lee的投資堆疊" data-md-component="logo">
+      
+  <img src="../../../assets/images/w-purple.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Wen-Chieh Lee的投資堆疊
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              2474 可成 - 本益比與未來報酬率分析
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="deep-purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜尋" placeholder="搜尋" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256l137.3-137.4c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="搜尋">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="分享" aria-label="分享" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="清除" aria-label="清除" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜尋引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/wenchiehlee/mkdocs-investment" title="前往倉庫" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Mkdocs-investment
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="標籤" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 21H2V3h2v16h2v-2h4v2h2v-3h4v3h2v-2h4v4m-4-7h4v2h-4v-2m-6-8h4v3h-4V6m4 9h-4v-5h4v5M6 10h4v2H6v-2m4 6H6v-3h4v3Z"/></svg>
+    
+  
+  首頁
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../blog/" class="md-tabs__link">
+        
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 3v18h18V3H3m15 15H6v-1h12v1m0-2H6v-1h12v1m0-4H6V6h12v6Z"/></svg>
+    
+  
+  部落格
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../categories/" class="md-tabs__link">
+        
+  
+    
+  
+  分類
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../stage2-cleaning-revenue-report-all/" class="md-tabs__link">
+          
+  
+    
+  
+  台股總覽
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../tags/" class="md-tabs__link">
+        
+  
+    
+  
+  標簽
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../about/link/" class="md-tabs__link">
+        
+  
+    
+  
+  友鏈
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../about/" class="md-tabs__link">
+        
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 11.75A1.25 1.25 0 0 0 7.75 13 1.25 1.25 0 0 0 9 14.25 1.25 1.25 0 0 0 10.25 13 1.25 1.25 0 0 0 9 11.75m6 0A1.25 1.25 0 0 0 13.75 13 1.25 1.25 0 0 0 15 14.25 1.25 1.25 0 0 0 16.25 13 1.25 1.25 0 0 0 15 11.75M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 18c-4.41 0-8-3.59-8-8 0-.29 0-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37a9.974 9.974 0 0 0 10.41 3.97c.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8Z"/></svg>
+    
+  
+  關於
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="導覽列" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Wen-Chieh Lee的投資堆疊" class="md-nav__button md-logo" aria-label="Wen-Chieh Lee的投資堆疊" data-md-component="logo">
+      
+  <img src="../../../assets/images/w-purple.png" alt="logo">
+
+    </a>
+    Wen-Chieh Lee的投資堆疊
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/wenchiehlee/mkdocs-investment" title="前往倉庫" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Mkdocs-investment
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 21H2V3h2v16h2v-2h4v2h2v-3h4v3h2v-2h4v4m-4-7h4v2h-4v-2m-6-8h4v3h-4V6m4 9h-4v-5h4v5M6 10h4v2H6v-2m4 6H6v-3h4v3Z"/></svg>
+  
+  <span class="md-ellipsis">
+    首頁
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blog/" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 3v18h18V3H3m15 15H6v-1h12v1m0-2H6v-1h12v1m0-4H6V6h12v6Z"/></svg>
+  
+  <span class="md-ellipsis">
+    部落格
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../categories/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    分類
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../stage2-cleaning-revenue-report-all/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    台股總覽
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tags/" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 12V4h1V2H7v2h1v8l-2 2v2h5.2v6h1.6v-6H18v-2l-2-2Z"/></svg>
+  
+  <span class="md-ellipsis">
+    標簽
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../about/link/" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1M8 13h8v-2H8v2m9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1 0 1.71-1.39 3.1-3.1 3.1h-4V17h4a5 5 0 0 0 5-5 5 5 0 0 0-5-5Z"/></svg>
+  
+  <span class="md-ellipsis">
+    友鏈
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../about/" class="md-nav__link">
+        
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 11.75A1.25 1.25 0 0 0 7.75 13 1.25 1.25 0 0 0 9 14.25 1.25 1.25 0 0 0 10.25 13 1.25 1.25 0 0 0 9 11.75m6 0A1.25 1.25 0 0 0 13.75 13 1.25 1.25 0 0 0 15 14.25 1.25 1.25 0 0 0 16.25 13 1.25 1.25 0 0 0 15 11.75M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 18c-4.41 0-8-3.59-8-8 0-.29 0-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37a9.974 9.974 0 0 0 10.41 3.97c.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8Z"/></svg>
+  
+  <span class="md-ellipsis">
+    關於
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="目錄">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目錄
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      📈 視覺化圖表
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="📈 視覺化圖表">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-vs" class="md-nav__link">
+    <span class="md-ellipsis">
+      圖表1: 本益比 vs 未來報酬率關係
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-6" class="md-nav__link">
+    <span class="md-ellipsis">
+      圖表2: 歷年買入時點的6年期實際報酬率
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      📍 買點訊號說明
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="📍 買點訊號說明">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      ▲ 小綠色三角形（回測驗證）
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      ▲ 小橘色三角形（即時訊號）
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      📊 估值分析摘要
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      📈 歷史估值統計
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="📈 歷史估值統計">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      最佳買點 (最高報酬率)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      最差買點 (最低報酬率)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      🎯 投資啟示
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🎯 投資啟示">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      本益比與報酬率關係
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      估值區間建議
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      📊 數據品質
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="📊 數據品質">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_13" class="md-nav__link">
+    <span class="md-ellipsis">
+      計算方法說明
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_14" class="md-nav__link">
+    <span class="md-ellipsis">
+      📋 月度回測明細表
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#" class="md-tag">台股</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#" class="md-tag">本益比</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#" class="md-tag">未來報酬</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#" class="md-tag">其他電子業</a>
+    
+  
+</nav>
+
+
+  
+    <a href="https://github.com/wenchiehlee/mkdocs-investment/edit/main/docs/reports/stage2-cleaning-market-analysis-pe-forward-return-report/market-analysis-pe-forward-return-2474-6y-tr.md" title="編輯此頁" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/wenchiehlee/mkdocs-investment/raw/main/docs/reports/stage2-cleaning-market-analysis-pe-forward-return-report/market-analysis-pe-forward-return-2474-6y-tr.md" title="查看此頁原始碼" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
+    </a>
+  
+
+
+<h1 id="2474-">2474 可成 - 本益比與未來報酬率分析<a class="headerlink" href="#2474-" title="Permanent link">&para;</a></h1>
+<div class="admonition info">
+<p class="admonition-title">報告資訊</p>
+<ul>
+<li><strong>股票代號</strong>: 2474</li>
+<li><strong>公司名稱</strong>: 可成</li>
+<li><strong>產業別</strong>: 其他電子業</li>
+<li><strong>分析期間</strong>: 2006-2019 (168 個數據點)</li>
+<li><strong>資料來源</strong>: Type 12 (ShowMonthlyK_ChartFlow) 月收盤價與本益比</li>
+<li><strong>報酬率口徑</strong>: 含現金股利 (簡化: 年度合計，假設每年7/1入帳)</li>
+<li><strong>報告生成時間</strong>: 2026-01-22 22:58:21 CST</li>
+</ul>
+</div>
+<h2 id="_1">📈 視覺化圖表<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
+<h3 id="1-vs">圖表1: 本益比 vs 未來報酬率關係<a class="headerlink" href="#1-vs" title="Permanent link">&para;</a></h3>
+<p><img alt="2474 可成 P/E vs Forward Return" src="../market-analysis-pe-forward-return-2474-6y-tr.svg" /></p>
+<p><em>圖表1：2474 可成 本益比與6年期未來報酬率關係 (2006-2019)</em></p>
+<h3 id="2-6">圖表2: 歷年買入時點的6年期實際報酬率<a class="headerlink" href="#2-6" title="Permanent link">&para;</a></h3>
+<p><img alt="2474 可成 Forward Return Timeline" src="../market-analysis-pe-forward-return-timeline-2474-6y-tr.svg" /></p>
+<p><em>圖表2：2474 可成 歷年買入時點的6年期實際報酬率 (2006-2019)</em></p>
+<h2 id="_2">📍 買點訊號說明<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
+<p>本報告提供兩種買點提示訊號（顯示於圖表2的股價子圖中）：</p>
+<h3 id="_3">▲ 小綠色三角形（回測驗證）<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>計算方式</strong>: 使用全部歷史資料計算本益比第25百分位數</li>
+<li><strong>用途</strong>: 事後驗證，顯示歷史上哪些時點確實為低估區</li>
+<li><strong>限制</strong>: 當下無法判斷，僅供回測參考</li>
+<li><strong>特性</strong>: 後見之明（Look-Ahead Bias）</li>
+</ul>
+<h3 id="_4">▲ 小橘色三角形（即時訊號）<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>計算方式</strong>: 使用截至當月的過去5年資料計算本益比第25百分位數</li>
+<li><strong>用途</strong>: 實際投資決策，當時即可判斷</li>
+<li><strong>優勢</strong>: 可操作性強，符合實務需求</li>
+<li><strong>特性</strong>: 無後見之明，滾動窗口計算</li>
+</ul>
+<div class="admonition tip">
+<p class="admonition-title">如何使用兩種訊號</p>
+<ul>
+<li><strong>綠色▲</strong> 幫助理解歷史估值機會，驗證策略有效性</li>
+<li><strong>橘色▲</strong> 可作為實際買進參考，但仍需搭配基本面分析</li>
+<li>兩種訊號重疊時，表示即時判斷與事後驗證一致，信心度較高</li>
+<li>僅有綠色▲時，表示當時無法判斷（需要未來資料才能確認）</li>
+<li>僅有橘色▲時，表示即時判斷為買點，但事後可能不是最佳時機</li>
+</ul>
+</div>
+<h2 id="_5">📊 估值分析摘要<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">指標</th>
+<th style="text-align: center;">數值</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>目前本益比</strong> (2019-12)</td>
+<td style="text-align: center;"><strong>15.52 倍</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>歷史平均本益比</strong></td>
+<td style="text-align: center;">12.43 倍</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>估值水準</strong></td>
+<td style="text-align: center;">🔴 相對高估</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>預期6年年化報酬率</strong></td>
+<td style="text-align: center;"><strong>+4.14%</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>歷史平均報酬率</strong></td>
+<td style="text-align: center;">+6.31%</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>相關係數 (R²)</strong></td>
+<td style="text-align: center;">0.0543</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>趨勢線斜率</strong></td>
+<td style="text-align: center;">-0.7042</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition abstract">
+<p class="admonition-title">核心洞察</p>
+<p>目前本益比顯著高於歷史平均，預期未來報酬率可能較低</p>
+<p>根據歷史數據回測，2474 可成 在目前本益比 <strong>15.5倍</strong> 的估值水準下，
+預期未來6年年化報酬率約為 <strong>+4.1%</strong>。</p>
+<p><strong>重要提醒</strong>: 本分析基於歷史數據統計，實際報酬率會受到公司基本面變化、產業趨勢、
+總體經濟環境等多重因素影響。R² = 0.05 表示本益比可解釋約 5.4% 的報酬率變異。</p>
+</div>
+<h2 id="_6">📈 歷史估值統計<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h2>
+<h3 id="_7">最佳買點 (最高報酬率)<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">項目</th>
+<th style="text-align: center;">數值</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">起始時間</td>
+<td style="text-align: center;">2009-01</td>
+</tr>
+<tr>
+<td style="text-align: center;">當時本益比</td>
+<td style="text-align: center;">8.04 倍</td>
+</tr>
+<tr>
+<td style="text-align: center;">起始價格</td>
+<td style="text-align: center;">56.8 元</td>
+</tr>
+<tr>
+<td style="text-align: center;">6年後價格</td>
+<td style="text-align: center;">278.5 元</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>6年年化報酬率</strong></td>
+<td style="text-align: center;"><strong>+32.05%</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="_8">最差買點 (最低報酬率)<a class="headerlink" href="#_8" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">項目</th>
+<th style="text-align: center;">數值</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">起始時間</td>
+<td style="text-align: center;">2007-01</td>
+</tr>
+<tr>
+<td style="text-align: center;">當時本益比</td>
+<td style="text-align: center;">22.80 倍</td>
+</tr>
+<tr>
+<td style="text-align: center;">起始價格</td>
+<td style="text-align: center;">353.0 元</td>
+</tr>
+<tr>
+<td style="text-align: center;">6年後價格</td>
+<td style="text-align: center;">132.0 元</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>6年年化報酬率</strong></td>
+<td style="text-align: center;"><strong>-13.23%</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="_9">🎯 投資啟示<a class="headerlink" href="#_9" title="Permanent link">&para;</a></h2>
+<h3 id="_10">本益比與報酬率關係<a class="headerlink" href="#_10" title="Permanent link">&para;</a></h3>
+<p>趨勢線方程式: <strong>y = -0.7042x + 15.0665</strong></p>
+<div class="admonition warning">
+<p class="admonition-title">強負相關</p>
+<p>本益比與未來報酬率呈現強負相關。在高本益比時期買入，未來報酬率顯著較低；
+在低本益比時期買入，未來報酬率顯著較高。<strong>估值紀律至關重要</strong>。</p>
+</div>
+<h3 id="_11">估值區間建議<a class="headerlink" href="#_11" title="Permanent link">&para;</a></h3>
+<p>基於歷史數據分析:</p>
+<ul>
+<li><strong>🟢 低估區</strong> (P/E &lt; 9.9): 預期報酬率較高，可考慮增加持股</li>
+<li><strong>🟡 合理區</strong> (P/E 9.9-14.9): 預期報酬率符合長期趨勢，正常持有</li>
+<li><strong>🔴 高估區</strong> (P/E &gt; 14.9): 預期報酬率較低，可考慮減碼或觀望</li>
+</ul>
+<div class="admonition danger">
+<p class="admonition-title">風險提示</p>
+<ul>
+<li>過去表現不代表未來結果</li>
+<li>本分析假設公司基本面無重大結構性變化</li>
+<li>產業環境劇變可能使歷史規律失效</li>
+<li>應結合公司財報、產業趨勢、總體經濟等多重因素綜合判斷</li>
+</ul>
+</div>
+<div class="admonition success">
+<p class="admonition-title">長期投資觀點</p>
+<p>歷史數據顯示，在合理或低估的估值水準買入並長期持有，
+往往能獲得較佳的投資報酬。**耐心等待好價格**是價值投資的核心原則。</p>
+</div>
+<h2 id="_12">📊 數據品質<a class="headerlink" href="#_12" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>資料來源</strong>: GoodInfo.tw Type 12 (ShowMonthlyK_ChartFlow)</li>
+<li><strong>資料頻率</strong>: 月度收盤價與本益比</li>
+<li><strong>回測期間</strong>: 2006-2019</li>
+<li><strong>數據點數量</strong>: 168 個 (每個點代表一次6年期回測)</li>
+</ul>
+<h3 id="_13">計算方法說明<a class="headerlink" href="#_13" title="Permanent link">&para;</a></h3>
+<ol>
+<li><strong>6年期年化報酬率</strong>:</li>
+<li>對每個歷史時點，計算其後6年的實際投資報酬率</li>
+<li>期末價值(不含股利): 期末價格</li>
+<li>期末價值(含現金股利): 期末價格 + 持有期間內的現金股利合計 (簡化: 年度合計，假設每年7/1入帳)</li>
+<li>
+<p>公式: 年化報酬率 = [(期末價值/期初價格)^(1/年數) - 1] × 100%</p>
+</li>
+<li>
+<p><strong>本益比 (P/E Ratio)</strong>:</p>
+</li>
+<li>使用當時的月收盤價與EPS計算</li>
+<li>
+<p>資料來源: Type 12 月度河流圖本益比數據</p>
+</li>
+<li>
+<p><strong>趨勢線 (Linear Regression)</strong>:</p>
+</li>
+<li>使用最小平方法擬合線性趨勢線</li>
+<li>R²值衡量本益比對報酬率的解釋能力</li>
+</ol>
+<hr />
+<p><em>本報告由 Stock Analysis System v1.9.0 自動生成</em>
+<em>數據更新時間: 2026-01-22 22:58:21 CST</em></p>
+<h2 id="_14">📋 月度回測明細表<a class="headerlink" href="#_14" title="Permanent link">&para;</a></h2>
+<p>（每一列對應時間線圖中的一個買入點；可用來對照 SVG 圖上的每個點。）</p>
+<table>
+<thead>
+<tr>
+<th>買入月份</th>
+<th>賣出月份</th>
+<th>回測期限_年</th>
+<th>實際持有年數</th>
+<th>買入本益比_倍</th>
+<th>買入收盤價_元</th>
+<th>賣出收盤價_元</th>
+<th>現金股利合計_元</th>
+<th>總報酬率_pct</th>
+<th>年化報酬率_pct</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2006-01</td>
+<td>2012-01</td>
+<td>6</td>
+<td>5.999</td>
+<td>15.05</td>
+<td>236.00</td>
+<td>184.00</td>
+<td>15.66</td>
+<td>-15.40</td>
+<td>-2.75</td>
+</tr>
+<tr>
+<td>2006-02</td>
+<td>2012-02</td>
+<td>6</td>
+<td>5.999</td>
+<td>16.39</td>
+<td>257.00</td>
+<td>215.50</td>
+<td>15.66</td>
+<td>-10.05</td>
+<td>-1.75</td>
+</tr>
+<tr>
+<td>2006-03</td>
+<td>2012-03</td>
+<td>6</td>
+<td>6.001</td>
+<td>18.62</td>
+<td>292.00</td>
+<td>208.50</td>
+<td>15.66</td>
+<td>-23.23</td>
+<td>-4.31</td>
+</tr>
+<tr>
+<td>2006-04</td>
+<td>2012-04</td>
+<td>6</td>
+<td>6.001</td>
+<td>22.70</td>
+<td>356.00</td>
+<td>187.00</td>
+<td>15.66</td>
+<td>-43.07</td>
+<td>-8.96</td>
+</tr>
+<tr>
+<td>2006-05</td>
+<td>2012-05</td>
+<td>6</td>
+<td>6.001</td>
+<td>24.62</td>
+<td>386.00</td>
+<td>189.50</td>
+<td>15.66</td>
+<td>-46.85</td>
+<td>-10.00</td>
+</tr>
+<tr>
+<td>2006-06</td>
+<td>2012-06</td>
+<td>6</td>
+<td>6.001</td>
+<td>21.88</td>
+<td>343.00</td>
+<td>198.50</td>
+<td>15.66</td>
+<td>-37.56</td>
+<td>-7.55</td>
+</tr>
+<tr>
+<td>2006-07</td>
+<td>2012-07</td>
+<td>6</td>
+<td>6.001</td>
+<td>21.36</td>
+<td>335.00</td>
+<td>145.00</td>
+<td>18.68</td>
+<td>-51.14</td>
+<td>-11.25</td>
+</tr>
+<tr>
+<td>2006-08</td>
+<td>2012-08</td>
+<td>6</td>
+<td>6.001</td>
+<td>16.45</td>
+<td>258.00</td>
+<td>149.50</td>
+<td>18.68</td>
+<td>-34.81</td>
+<td>-6.88</td>
+</tr>
+<tr>
+<td>2006-09</td>
+<td>2012-09</td>
+<td>6</td>
+<td>6.001</td>
+<td>18.11</td>
+<td>284.00</td>
+<td>138.00</td>
+<td>18.68</td>
+<td>-44.83</td>
+<td>-9.44</td>
+</tr>
+<tr>
+<td>2006-10</td>
+<td>2012-10</td>
+<td>6</td>
+<td>6.001</td>
+<td>18.30</td>
+<td>287.00</td>
+<td>127.00</td>
+<td>18.68</td>
+<td>-49.24</td>
+<td>-10.68</td>
+</tr>
+<tr>
+<td>2006-11</td>
+<td>2012-11</td>
+<td>6</td>
+<td>6.001</td>
+<td>18.34</td>
+<td>287.50</td>
+<td>149.00</td>
+<td>18.68</td>
+<td>-41.68</td>
+<td>-8.59</td>
+</tr>
+<tr>
+<td>2006-12</td>
+<td>2012-12</td>
+<td>6</td>
+<td>6.001</td>
+<td>20.31</td>
+<td>318.50</td>
+<td>144.00</td>
+<td>18.68</td>
+<td>-48.92</td>
+<td>-10.59</td>
+</tr>
+<tr>
+<td>2007-01</td>
+<td>2013-01</td>
+<td>6</td>
+<td>6.001</td>
+<td>22.80</td>
+<td>353.00</td>
+<td>132.00</td>
+<td>18.68</td>
+<td>-57.31</td>
+<td>-13.23</td>
+</tr>
+<tr>
+<td>2007-02</td>
+<td>2013-02</td>
+<td>6</td>
+<td>6.001</td>
+<td>21.59</td>
+<td>330.00</td>
+<td>134.00</td>
+<td>18.68</td>
+<td>-53.73</td>
+<td>-12.05</td>
+</tr>
+<tr>
+<td>2007-03</td>
+<td>2013-03</td>
+<td>6</td>
+<td>6.001</td>
+<td>17.24</td>
+<td>260.00</td>
+<td>136.00</td>
+<td>18.68</td>
+<td>-40.51</td>
+<td>-8.29</td>
+</tr>
+<tr>
+<td>2007-04</td>
+<td>2013-04</td>
+<td>6</td>
+<td>6.001</td>
+<td>17.20</td>
+<td>256.00</td>
+<td>149.50</td>
+<td>18.68</td>
+<td>-34.30</td>
+<td>-6.76</td>
+</tr>
+<tr>
+<td>2007-05</td>
+<td>2013-05</td>
+<td>6</td>
+<td>6.001</td>
+<td>21.45</td>
+<td>315.00</td>
+<td>169.00</td>
+<td>18.68</td>
+<td>-40.42</td>
+<td>-8.27</td>
+</tr>
+<tr>
+<td>2007-06</td>
+<td>2013-06</td>
+<td>6</td>
+<td>6.001</td>
+<td>21.23</td>
+<td>307.50</td>
+<td>156.00</td>
+<td>18.68</td>
+<td>-43.19</td>
+<td>-8.99</td>
+</tr>
+<tr>
+<td>2007-07</td>
+<td>2013-07</td>
+<td>6</td>
+<td>6.001</td>
+<td>21.14</td>
+<td>302.00</td>
+<td>130.00</td>
+<td>21.68</td>
+<td>-49.77</td>
+<td>-10.84</td>
+</tr>
+<tr>
+<td>2007-08</td>
+<td>2013-08</td>
+<td>6</td>
+<td>6.001</td>
+<td>18.74</td>
+<td>264.00</td>
+<td>142.50</td>
+<td>21.68</td>
+<td>-37.81</td>
+<td>-7.61</td>
+</tr>
+<tr>
+<td>2007-09</td>
+<td>2013-09</td>
+<td>6</td>
+<td>6.001</td>
+<td>17.35</td>
+<td>241.00</td>
+<td>156.50</td>
+<td>21.68</td>
+<td>-26.07</td>
+<td>-4.91</td>
+</tr>
+<tr>
+<td>2007-10</td>
+<td>2013-10</td>
+<td>6</td>
+<td>6.001</td>
+<td>16.18</td>
+<td>221.50</td>
+<td>171.00</td>
+<td>21.68</td>
+<td>-13.01</td>
+<td>-2.30</td>
+</tr>
+<tr>
+<td>2007-11</td>
+<td>2013-11</td>
+<td>6</td>
+<td>6.001</td>
+<td>14.72</td>
+<td>198.50</td>
+<td>180.00</td>
+<td>21.68</td>
+<td>+1.60</td>
+<td>+0.27</td>
+</tr>
+<tr>
+<td>2007-12</td>
+<td>2013-12</td>
+<td>6</td>
+<td>6.001</td>
+<td>14.22</td>
+<td>189.00</td>
+<td>193.50</td>
+<td>21.68</td>
+<td>+13.85</td>
+<td>+2.19</td>
+</tr>
+<tr>
+<td>2008-01</td>
+<td>2014-01</td>
+<td>6</td>
+<td>6.001</td>
+<td>7.35</td>
+<td>94.00</td>
+<td>202.00</td>
+<td>21.68</td>
+<td>+137.96</td>
+<td>+15.54</td>
+</tr>
+<tr>
+<td>2008-02</td>
+<td>2014-03</td>
+<td>6</td>
+<td>6.081</td>
+<td>9.48</td>
+<td>116.50</td>
+<td>220.50</td>
+<td>21.68</td>
+<td>+107.88</td>
+<td>+12.79</td>
+</tr>
+<tr>
+<td>2008-03</td>
+<td>2014-03</td>
+<td>6</td>
+<td>5.999</td>
+<td>9.59</td>
+<td>113.00</td>
+<td>220.50</td>
+<td>21.68</td>
+<td>+114.32</td>
+<td>+13.55</td>
+</tr>
+<tr>
+<td>2008-04</td>
+<td>2014-04</td>
+<td>6</td>
+<td>5.999</td>
+<td>10.60</td>
+<td>119.50</td>
+<td>254.50</td>
+<td>21.68</td>
+<td>+131.11</td>
+<td>+14.99</td>
+</tr>
+<tr>
+<td>2008-05</td>
+<td>2014-05</td>
+<td>6</td>
+<td>5.999</td>
+<td>9.75</td>
+<td>105.00</td>
+<td>268.00</td>
+<td>21.68</td>
+<td>+175.89</td>
+<td>+18.43</td>
+</tr>
+<tr>
+<td>2008-06</td>
+<td>2014-06</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.42</td>
+<td>86.50</td>
+<td>278.50</td>
+<td>21.68</td>
+<td>+247.03</td>
+<td>+23.05</td>
+</tr>
+<tr>
+<td>2008-07</td>
+<td>2014-07</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.71</td>
+<td>85.10</td>
+<td>248.00</td>
+<td>22.58</td>
+<td>+217.96</td>
+<td>+21.27</td>
+</tr>
+<tr>
+<td>2008-08</td>
+<td>2014-08</td>
+<td>6</td>
+<td>5.999</td>
+<td>11.55</td>
+<td>107.00</td>
+<td>303.00</td>
+<td>22.58</td>
+<td>+204.28</td>
+<td>+20.38</td>
+</tr>
+<tr>
+<td>2008-09</td>
+<td>2014-09</td>
+<td>6</td>
+<td>5.999</td>
+<td>11.42</td>
+<td>100.00</td>
+<td>282.00</td>
+<td>22.58</td>
+<td>+204.58</td>
+<td>+20.40</td>
+</tr>
+<tr>
+<td>2008-10</td>
+<td>2014-10</td>
+<td>6</td>
+<td>5.999</td>
+<td>10.05</td>
+<td>83.00</td>
+<td>256.00</td>
+<td>22.58</td>
+<td>+235.64</td>
+<td>+22.37</td>
+</tr>
+<tr>
+<td>2008-11</td>
+<td>2014-11</td>
+<td>6</td>
+<td>5.999</td>
+<td>7.38</td>
+<td>57.20</td>
+<td>262.00</td>
+<td>22.58</td>
+<td>+397.52</td>
+<td>+30.67</td>
+</tr>
+<tr>
+<td>2008-12</td>
+<td>2014-12</td>
+<td>6</td>
+<td>5.999</td>
+<td>7.50</td>
+<td>54.40</td>
+<td>246.50</td>
+<td>22.58</td>
+<td>+394.64</td>
+<td>+30.54</td>
+</tr>
+<tr>
+<td>2009-01</td>
+<td>2015-01</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.04</td>
+<td>56.80</td>
+<td>278.50</td>
+<td>22.58</td>
+<td>+430.07</td>
+<td>+32.05</td>
+</tr>
+<tr>
+<td>2009-02</td>
+<td>2015-02</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.62</td>
+<td>59.30</td>
+<td>287.00</td>
+<td>22.58</td>
+<td>+422.06</td>
+<td>+31.72</td>
+</tr>
+<tr>
+<td>2009-03</td>
+<td>2015-03</td>
+<td>6</td>
+<td>5.999</td>
+<td>11.14</td>
+<td>74.50</td>
+<td>328.00</td>
+<td>22.58</td>
+<td>+370.58</td>
+<td>+29.46</td>
+</tr>
+<tr>
+<td>2009-04</td>
+<td>2015-04</td>
+<td>6</td>
+<td>5.999</td>
+<td>12.81</td>
+<td>83.30</td>
+<td>360.00</td>
+<td>22.58</td>
+<td>+359.28</td>
+<td>+28.94</td>
+</tr>
+<tr>
+<td>2009-05</td>
+<td>2015-05</td>
+<td>6</td>
+<td>5.999</td>
+<td>14.58</td>
+<td>92.10</td>
+<td>360.00</td>
+<td>22.58</td>
+<td>+315.40</td>
+<td>+26.79</td>
+</tr>
+<tr>
+<td>2009-06</td>
+<td>2015-06</td>
+<td>6</td>
+<td>5.999</td>
+<td>12.76</td>
+<td>78.20</td>
+<td>386.00</td>
+<td>22.58</td>
+<td>+422.48</td>
+<td>+31.74</td>
+</tr>
+<tr>
+<td>2009-07</td>
+<td>2015-07</td>
+<td>6</td>
+<td>5.999</td>
+<td>15.48</td>
+<td>92.00</td>
+<td>348.00</td>
+<td>27.58</td>
+<td>+308.24</td>
+<td>+26.43</td>
+</tr>
+<tr>
+<td>2009-08</td>
+<td>2015-08</td>
+<td>6</td>
+<td>5.999</td>
+<td>14.77</td>
+<td>85.00</td>
+<td>332.00</td>
+<td>27.58</td>
+<td>+323.04</td>
+<td>+27.18</td>
+</tr>
+<tr>
+<td>2009-09</td>
+<td>2015-09</td>
+<td>6</td>
+<td>5.999</td>
+<td>15.33</td>
+<td>85.40</td>
+<td>350.50</td>
+<td>27.58</td>
+<td>+342.72</td>
+<td>+28.15</td>
+</tr>
+<tr>
+<td>2009-10</td>
+<td>2015-10</td>
+<td>6</td>
+<td>5.999</td>
+<td>14.92</td>
+<td>80.30</td>
+<td>320.00</td>
+<td>27.58</td>
+<td>+332.85</td>
+<td>+27.67</td>
+</tr>
+<tr>
+<td>2009-11</td>
+<td>2015-11</td>
+<td>6</td>
+<td>5.999</td>
+<td>17.47</td>
+<td>90.80</td>
+<td>316.00</td>
+<td>27.58</td>
+<td>+278.39</td>
+<td>+24.84</td>
+</tr>
+<tr>
+<td>2009-12</td>
+<td>2015-12</td>
+<td>6</td>
+<td>5.999</td>
+<td>17.82</td>
+<td>89.30</td>
+<td>276.00</td>
+<td>27.58</td>
+<td>+239.96</td>
+<td>+22.63</td>
+</tr>
+<tr>
+<td>2010-01</td>
+<td>2016-01</td>
+<td>6</td>
+<td>5.999</td>
+<td>13.97</td>
+<td>71.90</td>
+<td>259.00</td>
+<td>27.58</td>
+<td>+298.58</td>
+<td>+25.92</td>
+</tr>
+<tr>
+<td>2010-02</td>
+<td>2016-02</td>
+<td>6</td>
+<td>5.999</td>
+<td>12.39</td>
+<td>65.50</td>
+<td>260.00</td>
+<td>27.58</td>
+<td>+339.06</td>
+<td>+27.97</td>
+</tr>
+<tr>
+<td>2010-03</td>
+<td>2016-03</td>
+<td>6</td>
+<td>6.001</td>
+<td>14.38</td>
+<td>78.00</td>
+<td>264.00</td>
+<td>27.58</td>
+<td>+273.82</td>
+<td>+24.57</td>
+</tr>
+<tr>
+<td>2010-04</td>
+<td>2016-04</td>
+<td>6</td>
+<td>6.001</td>
+<td>14.96</td>
+<td>83.20</td>
+<td>227.00</td>
+<td>27.58</td>
+<td>+205.99</td>
+<td>+20.48</td>
+</tr>
+<tr>
+<td>2010-05</td>
+<td>2016-05</td>
+<td>6</td>
+<td>6.001</td>
+<td>13.85</td>
+<td>78.90</td>
+<td>248.00</td>
+<td>27.58</td>
+<td>+249.28</td>
+<td>+23.17</td>
+</tr>
+<tr>
+<td>2010-06</td>
+<td>2016-06</td>
+<td>6</td>
+<td>6.001</td>
+<td>12.00</td>
+<td>70.00</td>
+<td>237.50</td>
+<td>27.58</td>
+<td>+278.69</td>
+<td>+24.84</td>
+</tr>
+<tr>
+<td>2010-07</td>
+<td>2016-07</td>
+<td>6</td>
+<td>6.001</td>
+<td>12.07</td>
+<td>72.10</td>
+<td>222.00</td>
+<td>35.58</td>
+<td>+257.26</td>
+<td>+23.64</td>
+</tr>
+<tr>
+<td>2010-08</td>
+<td>2016-08</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.59</td>
+<td>70.80</td>
+<td>228.00</td>
+<td>35.58</td>
+<td>+272.29</td>
+<td>+24.49</td>
+</tr>
+<tr>
+<td>2010-09</td>
+<td>2016-09</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.52</td>
+<td>72.00</td>
+<td>254.50</td>
+<td>35.58</td>
+<td>+302.89</td>
+<td>+26.14</td>
+</tr>
+<tr>
+<td>2010-10</td>
+<td>2016-10</td>
+<td>6</td>
+<td>6.001</td>
+<td>12.76</td>
+<td>81.50</td>
+<td>247.50</td>
+<td>35.58</td>
+<td>+247.34</td>
+<td>+23.06</td>
+</tr>
+<tr>
+<td>2010-11</td>
+<td>2016-11</td>
+<td>6</td>
+<td>6.001</td>
+<td>14.33</td>
+<td>93.50</td>
+<td>231.50</td>
+<td>35.58</td>
+<td>+185.65</td>
+<td>+19.11</td>
+</tr>
+<tr>
+<td>2010-12</td>
+<td>2016-12</td>
+<td>6</td>
+<td>6.001</td>
+<td>16.22</td>
+<td>108.00</td>
+<td>224.00</td>
+<td>35.58</td>
+<td>+140.35</td>
+<td>+15.73</td>
+</tr>
+<tr>
+<td>2011-01</td>
+<td>2017-01</td>
+<td>6</td>
+<td>6.001</td>
+<td>16.40</td>
+<td>120.50</td>
+<td>255.00</td>
+<td>35.58</td>
+<td>+141.15</td>
+<td>+15.80</td>
+</tr>
+<tr>
+<td>2011-02</td>
+<td>2017-02</td>
+<td>6</td>
+<td>6.001</td>
+<td>15.43</td>
+<td>124.00</td>
+<td>257.00</td>
+<td>35.58</td>
+<td>+135.95</td>
+<td>+15.38</td>
+</tr>
+<tr>
+<td>2011-03</td>
+<td>2017-03</td>
+<td>6</td>
+<td>6.001</td>
+<td>16.67</td>
+<td>145.50</td>
+<td>300.00</td>
+<td>35.58</td>
+<td>+130.64</td>
+<td>+14.94</td>
+</tr>
+<tr>
+<td>2011-04</td>
+<td>2017-04</td>
+<td>6</td>
+<td>6.001</td>
+<td>19.12</td>
+<td>180.00</td>
+<td>310.00</td>
+<td>35.58</td>
+<td>+91.99</td>
+<td>+11.48</td>
+</tr>
+<tr>
+<td>2011-05</td>
+<td>2017-05</td>
+<td>6</td>
+<td>6.001</td>
+<td>18.50</td>
+<td>187.00</td>
+<td>318.00</td>
+<td>35.58</td>
+<td>+89.08</td>
+<td>+11.20</td>
+</tr>
+<tr>
+<td>2011-06</td>
+<td>2017-06</td>
+<td>6</td>
+<td>6.001</td>
+<td>16.77</td>
+<td>181.00</td>
+<td>363.50</td>
+<td>35.58</td>
+<td>+120.49</td>
+<td>+14.08</td>
+</tr>
+<tr>
+<td>2011-07</td>
+<td>2017-07</td>
+<td>6</td>
+<td>6.001</td>
+<td>21.94</td>
+<td>252.00</td>
+<td>347.00</td>
+<td>41.90</td>
+<td>+54.33</td>
+<td>+7.50</td>
+</tr>
+<tr>
+<td>2011-08</td>
+<td>2017-08</td>
+<td>6</td>
+<td>6.001</td>
+<td>18.69</td>
+<td>227.50</td>
+<td>384.00</td>
+<td>41.90</td>
+<td>+87.21</td>
+<td>+11.01</td>
+</tr>
+<tr>
+<td>2011-09</td>
+<td>2017-09</td>
+<td>6</td>
+<td>6.001</td>
+<td>13.92</td>
+<td>179.00</td>
+<td>295.00</td>
+<td>41.90</td>
+<td>+88.21</td>
+<td>+11.11</td>
+</tr>
+<tr>
+<td>2011-10</td>
+<td>2017-10</td>
+<td>6</td>
+<td>6.001</td>
+<td>12.54</td>
+<td>170.00</td>
+<td>320.00</td>
+<td>41.90</td>
+<td>+112.88</td>
+<td>+13.42</td>
+</tr>
+<tr>
+<td>2011-11</td>
+<td>2017-11</td>
+<td>6</td>
+<td>6.001</td>
+<td>9.94</td>
+<td>141.50</td>
+<td>323.00</td>
+<td>41.90</td>
+<td>+157.88</td>
+<td>+17.10</td>
+</tr>
+<tr>
+<td>2011-12</td>
+<td>2017-12</td>
+<td>6</td>
+<td>6.001</td>
+<td>9.41</td>
+<td>140.50</td>
+<td>328.00</td>
+<td>41.90</td>
+<td>+163.28</td>
+<td>+17.50</td>
+</tr>
+<tr>
+<td>2012-01</td>
+<td>2018-01</td>
+<td>6</td>
+<td>6.001</td>
+<td>12.36</td>
+<td>184.00</td>
+<td>334.00</td>
+<td>41.90</td>
+<td>+104.29</td>
+<td>+12.64</td>
+</tr>
+<tr>
+<td>2012-02</td>
+<td>2018-03</td>
+<td>6</td>
+<td>6.081</td>
+<td>14.52</td>
+<td>215.50</td>
+<td>356.00</td>
+<td>41.90</td>
+<td>+84.64</td>
+<td>+10.61</td>
+</tr>
+<tr>
+<td>2012-03</td>
+<td>2018-03</td>
+<td>6</td>
+<td>5.999</td>
+<td>14.09</td>
+<td>208.50</td>
+<td>356.00</td>
+<td>41.90</td>
+<td>+90.84</td>
+<td>+11.38</td>
+</tr>
+<tr>
+<td>2012-04</td>
+<td>2018-04</td>
+<td>6</td>
+<td>5.999</td>
+<td>12.67</td>
+<td>187.00</td>
+<td>331.00</td>
+<td>41.90</td>
+<td>+99.41</td>
+<td>+12.19</td>
+</tr>
+<tr>
+<td>2012-05</td>
+<td>2018-05</td>
+<td>6</td>
+<td>5.999</td>
+<td>12.88</td>
+<td>189.50</td>
+<td>348.50</td>
+<td>41.90</td>
+<td>+106.02</td>
+<td>+12.81</td>
+</tr>
+<tr>
+<td>2012-06</td>
+<td>2018-06</td>
+<td>6</td>
+<td>5.999</td>
+<td>13.53</td>
+<td>198.50</td>
+<td>341.00</td>
+<td>41.90</td>
+<td>+92.90</td>
+<td>+11.57</td>
+</tr>
+<tr>
+<td>2012-07</td>
+<td>2018-07</td>
+<td>6</td>
+<td>5.999</td>
+<td>9.92</td>
+<td>145.00</td>
+<td>376.50</td>
+<td>48.90</td>
+<td>+193.38</td>
+<td>+19.65</td>
+</tr>
+<tr>
+<td>2012-08</td>
+<td>2018-08</td>
+<td>6</td>
+<td>5.999</td>
+<td>10.25</td>
+<td>149.50</td>
+<td>376.50</td>
+<td>48.90</td>
+<td>+184.55</td>
+<td>+19.04</td>
+</tr>
+<tr>
+<td>2012-09</td>
+<td>2018-09</td>
+<td>6</td>
+<td>5.999</td>
+<td>9.49</td>
+<td>138.00</td>
+<td>336.00</td>
+<td>48.90</td>
+<td>+178.91</td>
+<td>+18.65</td>
+</tr>
+<tr>
+<td>2012-10</td>
+<td>2018-10</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.76</td>
+<td>127.00</td>
+<td>311.50</td>
+<td>48.90</td>
+<td>+183.78</td>
+<td>+18.99</td>
+</tr>
+<tr>
+<td>2012-11</td>
+<td>2018-11</td>
+<td>6</td>
+<td>5.999</td>
+<td>10.31</td>
+<td>149.00</td>
+<td>264.50</td>
+<td>48.90</td>
+<td>+110.34</td>
+<td>+13.20</td>
+</tr>
+<tr>
+<td>2012-12</td>
+<td>2018-12</td>
+<td>6</td>
+<td>5.999</td>
+<td>10.00</td>
+<td>144.00</td>
+<td>225.00</td>
+<td>48.90</td>
+<td>+90.21</td>
+<td>+11.31</td>
+</tr>
+<tr>
+<td>2013-01</td>
+<td>2019-01</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.96</td>
+<td>132.00</td>
+<td>231.50</td>
+<td>48.90</td>
+<td>+112.43</td>
+<td>+13.38</td>
+</tr>
+<tr>
+<td>2013-02</td>
+<td>2019-02</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.89</td>
+<td>134.00</td>
+<td>234.00</td>
+<td>48.90</td>
+<td>+111.12</td>
+<td>+13.27</td>
+</tr>
+<tr>
+<td>2013-03</td>
+<td>2019-03</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.83</td>
+<td>136.00</td>
+<td>237.00</td>
+<td>48.90</td>
+<td>+110.22</td>
+<td>+13.19</td>
+</tr>
+<tr>
+<td>2013-04</td>
+<td>2019-04</td>
+<td>6</td>
+<td>5.999</td>
+<td>9.50</td>
+<td>149.50</td>
+<td>244.50</td>
+<td>48.90</td>
+<td>+96.26</td>
+<td>+11.90</td>
+</tr>
+<tr>
+<td>2013-05</td>
+<td>2019-05</td>
+<td>6</td>
+<td>5.999</td>
+<td>10.52</td>
+<td>169.00</td>
+<td>192.00</td>
+<td>48.90</td>
+<td>+42.55</td>
+<td>+6.09</td>
+</tr>
+<tr>
+<td>2013-06</td>
+<td>2019-06</td>
+<td>6</td>
+<td>5.999</td>
+<td>9.52</td>
+<td>156.00</td>
+<td>222.50</td>
+<td>48.90</td>
+<td>+73.98</td>
+<td>+9.67</td>
+</tr>
+<tr>
+<td>2013-07</td>
+<td>2019-07</td>
+<td>6</td>
+<td>5.999</td>
+<td>7.77</td>
+<td>130.00</td>
+<td>231.00</td>
+<td>54.90</td>
+<td>+119.92</td>
+<td>+14.04</td>
+</tr>
+<tr>
+<td>2013-08</td>
+<td>2019-08</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.36</td>
+<td>142.50</td>
+<td>220.50</td>
+<td>54.90</td>
+<td>+93.26</td>
+<td>+11.61</td>
+</tr>
+<tr>
+<td>2013-09</td>
+<td>2019-09</td>
+<td>6</td>
+<td>5.999</td>
+<td>9.00</td>
+<td>156.50</td>
+<td>235.00</td>
+<td>54.90</td>
+<td>+85.24</td>
+<td>+10.82</td>
+</tr>
+<tr>
+<td>2013-10</td>
+<td>2019-10</td>
+<td>6</td>
+<td>5.999</td>
+<td>9.65</td>
+<td>171.00</td>
+<td>258.00</td>
+<td>54.90</td>
+<td>+82.98</td>
+<td>+10.60</td>
+</tr>
+<tr>
+<td>2013-11</td>
+<td>2019-11</td>
+<td>6</td>
+<td>5.999</td>
+<td>9.97</td>
+<td>180.00</td>
+<td>249.50</td>
+<td>54.90</td>
+<td>+69.11</td>
+<td>+9.15</td>
+</tr>
+<tr>
+<td>2013-12</td>
+<td>2019-12</td>
+<td>6</td>
+<td>5.999</td>
+<td>10.53</td>
+<td>193.50</td>
+<td>227.00</td>
+<td>54.90</td>
+<td>+45.69</td>
+<td>+6.47</td>
+</tr>
+<tr>
+<td>2014-01</td>
+<td>2020-01</td>
+<td>6</td>
+<td>5.999</td>
+<td>10.74</td>
+<td>202.00</td>
+<td>244.00</td>
+<td>54.90</td>
+<td>+47.97</td>
+<td>+6.75</td>
+</tr>
+<tr>
+<td>2014-02</td>
+<td>2020-02</td>
+<td>6</td>
+<td>5.999</td>
+<td>11.44</td>
+<td>220.00</td>
+<td>237.00</td>
+<td>54.90</td>
+<td>+32.68</td>
+<td>+4.83</td>
+</tr>
+<tr>
+<td>2014-03</td>
+<td>2020-03</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.21</td>
+<td>220.50</td>
+<td>195.50</td>
+<td>54.90</td>
+<td>+13.56</td>
+<td>+2.14</td>
+</tr>
+<tr>
+<td>2014-04</td>
+<td>2020-04</td>
+<td>6</td>
+<td>6.001</td>
+<td>12.67</td>
+<td>254.50</td>
+<td>228.00</td>
+<td>54.90</td>
+<td>+11.16</td>
+<td>+1.78</td>
+</tr>
+<tr>
+<td>2014-05</td>
+<td>2020-05</td>
+<td>6</td>
+<td>6.001</td>
+<td>13.06</td>
+<td>268.00</td>
+<td>218.00</td>
+<td>54.90</td>
+<td>+1.83</td>
+<td>+0.30</td>
+</tr>
+<tr>
+<td>2014-06</td>
+<td>2020-06</td>
+<td>6</td>
+<td>6.001</td>
+<td>13.29</td>
+<td>278.50</td>
+<td>222.00</td>
+<td>54.90</td>
+<td>-0.57</td>
+<td>-0.10</td>
+</tr>
+<tr>
+<td>2014-07</td>
+<td>2020-07</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.60</td>
+<td>248.00</td>
+<td>216.00</td>
+<td>60.00</td>
+<td>+11.29</td>
+<td>+1.80</td>
+</tr>
+<tr>
+<td>2014-08</td>
+<td>2020-08</td>
+<td>6</td>
+<td>6.001</td>
+<td>13.89</td>
+<td>303.00</td>
+<td>200.50</td>
+<td>60.00</td>
+<td>-14.03</td>
+<td>-2.49</td>
+</tr>
+<tr>
+<td>2014-09</td>
+<td>2020-09</td>
+<td>6</td>
+<td>6.001</td>
+<td>12.68</td>
+<td>282.00</td>
+<td>181.50</td>
+<td>60.00</td>
+<td>-14.36</td>
+<td>-2.55</td>
+</tr>
+<tr>
+<td>2014-10</td>
+<td>2020-10</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.30</td>
+<td>256.00</td>
+<td>180.50</td>
+<td>60.00</td>
+<td>-6.05</td>
+<td>-1.04</td>
+</tr>
+<tr>
+<td>2014-11</td>
+<td>2020-11</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.35</td>
+<td>262.00</td>
+<td>188.00</td>
+<td>60.00</td>
+<td>-5.34</td>
+<td>-0.91</td>
+</tr>
+<tr>
+<td>2014-12</td>
+<td>2020-12</td>
+<td>6</td>
+<td>6.001</td>
+<td>10.48</td>
+<td>246.50</td>
+<td>206.00</td>
+<td>60.00</td>
+<td>+7.91</td>
+<td>+1.28</td>
+</tr>
+<tr>
+<td>2015-01</td>
+<td>2021-01</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.47</td>
+<td>278.50</td>
+<td>198.00</td>
+<td>60.00</td>
+<td>-7.36</td>
+<td>-1.27</td>
+</tr>
+<tr>
+<td>2015-02</td>
+<td>2021-02</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.46</td>
+<td>287.00</td>
+<td>192.00</td>
+<td>60.00</td>
+<td>-12.20</td>
+<td>-2.14</td>
+</tr>
+<tr>
+<td>2015-03</td>
+<td>2021-03</td>
+<td>6</td>
+<td>6.001</td>
+<td>12.72</td>
+<td>328.00</td>
+<td>211.50</td>
+<td>60.00</td>
+<td>-17.23</td>
+<td>-3.10</td>
+</tr>
+<tr>
+<td>2015-04</td>
+<td>2021-04</td>
+<td>6</td>
+<td>6.001</td>
+<td>13.56</td>
+<td>360.00</td>
+<td>197.50</td>
+<td>60.00</td>
+<td>-28.47</td>
+<td>-5.43</td>
+</tr>
+<tr>
+<td>2015-05</td>
+<td>2021-05</td>
+<td>6</td>
+<td>6.001</td>
+<td>13.18</td>
+<td>360.00</td>
+<td>184.00</td>
+<td>60.00</td>
+<td>-32.22</td>
+<td>-6.28</td>
+</tr>
+<tr>
+<td>2015-06</td>
+<td>2021-06</td>
+<td>6</td>
+<td>6.001</td>
+<td>13.75</td>
+<td>386.00</td>
+<td>182.00</td>
+<td>60.00</td>
+<td>-37.31</td>
+<td>-7.48</td>
+</tr>
+<tr>
+<td>2015-07</td>
+<td>2021-07</td>
+<td>6</td>
+<td>6.001</td>
+<td>12.07</td>
+<td>348.00</td>
+<td>185.00</td>
+<td>66.00</td>
+<td>-27.87</td>
+<td>-5.30</td>
+</tr>
+<tr>
+<td>2015-08</td>
+<td>2021-08</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.22</td>
+<td>332.00</td>
+<td>167.00</td>
+<td>66.00</td>
+<td>-29.82</td>
+<td>-5.73</td>
+</tr>
+<tr>
+<td>2015-09</td>
+<td>2021-09</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.55</td>
+<td>350.50</td>
+<td>167.50</td>
+<td>66.00</td>
+<td>-33.38</td>
+<td>-6.54</td>
+</tr>
+<tr>
+<td>2015-10</td>
+<td>2021-10</td>
+<td>6</td>
+<td>6.001</td>
+<td>10.29</td>
+<td>320.00</td>
+<td>161.00</td>
+<td>66.00</td>
+<td>-29.06</td>
+<td>-5.56</td>
+</tr>
+<tr>
+<td>2015-11</td>
+<td>2021-11</td>
+<td>6</td>
+<td>6.001</td>
+<td>9.92</td>
+<td>316.00</td>
+<td>155.00</td>
+<td>66.00</td>
+<td>-30.06</td>
+<td>-5.78</td>
+</tr>
+<tr>
+<td>2015-12</td>
+<td>2021-12</td>
+<td>6</td>
+<td>6.001</td>
+<td>8.46</td>
+<td>276.00</td>
+<td>156.50</td>
+<td>66.00</td>
+<td>-19.38</td>
+<td>-3.53</td>
+</tr>
+<tr>
+<td>2016-01</td>
+<td>2022-01</td>
+<td>6</td>
+<td>6.001</td>
+<td>8.02</td>
+<td>259.00</td>
+<td>154.50</td>
+<td>66.00</td>
+<td>-14.86</td>
+<td>-2.65</td>
+</tr>
+<tr>
+<td>2016-02</td>
+<td>2022-03</td>
+<td>6</td>
+<td>6.081</td>
+<td>8.14</td>
+<td>260.00</td>
+<td>144.50</td>
+<td>66.00</td>
+<td>-19.04</td>
+<td>-3.41</td>
+</tr>
+<tr>
+<td>2016-03</td>
+<td>2022-03</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.35</td>
+<td>264.00</td>
+<td>144.50</td>
+<td>66.00</td>
+<td>-20.27</td>
+<td>-3.70</td>
+</tr>
+<tr>
+<td>2016-04</td>
+<td>2022-04</td>
+<td>6</td>
+<td>5.999</td>
+<td>7.26</td>
+<td>227.00</td>
+<td>145.00</td>
+<td>66.00</td>
+<td>-7.05</td>
+<td>-1.21</td>
+</tr>
+<tr>
+<td>2016-05</td>
+<td>2022-05</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.02</td>
+<td>248.00</td>
+<td>164.00</td>
+<td>66.00</td>
+<td>-7.26</td>
+<td>-1.25</td>
+</tr>
+<tr>
+<td>2016-06</td>
+<td>2022-06</td>
+<td>6</td>
+<td>5.999</td>
+<td>7.76</td>
+<td>237.50</td>
+<td>165.50</td>
+<td>66.00</td>
+<td>-2.53</td>
+<td>-0.43</td>
+</tr>
+<tr>
+<td>2016-07</td>
+<td>2022-07</td>
+<td>6</td>
+<td>5.999</td>
+<td>7.34</td>
+<td>222.00</td>
+<td>170.50</td>
+<td>66.21</td>
+<td>+6.63</td>
+<td>+1.08</td>
+</tr>
+<tr>
+<td>2016-08</td>
+<td>2022-08</td>
+<td>6</td>
+<td>5.999</td>
+<td>7.62</td>
+<td>228.00</td>
+<td>185.50</td>
+<td>66.21</td>
+<td>+10.40</td>
+<td>+1.66</td>
+</tr>
+<tr>
+<td>2016-09</td>
+<td>2022-09</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.60</td>
+<td>254.50</td>
+<td>172.50</td>
+<td>66.21</td>
+<td>-6.20</td>
+<td>-1.06</td>
+</tr>
+<tr>
+<td>2016-10</td>
+<td>2022-10</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.46</td>
+<td>247.50</td>
+<td>169.50</td>
+<td>66.21</td>
+<td>-4.76</td>
+<td>-0.81</td>
+</tr>
+<tr>
+<td>2016-11</td>
+<td>2022-11</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.01</td>
+<td>231.50</td>
+<td>183.00</td>
+<td>66.21</td>
+<td>+7.65</td>
+<td>+1.24</td>
+</tr>
+<tr>
+<td>2016-12</td>
+<td>2022-12</td>
+<td>6</td>
+<td>5.999</td>
+<td>7.84</td>
+<td>224.00</td>
+<td>169.00</td>
+<td>66.21</td>
+<td>+5.00</td>
+<td>+0.82</td>
+</tr>
+<tr>
+<td>2017-01</td>
+<td>2023-01</td>
+<td>6</td>
+<td>5.999</td>
+<td>8.93</td>
+<td>255.00</td>
+<td>178.00</td>
+<td>66.21</td>
+<td>-4.23</td>
+<td>-0.72</td>
+</tr>
+<tr>
+<td>2017-02</td>
+<td>2023-02</td>
+<td>6</td>
+<td>5.999</td>
+<td>9.00</td>
+<td>257.00</td>
+<td>184.50</td>
+<td>66.21</td>
+<td>-2.45</td>
+<td>-0.41</td>
+</tr>
+<tr>
+<td>2017-03</td>
+<td>2023-03</td>
+<td>6</td>
+<td>5.999</td>
+<td>10.52</td>
+<td>300.00</td>
+<td>190.00</td>
+<td>66.21</td>
+<td>-14.60</td>
+<td>-2.60</td>
+</tr>
+<tr>
+<td>2017-04</td>
+<td>2023-04</td>
+<td>6</td>
+<td>5.999</td>
+<td>10.88</td>
+<td>310.00</td>
+<td>181.00</td>
+<td>66.21</td>
+<td>-20.25</td>
+<td>-3.70</td>
+</tr>
+<tr>
+<td>2017-05</td>
+<td>2023-05</td>
+<td>6</td>
+<td>5.999</td>
+<td>11.16</td>
+<td>318.00</td>
+<td>185.50</td>
+<td>66.21</td>
+<td>-20.85</td>
+<td>-3.82</td>
+</tr>
+<tr>
+<td>2017-06</td>
+<td>2023-06</td>
+<td>6</td>
+<td>5.999</td>
+<td>12.77</td>
+<td>363.50</td>
+<td>175.50</td>
+<td>66.21</td>
+<td>-33.50</td>
+<td>-6.58</td>
+</tr>
+<tr>
+<td>2017-07</td>
+<td>2023-07</td>
+<td>6</td>
+<td>5.999</td>
+<td>12.20</td>
+<td>347.00</td>
+<td>173.50</td>
+<td>71.21</td>
+<td>-29.48</td>
+<td>-5.66</td>
+</tr>
+<tr>
+<td>2017-08</td>
+<td>2023-08</td>
+<td>6</td>
+<td>5.999</td>
+<td>13.51</td>
+<td>384.00</td>
+<td>180.50</td>
+<td>71.21</td>
+<td>-34.45</td>
+<td>-6.80</td>
+</tr>
+<tr>
+<td>2017-09</td>
+<td>2023-09</td>
+<td>6</td>
+<td>5.999</td>
+<td>10.38</td>
+<td>295.00</td>
+<td>182.50</td>
+<td>71.21</td>
+<td>-14.00</td>
+<td>-2.48</td>
+</tr>
+<tr>
+<td>2017-10</td>
+<td>2023-10</td>
+<td>6</td>
+<td>5.999</td>
+<td>11.27</td>
+<td>320.00</td>
+<td>181.50</td>
+<td>71.21</td>
+<td>-21.03</td>
+<td>-3.86</td>
+</tr>
+<tr>
+<td>2017-11</td>
+<td>2023-11</td>
+<td>6</td>
+<td>5.999</td>
+<td>11.39</td>
+<td>323.00</td>
+<td>194.50</td>
+<td>71.21</td>
+<td>-17.74</td>
+<td>-3.20</td>
+</tr>
+<tr>
+<td>2017-12</td>
+<td>2023-12</td>
+<td>6</td>
+<td>5.999</td>
+<td>11.57</td>
+<td>328.00</td>
+<td>194.00</td>
+<td>71.21</td>
+<td>-19.14</td>
+<td>-3.48</td>
+</tr>
+<tr>
+<td>2018-01</td>
+<td>2024-01</td>
+<td>6</td>
+<td>5.999</td>
+<td>11.51</td>
+<td>334.00</td>
+<td>194.50</td>
+<td>71.21</td>
+<td>-20.45</td>
+<td>-3.74</td>
+</tr>
+<tr>
+<td>2018-02</td>
+<td>2024-02</td>
+<td>6</td>
+<td>5.999</td>
+<td>11.93</td>
+<td>354.00</td>
+<td>197.00</td>
+<td>71.21</td>
+<td>-24.23</td>
+<td>-4.52</td>
+</tr>
+<tr>
+<td>2018-03</td>
+<td>2024-03</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.73</td>
+<td>356.00</td>
+<td>219.00</td>
+<td>71.21</td>
+<td>-18.48</td>
+<td>-3.35</td>
+</tr>
+<tr>
+<td>2018-04</td>
+<td>2024-04</td>
+<td>6</td>
+<td>6.001</td>
+<td>10.68</td>
+<td>331.00</td>
+<td>218.00</td>
+<td>71.21</td>
+<td>-12.63</td>
+<td>-2.22</td>
+</tr>
+<tr>
+<td>2018-05</td>
+<td>2024-05</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.01</td>
+<td>348.50</td>
+<td>224.50</td>
+<td>71.21</td>
+<td>-15.15</td>
+<td>-2.70</td>
+</tr>
+<tr>
+<td>2018-06</td>
+<td>2024-06</td>
+<td>6</td>
+<td>6.001</td>
+<td>10.55</td>
+<td>341.00</td>
+<td>232.00</td>
+<td>71.21</td>
+<td>-11.08</td>
+<td>-1.94</td>
+</tr>
+<tr>
+<td>2018-07</td>
+<td>2024-07</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.41</td>
+<td>376.50</td>
+<td>213.00</td>
+<td>71.71</td>
+<td>-24.38</td>
+<td>-4.55</td>
+</tr>
+<tr>
+<td>2018-08</td>
+<td>2024-08</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.19</td>
+<td>376.50</td>
+<td>236.00</td>
+<td>71.71</td>
+<td>-18.27</td>
+<td>-3.31</td>
+</tr>
+<tr>
+<td>2018-09</td>
+<td>2024-09</td>
+<td>6</td>
+<td>6.001</td>
+<td>9.79</td>
+<td>336.00</td>
+<td>236.50</td>
+<td>71.71</td>
+<td>-8.27</td>
+<td>-1.43</td>
+</tr>
+<tr>
+<td>2018-10</td>
+<td>2024-10</td>
+<td>6</td>
+<td>6.001</td>
+<td>8.90</td>
+<td>311.50</td>
+<td>236.00</td>
+<td>71.71</td>
+<td>-1.22</td>
+<td>-0.20</td>
+</tr>
+<tr>
+<td>2018-11</td>
+<td>2024-11</td>
+<td>6</td>
+<td>6.001</td>
+<td>7.42</td>
+<td>264.50</td>
+<td>196.50</td>
+<td>71.71</td>
+<td>+1.40</td>
+<td>+0.23</td>
+</tr>
+<tr>
+<td>2018-12</td>
+<td>2024-12</td>
+<td>6</td>
+<td>6.001</td>
+<td>6.20</td>
+<td>225.00</td>
+<td>194.00</td>
+<td>71.71</td>
+<td>+18.09</td>
+<td>+2.81</td>
+</tr>
+<tr>
+<td>2019-01</td>
+<td>2025-01</td>
+<td>6</td>
+<td>6.001</td>
+<td>6.71</td>
+<td>231.50</td>
+<td>199.00</td>
+<td>71.71</td>
+<td>+16.94</td>
+<td>+2.64</td>
+</tr>
+<tr>
+<td>2019-02</td>
+<td>2025-02</td>
+<td>6</td>
+<td>6.001</td>
+<td>7.16</td>
+<td>234.00</td>
+<td>206.50</td>
+<td>71.71</td>
+<td>+18.89</td>
+<td>+2.93</td>
+</tr>
+<tr>
+<td>2019-03</td>
+<td>2025-03</td>
+<td>6</td>
+<td>6.001</td>
+<td>7.67</td>
+<td>237.00</td>
+<td>209.50</td>
+<td>71.71</td>
+<td>+18.65</td>
+<td>+2.89</td>
+</tr>
+<tr>
+<td>2019-04</td>
+<td>2025-04</td>
+<td>6</td>
+<td>6.001</td>
+<td>8.41</td>
+<td>244.50</td>
+<td>217.00</td>
+<td>71.71</td>
+<td>+18.08</td>
+<td>+2.81</td>
+</tr>
+<tr>
+<td>2019-05</td>
+<td>2025-05</td>
+<td>6</td>
+<td>6.001</td>
+<td>7.04</td>
+<td>192.00</td>
+<td>210.00</td>
+<td>71.71</td>
+<td>+46.72</td>
+<td>+6.60</td>
+</tr>
+<tr>
+<td>2019-06</td>
+<td>2025-06</td>
+<td>6</td>
+<td>6.001</td>
+<td>8.74</td>
+<td>222.50</td>
+<td>212.00</td>
+<td>71.71</td>
+<td>+27.51</td>
+<td>+4.13</td>
+</tr>
+<tr>
+<td>2019-07</td>
+<td>2025-07</td>
+<td>6</td>
+<td>6.001</td>
+<td>9.76</td>
+<td>231.00</td>
+<td>212.00</td>
+<td>71.20</td>
+<td>+22.60</td>
+<td>+3.45</td>
+</tr>
+<tr>
+<td>2019-08</td>
+<td>2025-08</td>
+<td>6</td>
+<td>6.001</td>
+<td>10.09</td>
+<td>220.50</td>
+<td>188.50</td>
+<td>71.20</td>
+<td>+17.78</td>
+<td>+2.76</td>
+</tr>
+<tr>
+<td>2019-09</td>
+<td>2025-09</td>
+<td>6</td>
+<td>6.001</td>
+<td>11.72</td>
+<td>235.00</td>
+<td>182.50</td>
+<td>71.20</td>
+<td>+7.96</td>
+<td>+1.28</td>
+</tr>
+<tr>
+<td>2019-10</td>
+<td>2025-10</td>
+<td>6</td>
+<td>6.001</td>
+<td>14.14</td>
+<td>258.00</td>
+<td>198.50</td>
+<td>71.20</td>
+<td>+4.53</td>
+<td>+0.74</td>
+</tr>
+<tr>
+<td>2019-11</td>
+<td>2025-11</td>
+<td>6</td>
+<td>6.001</td>
+<td>15.18</td>
+<td>249.50</td>
+<td>201.00</td>
+<td>71.20</td>
+<td>+9.10</td>
+<td>+1.46</td>
+</tr>
+<tr>
+<td>2019-12</td>
+<td>2025-12</td>
+<td>6</td>
+<td>6.001</td>
+<td>15.52</td>
+<td>227.00</td>
+<td>208.00</td>
+<td>71.20</td>
+<td>+23.00</td>
+<td>+3.51</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+  
+    
+  
+  
+    
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="最後更新">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="January 23, 2026 03:23:25 CST"><span class="timeago" datetime="2026-01-23T03:23:25+08:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="January 23, 2026 03:23:25 CST">2026-01-23</span>
+  </span>
+
+    
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="建立日期">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="December 24, 2025 06:48:23 CST"><span class="timeago" datetime="2025-12-24T06:48:23+08:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="December 24, 2025 06:48:23 CST">2025-12-24</span>
+  </span>
+
+    
+    
+    
+  </aside>
+
+
+  
+
+
+
+  <form class="md-feedback" name="feedback" hidden>
+    <fieldset>
+      <legend class="md-feedback__title">
+        此頁面有幫助嗎？
+      </legend>
+      <div class="md-feedback__inner">
+        <div class="md-feedback__list">
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page was helpful" data-md-value="1">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 9v12H1V9h4m4 12a2 2 0 0 1-2-2V9c0-.55.22-1.05.59-1.41L14.17 1l1.06 1.06c.27.27.44.64.44 1.05l-.03.32L14.69 8H21a2 2 0 0 1 2 2v2c0 .26-.05.5-.14.73l-3.02 7.05C19.54 20.5 18.83 21 18 21H9m0-2h9.03L21 12v-2h-8.79l1.13-5.32L9 9.03V19Z"/></svg>
+            </button>
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page could be improved" data-md-value="0">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 15V3h4v12h-4M15 3a2 2 0 0 1 2 2v10c0 .55-.22 1.05-.59 1.41L9.83 23l-1.06-1.06c-.27-.27-.44-.64-.44-1.06l.03-.31.95-4.57H3a2 2 0 0 1-2-2v-2c0-.26.05-.5.14-.73l3.02-7.05C4.46 3.5 5.17 3 6 3h9m0 2H5.97L3 12v2h8.78l-1.13 5.32L15 14.97V5Z"/></svg>
+            </button>
+          
+        </div>
+        <div class="md-feedback__note">
+          
+            <div data-md-value="1" hidden>
+              
+              
+                
+              
+              謝謝你的反饋！
+            </div>
+          
+            <div data-md-value="0" hidden>
+              
+              
+                
+              
+              Thanks for your feedback! Help us improve this page by using our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
+            </div>
+          
+        </div>
+      </div>
+    </fieldset>
+  </form>
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  回到頂端
+</button>
+        
+      </main>
+      
+        <!-- Footer -->
+<footer class="md-footer">
+
+  <!-- Link to previous and/or next page -->
+  
+    
+  
+
+  <!-- Further information -->
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2016 - 2024 Wen-Chieh Lee
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+   
+    <font color="#B9B9B9">
+      <div class="footer-visit-count" style="display: flex; justify-content: center; align-items: center;">
+    本站訪問量：<script async src="//finicounter.eu.org/finicounter.js"></script>
+    <span id="finicount_views"></span>
+  </div>
+      </font>
+
+      <style>
+        .footer-visit-count {
+            height: fit-content;
+            min-height: 55px; /* 根據實際情況調整此高度 */
+        }
+        </style>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/wenchiehlee" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/in/wen-chieh-lee-8a242b50/" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://scholar.google.com/citations?user=YdrASjsAAAAJ" target="_blank" rel="noopener" title="scholar.google.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M390.9 298.5s0 .1.1.1c9.2 19.4 14.4 41.1 14.4 64C405.3 445.1 338.5 512 256 512s-149.3-66.9-149.3-149.3c0-22.9 5.2-44.6 14.4-64 1.7-3.6 3.6-7.2 5.6-10.7 4.4-7.6 9.4-14.7 15-21.3 27.4-32.6 68.5-53.3 114.4-53.3 33.6 0 64.6 11.1 89.6 29.9 9.1 6.9 17.4 14.7 24.8 23.5 5.6 6.6 10.6 13.8 15 21.3 2 3.4 3.8 7 5.5 10.5zm26.4-18.8c-30.1-58.4-91-98.4-161.3-98.4s-131.2 40-161.3 98.4L0 202.7 256 0l256 202.7-94.7 77.1z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.researchgate.net/profile/Wen-Chieh-Lee-4" target="_blank" rel="noopener" title="www.researchgate.net" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M0 32v448h448V32H0zm262.2 334.4c-6.6 3-33.2 6-50-14.2-9.2-10.6-25.3-33.3-42.2-63.6-8.9 0-14.7 0-21.4-.6v46.4c0 23.5 6 21.2 25.8 23.9v8.1c-6.9-.3-23.1-.8-35.6-.8-13.1 0-26.1.6-33.6.8v-8.1c15.5-2.9 22-1.3 22-23.9V225c0-22.6-6.4-21-22-23.9V193c25.8 1 53.1-.6 70.9-.6 31.7 0 55.9 14.4 55.9 45.6 0 21.1-16.7 42.2-39.2 47.5 13.6 24.2 30 45.6 42.2 58.9 7.2 7.8 17.2 14.7 27.2 14.7v7.3zm22.9-135c-23.3 0-32.2-15.7-32.2-32.2V167c0-12.2 8.8-30.4 34-30.4s30.4 17.9 30.4 17.9l-10.7 7.2s-5.5-12.5-19.7-12.5c-7.9 0-19.7 7.3-19.7 19.7v26.8c0 13.4 6.6 23.3 17.9 23.3 14.1 0 21.5-10.9 21.5-26.8h-17.9v-10.7h30.4c0 20.5 4.7 49.9-34 49.9zm-116.5 44.7c-9.4 0-13.6-.3-20-.8v-69.7c6.4-.6 15-.6 22.5-.6 23.3 0 37.2 12.2 37.2 34.5 0 21.9-15 36.6-39.7 36.6z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="mailto:<wenchiehlee1020@gmail.com>" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M64 112c-8.8 0-16 7.2-16 16v22.1l172.5 141.6c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16h384c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128c0-35.3 28.7-64 64-64h384c35.3 0 64 28.7 64 64v256c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["announce.dismiss", "content.action.edit", "content.action.view", "content.code.annotate", "content.code.copy", "content.tabs.link", "content.tooltips", "navigation.indexes", "navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.prune", "navigation.sections", "navigation.top", "navigation.footer", "navigation.expand", "navigation.indexes", "search.suggest", "search.highlight", "search.share", {"tabs": true}, "toc.follow"], "search": "../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "\u5df2\u8907\u88fd", "clipboard.copy": "\u8907\u88fd", "search.result.more.one": "\u6b64\u9801\u5c1a\u6709 1 \u500b\u7b26\u5408\u7684\u9805\u76ee", "search.result.more.other": "\u6b64\u9801\u5c1a\u6709 # \u500b\u7b26\u5408\u7684\u9805\u76ee", "search.result.none": "\u6c92\u6709\u7b26\u5408\u7684\u9805\u76ee", "search.result.one": "\u627e\u5230 1 \u500b\u7b26\u5408\u7684\u9805\u76ee", "search.result.other": "\u627e\u5230 # \u500b\u7b26\u5408\u7684\u9805\u76ee", "search.result.placeholder": "\u6253\u5b57\u9032\u884c\u641c\u5c0b", "search.result.term.missing": "\u7f3a\u5c11\u5b57\u8a5e", "select.version": "\u9078\u64c7\u7248\u672c"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+        <script src="../../../js/mkdocs-charts-plugin.js"></script>
+      
+        <script src="../../../js/timeago.min.js"></script>
+      
+        <script src="../../../js/timeago_mkdocs_material.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/Wcowin/Wcowin.github.io@main/docs/javascripts/extra.js"></script>
+      
+        <script src="../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+      
+        <script src="../../../javascripts/charts.js"></script>
+      
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+      
+        <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+      
+        <script src="../../../javascripts/tables.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mermaid@10.0.2/dist/add-html-label-6e56ed67.min.js"></script>
+      
+    
+  </body>
+</html>
