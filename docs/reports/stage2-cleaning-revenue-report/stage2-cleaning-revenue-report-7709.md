@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-10
+date: 2026-03-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 榮田 (7709) - 自動產生
     **:building_construction: 公司名稱**: 榮田  
     **:identification_card: 股票代號**: 7709  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-10 21:51:26 CST
+    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 榮田 (7709) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.37** | **3.06** | **4.32** |
-| **P/E倍數** | **11.79** | **15.85** | **22.41** |
+| **EPS(元)** | **2.51** | **3.11** | **4.47** |
+| **P/E倍數** | **11.96** | **15.36** | **21.62** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 榮田 歷史平均獲利能力 (σup=1.26, σlo=0.69)
-    - **P/Ebase**: 榮田 歷史平均估值水準 (σup=6.56, σlo=4.06)
+    - **EPSbase**: 榮田 歷史平均獲利能力 (σup=1.36, σlo=0.61)
+    - **P/Ebase**: 榮田 歷史平均估值水準 (σup=6.26, σlo=3.40)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,18 +79,18 @@ description: 月營收表 榮田 (7709) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **0.517** | <span style="color: #002818; font-weight: bold;">-6.14</span> | <span style="color: #8B0000; font-weight: bold;">+4.6</span> | **61.9** | <span style="color: #006400; font-weight: bold;">2.3</span> | <span style="color: #FF4500; font-weight: bold;">26.91</span> |
-| **2026/01** | **0.454** | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | **63.1** | <span style="color: #006400; font-weight: bold;">2.3</span> | <span style="color: #FF4500; font-weight: bold;">27.43</span> |
-| **2025/12** | **1.9** | <span style="color: #B22222; font-weight: bold;">+11.9</span> | <span style="color: #228B22; font-weight: bold;">-31.2</span> | **37.8** | <span style="color: #006400; font-weight: bold;">2.3</span> | <span style="color: #8B0000; font-weight: bold;">16.43</span> |
-| **2025/11** | **0.935** | <span style="color: #006400; font-weight: bold;">-23.7</span> | <span style="color: #228B22; font-weight: bold;">-36.8</span> | **37.5** | <span style="color: #006400; font-weight: bold;">2.3</span> | <span style="color: #8B0000; font-weight: bold;">16.3</span> |
-| **2025/10** | **0.687** | <span style="color: #32CD32; font-weight: bold;">-43.6</span> | <span style="color: #228B22; font-weight: bold;">-38.2</span> | **38.95** | <span style="color: #006400; font-weight: bold;">2.3</span> | <span style="color: #8B0000; font-weight: bold;">16.93</span> |
+| **2026/02** | **0.517** | <span style="color: #002818; font-weight: bold;">-6.14</span> | <span style="color: #8B0000; font-weight: bold;">+4.6</span> | **61.9** | <span style="color: #006400; font-weight: bold;">2.48</span> | <span style="color: #FF4500; font-weight: bold;">24.96</span> |
+| **2026/01** | **0.454** | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | **63.1** | <span style="color: #006400; font-weight: bold;">2.48</span> | <span style="color: #FF4500; font-weight: bold;">25.44</span> |
+| **2025/12** | **1.9** | <span style="color: #B22222; font-weight: bold;">+11.9</span> | <span style="color: #228B22; font-weight: bold;">-31.2</span> | **37.8** | <span style="color: #006400; font-weight: bold;">2.48</span> | <span style="color: #002818; font-weight: bold;">15.24</span> |
+| **2025/11** | **0.935** | <span style="color: #006400; font-weight: bold;">-23.7</span> | <span style="color: #228B22; font-weight: bold;">-36.8</span> | **37.5** | <span style="color: #006400; font-weight: bold;">2.42</span> | <span style="color: #8B0000; font-weight: bold;">15.5</span> |
+| **2025/10** | **0.687** | <span style="color: #32CD32; font-weight: bold;">-43.6</span> | <span style="color: #228B22; font-weight: bold;">-38.2</span> | **38.95** | <span style="color: #006400; font-weight: bold;">2.36</span> | <span style="color: #8B0000; font-weight: bold;">16.5</span> |
 | **2025/09** | **0.896** | <span style="color: #90EE90; font-weight: bold;">-69.8</span> | <span style="color: #228B22; font-weight: bold;">-37.6</span> | **37.65** | <span style="color: #006400; font-weight: bold;">2.3</span> | <span style="color: #8B0000; font-weight: bold;">16.37</span> |
 | **2025/08** | **0.413** | <span style="color: #004225; font-weight: bold;">-13.7</span> | <span style="color: #006400; font-weight: bold;">-24.8</span> | **39** | <span style="color: #004225; font-weight: bold;">2.56</span> | <span style="color: #002818; font-weight: bold;">15.25</span> |
-| **2025/07** | **0.692** | <span style="color: #006400; font-weight: bold;">-22.6</span> | <span style="color: #006400; font-weight: bold;">-25.6</span> | **39.3** | <span style="color: #002818; font-weight: bold;">2.81</span> | <span style="color: #002818; font-weight: bold;">13.97</span> |
-| **2025/06** | **1.26** | <span style="color: #002818; font-weight: bold;">-7.03</span> | <span style="color: #006400; font-weight: bold;">-26</span> | **40.65** | <span style="color: #8B0000; font-weight: bold;">3.07</span> | <span style="color: #004225; font-weight: bold;">13.24</span> |
+| **2025/07** | **0.692** | <span style="color: #006400; font-weight: bold;">-22.6</span> | <span style="color: #006400; font-weight: bold;">-25.6</span> | **39.3** | <span style="color: #004225; font-weight: bold;">2.81</span> | <span style="color: #002818; font-weight: bold;">13.97</span> |
+| **2025/06** | **1.26** | <span style="color: #002818; font-weight: bold;">-7.03</span> | <span style="color: #006400; font-weight: bold;">-26</span> | **40.65** | <span style="color: #002818; font-weight: bold;">3.07</span> | <span style="color: #004225; font-weight: bold;">13.24</span> |
 | **2025/05** | **0.584** | <span style="color: #90EE90; font-weight: bold;">-51.4</span> | <span style="color: #228B22; font-weight: bold;">-31.5</span> | **42.5** | <span style="color: #8B0000; font-weight: bold;">3.65</span> | <span style="color: #006400; font-weight: bold;">11.63</span> |
 | **2025/04** | **0.937** | <span style="color: #006400; font-weight: bold;">-26.6</span> | <span style="color: #006400; font-weight: bold;">-24.7</span> | **41.2** | <span style="color: #B22222; font-weight: bold;">4.24</span> | <span style="color: #228B22; font-weight: bold;">9.72</span> |
-| **2025/03** | **0.792** | <span style="color: #006400; font-weight: bold;">-30</span> | <span style="color: #006400; font-weight: bold;">-23.6</span> | **49.3** | <span style="color: #DC143C; font-weight: bold;">4.82</span> | <span style="color: #006400; font-weight: bold;">10.23</span> |
+| **2025/03** | **0.792** | <span style="color: #006400; font-weight: bold;">-30</span> | <span style="color: #006400; font-weight: bold;">-23.6</span> | **49.3** | <span style="color: #DC143C; font-weight: bold;">4.82</span> | <span style="color: #228B22; font-weight: bold;">10.23</span> |
 | **2025/02** | **0.551** | <span style="color: #FF6347; font-weight: bold;">+41.8</span> | <span style="color: #004225; font-weight: bold;">-17.2</span> | **56.1** | <span style="color: #DC143C; font-weight: bold;">4.82</span> | <span style="color: #006400; font-weight: bold;">11.64</span> |
 | **2025/01** | **0.377** | <span style="color: #32CD32; font-weight: bold;">-48.4</span> | <span style="color: #32CD32; font-weight: bold;">-48.4</span> | **-** | N/A | N/A |
 | **2024/12** | **1.7** | <span style="color: #FF6347; font-weight: bold;">+48.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.11</span> | **-** | N/A | N/A |
@@ -204,7 +204,7 @@ description: 月營收表 榮田 (7709) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-10 21:51:26 CST
+- **產生時間**: 2026-03-11 01:24:05 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

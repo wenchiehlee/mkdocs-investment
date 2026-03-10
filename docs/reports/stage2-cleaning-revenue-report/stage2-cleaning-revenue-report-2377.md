@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-10
+date: 2026-03-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 微星 (2377) - 自動產生
     **:building_construction: 公司名稱**: 微星  
     **:identification_card: 股票代號**: 2377  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-10 21:51:26 CST
+    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
 
 ## :bar_chart: 績效概覽
 
@@ -250,14 +250,14 @@ description: 月營收表 微星 (2377) - 自動產生
 | **2012/01** | **-** | N/A | N/A | **12.55** | <span style="color: #006400; font-weight: bold;">0.44</span> | <span style="color: #8B0000; font-weight: bold;">28.52</span> |
 | **2011/12** | **-** | N/A | N/A | **12.9** | <span style="color: #006400; font-weight: bold;">0.32</span> | <span style="color: #8B0000; font-weight: bold;">40.31</span> |
 | **2011/11** | **-** | N/A | N/A | **11.3** | <span style="color: #006400; font-weight: bold;">0.13</span> | <span style="color: #FF4500; font-weight: bold;">89.21</span> |
-| **2011/10** | **-** | N/A | N/A | **13.5** | <span style="color: #006400; font-weight: bold;">-0.07</span> | N/A |
-| **2011/09** | **-** | N/A | N/A | **13.95** | <span style="color: #228B22; font-weight: bold;">-0.26</span> | N/A |
-| **2011/08** | **-** | N/A | N/A | **13.65** | <span style="color: #006400; font-weight: bold;">-0.04</span> | N/A |
+| **2011/10** | **-** | N/A | N/A | **13.5** | <span style="color: #006400; font-weight: bold;">-0.07</span> | <span style="color: #000000;">-</span> |
+| **2011/09** | **-** | N/A | N/A | **13.95** | <span style="color: #228B22; font-weight: bold;">-0.26</span> | <span style="color: #000000;">-</span> |
+| **2011/08** | **-** | N/A | N/A | **13.65** | <span style="color: #006400; font-weight: bold;">-0.04</span> | <span style="color: #000000;">-</span> |
 | **2011/07** | **-** | N/A | N/A | **14.45** | <span style="color: #006400; font-weight: bold;">0.17</span> | <span style="color: #DC143C; font-weight: bold;">83.37</span> |
 | **2011/06** | **-** | N/A | N/A | **13.9** | <span style="color: #006400; font-weight: bold;">0.39</span> | <span style="color: #8B0000; font-weight: bold;">35.64</span> |
 | **2011/05** | **-** | N/A | N/A | **14.85** | <span style="color: #006400; font-weight: bold;">0.22</span> | <span style="color: #DC143C; font-weight: bold;">67.5</span> |
 | **2011/04** | **-** | N/A | N/A | **14.9** | <span style="color: #006400; font-weight: bold;">0.05</span> | <span style="color: #FF7F7F; font-weight: bold;">298.0</span> |
-| **2011/03** | **-** | N/A | N/A | **15** | <span style="color: #006400; font-weight: bold;">-0.12</span> | N/A |
+| **2011/03** | **-** | N/A | N/A | **15** | <span style="color: #006400; font-weight: bold;">-0.12</span> | <span style="color: #000000;">-</span> |
 | **2011/02** | **-** | N/A | N/A | **16.15** | <span style="color: #006400; font-weight: bold;">0.08</span> | <span style="color: #FF7F7F; font-weight: bold;">193.8</span> |
 | **2011/01** | **-** | N/A | N/A | **17.6** | <span style="color: #006400; font-weight: bold;">0.29</span> | <span style="color: #B22222; font-weight: bold;">61.4</span> |
 | **2010/12** | **-** | N/A | N/A | **17.15** | <span style="color: #006400; font-weight: bold;">0.49</span> | <span style="color: #8B0000; font-weight: bold;">35.0</span> |
@@ -413,7 +413,7 @@ description: 月營收表 微星 (2377) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-10 21:51:26 CST
+- **產生時間**: 2026-03-11 01:24:05 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

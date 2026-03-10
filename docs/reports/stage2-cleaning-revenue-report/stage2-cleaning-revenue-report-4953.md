@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-10
+date: 2026-03-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 緯軟 (4953) - 自動產生
     **:building_construction: 公司名稱**: 緯軟  
     **:identification_card: 股票代號**: 4953  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-10 21:51:26 CST
+    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
 
 ## :bar_chart: 績效概覽
 
@@ -192,12 +192,12 @@ description: 月營收表 緯軟 (4953) - 自動產生
 | **2016/12** | **2.26** | <span style="color: #DC143C; font-weight: bold;">+22</span> | <span style="color: #8B0000; font-weight: bold;">+8.2</span> | **22.1** | <span style="color: #006400; font-weight: bold;">1.52</span> | <span style="color: #004225; font-weight: bold;">14.54</span> |
 | **2016/11** | **2.39** | <span style="color: #8B0000; font-weight: bold;">+7.93</span> | <span style="color: #8B0000; font-weight: bold;">+7.1</span> | **20.55** | <span style="color: #006400; font-weight: bold;">0.95</span> | <span style="color: #8B0000; font-weight: bold;">21.56</span> |
 | **2016/10** | **2.14** | <span style="color: #8B0000; font-weight: bold;">+5.65</span> | <span style="color: #8B0000; font-weight: bold;">+7.01</span> | **20.3** | <span style="color: #006400; font-weight: bold;">0.39</span> | <span style="color: #8B0000; font-weight: bold;">52.5</span> |
-| **2016/09** | **2.28** | <span style="color: #8B0000; font-weight: bold;">+7.45</span> | <span style="color: #8B0000; font-weight: bold;">+7.15</span> | **22.35** | <span style="color: #228B22; font-weight: bold;">-0.18</span> | N/A |
-| **2016/08** | **2.31** | <span style="color: #8B0000; font-weight: bold;">+3.5</span> | <span style="color: #8B0000; font-weight: bold;">+7.12</span> | **23.6** | <span style="color: #228B22; font-weight: bold;">-0.18</span> | N/A |
-| **2016/07** | **2.32** | <span style="color: #B22222; font-weight: bold;">+18.4</span> | <span style="color: #8B0000; font-weight: bold;">+7.67</span> | **21.85** | <span style="color: #228B22; font-weight: bold;">-0.19</span> | N/A |
-| **2016/06** | **2.28** | <span style="color: #002818; font-weight: bold;">-3.85</span> | <span style="color: #8B0000; font-weight: bold;">+6.01</span> | **19.95** | <span style="color: #228B22; font-weight: bold;">-0.19</span> | N/A |
-| **2016/05** | **2.18** | <span style="color: #8B0000; font-weight: bold;">+9.39</span> | <span style="color: #8B0000; font-weight: bold;">+8.29</span> | **19.75** | <span style="color: #228B22; font-weight: bold;">-0.11</span> | N/A |
-| **2016/04** | **2.22** | <span style="color: #B22222; font-weight: bold;">+10.5</span> | <span style="color: #8B0000; font-weight: bold;">+8.02</span> | **20.4** | <span style="color: #228B22; font-weight: bold;">-0.04</span> | N/A |
+| **2016/09** | **2.28** | <span style="color: #8B0000; font-weight: bold;">+7.45</span> | <span style="color: #8B0000; font-weight: bold;">+7.15</span> | **22.35** | <span style="color: #228B22; font-weight: bold;">-0.18</span> | <span style="color: #000000;">-</span> |
+| **2016/08** | **2.31** | <span style="color: #8B0000; font-weight: bold;">+3.5</span> | <span style="color: #8B0000; font-weight: bold;">+7.12</span> | **23.6** | <span style="color: #228B22; font-weight: bold;">-0.18</span> | <span style="color: #000000;">-</span> |
+| **2016/07** | **2.32** | <span style="color: #B22222; font-weight: bold;">+18.4</span> | <span style="color: #8B0000; font-weight: bold;">+7.67</span> | **21.85** | <span style="color: #228B22; font-weight: bold;">-0.19</span> | <span style="color: #000000;">-</span> |
+| **2016/06** | **2.28** | <span style="color: #002818; font-weight: bold;">-3.85</span> | <span style="color: #8B0000; font-weight: bold;">+6.01</span> | **19.95** | <span style="color: #228B22; font-weight: bold;">-0.19</span> | <span style="color: #000000;">-</span> |
+| **2016/05** | **2.18** | <span style="color: #8B0000; font-weight: bold;">+9.39</span> | <span style="color: #8B0000; font-weight: bold;">+8.29</span> | **19.75** | <span style="color: #228B22; font-weight: bold;">-0.11</span> | <span style="color: #000000;">-</span> |
+| **2016/04** | **2.22** | <span style="color: #B22222; font-weight: bold;">+10.5</span> | <span style="color: #8B0000; font-weight: bold;">+8.02</span> | **20.4** | <span style="color: #228B22; font-weight: bold;">-0.04</span> | <span style="color: #000000;">-</span> |
 | **2016/03** | **2.17** | <span style="color: #002818; font-weight: bold;">-0.79</span> | <span style="color: #8B0000; font-weight: bold;">+7.24</span> | **20.3** | <span style="color: #228B22; font-weight: bold;">0.04</span> | <span style="color: #FF7F7F; font-weight: bold;">507.5</span> |
 | **2016/02** | **2.11** | <span style="color: #8B0000; font-weight: bold;">+9.47</span> | <span style="color: #B22222; font-weight: bold;">+11.6</span> | **21.35** | <span style="color: #006400; font-weight: bold;">0.15</span> | <span style="color: #DC143C; font-weight: bold;">145.6</span> |
 | **2016/01** | **2.44** | <span style="color: #B22222; font-weight: bold;">+13.4</span> | <span style="color: #B22222; font-weight: bold;">+13.4</span> | **19.8** | <span style="color: #006400; font-weight: bold;">0.25</span> | <span style="color: #8B0000; font-weight: bold;">78.16</span> |
@@ -363,7 +363,7 @@ description: 月營收表 緯軟 (4953) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-10 21:51:26 CST
+- **產生時間**: 2026-03-11 01:24:05 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

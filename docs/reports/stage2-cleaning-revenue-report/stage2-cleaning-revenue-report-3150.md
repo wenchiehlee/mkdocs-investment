@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-10
+date: 2026-03-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 鈺寶-創 (3150) - 自動產生
     **:building_construction: 公司名稱**: 鈺寶-創  
     **:identification_card: 股票代號**: 3150  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-10 21:51:26 CST
+    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
 
 ## :bar_chart: 績效概覽
 
@@ -99,7 +99,7 @@ description: 月營收表 鈺寶-創 (3150) - 自動產生
 | **2024/09** | **0.299** | <span style="color: #FF7F7F; font-weight: bold;">+142.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+60.2</span> | **37.95** | <span style="color: #002818; font-weight: bold;">0.38</span> | <span style="color: #004225; font-weight: bold;">99.87</span> |
 | **2024/08** | **0.349** | <span style="color: #FF7F7F; font-weight: bold;">+103.5</span> | <span style="color: #FF7F7F; font-weight: bold;">+54</span> | **41.5** | <span style="color: #004225; font-weight: bold;">0.2</span> | <span style="color: #002818; font-weight: bold;">211.0</span> |
 | **2024/07** | **0.391** | <span style="color: #FF7F7F; font-weight: bold;">+132.2</span> | <span style="color: #FF6347; font-weight: bold;">+48.2</span> | **40.45** | <span style="color: #006400; font-weight: bold;">0.01</span> | <span style="color: #FF7F7F; font-weight: bold;">3034.0</span> |
-| **2024/06** | **0.38** | <span style="color: #FF7F7F; font-weight: bold;">+90</span> | <span style="color: #FF4500; font-weight: bold;">+37.4</span> | **43** | <span style="color: #32CD32; font-weight: bold;">-0.17</span> | N/A |
+| **2024/06** | **0.38** | <span style="color: #FF7F7F; font-weight: bold;">+90</span> | <span style="color: #FF4500; font-weight: bold;">+37.4</span> | **43** | <span style="color: #32CD32; font-weight: bold;">-0.17</span> | <span style="color: #000000;">-</span> |
 | **2024/05** | **0.393** | <span style="color: #FF7F7F; font-weight: bold;">+89.7</span> | <span style="color: #DC143C; font-weight: bold;">+27.9</span> | **-** | N/A | N/A |
 | **2024/04** | **0.346** | <span style="color: #FF6347; font-weight: bold;">+44.1</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **-** | N/A | N/A |
 | **2024/03** | **0.327** | <span style="color: #B22222; font-weight: bold;">+10.8</span> | <span style="color: #8B0000; font-weight: bold;">+2.64</span> | **-** | N/A | N/A |
@@ -361,7 +361,7 @@ description: 月營收表 鈺寶-創 (3150) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-10 21:51:26 CST
+- **產生時間**: 2026-03-11 01:24:05 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

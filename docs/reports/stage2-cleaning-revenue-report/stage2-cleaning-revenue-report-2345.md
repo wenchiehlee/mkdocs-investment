@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-10
+date: 2026-03-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 智邦 (2345) - 自動產生
     **:building_construction: 公司名稱**: 智邦  
     **:identification_card: 股票代號**: 2345  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-10 21:51:26 CST
+    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
 
 ## :bar_chart: 績效概覽
 
@@ -291,14 +291,14 @@ description: 月營收表 智邦 (2345) - 自動產生
 | **2008/09** | **-** | N/A | N/A | **6.94** | <span style="color: #006400; font-weight: bold;">0.41</span> | <span style="color: #004225; font-weight: bold;">16.93</span> |
 | **2008/08** | **-** | N/A | N/A | **10** | <span style="color: #006400; font-weight: bold;">0.22</span> | <span style="color: #8B0000; font-weight: bold;">45.45</span> |
 | **2008/07** | **-** | N/A | N/A | **9** | <span style="color: #006400; font-weight: bold;">0.03</span> | <span style="color: #FF6347; font-weight: bold;">300.0</span> |
-| **2008/06** | **-** | N/A | N/A | **10.35** | <span style="color: #006400; font-weight: bold;">-0.16</span> | N/A |
-| **2008/05** | **-** | N/A | N/A | **13.9** | <span style="color: #006400; font-weight: bold;">-0.24</span> | N/A |
-| **2008/04** | **-** | N/A | N/A | **12.75** | <span style="color: #006400; font-weight: bold;">-0.32</span> | N/A |
-| **2008/03** | **-** | N/A | N/A | **11.9** | <span style="color: #006400; font-weight: bold;">-0.4</span> | N/A |
-| **2008/02** | **-** | N/A | N/A | **12.65** | <span style="color: #006400; font-weight: bold;">-0.43</span> | N/A |
-| **2008/01** | **-** | N/A | N/A | **11.4** | <span style="color: #006400; font-weight: bold;">-0.45</span> | N/A |
-| **2007/12** | **-** | N/A | N/A | **17** | <span style="color: #006400; font-weight: bold;">-0.48</span> | N/A |
-| **2007/11** | **-** | N/A | N/A | **17.3** | <span style="color: #006400; font-weight: bold;">-0.22</span> | N/A |
+| **2008/06** | **-** | N/A | N/A | **10.35** | <span style="color: #006400; font-weight: bold;">-0.16</span> | <span style="color: #000000;">-</span> |
+| **2008/05** | **-** | N/A | N/A | **13.9** | <span style="color: #006400; font-weight: bold;">-0.24</span> | <span style="color: #000000;">-</span> |
+| **2008/04** | **-** | N/A | N/A | **12.75** | <span style="color: #006400; font-weight: bold;">-0.32</span> | <span style="color: #000000;">-</span> |
+| **2008/03** | **-** | N/A | N/A | **11.9** | <span style="color: #006400; font-weight: bold;">-0.4</span> | <span style="color: #000000;">-</span> |
+| **2008/02** | **-** | N/A | N/A | **12.65** | <span style="color: #006400; font-weight: bold;">-0.43</span> | <span style="color: #000000;">-</span> |
+| **2008/01** | **-** | N/A | N/A | **11.4** | <span style="color: #006400; font-weight: bold;">-0.45</span> | <span style="color: #000000;">-</span> |
+| **2007/12** | **-** | N/A | N/A | **17** | <span style="color: #006400; font-weight: bold;">-0.48</span> | <span style="color: #000000;">-</span> |
+| **2007/11** | **-** | N/A | N/A | **17.3** | <span style="color: #006400; font-weight: bold;">-0.22</span> | <span style="color: #000000;">-</span> |
 | **2007/10** | **-** | N/A | N/A | **17.1** | <span style="color: #006400; font-weight: bold;">0.03</span> | <span style="color: #FF7F7F; font-weight: bold;">513.0</span> |
 | **2007/09** | **-** | N/A | N/A | **16.55** | <span style="color: #006400; font-weight: bold;">0.29</span> | <span style="color: #8B0000; font-weight: bold;">57.07</span> |
 | **2007/08** | **-** | N/A | N/A | **16.2** | <span style="color: #006400; font-weight: bold;">0.36</span> | <span style="color: #8B0000; font-weight: bold;">45.0</span> |
@@ -310,15 +310,15 @@ description: 月營收表 智邦 (2345) - 自動產生
 | **2007/02** | **-** | N/A | N/A | **21.7** | <span style="color: #006400; font-weight: bold;">0.18</span> | <span style="color: #B22222; font-weight: bold;">120.6</span> |
 | **2007/01** | **-** | N/A | N/A | **21.6** | <span style="color: #006400; font-weight: bold;">0.11</span> | <span style="color: #FF4500; font-weight: bold;">196.4</span> |
 | **2006/12** | **-** | N/A | N/A | **20.1** | <span style="color: #006400; font-weight: bold;">0.04</span> | <span style="color: #FF7F7F; font-weight: bold;">502.5</span> |
-| **2006/11** | **-** | N/A | N/A | **21.55** | <span style="color: #006400; font-weight: bold;">-0.06</span> | N/A |
-| **2006/10** | **-** | N/A | N/A | **17.3** | <span style="color: #006400; font-weight: bold;">-0.15</span> | N/A |
-| **2006/09** | **-** | N/A | N/A | **16.95** | <span style="color: #006400; font-weight: bold;">-0.25</span> | N/A |
-| **2006/08** | **-** | N/A | N/A | **16.1** | <span style="color: #006400; font-weight: bold;">-0.27</span> | N/A |
-| **2006/07** | **-** | N/A | N/A | **15.75** | <span style="color: #006400; font-weight: bold;">-0.28</span> | N/A |
-| **2006/06** | **-** | N/A | N/A | **16.35** | <span style="color: #006400; font-weight: bold;">-0.3</span> | N/A |
-| **2006/05** | **-** | N/A | N/A | **20.1** | <span style="color: #006400; font-weight: bold;">-0.36</span> | N/A |
-| **2006/04** | **-** | N/A | N/A | **19.25** | <span style="color: #006400; font-weight: bold;">-0.42</span> | N/A |
-| **2006/03** | **-** | N/A | N/A | **17.45** | <span style="color: #006400; font-weight: bold;">-0.48</span> | N/A |
+| **2006/11** | **-** | N/A | N/A | **21.55** | <span style="color: #006400; font-weight: bold;">-0.06</span> | <span style="color: #000000;">-</span> |
+| **2006/10** | **-** | N/A | N/A | **17.3** | <span style="color: #006400; font-weight: bold;">-0.15</span> | <span style="color: #000000;">-</span> |
+| **2006/09** | **-** | N/A | N/A | **16.95** | <span style="color: #006400; font-weight: bold;">-0.25</span> | <span style="color: #000000;">-</span> |
+| **2006/08** | **-** | N/A | N/A | **16.1** | <span style="color: #006400; font-weight: bold;">-0.27</span> | <span style="color: #000000;">-</span> |
+| **2006/07** | **-** | N/A | N/A | **15.75** | <span style="color: #006400; font-weight: bold;">-0.28</span> | <span style="color: #000000;">-</span> |
+| **2006/06** | **-** | N/A | N/A | **16.35** | <span style="color: #006400; font-weight: bold;">-0.3</span> | <span style="color: #000000;">-</span> |
+| **2006/05** | **-** | N/A | N/A | **20.1** | <span style="color: #006400; font-weight: bold;">-0.36</span> | <span style="color: #000000;">-</span> |
+| **2006/04** | **-** | N/A | N/A | **19.25** | <span style="color: #006400; font-weight: bold;">-0.42</span> | <span style="color: #000000;">-</span> |
+| **2006/03** | **-** | N/A | N/A | **17.45** | <span style="color: #006400; font-weight: bold;">-0.48</span> | <span style="color: #000000;">-</span> |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 智邦 (2345) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-10 21:51:26 CST
+- **產生時間**: 2026-03-11 01:24:05 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

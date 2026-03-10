@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-10
+date: 2026-03-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 所羅門 (2359) - 自動產生
     **:building_construction: 公司名稱**: 所羅門  
     **:identification_card: 股票代號**: 2359  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-10 21:51:26 CST
+    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
 
 ## :bar_chart: 績效概覽
 
@@ -86,8 +86,8 @@ description: 月營收表 所羅門 (2359) - 自動產生
 | **2025/09** | **2.78** | <span style="color: #004225; font-weight: bold;">-16.8</span> | <span style="color: #DC143C; font-weight: bold;">+26.6</span> | **142** | <span style="color: #002818; font-weight: bold;">0.97</span> | <span style="color: #8B0000; font-weight: bold;">146.4</span> |
 | **2025/08** | **3.37** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #FF4500; font-weight: bold;">+33.3</span> | **157** | <span style="color: #004225; font-weight: bold;">0.5</span> | <span style="color: #8B0000; font-weight: bold;">314.0</span> |
 | **2025/07** | **3.02** | <span style="color: #002818; font-weight: bold;">-9.48</span> | <span style="color: #FF4500; font-weight: bold;">+36.3</span> | **137.5** | <span style="color: #006400; font-weight: bold;">0.03</span> | <span style="color: #FF7F7F; font-weight: bold;">4583.0</span> |
-| **2025/06** | **4.28** | <span style="color: #FF7F7F; font-weight: bold;">+95</span> | <span style="color: #FF6347; font-weight: bold;">+46.2</span> | **136.5** | <span style="color: #32CD32; font-weight: bold;">-0.44</span> | N/A |
-| **2025/05** | **3.15** | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | <span style="color: #FF4500; font-weight: bold;">+38.1</span> | **142.5** | <span style="color: #228B22; font-weight: bold;">-0.06</span> | N/A |
+| **2025/06** | **4.28** | <span style="color: #FF7F7F; font-weight: bold;">+95</span> | <span style="color: #FF6347; font-weight: bold;">+46.2</span> | **136.5** | <span style="color: #32CD32; font-weight: bold;">-0.44</span> | <span style="color: #000000;">-</span> |
+| **2025/05** | **3.15** | <span style="color: #DC143C; font-weight: bold;">+20.3</span> | <span style="color: #FF4500; font-weight: bold;">+38.1</span> | **142.5** | <span style="color: #228B22; font-weight: bold;">-0.06</span> | <span style="color: #000000;">-</span> |
 | **2025/04** | **2.96** | <span style="color: #8B0000; font-weight: bold;">+9.62</span> | <span style="color: #FF6347; font-weight: bold;">+42.5</span> | **132** | <span style="color: #006400; font-weight: bold;">0.31</span> | <span style="color: #8B0000; font-weight: bold;">421.3</span> |
 | **2025/03** | **5** | <span style="color: #FF7F7F; font-weight: bold;">+57.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+53.7</span> | **136** | <span style="color: #004225; font-weight: bold;">0.69</span> | <span style="color: #8B0000; font-weight: bold;">197.1</span> |
 | **2025/02** | **3.93** | <span style="color: #FF6347; font-weight: bold;">+42.6</span> | <span style="color: #FF7F7F; font-weight: bold;">+51</span> | **157** | <span style="color: #004225; font-weight: bold;">0.74</span> | <span style="color: #8B0000; font-weight: bold;">212.2</span> |
@@ -95,7 +95,7 @@ description: 月營收表 所羅門 (2359) - 自動產生
 | **2024/12** | **2.8** | <span style="color: #32CD32; font-weight: bold;">-41.6</span> | <span style="color: #004225; font-weight: bold;">-16.8</span> | **168** | <span style="color: #004225; font-weight: bold;">0.84</span> | <span style="color: #8B0000; font-weight: bold;">200.0</span> |
 | **2024/11** | **3.9** | <span style="color: #FF7F7F; font-weight: bold;">+65.2</span> | <span style="color: #004225; font-weight: bold;">-13.5</span> | **142** | <span style="color: #004225; font-weight: bold;">0.54</span> | <span style="color: #8B0000; font-weight: bold;">261.3</span> |
 | **2024/10** | **3.12** | <span style="color: #002818; font-weight: bold;">-3.32</span> | <span style="color: #004225; font-weight: bold;">-18.9</span> | **140.5** | <span style="color: #006400; font-weight: bold;">0.25</span> | <span style="color: #B22222; font-weight: bold;">569.6</span> |
-| **2024/09** | **3.34** | <span style="color: #004225; font-weight: bold;">-12.6</span> | <span style="color: #006400; font-weight: bold;">-20.5</span> | **150** | <span style="color: #228B22; font-weight: bold;">-0.05</span> | N/A |
+| **2024/09** | **3.34** | <span style="color: #004225; font-weight: bold;">-12.6</span> | <span style="color: #006400; font-weight: bold;">-20.5</span> | **150** | <span style="color: #228B22; font-weight: bold;">-0.05</span> | <span style="color: #000000;">-</span> |
 | **2024/08** | **2.94** | <span style="color: #8B0000; font-weight: bold;">+2.64</span> | <span style="color: #006400; font-weight: bold;">-21.6</span> | **158.5** | <span style="color: #006400; font-weight: bold;">0.39</span> | <span style="color: #8B0000; font-weight: bold;">406.4</span> |
 | **2024/07** | **3.33** | <span style="color: #002818; font-weight: bold;">-0.26</span> | <span style="color: #006400; font-weight: bold;">-24.4</span> | **144** | <span style="color: #004225; font-weight: bold;">0.83</span> | <span style="color: #8B0000; font-weight: bold;">173.5</span> |
 | **2024/06** | **2.2** | <span style="color: #32CD32; font-weight: bold;">-48.7</span> | <span style="color: #006400; font-weight: bold;">-28.1</span> | **166** | <span style="color: #002818; font-weight: bold;">1.27</span> | <span style="color: #8B0000; font-weight: bold;">130.7</span> |
@@ -227,16 +227,16 @@ description: 月營收表 所羅門 (2359) - 自動產生
 | **2013/12** | **4.49** | <span style="color: #8B0000; font-weight: bold;">+9.9</span> | <span style="color: #8B0000; font-weight: bold;">+3.93</span> | **13.5** | <span style="color: #004225; font-weight: bold;">0.47</span> | <span style="color: #004225; font-weight: bold;">28.72</span> |
 | **2013/11** | **4.74** | <span style="color: #004225; font-weight: bold;">-12.3</span> | <span style="color: #8B0000; font-weight: bold;">+3.44</span> | **12.8** | <span style="color: #006400; font-weight: bold;">0.28</span> | <span style="color: #002818; font-weight: bold;">46.27</span> |
 | **2013/10** | **3.73** | <span style="color: #004225; font-weight: bold;">-17.1</span> | <span style="color: #8B0000; font-weight: bold;">+5.34</span> | **12.8** | <span style="color: #006400; font-weight: bold;">0.08</span> | <span style="color: #8B0000; font-weight: bold;">153.6</span> |
-| **2013/09** | **4.55** | <span style="color: #004225; font-weight: bold;">-11.8</span> | <span style="color: #8B0000; font-weight: bold;">+7.84</span> | **12.95** | <span style="color: #228B22; font-weight: bold;">-0.11</span> | N/A |
-| **2013/08** | **3.64** | <span style="color: #006400; font-weight: bold;">-29</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **12.85** | <span style="color: #228B22; font-weight: bold;">-0.11</span> | N/A |
-| **2013/07** | **5.2** | <span style="color: #8B0000; font-weight: bold;">+7.9</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **12.95** | <span style="color: #228B22; font-weight: bold;">-0.1</span> | N/A |
-| **2013/06** | **5.32** | <span style="color: #8B0000; font-weight: bold;">+7.6</span> | <span style="color: #B22222; font-weight: bold;">+19.3</span> | **13.15** | <span style="color: #228B22; font-weight: bold;">-0.1</span> | N/A |
-| **2013/05** | **6.1** | <span style="color: #8B0000; font-weight: bold;">+3.06</span> | <span style="color: #DC143C; font-weight: bold;">+22.1</span> | **13.3** | <span style="color: #228B22; font-weight: bold;">-0.07</span> | N/A |
-| **2013/04** | **5.43** | <span style="color: #FF4500; font-weight: bold;">+34.3</span> | <span style="color: #DC143C; font-weight: bold;">+29.9</span> | **12.2** | <span style="color: #228B22; font-weight: bold;">-0.05</span> | N/A |
-| **2013/03** | **5.11** | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | **12.45** | <span style="color: #228B22; font-weight: bold;">-0.02</span> | N/A |
-| **2013/02** | **3** | <span style="color: #004225; font-weight: bold;">-13.7</span> | <span style="color: #DC143C; font-weight: bold;">+27.2</span> | **11.55** | <span style="color: #228B22; font-weight: bold;">-0.02</span> | N/A |
-| **2013/01** | **5.29** | <span style="color: #FF7F7F; font-weight: bold;">+74</span> | <span style="color: #FF7F7F; font-weight: bold;">+74</span> | **11.75** | <span style="color: #228B22; font-weight: bold;">-0.03</span> | N/A |
-| **2012/12** | **-** | N/A | N/A | **12.1** | <span style="color: #228B22; font-weight: bold;">-0.03</span> | N/A |
+| **2013/09** | **4.55** | <span style="color: #004225; font-weight: bold;">-11.8</span> | <span style="color: #8B0000; font-weight: bold;">+7.84</span> | **12.95** | <span style="color: #228B22; font-weight: bold;">-0.11</span> | <span style="color: #000000;">-</span> |
+| **2013/08** | **3.64** | <span style="color: #006400; font-weight: bold;">-29</span> | <span style="color: #B22222; font-weight: bold;">+10.7</span> | **12.85** | <span style="color: #228B22; font-weight: bold;">-0.11</span> | <span style="color: #000000;">-</span> |
+| **2013/07** | **5.2** | <span style="color: #8B0000; font-weight: bold;">+7.9</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **12.95** | <span style="color: #228B22; font-weight: bold;">-0.1</span> | <span style="color: #000000;">-</span> |
+| **2013/06** | **5.32** | <span style="color: #8B0000; font-weight: bold;">+7.6</span> | <span style="color: #B22222; font-weight: bold;">+19.3</span> | **13.15** | <span style="color: #228B22; font-weight: bold;">-0.1</span> | <span style="color: #000000;">-</span> |
+| **2013/05** | **6.1** | <span style="color: #8B0000; font-weight: bold;">+3.06</span> | <span style="color: #DC143C; font-weight: bold;">+22.1</span> | **13.3** | <span style="color: #228B22; font-weight: bold;">-0.07</span> | <span style="color: #000000;">-</span> |
+| **2013/04** | **5.43** | <span style="color: #FF4500; font-weight: bold;">+34.3</span> | <span style="color: #DC143C; font-weight: bold;">+29.9</span> | **12.2** | <span style="color: #228B22; font-weight: bold;">-0.05</span> | <span style="color: #000000;">-</span> |
+| **2013/03** | **5.11** | <span style="color: #DC143C; font-weight: bold;">+29.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.2</span> | **12.45** | <span style="color: #228B22; font-weight: bold;">-0.02</span> | <span style="color: #000000;">-</span> |
+| **2013/02** | **3** | <span style="color: #004225; font-weight: bold;">-13.7</span> | <span style="color: #DC143C; font-weight: bold;">+27.2</span> | **11.55** | <span style="color: #228B22; font-weight: bold;">-0.02</span> | <span style="color: #000000;">-</span> |
+| **2013/01** | **5.29** | <span style="color: #FF7F7F; font-weight: bold;">+74</span> | <span style="color: #FF7F7F; font-weight: bold;">+74</span> | **11.75** | <span style="color: #228B22; font-weight: bold;">-0.03</span> | <span style="color: #000000;">-</span> |
+| **2012/12** | **-** | N/A | N/A | **12.1** | <span style="color: #228B22; font-weight: bold;">-0.03</span> | <span style="color: #000000;">-</span> |
 | **2012/11** | **-** | N/A | N/A | **12.5** | <span style="color: #006400; font-weight: bold;">0.24</span> | <span style="color: #002818; font-weight: bold;">52.08</span> |
 | **2012/10** | **-** | N/A | N/A | **11.05** | <span style="color: #004225; font-weight: bold;">0.51</span> | <span style="color: #004225; font-weight: bold;">21.67</span> |
 | **2012/09** | **-** | N/A | N/A | **12.9** | <span style="color: #004225; font-weight: bold;">0.78</span> | <span style="color: #004225; font-weight: bold;">16.54</span> |
@@ -275,15 +275,15 @@ description: 月營收表 所羅門 (2359) - 自動產生
 | **2009/12** | **-** | N/A | N/A | **16.2** | <span style="color: #004225; font-weight: bold;">0.76</span> | <span style="color: #004225; font-weight: bold;">21.32</span> |
 | **2009/11** | **-** | N/A | N/A | **13.95** | <span style="color: #004225; font-weight: bold;">0.46</span> | <span style="color: #004225; font-weight: bold;">30.11</span> |
 | **2009/10** | **-** | N/A | N/A | **13.55** | <span style="color: #006400; font-weight: bold;">0.17</span> | <span style="color: #8B0000; font-weight: bold;">81.3</span> |
-| **2009/09** | **-** | N/A | N/A | **12.75** | <span style="color: #228B22; font-weight: bold;">-0.13</span> | N/A |
-| **2009/08** | **-** | N/A | N/A | **11.65** | <span style="color: #228B22; font-weight: bold;">-0.29</span> | N/A |
-| **2009/07** | **-** | N/A | N/A | **13.2** | <span style="color: #32CD32; font-weight: bold;">-0.45</span> | N/A |
-| **2009/06** | **-** | N/A | N/A | **9.13** | <span style="color: #32CD32; font-weight: bold;">-0.61</span> | N/A |
-| **2009/05** | **-** | N/A | N/A | **8.9** | <span style="color: #32CD32; font-weight: bold;">-0.61</span> | N/A |
-| **2009/04** | **-** | N/A | N/A | **8.74** | <span style="color: #32CD32; font-weight: bold;">-0.62</span> | N/A |
-| **2009/03** | **-** | N/A | N/A | **8.45** | <span style="color: #32CD32; font-weight: bold;">-0.62</span> | N/A |
-| **2009/02** | **-** | N/A | N/A | **7.39** | <span style="color: #32CD32; font-weight: bold;">-0.41</span> | N/A |
-| **2009/01** | **-** | N/A | N/A | **5.77** | <span style="color: #228B22; font-weight: bold;">-0.19</span> | N/A |
+| **2009/09** | **-** | N/A | N/A | **12.75** | <span style="color: #228B22; font-weight: bold;">-0.13</span> | <span style="color: #000000;">-</span> |
+| **2009/08** | **-** | N/A | N/A | **11.65** | <span style="color: #228B22; font-weight: bold;">-0.29</span> | <span style="color: #000000;">-</span> |
+| **2009/07** | **-** | N/A | N/A | **13.2** | <span style="color: #32CD32; font-weight: bold;">-0.45</span> | <span style="color: #000000;">-</span> |
+| **2009/06** | **-** | N/A | N/A | **9.13** | <span style="color: #32CD32; font-weight: bold;">-0.61</span> | <span style="color: #000000;">-</span> |
+| **2009/05** | **-** | N/A | N/A | **8.9** | <span style="color: #32CD32; font-weight: bold;">-0.61</span> | <span style="color: #000000;">-</span> |
+| **2009/04** | **-** | N/A | N/A | **8.74** | <span style="color: #32CD32; font-weight: bold;">-0.62</span> | <span style="color: #000000;">-</span> |
+| **2009/03** | **-** | N/A | N/A | **8.45** | <span style="color: #32CD32; font-weight: bold;">-0.62</span> | <span style="color: #000000;">-</span> |
+| **2009/02** | **-** | N/A | N/A | **7.39** | <span style="color: #32CD32; font-weight: bold;">-0.41</span> | <span style="color: #000000;">-</span> |
+| **2009/01** | **-** | N/A | N/A | **5.77** | <span style="color: #228B22; font-weight: bold;">-0.19</span> | <span style="color: #000000;">-</span> |
 | **2008/12** | **-** | N/A | N/A | **6.45** | <span style="color: #228B22; font-weight: bold;">0.02</span> | <span style="color: #8B0000; font-weight: bold;">322.5</span> |
 | **2008/11** | **-** | N/A | N/A | **6.74** | <span style="color: #006400; font-weight: bold;">0.31</span> | <span style="color: #004225; font-weight: bold;">21.51</span> |
 | **2008/10** | **-** | N/A | N/A | **7.95** | <span style="color: #004225; font-weight: bold;">0.61</span> | <span style="color: #006400; font-weight: bold;">13.1</span> |
@@ -413,7 +413,7 @@ description: 月營收表 所羅門 (2359) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-10 21:51:26 CST
+- **產生時間**: 2026-03-11 01:24:05 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

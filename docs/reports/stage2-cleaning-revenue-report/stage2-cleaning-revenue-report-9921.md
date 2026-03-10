@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-10
+date: 2026-03-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 巨大 (9921) - 自動產生
     **:building_construction: 公司名稱**: 巨大  
     **:identification_card: 股票代號**: 9921  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-10 21:51:26 CST
+    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
 
 ## :bar_chart: 績效概覽
 
@@ -79,11 +79,11 @@ description: 月營收表 巨大 (9921) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/01** | **36.75** | <span style="color: #006400; font-weight: bold;">-21.6</span> | <span style="color: #006400; font-weight: bold;">-21.6</span> | **89.3** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | N/A |
-| **2025/12** | **35.94** | <span style="color: #004225; font-weight: bold;">-12.5</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **92.6** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | N/A |
-| **2025/11** | **41.44** | <span style="color: #002818; font-weight: bold;">-9.69</span> | <span style="color: #004225; font-weight: bold;">-15.6</span> | **100.5** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | N/A |
-| **2025/10** | **45.66** | <span style="color: #002818; font-weight: bold;">-6.26</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **101.5** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | N/A |
-| **2025/09** | **52.18** | <span style="color: #004225; font-weight: bold;">-13.4</span> | <span style="color: #004225; font-weight: bold;">-16.8</span> | **94.9** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | N/A |
+| **2026/01** | **36.75** | <span style="color: #006400; font-weight: bold;">-21.6</span> | <span style="color: #006400; font-weight: bold;">-21.6</span> | **89.3** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | <span style="color: #000000;">-</span> |
+| **2025/12** | **35.94** | <span style="color: #004225; font-weight: bold;">-12.5</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **92.6** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | <span style="color: #000000;">-</span> |
+| **2025/11** | **41.44** | <span style="color: #002818; font-weight: bold;">-9.69</span> | <span style="color: #004225; font-weight: bold;">-15.6</span> | **100.5** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | <span style="color: #000000;">-</span> |
+| **2025/10** | **45.66** | <span style="color: #002818; font-weight: bold;">-6.26</span> | <span style="color: #004225; font-weight: bold;">-16</span> | **101.5** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | <span style="color: #000000;">-</span> |
+| **2025/09** | **52.18** | <span style="color: #004225; font-weight: bold;">-13.4</span> | <span style="color: #004225; font-weight: bold;">-16.8</span> | **94.9** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | <span style="color: #000000;">-</span> |
 | **2025/08** | **50.25** | <span style="color: #006400; font-weight: bold;">-26.7</span> | <span style="color: #004225; font-weight: bold;">-17.2</span> | **105** | <span style="color: #32CD32; font-weight: bold;">0.13</span> | <span style="color: #FF7F7F; font-weight: bold;">828.9</span> |
 | **2025/07** | **51.07** | <span style="color: #228B22; font-weight: bold;">-32.6</span> | <span style="color: #004225; font-weight: bold;">-15.8</span> | **115** | <span style="color: #32CD32; font-weight: bold;">0.25</span> | <span style="color: #FF6347; font-weight: bold;">453.9</span> |
 | **2025/06** | **49.66** | <span style="color: #006400; font-weight: bold;">-30</span> | <span style="color: #004225; font-weight: bold;">-12.4</span> | **108.5** | <span style="color: #32CD32; font-weight: bold;">0.38</span> | <span style="color: #DC143C; font-weight: bold;">285.5</span> |
@@ -413,7 +413,7 @@ description: 月營收表 巨大 (9921) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-10 21:51:26 CST
+- **產生時間**: 2026-03-11 01:24:05 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

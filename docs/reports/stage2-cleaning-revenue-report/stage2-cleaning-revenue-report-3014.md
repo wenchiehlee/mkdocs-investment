@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-10
+date: 2026-03-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
     **:building_construction: 公司名稱**: 聯陽  
     **:identification_card: 股票代號**: 3014  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-10 21:51:26 CST
+    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
 
 ## :bar_chart: 績效概覽
 
@@ -238,20 +238,20 @@ description: 月營收表 聯陽 (3014) - 自動產生
 | **2013/02** | **2.1** | <span style="color: #228B22; font-weight: bold;">-31.2</span> | <span style="color: #002818; font-weight: bold;">-7.47</span> | **24.95** | <span style="color: #004225; font-weight: bold;">1.01</span> | <span style="color: #B22222; font-weight: bold;">24.62</span> |
 | **2013/01** | **3.13** | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | <span style="color: #DC143C; font-weight: bold;">+20.5</span> | **23.85** | <span style="color: #004225; font-weight: bold;">1.05</span> | <span style="color: #8B0000; font-weight: bold;">22.79</span> |
 | **2012/12** | **-** | N/A | N/A | **23.5** | <span style="color: #004225; font-weight: bold;">1.08</span> | <span style="color: #8B0000; font-weight: bold;">21.76</span> |
-| **2012/11** | **-** | N/A | N/A | **23.1** | <span style="color: #228B22; font-weight: bold;">-2.97</span> | N/A |
-| **2012/10** | **-** | N/A | N/A | **20.85** | <span style="color: #32CD32; font-weight: bold;">-7.01</span> | N/A |
-| **2012/09** | **-** | N/A | N/A | **26.05** | <span style="color: #90EE90; font-weight: bold;">-11.06</span> | N/A |
-| **2012/08** | **-** | N/A | N/A | **24.8** | <span style="color: #90EE90; font-weight: bold;">-11.12</span> | N/A |
-| **2012/07** | **-** | N/A | N/A | **23.95** | <span style="color: #90EE90; font-weight: bold;">-11.18</span> | N/A |
-| **2012/06** | **-** | N/A | N/A | **26.3** | <span style="color: #90EE90; font-weight: bold;">-11.24</span> | N/A |
-| **2012/05** | **-** | N/A | N/A | **25.2** | <span style="color: #90EE90; font-weight: bold;">-11.31</span> | N/A |
-| **2012/04** | **-** | N/A | N/A | **24.85** | <span style="color: #90EE90; font-weight: bold;">-11.39</span> | N/A |
-| **2012/03** | **-** | N/A | N/A | **27.8** | <span style="color: #90EE90; font-weight: bold;">-11.46</span> | N/A |
-| **2012/02** | **-** | N/A | N/A | **32.75** | <span style="color: #90EE90; font-weight: bold;">-11.38</span> | N/A |
-| **2012/01** | **-** | N/A | N/A | **27.5** | <span style="color: #90EE90; font-weight: bold;">-11.3</span> | N/A |
-| **2011/12** | **-** | N/A | N/A | **23.5** | <span style="color: #90EE90; font-weight: bold;">-11.22</span> | N/A |
-| **2011/11** | **-** | N/A | N/A | **23.2** | <span style="color: #32CD32; font-weight: bold;">-7.18</span> | N/A |
-| **2011/10** | **-** | N/A | N/A | **31.1** | <span style="color: #228B22; font-weight: bold;">-3.14</span> | N/A |
+| **2012/11** | **-** | N/A | N/A | **23.1** | <span style="color: #228B22; font-weight: bold;">-2.97</span> | <span style="color: #000000;">-</span> |
+| **2012/10** | **-** | N/A | N/A | **20.85** | <span style="color: #32CD32; font-weight: bold;">-7.01</span> | <span style="color: #000000;">-</span> |
+| **2012/09** | **-** | N/A | N/A | **26.05** | <span style="color: #90EE90; font-weight: bold;">-11.06</span> | <span style="color: #000000;">-</span> |
+| **2012/08** | **-** | N/A | N/A | **24.8** | <span style="color: #90EE90; font-weight: bold;">-11.12</span> | <span style="color: #000000;">-</span> |
+| **2012/07** | **-** | N/A | N/A | **23.95** | <span style="color: #90EE90; font-weight: bold;">-11.18</span> | <span style="color: #000000;">-</span> |
+| **2012/06** | **-** | N/A | N/A | **26.3** | <span style="color: #90EE90; font-weight: bold;">-11.24</span> | <span style="color: #000000;">-</span> |
+| **2012/05** | **-** | N/A | N/A | **25.2** | <span style="color: #90EE90; font-weight: bold;">-11.31</span> | <span style="color: #000000;">-</span> |
+| **2012/04** | **-** | N/A | N/A | **24.85** | <span style="color: #90EE90; font-weight: bold;">-11.39</span> | <span style="color: #000000;">-</span> |
+| **2012/03** | **-** | N/A | N/A | **27.8** | <span style="color: #90EE90; font-weight: bold;">-11.46</span> | <span style="color: #000000;">-</span> |
+| **2012/02** | **-** | N/A | N/A | **32.75** | <span style="color: #90EE90; font-weight: bold;">-11.38</span> | <span style="color: #000000;">-</span> |
+| **2012/01** | **-** | N/A | N/A | **27.5** | <span style="color: #90EE90; font-weight: bold;">-11.3</span> | <span style="color: #000000;">-</span> |
+| **2011/12** | **-** | N/A | N/A | **23.5** | <span style="color: #90EE90; font-weight: bold;">-11.22</span> | <span style="color: #000000;">-</span> |
+| **2011/11** | **-** | N/A | N/A | **23.2** | <span style="color: #32CD32; font-weight: bold;">-7.18</span> | <span style="color: #000000;">-</span> |
+| **2011/10** | **-** | N/A | N/A | **31.1** | <span style="color: #228B22; font-weight: bold;">-3.14</span> | <span style="color: #000000;">-</span> |
 | **2011/09** | **-** | N/A | N/A | **33.25** | <span style="color: #004225; font-weight: bold;">0.9</span> | <span style="color: #FF4500; font-weight: bold;">36.94</span> |
 | **2011/08** | **-** | N/A | N/A | **39.8** | <span style="color: #004225; font-weight: bold;">0.95</span> | <span style="color: #FF6347; font-weight: bold;">41.75</span> |
 | **2011/07** | **-** | N/A | N/A | **38.95** | <span style="color: #004225; font-weight: bold;">1.01</span> | <span style="color: #FF4500; font-weight: bold;">38.69</span> |
@@ -414,7 +414,7 @@ description: 月營收表 聯陽 (3014) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-10 21:51:26 CST
+- **產生時間**: 2026-03-11 01:24:05 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

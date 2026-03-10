@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-10
+date: 2026-03-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 精誠 (6214) - 自動產生
     **:building_construction: 公司名稱**: 精誠  
     **:identification_card: 股票代號**: 6214  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-10 21:51:26 CST
+    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
 
 ## :bar_chart: 績效概覽
 
@@ -277,17 +277,17 @@ description: 月營收表 精誠 (6214) - 自動產生
 | **2009/10** | **-** | N/A | N/A | **40.8** | <span style="color: #002818; font-weight: bold;">2.98</span> | <span style="color: #004225; font-weight: bold;">13.68</span> |
 | **2009/09** | **-** | N/A | N/A | **39.4** | <span style="color: #006400; font-weight: bold;">1.56</span> | <span style="color: #8B0000; font-weight: bold;">25.26</span> |
 | **2009/08** | **-** | N/A | N/A | **33.3** | <span style="color: #006400; font-weight: bold;">0.53</span> | <span style="color: #B22222; font-weight: bold;">62.44</span> |
-| **2009/07** | **-** | N/A | N/A | **31.15** | <span style="color: #228B22; font-weight: bold;">-0.49</span> | N/A |
-| **2009/06** | **-** | N/A | N/A | **29.6** | <span style="color: #32CD32; font-weight: bold;">-1.52</span> | N/A |
-| **2009/05** | **-** | N/A | N/A | **29.35** | <span style="color: #32CD32; font-weight: bold;">-2.03</span> | N/A |
-| **2009/04** | **-** | N/A | N/A | **20.65** | <span style="color: #32CD32; font-weight: bold;">-2.54</span> | N/A |
-| **2009/03** | **-** | N/A | N/A | **19.3** | <span style="color: #32CD32; font-weight: bold;">-3.05</span> | N/A |
-| **2009/02** | **-** | N/A | N/A | **18.6** | <span style="color: #32CD32; font-weight: bold;">-2.91</span> | N/A |
-| **2009/01** | **-** | N/A | N/A | **16.45** | <span style="color: #32CD32; font-weight: bold;">-2.77</span> | N/A |
-| **2008/12** | **-** | N/A | N/A | **17.85** | <span style="color: #32CD32; font-weight: bold;">-2.63</span> | N/A |
-| **2008/11** | **-** | N/A | N/A | **19.1** | <span style="color: #32CD32; font-weight: bold;">-1.81</span> | N/A |
-| **2008/10** | **-** | N/A | N/A | **18** | <span style="color: #32CD32; font-weight: bold;">-1.0</span> | N/A |
-| **2008/09** | **-** | N/A | N/A | **20.55** | <span style="color: #228B22; font-weight: bold;">-0.18</span> | N/A |
+| **2009/07** | **-** | N/A | N/A | **31.15** | <span style="color: #228B22; font-weight: bold;">-0.49</span> | <span style="color: #000000;">-</span> |
+| **2009/06** | **-** | N/A | N/A | **29.6** | <span style="color: #32CD32; font-weight: bold;">-1.52</span> | <span style="color: #000000;">-</span> |
+| **2009/05** | **-** | N/A | N/A | **29.35** | <span style="color: #32CD32; font-weight: bold;">-2.03</span> | <span style="color: #000000;">-</span> |
+| **2009/04** | **-** | N/A | N/A | **20.65** | <span style="color: #32CD32; font-weight: bold;">-2.54</span> | <span style="color: #000000;">-</span> |
+| **2009/03** | **-** | N/A | N/A | **19.3** | <span style="color: #32CD32; font-weight: bold;">-3.05</span> | <span style="color: #000000;">-</span> |
+| **2009/02** | **-** | N/A | N/A | **18.6** | <span style="color: #32CD32; font-weight: bold;">-2.91</span> | <span style="color: #000000;">-</span> |
+| **2009/01** | **-** | N/A | N/A | **16.45** | <span style="color: #32CD32; font-weight: bold;">-2.77</span> | <span style="color: #000000;">-</span> |
+| **2008/12** | **-** | N/A | N/A | **17.85** | <span style="color: #32CD32; font-weight: bold;">-2.63</span> | <span style="color: #000000;">-</span> |
+| **2008/11** | **-** | N/A | N/A | **19.1** | <span style="color: #32CD32; font-weight: bold;">-1.81</span> | <span style="color: #000000;">-</span> |
+| **2008/10** | **-** | N/A | N/A | **18** | <span style="color: #32CD32; font-weight: bold;">-1.0</span> | <span style="color: #000000;">-</span> |
+| **2008/09** | **-** | N/A | N/A | **20.55** | <span style="color: #228B22; font-weight: bold;">-0.18</span> | <span style="color: #000000;">-</span> |
 | **2008/08** | **-** | N/A | N/A | **26.8** | <span style="color: #006400; font-weight: bold;">0.52</span> | <span style="color: #B22222; font-weight: bold;">51.87</span> |
 | **2008/07** | **-** | N/A | N/A | **25.7** | <span style="color: #006400; font-weight: bold;">1.21</span> | <span style="color: #8B0000; font-weight: bold;">21.18</span> |
 | **2008/06** | **-** | N/A | N/A | **25.8** | <span style="color: #004225; font-weight: bold;">1.91</span> | <span style="color: #004225; font-weight: bold;">13.51</span> |
@@ -413,7 +413,7 @@ description: 月營收表 精誠 (6214) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-10 21:51:26 CST
+- **產生時間**: 2026-03-11 01:24:05 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

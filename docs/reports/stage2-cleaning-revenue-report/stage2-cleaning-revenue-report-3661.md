@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-10
+date: 2026-03-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
     **:building_construction: 公司名稱**: 世芯-KY  
     **:identification_card: 股票代號**: 3661  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-10 21:51:26 CST
+    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
 
 ## :bar_chart: 績效概覽
 
@@ -184,17 +184,17 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 | **2017/07** | **3.88** | <span style="color: #FF7F7F; font-weight: bold;">+66</span> | <span style="color: #B22222; font-weight: bold;">+16.4</span> | **80** | <span style="color: #006400; font-weight: bold;">3.19</span> | <span style="color: #004225; font-weight: bold;">25.08</span> |
 | **2017/06** | **3.98** | <span style="color: #002818; font-weight: bold;">-2.49</span> | <span style="color: #8B0000; font-weight: bold;">+9.78</span> | **61** | <span style="color: #006400; font-weight: bold;">2.51</span> | <span style="color: #004225; font-weight: bold;">24.3</span> |
 | **2017/05** | **3.73** | <span style="color: #FF7F7F; font-weight: bold;">+95</span> | <span style="color: #B22222; font-weight: bold;">+13.5</span> | **56.7** | <span style="color: #006400; font-weight: bold;">0.68</span> | <span style="color: #FF6347; font-weight: bold;">83.79</span> |
-| **2017/04** | **3.94** | <span style="color: #FF7F7F; font-weight: bold;">+82.5</span> | <span style="color: #002818; font-weight: bold;">-0.09</span> | **59.9** | <span style="color: #006400; font-weight: bold;">-1.16</span> | N/A |
-| **2017/03** | **4.51** | <span style="color: #004225; font-weight: bold;">-17.1</span> | <span style="color: #004225; font-weight: bold;">-19.3</span> | **49.3** | <span style="color: #006400; font-weight: bold;">-2.99</span> | N/A |
-| **2017/02** | **1.28** | <span style="color: #228B22; font-weight: bold;">-30.4</span> | <span style="color: #006400; font-weight: bold;">-22.4</span> | **37.45** | <span style="color: #006400; font-weight: bold;">-3.14</span> | N/A |
-| **2017/01** | **1.84** | <span style="color: #004225; font-weight: bold;">-15.4</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **29.8** | <span style="color: #006400; font-weight: bold;">-3.3</span> | N/A |
-| **2016/12** | **5.66** | <span style="color: #FF6347; font-weight: bold;">+40.9</span> | <span style="color: #002818; font-weight: bold;">-2.33</span> | **31.25** | <span style="color: #006400; font-weight: bold;">-3.45</span> | N/A |
-| **2016/11** | **2.76** | <span style="color: #DC143C; font-weight: bold;">+25.7</span> | <span style="color: #002818; font-weight: bold;">-7.62</span> | **30.7** | <span style="color: #006400; font-weight: bold;">-3.29</span> | N/A |
-| **2016/10** | **1.73** | <span style="color: #228B22; font-weight: bold;">-36.4</span> | <span style="color: #002818; font-weight: bold;">-9.84</span> | **27.75** | <span style="color: #006400; font-weight: bold;">-3.14</span> | N/A |
-| **2016/09** | **3.47** | <span style="color: #228B22; font-weight: bold;">-39.3</span> | <span style="color: #002818; font-weight: bold;">-7.2</span> | **26.55** | <span style="color: #006400; font-weight: bold;">-2.98</span> | N/A |
-| **2016/08** | **3.3** | <span style="color: #004225; font-weight: bold;">-12.6</span> | <span style="color: #8B0000; font-weight: bold;">+0.2</span> | **24.6** | <span style="color: #006400; font-weight: bold;">-2.34</span> | N/A |
-| **2016/07** | **2.34** | <span style="color: #228B22; font-weight: bold;">-37.3</span> | <span style="color: #8B0000; font-weight: bold;">+2.48</span> | **26.55** | <span style="color: #006400; font-weight: bold;">-1.69</span> | N/A |
-| **2016/06** | **4.08** | <span style="color: #B22222; font-weight: bold;">+16.3</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **24.4** | <span style="color: #006400; font-weight: bold;">-1.05</span> | N/A |
+| **2017/04** | **3.94** | <span style="color: #FF7F7F; font-weight: bold;">+82.5</span> | <span style="color: #002818; font-weight: bold;">-0.09</span> | **59.9** | <span style="color: #006400; font-weight: bold;">-1.16</span> | <span style="color: #000000;">-</span> |
+| **2017/03** | **4.51** | <span style="color: #004225; font-weight: bold;">-17.1</span> | <span style="color: #004225; font-weight: bold;">-19.3</span> | **49.3** | <span style="color: #006400; font-weight: bold;">-2.99</span> | <span style="color: #000000;">-</span> |
+| **2017/02** | **1.28** | <span style="color: #228B22; font-weight: bold;">-30.4</span> | <span style="color: #006400; font-weight: bold;">-22.4</span> | **37.45** | <span style="color: #006400; font-weight: bold;">-3.14</span> | <span style="color: #000000;">-</span> |
+| **2017/01** | **1.84** | <span style="color: #004225; font-weight: bold;">-15.4</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **29.8** | <span style="color: #006400; font-weight: bold;">-3.3</span> | <span style="color: #000000;">-</span> |
+| **2016/12** | **5.66** | <span style="color: #FF6347; font-weight: bold;">+40.9</span> | <span style="color: #002818; font-weight: bold;">-2.33</span> | **31.25** | <span style="color: #006400; font-weight: bold;">-3.45</span> | <span style="color: #000000;">-</span> |
+| **2016/11** | **2.76** | <span style="color: #DC143C; font-weight: bold;">+25.7</span> | <span style="color: #002818; font-weight: bold;">-7.62</span> | **30.7** | <span style="color: #006400; font-weight: bold;">-3.29</span> | <span style="color: #000000;">-</span> |
+| **2016/10** | **1.73** | <span style="color: #228B22; font-weight: bold;">-36.4</span> | <span style="color: #002818; font-weight: bold;">-9.84</span> | **27.75** | <span style="color: #006400; font-weight: bold;">-3.14</span> | <span style="color: #000000;">-</span> |
+| **2016/09** | **3.47** | <span style="color: #228B22; font-weight: bold;">-39.3</span> | <span style="color: #002818; font-weight: bold;">-7.2</span> | **26.55** | <span style="color: #006400; font-weight: bold;">-2.98</span> | <span style="color: #000000;">-</span> |
+| **2016/08** | **3.3** | <span style="color: #004225; font-weight: bold;">-12.6</span> | <span style="color: #8B0000; font-weight: bold;">+0.2</span> | **24.6** | <span style="color: #006400; font-weight: bold;">-2.34</span> | <span style="color: #000000;">-</span> |
+| **2016/07** | **2.34** | <span style="color: #228B22; font-weight: bold;">-37.3</span> | <span style="color: #8B0000; font-weight: bold;">+2.48</span> | **26.55** | <span style="color: #006400; font-weight: bold;">-1.69</span> | <span style="color: #000000;">-</span> |
+| **2016/06** | **4.08** | <span style="color: #B22222; font-weight: bold;">+16.3</span> | <span style="color: #B22222; font-weight: bold;">+12</span> | **24.4** | <span style="color: #006400; font-weight: bold;">-1.05</span> | <span style="color: #000000;">-</span> |
 | **2016/05** | **1.91** | <span style="color: #228B22; font-weight: bold;">-37.8</span> | <span style="color: #B22222; font-weight: bold;">+10.6</span> | **27.5** | <span style="color: #006400; font-weight: bold;">0.33</span> | <span style="color: #FF6347; font-weight: bold;">83.33</span> |
 | **2016/04** | **2.16** | <span style="color: #8B0000; font-weight: bold;">+1.62</span> | <span style="color: #DC143C; font-weight: bold;">+26.8</span> | **40.3** | <span style="color: #006400; font-weight: bold;">1.71</span> | <span style="color: #006400; font-weight: bold;">23.57</span> |
 | **2016/03** | **5.44** | <span style="color: #FF7F7F; font-weight: bold;">+175.9</span> | <span style="color: #FF4500; font-weight: bold;">+35.2</span> | **35.95** | <span style="color: #006400; font-weight: bold;">3.09</span> | <span style="color: #228B22; font-weight: bold;">11.63</span> |
@@ -356,7 +356,7 @@ description: 月營收表 世芯-KY (3661) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-10 21:51:26 CST
+- **產生時間**: 2026-03-11 01:24:05 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

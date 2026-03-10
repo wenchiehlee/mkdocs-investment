@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-10
+date: 2026-03-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 聯電 (2303) - 自動產生
     **:building_construction: 公司名稱**: 聯電  
     **:identification_card: 股票代號**: 2303  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-10 21:51:26 CST
+    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
 
 ## :bar_chart: 績效概覽
 
@@ -274,20 +274,20 @@ description: 月營收表 聯電 (2303) - 自動產生
 | **2010/02** | **-** | N/A | N/A | **15.45** | <span style="color: #004225; font-weight: bold;">0.94</span> | <span style="color: #8B0000; font-weight: bold;">16.49</span> |
 | **2010/01** | **-** | N/A | N/A | **16.05** | <span style="color: #004225; font-weight: bold;">0.62</span> | <span style="color: #B22222; font-weight: bold;">25.75</span> |
 | **2009/12** | **-** | N/A | N/A | **17.2** | <span style="color: #006400; font-weight: bold;">0.31</span> | <span style="color: #FF7F7F; font-weight: bold;">55.48</span> |
-| **2009/11** | **-** | N/A | N/A | **15.8** | <span style="color: #228B22; font-weight: bold;">-0.41</span> | N/A |
-| **2009/10** | **-** | N/A | N/A | **16.2** | <span style="color: #32CD32; font-weight: bold;">-1.12</span> | N/A |
-| **2009/09** | **-** | N/A | N/A | **15.75** | <span style="color: #32CD32; font-weight: bold;">-1.84</span> | N/A |
-| **2009/08** | **-** | N/A | N/A | **13.5** | <span style="color: #32CD32; font-weight: bold;">-2.05</span> | N/A |
-| **2009/07** | **-** | N/A | N/A | **14.55** | <span style="color: #32CD32; font-weight: bold;">-2.27</span> | N/A |
-| **2009/06** | **-** | N/A | N/A | **11** | <span style="color: #90EE90; font-weight: bold;">-2.48</span> | N/A |
-| **2009/05** | **-** | N/A | N/A | **13** | <span style="color: #90EE90; font-weight: bold;">-2.46</span> | N/A |
-| **2009/04** | **-** | N/A | N/A | **12.4** | <span style="color: #90EE90; font-weight: bold;">-2.43</span> | N/A |
-| **2009/03** | **-** | N/A | N/A | **11.1** | <span style="color: #90EE90; font-weight: bold;">-2.41</span> | N/A |
-| **2009/02** | **-** | N/A | N/A | **7.84** | <span style="color: #32CD32; font-weight: bold;">-2.17</span> | N/A |
-| **2009/01** | **-** | N/A | N/A | **7.3** | <span style="color: #32CD32; font-weight: bold;">-1.94</span> | N/A |
-| **2008/12** | **-** | N/A | N/A | **7.43** | <span style="color: #32CD32; font-weight: bold;">-1.7</span> | N/A |
-| **2008/11** | **-** | N/A | N/A | **8.1** | <span style="color: #32CD32; font-weight: bold;">-1.07</span> | N/A |
-| **2008/10** | **-** | N/A | N/A | **9.15** | <span style="color: #228B22; font-weight: bold;">-0.44</span> | N/A |
+| **2009/11** | **-** | N/A | N/A | **15.8** | <span style="color: #228B22; font-weight: bold;">-0.41</span> | <span style="color: #000000;">-</span> |
+| **2009/10** | **-** | N/A | N/A | **16.2** | <span style="color: #32CD32; font-weight: bold;">-1.12</span> | <span style="color: #000000;">-</span> |
+| **2009/09** | **-** | N/A | N/A | **15.75** | <span style="color: #32CD32; font-weight: bold;">-1.84</span> | <span style="color: #000000;">-</span> |
+| **2009/08** | **-** | N/A | N/A | **13.5** | <span style="color: #32CD32; font-weight: bold;">-2.05</span> | <span style="color: #000000;">-</span> |
+| **2009/07** | **-** | N/A | N/A | **14.55** | <span style="color: #32CD32; font-weight: bold;">-2.27</span> | <span style="color: #000000;">-</span> |
+| **2009/06** | **-** | N/A | N/A | **11** | <span style="color: #90EE90; font-weight: bold;">-2.48</span> | <span style="color: #000000;">-</span> |
+| **2009/05** | **-** | N/A | N/A | **13** | <span style="color: #90EE90; font-weight: bold;">-2.46</span> | <span style="color: #000000;">-</span> |
+| **2009/04** | **-** | N/A | N/A | **12.4** | <span style="color: #90EE90; font-weight: bold;">-2.43</span> | <span style="color: #000000;">-</span> |
+| **2009/03** | **-** | N/A | N/A | **11.1** | <span style="color: #90EE90; font-weight: bold;">-2.41</span> | <span style="color: #000000;">-</span> |
+| **2009/02** | **-** | N/A | N/A | **7.84** | <span style="color: #32CD32; font-weight: bold;">-2.17</span> | <span style="color: #000000;">-</span> |
+| **2009/01** | **-** | N/A | N/A | **7.3** | <span style="color: #32CD32; font-weight: bold;">-1.94</span> | <span style="color: #000000;">-</span> |
+| **2008/12** | **-** | N/A | N/A | **7.43** | <span style="color: #32CD32; font-weight: bold;">-1.7</span> | <span style="color: #000000;">-</span> |
+| **2008/11** | **-** | N/A | N/A | **8.1** | <span style="color: #32CD32; font-weight: bold;">-1.07</span> | <span style="color: #000000;">-</span> |
+| **2008/10** | **-** | N/A | N/A | **9.15** | <span style="color: #228B22; font-weight: bold;">-0.44</span> | <span style="color: #000000;">-</span> |
 | **2008/09** | **-** | N/A | N/A | **10.25** | <span style="color: #006400; font-weight: bold;">0.19</span> | <span style="color: #FF7F7F; font-weight: bold;">53.95</span> |
 | **2008/08** | **-** | N/A | N/A | **13.3** | <span style="color: #004225; font-weight: bold;">0.48</span> | <span style="color: #DC143C; font-weight: bold;">27.71</span> |
 | **2008/07** | **-** | N/A | N/A | **14.3** | <span style="color: #004225; font-weight: bold;">0.77</span> | <span style="color: #8B0000; font-weight: bold;">18.57</span> |
@@ -414,7 +414,7 @@ description: 月營收表 聯電 (2303) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-10 21:51:26 CST
+- **產生時間**: 2026-03-11 01:24:05 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

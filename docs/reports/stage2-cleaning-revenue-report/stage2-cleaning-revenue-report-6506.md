@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-10
+date: 2026-03-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
     **:building_construction: 公司名稱**: 雙邦  
     **:identification_card: 股票代號**: 6506  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-10 21:51:26 CST
+    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
 
 ## :bar_chart: 績效概覽
 
@@ -105,11 +105,11 @@ description: 月營收表 雙邦 (6506) - 自動產生
 | **2024/02** | **1.34** | <span style="color: #004225; font-weight: bold;">-18.6</span> | <span style="color: #8B0000; font-weight: bold;">+0.56</span> | **17.2** | <span style="color: #228B22; font-weight: bold;">0.15</span> | <span style="color: #8B0000; font-weight: bold;">114.7</span> |
 | **2024/01** | **1.62** | <span style="color: #DC143C; font-weight: bold;">+24.9</span> | <span style="color: #DC143C; font-weight: bold;">+24.9</span> | **17.05** | <span style="color: #228B22; font-weight: bold;">0.08</span> | <span style="color: #B22222; font-weight: bold;">213.1</span> |
 | **2023/12** | **1.39** | <span style="color: #004225; font-weight: bold;">-19.2</span> | <span style="color: #006400; font-weight: bold;">-27.5</span> | **17.25** | <span style="color: #228B22; font-weight: bold;">0.01</span> | <span style="color: #FF7F7F; font-weight: bold;">1725.0</span> |
-| **2023/11** | **1.43** | <span style="color: #002818; font-weight: bold;">-5.73</span> | <span style="color: #006400; font-weight: bold;">-28.2</span> | **17.35** | <span style="color: #228B22; font-weight: bold;">-0.09</span> | N/A |
-| **2023/10** | **1.21** | <span style="color: #8B0000; font-weight: bold;">+1.59</span> | <span style="color: #006400; font-weight: bold;">-30</span> | **16.85** | <span style="color: #32CD32; font-weight: bold;">-0.2</span> | N/A |
-| **2023/09** | **1.15** | <span style="color: #006400; font-weight: bold;">-22</span> | <span style="color: #228B22; font-weight: bold;">-32.2</span> | **17.35** | <span style="color: #32CD32; font-weight: bold;">-0.3</span> | N/A |
-| **2023/08** | **1.43** | <span style="color: #004225; font-weight: bold;">-19.3</span> | <span style="color: #228B22; font-weight: bold;">-33.1</span> | **17.65** | <span style="color: #32CD32; font-weight: bold;">-0.17</span> | N/A |
-| **2023/07** | **1.12** | <span style="color: #228B22; font-weight: bold;">-38.3</span> | <span style="color: #228B22; font-weight: bold;">-34.8</span> | **18.4** | <span style="color: #228B22; font-weight: bold;">-0.05</span> | N/A |
+| **2023/11** | **1.43** | <span style="color: #002818; font-weight: bold;">-5.73</span> | <span style="color: #006400; font-weight: bold;">-28.2</span> | **17.35** | <span style="color: #228B22; font-weight: bold;">-0.09</span> | <span style="color: #000000;">-</span> |
+| **2023/10** | **1.21** | <span style="color: #8B0000; font-weight: bold;">+1.59</span> | <span style="color: #006400; font-weight: bold;">-30</span> | **16.85** | <span style="color: #32CD32; font-weight: bold;">-0.2</span> | <span style="color: #000000;">-</span> |
+| **2023/09** | **1.15** | <span style="color: #006400; font-weight: bold;">-22</span> | <span style="color: #228B22; font-weight: bold;">-32.2</span> | **17.35** | <span style="color: #32CD32; font-weight: bold;">-0.3</span> | <span style="color: #000000;">-</span> |
+| **2023/08** | **1.43** | <span style="color: #004225; font-weight: bold;">-19.3</span> | <span style="color: #228B22; font-weight: bold;">-33.1</span> | **17.65** | <span style="color: #32CD32; font-weight: bold;">-0.17</span> | <span style="color: #000000;">-</span> |
+| **2023/07** | **1.12** | <span style="color: #228B22; font-weight: bold;">-38.3</span> | <span style="color: #228B22; font-weight: bold;">-34.8</span> | **18.4** | <span style="color: #228B22; font-weight: bold;">-0.05</span> | <span style="color: #000000;">-</span> |
 | **2023/06** | **1.15** | <span style="color: #228B22; font-weight: bold;">-30.1</span> | <span style="color: #228B22; font-weight: bold;">-34.3</span> | **19.5** | <span style="color: #228B22; font-weight: bold;">0.08</span> | <span style="color: #B22222; font-weight: bold;">243.7</span> |
 | **2023/05** | **1.06** | <span style="color: #90EE90; font-weight: bold;">-52.7</span> | <span style="color: #228B22; font-weight: bold;">-35</span> | **19.5** | <span style="color: #006400; font-weight: bold;">0.34</span> | <span style="color: #8B0000; font-weight: bold;">57.35</span> |
 | **2023/04** | **1.17** | <span style="color: #90EE90; font-weight: bold;">-51.7</span> | <span style="color: #228B22; font-weight: bold;">-30.3</span> | **19.6** | <span style="color: #004225; font-weight: bold;">0.6</span> | <span style="color: #8B0000; font-weight: bold;">32.67</span> |
@@ -413,7 +413,7 @@ description: 月營收表 雙邦 (6506) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-10 21:51:26 CST
+- **產生時間**: 2026-03-11 01:24:05 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-10
+date: 2026-03-11
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 系微 (6231) - 自動產生
     **:building_construction: 公司名稱**: 系微  
     **:identification_card: 股票代號**: 6231  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-10 21:51:26 CST
+    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
 
 ## :bar_chart: 績效概覽
 
@@ -184,19 +184,19 @@ description: 月營收表 系微 (6231) - 自動產生
 | **2017/08** | **0.502** | <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #B22222; font-weight: bold;">+11.2</span> | **51.1** | <span style="color: #006400; font-weight: bold;">0.68</span> | <span style="color: #B22222; font-weight: bold;">75.15</span> |
 | **2017/07** | **0.666** | <span style="color: #8B0000; font-weight: bold;">+9.2</span> | <span style="color: #B22222; font-weight: bold;">+11</span> | **53** | <span style="color: #006400; font-weight: bold;">0.46</span> | <span style="color: #FF4500; font-weight: bold;">115.2</span> |
 | **2017/06** | **0.722** | <span style="color: #B22222; font-weight: bold;">+15.1</span> | <span style="color: #B22222; font-weight: bold;">+11.3</span> | **40** | <span style="color: #006400; font-weight: bold;">0.24</span> | <span style="color: #FF7F7F; font-weight: bold;">166.7</span> |
-| **2017/05** | **0.566** | <span style="color: #B22222; font-weight: bold;">+16.3</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **32.55** | <span style="color: #006400; font-weight: bold;">-0.02</span> | N/A |
-| **2017/04** | **0.61** | <span style="color: #8B0000; font-weight: bold;">+4.57</span> | <span style="color: #8B0000; font-weight: bold;">+9.2</span> | **32.3** | <span style="color: #006400; font-weight: bold;">-0.28</span> | N/A |
-| **2017/03** | **0.932** | <span style="color: #B22222; font-weight: bold;">+15.3</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **27** | <span style="color: #228B22; font-weight: bold;">-0.54</span> | N/A |
-| **2017/02** | **0.36** | <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #8B0000; font-weight: bold;">+6.8</span> | **25.5** | <span style="color: #228B22; font-weight: bold;">-0.69</span> | N/A |
-| **2017/01** | **0.625** | <span style="color: #8B0000; font-weight: bold;">+2.57</span> | <span style="color: #8B0000; font-weight: bold;">+2.57</span> | **23.8** | <span style="color: #228B22; font-weight: bold;">-0.84</span> | N/A |
-| **2016/12** | **0.777** | <span style="color: #004225; font-weight: bold;">-10.6</span> | <span style="color: #004225; font-weight: bold;">-13.3</span> | **24.1** | <span style="color: #228B22; font-weight: bold;">-0.99</span> | N/A |
-| **2016/11** | **0.548** | <span style="color: #8B0000; font-weight: bold;">+0.95</span> | <span style="color: #004225; font-weight: bold;">-13.6</span> | **24.65** | <span style="color: #228B22; font-weight: bold;">-1.04</span> | N/A |
-| **2016/10** | **0.654** | <span style="color: #002818; font-weight: bold;">-8.76</span> | <span style="color: #004225; font-weight: bold;">-14.7</span> | **29.3** | <span style="color: #228B22; font-weight: bold;">-1.1</span> | N/A |
-| **2016/09** | **0.738** | <span style="color: #002818; font-weight: bold;">-8.48</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **31.2** | <span style="color: #228B22; font-weight: bold;">-1.15</span> | N/A |
-| **2016/08** | **0.444** | <span style="color: #004225; font-weight: bold;">-15.1</span> | <span style="color: #004225; font-weight: bold;">-16.5</span> | **31.5** | <span style="color: #228B22; font-weight: bold;">-0.96</span> | N/A |
-| **2016/07** | **0.61** | <span style="color: #002818; font-weight: bold;">-5.12</span> | <span style="color: #004225; font-weight: bold;">-16.6</span> | **31.95** | <span style="color: #228B22; font-weight: bold;">-0.77</span> | N/A |
-| **2016/06** | **0.627** | <span style="color: #32CD32; font-weight: bold;">-42.2</span> | <span style="color: #004225; font-weight: bold;">-18.4</span> | **31.2** | <span style="color: #228B22; font-weight: bold;">-0.58</span> | N/A |
-| **2016/05** | **0.487** | <span style="color: #8B0000; font-weight: bold;">+1.8</span> | <span style="color: #004225; font-weight: bold;">-10.1</span> | **26.8** | <span style="color: #006400; font-weight: bold;">-0.19</span> | N/A |
+| **2017/05** | **0.566** | <span style="color: #B22222; font-weight: bold;">+16.3</span> | <span style="color: #B22222; font-weight: bold;">+10.4</span> | **32.55** | <span style="color: #006400; font-weight: bold;">-0.02</span> | <span style="color: #000000;">-</span> |
+| **2017/04** | **0.61** | <span style="color: #8B0000; font-weight: bold;">+4.57</span> | <span style="color: #8B0000; font-weight: bold;">+9.2</span> | **32.3** | <span style="color: #006400; font-weight: bold;">-0.28</span> | <span style="color: #000000;">-</span> |
+| **2017/03** | **0.932** | <span style="color: #B22222; font-weight: bold;">+15.3</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **27** | <span style="color: #228B22; font-weight: bold;">-0.54</span> | <span style="color: #000000;">-</span> |
+| **2017/02** | **0.36** | <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #8B0000; font-weight: bold;">+6.8</span> | **25.5** | <span style="color: #228B22; font-weight: bold;">-0.69</span> | <span style="color: #000000;">-</span> |
+| **2017/01** | **0.625** | <span style="color: #8B0000; font-weight: bold;">+2.57</span> | <span style="color: #8B0000; font-weight: bold;">+2.57</span> | **23.8** | <span style="color: #228B22; font-weight: bold;">-0.84</span> | <span style="color: #000000;">-</span> |
+| **2016/12** | **0.777** | <span style="color: #004225; font-weight: bold;">-10.6</span> | <span style="color: #004225; font-weight: bold;">-13.3</span> | **24.1** | <span style="color: #228B22; font-weight: bold;">-0.99</span> | <span style="color: #000000;">-</span> |
+| **2016/11** | **0.548** | <span style="color: #8B0000; font-weight: bold;">+0.95</span> | <span style="color: #004225; font-weight: bold;">-13.6</span> | **24.65** | <span style="color: #228B22; font-weight: bold;">-1.04</span> | <span style="color: #000000;">-</span> |
+| **2016/10** | **0.654** | <span style="color: #002818; font-weight: bold;">-8.76</span> | <span style="color: #004225; font-weight: bold;">-14.7</span> | **29.3** | <span style="color: #228B22; font-weight: bold;">-1.1</span> | <span style="color: #000000;">-</span> |
+| **2016/09** | **0.738** | <span style="color: #002818; font-weight: bold;">-8.48</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **31.2** | <span style="color: #228B22; font-weight: bold;">-1.15</span> | <span style="color: #000000;">-</span> |
+| **2016/08** | **0.444** | <span style="color: #004225; font-weight: bold;">-15.1</span> | <span style="color: #004225; font-weight: bold;">-16.5</span> | **31.5** | <span style="color: #228B22; font-weight: bold;">-0.96</span> | <span style="color: #000000;">-</span> |
+| **2016/07** | **0.61** | <span style="color: #002818; font-weight: bold;">-5.12</span> | <span style="color: #004225; font-weight: bold;">-16.6</span> | **31.95** | <span style="color: #228B22; font-weight: bold;">-0.77</span> | <span style="color: #000000;">-</span> |
+| **2016/06** | **0.627** | <span style="color: #32CD32; font-weight: bold;">-42.2</span> | <span style="color: #004225; font-weight: bold;">-18.4</span> | **31.2** | <span style="color: #228B22; font-weight: bold;">-0.58</span> | <span style="color: #000000;">-</span> |
+| **2016/05** | **0.487** | <span style="color: #8B0000; font-weight: bold;">+1.8</span> | <span style="color: #004225; font-weight: bold;">-10.1</span> | **26.8** | <span style="color: #006400; font-weight: bold;">-0.19</span> | <span style="color: #000000;">-</span> |
 | **2016/04** | **0.584** | <span style="color: #002818; font-weight: bold;">-2.97</span> | <span style="color: #004225; font-weight: bold;">-12.3</span> | **33.8** | <span style="color: #006400; font-weight: bold;">0.2</span> | <span style="color: #FF7F7F; font-weight: bold;">169.0</span> |
 | **2016/03** | **0.808** | <span style="color: #DC143C; font-weight: bold;">+21.1</span> | <span style="color: #004225; font-weight: bold;">-15</span> | **22.2** | <span style="color: #006400; font-weight: bold;">0.59</span> | <span style="color: #002818; font-weight: bold;">37.63</span> |
 | **2016/02** | **0.313** | <span style="color: #32CD32; font-weight: bold;">-41.8</span> | <span style="color: #228B22; font-weight: bold;">-32.6</span> | **24.4** | <span style="color: #006400; font-weight: bold;">0.77</span> | <span style="color: #002818; font-weight: bold;">31.55</span> |
@@ -414,7 +414,7 @@ description: 月營收表 系微 (6231) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-10 21:51:26 CST
+- **產生時間**: 2026-03-11 01:24:05 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
