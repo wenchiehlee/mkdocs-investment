@@ -24,14 +24,14 @@ description: 月營收表 銳澤 (7703) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 銳澤  
     **:identification_card: 股票代號**: 7703  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-11 05:07:15 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+15.5</span> | <span style="color: #B22222; font-weight: bold;">+15.5</span> | **29** 個月 | 2023/09 至 2026/01 |
+| <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #B22222; font-weight: bold;">+18</span> | **30** 個月 | 2023/09 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 銳澤 (7703) - 自動產生
 | **5月** | -- | 242<br/><span style="color: #FF4500;">(+31.10%)</span> | 184<br/><span style="color: #B22222;">(+10.50%)</span> | -- |
 | **4月** | -- | 208<br/><span style="color: #FF7F7F;">(+50.90%)</span> | 138<br/><span style="color: #228B22;">(-36.40%)</span> | -- |
 | **3月** | -- | 169<br/><span style="color: #B22222;">(+17.70%)</span> | 144<br/><span style="color: #002818;">(-3.63%)</span> | -- |
-| **2月** | -- | 170<br/><span style="color: #FF7F7F;">(+86.90%)</span> | 90<br/><span style="color: #90EE90;">(-51.10%)</span> | -- |
+| **2月** | 204<br/><span style="color: #DC143C;">(+20.40%)</span> | 170<br/><span style="color: #FF7F7F;">(+86.90%)</span> | 90<br/><span style="color: #90EE90;">(-51.10%)</span> | -- |
 | **1月** | 186<br/><span style="color: #B22222;">(+15.50%)</span> | 161<br/><span style="color: #8B0000;">(+7.26%)</span> | 150<br/><span style="color: #8B0000;">(+1.57%)</span> | -- |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 銳澤 (7703) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **2.04** | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #B22222; font-weight: bold;">+18</span> | **217** | <span style="color: #DC143C; font-weight: bold;">9.21</span> | <span style="color: #B22222; font-weight: bold;">23.56</span> |
 | **2026/01** | **1.86** | <span style="color: #B22222; font-weight: bold;">+15.5</span> | <span style="color: #B22222; font-weight: bold;">+15.5</span> | **206** | <span style="color: #DC143C; font-weight: bold;">9.21</span> | <span style="color: #8B0000; font-weight: bold;">22.37</span> |
 | **2025/12** | **2.28** | <span style="color: #002818; font-weight: bold;">-3.31</span> | <span style="color: #FF4500; font-weight: bold;">+31.4</span> | **232** | <span style="color: #DC143C; font-weight: bold;">9.21</span> | <span style="color: #DC143C; font-weight: bold;">25.19</span> |
 | **2025/11** | **3.06** | <span style="color: #FF6347; font-weight: bold;">+42.3</span> | <span style="color: #FF4500; font-weight: bold;">+36.2</span> | **201** | <span style="color: #DC143C; font-weight: bold;">9.21</span> | <span style="color: #8B0000; font-weight: bold;">21.82</span> |
@@ -203,7 +204,7 @@ description: 月營收表 銳澤 (7703) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-11 01:24:05 CST
+- **產生時間**: 2026-03-11 05:07:15 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -24,14 +24,14 @@ description: 月營收表 廣運 (6125) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 廣運  
     **:identification_card: 股票代號**: 6125  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-11 05:07:15 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+25</span> | <span style="color: #DC143C; font-weight: bold;">+25</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 廣運 (6125) - 自動產生
 | **5月** | -- | 197<br/><span style="color: #228B22;">(-36.20%)</span> | 308<br/><span style="color: #32CD32;">(-48.50%)</span> | 598<br/><span style="color: #FF4500;">(+30.80%)</span> | 457<br/><span style="color: #FF6347;">(+46.30%)</span> |
 | **4月** | -- | 218<br/><span style="color: #006400;">(-25.20%)</span> | 291<br/><span style="color: #32CD32;">(-43.10%)</span> | 512<br/><span style="color: #DC143C;">(+24.60%)</span> | 409<br/><span style="color: #8B0000;">(+8.17%)</span> |
 | **3月** | -- | 215<br/><span style="color: #006400;">(-21.10%)</span> | 273<br/><span style="color: #32CD32;">(-48.10%)</span> | 526<br/><span style="color: #FF4500;">(+33.10%)</span> | 395<br/><span style="color: #B22222;">(+15.30%)</span> |
-| **2月** | -- | 192<br/><span style="color: #DC143C;">(+23.50%)</span> | 155<br/><span style="color: #90EE90;">(-65.60%)</span> | 451<br/><span style="color: #B22222;">(+12.70%)</span> | 401<br/><span style="color: #B22222;">(+19.30%)</span> |
+| **2月** | 221<br/><span style="color: #B22222;">(+15.40%)</span> | 192<br/><span style="color: #DC143C;">(+23.50%)</span> | 155<br/><span style="color: #90EE90;">(-65.60%)</span> | 451<br/><span style="color: #B22222;">(+12.70%)</span> | 401<br/><span style="color: #B22222;">(+19.30%)</span> |
 | **1月** | 258<br/><span style="color: #DC143C;">(+25.00%)</span> | 206<br/><span style="color: #B22222;">(+13.80%)</span> | 182<br/><span style="color: #32CD32;">(-49.80%)</span> | 361<br/><span style="color: #002818;">(-6.34%)</span> | 386<br/><span style="color: #8B0000;">(+2.73%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 廣運 (6125) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **2.21** | <span style="color: #B22222; font-weight: bold;">+15.4</span> | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | **64.2** | <span style="color: #002818; font-weight: bold;">0.13</span> | <span style="color: #004225; font-weight: bold;">493.8</span> |
 | **2026/01** | **2.58** | <span style="color: #DC143C; font-weight: bold;">+25</span> | <span style="color: #DC143C; font-weight: bold;">+25</span> | **69.3** | <span style="color: #002818; font-weight: bold;">0.13</span> | <span style="color: #004225; font-weight: bold;">533.1</span> |
 | **2025/12** | **3.05** | <span style="color: #FF4500; font-weight: bold;">+31.1</span> | <span style="color: #DC143C; font-weight: bold;">+23.6</span> | **72.1** | <span style="color: #002818; font-weight: bold;">0.13</span> | <span style="color: #004225; font-weight: bold;">554.6</span> |
 | **2025/11** | **3.44** | <span style="color: #FF7F7F; font-weight: bold;">+71.5</span> | <span style="color: #DC143C; font-weight: bold;">+22.9</span> | **62.3** | <span style="color: #002818; font-weight: bold;">0.13</span> | <span style="color: #004225; font-weight: bold;">479.2</span> |
@@ -413,7 +414,7 @@ description: 月營收表 廣運 (6125) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-11 01:24:05 CST
+- **產生時間**: 2026-03-11 05:07:15 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

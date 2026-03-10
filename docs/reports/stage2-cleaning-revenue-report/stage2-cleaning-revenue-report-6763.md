@@ -24,14 +24,14 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 綠界科技  
     **:identification_card: 股票代號**: 6763  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-11 01:24:05 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-11 05:07:15 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+31.2</span> | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | **77** 個月 | 2019/09 至 2026/01 |
+| <span style="color: #002818; font-weight: bold;">-3.31</span> | <span style="color: #B22222; font-weight: bold;">+13.3</span> | **78** 個月 | 2019/09 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 | **5月** | -- | 138<br/><span style="color: #8B0000;">(+7.10%)</span> | 129<br/><span style="color: #002818;">(-6.06%)</span> | 138<br/><span style="color: #8B0000;">(+8.99%)</span> | 126<br/><span style="color: #8B0000;">(+3.54%)</span> |
 | **4月** | -- | 140<br/><span style="color: #8B0000;">(+9.67%)</span> | 128<br/><span style="color: #8B0000;">(+9.89%)</span> | 115<br/><span style="color: #8B0000;">(+1.50%)</span> | 114<br/><span style="color: #B22222;">(+13.20%)</span> |
 | **3月** | -- | 155<br/><span style="color: #DC143C;">(+20.30%)</span> | 129<br/><span style="color: #004225;">(-12.70%)</span> | 147<br/><span style="color: #B22222;">(+14.80%)</span> | 128<br/><span style="color: #B22222;">(+15.80%)</span> |
-| **2月** | -- | 129<br/><span style="color: #B22222;">(+15.20%)</span> | 112<br/><span style="color: #8B0000;">(+1.48%)</span> | 111<br/><span style="color: #8B0000;">(+9.10%)</span> | 101<br/><span style="color: #B22222;">(+12.20%)</span> |
+| **2月** | 125<br/><span style="color: #002818;">(-3.31%)</span> | 129<br/><span style="color: #B22222;">(+15.20%)</span> | 112<br/><span style="color: #8B0000;">(+1.48%)</span> | 111<br/><span style="color: #8B0000;">(+9.10%)</span> | 101<br/><span style="color: #B22222;">(+12.20%)</span> |
 | **1月** | 159<br/><span style="color: #FF4500;">(+31.20%)</span> | 121<br/><span style="color: #004225;">(-16.80%)</span> | 145<br/><span style="color: #B22222;">(+17.10%)</span> | 124<br/><span style="color: #002818;">(-1.89%)</span> | 127<br/><span style="color: #B22222;">(+16.20%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **1.25** | <span style="color: #002818; font-weight: bold;">-3.31</span> | <span style="color: #B22222; font-weight: bold;">+13.3</span> | **53.2** | <span style="color: #004225; font-weight: bold;">4.21</span> | <span style="color: #228B22; font-weight: bold;">12.64</span> |
 | **2026/01** | **1.59** | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | <span style="color: #FF4500; font-weight: bold;">+31.2</span> | **53** | <span style="color: #004225; font-weight: bold;">4.21</span> | <span style="color: #32CD32; font-weight: bold;">12.59</span> |
 | **2025/12** | **1.73** | <span style="color: #B22222; font-weight: bold;">+13.8</span> | <span style="color: #8B0000; font-weight: bold;">+8.83</span> | **57.5** | <span style="color: #004225; font-weight: bold;">4.21</span> | <span style="color: #228B22; font-weight: bold;">13.66</span> |
 | **2025/11** | **1.55** | <span style="color: #B22222; font-weight: bold;">+10.4</span> | <span style="color: #8B0000; font-weight: bold;">+8.31</span> | **58.7** | <span style="color: #004225; font-weight: bold;">4.26</span> | <span style="color: #228B22; font-weight: bold;">13.79</span> |
@@ -251,7 +252,7 @@ description: 月營收表 綠界科技 (6763) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-11 01:24:05 CST
+- **產生時間**: 2026-03-11 05:07:15 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
