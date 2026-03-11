@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-11
+date: 2026-03-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 愛派司 (6918) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 愛派司  
     **:identification_card: 股票代號**: 6918  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-11 21:52:59 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-12 05:07:03 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **42** 個月 | 2022/08 至 2026/01 |
+| <span style="color: #8B0000; font-weight: bold;">+6.51</span> | <span style="color: #8B0000; font-weight: bold;">+9.57</span> | **43** 個月 | 2022/08 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 愛派司 (6918) - 自動產生
 | **5月** | -- | 62<br/><span style="color: #8B0000;">(+5.69%)</span> | 58<br/><span style="color: #8B0000;">(+8.20%)</span> | 54<br/><span style="color: #DC143C;">(+21.20%)</span> | -- |
 | **4月** | -- | 75<br/><span style="color: #B22222;">(+13.50%)</span> | 66<br/><span style="color: #DC143C;">(+22.80%)</span> | 54<br/><span style="color: #FF4500;">(+36.50%)</span> | -- |
 | **3月** | -- | 63<br/><span style="color: #002818;">(-0.08%)</span> | 63<br/><span style="color: #B22222;">(+18.90%)</span> | 53<br/><span style="color: #B22222;">(+14.70%)</span> | -- |
-| **2月** | -- | 69<br/><span style="color: #FF4500;">(+30.80%)</span> | 53<br/><span style="color: #004225;">(-10.80%)</span> | 59<br/><span style="color: #FF4500;">(+39.50%)</span> | -- |
+| **2月** | 74<br/><span style="color: #8B0000;">(+6.51%)</span> | 69<br/><span style="color: #FF4500;">(+30.80%)</span> | 53<br/><span style="color: #004225;">(-10.80%)</span> | 59<br/><span style="color: #FF4500;">(+39.50%)</span> | -- |
 | **1月** | 71<br/><span style="color: #B22222;">(+13.00%)</span> | 63<br/><span style="color: #8B0000;">(+3.44%)</span> | 61<br/><span style="color: #B22222;">(+17.70%)</span> | 51<br/><span style="color: #004225;">(-15.10%)</span> | -- |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 愛派司 (6918) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **0.742** | <span style="color: #8B0000; font-weight: bold;">+6.51</span> | <span style="color: #8B0000; font-weight: bold;">+9.57</span> | **84.1** | <span style="color: #000000; font-weight: bold;">5.33</span> | <span style="color: #006400; font-weight: bold;">15.78</span> |
 | **2026/01** | **0.714** | <span style="color: #B22222; font-weight: bold;">+13</span> | <span style="color: #B22222; font-weight: bold;">+13</span> | **83.1** | <span style="color: #000000; font-weight: bold;">5.33</span> | <span style="color: #006400; font-weight: bold;">15.59</span> |
 | **2025/12** | **0.72** | <span style="color: #002818; font-weight: bold;">-1.47</span> | <span style="color: #8B0000; font-weight: bold;">+8.61</span> | **85.5** | <span style="color: #000000; font-weight: bold;">5.33</span> | <span style="color: #004225; font-weight: bold;">16.04</span> |
 | **2025/11** | **0.804** | <span style="color: #DC143C; font-weight: bold;">+25.1</span> | <span style="color: #8B0000; font-weight: bold;">+9.67</span> | **87.9** | <span style="color: #000000; font-weight: bold;">5.33</span> | <span style="color: #002818; font-weight: bold;">16.49</span> |
@@ -216,7 +217,7 @@ description: 月營收表 愛派司 (6918) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-11 21:52:59 CST
+- **產生時間**: 2026-03-12 05:07:03 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

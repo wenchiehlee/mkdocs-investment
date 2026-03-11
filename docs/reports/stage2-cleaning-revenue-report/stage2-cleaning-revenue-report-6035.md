@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-11
+date: 2026-03-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 悠遊卡 (6035) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 悠遊卡  
     **:identification_card: 股票代號**: 6035  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-11 21:52:59 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-12 05:07:03 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+13.1</span> | <span style="color: #B22222; font-weight: bold;">+13.1</span> | **44** 個月 | 2022/06 至 2026/01 |
+| <span style="color: #002818; font-weight: bold;">-3.57</span> | <span style="color: #8B0000; font-weight: bold;">+5.02</span> | **45** 個月 | 2022/06 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 悠遊卡 (6035) - 自動產生
 | **5月** | -- | 171<br/><span style="color: #B22222;">(+10.20%)</span> | 155<br/><span style="color: #DC143C;">(+25.70%)</span> | 124<br/><span style="color: #FF4500;">(+38.10%)</span> | -- |
 | **4月** | -- | 160<br/><span style="color: #8B0000;">(+1.57%)</span> | 157<br/><span style="color: #8B0000;">(+9.74%)</span> | 143<br/><span style="color: #DC143C;">(+29.90%)</span> | -- |
 | **3月** | -- | 165<br/><span style="color: #8B0000;">(+5.78%)</span> | 156<br/><span style="color: #006400;">(-23.70%)</span> | 204<br/><span style="color: #DC143C;">(+25.20%)</span> | -- |
-| **2月** | -- | 153<br/><span style="color: #8B0000;">(+0.23%)</span> | 153<br/><span style="color: #8B0000;">(+1.65%)</span> | 150<br/><span style="color: #DC143C;">(+27.50%)</span> | -- |
+| **2月** | 147<br/><span style="color: #002818;">(-3.57%)</span> | 153<br/><span style="color: #8B0000;">(+0.23%)</span> | 153<br/><span style="color: #8B0000;">(+1.65%)</span> | 150<br/><span style="color: #DC143C;">(+27.50%)</span> | -- |
 | **1月** | 184<br/><span style="color: #B22222;">(+13.10%)</span> | 163<br/><span style="color: #002818;">(-4.29%)</span> | 170<br/><span style="color: #DC143C;">(+28.40%)</span> | 132<br/><span style="color: #B22222;">(+11.80%)</span> | -- |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 悠遊卡 (6035) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **1.47** | <span style="color: #002818; font-weight: bold;">-3.57</span> | <span style="color: #8B0000; font-weight: bold;">+5.02</span> | **54.2** | N/A | <span style="color: #000000;">-</span> |
 | **2026/01** | **1.84** | <span style="color: #B22222; font-weight: bold;">+13.1</span> | <span style="color: #B22222; font-weight: bold;">+13.1</span> | **56.9** | N/A | <span style="color: #000000;">-</span> |
 | **2025/12** | **2.17** | <span style="color: #B22222; font-weight: bold;">+17.4</span> | <span style="color: #8B0000; font-weight: bold;">+0.53</span> | **59.4** | <span style="color: #DC143C; font-weight: bold;">3.33</span> | <span style="color: #228B22; font-weight: bold;">17.84</span> |
 | **2025/11** | **1.72** | <span style="color: #B22222; font-weight: bold;">+18.3</span> | <span style="color: #002818; font-weight: bold;">-1.21</span> | **64.6** | <span style="color: #DC143C; font-weight: bold;">3.33</span> | <span style="color: #006400; font-weight: bold;">19.4</span> |
@@ -218,7 +219,7 @@ description: 月營收表 悠遊卡 (6035) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-11 21:52:59 CST
+- **產生時間**: 2026-03-12 05:07:03 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

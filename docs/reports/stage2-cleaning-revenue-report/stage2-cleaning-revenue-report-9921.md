@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-11
+date: 2026-03-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 巨大 (9921) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 巨大  
     **:identification_card: 股票代號**: 9921  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-11 21:52:59 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-12 05:07:03 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #006400; font-weight: bold;">-21.6</span> | <span style="color: #006400; font-weight: bold;">-21.6</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #228B22; font-weight: bold;">-40</span> | <span style="color: #228B22; font-weight: bold;">-31.5</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 巨大 (9921) - 自動產生
 | **5月** | -- | 5,063<br/><span style="color: #006400;">(-29.30%)</span> | 7,164<br/><span style="color: #002818;">(-7.12%)</span> | 7,714<br/><span style="color: #002818;">(-3.35%)</span> | 7,981<br/><span style="color: #B22222;">(+11.00%)</span> |
 | **4月** | -- | 5,727<br/><span style="color: #004225;">(-17.10%)</span> | 6,908<br/><span style="color: #002818;">(-1.74%)</span> | 7,031<br/><span style="color: #DC143C;">(+20.30%)</span> | 5,846<br/><span style="color: #004225;">(-15.40%)</span> |
 | **3月** | -- | 6,747<br/><span style="color: #002818;">(-5.30%)</span> | 7,125<br/><span style="color: #004225;">(-17.40%)</span> | 8,622<br/><span style="color: #002818;">(-3.55%)</span> | 8,940<br/><span style="color: #8B0000;">(+6.28%)</span> |
-| **2月** | -- | 5,423<br/><span style="color: #FF4500;">(+30.90%)</span> | 4,143<br/><span style="color: #006400;">(-27.20%)</span> | 5,691<br/><span style="color: #004225;">(-14.90%)</span> | 6,688<br/><span style="color: #B22222;">(+18.90%)</span> |
+| **2月** | 3,251<br/><span style="color: #32CD32;">(-40.00%)</span> | 5,423<br/><span style="color: #FF4500;">(+30.90%)</span> | 4,143<br/><span style="color: #006400;">(-27.20%)</span> | 5,691<br/><span style="color: #004225;">(-14.90%)</span> | 6,688<br/><span style="color: #B22222;">(+18.90%)</span> |
 | **1月** | 3,675<br/><span style="color: #006400;">(-21.60%)</span> | 4,687<br/><span style="color: #002818;">(-2.24%)</span> | 4,795<br/><span style="color: #004225;">(-17.70%)</span> | 5,828<br/><span style="color: #004225;">(-12.70%)</span> | 6,678<br/><span style="color: #8B0000;">(+1.63%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 巨大 (9921) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **32.51** | <span style="color: #228B22; font-weight: bold;">-40</span> | <span style="color: #228B22; font-weight: bold;">-31.5</span> | **81.7** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | <span style="color: #000000;">-</span> |
 | **2026/01** | **36.75** | <span style="color: #006400; font-weight: bold;">-21.6</span> | <span style="color: #006400; font-weight: bold;">-21.6</span> | **89.3** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | <span style="color: #000000;">-</span> |
 | **2025/12** | **35.94** | <span style="color: #004225; font-weight: bold;">-12.5</span> | <span style="color: #004225; font-weight: bold;">-15.4</span> | **92.6** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | <span style="color: #000000;">-</span> |
 | **2025/11** | **41.44** | <span style="color: #002818; font-weight: bold;">-9.69</span> | <span style="color: #004225; font-weight: bold;">-15.6</span> | **100.5** | <span style="color: #32CD32; font-weight: bold;">0.0</span> | <span style="color: #000000;">-</span> |
@@ -413,7 +414,7 @@ description: 月營收表 巨大 (9921) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-11 21:52:59 CST
+- **產生時間**: 2026-03-12 05:07:03 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

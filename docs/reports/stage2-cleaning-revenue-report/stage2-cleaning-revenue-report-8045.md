@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-11
+date: 2026-03-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 達運光電 (8045) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 達運光電  
     **:identification_card: 股票代號**: 8045  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-11 21:52:59 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-12 05:07:03 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | **236** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.7</span> | **237** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 達運光電 (8045) - 自動產生
 | **5月** | -- | 104<br/><span style="color: #228B22;">(-37.10%)</span> | 165<br/><span style="color: #002818;">(-5.09%)</span> | 174<br/><span style="color: #FF7F7F;">(+123.40%)</span> | 78<br/><span style="color: #B22222;">(+10.20%)</span> |
 | **4月** | -- | 119<br/><span style="color: #DC143C;">(+25.50%)</span> | 95<br/><span style="color: #8B0000;">(+0.01%)</span> | 95<br/><span style="color: #DC143C;">(+25.80%)</span> | 75<br/><span style="color: #002818;">(-0.63%)</span> |
 | **3月** | -- | 135<br/><span style="color: #8B0000;">(+9.05%)</span> | 124<br/><span style="color: #FF7F7F;">(+137.60%)</span> | 52<br/><span style="color: #32CD32;">(-49.20%)</span> | 103<br/><span style="color: #004225;">(-17.30%)</span> |
-| **2月** | -- | 107<br/><span style="color: #006400;">(-29.70%)</span> | 152<br/><span style="color: #FF7F7F;">(+233.30%)</span> | 45<br/><span style="color: #32CD32;">(-41.70%)</span> | 78<br/><span style="color: #8B0000;">(+4.98%)</span> |
+| **2月** | 119<br/><span style="color: #B22222;">(+11.30%)</span> | 107<br/><span style="color: #006400;">(-29.70%)</span> | 152<br/><span style="color: #FF7F7F;">(+233.30%)</span> | 45<br/><span style="color: #32CD32;">(-41.70%)</span> | 78<br/><span style="color: #8B0000;">(+4.98%)</span> |
 | **1月** | 162<br/><span style="color: #FF7F7F;">(+134.90%)</span> | 68<br/><span style="color: #90EE90;">(-75.20%)</span> | 278<br/><span style="color: #FF7F7F;">(+651.60%)</span> | 37<br/><span style="color: #32CD32;">(-44.00%)</span> | 66<br/><span style="color: #32CD32;">(-49.10%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 達運光電 (8045) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **1.19** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+59.7</span> | **81** | <span style="color: #004225; font-weight: bold;">0.79</span> | <span style="color: #002818; font-weight: bold;">102.5</span> |
 | **2026/01** | **1.62** | <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | <span style="color: #FF7F7F; font-weight: bold;">+134.9</span> | **82.8** | <span style="color: #004225; font-weight: bold;">0.79</span> | <span style="color: #002818; font-weight: bold;">104.8</span> |
 | **2025/12** | **1.06** | <span style="color: #002818; font-weight: bold;">-3.07</span> | <span style="color: #228B22; font-weight: bold;">-30.3</span> | **76.4** | <span style="color: #004225; font-weight: bold;">0.79</span> | <span style="color: #004225; font-weight: bold;">96.71</span> |
 | **2025/11** | **0.481** | <span style="color: #90EE90; font-weight: bold;">-52.8</span> | <span style="color: #228B22; font-weight: bold;">-32.1</span> | **77.9** | <span style="color: #004225; font-weight: bold;">0.79</span> | <span style="color: #002818; font-weight: bold;">98.61</span> |
@@ -410,7 +411,7 @@ description: 月營收表 達運光電 (8045) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-11 21:52:59 CST
+- **產生時間**: 2026-03-12 05:07:03 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

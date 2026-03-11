@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-11
+date: 2026-03-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 祥碩 (5269) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 祥碩  
     **:identification_card: 股票代號**: 5269  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-11 21:52:59 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-12 05:07:03 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | **170** 個月 | 2011/12 至 2026/01 |
+| <span style="color: #B22222; font-weight: bold;">+17.6</span> | <span style="color: #FF4500; font-weight: bold;">+39.1</span> | **171** 個月 | 2011/12 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
 | **5月** | -- | 1,112<br/><span style="color: #FF4500;">(+38.50%)</span> | 802<br/><span style="color: #FF7F7F;">(+82.40%)</span> | 440<br/><span style="color: #002818;">(-4.63%)</span> | 462<br/><span style="color: #002818;">(-7.14%)</span> |
 | **4月** | -- | 1,163<br/><span style="color: #FF7F7F;">(+62.20%)</span> | 717<br/><span style="color: #DC143C;">(+26.60%)</span> | 566<br/><span style="color: #FF4500;">(+31.10%)</span> | 432<br/><span style="color: #002818;">(-2.93%)</span> |
 | **3月** | -- | 900<br/><span style="color: #B22222;">(+15.80%)</span> | 777<br/><span style="color: #B22222;">(+17.00%)</span> | 664<br/><span style="color: #FF4500;">(+37.50%)</span> | 483<br/><span style="color: #002818;">(-5.05%)</span> |
-| **2月** | -- | 759<br/><span style="color: #FF7F7F;">(+56.90%)</span> | 484<br/><span style="color: #DC143C;">(+25.40%)</span> | 386<br/><span style="color: #002818;">(-4.04%)</span> | 401<br/><span style="color: #002818;">(-1.01%)</span> |
+| **2月** | 893<br/><span style="color: #B22222;">(+17.60%)</span> | 759<br/><span style="color: #FF7F7F;">(+56.90%)</span> | 484<br/><span style="color: #DC143C;">(+25.40%)</span> | 386<br/><span style="color: #002818;">(-4.04%)</span> | 401<br/><span style="color: #002818;">(-1.01%)</span> |
 | **1月** | 1,347<br/><span style="color: #FF7F7F;">(+58.30%)</span> | 851<br/><span style="color: #DC143C;">(+23.70%)</span> | 688<br/><span style="color: #FF7F7F;">(+96.90%)</span> | 349<br/><span style="color: #228B22;">(-39.60%)</span> | 579<br/><span style="color: #004225;">(-13.00%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **8.93** | <span style="color: #B22222; font-weight: bold;">+17.6</span> | <span style="color: #FF4500; font-weight: bold;">+39.1</span> | **1315** | <span style="color: #FF6347; font-weight: bold;">72.7</span> | <span style="color: #228B22; font-weight: bold;">18.09</span> |
 | **2026/01** | **13.47** | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | <span style="color: #FF7F7F; font-weight: bold;">+58.3</span> | **1290** | <span style="color: #FF6347; font-weight: bold;">72.7</span> | <span style="color: #228B22; font-weight: bold;">17.74</span> |
 | **2025/12** | **11.43** | <span style="color: #FF7F7F; font-weight: bold;">+79.7</span> | <span style="color: #FF7F7F; font-weight: bold;">+66</span> | **1210** | <span style="color: #FF6347; font-weight: bold;">72.7</span> | <span style="color: #228B22; font-weight: bold;">16.64</span> |
 | **2025/11** | **11.86** | <span style="color: #FF7F7F; font-weight: bold;">+85.2</span> | <span style="color: #FF7F7F; font-weight: bold;">+64.8</span> | **1295** | <span style="color: #FF4500; font-weight: bold;">70.19</span> | <span style="color: #228B22; font-weight: bold;">18.45</span> |
@@ -344,7 +345,7 @@ description: 月營收表 祥碩 (5269) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-11 21:52:59 CST
+- **產生時間**: 2026-03-12 05:07:03 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

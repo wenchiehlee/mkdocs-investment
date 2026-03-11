@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-11
+date: 2026-03-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 和碩 (4938) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 和碩  
     **:identification_card: 股票代號**: 4938  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-11 21:52:59 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-12 05:07:03 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #004225; font-weight: bold;">-12.5</span> | <span style="color: #004225; font-weight: bold;">-12.5</span> | **191** 個月 | 2010/03 至 2026/01 |
+| <span style="color: #004225; font-weight: bold;">-17.6</span> | <span style="color: #004225; font-weight: bold;">-14.7</span> | **192** 個月 | 2010/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 和碩 (4938) - 自動產生
 | **5月** | -- | 85,690<br/><span style="color: #002818;">(-7.96%)</span> | 93,100<br/><span style="color: #8B0000;">(+2.73%)</span> | 90,620<br/><span style="color: #002818;">(-3.24%)</span> | 93,670<br/><span style="color: #8B0000;">(+3.70%)</span> |
 | **4月** | -- | 102,900<br/><span style="color: #B22222;">(+14.70%)</span> | 89,680<br/><span style="color: #004225;">(-16.50%)</span> | 107,400<br/><span style="color: #FF6347;">(+43.10%)</span> | 75,060<br/><span style="color: #004225;">(-19.30%)</span> |
 | **3月** | -- | 84,630<br/><span style="color: #B22222;">(+13.20%)</span> | 74,750<br/><span style="color: #006400;">(-26.20%)</span> | 101,300<br/><span style="color: #004225;">(-12.40%)</span> | 115,600<br/><span style="color: #FF6347;">(+43.70%)</span> |
-| **2月** | -- | 82,480<br/><span style="color: #DC143C;">(+24.40%)</span> | 66,300<br/><span style="color: #006400;">(-28.10%)</span> | 92,260<br/><span style="color: #8B0000;">(+8.37%)</span> | 85,120<br/><span style="color: #FF7F7F;">(+58.30%)</span> |
+| **2月** | 67,980<br/><span style="color: #004225;">(-17.60%)</span> | 82,480<br/><span style="color: #DC143C;">(+24.40%)</span> | 66,300<br/><span style="color: #006400;">(-28.10%)</span> | 92,260<br/><span style="color: #8B0000;">(+8.37%)</span> | 85,120<br/><span style="color: #FF7F7F;">(+58.30%)</span> |
 | **1月** | 92,160<br/><span style="color: #004225;">(-12.50%)</span> | 105,300<br/><span style="color: #002818;">(-3.68%)</span> | 109,400<br/><span style="color: #004225;">(-12.20%)</span> | 124,600<br/><span style="color: #8B0000;">(+1.19%)</span> | 123,100<br/><span style="color: #FF6347;">(+49.40%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 和碩 (4938) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **679.8** | <span style="color: #004225; font-weight: bold;">-17.6</span> | <span style="color: #004225; font-weight: bold;">-14.7</span> | **73.5** | <span style="color: #002818; font-weight: bold;">4.82</span> | <span style="color: #004225; font-weight: bold;">15.25</span> |
 | **2026/01** | **921.6** | <span style="color: #004225; font-weight: bold;">-12.5</span> | <span style="color: #004225; font-weight: bold;">-12.5</span> | **69.7** | <span style="color: #002818; font-weight: bold;">4.82</span> | <span style="color: #004225; font-weight: bold;">14.46</span> |
 | **2025/12** | **998.9** | <span style="color: #002818; font-weight: bold;">-2.49</span> | <span style="color: #002818; font-weight: bold;">-0.72</span> | **68.6** | <span style="color: #002818; font-weight: bold;">4.82</span> | <span style="color: #004225; font-weight: bold;">14.23</span> |
 | **2025/11** | **1018** | <span style="color: #002818; font-weight: bold;">-3.74</span> | <span style="color: #002818; font-weight: bold;">-0.55</span> | **72.1** | <span style="color: #002818; font-weight: bold;">4.82</span> | <span style="color: #004225; font-weight: bold;">14.96</span> |
@@ -365,7 +366,7 @@ description: 月營收表 和碩 (4938) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-11 21:52:59 CST
+- **產生時間**: 2026-03-12 05:07:03 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

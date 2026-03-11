@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-11
+date: 2026-03-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 友訊 (2332) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 友訊  
     **:identification_card: 股票代號**: 2332  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-11 21:52:59 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-12 05:07:03 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+5.68</span> | <span style="color: #8B0000; font-weight: bold;">+5.68</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #002818; font-weight: bold;">-1.36</span> | <span style="color: #8B0000; font-weight: bold;">+2.04</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 | **5月** | -- | 1,051<br/><span style="color: #002818;">(-8.84%)</span> | 1,153<br/><span style="color: #004225;">(-15.90%)</span> | 1,372<br/><span style="color: #002818;">(-1.24%)</span> | 1,389<br/><span style="color: #FF6347;">(+44.20%)</span> |
 | **4月** | -- | 1,017<br/><span style="color: #004225;">(-16.90%)</span> | 1,224<br/><span style="color: #004225;">(-12.50%)</span> | 1,398<br/><span style="color: #8B0000;">(+8.10%)</span> | 1,294<br/><span style="color: #B22222;">(+12.00%)</span> |
 | **3月** | -- | 1,155<br/><span style="color: #004225;">(-10.60%)</span> | 1,291<br/><span style="color: #004225;">(-14.00%)</span> | 1,501<br/><span style="color: #002818;">(-2.72%)</span> | 1,543<br/><span style="color: #B22222;">(+12.00%)</span> |
-| **2月** | -- | 1,128<br/><span style="color: #8B0000;">(+0.44%)</span> | 1,123<br/><span style="color: #004225;">(-14.90%)</span> | 1,320<br/><span style="color: #8B0000;">(+3.01%)</span> | 1,281<br/><span style="color: #8B0000;">(+1.71%)</span> |
+| **2月** | 1,112<br/><span style="color: #002818;">(-1.36%)</span> | 1,128<br/><span style="color: #8B0000;">(+0.44%)</span> | 1,123<br/><span style="color: #004225;">(-14.90%)</span> | 1,320<br/><span style="color: #8B0000;">(+3.01%)</span> | 1,281<br/><span style="color: #8B0000;">(+1.71%)</span> |
 | **1月** | 1,114<br/><span style="color: #8B0000;">(+5.68%)</span> | 1,054<br/><span style="color: #002818;">(-8.30%)</span> | 1,149<br/><span style="color: #004225;">(-19.90%)</span> | 1,435<br/><span style="color: #DC143C;">(+20.50%)</span> | 1,190<br/><span style="color: #002818;">(-5.56%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **11.12** | <span style="color: #002818; font-weight: bold;">-1.36</span> | <span style="color: #8B0000; font-weight: bold;">+2.04</span> | **15.75** | <span style="color: #004225; font-weight: bold;">-0.66</span> | <span style="color: #000000;">-</span> |
 | **2026/01** | **11.14** | <span style="color: #8B0000; font-weight: bold;">+5.68</span> | <span style="color: #8B0000; font-weight: bold;">+5.68</span> | **15.8** | <span style="color: #004225; font-weight: bold;">-0.66</span> | <span style="color: #000000;">-</span> |
 | **2025/12** | **12** | <span style="color: #8B0000; font-weight: bold;">+4.1</span> | <span style="color: #002818; font-weight: bold;">-7.13</span> | **15.05** | <span style="color: #004225; font-weight: bold;">-0.66</span> | <span style="color: #000000;">-</span> |
 | **2025/11** | **10.94** | <span style="color: #002818; font-weight: bold;">-5.86</span> | <span style="color: #002818; font-weight: bold;">-8.11</span> | **15.9** | <span style="color: #004225; font-weight: bold;">-0.66</span> | <span style="color: #000000;">-</span> |
@@ -413,7 +414,7 @@ description: 月營收表 友訊 (2332) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-11 21:52:59 CST
+- **產生時間**: 2026-03-12 05:07:03 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

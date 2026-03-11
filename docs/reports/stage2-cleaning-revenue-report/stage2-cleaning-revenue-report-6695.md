@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-11
+date: 2026-03-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 芯鼎 (6695) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 芯鼎  
     **:identification_card: 股票代號**: 6695  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-11 21:52:59 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-12 05:07:03 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+28.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **91** 個月 | 2018/07 至 2026/01 |
+| <span style="color: #002818; font-weight: bold;">-6.26</span> | <span style="color: #B22222; font-weight: bold;">+10.1</span> | **92** 個月 | 2018/07 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 芯鼎 (6695) - 自動產生
 | **5月** | -- | 103<br/><span style="color: #FF6347;">(+42.50%)</span> | 72<br/><span style="color: #006400;">(-24.40%)</span> | 95<br/><span style="color: #006400;">(-23.60%)</span> | 125<br/><span style="color: #B22222;">(+11.10%)</span> |
 | **4月** | -- | 102<br/><span style="color: #FF6347;">(+40.40%)</span> | 72<br/><span style="color: #228B22;">(-34.20%)</span> | 110<br/><span style="color: #002818;">(-1.11%)</span> | 111<br/><span style="color: #B22222;">(+10.70%)</span> |
 | **3月** | -- | 91<br/><span style="color: #DC143C;">(+26.30%)</span> | 72<br/><span style="color: #006400;">(-28.60%)</span> | 102<br/><span style="color: #002818;">(-2.48%)</span> | 104<br/><span style="color: #DC143C;">(+25.00%)</span> |
-| **2月** | -- | 80<br/><span style="color: #FF4500;">(+32.20%)</span> | 60<br/><span style="color: #006400;">(-20.40%)</span> | 76<br/><span style="color: #002818;">(-5.00%)</span> | 80<br/><span style="color: #DC143C;">(+22.00%)</span> |
+| **2月** | 75<br/><span style="color: #002818;">(-6.26%)</span> | 80<br/><span style="color: #FF4500;">(+32.20%)</span> | 60<br/><span style="color: #006400;">(-20.40%)</span> | 76<br/><span style="color: #002818;">(-5.00%)</span> | 80<br/><span style="color: #DC143C;">(+22.00%)</span> |
 | **1月** | 90<br/><span style="color: #DC143C;">(+28.80%)</span> | 70<br/><span style="color: #004225;">(-14.40%)</span> | 81<br/><span style="color: #DC143C;">(+25.00%)</span> | 65<br/><span style="color: #004225;">(-16.30%)</span> | 78<br/><span style="color: #B22222;">(+10.90%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 芯鼎 (6695) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **0.753** | <span style="color: #002818; font-weight: bold;">-6.26</span> | <span style="color: #B22222; font-weight: bold;">+10.1</span> | **43.15** | <span style="color: #006400; font-weight: bold;">-1.35</span> | <span style="color: #000000;">-</span> |
 | **2026/01** | **0.902** | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | <span style="color: #DC143C; font-weight: bold;">+28.8</span> | **42.75** | <span style="color: #006400; font-weight: bold;">-1.35</span> | <span style="color: #000000;">-</span> |
 | **2025/12** | **0.932** | <span style="color: #006400; font-weight: bold;">-22.1</span> | <span style="color: #B22222; font-weight: bold;">+10.5</span> | **45.4** | <span style="color: #006400; font-weight: bold;">-1.35</span> | <span style="color: #000000;">-</span> |
 | **2025/11** | **1.09** | <span style="color: #B22222; font-weight: bold;">+12.9</span> | <span style="color: #B22222; font-weight: bold;">+14.8</span> | **44.35** | <span style="color: #006400; font-weight: bold;">-1.35</span> | <span style="color: #000000;">-</span> |
@@ -265,7 +266,7 @@ description: 月營收表 芯鼎 (6695) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-11 21:52:59 CST
+- **產生時間**: 2026-03-12 05:07:03 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

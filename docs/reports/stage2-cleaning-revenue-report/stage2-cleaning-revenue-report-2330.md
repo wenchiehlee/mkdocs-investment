@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-11
+date: 2026-03-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 台積電 (2330) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 台積電  
     **:identification_card: 股票代號**: 2330  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-11 21:52:59 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-12 05:07:03 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #FF4500; font-weight: bold;">+36.8</span> | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #DC143C; font-weight: bold;">+22.2</span> | <span style="color: #DC143C; font-weight: bold;">+29.9</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 台積電 (2330) - 自動產生
 | **5月** | -- | 320,500<br/><span style="color: #FF4500;">(+39.60%)</span> | 229,600<br/><span style="color: #FF4500;">(+30.10%)</span> | 176,500<br/><span style="color: #002818;">(-4.93%)</span> | 185,700<br/><span style="color: #FF7F7F;">(+65.30%)</span> |
 | **4月** | -- | 349,600<br/><span style="color: #FF6347;">(+48.10%)</span> | 236,000<br/><span style="color: #FF7F7F;">(+59.60%)</span> | 147,900<br/><span style="color: #004225;">(-14.30%)</span> | 172,600<br/><span style="color: #FF7F7F;">(+55.00%)</span> |
 | **3月** | -- | 286,000<br/><span style="color: #FF6347;">(+46.50%)</span> | 195,200<br/><span style="color: #FF4500;">(+34.20%)</span> | 145,400<br/><span style="color: #004225;">(-15.40%)</span> | 172,000<br/><span style="color: #FF4500;">(+33.20%)</span> |
-| **2月** | -- | 260,000<br/><span style="color: #FF6347;">(+43.10%)</span> | 181,600<br/><span style="color: #B22222;">(+11.30%)</span> | 163,200<br/><span style="color: #B22222;">(+11.00%)</span> | 146,900<br/><span style="color: #FF4500;">(+37.90%)</span> |
+| **2月** | 317,700<br/><span style="color: #DC143C;">(+22.20%)</span> | 260,000<br/><span style="color: #FF6347;">(+43.10%)</span> | 181,600<br/><span style="color: #B22222;">(+11.30%)</span> | 163,200<br/><span style="color: #B22222;">(+11.00%)</span> | 146,900<br/><span style="color: #FF4500;">(+37.90%)</span> |
 | **1月** | 401,300<br/><span style="color: #FF4500;">(+36.80%)</span> | 293,300<br/><span style="color: #FF4500;">(+35.90%)</span> | 215,800<br/><span style="color: #8B0000;">(+7.86%)</span> | 200,100<br/><span style="color: #B22222;">(+16.20%)</span> | 172,200<br/><span style="color: #FF4500;">(+35.80%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 台積電 (2330) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **3177** | <span style="color: #DC143C; font-weight: bold;">+22.2</span> | <span style="color: #DC143C; font-weight: bold;">+29.9</span> | **1995** | <span style="color: #FF6347; font-weight: bold;">66.26</span> | <span style="color: #FF6347; font-weight: bold;">30.11</span> |
 | **2026/01** | **4013** | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | <span style="color: #FF4500; font-weight: bold;">+36.8</span> | **1775** | <span style="color: #FF6347; font-weight: bold;">66.26</span> | <span style="color: #FF4500; font-weight: bold;">26.79</span> |
 | **2025/12** | **3350** | <span style="color: #DC143C; font-weight: bold;">+20.4</span> | <span style="color: #FF4500; font-weight: bold;">+31.6</span> | **1550** | <span style="color: #FF6347; font-weight: bold;">66.26</span> | <span style="color: #DC143C; font-weight: bold;">23.39</span> |
 | **2025/11** | **3436** | <span style="color: #DC143C; font-weight: bold;">+24.5</span> | <span style="color: #FF4500; font-weight: bold;">+32.8</span> | **1440** | <span style="color: #FF6347; font-weight: bold;">64.57</span> | <span style="color: #B22222; font-weight: bold;">22.3</span> |
@@ -413,7 +414,7 @@ description: 月營收表 台積電 (2330) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-11 21:52:59 CST
+- **產生時間**: 2026-03-12 05:07:03 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

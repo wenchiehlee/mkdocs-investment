@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-11
+date: 2026-03-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 所羅門 (2359) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 所羅門  
     **:identification_card: 股票代號**: 2359  
-    **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-11 21:52:59 CST
+    **:calendar: 最新資料**: 2026/02  
+    **:clock3: 更新時間**: 2026-03-12 05:07:03 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #B22222; font-weight: bold;">+12.7</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **239** 個月 | 2006/03 至 2026/01 |
+| <span style="color: #228B22; font-weight: bold;">-38.5</span> | <span style="color: #004225; font-weight: bold;">-15.5</span> | **240** 個月 | 2006/03 至 2026/02 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -53,7 +53,7 @@ description: 月營收表 所羅門 (2359) - 自動產生
 | **5月** | -- | 315<br/><span style="color: #DC143C;">(+20.30%)</span> | 262<br/><span style="color: #228B22;">(-39.10%)</span> | 430<br/><span style="color: #004225;">(-14.20%)</span> | 501<br/><span style="color: #FF6347;">(+44.60%)</span> |
 | **4月** | -- | 296<br/><span style="color: #8B0000;">(+9.62%)</span> | 270<br/><span style="color: #006400;">(-20.20%)</span> | 338<br/><span style="color: #228B22;">(-37.90%)</span> | 544<br/><span style="color: #FF7F7F;">(+64.70%)</span> |
 | **3月** | -- | 500<br/><span style="color: #FF7F7F;">(+57.70%)</span> | 317<br/><span style="color: #006400;">(-28.20%)</span> | 442<br/><span style="color: #8B0000;">(+6.27%)</span> | 416<br/><span style="color: #B22222;">(+10.80%)</span> |
-| **2月** | -- | 393<br/><span style="color: #FF6347;">(+42.60%)</span> | 276<br/><span style="color: #B22222;">(+10.00%)</span> | 250<br/><span style="color: #32CD32;">(-47.60%)</span> | 478<br/><span style="color: #FF7F7F;">(+106.80%)</span> |
+| **2月** | 242<br/><span style="color: #228B22;">(-38.50%)</span> | 393<br/><span style="color: #FF6347;">(+42.60%)</span> | 276<br/><span style="color: #B22222;">(+10.00%)</span> | 250<br/><span style="color: #32CD32;">(-47.60%)</span> | 478<br/><span style="color: #FF7F7F;">(+106.80%)</span> |
 | **1月** | 362<br/><span style="color: #B22222;">(+12.70%)</span> | 322<br/><span style="color: #FF7F7F;">(+62.60%)</span> | 198<br/><span style="color: #006400;">(-23.10%)</span> | 257<br/><span style="color: #32CD32;">(-42.40%)</span> | 447<br/><span style="color: #DC143C;">(+27.10%)</span> |
 
 
@@ -79,6 +79,7 @@ description: 月營收表 所羅門 (2359) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/02** | **2.42** | <span style="color: #228B22; font-weight: bold;">-38.5</span> | <span style="color: #004225; font-weight: bold;">-15.5</span> | **132.5** | <span style="color: #002818; font-weight: bold;">0.97</span> | <span style="color: #8B0000; font-weight: bold;">136.6</span> |
 | **2026/01** | **3.62** | <span style="color: #B22222; font-weight: bold;">+12.7</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **132** | <span style="color: #002818; font-weight: bold;">0.97</span> | <span style="color: #8B0000; font-weight: bold;">136.1</span> |
 | **2025/12** | **3.3** | <span style="color: #B22222; font-weight: bold;">+17.9</span> | <span style="color: #DC143C; font-weight: bold;">+21.7</span> | **125.5** | <span style="color: #002818; font-weight: bold;">0.97</span> | <span style="color: #8B0000; font-weight: bold;">129.4</span> |
 | **2025/11** | **3.49** | <span style="color: #004225; font-weight: bold;">-10.4</span> | <span style="color: #DC143C; font-weight: bold;">+22</span> | **133.5** | <span style="color: #002818; font-weight: bold;">0.97</span> | <span style="color: #8B0000; font-weight: bold;">137.6</span> |
@@ -413,7 +414,7 @@ description: 月營收表 所羅門 (2359) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-11 21:52:59 CST
+- **產生時間**: 2026-03-12 05:07:03 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
