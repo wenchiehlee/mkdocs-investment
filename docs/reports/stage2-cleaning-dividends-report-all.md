@@ -12,7 +12,7 @@ tags:
 title: 股利分配總覽 - 所有股票
 comments: false
 draft: false
-description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動產生
+description: 股利分配總覽 - 所有 126 檔股票 (有效 121 檔) - 自動產生
 ---
 
 <style>
@@ -24,8 +24,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 # :bar_chart: 股利分配總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-03-11 19:18:24 CST  
-    **:building_construction: 分析股票總數**: 126 檔 (有效 116 檔)  
+    **:calendar: 產生時間**: 2026-03-11 21:55:34 CST  
+    **:building_construction: 分析股票總數**: 126 檔 (有效 121 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_dividends.csv + cleaned_performance1.csv
 
@@ -35,8 +35,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 
 | :chart: 指標 | :bar_chart: 平均值 | :1234: 中位數 | :trophy: 最佳股票 | :warning: 最弱股票 |
 |:--------:|:-------------:|:--------:|:-----------:|:------------:|
-| **現金殖利率 (5年平均)** | 3.89% | 3.77% | [**2603**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2603/): 17.98% | [**2646**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2646/): 0.00% |
-| **穩定性評分** | 5.9/10 | 6.0/10 | [**2317**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2317/): 8.0/10 | [**2405**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2405/): 0.0/10 |
+| **現金殖利率 (5年平均)** | 3.83% | 3.75% | [**2603**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2603/): 17.98% | [**2646**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2646/): 0.00% |
+| **穩定性評分** | 5.8/10 | 6.0/10 | [**2317**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2317/): 8.0/10 | [**2405**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2405/): 0.0/10 |
 
 ---
 
@@ -97,8 +97,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 4.61</td>
 <td>🔼 4.65</td>
 <td>🔼 4.50</td>
-<td>1.94%</td>
-<td>03/10 11:40</td>
+<td>1.89%</td>
+<td>03/11 11:18</td>
 <td>2.05%</td>
 <td>1.50%</td>
 <td>45%</td>
@@ -111,8 +111,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 2.25</td>
 <td>🔽 2.21</td>
 <td>🔽 2.25</td>
-<td>4.30%</td>
-<td>03/10 11:46</td>
+<td>4.18%</td>
+<td>03/11 11:24</td>
 <td>5.41%</td>
 <td>3.26%</td>
 <td>78%</td>
@@ -125,8 +125,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 13.02</td>
 <td>🔼 13.11</td>
 <td>🔼 13.54</td>
-<td>0.90%</td>
-<td>03/10 11:23</td>
+<td>0.83%</td>
+<td>03/11 11:01</td>
 <td>1.20%</td>
 <td>0.78%</td>
 <td>50%</td>
@@ -140,7 +140,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 7.22</td>
 <td>🔼 7.39</td>
 <td>2.52%</td>
-<td>03/10 11:23</td>
+<td>03/11 11:01</td>
 <td>5.16%</td>
 <td>2.19%</td>
 <td>53%</td>
@@ -153,8 +153,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 1.07</td>
 <td>🔼 1.12</td>
 <td>🔼 2.06</td>
-<td>3.46%</td>
-<td>03/10 11:24</td>
+<td>3.40%</td>
+<td>03/11 11:02</td>
 <td>3.77%</td>
 <td>3.13%</td>
 <td>104%</td>
@@ -167,8 +167,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 23.95</td>
 <td>🔼 24.33</td>
 <td>🔼 26.73</td>
-<td>0.65%</td>
-<td>03/10 11:24</td>
+<td>0.62%</td>
+<td>03/11 11:02</td>
 <td>0.78%</td>
 <td>0.59%</td>
 <td>18%</td>
@@ -177,16 +177,16 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <tr>
 <td>[**2332**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2332/)</td>
 <td>友訊</td>
-<td>0.10</td>
+<td>0.00</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>0.66%</td>
-<td>03/10 12:03</td>
-<td>0.71%</td>
-<td>0.39%</td>
-<td>167%</td>
-<td>🔴 4.5</td>
+<td>0.00%</td>
+<td>03/11 11:40</td>
+<td>0.00%</td>
+<td>0.00%</td>
+<td>-</td>
+<td>🔴 5.0</td>
 </tr>
 <tr>
 <td>[**2345**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2345/)</td>
@@ -196,7 +196,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 24.78</td>
 <td>-</td>
 <td>0.93%</td>
-<td>03/10 12:16</td>
+<td>03/11 11:53</td>
 <td>2.56%</td>
 <td>0.89%</td>
 <td>51%</td>
@@ -205,16 +205,16 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <tr>
 <td>[**2347**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2347/)</td>
 <td>聯強</td>
-<td>4.00</td>
-<td>🔽 2.78</td>
-<td>🔽 3.05</td>
+<td>4.20</td>
+<td>🔽 3.30</td>
+<td>🔽 3.62</td>
 <td>-</td>
-<td>6.91%</td>
-<td>03/10 11:25</td>
-<td>7.33%</td>
-<td>5.25%</td>
-<td>72%</td>
-<td>🟢 8.0</td>
+<td>6.12%</td>
+<td>03/11 11:03</td>
+<td>7.28%</td>
+<td>5.84%</td>
+<td>122%</td>
+<td>🟡 7.0</td>
 </tr>
 <tr>
 <td>[**2353**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2353/)</td>
@@ -224,7 +224,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 1.15</td>
 <td>-</td>
 <td>6.44%</td>
-<td>03/10 11:48</td>
+<td>03/11 11:26</td>
 <td>6.80%</td>
 <td>4.15%</td>
 <td>92%</td>
@@ -238,7 +238,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 1.23</td>
 <td>-</td>
 <td>2.27%</td>
-<td>03/10 11:25</td>
+<td>03/11 11:03</td>
 <td>2.99%</td>
 <td>1.75%</td>
 <td>55%</td>
@@ -247,30 +247,30 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <tr>
 <td>[**2356**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2356/)</td>
 <td>英業達</td>
-<td>1.70</td>
-<td>🔼 1.96</td>
-<td>🔼 2.12</td>
-<td>🔼 2.03</td>
-<td>3.96%</td>
-<td>03/10 11:25</td>
-<td>5.11%</td>
-<td>3.17%</td>
-<td>84%</td>
+<td>2.00</td>
+<td>🔼 2.05</td>
+<td>🔼 2.22</td>
+<td>🔼 2.14</td>
+<td>4.65%</td>
+<td>03/11 11:04</td>
+<td>5.19%</td>
+<td>3.64%</td>
+<td>109%</td>
 <td>🔴 5.5</td>
 </tr>
 <tr>
 <td>[**2357**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2357/)</td>
 <td>華碩</td>
-<td>34.00</td>
-<td>🔼 39.94</td>
-<td>🔼 35.44</td>
-<td>🔼 40.62</td>
-<td>6.20%</td>
-<td>03/10 11:26</td>
-<td>7.71%</td>
-<td>4.56%</td>
-<td>80%</td>
-<td>🟡 6.0</td>
+<td>42.00</td>
+<td>🔼 42.20</td>
+<td>🔽 37.44</td>
+<td>🔼 42.92</td>
+<td>7.19%</td>
+<td>03/11 11:04</td>
+<td>8.57%</td>
+<td>7.19%</td>
+<td>94%</td>
+<td>🔴 5.5</td>
 </tr>
 <tr>
 <td>[**2359**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2359/)</td>
@@ -280,7 +280,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 0.56</td>
 <td>-</td>
 <td>0.00%</td>
-<td>03/10 12:04</td>
+<td>03/11 11:41</td>
 <td>0.00%</td>
 <td>0.00%</td>
 <td>0%</td>
@@ -293,8 +293,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 17.95</td>
 <td>🔽 18.50</td>
 <td>-</td>
-<td>1.43%</td>
-<td>03/10 12:20</td>
+<td>1.30%</td>
+<td>03/11 11:57</td>
 <td>2.51%</td>
 <td>1.25%</td>
 <td>90%</td>
@@ -308,7 +308,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 12.40</td>
 <td>🔼 13.84</td>
 <td>4.01%</td>
-<td>03/10 11:26</td>
+<td>03/11 11:05</td>
 <td>5.56%</td>
 <td>3.15%</td>
 <td>66%</td>
@@ -322,7 +322,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 3.21</td>
 <td>-</td>
 <td>5.20%</td>
-<td>03/10 11:27</td>
+<td>03/11 11:05</td>
 <td>5.30%</td>
 <td>2.38%</td>
 <td>62%</td>
@@ -335,8 +335,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 22.03</td>
 <td>🔽 24.54</td>
 <td>-</td>
-<td>5.43%</td>
-<td>03/10 11:27</td>
+<td>5.27%</td>
+<td>03/11 11:05</td>
 <td>5.71%</td>
 <td>4.22%</td>
 <td>87%</td>
@@ -349,8 +349,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 15.42</td>
 <td>🔼 15.83</td>
 <td>🔽 15.42</td>
-<td>5.52%</td>
-<td>03/10 11:28</td>
+<td>5.40%</td>
+<td>03/11 11:06</td>
 <td>5.81%</td>
 <td>5.17%</td>
 <td>80%</td>
@@ -364,7 +364,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 23.17</td>
 <td>-</td>
 <td>1.01%</td>
-<td>03/10 12:09</td>
+<td>03/11 11:47</td>
 <td>4.07%</td>
 <td>0.98%</td>
 <td>60%</td>
@@ -378,7 +378,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 9.69</td>
 <td>🔽 9.13</td>
 <td>3.24%</td>
-<td>03/10 11:28</td>
+<td>03/11 11:06</td>
 <td>4.08%</td>
 <td>2.97%</td>
 <td>91%</td>
@@ -387,14 +387,14 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <tr>
 <td>[**2405**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2405/)</td>
 <td>輔信</td>
-<td>0.00</td>
+<td>0.10</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>0.00%</td>
-<td>03/10 11:29</td>
-<td>0.00%</td>
-<td>0.00%</td>
+<td>0.66%</td>
+<td>03/11 11:07</td>
+<td>0.70%</td>
+<td>0.55%</td>
 <td>-</td>
 <td>🔴 0.0</td>
 </tr>
@@ -405,8 +405,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 1.22</td>
 <td>🔽 1.17</td>
 <td>-</td>
-<td>0.65%</td>
-<td>03/10 12:19</td>
+<td>0.59%</td>
+<td>03/11 11:56</td>
 <td>0.79%</td>
 <td>0.46%</td>
 <td>71%</td>
@@ -419,8 +419,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 4.99</td>
 <td>🔽 5.08</td>
 <td>-</td>
-<td>3.85%</td>
-<td>03/10 11:29</td>
+<td>3.84%</td>
+<td>03/11 11:07</td>
 <td>3.97%</td>
 <td>3.77%</td>
 <td>104%</td>
@@ -433,8 +433,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 3.88</td>
 <td>🔼 4.71</td>
 <td>-</td>
-<td>0.34%</td>
-<td>03/10 12:15</td>
+<td>0.33%</td>
+<td>03/11 11:52</td>
 <td>0.40%</td>
 <td>0.30%</td>
 <td>17%</td>
@@ -447,8 +447,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 1.46</td>
 <td>🔽 1.46</td>
 <td>-</td>
-<td>5.27%</td>
-<td>03/10 11:46</td>
+<td>5.26%</td>
+<td>03/11 11:24</td>
 <td>5.44%</td>
 <td>5.08%</td>
 <td>90%</td>
@@ -461,8 +461,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 13.96</td>
 <td>🔼 13.27</td>
 <td>-</td>
-<td>5.36%</td>
-<td>03/10 11:29</td>
+<td>5.15%</td>
+<td>03/11 11:08</td>
 <td>6.16%</td>
 <td>4.28%</td>
 <td>91%</td>
@@ -475,8 +475,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 60.80</td>
 <td>🔼 63.54</td>
 <td>🔼 56.77</td>
-<td>3.14%</td>
-<td>03/10 11:30</td>
+<td>3.03%</td>
+<td>03/11 11:08</td>
 <td>3.78%</td>
 <td>2.71%</td>
 <td>81%</td>
@@ -489,10 +489,10 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 6.14</td>
 <td>🔼 6.15</td>
 <td>🔼 5.88</td>
-<td>3.27%</td>
-<td>03/10 11:30</td>
+<td>3.09%</td>
+<td>03/11 11:09</td>
 <td>3.77%</td>
-<td>3.15%</td>
+<td>3.09%</td>
 <td>73%</td>
 <td>🟡 6.0</td>
 </tr>
@@ -504,7 +504,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 8.67</td>
 <td>-</td>
 <td>5.52%</td>
-<td>03/10 11:31</td>
+<td>03/11 11:09</td>
 <td>6.53%</td>
 <td>5.03%</td>
 <td>59%</td>
@@ -517,8 +517,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 7.24</td>
 <td>🔽 7.53</td>
 <td>-</td>
-<td>5.53%</td>
-<td>03/10 11:31</td>
+<td>5.42%</td>
+<td>03/11 11:09</td>
 <td>5.76%</td>
 <td>5.08%</td>
 <td>98%</td>
@@ -532,7 +532,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 23.72</td>
 <td>🔽 18.01</td>
 <td>17.11%</td>
-<td>03/10 12:06</td>
+<td>03/11 11:43</td>
 <td>19.01%</td>
 <td>12.26%</td>
 <td>50%</td>
@@ -542,11 +542,11 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>[**2646**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2646/)</td>
 <td>星宇航空</td>
 <td>0.00</td>
-<td>🟠 0.00</td>
+<td>🟡 0.00</td>
 <td>⚪ 0.00</td>
 <td>-</td>
 <td>0.00%</td>
-<td>03/10 11:43</td>
+<td>03/11 11:21</td>
 <td>0.00%</td>
 <td>0.00%</td>
 <td>0%</td>
@@ -560,7 +560,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 3.31</td>
 <td>-</td>
 <td>4.42%</td>
-<td>03/10 12:17</td>
+<td>03/11 11:54</td>
 <td>5.89%</td>
 <td>4.30%</td>
 <td>42%</td>
@@ -574,7 +574,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 2.40</td>
 <td>🔽 2.92</td>
 <td>4.62%</td>
-<td>03/10 12:17</td>
+<td>03/11 11:55</td>
 <td>7.07%</td>
 <td>4.53%</td>
 <td>48%</td>
@@ -588,7 +588,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 0.96</td>
 <td>-</td>
 <td>3.56%</td>
-<td>03/10 12:18</td>
+<td>03/11 11:56</td>
 <td>4.71%</td>
 <td>3.39%</td>
 <td>79%</td>
@@ -602,7 +602,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 2.16</td>
 <td>-</td>
 <td>4.58%</td>
-<td>03/10 12:18</td>
+<td>03/11 11:55</td>
 <td>6.84%</td>
 <td>4.52%</td>
 <td>63%</td>
@@ -615,8 +615,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 7.40</td>
 <td>🔽 7.98</td>
 <td>-</td>
-<td>7.20%</td>
-<td>03/10 11:51</td>
+<td>7.14%</td>
+<td>03/11 11:30</td>
 <td>7.69%</td>
 <td>6.75%</td>
 <td>89%</td>
@@ -629,8 +629,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 1.64</td>
 <td>🔼 3.70</td>
 <td>-</td>
-<td>5.72%</td>
-<td>03/10 11:32</td>
+<td>5.65%</td>
+<td>03/11 11:10</td>
 <td>6.32%</td>
 <td>5.03%</td>
 <td>140%</td>
@@ -643,8 +643,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 5.26</td>
 <td>🔽 5.46</td>
 <td>-</td>
-<td>5.52%</td>
-<td>03/10 11:32</td>
+<td>5.45%</td>
+<td>03/11 11:10</td>
 <td>5.80%</td>
 <td>4.81%</td>
 <td>88%</td>
@@ -657,8 +657,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 5.65</td>
 <td>🔼 5.76</td>
 <td>-</td>
-<td>4.91%</td>
-<td>03/10 12:00</td>
+<td>4.78%</td>
+<td>03/11 11:37</td>
 <td>5.21%</td>
 <td>4.44%</td>
 <td>84%</td>
@@ -667,15 +667,15 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <tr>
 <td>[**3034**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3034/)</td>
 <td>聯詠</td>
-<td>28.00</td>
-<td>🔽 23.16</td>
-<td>🔽 23.45</td>
-<td>🔽 24.37</td>
-<td>7.49%</td>
-<td>03/10 11:33</td>
-<td>7.63%</td>
-<td>4.96%</td>
-<td>84%</td>
+<td>23.00</td>
+<td>🔼 24.87</td>
+<td>🔼 25.19</td>
+<td>🔼 26.17</td>
+<td>5.92%</td>
+<td>03/11 11:11</td>
+<td>6.53%</td>
+<td>5.67%</td>
+<td>111%</td>
 <td>🟡 6.5</td>
 </tr>
 <tr>
@@ -685,8 +685,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 1.54</td>
 <td>🔼 1.84</td>
 <td>🔽 1.76</td>
-<td>1.23%</td>
-<td>03/10 11:40</td>
+<td>1.17%</td>
+<td>03/11 11:18</td>
 <td>1.26%</td>
 <td>0.99%</td>
 <td>64%</td>
@@ -700,7 +700,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 4.86</td>
 <td>-</td>
 <td>4.15%</td>
-<td>03/10 11:33</td>
+<td>03/11 11:11</td>
 <td>4.33%</td>
 <td>3.73%</td>
 <td>98%</td>
@@ -714,7 +714,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 0.82</td>
 <td>-</td>
 <td>0.00%</td>
-<td>03/10 11:34</td>
+<td>03/11 11:12</td>
 <td>0.00%</td>
 <td>0.00%</td>
 <td>-</td>
@@ -727,8 +727,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 0.25</td>
 <td>🔽 0.15</td>
 <td>-</td>
-<td>3.12%</td>
-<td>03/10 11:43</td>
+<td>3.10%</td>
+<td>03/11 11:21</td>
 <td>3.25%</td>
 <td>2.27%</td>
 <td>250%</td>
@@ -742,7 +742,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 4.98</td>
 <td>-</td>
 <td>6.47%</td>
-<td>03/10 11:48</td>
+<td>03/11 11:27</td>
 <td>6.67%</td>
 <td>5.80%</td>
 <td>82%</td>
@@ -756,7 +756,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 5.29</td>
 <td>🔼 5.57</td>
 <td>2.52%</td>
-<td>03/10 11:34</td>
+<td>03/11 11:12</td>
 <td>5.15%</td>
 <td>2.40%</td>
 <td>62%</td>
@@ -769,8 +769,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 6.50</td>
 <td>🔽 6.45</td>
 <td>-</td>
-<td>5.33%</td>
-<td>03/10 12:11</td>
+<td>4.85%</td>
+<td>03/11 11:48</td>
 <td>6.72%</td>
 <td>4.36%</td>
 <td>169%</td>
@@ -783,8 +783,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 32.32</td>
 <td>🔽 31.63</td>
 <td>-</td>
-<td>5.14%</td>
-<td>03/10 12:05</td>
+<td>4.99%</td>
+<td>03/11 11:42</td>
 <td>5.37%</td>
 <td>4.71%</td>
 <td>129%</td>
@@ -798,23 +798,37 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 3.95</td>
 <td>-</td>
 <td>8.51%</td>
-<td>03/10 11:34</td>
+<td>03/11 11:13</td>
 <td>10.11%</td>
 <td>5.94%</td>
 <td>57%</td>
 <td>🟡 6.0</td>
 </tr>
 <tr>
+<td>[**3467**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3467/)</td>
+<td>台灣精材</td>
+<td>0.50</td>
+<td>🔼 0.73</td>
+<td>🔼 0.65</td>
+<td>-</td>
+<td>1.30%</td>
+<td>03/11 11:49</td>
+<td>1.34%</td>
+<td>1.06%</td>
+<td>114%</td>
+<td>🔴 5.5</td>
+</tr>
+<tr>
 <td>[**3558**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-3558/)</td>
 <td>神準</td>
 <td>3.00</td>
-<td>🔽 2.64</td>
-<td>🔽 2.67</td>
+<td>🔽 2.77</td>
+<td>🔽 2.80</td>
 <td>-</td>
-<td>2.30%</td>
-<td>03/10 11:45</td>
-<td>2.37%</td>
-<td>1.15%</td>
+<td>2.31%</td>
+<td>03/11 11:23</td>
+<td>2.42%</td>
+<td>2.00%</td>
 <td>62%</td>
 <td>🟡 7.0</td>
 </tr>
@@ -826,7 +840,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 21.52</td>
 <td>-</td>
 <td>0.53%</td>
-<td>03/10 12:20</td>
+<td>03/11 11:57</td>
 <td>1.92%</td>
 <td>0.46%</td>
 <td>60%</td>
@@ -839,8 +853,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 35.56</td>
 <td>🔼 39.31</td>
 <td>-</td>
-<td>1.12%</td>
-<td>03/10 12:16</td>
+<td>1.02%</td>
+<td>03/11 11:54</td>
 <td>1.15%</td>
 <td>0.90%</td>
 <td>68%</td>
@@ -853,8 +867,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 19.59</td>
 <td>🔼 20.68</td>
 <td>-</td>
-<td>0.96%</td>
-<td>03/10 12:21</td>
+<td>0.91%</td>
+<td>03/11 11:58</td>
 <td>1.20%</td>
 <td>0.84%</td>
 <td>46%</td>
@@ -868,7 +882,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 5.88</td>
 <td>🔼 8.30</td>
 <td>2.11%</td>
-<td>03/10 12:19</td>
+<td>03/11 11:56</td>
 <td>4.61%</td>
 <td>2.08%</td>
 <td>70%</td>
@@ -882,7 +896,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 0.50</td>
 <td>-</td>
 <td>1.85%</td>
-<td>03/10 12:11</td>
+<td>03/11 11:48</td>
 <td>2.07%</td>
 <td>1.51%</td>
 <td>92%</td>
@@ -896,7 +910,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 7.51</td>
 <td>-</td>
 <td>0.68%</td>
-<td>03/10 11:57</td>
+<td>03/11 11:34</td>
 <td>1.63%</td>
 <td>0.63%</td>
 <td>70%</td>
@@ -910,7 +924,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 3.21</td>
 <td>🔼 5.88</td>
 <td>6.56%</td>
-<td>03/10 11:35</td>
+<td>03/11 11:13</td>
 <td>6.67%</td>
 <td>4.55%</td>
 <td>71%</td>
@@ -923,8 +937,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 5.33</td>
 <td>🔼 5.19</td>
 <td>-</td>
-<td>4.33%</td>
-<td>03/10 11:44</td>
+<td>4.29%</td>
+<td>03/11 11:22</td>
 <td>4.65%</td>
 <td>3.52%</td>
 <td>59%</td>
@@ -938,7 +952,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 3.60</td>
 <td>-</td>
 <td>4.37%</td>
-<td>03/10 11:35</td>
+<td>03/11 11:13</td>
 <td>4.58%</td>
 <td>2.69%</td>
 <td>98%</td>
@@ -952,7 +966,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 40.53</td>
 <td>-</td>
 <td>2.48%</td>
-<td>03/10 11:41</td>
+<td>03/11 11:19</td>
 <td>2.65%</td>
 <td>1.32%</td>
 <td>58%</td>
@@ -965,8 +979,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 78.94</td>
 <td>🔼 82.95</td>
 <td>🔽 75.50</td>
-<td>0.85%</td>
-<td>03/10 12:06</td>
+<td>0.80%</td>
+<td>03/11 11:43</td>
 <td>1.13%</td>
 <td>0.78%</td>
 <td>78%</td>
@@ -975,16 +989,16 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <tr>
 <td>[**5434**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5434/)</td>
 <td>崇越</td>
-<td>11.99</td>
-<td>🔼 12.79</td>
-<td>🔼 13.28</td>
+<td>13.50</td>
+<td>🔽 13.46</td>
+<td>🔼 13.98</td>
 <td>-</td>
-<td>4.12%</td>
-<td>03/10 11:39</td>
-<td>5.83%</td>
-<td>3.38%</td>
-<td>62%</td>
-<td>🟡 7.0</td>
+<td>4.04%</td>
+<td>03/11 11:17</td>
+<td>4.64%</td>
+<td>3.81%</td>
+<td>87%</td>
+<td>🟡 6.5</td>
 </tr>
 <tr>
 <td>[**5536**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-5536/)</td>
@@ -993,8 +1007,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 19.02</td>
 <td>🔽 19.59</td>
 <td>-</td>
-<td>2.89%</td>
-<td>03/10 12:04</td>
+<td>2.87%</td>
+<td>03/11 11:41</td>
 <td>3.36%</td>
 <td>2.37%</td>
 <td>98%</td>
@@ -1007,8 +1021,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 25.00</td>
 <td>🔼 25.74</td>
 <td>-</td>
-<td>5.13%</td>
-<td>03/10 11:50</td>
+<td>5.10%</td>
+<td>03/11 11:29</td>
 <td>6.50%</td>
 <td>4.98%</td>
 <td>86%</td>
@@ -1022,7 +1036,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>-</td>
 <td>-</td>
 <td>4.96%</td>
-<td>03/10 11:49</td>
+<td>03/11 11:28</td>
 <td>5.18%</td>
 <td>3.98%</td>
 <td>-</td>
@@ -1035,8 +1049,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 2.96</td>
 <td>🔼 3.05</td>
 <td>-</td>
-<td>6.12%</td>
-<td>03/10 11:58</td>
+<td>6.03%</td>
+<td>03/11 11:35</td>
 <td>6.24%</td>
 <td>5.37%</td>
 <td>132%</td>
@@ -1049,8 +1063,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 0.21</td>
 <td>🔽 0.09</td>
 <td>-</td>
-<td>0.86%</td>
-<td>03/10 12:04</td>
+<td>0.80%</td>
+<td>03/11 11:41</td>
 <td>0.91%</td>
 <td>0.64%</td>
 <td>385%</td>
@@ -1064,7 +1078,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>-</td>
 <td>-</td>
 <td>0.00%</td>
-<td>03/10 11:50</td>
+<td>03/11 11:29</td>
 <td>0.00%</td>
 <td>0.00%</td>
 <td>-</td>
@@ -1078,7 +1092,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 6.12</td>
 <td>-</td>
 <td>4.41%</td>
-<td>03/10 11:36</td>
+<td>03/11 11:14</td>
 <td>5.28%</td>
 <td>3.44%</td>
 <td>67%</td>
@@ -1091,8 +1105,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 5.17</td>
 <td>🔽 5.23</td>
 <td>-</td>
-<td>2.88%</td>
-<td>03/10 11:44</td>
+<td>2.84%</td>
+<td>03/11 11:22</td>
 <td>3.19%</td>
 <td>2.48%</td>
 <td>86%</td>
@@ -1106,7 +1120,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 4.23</td>
 <td>-</td>
 <td>4.85%</td>
-<td>03/10 11:36</td>
+<td>03/11 11:14</td>
 <td>5.00%</td>
 <td>2.94%</td>
 <td>66%</td>
@@ -1120,7 +1134,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>-</td>
 <td>-</td>
 <td>1.18%</td>
-<td>03/10 11:59</td>
+<td>03/11 11:36</td>
 <td>2.67%</td>
 <td>1.05%</td>
 <td>145%</td>
@@ -1133,8 +1147,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 11.12</td>
 <td>🔼 13.76</td>
 <td>-</td>
-<td>0.69%</td>
-<td>03/10 12:02</td>
+<td>0.65%</td>
+<td>03/11 11:39</td>
 <td>0.98%</td>
 <td>0.46%</td>
 <td>85%</td>
@@ -1148,7 +1162,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>-</td>
 <td>-</td>
 <td>0.00%</td>
-<td>03/10 11:37</td>
+<td>03/11 11:15</td>
 <td>0.00%</td>
 <td>0.00%</td>
 <td>-</td>
@@ -1157,15 +1171,15 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <tr>
 <td>[**6506**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6506/)</td>
 <td>雙邦</td>
-<td>0.80</td>
-<td>🔽 0.71</td>
-<td>⚪ 0.80</td>
+<td>1.00</td>
+<td>🔽 0.77</td>
+<td>🔽 0.88</td>
 <td>-</td>
-<td>5.21%</td>
-<td>03/10 12:05</td>
-<td>6.30%</td>
-<td>4.53%</td>
-<td>108%</td>
+<td>6.13%</td>
+<td>03/11 11:42</td>
+<td>6.51%</td>
+<td>6.12%</td>
+<td>137%</td>
 <td>🔴 5.0</td>
 </tr>
 <tr>
@@ -1175,8 +1189,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 15.21</td>
 <td>🔽 15.27</td>
 <td>-</td>
-<td>0.44%</td>
-<td>03/10 12:16</td>
+<td>0.41%</td>
+<td>03/11 11:53</td>
 <td>0.73%</td>
 <td>0.36%</td>
 <td>50%</td>
@@ -1189,8 +1203,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 11.83</td>
 <td>🔽 11.59</td>
 <td>-</td>
-<td>2.77%</td>
-<td>03/10 11:39</td>
+<td>2.66%</td>
+<td>03/11 11:17</td>
 <td>3.20%</td>
 <td>2.32%</td>
 <td>96%</td>
@@ -1203,8 +1217,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 13.86</td>
 <td>🔼 13.93</td>
 <td>🔼 8.68</td>
-<td>2.12%</td>
-<td>03/10 11:42</td>
+<td>2.11%</td>
+<td>03/11 11:20</td>
 <td>2.44%</td>
 <td>1.95%</td>
 <td>48%</td>
@@ -1218,7 +1232,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 1.41</td>
 <td>-</td>
 <td>1.67%</td>
-<td>03/10 12:12</td>
+<td>03/11 11:50</td>
 <td>1.96%</td>
 <td>1.48%</td>
 <td>61%</td>
@@ -1231,8 +1245,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 9.56</td>
 <td>🔽 9.21</td>
 <td>-</td>
-<td>5.24%</td>
-<td>03/10 11:47</td>
+<td>5.21%</td>
+<td>03/11 11:25</td>
 <td>5.60%</td>
 <td>4.60%</td>
 <td>75%</td>
@@ -1245,8 +1259,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 151.65</td>
 <td>🔼 156.38</td>
 <td>🔽 132.66</td>
-<td>3.66%</td>
-<td>03/10 11:41</td>
+<td>3.46%</td>
+<td>03/11 11:19</td>
 <td>4.12%</td>
 <td>2.99%</td>
 <td>60%</td>
@@ -1259,8 +1273,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 6.88</td>
 <td>🔽 6.64</td>
 <td>-</td>
-<td>5.56%</td>
-<td>03/10 12:00</td>
+<td>5.45%</td>
+<td>03/11 11:37</td>
 <td>5.71%</td>
 <td>5.16%</td>
 <td>88%</td>
@@ -1274,7 +1288,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>-</td>
 <td>-</td>
 <td>0.00%</td>
-<td>03/10 11:42</td>
+<td>03/11 11:20</td>
 <td>0.00%</td>
 <td>0.00%</td>
 <td>-</td>
@@ -1287,8 +1301,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 1.58</td>
 <td>🔽 2.16</td>
 <td>-</td>
-<td>2.12%</td>
-<td>03/10 11:53</td>
+<td>2.10%</td>
+<td>03/11 11:31</td>
 <td>3.02%</td>
 <td>1.92%</td>
 <td>84%</td>
@@ -1297,16 +1311,16 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <tr>
 <td>[**6751**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6751/)</td>
 <td>智聯服務</td>
-<td>1.00</td>
-<td>🔼 4.92</td>
-<td>🔼 4.75</td>
+<td>3.00</td>
+<td>🔼 4.71</td>
+<td>🔼 4.54</td>
 <td>-</td>
-<td>1.82%</td>
-<td>03/10 12:01</td>
-<td>2.54%</td>
-<td>1.47%</td>
-<td>120%</td>
-<td>🟡 6.0</td>
+<td>5.69%</td>
+<td>03/11 11:38</td>
+<td>5.88%</td>
+<td>4.22%</td>
+<td>58%</td>
+<td>🟡 7.0</td>
 </tr>
 <tr>
 <td>[**6757**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6757/)</td>
@@ -1315,8 +1329,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 2.32</td>
 <td>🔼 2.55</td>
 <td>-</td>
-<td>4.71%</td>
-<td>03/10 11:53</td>
+<td>4.59%</td>
+<td>03/11 11:31</td>
 <td>5.13%</td>
 <td>3.32%</td>
 <td>56%</td>
@@ -1329,8 +1343,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 2.81</td>
 <td>🔽 2.35</td>
 <td>-</td>
-<td>6.09%</td>
-<td>03/10 12:01</td>
+<td>5.98%</td>
+<td>03/11 11:38</td>
 <td>6.20%</td>
 <td>5.12%</td>
 <td>71%</td>
@@ -1339,16 +1353,16 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <tr>
 <td>[**6811**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6811/)</td>
 <td>宏碁資訊</td>
-<td>9.50</td>
-<td>🔽 8.93</td>
-<td>🔽 8.74</td>
+<td>10.50</td>
+<td>🔽 10.46</td>
+<td>🔽 10.23</td>
 <td>-</td>
-<td>4.49%</td>
-<td>03/10 12:00</td>
-<td>5.43%</td>
-<td>3.06%</td>
-<td>73%</td>
-<td>🟡 7.0</td>
+<td>5.36%</td>
+<td>03/11 11:37</td>
+<td>5.72%</td>
+<td>4.57%</td>
+<td>93%</td>
+<td>🟡 6.5</td>
 </tr>
 <tr>
 <td>[**6850**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6850/)</td>
@@ -1358,7 +1372,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>-</td>
 <td>-</td>
 <td>0.75%</td>
-<td>03/10 12:13</td>
+<td>03/11 11:50</td>
 <td>0.79%</td>
 <td>0.57%</td>
 <td>-</td>
@@ -1372,7 +1386,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>⚪ 0.00</td>
 <td>-</td>
 <td>0.00%</td>
-<td>03/10 12:13</td>
+<td>03/11 11:51</td>
 <td>0.00%</td>
 <td>0.00%</td>
 <td>0%</td>
@@ -1381,16 +1395,16 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <tr>
 <td>[**6918**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6918/)</td>
 <td>愛派司</td>
-<td>4.00</td>
-<td>🔽 3.09</td>
-<td>🔽 3.44</td>
+<td>5.00</td>
+<td>🔽 4.06</td>
+<td>🔽 4.52</td>
 <td>-</td>
-<td>4.68%</td>
-<td>03/10 12:14</td>
-<td>4.80%</td>
-<td>2.94%</td>
-<td>80%</td>
-<td>🔴 5.0</td>
+<td>5.95%</td>
+<td>03/11 11:51</td>
+<td>6.41%</td>
+<td>5.69%</td>
+<td>123%</td>
+<td>🔴 3.5</td>
 </tr>
 <tr>
 <td>[**6925**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-6925/)</td>
@@ -1399,8 +1413,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 2.21</td>
 <td>🔼 2.02</td>
 <td>-</td>
-<td>2.84%</td>
-<td>03/10 12:14</td>
+<td>2.81%</td>
+<td>03/11 11:52</td>
 <td>2.93%</td>
 <td>2.07%</td>
 <td>95%</td>
@@ -1413,8 +1427,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 1.61</td>
 <td>🔼 1.61</td>
 <td>-</td>
-<td>3.34%</td>
-<td>03/10 11:51</td>
+<td>3.24%</td>
+<td>03/11 11:29</td>
 <td>3.42%</td>
 <td>2.42%</td>
 <td>34%</td>
@@ -1427,8 +1441,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 12.14</td>
 <td>🔼 10.13</td>
 <td>-</td>
-<td>5.76%</td>
-<td>03/10 11:54</td>
+<td>5.78%</td>
+<td>03/11 11:32</td>
 <td>7.12%</td>
 <td>5.51%</td>
 <td>82%</td>
@@ -1441,8 +1455,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 4.47</td>
 <td>🔽 4.29</td>
 <td>-</td>
-<td>5.54%</td>
-<td>03/10 11:56</td>
+<td>5.41%</td>
+<td>03/11 11:34</td>
 <td>5.62%</td>
 <td>5.05%</td>
 <td>145%</td>
@@ -1455,8 +1469,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 1.96</td>
 <td>🔼 2.01</td>
 <td>-</td>
-<td>3.56%</td>
-<td>03/10 12:07</td>
+<td>3.46%</td>
+<td>03/11 11:44</td>
 <td>3.61%</td>
 <td>2.91%</td>
 <td>86%</td>
@@ -1469,8 +1483,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 8.94</td>
 <td>🔼 7.75</td>
 <td>-</td>
-<td>3.53%</td>
-<td>03/10 11:47</td>
+<td>3.46%</td>
+<td>03/11 11:25</td>
 <td>3.78%</td>
 <td>2.71%</td>
 <td>104%</td>
@@ -1483,8 +1497,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 2.27</td>
 <td>🔽 1.70</td>
 <td>-</td>
-<td>4.07%</td>
-<td>03/10 11:55</td>
+<td>4.02%</td>
+<td>03/11 11:33</td>
 <td>4.19%</td>
 <td>3.66%</td>
 <td>133%</td>
@@ -1497,8 +1511,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 1.68</td>
 <td>🔽 1.37</td>
 <td>-</td>
-<td>4.50%</td>
-<td>03/10 11:51</td>
+<td>4.33%</td>
+<td>03/11 11:30</td>
 <td>4.53%</td>
 <td>3.96%</td>
 <td>118%</td>
@@ -1511,8 +1525,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 5.19</td>
 <td>🔽 5.02</td>
 <td>-</td>
-<td>5.99%</td>
-<td>03/10 11:47</td>
+<td>6.00%</td>
+<td>03/11 11:25</td>
 <td>6.04%</td>
 <td>5.67%</td>
 <td>109%</td>
@@ -1525,8 +1539,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 1.07</td>
 <td>🔽 1.32</td>
 <td>-</td>
-<td>2.92%</td>
-<td>03/10 12:10</td>
+<td>2.66%</td>
+<td>03/11 11:47</td>
 <td>3.99%</td>
 <td>1.97%</td>
 <td>60%</td>
@@ -1540,7 +1554,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 1.01</td>
 <td>-</td>
 <td>4.69%</td>
-<td>03/10 11:59</td>
+<td>03/11 11:36</td>
 <td>4.88%</td>
 <td>1.41%</td>
 <td>48%</td>
@@ -1553,12 +1567,26 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 4.03</td>
 <td>🔽 3.59</td>
 <td>-</td>
-<td>5.87%</td>
-<td>03/10 12:10</td>
+<td>5.77%</td>
+<td>03/11 11:48</td>
 <td>6.13%</td>
 <td>5.51%</td>
 <td>88%</td>
 <td>🟡 6.0</td>
+</tr>
+<tr>
+<td>[**7722**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-7722/)</td>
+<td>LINEPAY</td>
+<td>1.50</td>
+<td>🔽 1.20</td>
+<td>🔽 1.21</td>
+<td>-</td>
+<td>0.42%</td>
+<td>03/11 11:28</td>
+<td>0.42%</td>
+<td>0.26%</td>
+<td>33%</td>
+<td>🔴 1.5</td>
 </tr>
 <tr>
 <td>[**7734**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-7734/)</td>
@@ -1567,12 +1595,26 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 19.06</td>
 <td>🔽 17.84</td>
 <td>-</td>
-<td>1.26%</td>
-<td>03/10 12:07</td>
+<td>1.14%</td>
+<td>03/11 11:44</td>
 <td>2.09%</td>
 <td>1.05%</td>
 <td>55%</td>
 <td>🟡 6.0</td>
+</tr>
+<tr>
+<td>[**7736**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-7736/)</td>
+<td>虎山</td>
+<td>3.80</td>
+<td>🔽 3.62</td>
+<td>🔼 3.94</td>
+<td>-</td>
+<td>4.44%</td>
+<td>03/11 11:45</td>
+<td>4.73%</td>
+<td>3.94%</td>
+<td>110%</td>
+<td>🔴 5.5</td>
 </tr>
 <tr>
 <td>[**7747**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-7747/)</td>
@@ -1581,8 +1623,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 3.30</td>
 <td>🔼 3.19</td>
 <td>-</td>
-<td>2.52%</td>
-<td>03/10 11:58</td>
+<td>2.54%</td>
+<td>03/11 11:35</td>
 <td>2.67%</td>
 <td>2.44%</td>
 <td>132%</td>
@@ -1595,12 +1637,26 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 9.12</td>
 <td>🔽 8.81</td>
 <td>-</td>
-<td>4.04%</td>
-<td>03/10 11:42</td>
+<td>4.02%</td>
+<td>03/11 11:21</td>
 <td>4.05%</td>
 <td>3.34%</td>
 <td>83%</td>
 <td>🟡 6.0</td>
+</tr>
+<tr>
+<td>[**7794**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-7794/)</td>
+<td>宏碁智新</td>
+<td>1.60</td>
+<td>🔼 1.82</td>
+<td>🔼 2.11</td>
+<td>-</td>
+<td>3.51%</td>
+<td>03/11 11:32</td>
+<td>3.70%</td>
+<td>3.20%</td>
+<td>198%</td>
+<td>🔴 2.5</td>
 </tr>
 <tr>
 <td>[**7805**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-7805/)</td>
@@ -1609,8 +1665,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 46.48</td>
 <td>🔼 44.98</td>
 <td>-</td>
-<td>6.04%</td>
-<td>03/10 12:03</td>
+<td>5.60%</td>
+<td>03/11 11:40</td>
 <td>7.13%</td>
 <td>4.94%</td>
 <td>129%</td>
@@ -1623,8 +1679,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 11.73</td>
 <td>🔽 11.14</td>
 <td>-</td>
-<td>5.96%</td>
-<td>03/10 11:55</td>
+<td>5.93%</td>
+<td>03/11 11:33</td>
 <td>6.57%</td>
 <td>5.74%</td>
 <td>112%</td>
@@ -1638,11 +1694,25 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 0.66</td>
 <td>-</td>
 <td>2.58%</td>
-<td>03/10 11:55</td>
+<td>03/11 11:33</td>
 <td>3.22%</td>
 <td>1.29%</td>
 <td>80%</td>
 <td>🔴 4.0</td>
+</tr>
+<tr>
+<td>[**8272**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8272/)</td>
+<td>全景軟體</td>
+<td>2.80</td>
+<td>🔼 3.39</td>
+<td>🔼 3.67</td>
+<td>-</td>
+<td>3.73%</td>
+<td>03/11 11:16</td>
+<td>3.93%</td>
+<td>3.40%</td>
+<td>112%</td>
+<td>🟡 6.0</td>
 </tr>
 <tr>
 <td>[**8299**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-8299/)</td>
@@ -1651,8 +1721,8 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔼 22.65</td>
 <td>🔼 21.56</td>
 <td>🔽 15.60</td>
-<td>0.97%</td>
-<td>03/10 11:38</td>
+<td>0.90%</td>
+<td>03/11 11:17</td>
 <td>1.19%</td>
 <td>0.69%</td>
 <td>40%</td>
@@ -1666,7 +1736,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>🔽 9.93</td>
 <td>-</td>
 <td>5.62%</td>
-<td>03/10 12:02</td>
+<td>03/11 11:39</td>
 <td>5.76%</td>
 <td>4.71%</td>
 <td>86%</td>
@@ -1680,7 +1750,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>-</td>
 <td>-</td>
 <td>4.84%</td>
-<td>03/10 11:37</td>
+<td>03/11 11:15</td>
 <td>4.91%</td>
 <td>2.09%</td>
 <td>-</td>
@@ -1689,15 +1759,15 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <tr>
 <td>[**9917**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-9917/)</td>
 <td>中保科</td>
-<td>5.20</td>
-<td>🔼 5.72</td>
-<td>🔼 5.73</td>
+<td>5.70</td>
+<td>🔼 6.04</td>
+<td>🔼 6.05</td>
 <td>-</td>
-<td>4.81%</td>
-<td>03/10 11:45</td>
-<td>4.95%</td>
-<td>4.08%</td>
-<td>81%</td>
+<td>5.11%</td>
+<td>03/11 11:23</td>
+<td>5.51%</td>
+<td>5.00%</td>
+<td>124%</td>
 <td>🟡 7.0</td>
 </tr>
 <tr>
@@ -1708,7 +1778,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 <td>-</td>
 <td>-</td>
 <td>2.38%</td>
-<td>03/10 11:38</td>
+<td>03/11 11:16</td>
 <td>2.44%</td>
 <td>1.29%</td>
 <td>68%</td>
@@ -1722,12 +1792,12 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 116 檔) - 自動
 ## :information_source: 資料來源與涵蓋範圍
 
 !!! note "資料統計"
-    - **分析股票數**: 116 檔
-    - **略過股票數**: 10 檔 (資料不足: < 3 年)
+    - **分析股票數**: 121 檔
+    - **略過股票數**: 5 檔 (資料不足: < 3 年)
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-03-11 19:18:24
+    - **報告產生時間**: 2026-03-11 21:55:34
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
