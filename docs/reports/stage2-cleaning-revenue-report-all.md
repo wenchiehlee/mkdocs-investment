@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-12
+date: 2026-03-13
 categories:
   - 股票
   - 月營收
@@ -23,7 +23,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 # :bar_chart: 月營收總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-03-12 21:50:45 CST  
+    **:calendar: 產生時間**: 2026-03-13 05:10:13 CST  
     **:building_construction: 分析股票總數**: 126 檔  
     **:chart_with_upwards_trend: 報告類型**: 各股完整歷史資料  
     **:file_folder: 資料來源**: Stage 2 cleaned_revenue.csv + cleaned_monthly_flow.csv
@@ -36,13 +36,13 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 
     ---
 
-    **74** 檔 (58.7%)
+    **73** 檔 (57.9%)
 
 - :chart_with_downwards_trend: **負成長股票**
 
     ---
 
-    **52** 檔 (41.3%)
+    **53** 檔 (42.1%)
 
 - :page_with_curl: **總處理股票**
 
@@ -101,7 +101,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 | [**2603**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2603/) | 長榮 | **230** | 2026/02 | <span style="color: #006400; font-weight: bold;">-20.7</span> | 2007/01 ~ 2026/02 |
 | [**2646**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2646/) | 星宇航空 | **44** | 2026/02 | <span style="color: #FF6347; font-weight: bold;">+41.5</span> | 2022/07 ~ 2026/02 |
 | [**2881**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2881/) | 富邦金 | **239** | 2026/01 | <span style="color: #B22222; font-weight: bold;">+10.2</span> | 2006/03 ~ 2026/01 |
-| [**2882**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2882/) | 國泰金 | **239** | 2026/01 | <span style="color: #8B0000; font-weight: bold;">+1.37</span> | 2006/03 ~ 2026/01 |
+| [**2882**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2882/) | 國泰金 | **240** | 2026/02 | <span style="color: #004225; font-weight: bold;">-11</span> | 2006/03 ~ 2026/02 |
 | [**2884**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2884/) | 玉山金 | **240** | 2026/02 | <span style="color: #8B0000; font-weight: bold;">+4</span> | 2006/03 ~ 2026/02 |
 | [**2891**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-2891/) | 中信金 | **239** | 2026/01 | <span style="color: #FF6347; font-weight: bold;">+48.2</span> | 2006/03 ~ 2026/01 |
 | [**3014**](../stage2-cleaning-revenue-report/stage2-cleaning-revenue-report-3014/) | 聯陽 | **240** | 2026/02 | <span style="color: #004225; font-weight: bold;">-14</span> | 2006/03 ~ 2026/02 |
@@ -247,13 +247,13 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 ## :material-chart-timeline-variant: 趨勢分析
 
 !!! success "正向指標"
-    - **58.7%** 的股票呈現正成長
-    - 共有 **74** 檔股票營收增長
+    - **57.9%** 的股票呈現正成長
+    - 共有 **73** 檔股票營收增長
     - 反映整體市場樂觀氣氛
 
 !!! note "市場概況"
-    - **41.3%** 的股票出現負成長
-    - 共有 **52** 檔股票營收下滑
+    - **42.1%** 的股票出現負成長
+    - 共有 **53** 檔股票營收下滑
     - 建議關注產業別和個股基本面
 
 ---
@@ -262,7 +262,7 @@ description: 月營收總覽 - 所有 126 檔股票 - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-**產生時間**: 2026-03-12 21:50:45 CST  
+**產生時間**: 2026-03-13 05:10:13 CST  
 **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)  
 **報告版本**: Material for MkDocs 增強版 with EPS/P-E Integration (Asymmetric Statistics)  
 **處理模式**: 完整資料模式
