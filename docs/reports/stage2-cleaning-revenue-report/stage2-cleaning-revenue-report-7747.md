@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-15
+date: 2026-03-16
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 昕奇雲端 (7747) - 自動產生
     **:building_construction: 公司名稱**: 昕奇雲端  
     **:identification_card: 股票代號**: 7747  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-15 21:34:10 CST
+    **:clock3: 更新時間**: 2026-03-16 03:16:58 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 昕奇雲端 (7747) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **2.97** | **3.97** | **3.97** |
-| **P/E倍數** | **30.11** | **32.43** | **34.86** |
+| **EPS(元)** | **3.97** | **4.01** | **4.04** |
+| **P/E倍數** | **29.63** | **32.16** | **34.81** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 昕奇雲端 歷史平均獲利能力 (σup=0.00, σlo=1.00)
-    - **P/Ebase**: 昕奇雲端 歷史平均估值水準 (σup=2.43, σlo=2.32)
+    - **EPSbase**: 昕奇雲端 歷史平均獲利能力 (σup=0.03, σlo=0.04)
+    - **P/Ebase**: 昕奇雲端 歷史平均估值水準 (σup=2.64, σlo=2.54)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,14 +79,14 @@ description: 月營收表 昕奇雲端 (7747) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **1.41** | <span style="color: #8B0000; font-weight: bold;">+3.79</span> | <span style="color: #002818; font-weight: bold;">-0.07</span> | **118** | <span style="color: #000000; font-weight: bold;">3.97</span> | <span style="color: #006400; font-weight: bold;">29.72</span> |
-| **2026/01** | **1.42** | <span style="color: #002818; font-weight: bold;">-3.63</span> | <span style="color: #002818; font-weight: bold;">-3.63</span> | **119.5** | <span style="color: #000000; font-weight: bold;">3.97</span> | <span style="color: #006400; font-weight: bold;">30.1</span> |
-| **2025/12** | **1.47** | <span style="color: #8B0000; font-weight: bold;">+6.81</span> | <span style="color: #8B0000; font-weight: bold;">+9.69</span> | **117** | <span style="color: #000000; font-weight: bold;">3.97</span> | <span style="color: #006400; font-weight: bold;">29.47</span> |
-| **2025/11** | **1.21** | <span style="color: #002818; font-weight: bold;">-8.6</span> | <span style="color: #B22222; font-weight: bold;">+10</span> | **128.5** | <span style="color: #000000; font-weight: bold;">3.97</span> | <span style="color: #002818; font-weight: bold;">32.37</span> |
-| **2025/10** | **1.28** | <span style="color: #8B0000; font-weight: bold;">+7.15</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **130** | <span style="color: #000000; font-weight: bold;">3.97</span> | <span style="color: #8B0000; font-weight: bold;">32.75</span> |
-| **2025/09** | **1.22** | <span style="color: #002818; font-weight: bold;">-4.59</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **142.5** | <span style="color: #000000; font-weight: bold;">3.97</span> | <span style="color: #DC143C; font-weight: bold;">35.89</span> |
-| **2025/08** | **1.22** | <span style="color: #8B0000; font-weight: bold;">+2.98</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **133** | <span style="color: #000000; font-weight: bold;">3.97</span> | <span style="color: #8B0000; font-weight: bold;">33.5</span> |
-| **2025/07** | **1.13** | <span style="color: #004225; font-weight: bold;">-14.1</span> | <span style="color: #B22222; font-weight: bold;">+16.9</span> | **141.5** | <span style="color: #000000; font-weight: bold;">3.97</span> | <span style="color: #DC143C; font-weight: bold;">35.64</span> |
+| **2026/02** | **1.41** | <span style="color: #8B0000; font-weight: bold;">+3.79</span> | <span style="color: #002818; font-weight: bold;">-0.07</span> | **118** | <span style="color: #DC143C; font-weight: bold;">4.04</span> | <span style="color: #006400; font-weight: bold;">29.21</span> |
+| **2026/01** | **1.42** | <span style="color: #002818; font-weight: bold;">-3.63</span> | <span style="color: #002818; font-weight: bold;">-3.63</span> | **119.5** | <span style="color: #DC143C; font-weight: bold;">4.04</span> | <span style="color: #006400; font-weight: bold;">29.58</span> |
+| **2025/12** | **1.47** | <span style="color: #8B0000; font-weight: bold;">+6.81</span> | <span style="color: #8B0000; font-weight: bold;">+9.69</span> | **117** | <span style="color: #DC143C; font-weight: bold;">4.04</span> | <span style="color: #006400; font-weight: bold;">28.96</span> |
+| **2025/11** | **1.21** | <span style="color: #002818; font-weight: bold;">-8.6</span> | <span style="color: #B22222; font-weight: bold;">+10</span> | **128.5** | <span style="color: #DC143C; font-weight: bold;">4.04</span> | <span style="color: #002818; font-weight: bold;">31.99</span> |
+| **2025/10** | **1.28** | <span style="color: #8B0000; font-weight: bold;">+7.15</span> | <span style="color: #B22222; font-weight: bold;">+12.1</span> | **130** | <span style="color: #DC143C; font-weight: bold;">4.04</span> | <span style="color: #8B0000; font-weight: bold;">32.55</span> |
+| **2025/09** | **1.22** | <span style="color: #002818; font-weight: bold;">-4.59</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **142.5** | <span style="color: #004225; font-weight: bold;">3.97</span> | <span style="color: #DC143C; font-weight: bold;">35.89</span> |
+| **2025/08** | **1.22** | <span style="color: #8B0000; font-weight: bold;">+2.98</span> | <span style="color: #B22222; font-weight: bold;">+15.1</span> | **133** | <span style="color: #004225; font-weight: bold;">3.97</span> | <span style="color: #B22222; font-weight: bold;">33.5</span> |
+| **2025/07** | **1.13** | <span style="color: #004225; font-weight: bold;">-14.1</span> | <span style="color: #B22222; font-weight: bold;">+16.9</span> | **141.5** | <span style="color: #004225; font-weight: bold;">3.97</span> | <span style="color: #DC143C; font-weight: bold;">35.64</span> |
 | **2025/06** | **1.22** | <span style="color: #8B0000; font-weight: bold;">+1.64</span> | <span style="color: #DC143C; font-weight: bold;">+23.1</span> | **-** | N/A | N/A |
 | **2025/05** | **1.28** | <span style="color: #002818; font-weight: bold;">-8.49</span> | <span style="color: #DC143C; font-weight: bold;">+27.9</span> | **-** | N/A | N/A |
 | **2025/04** | **1.31** | <span style="color: #FF4500; font-weight: bold;">+35.7</span> | <span style="color: #FF6347; font-weight: bold;">+40.6</span> | **-** | N/A | N/A |
@@ -196,7 +196,7 @@ description: 月營收表 昕奇雲端 (7747) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-15 21:34:10 CST
+- **產生時間**: 2026-03-16 03:16:58 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-15
+date: 2026-03-16
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 凱鈿 (7737) - 自動產生
     **:building_construction: 公司名稱**: 凱鈿  
     **:identification_card: 股票代號**: 7737  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-15 21:34:10 CST
+    **:clock3: 更新時間**: 2026-03-16 03:16:58 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,14 +62,14 @@ description: 月營收表 凱鈿 (7737) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **-5.40** | **-5.40** | **-4.40** |
+| **EPS(元)** | **-6.40** | **-5.40** | **-5.40** |
 | **P/E倍數** | **-1.00** | **0.00** | **1.00** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 凱鈿 歷史平均獲利能力 (σup=1.00, σlo=0.00)
+    - **EPSbase**: 凱鈿 歷史平均獲利能力 (σup=0.00, σlo=1.00)
     - **P/Ebase**: 凱鈿 歷史平均估值水準 (σup=1.00, σlo=1.00)
 
 
@@ -79,19 +79,19 @@ description: 月營收表 凱鈿 (7737) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **0.296** | <span style="color: #004225; font-weight: bold;">-10.7</span> | <span style="color: #004225; font-weight: bold;">-12.5</span> | **38.25** | N/A | <span style="color: #000000;">-</span> |
-| **2026/01** | **0.282** | <span style="color: #004225; font-weight: bold;">-14.4</span> | <span style="color: #004225; font-weight: bold;">-14.4</span> | **38.5** | N/A | <span style="color: #000000;">-</span> |
-| **2025/12** | **0.294** | <span style="color: #006400; font-weight: bold;">-29.4</span> | <span style="color: #004225; font-weight: bold;">-14.1</span> | **38** | <span style="color: #004225; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
-| **2025/11** | **0.288** | <span style="color: #228B22; font-weight: bold;">-30.2</span> | <span style="color: #004225; font-weight: bold;">-12.4</span> | **47.15** | <span style="color: #004225; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
-| **2025/10** | **0.279** | <span style="color: #006400; font-weight: bold;">-27.1</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **46.5** | <span style="color: #004225; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
-| **2025/09** | **0.257** | <span style="color: #006400; font-weight: bold;">-28.1</span> | <span style="color: #002818; font-weight: bold;">-8.13</span> | **41** | <span style="color: #004225; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
-| **2025/08** | **0.26** | <span style="color: #004225; font-weight: bold;">-19</span> | <span style="color: #002818; font-weight: bold;">-5.44</span> | **46.05** | <span style="color: #004225; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
-| **2025/07** | **0.29** | <span style="color: #004225; font-weight: bold;">-12.9</span> | <span style="color: #002818; font-weight: bold;">-3.59</span> | **50.6** | <span style="color: #004225; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
-| **2025/06** | **0.336** | <span style="color: #8B0000; font-weight: bold;">+2.53</span> | <span style="color: #002818; font-weight: bold;">-2.05</span> | **48.4** | <span style="color: #004225; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
-| **2025/05** | **0.327** | <span style="color: #002818; font-weight: bold;">-2.2</span> | <span style="color: #002818; font-weight: bold;">-2.94</span> | **43.9** | <span style="color: #004225; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
-| **2025/04** | **0.312** | <span style="color: #002818; font-weight: bold;">-4.32</span> | <span style="color: #002818; font-weight: bold;">-3.12</span> | **46.5** | <span style="color: #004225; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
-| **2025/03** | **0.335** | <span style="color: #002818; font-weight: bold;">-9.88</span> | <span style="color: #002818; font-weight: bold;">-2.73</span> | **59.5** | <span style="color: #004225; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
-| **2025/02** | **0.332** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #8B0000; font-weight: bold;">+1.33</span> | **71.4** | <span style="color: #004225; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
+| **2026/02** | **0.296** | <span style="color: #004225; font-weight: bold;">-10.7</span> | <span style="color: #004225; font-weight: bold;">-12.5</span> | **38.25** | <span style="color: #000000; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
+| **2026/01** | **0.282** | <span style="color: #004225; font-weight: bold;">-14.4</span> | <span style="color: #004225; font-weight: bold;">-14.4</span> | **38.5** | <span style="color: #000000; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
+| **2025/12** | **0.294** | <span style="color: #006400; font-weight: bold;">-29.4</span> | <span style="color: #004225; font-weight: bold;">-14.1</span> | **38** | <span style="color: #000000; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
+| **2025/11** | **0.288** | <span style="color: #228B22; font-weight: bold;">-30.2</span> | <span style="color: #004225; font-weight: bold;">-12.4</span> | **47.15** | <span style="color: #000000; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
+| **2025/10** | **0.279** | <span style="color: #006400; font-weight: bold;">-27.1</span> | <span style="color: #004225; font-weight: bold;">-10.3</span> | **46.5** | <span style="color: #000000; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
+| **2025/09** | **0.257** | <span style="color: #006400; font-weight: bold;">-28.1</span> | <span style="color: #002818; font-weight: bold;">-8.13</span> | **41** | <span style="color: #000000; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
+| **2025/08** | **0.26** | <span style="color: #004225; font-weight: bold;">-19</span> | <span style="color: #002818; font-weight: bold;">-5.44</span> | **46.05** | <span style="color: #000000; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
+| **2025/07** | **0.29** | <span style="color: #004225; font-weight: bold;">-12.9</span> | <span style="color: #002818; font-weight: bold;">-3.59</span> | **50.6** | <span style="color: #000000; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
+| **2025/06** | **0.336** | <span style="color: #8B0000; font-weight: bold;">+2.53</span> | <span style="color: #002818; font-weight: bold;">-2.05</span> | **48.4** | <span style="color: #000000; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
+| **2025/05** | **0.327** | <span style="color: #002818; font-weight: bold;">-2.2</span> | <span style="color: #002818; font-weight: bold;">-2.94</span> | **43.9** | <span style="color: #000000; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
+| **2025/04** | **0.312** | <span style="color: #002818; font-weight: bold;">-4.32</span> | <span style="color: #002818; font-weight: bold;">-3.12</span> | **46.5** | <span style="color: #000000; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
+| **2025/03** | **0.335** | <span style="color: #002818; font-weight: bold;">-9.88</span> | <span style="color: #002818; font-weight: bold;">-2.73</span> | **59.5** | <span style="color: #000000; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
+| **2025/02** | **0.332** | <span style="color: #B22222; font-weight: bold;">+14.4</span> | <span style="color: #8B0000; font-weight: bold;">+1.33</span> | **71.4** | <span style="color: #000000; font-weight: bold;">-5.4</span> | <span style="color: #000000;">-</span> |
 | **2025/01** | **0.329** | <span style="color: #002818; font-weight: bold;">-9.14</span> | <span style="color: #002818; font-weight: bold;">-9.14</span> | **-** | N/A | N/A |
 
 </div>
@@ -188,7 +188,7 @@ description: 月營收表 凱鈿 (7737) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-15 21:34:10 CST
+- **產生時間**: 2026-03-16 03:16:58 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

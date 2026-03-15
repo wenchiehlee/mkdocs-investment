@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-15
+date: 2026-03-16
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 金興精密 (7732) - 自動產生
     **:building_construction: 公司名稱**: 金興精密  
     **:identification_card: 股票代號**: 7732  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-15 21:34:10 CST
+    **:clock3: 更新時間**: 2026-03-16 03:16:58 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 金興精密 (7732) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **1.69** | **1.93** | **2.31** |
-| **P/E倍數** | **18.81** | **21.00** | **26.39** |
+| **EPS(元)** | **1.52** | **1.83** | **2.22** |
+| **P/E倍數** | **18.85** | **21.63** | **25.72** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 金興精密 歷史平均獲利能力 (σup=0.39, σlo=0.24)
-    - **P/Ebase**: 金興精密 歷史平均估值水準 (σup=5.39, σlo=2.20)
+    - **EPSbase**: 金興精密 歷史平均獲利能力 (σup=0.39, σlo=0.30)
+    - **P/Ebase**: 金興精密 歷史平均估值水準 (σup=4.10, σlo=2.78)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,18 +79,18 @@ description: 月營收表 金興精密 (7732) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **0.818** | <span style="color: #004225; font-weight: bold;">-19</span> | <span style="color: #004225; font-weight: bold;">-10.6</span> | **39.85** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #002818; font-weight: bold;">20.76</span> |
-| **2026/01** | **0.884** | <span style="color: #002818; font-weight: bold;">-1.13</span> | <span style="color: #002818; font-weight: bold;">-1.13</span> | **36.6** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #004225; font-weight: bold;">19.06</span> |
-| **2025/12** | **0.733** | <span style="color: #006400; font-weight: bold;">-26.8</span> | <span style="color: #8B0000; font-weight: bold;">+0.66</span> | **40.2** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #002818; font-weight: bold;">20.94</span> |
-| **2025/11** | **0.837** | <span style="color: #002818; font-weight: bold;">-6.91</span> | <span style="color: #8B0000; font-weight: bold;">+3.45</span> | **39.35** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #002818; font-weight: bold;">20.49</span> |
-| **2025/10** | **0.585** | <span style="color: #8B0000; font-weight: bold;">+2.43</span> | <span style="color: #8B0000; font-weight: bold;">+4.49</span> | **35.75** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #006400; font-weight: bold;">18.62</span> |
-| **2025/09** | **0.755** | <span style="color: #B22222; font-weight: bold;">+18.4</span> | <span style="color: #8B0000; font-weight: bold;">+4.29</span> | **36.95** | <span style="color: #002818; font-weight: bold;">1.92</span> | <span style="color: #004225; font-weight: bold;">19.24</span> |
-| **2025/08** | **0.841** | <span style="color: #002818; font-weight: bold;">-0.61</span> | <span style="color: #8B0000; font-weight: bold;">+3.13</span> | **36.5** | <span style="color: #004225; font-weight: bold;">1.73</span> | <span style="color: #8B0000; font-weight: bold;">21.1</span> |
-| **2025/07** | **0.663** | <span style="color: #B22222; font-weight: bold;">+15.6</span> | <span style="color: #8B0000; font-weight: bold;">+3.59</span> | **38** | <span style="color: #228B22; font-weight: bold;">1.54</span> | <span style="color: #B22222; font-weight: bold;">24.68</span> |
-| **2025/06** | **1.05** | <span style="color: #002818; font-weight: bold;">-1.48</span> | <span style="color: #8B0000; font-weight: bold;">+2.51</span> | **40.85** | <span style="color: #32CD32; font-weight: bold;">1.35</span> | <span style="color: #FF4500; font-weight: bold;">30.26</span> |
-| **2025/05** | **1.04** | <span style="color: #004225; font-weight: bold;">-11.5</span> | <span style="color: #8B0000; font-weight: bold;">+3.31</span> | **42.45** | <span style="color: #004225; font-weight: bold;">1.69</span> | <span style="color: #B22222; font-weight: bold;">25.12</span> |
-| **2025/04** | **1.1** | <span style="color: #002818; font-weight: bold;">-5.65</span> | <span style="color: #8B0000; font-weight: bold;">+7.54</span> | **41.85** | <span style="color: #8B0000; font-weight: bold;">2.03</span> | <span style="color: #002818; font-weight: bold;">20.62</span> |
-| **2025/03** | **1.42** | <span style="color: #8B0000; font-weight: bold;">+0.66</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **38.75** | <span style="color: #DC143C; font-weight: bold;">2.37</span> | <span style="color: #32CD32; font-weight: bold;">16.35</span> |
+| **2026/02** | **0.818** | <span style="color: #004225; font-weight: bold;">-19</span> | <span style="color: #004225; font-weight: bold;">-10.6</span> | **39.85** | <span style="color: #002818; font-weight: bold;">1.73</span> | <span style="color: #8B0000; font-weight: bold;">23.03</span> |
+| **2026/01** | **0.884** | <span style="color: #002818; font-weight: bold;">-1.13</span> | <span style="color: #002818; font-weight: bold;">-1.13</span> | **36.6** | <span style="color: #002818; font-weight: bold;">1.73</span> | <span style="color: #002818; font-weight: bold;">21.16</span> |
+| **2025/12** | **0.733** | <span style="color: #006400; font-weight: bold;">-26.8</span> | <span style="color: #8B0000; font-weight: bold;">+0.66</span> | **40.2** | <span style="color: #002818; font-weight: bold;">1.73</span> | <span style="color: #8B0000; font-weight: bold;">23.24</span> |
+| **2025/11** | **0.837** | <span style="color: #002818; font-weight: bold;">-6.91</span> | <span style="color: #8B0000; font-weight: bold;">+3.45</span> | **39.35** | <span style="color: #002818; font-weight: bold;">1.73</span> | <span style="color: #8B0000; font-weight: bold;">21.94</span> |
+| **2025/10** | **0.585** | <span style="color: #8B0000; font-weight: bold;">+2.43</span> | <span style="color: #8B0000; font-weight: bold;">+4.49</span> | **35.75** | <span style="color: #002818; font-weight: bold;">1.73</span> | <span style="color: #004225; font-weight: bold;">19.25</span> |
+| **2025/09** | **0.755** | <span style="color: #B22222; font-weight: bold;">+18.4</span> | <span style="color: #8B0000; font-weight: bold;">+4.29</span> | **36.95** | <span style="color: #8B0000; font-weight: bold;">1.92</span> | <span style="color: #004225; font-weight: bold;">19.24</span> |
+| **2025/08** | **0.841** | <span style="color: #002818; font-weight: bold;">-0.61</span> | <span style="color: #8B0000; font-weight: bold;">+3.13</span> | **36.5** | <span style="color: #8B0000; font-weight: bold;">1.92</span> | <span style="color: #002818; font-weight: bold;">21.1</span> |
+| **2025/07** | **0.663** | <span style="color: #B22222; font-weight: bold;">+15.6</span> | <span style="color: #8B0000; font-weight: bold;">+3.59</span> | **38** | <span style="color: #8B0000; font-weight: bold;">1.92</span> | <span style="color: #B22222; font-weight: bold;">24.68</span> |
+| **2025/06** | **1.05** | <span style="color: #002818; font-weight: bold;">-1.48</span> | <span style="color: #8B0000; font-weight: bold;">+2.51</span> | **40.85** | <span style="color: #228B22; font-weight: bold;">1.35</span> | <span style="color: #FF6347; font-weight: bold;">30.26</span> |
+| **2025/05** | **1.04** | <span style="color: #004225; font-weight: bold;">-11.5</span> | <span style="color: #8B0000; font-weight: bold;">+3.31</span> | **42.45** | <span style="color: #228B22; font-weight: bold;">1.35</span> | <span style="color: #B22222; font-weight: bold;">25.12</span> |
+| **2025/04** | **1.1** | <span style="color: #002818; font-weight: bold;">-5.65</span> | <span style="color: #8B0000; font-weight: bold;">+7.54</span> | **41.85** | <span style="color: #228B22; font-weight: bold;">1.35</span> | <span style="color: #002818; font-weight: bold;">20.62</span> |
+| **2025/03** | **1.42** | <span style="color: #8B0000; font-weight: bold;">+0.66</span> | <span style="color: #B22222; font-weight: bold;">+12.7</span> | **38.75** | <span style="color: #DC143C; font-weight: bold;">2.37</span> | <span style="color: #228B22; font-weight: bold;">16.35</span> |
 | **2025/02** | **1.01** | <span style="color: #B22222; font-weight: bold;">+14.6</span> | <span style="color: #DC143C; font-weight: bold;">+23.8</span> | **43.7** | <span style="color: #DC143C; font-weight: bold;">2.37</span> | <span style="color: #006400; font-weight: bold;">18.44</span> |
 | **2025/01** | **0.894** | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | **43.5** | <span style="color: #DC143C; font-weight: bold;">2.37</span> | <span style="color: #006400; font-weight: bold;">18.35</span> |
 | **2024/12** | **1** | <span style="color: #8B0000; font-weight: bold;">+5.17</span> | <span style="color: #8B0000; font-weight: bold;">+5.02</span> | **-** | N/A | N/A |
@@ -201,7 +201,7 @@ description: 月營收表 金興精密 (7732) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-15 21:34:10 CST
+- **產生時間**: 2026-03-16 03:16:58 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
