@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-17
+date: 2026-03-18
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
     **:building_construction: 公司名稱**: 富邦金  
     **:identification_card: 股票代號**: 2881  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-17 22:05:37 CST
+    **:clock3: 更新時間**: 2026-03-18 01:44:56 CST
 
 ## :bar_chart: 績效概覽
 
@@ -79,11 +79,11 @@ description: 月營收表 富邦金 (2881) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **293.7** | <span style="color: #FF7F7F; font-weight: bold;">+69</span> | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | **94.2** | <span style="color: #B22222; font-weight: bold;">8.34</span> | <span style="color: #002818; font-weight: bold;">11.29</span> |
-| **2026/01** | **238.8** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **90.9** | <span style="color: #B22222; font-weight: bold;">8.34</span> | <span style="color: #002818; font-weight: bold;">10.9</span> |
-| **2025/12** | **426.5** | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | <span style="color: #8B0000; font-weight: bold;">+9.75</span> | **96.1** | <span style="color: #B22222; font-weight: bold;">8.34</span> | <span style="color: #002818; font-weight: bold;">11.52</span> |
-| **2025/11** | **529.7** | <span style="color: #FF7F7F; font-weight: bold;">+53.5</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **92.6** | <span style="color: #B22222; font-weight: bold;">8.34</span> | <span style="color: #002818; font-weight: bold;">11.1</span> |
-| **2025/10** | **483.9** | <span style="color: #FF7F7F; font-weight: bold;">+63</span> | <span style="color: #8B0000; font-weight: bold;">+4.47</span> | **91.2** | <span style="color: #B22222; font-weight: bold;">8.34</span> | <span style="color: #002818; font-weight: bold;">10.94</span> |
+| **2026/02** | **293.7** | <span style="color: #FF7F7F; font-weight: bold;">+69</span> | <span style="color: #FF4500; font-weight: bold;">+36.4</span> | **94.2** | <span style="color: #B22222; font-weight: bold;">8.37</span> | <span style="color: #002818; font-weight: bold;">11.25</span> |
+| **2026/01** | **238.8** | <span style="color: #B22222; font-weight: bold;">+10.2</span> | <span style="color: #B22222; font-weight: bold;">+10.2</span> | **90.9** | <span style="color: #B22222; font-weight: bold;">8.37</span> | <span style="color: #002818; font-weight: bold;">10.86</span> |
+| **2025/12** | **426.5** | <span style="color: #8B0000; font-weight: bold;">+8.09</span> | <span style="color: #8B0000; font-weight: bold;">+9.75</span> | **96.1** | <span style="color: #B22222; font-weight: bold;">8.37</span> | <span style="color: #002818; font-weight: bold;">11.48</span> |
+| **2025/11** | **529.7** | <span style="color: #FF7F7F; font-weight: bold;">+53.5</span> | <span style="color: #8B0000; font-weight: bold;">+9.96</span> | **92.6** | <span style="color: #B22222; font-weight: bold;">8.37</span> | <span style="color: #002818; font-weight: bold;">11.08</span> |
+| **2025/10** | **483.9** | <span style="color: #FF7F7F; font-weight: bold;">+63</span> | <span style="color: #8B0000; font-weight: bold;">+4.47</span> | **91.2** | <span style="color: #B22222; font-weight: bold;">8.37</span> | <span style="color: #002818; font-weight: bold;">10.92</span> |
 | **2025/09** | **356.5** | <span style="color: #FF7F7F; font-weight: bold;">+56.5</span> | <span style="color: #002818; font-weight: bold;">-2.64</span> | **88.3** | <span style="color: #B22222; font-weight: bold;">8.34</span> | <span style="color: #004225; font-weight: bold;">10.59</span> |
 | **2025/08** | **573.9** | <span style="color: #FF7F7F; font-weight: bold;">+1442.6</span> | <span style="color: #002818; font-weight: bold;">-8.74</span> | **83.9** | <span style="color: #B22222; font-weight: bold;">8.34</span> | <span style="color: #004225; font-weight: bold;">9.96</span> |
 | **2025/07** | **316.1** | <span style="color: #006400; font-weight: bold;">-27.2</span> | <span style="color: #228B22; font-weight: bold;">-33.6</span> | **82.4** | <span style="color: #B22222; font-weight: bold;">8.34</span> | <span style="color: #004225; font-weight: bold;">9.69</span> |
@@ -414,7 +414,7 @@ description: 月營收表 富邦金 (2881) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-17 22:05:37 CST
+- **產生時間**: 2026-03-18 01:44:56 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 

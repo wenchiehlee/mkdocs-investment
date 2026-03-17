@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-17
+date: 2026-03-18
 categories:
   - 股票
   - 月營收
@@ -25,7 +25,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
     **:building_construction: 公司名稱**: 鴻海  
     **:identification_card: 股票代號**: 2317  
     **:calendar: 最新資料**: 2026/02  
-    **:clock3: 更新時間**: 2026-03-17 22:05:37 CST
+    **:clock3: 更新時間**: 2026-03-18 01:44:56 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,14 +62,14 @@ description: 月營收表 鴻海 (2317) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **7.74** | **9.20** | **11.30** |
-| **P/E倍數** | **10.13** | **12.64** | **17.24** |
+| **EPS(元)** | **7.74** | **9.20** | **11.29** |
+| **P/E倍數** | **10.13** | **12.64** | **17.25** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 鴻海 歷史平均獲利能力 (σup=2.10, σlo=1.46)
+    - **EPSbase**: 鴻海 歷史平均獲利能力 (σup=2.09, σlo=1.45)
     - **P/Ebase**: 鴻海 歷史平均估值水準 (σup=4.60, σlo=2.51)
 
 
@@ -79,11 +79,11 @@ description: 月營收表 鴻海 (2317) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/02** | **5958** | <span style="color: #8B0000; font-weight: bold;">+8.05</span> | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | **243** | <span style="color: #FF6347; font-weight: bold;">13.72</span> | <span style="color: #DC143C; font-weight: bold;">17.71</span> |
-| **2026/01** | **7300** | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | **220.5** | <span style="color: #FF6347; font-weight: bold;">13.72</span> | <span style="color: #B22222; font-weight: bold;">16.07</span> |
-| **2025/12** | **8629** | <span style="color: #FF4500; font-weight: bold;">+31.8</span> | <span style="color: #B22222; font-weight: bold;">+18.1</span> | **230.5** | <span style="color: #FF6347; font-weight: bold;">13.72</span> | <span style="color: #B22222; font-weight: bold;">16.8</span> |
-| **2025/11** | **8443** | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **225.5** | <span style="color: #FF6347; font-weight: bold;">13.72</span> | <span style="color: #B22222; font-weight: bold;">16.44</span> |
-| **2025/10** | **8957** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #B22222; font-weight: bold;">+15.5</span> | **257.5** | <span style="color: #FF6347; font-weight: bold;">13.72</span> | <span style="color: #DC143C; font-weight: bold;">18.77</span> |
+| **2026/02** | **5958** | <span style="color: #8B0000; font-weight: bold;">+8.05</span> | <span style="color: #DC143C; font-weight: bold;">+21.6</span> | **243** | <span style="color: #FF6347; font-weight: bold;">13.61</span> | <span style="color: #DC143C; font-weight: bold;">17.85</span> |
+| **2026/01** | **7300** | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | <span style="color: #FF4500; font-weight: bold;">+35.5</span> | **220.5** | <span style="color: #FF6347; font-weight: bold;">13.61</span> | <span style="color: #B22222; font-weight: bold;">16.2</span> |
+| **2025/12** | **8629** | <span style="color: #FF4500; font-weight: bold;">+31.8</span> | <span style="color: #B22222; font-weight: bold;">+18.1</span> | **230.5** | <span style="color: #FF6347; font-weight: bold;">13.61</span> | <span style="color: #B22222; font-weight: bold;">16.94</span> |
+| **2025/11** | **8443** | <span style="color: #DC143C; font-weight: bold;">+25.5</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **225.5** | <span style="color: #FF6347; font-weight: bold;">13.61</span> | <span style="color: #B22222; font-weight: bold;">16.52</span> |
+| **2025/10** | **8957** | <span style="color: #B22222; font-weight: bold;">+11.3</span> | <span style="color: #B22222; font-weight: bold;">+15.5</span> | **257.5** | <span style="color: #FF6347; font-weight: bold;">13.61</span> | <span style="color: #DC143C; font-weight: bold;">18.82</span> |
 | **2025/09** | **8371** | <span style="color: #B22222; font-weight: bold;">+14.2</span> | <span style="color: #B22222; font-weight: bold;">+16.3</span> | **216** | <span style="color: #FF6347; font-weight: bold;">13.72</span> | <span style="color: #B22222; font-weight: bold;">15.74</span> |
 | **2025/08** | **6065** | <span style="color: #B22222; font-weight: bold;">+10.6</span> | <span style="color: #B22222; font-weight: bold;">+16.6</span> | **203.5** | <span style="color: #FF6347; font-weight: bold;">13.72</span> | <span style="color: #B22222; font-weight: bold;">15.05</span> |
 | **2025/07** | **6139** | <span style="color: #8B0000; font-weight: bold;">+7.25</span> | <span style="color: #B22222; font-weight: bold;">+17.6</span> | **178** | <span style="color: #FF6347; font-weight: bold;">13.72</span> | <span style="color: #8B0000; font-weight: bold;">13.36</span> |
@@ -128,7 +128,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
 | **2022/04** | **4865** | <span style="color: #002818; font-weight: bold;">-2.8</span> | <span style="color: #8B0000; font-weight: bold;">+2.75</span> | **102** | <span style="color: #B22222; font-weight: bold;">10.41</span> | <span style="color: #006400; font-weight: bold;">9.98</span> |
 | **2022/03** | **5074** | <span style="color: #B22222; font-weight: bold;">+15</span> | <span style="color: #8B0000; font-weight: bold;">+4.82</span> | **106** | <span style="color: #8B0000; font-weight: bold;">10.12</span> | <span style="color: #004225; font-weight: bold;">10.47</span> |
 | **2022/02** | **4550** | <span style="color: #B22222; font-weight: bold;">+13.2</span> | <span style="color: #002818; font-weight: bold;">-0.14</span> | **103** | <span style="color: #8B0000; font-weight: bold;">10.12</span> | <span style="color: #004225; font-weight: bold;">10.2</span> |
-| **2022/01** | **4458** | <span style="color: #004225; font-weight: bold;">-10.9</span> | <span style="color: #004225; font-weight: bold;">-10.9</span> | **102** | <span style="color: #8B0000; font-weight: bold;">10.12</span> | <span style="color: #004225; font-weight: bold;">10.13</span> |
+| **2022/01** | **4458** | <span style="color: #004225; font-weight: bold;">-10.9</span> | <span style="color: #004225; font-weight: bold;">-10.9</span> | **102** | <span style="color: #8B0000; font-weight: bold;">10.12</span> | <span style="color: #006400; font-weight: bold;">10.13</span> |
 | **2021/12** | **7176** | <span style="color: #8B0000; font-weight: bold;">+0.53</span> | <span style="color: #B22222; font-weight: bold;">+11.9</span> | **104** | <span style="color: #8B0000; font-weight: bold;">10.05</span> | <span style="color: #004225; font-weight: bold;">10.35</span> |
 | **2021/11** | **6217** | <span style="color: #002818; font-weight: bold;">-8.75</span> | <span style="color: #B22222; font-weight: bold;">+13.7</span> | **103.5** | <span style="color: #8B0000; font-weight: bold;">10.05</span> | <span style="color: #004225; font-weight: bold;">10.26</span> |
 | **2021/10** | **5509** | <span style="color: #004225; font-weight: bold;">-10.1</span> | <span style="color: #B22222; font-weight: bold;">+17.5</span> | **107** | <span style="color: #8B0000; font-weight: bold;">10.05</span> | <span style="color: #004225; font-weight: bold;">10.56</span> |
@@ -404,7 +404,7 @@ description: 月營收表 鴻海 (2317) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-17 22:05:37 CST
+- **產生時間**: 2026-03-18 01:44:56 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
