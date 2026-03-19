@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-18
+date: 2026-03-19
 categories:
   - 股票
   - 股利分配
@@ -24,7 +24,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 123 檔) - 自動
 # :bar_chart: 股利分配總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-03-18 22:10:46 CST  
+    **:calendar: 產生時間**: 2026-03-19 12:49:39 CST  
     **:building_construction: 分析股票總數**: 126 檔 (有效 123 檔)  
     **:chart_with_upwards_trend: 報告類型**: 完整股利分配分析  
     **:file_folder: 資料來源**: Stage 2 cleaned_dividends.csv + cleaned_performance1.csv
@@ -136,9 +136,9 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 123 檔) - 自動
 <td>[**2317**](../stage2-cleaning-dividends-report/stage2-cleaning-dividends-report-2317/)</td>
 <td>鴻海</td>
 <td>7.20</td>
-<td>🔼 7.72</td>
+<td>🔼 8.21</td>
 <td>🔼 7.63</td>
-<td>🔼 7.72</td>
+<td>🔼 8.21</td>
 <td>3.43%</td>
 <td>03/18 11:12</td>
 <td>3.50%</td>
@@ -166,7 +166,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 123 檔) - 自動
 <td>12.00</td>
 <td>🔼 23.95</td>
 <td>🔼 24.33</td>
-<td>🔼 26.73</td>
+<td>🔼 26.41</td>
 <td>0.63%</td>
 <td>03/18 11:13</td>
 <td>0.78%</td>
@@ -1825,7 +1825,7 @@ description: 股利分配總覽 - 所有 126 檔股票 (有效 123 檔) - 自動
     - **平均資料品質**: 9.5/10
 
 !!! info "報告元資訊"
-    - **報告產生時間**: 2026-03-18 22:10:46
+    - **報告產生時間**: 2026-03-19 12:49:39
     - **資料來源**: Stage 2 資料清理股利報告系統
     - **主要資料**: `cleaned_dividends.csv` (Type 1: DividendDetail)
     - **EPS資料**: `cleaned_performance1.csv` (Type 7: Quarterly Performance)
