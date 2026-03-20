@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-03-19
+date: 2026-03-20
 categories:
   - 股票
   - 融資餘額
@@ -19,7 +19,7 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 # 📈 融資餘額總覽 - 所有股票
 
 !!! info "報告概覽"
-    **:calendar: 產生時間**: 2026-03-19 21:56:04 CST  
+    **:calendar: 產生時間**: 2026-03-20 12:38:19 CST  
     **:building_construction: 分析股票總數**: 127 檔  
     **:chart_with_upwards_trend: 報告類型**: 融資餘額總覽  
     **:file_folder: 資料來源**: Stage 2 cleaned_margin_daily.csv + cleaned_margin_weekly.csv + cleaned_margin_monthly.csv
@@ -47,86 +47,86 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <tr>
 <td markdown="span">[**0000**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-0000/)</td>
 <td>台灣加權指數</td>
-<td>3997.7</td>
+<td>4021.0</td>
 <td>+8.62%</td>
 <td>+4.47%</td>
-<td>34348.58</td>
+<td>33689.68</td>
 <td>106.61 兆元</td>
-<td>0.37%</td>
+<td>0.38%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2301**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2301/)</td>
 <td>光寶科</td>
-<td>29.5</td>
+<td>29.0</td>
 <td>-3.42%</td>
 <td>+3.32%</td>
-<td>170.00</td>
+<td>160.50</td>
 <td>3718.4 億元</td>
-<td>0.79%</td>
+<td>0.78%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2303**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2303/)</td>
 <td>聯電</td>
-<td>44.2</td>
+<td>43.1</td>
 <td>-15.79%</td>
 <td>-5.73%</td>
-<td>61.10</td>
+<td>58.70</td>
 <td>7383.6 億元</td>
-<td>0.60%</td>
+<td>0.58%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2308**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2308/)</td>
 <td>台達電</td>
-<td>80.6</td>
+<td>77.0</td>
 <td>-0.73%</td>
 <td>+6.44%</td>
-<td>1465.00</td>
+<td>1455.00</td>
 <td>3.78 兆元</td>
-<td>0.21%</td>
+<td>0.20%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2317**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2317/)</td>
 <td>鴻海</td>
-<td>135.9</td>
+<td>136.1</td>
 <td>-3.15%</td>
 <td>+1.12%</td>
-<td>210.00</td>
+<td>205.00</td>
 <td>2.86 兆元</td>
 <td>0.48%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2324**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2324/)</td>
 <td>仁寶</td>
-<td>8.9</td>
+<td>8.6</td>
 <td>-10.46%</td>
 <td>-12.06%</td>
-<td>32.85</td>
+<td>32.60</td>
 <td>1436.7 億元</td>
-<td>0.62%</td>
+<td>0.60%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2330**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2330/)</td>
 <td>台積電</td>
-<td>477.0</td>
+<td>486.0</td>
 <td>+17.07%</td>
 <td>+6.79%</td>
-<td>1905.00</td>
+<td>1850.00</td>
 <td>47.98 兆元</td>
 <td>0.10%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2332**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2332/)</td>
@@ -134,227 +134,227 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>3.2</td>
 <td>-3.50%</td>
 <td>+1.54%</td>
-<td>15.55</td>
+<td>15.50</td>
 <td>93.3 億元</td>
-<td>3.41%</td>
+<td>3.42%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2345**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2345/)</td>
 <td>智邦</td>
-<td>39.3</td>
+<td>35.8</td>
 <td>+31.90%</td>
 <td>+51.68%</td>
-<td>1600.00</td>
+<td>1590.00</td>
 <td>8921.8 億元</td>
-<td>0.44%</td>
+<td>0.40%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2347**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2347/)</td>
 <td>聯強</td>
-<td>0.7</td>
+<td>0.6</td>
 <td>+6.90%</td>
 <td>+35.10%</td>
-<td>80.00</td>
+<td>78.40</td>
 <td>1307.7 億元</td>
 <td>0.05%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2353**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2353/)</td>
 <td>宏碁</td>
-<td>8.7</td>
+<td>9.1</td>
 <td>+1.05%</td>
 <td>+12.19%</td>
-<td>28.90</td>
+<td>28.35</td>
 <td>864.1 億元</td>
-<td>1.01%</td>
+<td>1.05%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2354**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2354/)</td>
 <td>鴻準</td>
-<td>14.6</td>
+<td>14.2</td>
 <td>-7.14%</td>
 <td>-1.07%</td>
-<td>55.00</td>
+<td>53.20</td>
 <td>752.5 億元</td>
-<td>1.94%</td>
+<td>1.88%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2356**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2356/)</td>
 <td>英業達</td>
-<td>11.9</td>
+<td>11.8</td>
 <td>-12.89%</td>
 <td>-2.13%</td>
-<td>44.35</td>
+<td>43.45</td>
 <td>1558.8 億元</td>
-<td>0.77%</td>
+<td>0.75%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2357**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2357/)</td>
 <td>華碩</td>
-<td>18.8</td>
+<td>17.6</td>
 <td>+23.67%</td>
 <td>+33.99%</td>
-<td>594.00</td>
+<td>578.00</td>
 <td>4293.1 億元</td>
-<td>0.44%</td>
+<td>0.41%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2359**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2359/)</td>
 <td>所羅門</td>
-<td>7.6</td>
+<td>7.3</td>
 <td>-13.22%</td>
 <td>-4.40%</td>
-<td>119.50</td>
+<td>116.50</td>
 <td>199.8 億元</td>
-<td>3.78%</td>
+<td>3.67%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2360**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2360/)</td>
 <td>致茂</td>
-<td>54.0</td>
+<td>55.3</td>
 <td>+616.76%</td>
 <td>+22.68%</td>
-<td>1565.00</td>
+<td>1595.00</td>
 <td>6782.7 億元</td>
-<td>0.80%</td>
+<td>0.81%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2376**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2376/)</td>
 <td>技嘉</td>
-<td>19.9</td>
+<td>19.4</td>
 <td>+3.32%</td>
 <td>+9.44%</td>
-<td>249.50</td>
+<td>247.50</td>
 <td>1658.0 億元</td>
-<td>1.20%</td>
+<td>1.17%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2377**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2377/)</td>
 <td>微星</td>
-<td>13.9</td>
+<td>14.2</td>
 <td>+0.41%</td>
 <td>+3.54%</td>
-<td>97.50</td>
+<td>94.30</td>
 <td>796.7 億元</td>
-<td>1.75%</td>
+<td>1.78%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2379**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2379/)</td>
 <td>瑞昱</td>
-<td>17.6</td>
+<td>17.4</td>
 <td>-1.51%</td>
 <td>+0.61%</td>
-<td>482.00</td>
+<td>476.50</td>
 <td>2456.4 億元</td>
-<td>0.72%</td>
+<td>0.71%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2382**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2382/)</td>
 <td>廣達</td>
-<td>36.5</td>
+<td>36.1</td>
 <td>-0.91%</td>
 <td>+0.91%</td>
-<td>293.00</td>
+<td>286.50</td>
 <td>1.11 兆元</td>
 <td>0.33%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2383**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2383/)</td>
 <td>台光電</td>
-<td>51.4</td>
+<td>53.4</td>
 <td>+5.17%</td>
 <td>+14.95%</td>
-<td>2700.00</td>
+<td>2890.00</td>
 <td>1.00 兆元</td>
-<td>0.51%</td>
+<td>0.53%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2395**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2395/)</td>
 <td>研華</td>
-<td>7.8</td>
+<td>7.2</td>
 <td>-8.51%</td>
 <td>-9.68%</td>
-<td>349.00</td>
+<td>342.00</td>
 <td>2955.4 億元</td>
-<td>0.26%</td>
+<td>0.24%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2405**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2405/)</td>
 <td>輔信</td>
-<td>1.3</td>
+<td>1.2</td>
 <td>-4.08%</td>
 <td>+0.59%</td>
-<td>15.20</td>
+<td>15.10</td>
 <td>51.9 億元</td>
-<td>2.43%</td>
+<td>2.38%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2408**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2408/)</td>
 <td>南亞科</td>
-<td>343.9</td>
+<td>331.0</td>
 <td>-11.43%</td>
 <td>+29.47%</td>
-<td>276.00</td>
+<td>260.00</td>
 <td>8056.4 億元</td>
-<td>4.27%</td>
+<td>4.11%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2412**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2412/)</td>
 <td>中華電</td>
-<td>0.6</td>
+<td>0.7</td>
 <td>-18.50%</td>
 <td>-44.96%</td>
-<td>137.50</td>
+<td>135.50</td>
 <td>1.05 兆元</td>
 <td>0.01%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2449**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2449/)</td>
 <td>京元電子</td>
-<td>40.3</td>
+<td>35.4</td>
 <td>+17.22%</td>
 <td>+27.28%</td>
-<td>323.00</td>
+<td>316.00</td>
 <td>3863.9 億元</td>
-<td>1.04%</td>
-<td>🔴</td>
-<td>2026-03-18</td>
+<td>0.92%</td>
+<td>🟠</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2450**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2450/)</td>
@@ -362,83 +362,83 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>+38.74%</td>
 <td>-28.99%</td>
-<td>29.70</td>
+<td>29.50</td>
 <td>76.2 億元</td>
 <td>0.06%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2451**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2451/)</td>
 <td>創見</td>
-<td>21.3</td>
+<td>17.8</td>
 <td>+72.73%</td>
 <td>+110.37%</td>
-<td>313.50</td>
+<td>309.00</td>
 <td>1330.9 億元</td>
-<td>1.60%</td>
+<td>1.34%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2454**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2454/)</td>
 <td>聯發科</td>
-<td>103.0</td>
+<td>101.4</td>
 <td>-2.36%</td>
 <td>-0.63%</td>
-<td>1730.00</td>
+<td>1680.00</td>
 <td>2.69 兆元</td>
 <td>0.38%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2458**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2458/)</td>
 <td>義隆</td>
-<td>4.4</td>
+<td>4.0</td>
 <td>+43.76%</td>
 <td>-3.60%</td>
-<td>141.00</td>
+<td>136.50</td>
 <td>414.8 億元</td>
-<td>1.05%</td>
-<td>🔴</td>
-<td>2026-03-18</td>
+<td>0.97%</td>
+<td>🟠</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2474**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2474/)</td>
 <td>可成</td>
-<td>3.8</td>
+<td>3.7</td>
 <td>+49.50%</td>
 <td>+7.92%</td>
-<td>187.50</td>
+<td>188.00</td>
 <td>1113.3 億元</td>
-<td>0.34%</td>
+<td>0.33%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2480**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2480/)</td>
 <td>敦陽科</td>
-<td>0.7</td>
+<td>0.6</td>
 <td>+15.59%</td>
 <td>-8.77%</td>
-<td>144.00</td>
+<td>143.00</td>
 <td>152.1 億元</td>
-<td>0.43%</td>
+<td>0.42%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2603**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2603/)</td>
 <td>長榮</td>
-<td>33.7</td>
+<td>33.0</td>
 <td>+10.73%</td>
 <td>-2.14%</td>
-<td>218.00</td>
+<td>217.50</td>
 <td>4709.0 億元</td>
-<td>0.72%</td>
+<td>0.70%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2646**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2646/)</td>
@@ -446,23 +446,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.6</td>
 <td>-0.32%</td>
 <td>-1.48%</td>
-<td>21.65</td>
+<td>21.45</td>
 <td>645.4 億元</td>
 <td>0.09%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2881**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2881/)</td>
 <td>富邦金</td>
-<td>8.0</td>
+<td>7.9</td>
 <td>+7.33%</td>
 <td>+3.49%</td>
-<td>89.50</td>
+<td>88.20</td>
 <td>1.24 兆元</td>
 <td>0.06%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2882**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2882/)</td>
@@ -470,11 +470,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>3.7</td>
 <td>+41.63%</td>
 <td>+0.57%</td>
-<td>73.40</td>
+<td>71.60</td>
 <td>1.05 兆元</td>
-<td>0.03%</td>
+<td>0.04%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2884**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2884/)</td>
@@ -482,11 +482,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>1.1</td>
 <td>+26.20%</td>
 <td>+50.28%</td>
-<td>32.25</td>
+<td>31.70</td>
 <td>5127.2 億元</td>
 <td>0.02%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**2891**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-2891/)</td>
@@ -494,11 +494,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>1.5</td>
 <td>+14.87%</td>
 <td>-11.70%</td>
-<td>53.30</td>
+<td>51.60</td>
 <td>1.02 兆元</td>
 <td>0.01%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3014**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3014/)</td>
@@ -506,71 +506,71 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>2.9</td>
 <td>-5.16%</td>
 <td>-5.95%</td>
-<td>119.00</td>
+<td>117.50</td>
 <td>195.0 億元</td>
-<td>1.49%</td>
+<td>1.48%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3022**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3022/)</td>
 <td>威強電</td>
-<td>3.0</td>
+<td>3.4</td>
 <td>+1.97%</td>
 <td>+2.68%</td>
-<td>62.30</td>
+<td>68.50</td>
 <td>121.0 億元</td>
-<td>2.51%</td>
+<td>2.85%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3026**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3026/)</td>
 <td>禾伸堂</td>
-<td>3.2</td>
+<td>3.7</td>
 <td>+4.06%</td>
 <td>+28.11%</td>
-<td>118.00</td>
+<td>121.50</td>
 <td>201.6 億元</td>
-<td>1.58%</td>
+<td>1.84%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3029**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3029/)</td>
 <td>零壹</td>
-<td>3.7</td>
+<td>3.6</td>
 <td>+0.40%</td>
 <td>+2.78%</td>
-<td>118.00</td>
+<td>111.50</td>
 <td>186.2 億元</td>
-<td>1.98%</td>
+<td>1.95%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3034**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3034/)</td>
 <td>聯詠</td>
-<td>16.5</td>
+<td>16.6</td>
 <td>-4.17%</td>
 <td>-0.57%</td>
-<td>382.50</td>
+<td>373.50</td>
 <td>2272.8 億元</td>
-<td>0.72%</td>
+<td>0.73%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3035**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3035/)</td>
 <td>智原</td>
-<td>25.2</td>
+<td>24.9</td>
 <td>-4.43%</td>
 <td>-0.30%</td>
-<td>164.00</td>
+<td>160.50</td>
 <td>418.2 億元</td>
-<td>6.03%</td>
+<td>5.95%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3045**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3045/)</td>
@@ -578,23 +578,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.6</td>
 <td>-53.32%</td>
 <td>-34.25%</td>
-<td>110.00</td>
+<td>109.50</td>
 <td>4077.0 億元</td>
 <td>0.02%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3048**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3048/)</td>
 <td>益登</td>
-<td>2.3</td>
+<td>2.6</td>
 <td>+4.38%</td>
 <td>+7.39%</td>
-<td>41.35</td>
+<td>42.55</td>
 <td>114.8 億元</td>
-<td>2.04%</td>
+<td>2.23%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3150**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3150/)</td>
@@ -602,71 +602,71 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>-1.76%</td>
 <td>-5.90%</td>
-<td>16.10</td>
+<td>15.95</td>
 <td>7.1 億元</td>
 <td>0.24%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3158**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3158/)</td>
 <td>嘉實</td>
-<td>0.0</td>
+<td>0.1</td>
 <td>+666.67%</td>
 <td>+97.14%</td>
-<td>92.00</td>
+<td>91.80</td>
 <td>28.1 億元</td>
-<td>0.15%</td>
+<td>0.20%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3231**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3231/)</td>
 <td>緯創</td>
-<td>79.0</td>
+<td>76.7</td>
 <td>-0.97%</td>
 <td>+0.09%</td>
-<td>130.50</td>
+<td>127.50</td>
 <td>4055.0 億元</td>
-<td>1.95%</td>
+<td>1.89%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3260**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3260/)</td>
 <td>威剛</td>
-<td>74.5</td>
+<td>84.0</td>
 <td>+81.29%</td>
 <td>+63.06%</td>
-<td>477.50</td>
+<td>525.00</td>
 <td>1710.2 億元</td>
-<td>4.36%</td>
+<td>4.91%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3293**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3293/)</td>
 <td>鈊象</td>
-<td>25.7</td>
+<td>25.6</td>
 <td>-0.51%</td>
 <td>-4.65%</td>
-<td>745.00</td>
+<td>743.00</td>
 <td>2093.8 億元</td>
-<td>1.23%</td>
+<td>1.22%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3356**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3356/)</td>
 <td>奇偶</td>
-<td>1.1</td>
+<td>1.0</td>
 <td>+1.13%</td>
 <td>+12.58%</td>
-<td>51.20</td>
+<td>50.70</td>
 <td>40.5 億元</td>
-<td>2.66%</td>
+<td>2.59%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3467**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3467/)</td>
@@ -674,71 +674,71 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.1</td>
 <td>+26.50%</td>
 <td>+2.45%</td>
-<td>38.55</td>
+<td>37.70</td>
 <td>11.7 億元</td>
-<td>0.61%</td>
+<td>0.62%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3558**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3558/)</td>
 <td>神準</td>
-<td>2.3</td>
+<td>2.2</td>
 <td>+5.71%</td>
 <td>-3.08%</td>
-<td>129.50</td>
+<td>126.00</td>
 <td>74.4 億元</td>
-<td>3.03%</td>
+<td>2.96%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3653**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3653/)</td>
 <td>健策</td>
-<td>66.2</td>
+<td>62.1</td>
 <td>+5.05%</td>
 <td>-19.09%</td>
-<td>3980.00</td>
+<td>3900.00</td>
 <td>5574.0 億元</td>
-<td>1.19%</td>
+<td>1.11%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3661**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3661/)</td>
 <td>世芯-KY</td>
-<td>187.6</td>
+<td>188.0</td>
 <td>-4.68%</td>
 <td>-5.05%</td>
-<td>3300.00</td>
+<td>3220.00</td>
 <td>2603.6 億元</td>
-<td>7.21%</td>
+<td>7.22%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3665**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3665/)</td>
 <td>貿聯-KY</td>
-<td>47.6</td>
+<td>50.3</td>
 <td>+3.52%</td>
 <td>-6.80%</td>
-<td>1690.00</td>
+<td>1720.00</td>
 <td>3336.3 億元</td>
-<td>1.43%</td>
+<td>1.51%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**3711**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-3711/)</td>
 <td>日月光投控</td>
-<td>21.9</td>
+<td>18.9</td>
 <td>+48.47%</td>
 <td>+43.66%</td>
-<td>357.50</td>
+<td>347.00</td>
 <td>1.53 兆元</td>
-<td>0.14%</td>
+<td>0.12%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**4114**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-4114/)</td>
@@ -746,35 +746,35 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.7</td>
 <td>+5.32%</td>
 <td>+0.19%</td>
-<td>31.20</td>
+<td>30.90</td>
 <td>157.6 億元</td>
 <td>0.44%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**4749**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-4749/)</td>
 <td>新應材</td>
-<td>33.5</td>
+<td>32.2</td>
 <td>+27.76%</td>
 <td>-26.94%</td>
-<td>926.00</td>
+<td>914.00</td>
 <td>847.6 億元</td>
-<td>3.95%</td>
+<td>3.79%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**4938**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-4938/)</td>
 <td>和碩</td>
-<td>4.8</td>
+<td>4.6</td>
 <td>+16.09%</td>
 <td>+20.70%</td>
-<td>78.20</td>
+<td>77.30</td>
 <td>2073.3 億元</td>
-<td>0.23%</td>
+<td>0.22%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**4953**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-4953/)</td>
@@ -782,11 +782,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.8</td>
 <td>-33.85%</td>
 <td>-12.02%</td>
-<td>115.50</td>
+<td>115.00</td>
 <td>84.1 億元</td>
-<td>0.94%</td>
+<td>0.93%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**5203**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5203/)</td>
@@ -794,35 +794,35 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.9</td>
 <td>-31.06%</td>
 <td>-5.97%</td>
-<td>64.00</td>
+<td>62.90</td>
 <td>49.8 億元</td>
-<td>1.75%</td>
+<td>1.73%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**5269**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5269/)</td>
 <td>祥碩</td>
-<td>29.6</td>
+<td>28.9</td>
 <td>+8.88%</td>
 <td>-6.14%</td>
-<td>1250.00</td>
+<td>1205.00</td>
 <td>901.1 億元</td>
-<td>3.28%</td>
+<td>3.21%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**5274**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5274/)</td>
 <td>信驊</td>
-<td>9.3</td>
+<td>9.4</td>
 <td>+4.62%</td>
 <td>-10.84%</td>
-<td>12345.00</td>
+<td>12050.00</td>
 <td>4555.2 億元</td>
-<td>0.20%</td>
+<td>0.21%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**5434**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5434/)</td>
@@ -830,23 +830,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>1.6</td>
 <td>-11.84%</td>
 <td>+0.07%</td>
-<td>339.00</td>
+<td>329.50</td>
 <td>630.4 億元</td>
-<td>0.26%</td>
+<td>0.25%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**5536**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5536/)</td>
 <td>聖暉</td>
-<td>16.9</td>
+<td>16.7</td>
 <td>-3.55%</td>
 <td>-4.87%</td>
-<td>683.00</td>
+<td>680.00</td>
 <td>843.8 億元</td>
-<td>2.00%</td>
+<td>1.98%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**5904**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-5904/)</td>
@@ -854,11 +854,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>1.0</td>
 <td>+28.06%</td>
 <td>+7.00%</td>
-<td>510.00</td>
+<td>514.00</td>
 <td>547.1 億元</td>
 <td>0.18%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6035**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6035/)</td>
@@ -866,11 +866,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>+400.00%</td>
 <td>-25.00%</td>
-<td>52.90</td>
+<td>53.50</td>
 <td>38.1 億元</td>
-<td>0.05%</td>
+<td>0.01%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6123**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6123/)</td>
@@ -878,107 +878,107 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.1</td>
 <td>-9.49%</td>
 <td>-0.09%</td>
-<td>43.10</td>
+<td>43.45</td>
 <td>27.0 億元</td>
-<td>0.39%</td>
+<td>0.40%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6125**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6125/)</td>
 <td>廣運</td>
-<td>5.8</td>
+<td>5.6</td>
 <td>-17.19%</td>
 <td>+2.60%</td>
-<td>62.90</td>
+<td>60.70</td>
 <td>157.2 億元</td>
-<td>3.69%</td>
+<td>3.57%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6182**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6182/)</td>
 <td>合晶</td>
-<td>5.7</td>
+<td>5.6</td>
 <td>+26.07%</td>
 <td>+18.23%</td>
-<td>36.90</td>
+<td>37.30</td>
 <td>214.0 億元</td>
-<td>2.65%</td>
+<td>2.62%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6214**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6214/)</td>
 <td>精誠</td>
-<td>2.0</td>
+<td>1.7</td>
 <td>-15.59%</td>
 <td>+8.79%</td>
-<td>113.50</td>
+<td>112.00</td>
 <td>304.9 億元</td>
-<td>0.64%</td>
+<td>0.55%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6231**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6231/)</td>
 <td>系微</td>
-<td>6.9</td>
+<td>6.5</td>
 <td>+27.84%</td>
 <td>+27.39%</td>
-<td>241.00</td>
+<td>246.00</td>
 <td>112.3 億元</td>
-<td>6.17%</td>
+<td>5.76%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6285**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6285/)</td>
 <td>啟碁</td>
-<td>36.0</td>
+<td>35.5</td>
 <td>-11.34%</td>
 <td>-1.62%</td>
-<td>173.50</td>
+<td>173.00</td>
 <td>837.4 億元</td>
-<td>4.30%</td>
+<td>4.25%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6425**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6425/)</td>
 <td>易發</td>
-<td>3.3</td>
+<td>3.2</td>
 <td>+9.97%</td>
 <td>+0.90%</td>
-<td>67.50</td>
+<td>66.30</td>
 <td>33.7 億元</td>
-<td>9.68%</td>
+<td>9.44%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6442**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6442/)</td>
 <td>光聖</td>
-<td>76.9</td>
+<td>79.3</td>
 <td>-4.11%</td>
 <td>-14.07%</td>
-<td>1850.00</td>
+<td>1930.00</td>
 <td>1506.8 億元</td>
-<td>5.10%</td>
+<td>5.26%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6462**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6462/)</td>
 <td>神盾</td>
-<td>5.0</td>
+<td>4.9</td>
 <td>-11.66%</td>
 <td>-9.53%</td>
-<td>102.50</td>
+<td>98.40</td>
 <td>89.8 億元</td>
-<td>5.61%</td>
+<td>5.42%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6506**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6506/)</td>
@@ -988,45 +988,45 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>-9.17%</td>
 <td>16.70</td>
 <td>13.8 億元</td>
-<td>0.33%</td>
+<td>0.31%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6510**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6510/)</td>
 <td>精測</td>
-<td>14.7</td>
+<td>14.4</td>
 <td>+39.70%</td>
 <td>+16.50%</td>
-<td>3735.00</td>
+<td>3550.00</td>
 <td>1164.0 億元</td>
-<td>1.26%</td>
+<td>1.24%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6526**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6526/)</td>
 <td>達發</td>
-<td>6.9</td>
+<td>6.7</td>
 <td>+22.23%</td>
 <td>-5.32%</td>
-<td>516.00</td>
+<td>502.00</td>
 <td>840.9 億元</td>
-<td>0.82%</td>
+<td>0.80%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6561**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6561/)</td>
 <td>是方</td>
-<td>1.2</td>
+<td>1.1</td>
 <td>+2.64%</td>
 <td>-15.28%</td>
-<td>357.00</td>
+<td>350.00</td>
 <td>272.9 億元</td>
-<td>0.43%</td>
+<td>0.42%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6597**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6597/)</td>
@@ -1034,11 +1034,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>-85.71%</td>
 <td>-80.00%</td>
-<td>62.50</td>
+<td>62.20</td>
 <td>18.7 億元</td>
-<td>0.00%</td>
-<td>🟢</td>
-<td>2026-03-18</td>
+<td>N/A</td>
+<td>-</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6613**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6613/)</td>
@@ -1046,23 +1046,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>1.0</td>
 <td>+21.30%</td>
 <td>-6.01%</td>
-<td>198.50</td>
+<td>196.00</td>
 <td>152.5 億元</td>
-<td>0.64%</td>
+<td>0.63%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6669**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6669/)</td>
 <td>緯穎</td>
-<td>95.9</td>
+<td>95.0</td>
 <td>+13.51%</td>
 <td>+4.46%</td>
-<td>3825.00</td>
+<td>3765.00</td>
 <td>6996.9 億元</td>
-<td>1.37%</td>
+<td>1.36%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6690**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6690/)</td>
@@ -1070,11 +1070,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.1</td>
 <td>+10.70%</td>
 <td>-17.70%</td>
-<td>171.00</td>
+<td>174.00</td>
 <td>52.2 億元</td>
 <td>0.28%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6695**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6695/)</td>
@@ -1082,23 +1082,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>1.1</td>
 <td>-4.56%</td>
 <td>+3.63%</td>
-<td>42.40</td>
+<td>41.10</td>
 <td>39.6 億元</td>
-<td>2.73%</td>
+<td>2.68%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6720**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6720/)</td>
 <td>久昌</td>
-<td>1.9</td>
+<td>1.8</td>
 <td>-9.67%</td>
 <td>-12.63%</td>
-<td>173.00</td>
+<td>166.00</td>
 <td>50.2 億元</td>
-<td>3.76%</td>
+<td>3.67%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6751**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6751/)</td>
@@ -1106,23 +1106,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.1</td>
 <td>+2.08%</td>
 <td>+0.17%</td>
-<td>54.00</td>
+<td>53.20</td>
 <td>11.8 億元</td>
-<td>0.73%</td>
+<td>0.68%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6757**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6757/)</td>
 <td>台灣虎航</td>
-<td>2.2</td>
+<td>2.1</td>
 <td>-34.20%</td>
 <td>-6.83%</td>
-<td>53.10</td>
+<td>52.50</td>
 <td>241.2 億元</td>
-<td>0.89%</td>
+<td>0.87%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6763**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6763/)</td>
@@ -1130,11 +1130,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>1.0</td>
 <td>-9.90%</td>
 <td>-8.73%</td>
-<td>50.30</td>
+<td>48.80</td>
 <td>89.8 億元</td>
-<td>1.13%</td>
+<td>1.09%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6811**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6811/)</td>
@@ -1142,11 +1142,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.7</td>
 <td>-11.48%</td>
 <td>-5.60%</td>
-<td>197.00</td>
+<td>193.00</td>
 <td>80.0 億元</td>
-<td>0.91%</td>
+<td>0.85%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6850**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6850/)</td>
@@ -1154,11 +1154,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>+125.00%</td>
 <td>-71.58%</td>
-<td>43.20</td>
+<td>42.80</td>
 <td>14.2 億元</td>
 <td>0.03%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6902**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6902/)</td>
@@ -1166,11 +1166,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.3</td>
 <td>-16.61%</td>
 <td>-11.07%</td>
-<td>77.80</td>
+<td>76.90</td>
 <td>27.2 億元</td>
-<td>1.18%</td>
+<td>1.16%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6918**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6918/)</td>
@@ -1178,11 +1178,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>+49.86%</td>
 <td>+67.18%</td>
-<td>85.00</td>
+<td>84.50</td>
 <td>29.2 億元</td>
 <td>0.11%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6925**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6925/)</td>
@@ -1190,11 +1190,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.1</td>
 <td>+35.63%</td>
 <td>+31.98%</td>
-<td>73.60</td>
+<td>74.60</td>
 <td>14.9 億元</td>
-<td>0.68%</td>
+<td>0.69%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6962**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6962/)</td>
@@ -1202,11 +1202,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>2.4</td>
 <td>-18.52%</td>
 <td>-6.88%</td>
-<td>31.30</td>
+<td>30.75</td>
 <td>151.4 億元</td>
-<td>1.57%</td>
+<td>1.56%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6996**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6996/)</td>
@@ -1214,11 +1214,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.2</td>
 <td>-32.17%</td>
 <td>-40.35%</td>
-<td>172.00</td>
+<td>168.00</td>
 <td>70.6 億元</td>
-<td>0.26%</td>
+<td>0.29%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**6997**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-6997/)</td>
@@ -1226,23 +1226,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>-</td>
 <td>-40.00%</td>
-<td>82.50</td>
+<td>82.00</td>
 <td>18.1 億元</td>
-<td>0.06%</td>
+<td>0.04%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7547**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7547/)</td>
 <td>碩網</td>
-<td>0.1</td>
+<td>0.2</td>
 <td>+313.00%</td>
 <td>+169.06%</td>
-<td>63.00</td>
+<td>69.30</td>
 <td>23.2 億元</td>
-<td>0.46%</td>
-<td>🟡</td>
-<td>2026-03-18</td>
+<td>0.74%</td>
+<td>🟠</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7703**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7703/)</td>
@@ -1250,11 +1250,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.8</td>
 <td>-1.00%</td>
 <td>-3.75%</td>
-<td>206.00</td>
+<td>204.50</td>
 <td>71.0 億元</td>
 <td>1.15%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7704**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7704/)</td>
@@ -1262,11 +1262,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.1</td>
 <td>+29.84%</td>
 <td>+11.73%</td>
-<td>46.00</td>
+<td>45.35</td>
 <td>15.3 億元</td>
 <td>0.44%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7705**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7705/)</td>
@@ -1274,11 +1274,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>-10.74%</td>
 <td>+1.33%</td>
-<td>35.80</td>
+<td>35.45</td>
 <td>23.4 億元</td>
-<td>0.15%</td>
+<td>0.14%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7708**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7708/)</td>
@@ -1286,11 +1286,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>-70.00%</td>
 <td>-85.00%</td>
-<td>93.50</td>
+<td>92.20</td>
 <td>23.8 億元</td>
-<td>0.18%</td>
+<td>0.06%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7709**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7709/)</td>
@@ -1298,23 +1298,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.1</td>
 <td>+140.36%</td>
 <td>-1.94%</td>
-<td>57.80</td>
+<td>56.70</td>
 <td>22.2 億元</td>
-<td>0.38%</td>
+<td>0.40%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7712**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7712/)</td>
 <td>博盛半導體</td>
-<td>1.9</td>
+<td>1.8</td>
 <td>+294.09%</td>
 <td>+114.06%</td>
-<td>128.50</td>
+<td>123.00</td>
 <td>40.0 億元</td>
-<td>4.83%</td>
+<td>4.39%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7713**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7713/)</td>
@@ -1322,11 +1322,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>+250.00%</td>
 <td>-40.00%</td>
-<td>72.50</td>
+<td>72.30</td>
 <td>33.0 億元</td>
-<td>0.09%</td>
+<td>0.04%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7722**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7722/)</td>
@@ -1334,23 +1334,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>1.6</td>
 <td>-23.76%</td>
 <td>-12.87%</td>
-<td>346.00</td>
+<td>330.00</td>
 <td>224.4 億元</td>
-<td>0.69%</td>
+<td>0.72%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7728**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7728/)</td>
 <td>光焱科技</td>
-<td>4.5</td>
+<td>4.7</td>
 <td>-17.09%</td>
 <td>-14.54%</td>
-<td>695.00</td>
+<td>737.00</td>
 <td>102.1 億元</td>
-<td>4.40%</td>
+<td>4.58%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7732**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7732/)</td>
@@ -1358,23 +1358,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>+172.37%</td>
 <td>+215.43%</td>
-<td>36.00</td>
+<td>36.15</td>
 <td>23.4 億元</td>
 <td>0.04%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7734**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7734/)</td>
 <td>印能科技</td>
-<td>14.7</td>
+<td>14.4</td>
 <td>+52.66%</td>
 <td>-0.97%</td>
-<td>1900.00</td>
+<td>1815.00</td>
 <td>508.2 億元</td>
-<td>2.89%</td>
+<td>2.83%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7736**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7736/)</td>
@@ -1382,11 +1382,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>+76.84%</td>
 <td>+7.87%</td>
-<td>84.70</td>
+<td>82.90</td>
 <td>63.0 億元</td>
 <td>0.06%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7737**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7737/)</td>
@@ -1394,11 +1394,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>+800.00%</td>
 <td>-40.00%</td>
-<td>38.20</td>
+<td>38.00</td>
 <td>11.3 億元</td>
-<td>0.06%</td>
+<td>0.02%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7747**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7747/)</td>
@@ -1406,47 +1406,47 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>-57.14%</td>
 <td>-70.00%</td>
-<td>118.00</td>
+<td>121.00</td>
 <td>32.4 億元</td>
-<td>0.06%</td>
+<td>0.01%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7749**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7749/)</td>
 <td>意騰-KY</td>
-<td>2.3</td>
+<td>2.4</td>
 <td>+17.82%</td>
 <td>+11.81%</td>
-<td>435.00</td>
+<td>428.00</td>
 <td>199.0 億元</td>
-<td>1.18%</td>
+<td>1.22%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7765**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7765/)</td>
 <td>中華資安</td>
-<td>0.5</td>
+<td>1.5</td>
 <td>+244.44%</td>
 <td>-46.86%</td>
-<td>226.00</td>
+<td>228.50</td>
 <td>92.7 億元</td>
-<td>0.55%</td>
-<td>🟠</td>
-<td>2026-03-18</td>
+<td>1.63%</td>
+<td>🔴</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7769**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7769/)</td>
 <td>鴻勁</td>
-<td>289.1</td>
+<td>530.5</td>
 <td>-12.17%</td>
 <td>-71.64%</td>
-<td>4355.00</td>
+<td>4345.00</td>
 <td>7485.1 億元</td>
-<td>3.86%</td>
+<td>7.09%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7794**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7794/)</td>
@@ -1454,47 +1454,47 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>-</td>
 <td>-40.00%</td>
-<td>46.50</td>
+<td>46.00</td>
 <td>11.5 億元</td>
-<td>0.00%</td>
+<td>0.04%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**7805**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-7805/)</td>
 <td>威聯通</td>
-<td>4.1</td>
+<td>4.3</td>
 <td>-34.92%</td>
 <td>-49.80%</td>
-<td>685.00</td>
+<td>673.00</td>
 <td>217.0 億元</td>
-<td>1.90%</td>
+<td>1.97%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**8016**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8016/)</td>
 <td>矽創</td>
-<td>2.4</td>
+<td>2.5</td>
 <td>-7.57%</td>
 <td>-4.16%</td>
-<td>201.50</td>
+<td>199.00</td>
 <td>239.1 億元</td>
-<td>1.02%</td>
+<td>1.03%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**8045**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8045/)</td>
 <td>達運光電</td>
-<td>3.8</td>
+<td>3.7</td>
 <td>-5.51%</td>
 <td>-1.56%</td>
-<td>78.60</td>
+<td>76.30</td>
 <td>72.5 億元</td>
-<td>5.27%</td>
+<td>5.12%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**8272**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8272/)</td>
@@ -1502,23 +1502,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>-33.33%</td>
 <td>-65.71%</td>
-<td>75.70</td>
+<td>73.60</td>
 <td>14.4 億元</td>
 <td>0.07%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**8299**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8299/)</td>
 <td>群聯</td>
-<td>293.2</td>
+<td>296.8</td>
 <td>+1.17%</td>
 <td>+12.16%</td>
-<td>1975.00</td>
+<td>1960.00</td>
 <td>4324.9 億元</td>
-<td>6.78%</td>
+<td>6.86%</td>
 <td>🔴</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**8454**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-8454/)</td>
@@ -1526,23 +1526,23 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>1.6</td>
 <td>-7.05%</td>
 <td>-11.25%</td>
-<td>180.50</td>
+<td>177.00</td>
 <td>469.0 億元</td>
-<td>0.35%</td>
+<td>0.34%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**9914**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-9914/)</td>
 <td>美利達</td>
-<td>2.0</td>
+<td>1.9</td>
 <td>-27.01%</td>
 <td>-3.69%</td>
-<td>68.20</td>
+<td>67.10</td>
 <td>200.6 億元</td>
-<td>0.98%</td>
+<td>0.96%</td>
 <td>🟠</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**9917**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-9917/)</td>
@@ -1550,11 +1550,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>0.0</td>
 <td>-56.17%</td>
 <td>-53.23%</td>
-<td>114.50</td>
+<td>113.00</td>
 <td>509.9 億元</td>
 <td>0.01%</td>
 <td>🟢</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 <tr>
 <td markdown="span">[**9921**](../stage2-cleaning-margin_daily-report/stage2-cleaning-margin_daily-report-9921/)</td>
@@ -1562,11 +1562,11 @@ description: 融資餘額總覽 - 包含所有股票的融資餘額分析報告
 <td>1.2</td>
 <td>-14.19%</td>
 <td>-5.34%</td>
-<td>71.90</td>
+<td>70.10</td>
 <td>274.8 億元</td>
-<td>0.45%</td>
+<td>0.44%</td>
 <td>🟡</td>
-<td>2026-03-18</td>
+<td>2026-03-19</td>
 </tr>
 
 </tbody>
